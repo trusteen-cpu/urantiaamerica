@@ -1,0 +1,265 @@
+{
+ "g14.title": "As Personalidades do Universo Local",
+ "g14.intro": "O Documento 37 apresenta as personalidades de Nébadon situadas entre os Filhos de Deus criados e os espíritos ministradores. As principais entre elas são os Ajudantes do Universo, sete ordens que vão de Gabriel, o Brilhante Estrela Matutino, aos Mestres dos Mundos das Mansões, e que auxiliam na administração, na educação e no plano de ascensão do universo local. O documento apresenta em seguida as ordens de cidadania permanente encontradas em cada nível administrativo — os susátias de Sálvington, os univitátias de Edêntia, os Filhos Materiais de Jerusém e as criaturas intermediárias dos mundos evolucionários —, junto com os abandonteiros de Uversa. Termina com duas ordens singulares que trabalham nas esferas arquitetônicas, os espirongas e os espornágias. Catorze ordens aparecem neste capítulo; os Filhos Materiais e as criaturas intermediárias são tratados aqui de modo completo.",
+ "g14.s01.title": "Ajudantes do Universo",
+ "g14.s01.intro": "Os Ajudantes do Universo são sete ordens que auxiliam na administração do universo local e no plano de ascensão. Muitas ordens pertencentes a essa categoria permanecem não reveladas.",
+ "g14.s01.01": {
+  "name": "Brilhantes Estrelas Matutinos",
+  "aka": [
+   "Gabriel de Sálvington"
+  ],
+  "origin": "O Filho Criador e o Espírito Materno do universo local (o seu primeiro ato criador conjunto)",
+  "realm": "Sálvington, a sede-central do universo local (toda Nébadon)",
+  "number": "Um em cada universo local (Gabriel, em Nébadon)",
+  "roles": [
+   "Serve como executivo principal do universo local",
+   "Atua como representante pessoal do Filho Soberano",
+   "Atua como porta-voz do Espírito Criativo",
+   "Está presente sempre que o Filho e o Espírito deliberam sobre os procedimentos do universo"
+  ],
+  "quote": {
+   "cit": "37:1.9"
+  }
+ },
+ "g14.s01.02": {
+  "name": "Brilhantes Estrelas Vespertinos",
+  "aka": [
+   "Estrelas Vespertinos",
+   "superanjos"
+  ],
+  "origin": "Os membros criados foram planejados pelos Melquisedeques e trazidos à existência pelo Filho Criador e pelo Espírito Criativo; os membros ascendentes alcançaram esse status pelo serviço, muitos tendo começado como serafins",
+  "realm": "O sexto grupo de mundos de Sálvington e os seus quarenta e dois satélites; percorrem Nébadon, mas raramente deixam Orvônton",
+  "number": "13.641 em Nébadon (4.832 criados, 8.809 ascendentes)",
+  "roles": [
+   "Servem como oficiais de ligação de Gabriel",
+   "Representam Gabriel nos conclaves de Sálvington",
+   "Acompanham, aos pares, os Filhos Avonais de auto-outorga nas missões planetárias",
+   "Atuam como elos de ligação entre os mortais e os Filhos Instrutores da Trindade",
+   "Administram o sexto grupo de mundos de Sálvington"
+  ],
+  "members": [
+   {
+    "name": "Estrelas Vespertinos criados",
+    "note": "Chefiados por Gavália, o primogênito da ordem"
+   },
+   {
+    "name": "Estrelas Vespertinos ascendentes",
+    "note": "Galântia, o primeiro superanjo ascendente, mantém a sua sede em Jerusém"
+   }
+  ],
+  "quote": {
+   "cit": "37:2.1"
+  }
+ },
+ "g14.s01.03": {
+  "name": "Arcanjos",
+  "origin": "O Filho Criador e o Espírito Materno do Universo",
+  "realm": "O sétimo grupo de mundos de Sálvington; mantém-se em Urântia uma sede divisional",
+  "number": "Quase 800.000 em Nébadon",
+  "roles": [
+   "Dedicam-se à sobrevivência das criaturas e à ascensão mortal",
+   "Acompanham cada Filho de auto-outorga do Paraíso num corpo de cem",
+   "Proclamam a chamada da ressurreição no fim de uma dispensação",
+   "Preservam os registros da personalidade mortal nos seus mundos de registros"
+  ],
+  "quote": {
+   "cit": "37:3.1"
+  }
+ },
+ "g14.s01.04": {
+  "name": "Assistentes Mais Elevados",
+  "origin": "Seres voluntários de origem externa ao universo local (Perfeccionadores da Sabedoria, Conselheiros Divinos, Mensageiros Solitários, supernafins, tertiafins e outros)",
+  "realm": "O universo local e as constelações; sede geral no setor de Sálvington do União dos Dias",
+  "number": "Varia constantemente, mas sempre na casa dos muitos milhões",
+  "roles": [
+   "Servem como representantes ou observadores do universo central e dos superuniversos",
+   "Auxiliam as personalidades do Paraíso em Nébadon",
+   "Tratam de questões temporariamente subtraídas às personalidades nativas",
+   "Servem em qualquer fase de atividade — administrativa, executiva, educacional"
+  ],
+  "quote": {
+   "cit": "37:4.1"
+  }
+ },
+ "g14.s01.05": {
+  "name": "Altos Comissionados",
+  "aka": [
+   "comissionados da raça"
+  ],
+  "origin": "Mortais ascendentes fusionados ao Espírito que alcançaram o Corpo de Perfeição de Nébadon",
+  "realm": "Dos mundos habitados aos tribunais, às assembleias e às missões de todo o universo local",
+  "number": "Pouco mais de um bilhão e meio em Nébadon",
+  "roles": [
+   "Interpretam os pontos de vista das raças humanas como comissionados da raça",
+   "Buscam misericórdia e justiça para as raças mortais",
+   "Aconselham os magistrados que presidem a todos os tribunais",
+   "Estão agregados às missões dos Filhos de Deus"
+  ],
+  "quote": {
+   "cit": "37:5.1"
+  }
+ },
+ "g14.s01.06": {
+  "name": "Supervisores Celestes",
+  "origin": "Um corpo recrutado de voluntários, tirados de todos os tipos de indivíduos ligados à educação dos mortais ascendentes",
+  "realm": "Sede nos mundos dos Melquisedeques em Sálvington; percorrem o universo local",
+  "number": "Mais de três milhões em Nébadon",
+  "roles": [
+   "Ajudam a manter e aprimorar o sistema educacional de Nébadon",
+   "Percorrem o universo local como inspetores da técnica escolar",
+   "Servem como conselheiros educacionais de todo o reino"
+  ],
+  "quote": {
+   "cit": "37:6.1"
+  }
+ },
+ "g14.s01.07": {
+  "name": "Mestres dos Mundos das Mansões",
+  "origin": "Querubins e sanobins recrutados e glorificados que passaram pelo abraço do Espírito Materno do Universo",
+  "realm": "Dos mundos das mansões, passando pelas esferas do sistema e da constelação, até Sálvington",
+  "number": "Muito além da compreensão da mente mortal",
+  "roles": [
+   "Ensinam na maior parte dos empreendimentos educacionais da vida moroncial",
+   "Servem nas escolas sob comissão dos Melquisedeques",
+   "Guiam os ascendentes com experiência direta da vida mortal"
+  ],
+  "quote": {
+   "cit": "37:7.1"
+  }
+ },
+ "g14.s02.title": "Cidadãos Permanentes",
+ "g14.s02.intro": "Assim como os superuniversos e o universo central, o universo local tem as suas ordens de cidadania permanente. De modo geral, esses seres não ascendem nem descendem; permanecem como residentes em cada nível de administração.",
+ "g14.s02.01": {
+  "name": "Susátias",
+  "origin": "O Filho Criador e o Espírito Criativo",
+  "realm": "Sálvington, a sede-central do universo local",
+  "number": "Não revelado",
+  "roles": [
+   "Residem e atuam como cidadãos permanentes de Sálvington",
+   "Trabalham em estreita colaboração com os mortais fusionados ao Espírito"
+  ],
+  "quote": {
+   "cit": "37:9.7"
+  }
+ },
+ "g14.s02.02": {
+  "name": "Univitátias",
+  "origin": "O Filho Criador e o Espírito Criativo",
+  "realm": "Edêntia, a sede-central da constelação, e os seus 770 mundos associados",
+  "number": "Não revelado (atuam em setenta ordens de personalidade)",
+  "roles": [
+   "Formam a população permanente da sede-central da constelação",
+   "Presidem às escolas de socialização nos satélites de Edêntia",
+   "Formam o maior grupo entre os artesãos celestes de Nébadon"
+  ],
+  "quote": {
+   "cit": "43:7.1"
+  }
+ },
+ "g14.s02.03": {
+  "name": "Filhos Materiais",
+  "aka": [
+   "Filhos Materiais de Deus",
+   "Filhos e Filhas Materiais",
+   "Adãos e Evas",
+   "Filhos Adâmicos",
+   "elevadores biológicos"
+  ],
+  "origin": "Apenas o Filho Criador (um par original em cada sistema; depois o seu número aumenta pela reprodução)",
+  "realm": "As capitais dos sistemas locais (Jerusém, em Satânia); os mundos evolucionários, quando em missão planetária",
+  "number": "161.432.840 em Nébadon no último registro milenar, em constante aumento",
+  "roles": [
+   "Administram os assuntos de rotina como cidadãos permanentes da capital do sistema",
+   "Elevam biologicamente as raças evolucionárias como Adãos e Evas Planetários",
+   "Fundam num planeta a raça adâmica (violeta)",
+   "Estabelecem os Jardins do Éden como centros de cultura"
+  ],
+  "members": [
+   {
+    "name": "Filhos e Filhas Materiais da capital do sistema",
+    "note": "Cidadãos relativamente permanentes de uma capital de sistema como Jerusém"
+   },
+   {
+    "name": "Adãos e Evas Planetários",
+    "note": "Um par enviado a um mundo evolucionário como elevadores biológicos"
+   }
+  ],
+  "quote": {
+   "cit": "45:5.3"
+  }
+ },
+ "g14.s02.04": {
+  "name": "Criaturas Intermediárias",
+  "aka": [
+   "intermediários",
+   "Criaturas Intermediárias Unidas de Urântia"
+  ],
+  "origin": "Os intermediários primários procedem do corpo de assistentes mortais ascendentes do Príncipe Planetário; os secundários, dos Adãos e Evas ou da sua progênie imediata",
+  "realm": "A maioria dos mundos habitados; sempre presentes nos planetas decimais ou de vida experimental",
+  "number": "Primários, sempre 50.000; secundários, em média cerca de 50.000; 10.992 atualmente em Urântia",
+  "roles": [
+   "Proporcionam continuidade à administração planetária como cidadãos permanentes",
+   "Servem ao Príncipe Planetário como corpo de informação e animadores celestes",
+   "Cooperam com o regime adâmico para fazer avançar a civilização planetária",
+   "Atuam como historiadores planetários, concebendo espetáculos para a capital do sistema",
+   "Em Urântia, servem como elos de ligação com os corpos de reserva do destino"
+  ],
+  "members": [
+   {
+    "name": "Intermediários Primários",
+    "note": "Mais espirituais e mais semelhantes aos anjos; sempre cinquenta mil"
+   },
+   {
+    "name": "Intermediários Secundários",
+    "note": "Mais materiais e mais semelhantes aos humanos; de descendência adâmica"
+   }
+  ],
+  "quote": {
+   "cit": "37:9.11"
+  }
+ },
+ "g14.s02.05": {
+  "name": "Abandonteiros",
+  "origin": "Os agentes não revelados dos Anciães dos Dias e dos sete Espíritos Refletivos de Uversa",
+  "realm": "Uversa, a sede-central do superuniverso de Orvônton",
+  "number": "Não revelado",
+  "roles": [
+   "Cuidam continuamente das esferas-sede de Uversa",
+   "Administram os assuntos de rotina sob os mortais fusionados ao Filho",
+   "Destacam-se em habilidade artística e engenho coordenador"
+  ],
+  "quote": {
+   "cit": "37:9.12"
+  }
+ },
+ "g14.s03.title": "Outros Grupos do Universo Local",
+ "g14.s03.intro": "Duas ordens singulares trabalham extensamente nas 647.591 esferas arquitetônicas de Nébadon: uma é um grupo de ajudantes espirituais, a outra uma ordem animal sem personalidade.",
+ "g14.s03.01": {
+  "name": "Espirongas",
+  "origin": "O Brilhante Estrela Matutino e o Pai Melquisedeque",
+  "realm": "As esferas arquitetônicas do universo local, inclusive Jerusém e os mundos das mansões a partir do segundo",
+  "number": "Não revelado",
+  "roles": [
+   "Executam as tarefas espirituais de rotina de Nébadon",
+   "Ministram espiritualmente aos residentes e visitantes supramateriais",
+   "Servem como ajudantes intermediários entre o material e o espiritual"
+  ],
+  "quote": {
+   "cit": "37:10.2"
+  }
+ },
+ "g14.s03.02": {
+  "name": "Espornágias",
+  "origin": "Projetados na sua forma atual pelos Portadores da Vida (uma ordem animal; não são espíritos nem pessoas)",
+  "realm": "Os mundos-sede, de Jerusém a Sálvington, e os mundos das mansões",
+  "number": "Uma legião (número exato não revelado)",
+  "roles": [
+   "Cuidam das fases materiais dos mundos-sede e as cultivam",
+   "Trabalham como jardineiros paisagistas dos mundos-sede",
+   "Prestam ministério físico às personalidades que necessitam de serviços materiais"
+  ],
+  "quote": {
+   "cit": "37:10.3"
+  }
+ }
+}

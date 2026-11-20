@@ -1,0 +1,815 @@
+{
+ "g12.title": "Les personnalités du grand univers (les sept colonies de courtoisie)",
+ "g12.intro": "Les colonies de courtoisie sont sept groupes d’êtres qui séjournent comme hôtes sur les sphères architecturales, depuis les systèmes locaux jusqu’aux capitales des superunivers, pendant qu’ils accomplissent leurs propres missions et leurs tâches spéciales. Elles ne forment pas un ordre unique créé par une seule Déité ; chaque colonie rassemble des êtres d’origines multiples, et la plupart d’entre eux ne font pas organiquement partie du gouvernement du monde sur lequel ils résident. Ce sont les étudiants d’étoiles, les artisans célestes, les directeurs de la rétrospection, les instructeurs des écoles complémentaires, les divers corps de réserve, les visiteurs estudiantins et les pèlerins ascendants. Ce chapitre les passe en revue l’un après l’autre et, à la suite du fascicule 44, traite des artisans célestes selon leurs sept divisions d’activité.",
+ "g12.01": {
+  "name": "Étudiants d’étoiles",
+  "aka": [
+   "Astronomes célestes"
+  ],
+  "origin": "Un groupe recruté (tout être de n’importe quel monde peut y entrer, pourvu qu’il ait une vie continue et une connaissance suffisante des mondes de l’espace)",
+  "realm": "Uversa et les autres capitales des superunivers, les sièges des secteurs et les capitales architecturales des univers locaux et de leurs subdivisions",
+  "number": "Plus d’un million sur la seule Uversa",
+  "roles": [
+   "Observer et calculer les étoiles et l’espace",
+   "Étudier toutes les formes de matériaux spatiaux et de manifestations d’énergie",
+   "Travailler avec les Messagers Solitaires, les personnalités réflectives et les transformateurs d’énergie",
+   "Aider les conseillers des transports à établir les itinéraires",
+   "Séjourner comme hôtes à l’écart des affaires du superunivers, et servir au moins un millénaire une fois admis"
+  ],
+  "quote": {
+   "cit": "30:3.2"
+  }
+ },
+ "g12.s02.title": "Artisans célestes",
+ "g12.s02.intro": "Les artisans célestes sont les maitres artistes et artisans des royaumes morontiels et des royaumes spirituels inférieurs, un corps de personnalités composites qui ne sont pas créées comme telles, mais sélectionnées et recrutées. Leur corps enseignant originel de sept-mille instructeurs de Havona fut affecté par l’Esprit Infini en collaboration avec les Sept Maitres Esprits, et des élèves volontaires venus des mortels ascendants et de nombreux groupes célestes s’y sont joints depuis lors. Tous sont inscrits au siège du superunivers, mais ils sont commissionnés en sept divisions et dirigés par les superviseurs morontiels des capitales des univers locaux ; leur principal domaine d’activité est celui des constellations.",
+ "g12.s02.01": {
+  "name": "Musiciens célestes",
+  "origin": "Artisans célestes recrutés (instructeurs originels venus de Havona ; élèves venus des mortels ascendants et d’autres êtres célestes)",
+  "realm": "Les mondes morontiels et spirituels, en particulier les mondes qui entourent les sièges des constellations",
+  "number": "Non révélé (le corps enseignant originel comptait 1 000 instructeurs de Havona par division)",
+  "roles": [
+   "Produire des harmonies célestes en manipulant les forces spirituelles",
+   "Créer de la mélodie selon sept modes, depuis les sons et la lumière spirituels jusqu’aux symphonies colorées",
+   "Utiliser plus de cent-mille modes de manipulation du son, de la couleur et de l’énergie",
+   "Capter les mélodies d’autres sphères sur les circuits de télédiffusion de l’univers"
+  ],
+  "quote": {
+   "cit": "44:1.2"
+  }
+ },
+ "g12.s02.02": {
+  "name": "Reproducteurs célestes",
+  "origin": "Artisans célestes recrutés",
+  "realm": "Les mondes morontiels et spirituels (conclaves morontiels et assemblées spirituelles)",
+  "number": "Non révélé (sept groupes)",
+  "roles": [
+   "Reproduire au niveau morontiel des scènes et des évènements passés et présents",
+   "Associer la récapitulation de la mémoire au repos du mental, aux côtés des directeurs de la rétrospection",
+   "Monter de vastes spectacles dramatiques qui dépeignent le but des grandes assemblées",
+   "Servir l’éducation morontielle des éducateurs intellectuels et des ministres de transition"
+  ],
+  "members": [
+   {
+    "name": "Chanteurs",
+    "note": "Reprennent les harmonies du passé et interprètent les mélodies du présent"
+   },
+   {
+    "name": "Coloristes",
+    "note": "Conservent les scènes éphémères en lumière et en ombre"
+   },
+   {
+    "name": "Cinéastes de lumière",
+    "note": "Réalisent la conservation de phénomènes semi-spirituels"
+   },
+   {
+    "name": "Dramaturges de l’histoire",
+    "note": "Reproduisent de façon dramatique les évènements décisifs de l’histoire de l’univers"
+   },
+   {
+    "name": "Artistes prophétiques",
+    "note": "Projettent dans l’avenir les significations de l’histoire"
+   },
+   {
+    "name": "Conteurs d’histoires vivantes",
+    "note": "Perpétuent le sens de l’expérience de la vie"
+   },
+   {
+    "name": "Interprètes de l’administration",
+    "note": "Dramaturges célestes de la souveraineté et de l’administration"
+   }
+  ],
+  "quote": {
+   "cit": "44:2.11"
+  }
+ },
+ "g12.s02.03": {
+  "name": "Bâtisseurs divins",
+  "origin": "Artisans célestes recrutés",
+  "realm": "Les demeures, les temples et les lieux de réunion des mondes morontiels et spirituels",
+  "number": "Non révélé (sept groupes)",
+  "roles": [
+   "Construire et remanier les demeures morontielles des individus et des groupes de travail",
+   "Construire les ateliers et les édifices destinés au repos et aux jeux",
+   "Construire les temples d’adoration, les écoles et les salles de réunions publiques",
+   "Coordonner la vie morontielle avec les Superviseurs de Pouvoir Morontiel"
+  ],
+  "members": [
+   {
+    "name": "Modélistes et bâtisseurs de maisons",
+    "note": "Construisent et remanient les demeures individuelles et collectives"
+   },
+   {
+    "name": "Bâtisseurs d’édifices professionnels",
+    "note": "Dessinent et assemblent les ateliers des travailleurs ordinaires"
+   },
+   {
+    "name": "Bâtisseurs d’édifices récréatifs",
+    "note": "Fournissent les édifices destinés au repos et à la récréation"
+   },
+   {
+    "name": "Bâtisseurs de temples d’adoration",
+    "note": "Architectes des temples spirituels et morontiels"
+   },
+   {
+    "name": "Bâtisseurs d’écoles",
+    "note": "Construisent les quartiers généraux de l’instruction morontielle et spirituelle"
+   },
+   {
+    "name": "Planificateurs de la morontia",
+    "note": "Bâtissent pour l’association coordonnée de toutes les personnalités d’une sphère"
+   },
+   {
+    "name": "Bâtisseurs d’édifices publics",
+    "note": "Établissent les plans et construisent les lieux de réunion commune"
+   }
+  ],
+  "quote": {
+   "cit": "44:3.1"
+  }
+ },
+ "g12.s02.04": {
+  "name": "Enregistreurs de pensée",
+  "origin": "Artisans célestes recrutés",
+  "realm": "Les mondes morontiels et spirituels, les circuits de télédiffusion de l’univers et les salles d’archives morontielles",
+  "number": "Non révélé (sept groupes)",
+  "roles": [
+   "Préserver et reproduire la pensée supérieure des royaumes",
+   "Enregistrer les idées nobles dans la langue d’Uversa",
+   "Superviser, rédiger et traduire les télédiffusions du Paradis et des univers",
+   "Conserver dans les salles d’archives les scènes essentielles des mondes de transition"
+  ],
+  "members": [
+   {
+    "name": "Conservateurs de pensée",
+    "note": "Conservent la pensée supérieure des royaumes"
+   },
+   {
+    "name": "Enregistreurs de concept",
+    "note": "Préservent les images conceptuelles et les modèles d’idées"
+   },
+   {
+    "name": "Enregistreurs idéographiques",
+    "note": "Améliorent mille fois l’enregistrement des concepts au moyen d’idéogrammes"
+   },
+   {
+    "name": "Promoteurs de l’art oratoire",
+    "note": "Conservent la pensée pour sa reproduction par l’art oratoire"
+   },
+   {
+    "name": "Directeurs de télédiffusion",
+    "note": "Censeurs, rédacteurs et coordinateurs des télédiffusions de l’univers"
+   },
+   {
+    "name": "Enregistreurs de rythmes",
+    "note": "Artisans que les Urantiens appelleraient des poètes"
+   },
+   {
+    "name": "Enregistreurs de morontia",
+    "note": "Photographes de groupe des mondes de transition"
+   }
+  ],
+  "quote": {
+   "cit": "44:4.1"
+  }
+ },
+ "g12.s02.05": {
+  "name": "Manipulateurs d’énergie",
+  "origin": "Artisans célestes recrutés",
+  "realm": "Les mondes de transition et toutes les planètes habitées (Urantia compte 70 conseillers des transports et 12 spécialistes des communications)",
+  "number": "Non révélé (sept groupes)",
+  "roles": [
+   "Travailler avec l’énergie physique, mentale et spirituelle",
+   "Assister les Superviseurs de Pouvoir Morontiel",
+   "Conseiller les séraphins transporteurs sur les itinéraires et le trafic",
+   "Assurer les communications interplanétaires et interuniverselles",
+   "Enseigner le repos divin et l’absorption de l’énergie spirituelle"
+  ],
+  "members": [
+   {
+    "name": "Manipulateurs d’énergie physique",
+    "note": "Servent avec les directeurs de pouvoir dans le domaine de l’énergie physique"
+   },
+   {
+    "name": "Manipulateurs d’énergie mentale",
+    "note": "Experts de l’intercommunication entre les êtres morontiels"
+   },
+   {
+    "name": "Manipulateurs d’énergie spirituelle",
+    "note": "Améliorent les techniques d’absorption de l’énergie spirituelle"
+   },
+   {
+    "name": "Manipulateurs composites",
+    "note": "Unissent les trois énergies, en cherchant la présence du Suprême"
+   },
+   {
+    "name": "Conseillers des transports",
+    "note": "Superviseurs du trafic des sphères (70 sur Urantia)"
+   },
+   {
+    "name": "Spécialistes des communications",
+    "note": "Techniciens des messages spatiaux (12 sur Urantia)"
+   },
+   {
+    "name": "Professeurs de repos",
+    "note": "Enseignent la technique du repos divin"
+   }
+  ],
+  "quote": {
+   "cit": "44:5.1"
+  }
+ },
+ "g12.s02.06": {
+  "name": "Modèlistes et embellisseurs",
+  "origin": "Artisans célestes recrutés",
+  "realm": "Les mondes morontiels et spirituels",
+  "number": "Non révélé (sept catégories majeures, plus de mille subdivisions)",
+  "roles": [
+   "Embellir les mondes morontiels et spirituels",
+   "Concevoir la couleur, le son, l’émotion, l’odeur et le gout",
+   "Disposer des êtres divers en hymnes de gloire",
+   "Apporter la touche finale à l’ensemble morontiel"
+  ],
+  "members": [
+   {
+    "name": "Artisans coloristes",
+    "note": "Font parler les dix-mille tons colorés de la réverbération spirituelle"
+   },
+   {
+    "name": "Modèlistes de sons",
+    "note": "Décrivent les ondes spirituelles sous la forme de ce que les mortels appelleraient des sons"
+   },
+   {
+    "name": "Modèlistes d’émotions",
+    "note": "Conservent les sentiments de la morontia et les émotions de la divinité"
+   },
+   {
+    "name": "Artistes de l’odorat",
+    "note": "Créent des symphonies d’odeurs pour les enfants de lumière"
+   },
+   {
+    "name": "Embellisseurs de présence",
+    "note": "Mettent en scène les relations en disposant les êtres"
+   },
+   {
+    "name": "Modèlistes du gout",
+    "note": "Améliorent le gout morontiel"
+   },
+   {
+    "name": "Synthétiseurs morontiels",
+    "note": "Maitres artisans qui apportent les touches culminantes"
+   }
+  ],
+  "quote": {
+   "cit": "44:6.2"
+  }
+ },
+ "g12.s02.07": {
+  "name": "Ouvriers d’harmonie",
+  "origin": "Artisans célestes recrutés",
+  "realm": "Le monde de l’esprit",
+  "number": "Non révélé",
+  "roles": [
+   "Manipuler les forces et les énergies spécialisées présentes dans le monde de l’esprit",
+   "Organiser ces forces et ces énergies",
+   "Ne s’intéressent ni à la musique, ni à la peinture, ni à rien de semblable"
+  ],
+  "quote": {
+   "cit": "44:7.1"
+  }
+ },
+ "g12.03": {
+  "name": "Directeurs de la rétrospection",
+  "origin": "Non pas un groupe créé, mais un corps recruté de volontaires (depuis les natifs de Havona, en passant par les armées de messagers et les esprits tutélaires, jusqu’aux progresseurs morontiels ; les mortels morontiels ascendants prédominent)",
+  "realm": "Principalement les capitales des systèmes locaux (sièges de groupe sur chaque monde des maisons, une grande salle d’assemblée sur Jérusem)",
+  "number": "Non révélé",
+  "roles": [
+   "Favoriser la détente, l’humour et la rétrospection des souvenirs passés",
+   "Soutenir les Compagnons de la Morontia en tant que parrains des jeux",
+   "Diriger les divertissements, la récréation spirituelle et les distractions morontielles",
+   "Aider les ascendeurs à se socialiser par les jeux de groupe"
+  ],
+  "quote": {
+   "cit": "48:4.10"
+  }
+ },
+ "g12.04": {
+  "name": "Instructeurs des écoles complémentaires",
+  "origin": "Résidents avancés du monde résidentiel immédiatement supérieur de la carrière ascendante",
+  "realm": "Chaque monde résidentiel de la carrière ascendante (écoles préparatoires sur le monde immédiatement inférieur)",
+  "number": "Non révélé",
+  "roles": [
+   "Instruire à l’avance les résidents du monde immédiatement inférieur",
+   "Les préparer au monde suivant de leur ascension",
+   "Transmettre les vérités et les expériences nouvelles dès qu’elles sont acquises"
+  ],
+  "quote": {
+   "cit": "30:3.8"
+  }
+ },
+ "g12.05": {
+  "name": "Divers corps de réserve",
+  "origin": "Des êtres de nombreux ordres (réserves qui ne sont pas sous la supervision immédiate du gouvernement local)",
+  "realm": "Uversa (soixante-dix divisions primaires), Salvington et d’autres capitales d’univers",
+  "number": "Non révélé (soixante-dix divisions primaires sur Uversa)",
+  "roles": [
+   "Se tenir mobilisés en vastes réserves sur les mondes-sièges",
+   "Partir en service actif sur réquisition de leurs directeurs de groupe",
+   "Offrir une éducation libérale à ceux qui passent un temps avec eux"
+  ],
+  "quote": {
+   "cit": "30:3.10"
+  }
+ },
+ "g12.06": {
+  "name": "Visiteurs estudiantins",
+  "origin": "Presque toutes les classes d’êtres de l’univers, sauf les personnalités Créatrices (les mortels morontiels seulement à l’intérieur de leur propre univers local)",
+  "realm": "Les divers mondes-sièges (une colonie sur Uversa ; une station d’accueil des visiteurs estudiantins sur Jérusem)",
+  "number": "Plus d’un milliard sur la seule Uversa",
+  "roles": [
+   "Visiter les mondes-sièges en observateurs, en élèves échangés et en aides d’étudiants",
+   "Séjourner d’un jour à un an, selon leur mission",
+   "Environ la moitié sont de passage en route vers d’autres destinations",
+   "Apprendre à connaitre l’univers par les voyages et l’observation"
+  ],
+  "quote": {
+   "cit": "30:3.11"
+  }
+ },
+ "g12.07": {
+  "name": "Pèlerins ascendants",
+  "aka": [
+   "Mortels ascendants"
+  ],
+  "origin": "Les mortels évolutionnaires et leurs associés ascendants (y compris les créatures médianes glorifiées)",
+  "realm": "Les diverses sphères-sièges des univers locaux et des superunivers",
+  "number": "Non révélé (en perpétuel changement)",
+  "roles": [
+   "Assumer des services liés à leur progression vers le Paradis",
+   "Se gouverner en grande partie eux-mêmes en tant que colonie",
+   "Servir les corps célestes comme aides, étudiants, observateurs et éducateurs",
+   "Tendre la main pour aider les compagnons qui les suivent"
+  ],
+  "quote": {
+   "cit": "30:3.13"
+  }
+ },
+ "g13.title": "Le Corps de la Finalité",
+ "g13.intro": "Le Corps de la Finalité est la destination actuellement connue des mortels ascendants du temps fusionnés avec leur Ajusteur : ceux qui atteignent le Paradis prêtent le serment trinitaire d’éternité et y sont enrôlés. Le corps primaire, ou corps des mortels, se compose de six groupes — natifs de Havona, Messagers de Gravité, mortels glorifiés, séraphins adoptés, Fils Matériels glorifiés et créatures médianes glorifiées —, tandis que la seule place restante dans chaque compagnie de mille est occupée par le chef des Évanges de Lumière attachés. Les finalitaires forment un corps qui se gouverne lui-même et qui retourne maintenant servir dans les univers du temps, mais Uversa conjecture que leur destinée future se situe dans les univers de l’espace extérieur. Ce chapitre traite des sept membres du corps des mortels, puis des Transcendantaux du Paradis, dont le chef fait prêter le serment finalitaire, et de leur corps gouvernant, les Architectes du Maitre Univers.",
+ "g13.s01.title": "Le Corps primaire de la Finalité",
+ "g13.s01.intro": "Le Corps primaire de la Finalité, ou corps des mortels, est le premier corps finalitaire, rassemblé au Paradis à partir des êtres ascendants du temps et de l’espace. Il est mobilisé en compagnies de mille, dont environ 990 sont habituellement des mortels ascendants et des séraphins adoptés, les dix places restantes revenant aux autres membres. Le corps choisit ses propres chefs et ne jure allégeance qu’à la Trinité du Paradis, et Grandfanda, le premier mortel ascendant, préside comme chef paradisiaque de tous les finalitaires.",
+ "g13.s01.01": {
+  "name": "Natifs de Havona",
+  "origin": "Création directe et divine de l’univers central (ils se portent volontaires pour le corps des finalitaires)",
+  "realm": "Issus de l’univers central ; ils vont partout où va la compagnie finalitaire à laquelle ils sont affectés",
+  "number": "Un par compagnie (un sur mille) ; des millions et des millions sur la liste d’attente",
+  "roles": [
+   "Apporter au corps le point de vue d’un être né dans la perfection",
+   "Prêter le même serment de finalité et appartenir au corps pour toujours",
+   "Suivre avec enthousiasme leur compagnie dans son nouveau travail",
+   "Entrer dans deux autres corps finalitaires dans la même proportion"
+  ],
+  "quote": {
+   "cit": "31:1.1"
+  }
+ },
+ "g13.s01.02": {
+  "name": "Messagers de Gravité",
+  "origin": "Divinington (Ajusteurs modifiés et personnalisés ; une personnalisation directe d’un fragment du Père Universel)",
+  "realm": "Attachés aux compagnies finalitaires, transcendant le temps et l’espace (sous la juridiction exclusive de Grandfanda)",
+  "number": "Un chef enrôlé dans chaque compagnie (avec un état-major permanent de 999 compagnons et des réserves illimitées)",
+  "roles": [
+   "Servir de corps de messagers personnalisés sous le commandement des finalitaires",
+   "Traverser l’espace en utilisant les énergies, les circuits et même la gravité",
+   "Ont un chef enrôlé dans le corps pour chaque compagnie",
+   "Partager une profonde affection avec les mortels glorifiés"
+  ],
+  "quote": {
+   "cit": "31:2.1"
+  }
+ },
+ "g13.s01.03": {
+  "name": "Mortels glorifiés",
+  "aka": [
+   "Mortels ascendants fusionnés avec leur Ajusteur",
+   "Mortels finalitaires"
+  ],
+  "origin": "Mortels évolutionnaires fusionnés avec leur Ajusteur de Pensée qui ont atteint le Paradis (seuls ceux qui ont fusionné avec le Père sont enrôlés)",
+  "realm": "Résidents du Paradis ; servent dans les univers du temps et sur les mondes ancrés dans la lumière et la vie",
+  "number": "Non révélé (le gros du corps ; avec les séraphins adoptés, habituellement 990 par compagnie)",
+  "roles": [
+   "Composer le gros du Corps primaire de la Finalité",
+   "Servir temporairement dans le Corps de Lumière et de Vie",
+   "Aider à l’administration des univers locaux et des superunivers",
+   "Attendre, en tant qu’esprits du sixième stade, le septième stade encore à venir"
+  ],
+  "quote": {
+   "cit": "31:3.3"
+  }
+ },
+ "g13.s01.04": {
+  "name": "Séraphins adoptés",
+  "origin": "Gardiens séraphiques des mortels (gardiens de la destinée) qui s’élèvent avec leurs pupilles et fusionnent avec le Père",
+  "realm": "Le Corps primaire de la Finalité et divers corps finalitaires non mortels",
+  "number": "Non révélé (de loin moins nombreux que les mortels)",
+  "roles": [
+   "Parcourir la carrière ascendante avec leurs pupilles humains",
+   "Prêter le serment finalitaire en même temps que leurs sujets",
+   "Partager pour toujours la destinée de leurs associés mortels",
+   "Sont aussi attachés à divers corps finalitaires non mortels"
+  ],
+  "quote": {
+   "cit": "31:4.1"
+  }
+ },
+ "g13.s01.05": {
+  "name": "Fils Matériels glorifiés",
+  "origin": "Fils Matériels — citoyens adamiques des systèmes ou Adams et Èves Planétaires — qui reçoivent des Ajusteurs et prennent le chemin ascendant",
+  "realm": "Les compagnies finalitaires au Paradis (absents de nombreuses compagnies)",
+  "number": "Non révélé",
+  "roles": [
+   "Ajouter un grand potentiel aux possibilités de service élevé d’une compagnie",
+   "Sont invariablement choisis comme chefs de la compagnie",
+   "Agissent habituellement conjointement, comme une seule personnalité, lorsque les deux membres du couple sont présents",
+   "Réussissent bien mieux que les mortels dans l’aventure de la trinitisation"
+  ],
+  "quote": {
+   "cit": "31:5.3"
+  }
+ },
+ "g13.s01.06": {
+  "name": "Créatures médianes glorifiées",
+  "origin": "Créatures médianes des planètes évolutionnaires libérées de leur citoyenneté permanente pour s’élever (tous les médians secondaires finissent par fusionner avec leur Ajusteur)",
+  "realm": "Les compagnies finalitaires au Paradis",
+  "number": "Non révélé (une dans de nombreuses compagnies)",
+  "roles": [
+   "S’élever au Paradis après que leur planète a été ancrée dans la lumière et la vie",
+   "Traverser les mondes morontiels, le superunivers et Havona avec les mortels",
+   "Rejoindre le corps des mortels lorsque, en tant que médians secondaires, elles fusionnent avec leur Ajusteur",
+   "Occuper une place dans de nombreuses compagnies finalitaires"
+  ],
+  "quote": {
+   "cit": "31:6.2"
+  }
+ },
+ "g13.s01.07": {
+  "name": "Évanges de Lumière",
+  "origin": "Personnalités célestes d’origines multiples (Messagers Solitaires, supernaphins, seconaphins, Citoyens du Paradis, leur progéniture trinitisée et d’autres)",
+  "realm": "Les compagnies finalitaires lors de missions temporaires",
+  "number": "Non révélé (leur chef occupe la place vacante unique de chaque compagnie)",
+  "roles": [
+   "Aider à accomplir les missions temporaires des finalitaires",
+   "Leur chef occupe temporairement la place vacante d’une compagnie",
+   "Ne prêtent pas le serment finalitaire et ne sont pas attachés en permanence",
+   "Reprendre leur statut antérieur à la fin de leur rattachement"
+  ],
+  "quote": {
+   "cit": "31:7.2"
+  }
+ },
+ "g13.s02.title": "Transcendantaux du Paradis",
+ "g13.s02.intro": "Les Transcendantaux sont des êtres absonites qui ne sont ni des créateurs ni des créatures ; ils s’extériorisent simplement. Ils vivent dans une vaste zone à l’ouest du Paradis et s’occupent de la superadministration du maitre univers. Ils n’ont rien à voir avec l’ascension des mortels vers Havona ; pourtant les mortels finalitaires fraternisent avec eux au Paradis, et c’est le chef des Transcendantaux qui fait prêter le serment trinitaire d’éternité à chaque nouveau groupe finalitaire. Cette section traite des Transcendantaux dans leur ensemble et de leur corps gouvernant, les Architectes du Maitre Univers.",
+ "g13.s02.01": {
+  "name": "Transcendantaux",
+  "aka": [
+   "Êtres transcendantaux extériorisés"
+  ],
+  "origin": "Extériorisés, non créés (l’Absolu de Déité a peut-être joué un rôle dans leur origine ; pas entièrement révélé)",
+  "realm": "Une vaste zone à l’ouest du Paradis, qui leur est exclusivement réservée",
+  "number": "Plus de mille groupes (douze grandes divisions de mille groupes de travail majeurs, de sept classes chacun)",
+  "roles": [
+   "S’occuper de la superadministration des affaires du maitre univers",
+   "Sont soumis à Dieu l’Ultime et supervisés par la Trinité",
+   "Fraterniser avec les finalitaires au Paradis",
+   "Faire prêter aux finalitaires, par leur chef, le serment trinitaire d’éternité"
+  ],
+  "members": [
+   {
+    "name": "Architectes du Maitre Univers",
+    "note": "Le corps gouvernant des Transcendantaux"
+   },
+   {
+    "name": "Archivistes transcendantaux",
+    "note": "Archivistes sans forme discernable"
+   },
+   {
+    "name": "Autres Transcendantaux",
+    "note": "Non révélé"
+   }
+  ],
+  "quote": {
+   "cit": "31:8.3"
+  }
+ },
+ "g13.s02.02": {
+  "name": "Architectes du Maitre Univers",
+  "aka": [
+   "Maitres Architectes"
+  ],
+  "origin": "Êtres absonites extériorisés (leur origine, leur nature et leur destinée ne peuvent sans doute pas être pleinement révélées)",
+  "realm": "Le Paradis, Havona, les sept superunivers et les quatre niveaux d’espace extérieur (les sept niveaux de l’absonite)",
+  "number": "28 011",
+  "roles": [
+   "Former le corps gouvernant des Transcendantaux du Paradis",
+   "Superviser, par l’Architecte doyen, les sept Corps de la Finalité",
+   "Donner leur approbation technique aux emplacements d’univers locaux des Fils Créateurs",
+   "On pense qu’ils dressent les plans des univers de l’espace extérieur",
+   "Prendre comme pupilles la progéniture trinitisée des finalitaires et des Citoyens du Paradis"
+  ],
+  "members": [
+   {
+    "name": "Le niveau du Paradis",
+    "note": "1, l’Architecte doyen, coordinateur du Paradis et de ses 21 mondes"
+   },
+   {
+    "name": "Le niveau de Havona",
+    "note": "3, qui coordonnent le milliard de sphères de l’univers central"
+   },
+   {
+    "name": "Le niveau des superunivers",
+    "note": "7, les supercoordinateurs du grand univers"
+   },
+   {
+    "name": "Le niveau d’espace primaire",
+    "note": "70, pour le premier univers d’espace extérieur (conjecture)"
+   },
+   {
+    "name": "Le niveau d’espace secondaire",
+    "note": "490, pour le deuxième univers d’espace extérieur (conjecture)"
+   },
+   {
+    "name": "Le niveau d’espace tertiaire",
+    "note": "3 430, pour le troisième univers d’espace extérieur (conjecture)"
+   },
+   {
+    "name": "Le niveau d’espace quaternaire",
+    "note": "24 010, pour le quatrième univers d’espace extérieur (conjecture)"
+   }
+  ],
+  "quote": {
+   "cit": "31:9.1"
+  }
+ },
+ "g14.title": "Les personnalités de l’univers local",
+ "g14.intro": "Le fascicule 37 passe en revue les personnalités de Nébadon qui se situent entre les Fils de Dieu créés et les esprits tutélaires. Au premier rang figurent les Aides de l’Univers, sept ordres allant de Gabriel, la Radieuse Étoile du Matin, jusqu’aux Éducateurs des Mondes des Maisons, qui assistent l’administration, l’éducation et le plan d’ascension de l’univers local. Le fascicule présente ensuite les ordres de citoyenneté permanente que l’on trouve à chaque niveau d’administration — les susatias de Salvington, les univitatias d’Édentia, les Fils Matériels de Jérusem et les créatures médianes des mondes évolutionnaires —, ainsi que les abandontaires d’Uversa. Il se termine par deux ordres peu communs qui travaillent sur les sphères architecturales, les spirongas et les spornagias. Quatorze ordres apparaissent dans ce chapitre ; les Fils Matériels et les créatures médianes y sont traités en détail.",
+ "g14.s01.title": "Aides de l’Univers",
+ "g14.s01.intro": "Les Aides de l’Univers sont sept ordres qui assistent l’administration de l’univers local et le plan d’ascension. De nombreux ordres appartenant à cette catégorie restent non révélés.",
+ "g14.s01.01": {
+  "name": "Radieuses Étoiles du Matin",
+  "aka": [
+   "Gabriel de Salvington"
+  ],
+  "origin": "Le Fils Créateur et l’Esprit-Mère de l’univers local (leur premier acte créatif conjoint)",
+  "realm": "Salvington, siège de l’univers local (tout Nébadon)",
+  "number": "Une dans chaque univers local (Gabriel dans Nébadon)",
+  "roles": [
+   "Sert de chef exécutif de l’univers local",
+   "Agit comme représentant personnel du Fils Souverain",
+   "Agit comme porte-parole de l’Esprit Créatif",
+   "Est présent chaque fois que le Fils et l’Esprit se consultent sur les procédures de l’univers"
+  ],
+  "quote": {
+   "cit": "37:1.9"
+  }
+ },
+ "g14.s01.02": {
+  "name": "Brillantes Étoiles du Soir",
+  "aka": [
+   "Étoiles du Soir",
+   "superanges"
+  ],
+  "origin": "Les membres créés furent conçus par les Melchizédeks et amenés à l’existence par le Fils Créateur et l’Esprit Créatif ; les membres ascendants ont atteint ce statut par le service, beaucoup ayant commencé comme séraphins",
+  "realm": "Le sixième groupe des mondes de Salvington et leurs quarante-deux satellites ; elles parcourent Nébadon, mais quittent rarement Orvonton",
+  "number": "13 641 dans Nébadon (4 832 créées, 8 809 ascendantes)",
+  "roles": [
+   "Servir d’agents de liaison de Gabriel",
+   "Représenter Gabriel aux conclaves de Salvington",
+   "Accompagner par paires les Fils Avonals d’effusion dans leurs missions planétaires",
+   "Assurer la liaison entre les mortels et les Fils Instructeurs de la Trinité",
+   "Administrer le sixième groupe des mondes de Salvington"
+  ],
+  "members": [
+   {
+    "name": "Étoiles du Soir créées",
+    "note": "Dirigées par Gavalia, la première-née de l’ordre"
+   },
+   {
+    "name": "Étoiles du Soir ascendantes",
+    "note": "Galantia, le premier superange ascendant, a son siège sur Jérusem"
+   }
+  ],
+  "quote": {
+   "cit": "37:2.1"
+  }
+ },
+ "g14.s01.03": {
+  "name": "Archanges",
+  "origin": "Le Fils Créateur et l’Esprit-Mère de l’Univers",
+  "realm": "Le septième groupe des mondes de Salvington ; un quartier général divisionnaire est maintenu sur Urantia",
+  "number": "Près de 800 000 dans Nébadon",
+  "roles": [
+   "Se consacrer à la survie des créatures et à l’ascension des mortels",
+   "Accompagner chaque Fils d’effusion du Paradis en un corps de cent",
+   "Proclamer l’appel nominal de la résurrection à la fin d’une dispensation",
+   "Conserver les archives des personnalités mortelles sur leurs mondes d’archives"
+  ],
+  "quote": {
+   "cit": "37:3.1"
+  }
+ },
+ "g14.s01.04": {
+  "name": "Très Hauts Assistants",
+  "origin": "Êtres volontaires dont l’origine est extérieure à l’univers local (Perfecteurs de Sagesse, Conseillers Divins, Messagers Solitaires, supernaphins, tertiaphins et autres)",
+  "realm": "L’univers local et les constellations ; quartier général dans le secteur de Salvington réservé à l’Union des Jours",
+  "number": "Varie constamment, mais s’élève toujours à de nombreux millions",
+  "roles": [
+   "Servir de représentants ou d’observateurs de l’univers central et des superunivers",
+   "Assister les personnalités paradisiaques de Nébadon",
+   "Traiter les questions temporairement soustraites aux personnalités natives",
+   "Servir dans n’importe quelle phase d’activité — administrative, exécutive, éducative"
+  ],
+  "quote": {
+   "cit": "37:4.1"
+  }
+ },
+ "g14.s01.05": {
+  "name": "Hauts Commissaires",
+  "aka": [
+   "commissaires raciaux"
+  ],
+  "origin": "Mortels ascendants fusionnés avec l’Esprit qui ont atteint le Corps de Perfection de Nébadon",
+  "realm": "Depuis les mondes habités jusqu’aux tribunaux, aux assemblées et aux missions de tout l’univers local",
+  "number": "Un peu plus d’un milliard et demi dans Nébadon",
+  "roles": [
+   "Interpréter, en tant que commissaires raciaux, les points de vue des races humaines",
+   "Rechercher la miséricorde et la justice pour les races mortelles",
+   "Conseiller les magistrats qui président tous les tribunaux",
+   "Sont attachés aux missions des Fils de Dieu"
+  ],
+  "quote": {
+   "cit": "37:5.1"
+  }
+ },
+ "g14.s01.06": {
+  "name": "Surveillants Célestes",
+  "origin": "Un corps recruté de volontaires issus de tous les types d’individus en contact avec l’éducation des mortels ascendants",
+  "realm": "Quartier général sur les mondes Melchizédeks de Salvington ; ils parcourent l’univers local",
+  "number": "Plus de trois-millions dans Nébadon",
+  "roles": [
+   "Aider à entretenir et à développer le système éducatif de Nébadon",
+   "Parcourir l’univers local en tant qu’inspecteurs des techniques scolaires",
+   "Servir de conseillers pédagogiques pour tout le royaume"
+  ],
+  "quote": {
+   "cit": "37:6.1"
+  }
+ },
+ "g14.s01.07": {
+  "name": "Éducateurs des Mondes des Maisons",
+  "origin": "Chérubins et sanobins recrutés et glorifiés qui ont passé par l’embrassement de l’Esprit-Mère de l’Univers",
+  "realm": "Depuis les mondes des maisons, à travers les sphères des systèmes et des constellations, jusqu’à Salvington",
+  "number": "Dépasse complètement la compréhension du mental des mortels",
+  "roles": [
+   "Enseigner dans la plupart des entreprises éducatives de la vie morontielle",
+   "Servir dans les écoles sous commission des Melchizédeks",
+   "Guider les ascendeurs grâce à leur expérience directe de la vie mortelle"
+  ],
+  "quote": {
+   "cit": "37:7.1"
+  }
+ },
+ "g14.s02.title": "Citoyens permanents",
+ "g14.s02.intro": "Comme le superunivers et l’univers central, l’univers local a ses ordres de citoyenneté permanente. Dans l’ensemble, ces êtres ne s’élèvent ni ne descendent ; ils demeurent comme résidents à chaque niveau d’administration.",
+ "g14.s02.01": {
+  "name": "Susatias",
+  "origin": "Le Fils Créateur et l’Esprit Créatif",
+  "realm": "Salvington, siège de l’univers local",
+  "number": "Non révélé",
+  "roles": [
+   "Résider et opérer comme citoyens permanents de Salvington",
+   "Travailler en étroite association avec les mortels fusionnés avec l’Esprit"
+  ],
+  "quote": {
+   "cit": "37:9.7"
+  }
+ },
+ "g14.s02.02": {
+  "name": "Univitatias",
+  "origin": "Le Fils Créateur et l’Esprit Créatif",
+  "realm": "Édentia, siège de la constellation, et ses 770 mondes associés",
+  "number": "Non révélé (ils opèrent en soixante-dix ordres de personnalité)",
+  "roles": [
+   "Former la population permanente du siège de la constellation",
+   "Présider les écoles de socialisation sur les satellites d’Édentia",
+   "Former le groupe le plus nombreux parmi les artisans célestes de Nébadon"
+  ],
+  "quote": {
+   "cit": "43:7.1"
+  }
+ },
+ "g14.s02.03": {
+  "name": "Fils Matériels",
+  "aka": [
+   "Fils Matériels de Dieu",
+   "Fils et Filles Matériels",
+   "Adams et Èves",
+   "Fils Adamiques",
+   "élévateurs biologiques"
+  ],
+  "origin": "Le Fils Créateur seul (un couple originel dans chaque système ; leur nombre s’accroit ensuite par reproduction)",
+  "realm": "Les capitales des systèmes locaux (Jérusem dans Satania) ; les mondes évolutionnaires lorsqu’ils sont en mission planétaire",
+  "number": "161 432 840 dans Nébadon lors du dernier recensement millénaire, en augmentation constante",
+  "roles": [
+   "Administrer les affaires courantes en tant que citoyens permanents de la capitale du système",
+   "Élever biologiquement les races évolutionnaires en tant qu’Adams et Èves Planétaires",
+   "Fonder la race adamique (violette) sur une planète",
+   "Établir les Jardins d’Éden comme centres de culture"
+  ],
+  "members": [
+   {
+    "name": "Fils et Filles Matériels de la capitale du système",
+    "note": "Citoyens relativement permanents d’une capitale de système comme Jérusem"
+   },
+   {
+    "name": "Adams et Èves Planétaires",
+    "note": "Un couple envoyé sur un monde évolutionnaire comme élévateurs biologiques"
+   }
+  ],
+  "quote": {
+   "cit": "45:5.3"
+  }
+ },
+ "g14.s02.04": {
+  "name": "Créatures médianes",
+  "aka": [
+   "médians",
+   "Médians Unis d’Urantia"
+  ],
+  "origin": "Les médians primaires proviennent de l’état-major de mortels ascendants du Prince Planétaire ; les médians secondaires, des Adams et Èves ou de leur descendance immédiate",
+  "realm": "La plupart des mondes habités ; toujours présents sur les planètes décimales ou d’expérimentation de la vie",
+  "number": "Primaires toujours 50 000 ; secondaires en moyenne environ 50 000 ; 10 992 actuellement sur Urantia",
+  "roles": [
+   "Assurer la continuité de l’administration planétaire en tant que citoyens permanents",
+   "Servir le Prince Planétaire comme corps de renseignements et hôtes célestes",
+   "Coopérer avec le régime adamique pour faire progresser la civilisation planétaire",
+   "Agir comme historiens planétaires, concevant des spectacles pour la capitale du système",
+   "Servir, sur Urantia, d’agents de liaison avec les corps de réserve de la destinée"
+  ],
+  "members": [
+   {
+    "name": "Médians primaires",
+    "note": "Plus spirituels et plus semblables aux anges ; toujours cinquante-mille"
+   },
+   {
+    "name": "Médians secondaires",
+    "note": "Plus matériels et plus semblables aux humains ; de descendance adamique"
+   }
+  ],
+  "quote": {
+   "cit": "37:9.11"
+  }
+ },
+ "g14.s02.05": {
+  "name": "Abandontaires",
+  "origin": "Les agents non révélés des Anciens des Jours et des sept Esprits Réflectifs d’Uversa",
+  "realm": "Uversa, siège du superunivers d’Orvonton",
+  "number": "Non révélé",
+  "roles": [
+   "Entretenir continuellement les sphères-sièges d’Uversa",
+   "Administrer les affaires courantes sous la direction des mortels fusionnés avec le Fils",
+   "Exceller en habileté artistique et en ingéniosité coordinatrice"
+  ],
+  "quote": {
+   "cit": "37:9.12"
+  }
+ },
+ "g14.s03.title": "Autres groupes de l’univers local",
+ "g14.s03.intro": "Deux ordres peu communs travaillent largement sur les 647 591 sphères architecturales de Nébadon : l’un est un groupe d’aides spirituels, l’autre un ordre animal sans personnalité.",
+ "g14.s03.01": {
+  "name": "Spirongas",
+  "origin": "La Radieuse Étoile du Matin et le Père Melchizédek",
+  "realm": "Les sphères architecturales de l’univers local, y compris Jérusem et les mondes des maisons à partir du deuxième",
+  "number": "Non révélé",
+  "roles": [
+   "Exécuter les tâches spirituelles courantes de Nébadon",
+   "Apporter un ministère spirituel aux résidents et visiteurs supramatériels",
+   "Servir d’aides intermédiaires entre le matériel et le spirituel"
+  ],
+  "quote": {
+   "cit": "37:10.2"
+  }
+ },
+ "g14.s03.02": {
+  "name": "Spornagias",
+  "origin": "Projetés sous leur forme actuelle par les Porteurs de Vie (un ordre animal, ni esprits ni personnes)",
+  "realm": "Les mondes-sièges, de Jérusem à Salvington, et les mondes des maisons",
+  "number": "Légion (nombre exact non révélé)",
+  "roles": [
+   "Soigner et cultiver les aspects matériels des mondes-sièges",
+   "Travailler comme jardiniers paysagistes des mondes-sièges",
+   "Rendre un ministère physique aux personnalités qui ont besoin de services matériels"
+  ],
+  "quote": {
+   "cit": "37:10.3"
+  }
+ }
+}

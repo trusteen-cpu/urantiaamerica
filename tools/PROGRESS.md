@@ -14,7 +14,7 @@
 | theology | 극동판 연결 | | | | |
 | doctrine | 극동판 연결 | | | | |
 | jesus | 극동판 연결 | | | | |
-| personalities | 극동판 연결 | | | | |
+| personalities | 극동판 연결 | ✅ | ✅ | ✅ | 2026-11-20 |
 | lists | 극동판 연결 | | | | |
 | chronology | 극동판 연결 | ✅ | ✅ | ✅ | 2026-11-20 |
 | maps | 극동판 연결 | | | | |

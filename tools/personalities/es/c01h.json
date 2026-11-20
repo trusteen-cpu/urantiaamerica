@@ -1,0 +1,499 @@
+{
+ "g15.s05.title": "Asistentes planetarios",
+ "g15.s05.intro": "La quinta orden de serafines, con sede en las capitales de los sistemas, acompaña a los Adanes y Evas Planetarios en sus misiones en los mundos; el cuerpo inicial suele contar con unos cien mil. En Urantia, la mayoría fueron retirados cuando se derrumbó el régimen adánico, y la supervisión seráfica recayó con más peso sobre los administradores, los ministros de transición y los guardianes del destino. Los guardianes del destino, que velan por los mortales individuales, proceden de todas las órdenes seráficas pero sirven en los planetas, de modo que se incluyen aquí.",
+ "g15.s05.01": {
+  "name": "Las Voces del Jardín",
+  "origin": "El Espíritu Materno del universo local (quinta orden de serafines, los asistentes planetarios)",
+  "realm": "El Jardín del Edén, sede del Adán y la Eva Planetarios",
+  "number": "No revelado",
+  "roles": [
+   "Actúan como serafines personales del Adán y la Eva",
+   "Ayudan en todos los proyectos para la elevación física e intelectual de las razas",
+   "Amonestan cuando el Adán se aparta del plan ordenado",
+   "En Urantia, algunos permanecieron para servir a los sucesores de Adán en la autoridad"
+  ],
+  "members": [
+   {
+    "name": "Solonia",
+    "note": "Jefe de los asistentes planetarios en los días de Adán en Urantia; proclamó el fracaso del plan divino"
+   }
+  ],
+  "quote": {
+   "cit": "39:5.3"
+  }
+ },
+ "g15.s05.02": {
+  "name": "Los Espíritus de la Hermandad",
+  "origin": "El Espíritu Materno del universo local (quinta orden de serafines, los asistentes planetarios)",
+  "realm": "Los mundos evolutivos bajo el régimen adánico",
+  "number": "No revelado",
+  "roles": [
+   "Fomentan la armonía racial y la cooperación social entre razas diversas",
+   "Ayudan a los hombres primitivos a comprender la sabiduría de la asociación pacífica",
+   "Apoyan a los Hijos Materiales en la armonización y el avance de las razas"
+  ],
+  "quote": {
+   "cit": "39:5.4"
+  }
+ },
+ "g15.s05.03": {
+  "name": "Las Almas de Paz",
+  "origin": "El Espíritu Materno del universo local (quinta orden de serafines, los asistentes planetarios)",
+  "realm": "Los mundos evolutivos bajo el régimen adánico",
+  "number": "No revelado",
+  "roles": [
+   "Traen «paz en la tierra» a los mundos que luchan",
+   "En las eras avanzadas, sustituyen la idea de la expiación por la de la sintonía divina",
+   "Su jefe, Vevona, anunció el nacimiento de Micael"
+  ],
+  "members": [
+   {
+    "name": "Vevona",
+    "note": "Jefe de las almas de paz en los días de Adán; ahora agregado al personal del gobernador general residente"
+   }
+  ],
+  "quote": {
+   "cit": "39:5.5"
+  }
+ },
+ "g15.s05.04": {
+  "name": "Los Espíritus de la Confianza",
+  "origin": "El Espíritu Materno del universo local (quinta orden de serafines, los asistentes planetarios)",
+  "realm": "Los mundos evolutivos bajo el régimen adánico (en Urantia todo el grupo pasó al nuevo régimen)",
+  "number": "No revelado",
+  "roles": [
+   "Inculcan la confianza en las mentes desconfiadas de los hombres primitivos",
+   "Nutren una civilización que encarne ideales de confianza y seguridad",
+   "Enseñan que la incertidumbre es el secreto de una continuidad satisfecha"
+  ],
+  "quote": {
+   "cit": "39:5.7"
+  }
+ },
+ "g15.s05.05": {
+  "name": "Transportadores",
+  "origin": "El Espíritu Materno del universo local (quinta orden de serafines, los asistentes planetarios)",
+  "realm": "Los planetas individuales (muchos estacionados en Urantia)",
+  "number": "No revelado",
+  "roles": [
+   "Llevan seres desde el planeta hasta la capital del sistema (de Urantia a Jerusem)",
+   "Enserafinan a los pasajeros dormidos en el sueño de tránsito",
+   "Protegen a los pasajeros con aisladores de energía que se han confundido con alas",
+   "Parten de la sede espiritual, por lo general a medianoche"
+  ],
+  "quote": {
+   "cit": "39:5.10"
+  }
+ },
+ "g15.s05.06": {
+  "name": "Registradores",
+  "origin": "El Espíritu Materno del universo local (quinta orden de serafines, los asistentes planetarios)",
+  "realm": "Los planetas individuales",
+  "number": "No revelado",
+  "roles": [
+   "Registran los asuntos principales del planeta en relación con el gobierno del sistema y del universo",
+   "No se ocupan de los asuntos de la vida y la existencia individuales"
+  ],
+  "quote": {
+   "cit": "39:5.16"
+  }
+ },
+ "g15.s05.07": {
+  "name": "Reservas",
+  "origin": "El Espíritu Materno del universo local (quinta orden de serafines, los asistentes planetarios)",
+  "realm": "Jerusem, en estrecha asociación con las reservas de los Hijos Materiales",
+  "number": "No revelado (descritas como abundantes)",
+  "roles": [
+   "Atienden todas las fases de las actividades de esta orden",
+   "Sirven como portadores personales de mensajes de los sistemas locales",
+   "Sirven a los mortales en transición, a los ángeles y a los Hijos Materiales en la sede del sistema",
+   "Visitan con frecuencia incluso a la aislada Urantia"
+  ],
+  "quote": {
+   "cit": "39:5.17"
+  }
+ },
+ "g15.s05.08": {
+  "name": "Guardianes del Destino",
+  "aka": [
+   "Guardianes de destino",
+   "Ángeles guardianes"
+  ],
+  "origin": "Parejas seráficas experimentadas y voluntarias procedentes de todas las órdenes de serafines",
+  "realm": "Junto a los mortales individuales en los mundos evolutivos, a quienes acompañan a través de los mundos de estancia y más allá",
+  "number": "No revelado",
+  "roles": [
+   "Custodian a los mortales que toman la decisión suprema, entran en el tercer círculo o se unen a un cuerpo de reserva del destino",
+   "Sirven en parejas durante el resto de la vida del mortal",
+   "El serafín complementario lleva el registro del mortal",
+   "Participan en el reensamblaje de la personalidad en las salas de resurrección",
+   "Pueden pasar por Serafington al Cuerpo de Finalistas Mortales"
+  ],
+  "members": [
+   {
+    "name": "Guardianes de grupo",
+    "note": "Del séptimo al cuarto círculo: una pareja seráfica con querubines vela por 1.000, 500, 100 o 10 mortales"
+   },
+   {
+    "name": "Guardianes personales",
+    "note": "Del tercer círculo en adelante, decisión suprema o cuerpo de reserva del destino: una pareja para un solo mortal"
+   }
+  ],
+  "quote": {
+   "cit": "39:8.5"
+  }
+ },
+ "g15.s06.title": "Ministros de transición",
+ "g15.s06.intro": "La sexta orden de serafines sirve dondequiera que las criaturas pasan del estado material al espiritual. Trabajan desde los mundos habitados hasta las capitales de los sistemas, pero en Satania se dedican principalmente a educar a los mortales sobrevivientes en los siete mundos de estancia; su hogar es el sexto círculo de Jerusem. Después de los guardianes del destino, son los serafines que más se acercan a los seres humanos.",
+ "g15.s06.01": {
+  "name": "Evángeles Seráficos",
+  "origin": "El Espíritu Materno del universo local (sexta orden de serafines, los ministros de transición)",
+  "realm": "Los mundos de estancia",
+  "number": "No revelado",
+  "roles": [
+   "Ayudan a los ascendentes a elegir entre las rutas opcionales hacia Edentia, Salvington, Uversa y Havona",
+   "Recomiendan el curso de cada ascendente a los veinticuatro consejeros de Jerusem",
+   "Proclaman el evangelio de la progresión eterna y del logro de la perfección",
+   "Enseñan que ningún acto bueno se pierde jamás del todo"
+  ],
+  "quote": {
+   "cit": "48:6.7"
+  }
+ },
+ "g15.s06.02": {
+  "name": "Intérpretes de las Razas",
+  "origin": "El Espíritu Materno del universo local (sexta orden de serafines, los ministros de transición)",
+  "realm": "Los mundos del tiempo y los mundos de estancia",
+  "number": "No revelado",
+  "roles": [
+   "Secundan los esfuerzos de los comisionados de la raza por armonizar los puntos de vista raciales",
+   "Siguen armonizando en los mundos de estancia las diferencias raciales que persisten",
+   "Actúan como sociólogos y asesores étnicos del primer cielo"
+  ],
+  "quote": {
+   "cit": "48:6.22"
+  }
+ },
+ "g15.s06.03": {
+  "name": "Planificadores de la Mente",
+  "origin": "El Espíritu Materno del universo local (sexta orden de serafines, los ministros de transición)",
+  "realm": "Los mundos de estancia",
+  "number": "No revelado",
+  "roles": [
+   "Agrupan eficazmente a los seres morontiales y organizan su trabajo en equipo",
+   "Estudian la naturaleza, la experiencia y la situación de las almas en tránsito",
+   "Respetan la voluntad morontial recién nacida, a la vez que alientan el progreso",
+   "La mayoría tiene experiencia previa como ángeles guardianes"
+  ],
+  "quote": {
+   "cit": "48:6.24"
+  }
+ },
+ "g15.s06.04": {
+  "name": "Consejeros Morontiales",
+  "origin": "El Espíritu Materno del universo local (sexta orden de serafines, los ministros de transición)",
+  "realm": "Los mundos de estancia, en el camino hacia las escuelas de la sede del sistema",
+  "number": "No revelado",
+  "roles": [
+   "Enseñan, dirigen y aconsejan a los mortales sobrevivientes",
+   "Enseñan la integración de los significados y la unificación de los valores (mota)",
+   "Ayudan a enfocar debidamente los puntos de vista material y morontial"
+  ],
+  "quote": {
+   "cit": "48:6.27"
+  }
+ },
+ "g15.s06.05": {
+  "name": "Técnicos",
+  "origin": "El Espíritu Materno del universo local (sexta orden de serafines, los ministros de transición)",
+  "realm": "Las esferas morontiales (mundos de transición)",
+  "number": "No revelado",
+  "roles": [
+   "Ayudan a los nuevos ascendentes a adaptarse al extraño entorno morontial",
+   "Actúan como enlace con los Supervisores del Poder Morontial y los Controladores Físicos Decanos",
+   "Instruyen a los ascendentes sobre las energías que se usan en las esferas de transición",
+   "Sirven como viajeros del espacio en emergencias"
+  ],
+  "quote": {
+   "cit": "48:6.29"
+  }
+ },
+ "g15.s06.06": {
+  "name": "Maestros-Registradores",
+  "origin": "El Espíritu Materno del universo local (sexta orden de serafines, los ministros de transición)",
+  "realm": "Los mundos de estancia y la sede del sistema",
+  "number": "No revelado",
+  "roles": [
+   "Registran las transacciones de la zona fronteriza entre lo espiritual y lo físico",
+   "Registran las relaciones entre los hombres y los ángeles, y las transacciones morontiales",
+   "Enseñan técnicas eficientes de registro de los hechos",
+   "Llevan a los estudiantes a buscar la verdad además de los hechos"
+  ],
+  "quote": {
+   "cit": "48:6.30"
+  }
+ },
+ "g15.s06.07": {
+  "name": "Reservas Ministrantes",
+  "origin": "El Espíritu Materno del universo local (sexta orden de serafines, los ministros de transición)",
+  "realm": "El primer mundo de estancia",
+  "number": "No revelado (un cuerpo grande)",
+  "roles": [
+   "Permanecen como reservas de todas las órdenes de serafines de transición",
+   "Se ofrecen voluntariamente a servir a los ascendentes cuando no tienen asignación",
+   "Encienden la voluntad de servir mediante la amistad personal",
+   "Enseñan a soportar la decepción y a dejar de lado el yo"
+  ],
+  "quote": {
+   "cit": "48:6.34"
+  }
+ },
+ "g15.s07.title": "Serafines del futuro",
+ "g15.s07.intro": "La séptima orden de serafines. Como actualmente no tienen relación directa con Urantia, se ha revelado poco de su actividad.",
+ "g15.s07.01": {
+  "name": "Serafines del Futuro",
+  "origin": "El Espíritu Materno del universo local (séptima orden de serafines)",
+  "realm": "Los reinos más antiguos y los planetas avanzados; muchos se mantienen en reserva en los mundos seráficos cercanos a Salvington",
+  "number": "No revelado (grandes números)",
+  "roles": [
+   "Se preparan para el amanecer de la era de luz y vida en Nebadon",
+   "Ministran a los mortales que sobreviven por órdenes modificadas de ascensión",
+   "Sus actividades no se revelan, pues actualmente no conciernen a Urantia"
+  ],
+  "quote": {
+   "cit": "39:7.1"
+  }
+ },
+ "g15.s08.title": "Querubines, sanobines y seres intermedios",
+ "g15.s08.intro": "Los querubines y los sanobines comparten el origen de los serafines y forman la orden más baja de ángeles, que asiste a las siete órdenes seráficas. Trabajan en parejas y son casi humanos. Los seres intermedios no son ángeles, pero se agrupan funcionalmente con ellos.",
+ "g15.s08.01": {
+  "name": "Querubines",
+  "origin": "El Espíritu Materno del universo local (el mismo origen que los serafines)",
+  "realm": "Los mundos individuales de los sistemas y los mundos morontiales de capacitación (sirven solo dentro del universo local)",
+  "number": "No revelado",
+  "roles": [
+   "Sirven como asistentes subordinados de las siete órdenes de serafines",
+   "Trabajan como obreros espirituales ordinarios en los mundos individuales",
+   "Se emparejan con los sanobines como el desviador positivo, el de la derecha",
+   "Llevan los registros de los guardianes seráficos",
+   "Pueden avanzar mediante el abrazo hasta ser Maestros de los Mundos de Estancia, e incluso serafines"
+  ],
+  "members": [
+   {
+    "name": "Candidatos para la ascensión",
+    "note": "Candidatos naturales al estado seráfico; pueden alcanzar la plena condición seráfica"
+   },
+   {
+    "name": "Querubines de fase media",
+    "note": "Limitados en su potencial de ascensión; la mayoría sigue siendo querubines y sanobines"
+   },
+   {
+    "name": "Querubines morontiales",
+    "note": "Las «criaturas cuartas» cuasimateriales (una de cada cuatro); realizan tareas fronterizas en los mundos morontiales"
+   }
+  ],
+  "quote": {
+   "cit": "38:7.1"
+  }
+ },
+ "g15.s08.02": {
+  "name": "Sanobines",
+  "origin": "El Espíritu Materno del universo local (el mismo origen que los serafines)",
+  "realm": "Los mundos individuales de los sistemas y los mundos morontiales de capacitación (sirven solo dentro del universo local)",
+  "number": "No revelado",
+  "roles": [
+   "Son la pareja del querubín, el desviador negativo, el de la izquierda",
+   "Actúan como el «complemento del ser» de los querubines",
+   "Limitados cuando están solos, por lo general trabajan emparejados con un querubín",
+   "Ayudan a llevar los registros junto con los querubines",
+   "Comparten con los querubines el camino de avance hacia Maestros de los Mundos de Estancia y serafines"
+  ],
+  "quote": {
+   "cit": "38:7.2"
+  }
+ },
+ "g15.s08.03": {
+  "name": "Seres Intermedios",
+  "note": "Intermedios primarios y secundarios, nativos de los mundos habitados. No son propiamente ángeles, pero se cuentan funcionalmente entre los espíritus ministrantes del tiempo. Se tratan por completo en el capítulo 14."
+ },
+ "g16.title": "Los Hijos de Dios Ascendentes",
+ "g16.intro": "El documento 40 presenta las siete clases generales de los Hijos de Dios Ascendentes: seres que comienzan en niveles inferiores y se elevan mediante la experiencia y el servicio a una condición espiritual más alta. Van desde los humildes mortales de origen animal de los mundos evolutivos hasta los Ajustadores Personalizados del Padre Universal. Los mortales se clasifican según el espíritu con el que se fusionan: fusionados con el Padre, fusionados con el Hijo o fusionados con el Espíritu, y sus destinos difieren en consecuencia: el Paraíso, el superuniverso o el universo local. A ellos se añaden las órdenes ascendentes no mortales: los serafines evolutivos, los Hijos Materiales ascendentes, los seres intermedios trasladados y los Ajustadores Personalizados. En este capítulo aparecen siete órdenes.",
+ "g16.01": {
+  "name": "Mortales fusionados con el Padre",
+  "aka": [
+   "Mortales fusionados con el Ajustador"
+  ],
+  "origin": "Mortales de origen animal de los mundos evolutivos que se fusionan con los Ajustadores del Pensamiento que los habitan",
+  "realm": "Desde los mundos evolutivos, pasando por los mundos de estancia, el superuniverso y Havona, hasta el Paraíso",
+  "number": "No revelado",
+  "roles": [
+   "Por lo general se fusionan con sus Ajustadores en los mundos de estancia",
+   "Atraviesan los circuitos de Havona y encuentran a Dios en el Paraíso",
+   "Son incorporados al Cuerpo de la Finalidad Mortal",
+   "Tienen ante sí, completamente abierta, la carrera del servicio universal"
+  ],
+  "members": [
+   {
+    "name": "Tipo de un cerebro",
+    "note": "Con potencial de fusión con el Ajustador"
+   },
+   {
+    "name": "Tipo de dos cerebros",
+    "note": "El tipo intermedio al que pertenecen los urantianos"
+   },
+   {
+    "name": "Tipo de tres cerebros",
+    "note": "A partir de la sede del sistema, los tres progresan por igual"
+   }
+  ],
+  "quote": {
+   "cit": "40:7.5"
+  }
+ },
+ "g16.02": {
+  "name": "Mortales fusionados con el Hijo",
+  "origin": "Mortales ascendentes que no logran la fusión con el Ajustador y se fusionan con un don individualizado del espíritu del Hijo Creador",
+  "realm": "El superuniverso (Orvonton); algunos alcanzan la condición de residentes en Uversa",
+  "number": "Menos de un millón en Orvonton",
+  "roles": [
+   "Comparten los servicios de Orvonton con sus hermanos fusionados con el Ajustador",
+   "Supervisan el trabajo rutinario de los abandonteros en Uversa",
+   "Aportan la sabiduría acumulada al establecimiento del superuniverso"
+  ],
+  "quote": {
+   "cit": "40:8.5"
+  }
+ },
+ "g16.03": {
+  "name": "Mortales fusionados con el Espíritu",
+  "origin": "Mortales que no son candidatos a la fusión con el Ajustador, fusionados en los mundos de estancia con una individualización del espíritu del Espíritu Materno del universo local",
+  "realm": "El universo local; en Nebadon su hogar es el octavo grupo de mundos que rodean Salvington",
+  "number": "No son numerosos, al menos en Nebadon",
+  "roles": [
+   "Sirven como ciudadanos permanentes del universo local",
+   "Interpretan los puntos de vista mortales como Altos Comisionados",
+   "Sirven al universo local junto con los susatia de Salvington",
+   "Pueden ser transformados para ascender al superuniverso cuando sea necesario"
+  ],
+  "quote": {
+   "cit": "40:9.3"
+  }
+ },
+ "g16.04": {
+  "name": "Serafines evolutivos",
+  "aka": [
+   "Serafines guardianes",
+   "guardianes del destino"
+  ],
+  "origin": "Serafines del universo local que alcanzan la filiación ascendente mediante la experiencia y el servicio con los mortales ascendentes",
+  "realm": "Ascienden con los mortales y pasan por Serafington, la esfera de destino angélico, hasta el Paraíso",
+  "number": "No revelado",
+  "roles": [
+   "Acompañan a los mortales como guardianes del destino",
+   "Avanzan mediante el estudio en las escuelas de extensión de los mundos de estancia",
+   "Adquieren experiencia de paternidad ayudando a criar a los hijos adánicos en Jerusem",
+   "Muchos son incorporados al Cuerpo de la Finalidad Mortal"
+  ],
+  "quote": {
+   "cit": "40:1.1"
+  }
+ },
+ "g16.05": {
+  "name": "Hijos Materiales ascendentes",
+  "aka": [
+   "Hijos Materiales perfeccionados"
+  ],
+  "origin": "Hijos e Hijas Materiales, originalmente Hijos descendentes, que se inscriben como Hijos ascendentes después de su misión o al retirarse de la ciudadanía del sistema",
+  "realm": "Desde un mundo evolutivo o la capital del sistema hasta Havona y el Paraíso",
+  "number": "No revelado",
+  "roles": [
+   "Renuncian a sus deberes planetarios una vez que su mundo se establece en luz y vida",
+   "Se inscriben como Hijos Materiales perfeccionados en los registros del universo local",
+   "Ascienden al Paraíso en compañía de los mortales",
+   "Alcanzan el Cuerpo de la Finalidad Mortal"
+  ],
+  "quote": {
+   "cit": "40:2.2"
+  }
+ },
+ "g16.06": {
+  "name": "Seres intermedios trasladados",
+  "aka": [
+   "criaturas intermedias trasladadas"
+  ],
+  "origin": "Seres intermedios primarios y secundarios liberados del servicio planetario",
+  "realm": "Desde su planeta natal, pasando por los mundos morontiales, el superuniverso y Havona, hasta el Paraíso",
+  "number": "No revelado",
+  "roles": [
+   "Son liberados del deber planetario hacia las épocas intermedias de luz y vida",
+   "Se inscriben en el universo local como Hijos ascendentes",
+   "Ascienden al Paraíso por las mismas rutas que los mortales",
+   "Los primarios van a diversos cuerpos de finalistas; los secundarios, al Cuerpo Mortal"
+  ],
+  "quote": {
+   "cit": "40:3.1"
+  }
+ },
+ "g16.07": {
+  "name": "Ajustadores Personalizados",
+  "aka": [
+   "Monitores Personalizados",
+   "Ajustadores del Pensamiento Personalizados"
+  ],
+  "origin": "Ajustadores del Pensamiento experimentados personalizados por el Padre Universal, como los que habitaron en Hijos de autootorgamiento encarnados o sirvieron con una distinción poco común",
+  "realm": "Su hogar está en Divinington; activos en todo el universo de los universos",
+  "number": "No revelado",
+  "roles": [
+   "Instruyen y dirigen a sus asociados prepersonales en Divinington",
+   "Actúan como estabilizadores y compensadores soberanos de los universos",
+   "Sirven como ejecutivos de los Arquitectos del Universo Maestro",
+   "Ministran en lo extraordinario y lo inesperado"
+  ],
+  "quote": {
+   "cit": "40:4.2"
+  }
+ },
+ "g17.title": "No clasificados",
+ "g17.intro": "El libro de Urantia deja algunos seres fuera de sus clasificaciones generales de la personalidad. Después de describir las siete grandes clases de vida evolutiva de las criaturas, observa que ni siquiera estas prevén seres como los midsoniteros. Este capítulo reúne dos de esos grupos: los midsoniteros, progenie de un portador de vida Melquisedek y una Hija Material, a quienes difícilmente puede considerarse mortales o inmortales; y los agondonteros, la agrupación funcional de los ascendentes procedentes de mundos aislados por la rebelión.",
+ "g17.01": {
+  "name": "Midsoniteros",
+  "aka": [
+   "criaturas midsonitas",
+   "razas midsonitas"
+  ],
+  "origin": "Progenie de un portador de vida Melquisedek modificado materialmente y una Hija Material voluntaria (la Madre Eva)",
+  "realm": "El único mundo midsonita de cada sistema local; más tarde, la esfera midsonita de Salvington, la séptima de los mundos de los finalistas",
+  "number": "No revelado (todos los midsoniteros que han nacido en Nebadon viven hoy)",
+  "roles": [
+   "Viven como seres que se reproducen en sus mundos natales hasta la edad de mil años estándar",
+   "Luego son trasladados por transporte seráfico y ya no se reproducen",
+   "Se congregan en la esfera midsonita de Salvington para alguna eventualidad futura no revelada",
+   "Aconsejan a las asambleas legislativas y a los tribunales en la era de luz y vida",
+   "Patrocinan empresas docentes conjuntamente con los finalistas"
+  ],
+  "quote": {
+   "cit": "36:4.2"
+  }
+ },
+ "g17.02": {
+  "name": "Agondonteros",
+  "origin": "Ascendentes mortales evolutivos procedentes de mundos aislados a consecuencia de la rebelión",
+  "realm": "Un sector residencial propio en Jerusem; permanecen agrupados durante la ascensión por el universo local y el superuniverso, y de nuevo en el Paraíso y en el Cuerpo de la Finalidad Mortal",
+  "number": "No revelado",
+  "roles": [
+   "Creen sin ver y perseveran en el aislamiento",
+   "Triunfan sobre dificultades insuperables aun estando solos",
+   "Siguen siendo un grupo funcional durante toda la ascensión (salvo durante la estancia en Havona)",
+   "Se les confían pronto asignaciones cósmicas especiales que exigen fe y confianza"
+  ],
+  "members": [
+   {
+    "name": "Tabamantia",
+    "note": "Un agondontero de condición finalista, sobreviviente de una esfera puesta en cuarentena en la primera rebelión"
+   }
+  ],
+  "quote": {
+   "cit": "50:7.2"
+  }
+ }
+}

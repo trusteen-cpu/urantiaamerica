@@ -1,0 +1,319 @@
+{
+ "g15.s05.title": "Ajudantes Planetários",
+ "g15.s05.intro": "A quinta ordem de serafins, com sede nas capitais dos sistemas, acompanha os Adãos e Evas Planetários nas suas missões nos mundos; o corpo inicial geralmente soma cerca de cem mil. Em Urântia, a maioria foi retirada quando o regime adâmico entrou em colapso, e a supervisão seráfica recaiu mais pesadamente sobre os administradores, os ministros de transição e os guardiães do destino. Os guardiães do destino, que velam por mortais individuais, são tirados de todas as ordens seráficas, mas servem nos planetas; por isso estão incluídos aqui.",
+ "g15.s05.01": {
+  "name": "Vozes do Jardim",
+  "origin": "O Espírito Materno do universo local (quinta ordem de serafins, os ajudantes planetários)",
+  "realm": "O Jardim do Éden, sede-central do Adão e da Eva Planetários",
+  "number": "Não revelado",
+  "roles": [
+   "Servem como os serafins pessoais do Adão e da Eva",
+   "Auxiliam todos os projetos para a elevação física e intelectual das raças",
+   "Protestam quando o Adão se afasta do plano ordenado",
+   "Em Urântia, alguns permaneceram para servir aos sucessores de Adão na autoridade"
+  ],
+  "members": [
+   {
+    "name": "Solônia",
+    "note": "Dirigente dos ajudantes planetários nos dias de Adão em Urântia; proclamou o malogro do plano divino"
+   }
+  ],
+  "quote": {
+   "cit": "39:5.3"
+  }
+ },
+ "g15.s05.02": {
+  "name": "Espíritos da Fraternidade",
+  "origin": "O Espírito Materno do universo local (quinta ordem de serafins, os ajudantes planetários)",
+  "realm": "Os mundos evolucionários sob o regime adâmico",
+  "number": "Não revelado",
+  "roles": [
+   "Fomentam a harmonia racial e a cooperação social entre as diversas raças",
+   "Ajudam os homens primitivos a perceber a sabedoria da convivência pacífica",
+   "Apoiam os Filhos Materiais na harmonização e no avanço das raças"
+  ],
+  "quote": {
+   "cit": "39:5.4"
+  }
+ },
+ "g15.s05.03": {
+  "name": "Almas da Paz",
+  "origin": "O Espírito Materno do universo local (quinta ordem de serafins, os ajudantes planetários)",
+  "realm": "Os mundos evolucionários sob o regime adâmico",
+  "number": "Não revelado",
+  "roles": [
+   "Trazem a “paz na terra” aos mundos em luta",
+   "Nas idades avançadas, substituem a ideia da expiação pela da sintonia divina",
+   "O seu dirigente, Vevona, anunciou o nascimento de Michael"
+  ],
+  "members": [
+   {
+    "name": "Vevona",
+    "note": "Dirigente das almas da paz nos dias de Adão; agora agregado ao corpo de assistentes do governador-geral residente"
+   }
+  ],
+  "quote": {
+   "cit": "39:5.5"
+  }
+ },
+ "g15.s05.04": {
+  "name": "Espíritos da Confiança",
+  "origin": "O Espírito Materno do universo local (quinta ordem de serafins, os ajudantes planetários)",
+  "realm": "Os mundos evolucionários sob o regime adâmico (em Urântia o grupo inteiro foi transferido para o novo regime)",
+  "number": "Não revelado",
+  "roles": [
+   "Incutem confiança na mente desconfiada dos homens primitivos",
+   "Nutrem uma civilização que personifica os ideais da confiança e da fé mútua",
+   "Ensinam que a incerteza é o segredo da continuidade satisfeita"
+  ],
+  "quote": {
+   "cit": "39:5.7"
+  }
+ },
+ "g15.s05.05": {
+  "name": "Transportadores",
+  "origin": "O Espírito Materno do universo local (quinta ordem de serafins, os ajudantes planetários)",
+  "realm": "Os planetas individuais (muitos estacionados em Urântia)",
+  "number": "Não revelado",
+  "roles": [
+   "Levam seres do planeta à capital do sistema (de Urântia a Jerusém)",
+   "Enserafinam os passageiros adormecidos no sono de trânsito",
+   "Protegem os passageiros com isoladores de energia que são confundidos com asas",
+   "Partem da sede-central espiritual, geralmente à meia-noite"
+  ],
+  "quote": {
+   "cit": "39:5.10"
+  }
+ },
+ "g15.s05.06": {
+  "name": "Registradores",
+  "origin": "O Espírito Materno do universo local (quinta ordem de serafins, os ajudantes planetários)",
+  "realm": "Os planetas individuais",
+  "number": "Não revelado",
+  "roles": [
+   "Registram os assuntos principais do planeta relacionados com o governo do sistema e do universo",
+   "Não tratam de questões da vida e da existência individuais"
+  ],
+  "quote": {
+   "cit": "39:5.16"
+  }
+ },
+ "g15.s05.07": {
+  "name": "Reservas",
+  "origin": "O Espírito Materno do universo local (quinta ordem de serafins, os ajudantes planetários)",
+  "realm": "Jerusém, em estreita associação com as reservas dos Filhos Materiais",
+  "number": "Não revelado (descritas como abundantes)",
+  "roles": [
+   "Atendem a todas as fases das atividades desta ordem",
+   "Servem como portadores pessoais de mensagens dos sistemas locais",
+   "Servem aos mortais em transição, aos anjos e aos Filhos Materiais na sede-central do sistema",
+   "Visitam com frequência até mesmo a isolada Urântia"
+  ],
+  "quote": {
+   "cit": "39:5.17"
+  }
+ },
+ "g15.s05.08": {
+  "name": "Guardiães do Destino",
+  "aka": [
+   "Guardiães do destino",
+   "Anjos guardiães"
+  ],
+  "origin": "Pares seráficos experientes e voluntários, tirados de todas as ordens de serafins",
+  "realm": "Ao lado de mortais individuais nos mundos evolucionários, acompanhando-os pelos mundos das mansões e além",
+  "number": "Não revelado",
+  "roles": [
+   "Guardam os mortais que tomam a suprema decisão, entram no terceiro círculo ou ingressam num corpo de reserva do destino",
+   "Servem em pares pelo resto da vida do mortal",
+   "O serafim complementar guarda o registro do mortal",
+   "Participam da remontagem da personalidade nas salas de ressurreição",
+   "Podem passar por Seráfington até o Corpo dos Finalitores Mortais"
+  ],
+  "members": [
+   {
+    "name": "Guardiães de grupo",
+    "note": "Do sétimo ao quarto círculo: um par seráfico, com querubins, vela por 1.000, 500, 100 ou 10 mortais"
+   },
+   {
+    "name": "Guardiães pessoais",
+    "note": "Terceiro círculo e acima, suprema decisão ou corpo de reserva do destino: um par para um mortal"
+   }
+  ],
+  "quote": {
+   "cit": "39:8.5"
+  }
+ },
+ "g15.s06.title": "Ministros de Transição",
+ "g15.s06.intro": "A sexta ordem de serafins serve onde quer que as criaturas passem do estado material ao espiritual. Trabalham dos mundos habitados às capitais dos sistemas, mas em Satânia educam principalmente os mortais sobreviventes nos sete mundos das mansões; o seu lar é o sexto círculo de Jerusém. Depois dos guardiães do destino, são os serafins que mais se aproximam dos humanos.",
+ "g15.s06.01": {
+  "name": "Evangelhos Seráficos",
+  "origin": "O Espírito Materno do universo local (sexta ordem de serafins, os ministros de transição)",
+  "realm": "Os mundos das mansões",
+  "number": "Não revelado",
+  "roles": [
+   "Ajudam os ascendentes a escolher entre caminhos opcionais para Edêntia, Sálvington, Uversa e Havona",
+   "Recomendam o curso de cada ascendente aos vinte e quatro conselheiros de Jerusém",
+   "Proclamam o evangelho da progressão eterna e do alcance da perfeição",
+   "Ensinam que nenhum ato de bem jamais se perde totalmente"
+  ],
+  "quote": {
+   "cit": "48:6.7"
+  }
+ },
+ "g15.s06.02": {
+  "name": "Intérpretes Raciais",
+  "origin": "O Espírito Materno do universo local (sexta ordem de serafins, os ministros de transição)",
+  "realm": "Os mundos do tempo e os mundos das mansões",
+  "number": "Não revelado",
+  "roles": [
+   "Levam adiante os esforços dos comissionados da raça para harmonizar os pontos de vista raciais",
+   "Continuam a harmonizar nos mundos das mansões as diferenças raciais que persistem",
+   "Servem como sociólogos e conselheiros étnicos do primeiro céu"
+  ],
+  "quote": {
+   "cit": "48:6.22"
+  }
+ },
+ "g15.s06.03": {
+  "name": "Planejadores da Mente",
+  "origin": "O Espírito Materno do universo local (sexta ordem de serafins, os ministros de transição)",
+  "realm": "Os mundos das mansões",
+  "number": "Não revelado",
+  "roles": [
+   "Agrupam eficazmente os seres moronciais e organizam o seu trabalho de equipe",
+   "Estudam a natureza, a experiência e o status das almas em trânsito",
+   "Respeitam a vontade moroncial recém-nascida, enquanto encorajam o progresso",
+   "A maioria tem experiência anterior como anjos guardiães"
+  ],
+  "quote": {
+   "cit": "48:6.24"
+  }
+ },
+ "g15.s06.04": {
+  "name": "Conselheiros Moronciais",
+  "origin": "O Espírito Materno do universo local (sexta ordem de serafins, os ministros de transição)",
+  "realm": "Os mundos das mansões, a caminho das escolas da sede-central do sistema",
+  "number": "Não revelado",
+  "roles": [
+   "Ensinam, dirigem e aconselham os mortais sobreviventes",
+   "Ensinam a integração dos significados e a unificação dos valores (mota)",
+   "Ajudam a pôr os pontos de vista material e moroncial no verdadeiro foco"
+  ],
+  "quote": {
+   "cit": "48:6.27"
+  }
+ },
+ "g15.s06.05": {
+  "name": "Técnicos",
+  "origin": "O Espírito Materno do universo local (sexta ordem de serafins, os ministros de transição)",
+  "realm": "As esferas moronciais (mundos de transição)",
+  "number": "Não revelado",
+  "roles": [
+   "Ajudam os novos ascendentes a se ajustarem ao estranho ambiente moroncial",
+   "Atuam como elos de ligação com os Supervisores do Poder Moroncial e os Mestres Controladores Físicos",
+   "Instruem os ascendentes sobre as energias usadas nas esferas de transição",
+   "Servem como atravessadores do espaço em emergências"
+  ],
+  "quote": {
+   "cit": "48:6.29"
+  }
+ },
+ "g15.s06.06": {
+  "name": "Instrutores-Registradores",
+  "origin": "O Espírito Materno do universo local (sexta ordem de serafins, os ministros de transição)",
+  "realm": "Os mundos das mansões e a sede-central do sistema",
+  "number": "Não revelado",
+  "roles": [
+   "Registram as transações da fronteira entre o espiritual e o físico",
+   "Registram as relações entre homens e anjos e as transações moronciais",
+   "Ensinam técnicas eficientes de registro dos fatos",
+   "Levam os estudantes a buscar a verdade tanto quanto os fatos"
+  ],
+  "quote": {
+   "cit": "48:6.30"
+  }
+ },
+ "g15.s06.07": {
+  "name": "Reservas Ministradores",
+  "origin": "O Espírito Materno do universo local (sexta ordem de serafins, os ministros de transição)",
+  "realm": "O primeiro mundo das mansões",
+  "number": "Não revelado (um grande corpo)",
+  "roles": [
+   "Permanecem prontos como reservas de todas as ordens de serafins de transição",
+   "Oferecem-se para servir aos ascendentes quando não têm designação",
+   "Despertam a vontade de servir por meio da amizade pessoal",
+   "Ensinam a suportar a decepção e a deixar o eu de lado"
+  ],
+  "quote": {
+   "cit": "48:6.34"
+  }
+ },
+ "g15.s07.title": "Serafins do Futuro",
+ "g15.s07.intro": "A sétima ordem de serafins. Como atualmente não estão ligados diretamente a Urântia, pouco da sua atividade é revelado.",
+ "g15.s07.01": {
+  "name": "Serafins do Futuro",
+  "origin": "O Espírito Materno do universo local (sétima ordem de serafins)",
+  "realm": "Os reinos mais antigos e os planetas avançados; muitos mantidos de reserva nos mundos seráficos perto de Sálvington",
+  "number": "Não revelado (grande número)",
+  "roles": [
+   "Preparam-se para o alvorecer da idade de luz e vida em Nébadon",
+   "Ministram aos mortais que sobrevivem por ordens modificadas de ascensão",
+   "As suas atividades não são reveladas, pois atualmente não dizem respeito a Urântia"
+  ],
+  "quote": {
+   "cit": "39:7.1"
+  }
+ },
+ "g15.s08.title": "Querubins, Sanobins e Criaturas Intermediárias",
+ "g15.s08.intro": "Os querubins e os sanobins partilham a origem dos serafins e formam a ordem mais baixa de anjos, auxiliando todas as sete ordens seráficas. Trabalham em pares e são quase humanos. As criaturas intermediárias não são anjos, mas são agrupadas funcionalmente com eles.",
+ "g15.s08.01": {
+  "name": "Querubins",
+  "origin": "O Espírito Materno do universo local (a mesma origem dos serafins)",
+  "realm": "Os mundos individuais dos sistemas e os mundos moronciais de aperfeiçoamento (servem apenas dentro do universo local)",
+  "number": "Não revelado",
+  "roles": [
+   "Servem como assistentes subordinados de todas as sete ordens de serafins",
+   "Trabalham como trabalhadores espirituais de rotina nos mundos individuais",
+   "Formam par com os sanobins como o defletor positivo, da mão direita",
+   "Guardam os registros dos guardiães seráficos",
+   "Podem avançar, pelo abraço, a Mestres dos Mundos das Mansões e até a serafins"
+  ],
+  "members": [
+   {
+    "name": "Candidatos à Ascensão",
+    "note": "Candidatos naturais ao status seráfico; podem alcançar a plena posição seráfica"
+   },
+   {
+    "name": "Querubins de Fase Intermediária",
+    "note": "Limitados no potencial de ascensão; a maioria permanece como querubins e sanobins"
+   },
+   {
+    "name": "Querubins Moronciais",
+    "note": "As “quartas criaturas” quase materiais (uma em quatro); executam tarefas fronteiriças nos mundos moronciais"
+   }
+  ],
+  "quote": {
+   "cit": "38:7.1"
+  }
+ },
+ "g15.s08.02": {
+  "name": "Sanobins",
+  "origin": "O Espírito Materno do universo local (a mesma origem dos serafins)",
+  "realm": "Os mundos individuais dos sistemas e os mundos moronciais de aperfeiçoamento (servem apenas dentro do universo local)",
+  "number": "Não revelado",
+  "roles": [
+   "Servem como parceiros dos querubins, o defletor negativo, da mão esquerda",
+   "Atuam como o “complemento do ser” dos querubins",
+   "Limitados quando sozinhos, geralmente trabalham em par com um querubim",
+   "Ajudam a guardar os registros junto com os querubins",
+   "Partilham o caminho de avanço dos querubins até Mestres dos Mundos das Mansões e serafins"
+  ],
+  "quote": {
+   "cit": "38:7.2"
+  }
+ },
+ "g15.s08.03": {
+  "name": "Criaturas Intermediárias",
+  "note": "Intermediários primários e secundários, nativos dos mundos habitados. Não são anjos propriamente ditos, mas são funcionalmente contados entre os espíritos ministradores do tempo. Tratados por completo no Capítulo 14."
+ }
+}

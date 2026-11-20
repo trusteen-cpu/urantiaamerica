@@ -92,9 +92,9 @@ window.SITE = {
       jesus: "https://fareast.urantiareaders.com/en/jesus/", days365: "https://fareast.urantiareaders.com/en/365days/",
       edu: "https://cozy-dragon-4626f0.netlify.app/"
     },
-    es: { text: "es/book/", chronology: "es/chronology/", overview: "es/overview/", bilingual: "es/bilingual/", intro: "es/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
-    fr: { text: "fr/book/", chronology: "fr/chronology/", overview: "fr/overview/", bilingual: "fr/bilingual/", intro: "fr/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
-    pt: { text: "pt/book/", chronology: "pt/chronology/", overview: "pt/overview/", bilingual: "pt/bilingual/", intro: "pt/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" }
+    es: { text: "es/book/", personalities: "es/personalities/", chronology: "es/chronology/", overview: "es/overview/", bilingual: "es/bilingual/", intro: "es/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
+    fr: { text: "fr/book/", personalities: "fr/personalities/", chronology: "fr/chronology/", overview: "fr/overview/", bilingual: "fr/bilingual/", intro: "fr/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
+    pt: { text: "pt/book/", personalities: "pt/personalities/", chronology: "pt/chronology/", overview: "pt/overview/", bilingual: "pt/bilingual/", intro: "pt/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" }
   }
 };
 

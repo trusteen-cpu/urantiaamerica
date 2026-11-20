@@ -1,0 +1,490 @@
+{
+ "ui.contents": "Contenido",
+ "ui.prev": "← Anterior",
+ "ui.next": "Siguiente →",
+ "ui.see_chapter": "→ véase el capítulo {}",
+ "ui.lbl.origin": "Origen",
+ "ui.lbl.realm": "Ámbito principal",
+ "ui.lbl.number": "Número",
+ "ui.lbl.roles": "Qué hacen",
+ "ui.lbl.refs": "Referencias",
+ "ui.lbl.members": "Miembros",
+ "ui.lbl.aka": "También llamados",
+ "ui.lbl.name": "Personalidad",
+ "ui.lbl.see": "Véase",
+ "ui.index_note": "Ordenado alfabéticamente por el nombre en español (A–Z); haga clic en un nombre para abrir su ficha.",
+ "fm.title": "Las personalidades de El libro de Urantia",
+ "fm.subtitle": "Guía de campo de la familia del universo, desde el Paraíso hasta el hombre mortal",
+ "fm.eyebrow": "GUÍA DE CAMPO",
+ "fm.preface_title": "Prefacio: un universo lleno de personas",
+ "fm.howto_title": "Cómo usar este libro",
+ "fm.index_title": "Índice",
+ "fm.author": "Jay Han",
+ "fm.preface.01": "Quienes abren El libro de Urantia por primera vez pronto se detienen ante nombres desconocidos: los Siete Espíritus Rectores, los Ancianos de los Días, los Mensajeros Poderosos, los supernafines y los seconafines, los Supervisores del Poder Morontial, los susatia y los midsoniteros. Los nombres son muchos, y sin embargo resulta difícil ver de un vistazo de dónde procede cada orden, dónde vive y qué hace. Este libro se hizo para aliviar esa carga.",
+ "fm.preface.02": "El libro de Urantia enseña que el universo no es una máquina sino una familia. El don de la personalidad, que comienza en el Padre Universal, fluye a través del Paraíso y de Havona hacia los siete superuniversos y los mundos de los universos locales, y llega a incontables órdenes de seres. La mayoría de ellos son compañeros, maestros y guardianes a quienes encontraremos en persona en el sendero ascendente más allá de la muerte. Conocerlos es conocer de antemano el hogar hacia el que vamos y la familia que vive en él.",
+ "fm.preface.03": "Los propios reveladores dicen que la tarea no puede ser completa:",
+ "fm.preface.04": {
+  "cit": "30:0.2"
+ },
+ "fm.preface.05": "Por eso este libro se mantiene dentro de lo que ha sido revelado. Sus diecisiete capítulos reúnen a las personalidades según su origen y afiliación. Cada capítulo se abre con una introducción al grupo en su conjunto y una tabla resumen en color, seguida de una ficha para cada personalidad: su origen, su ámbito principal, el número que da el texto, lo que hace, y una cita de El libro de Urantia con referencias para seguir leyendo. Donde el texto guarda silencio, la ficha dice «No revelado».",
+ "fm.preface.06": "Todos los nombres y las citas siguen el texto de El libro de Urantia. Siéntase libre de abrir el libro por cualquier parte. Solo recuerde que todas estas personalidades son hijos del mismo Padre, y que juntas participan en la obra de llevarnos a nosotros, los miembros más jóvenes de la familia, a nuestro hogar en el Paraíso.",
+ "fm.howto.01": [
+  "Apertura de capítulo",
+  "Número del capítulo y franja de color, una introducción al grupo y una tabla resumen de todas las personalidades del capítulo (origen, ámbito, número)."
+ ],
+ "fm.howto.02": [
+  "Subgrupos",
+  "Los encabezados con una barra de color reúnen las ramas de un mismo grupo, como los supernafines primarios, secundarios y terciarios."
+ ],
+ "fm.howto.03": [
+  "Ficha de personalidad",
+  "El nombre en el encabezado de color; debajo, tres recuadros para el origen, el ámbito principal y el número."
+ ],
+ "fm.howto.04": [
+  "Qué hacen",
+  "De tres a cinco funciones clave, marcadas con ▸, en forma breve."
+ ],
+ "fm.howto.05": [
+  "Miembros",
+  "Cuando el texto enumera las clases dentro de una orden (por ejemplo, cada uno de los Siete Espíritus Rectores), se presentan en una tabla."
+ ],
+ "fm.howto.06": [
+  "Cita y referencias",
+  "Un pasaje de El libro de Urantia con su número de documento:sección.párrafo, y otras referencias."
+ ],
+ "fm.howto.07": [
+  "Fichas de remisión",
+  "Las personalidades descritas plenamente en otro capítulo reciben una ficha breve que remite allí."
+ ],
+ "fm.howto.08": [
+  "Índice",
+  "Todos los nombres de personalidades figuran en orden alfabético al final del libro."
+ ],
+ "g01.title": "Los Siete Grupos de Espíritus Supremos",
+ "g01.intro": "Los siete grupos de Espíritus Supremos son los directores coordinadores de la administración séptuple del gran universo, y todos pertenecen a la familia funcional del Espíritu Infinito, la Tercera Fuente y Centro. Tres de los grupos —los Siete Espíritus Rectores, los Siete Ejecutivos Supremos y los Espíritus Reflexivos— suelen clasificarse como hijos de la Trinidad del Paraíso; los otros cuatro —los Auxiliares Reflexivos de Imagen, los Siete Espíritus de los Circuitos, los Espíritus Creativos de los universos locales y los espíritus ayudantes de la mente— deben su existencia a actos creadores del Espíritu Infinito o de sus asociados creadores. Su dominio se extiende desde la presencia de los Espíritus Rectores en la periferia del Paraíso, a través de los circuitos de Havona, los gobiernos de los superuniversos y los universos locales, hasta los ayudantes que ministran a las mentes mortales en los mundos evolutivos. Junto a las siete órdenes, este capítulo presenta también a Majeston, el centro de la reflexividad en el Paraíso.",
+ "g01.01": {
+  "name": "Siete Espíritus Rectores",
+  "aka": [
+   "Espíritus Rectores del Paraíso"
+  ],
+  "origin": "El Espíritu Infinito (personalidades primarias que expresan las siete asociaciones posibles de las tres Deidades; el Padre y el Hijo también participaron en su origen)",
+  "realm": "Siete sedes focales de fuerza que circulan lentamente alrededor de la periferia del Paraíso, cada una frente al superuniverso que supervisa",
+  "number": "7",
+  "roles": [
+   "Supervisan centralmente los siete superuniversos, un Espíritu para cada uno",
+   "Hablan en nombre del Espíritu Infinito fuera del Paraíso y de Havona",
+   "Actúan en asuntos ejecutivos por medio de los Siete Ejecutivos Supremos",
+   "Crean a los supernafines secundarios",
+   "Participan en la diferenciación y personalización de los Espíritus Creativos"
+  ],
+  "members": [
+   {
+    "name": "Espíritu Rector Número Uno",
+    "note": "Representa especialmente al Padre Universal; preside el primer superuniverso"
+   },
+   {
+    "name": "Espíritu Rector Número Dos",
+    "note": "Retrata al Hijo Eterno; dirige el segundo superuniverso"
+   },
+   {
+    "name": "Espíritu Rector Número Tres",
+    "note": "Se asemeja al Espíritu Infinito; a cargo del tercer superuniverso"
+   },
+   {
+    "name": "Espíritu Rector Número Cuatro",
+    "note": "Comparte las naturalezas combinadas del Padre y del Hijo; fomenta el cuarto superuniverso"
+   },
+   {
+    "name": "Espíritu Rector Número Cinco",
+    "note": "Combina los caracteres del Padre y del Espíritu Infinito; dirige el quinto superuniverso"
+   },
+   {
+    "name": "Espíritu Rector Número Seis",
+    "note": "Retrata el carácter combinado del Hijo Eterno y del Espíritu Infinito; dirige el sexto superuniverso"
+   },
+   {
+    "name": "Espíritu Rector Número Siete",
+    "note": "Retrata por igual al Padre, al Hijo y al Espíritu; preside el séptimo superuniverso, Orvonton"
+   }
+  ],
+  "quote": {
+   "cit": "16:0.1"
+  }
+ },
+ "g01.02": {
+  "name": "Siete Ejecutivos Supremos",
+  "origin": "Trinidizados por el Padre, el Hijo y el Espíritu según las especificaciones de los Siete Espíritus Rectores",
+  "realm": "Los siete satélites del Espíritu Infinito en el Paraíso (las esferas ejecutivas)",
+  "number": "7",
+  "roles": [
+   "Actúan como coordinadores administrativos del gran universo",
+   "Ejecutan los planes de la divinidad promulgados por los Espíritus Rectores",
+   "Cada uno se dedica a la administración de un superuniverso",
+   "Mantienen el registro central de las personalidades de la Tercera Fuente",
+   "Celebran en el Paraíso un cónclave milenario de saludo universal"
+  ],
+  "members": [
+   {
+    "name": "Ejecutivo Supremo Número Uno a Número Siete",
+    "note": "Cada uno sirve al superuniverso del mismo número; el Número Siete sirve a Orvonton"
+   }
+  ],
+  "quote": {
+   "cit": "17:1.3"
+  }
+ },
+ "g01.03": {
+  "name": "Espíritus Reflexivos",
+  "aka": [
+   "Espíritus Madre Reflexivos"
+  ],
+  "origin": "La Trinidad del Paraíso (creados de siete en siete mediante un enlace de la Trinidad con uno de los Siete Espíritus Rectores)",
+  "realm": "Las sedes centrales de los siete superuniversos, siete en cada capital (uno de cada tipo)",
+  "number": "49 (17:2.1 da la cifra de «cincuenta»)",
+  "roles": [
+   "Actúan como foco reflexivo de cada capital superuniversal",
+   "Reflejan noticias y decretos entre los universos locales y el superuniverso",
+   "Conservan como registros vivientes todo lo que tiene valor espiritual",
+   "Crean a los Auxiliares Reflexivos de Imagen y a los seconafines"
+  ],
+  "quote": {
+   "cit": "17:3.5"
+  }
+ },
+ "g01.04": {
+  "name": "Majeston",
+  "aka": [
+   "jefe de la reflexividad"
+  ],
+  "origin": "Creado por el Ser Supremo en enlace funcional con el Absoluto de Deidad (personalizado al crearse el cuadragésimo noveno Espíritu Reflexivo)",
+  "realm": "El Paraíso, cerca del lugar de reunión de los Siete Espíritus Rectores",
+  "number": "1",
+  "roles": [
+   "Es el centro personal e infalible de la reflexividad en los siete superuniversos",
+   "Coordina y mantiene el servicio de reflexividad de la creación",
+   "En ocasiones especiales une en acción las siete organizaciones reflexivas",
+   "No participa en ningún otro aspecto de la administración del universo"
+  ],
+  "quote": {
+   "cit": "17:2.3"
+  }
+ },
+ "g01.05": {
+  "name": "Auxiliares Reflexivos de Imagen",
+  "aka": [
+   "Auxiliares de Imagen"
+  ],
+  "origin": "Los Espíritus Reflexivos (cada Espíritu Reflexivo crea su propio Auxiliar)",
+  "realm": "Las sedes centrales de los siete superuniversos, exactamente siete en cada una",
+  "number": "49",
+  "roles": [
+   "Sirven de canal entre los Espíritus Reflexivos y las autoridades del superuniverso",
+   "Actúan como voces personales de los Espíritus Reflexivos ante los tribunales de los Ancianos de los Días",
+   "Sirven para siempre junto a sus Espíritus progenitores",
+   "Dirigen una hueste increíble de seconafines auxiliares"
+  ],
+  "quote": {
+   "cit": "17:4.1"
+  }
+ },
+ "g01.06": {
+  "name": "Siete Espíritus de los Circuitos",
+  "aka": [
+   "Siete Espíritus de los Circuitos de Havona",
+   "Espíritus de los Circuitos"
+  ],
+  "origin": "La progenie colectiva de los Siete Espíritus Rectores (representación impersonal conjunta del Espíritu Infinito y de los Espíritus Rectores)",
+  "realm": "Los siete circuitos de Havona, un Espíritu para cada circuito",
+  "number": "7",
+  "roles": [
+   "Cada uno impregna un solo circuito de Havona",
+   "Proporcionan una supervisión espiritual unificada y coordinada al universo central",
+   "Crean a los supernafines terciarios",
+   "Se asocian con la mente de los seres de Havona, de manera parecida a como los Ajustadores moran en los mortales"
+  ],
+  "quote": {
+   "cit": "17:5.1"
+  }
+ },
+ "g01.07": {
+  "name": "Espíritus Creativos del Universo Local",
+  "aka": [
+   "Espíritu Materno del Universo",
+   "Ministra Divina"
+  ],
+  "origin": "El Espíritu Infinito (diferenciado dentro del Espíritu Infinito cuando se personaliza un Hijo Creador; llega a ser persona en el momento de la creación de la vida)",
+  "realm": "La sede central de cada universo local (Salvington en Nebadon)",
+  "number": "Uno por cada Hijo Creador (número exacto no revelado)",
+  "roles": [
+   "Organizan y administran el universo local junto con el Hijo Creador",
+   "Son la madre inmediata de las órdenes angélicas del universo local",
+   "Otorgan los espíritus ayudantes de la mente a las criaturas vivientes",
+   "Son elevados a la cosoberanía después de los autootorgamientos del Hijo"
+  ],
+  "quote": {
+   "cit": "34:0.2"
+  }
+ },
+ "g01.08": {
+  "name": "Espíritus ayudantes de la mente",
+  "aka": [
+   "espíritus ayudantes"
+  ],
+  "origin": "El Espíritu Creativo del universo local (la Ministra Divina)",
+  "realm": "Los mundos habitados del universo local (mentes materiales en evolución)",
+  "number": "7 (en cada universo local)",
+  "roles": [
+   "Ministran a las mentes materiales en los mundos evolutivos",
+   "Condicionan la evolución orgánica para que tenga propósito",
+   "Acompañan a los Portadores de Vida a un nuevo planeta",
+   "Preparan la mente del hombre evolutivo para la llegada del Espíritu Santo"
+  ],
+  "members": [
+   {
+    "name": "espíritu de intuición",
+    "note": "Percepción rápida, instintos reflejos, autoconservación"
+   },
+   {
+    "name": "espíritu de entendimiento",
+    "note": "Asociación de ideas, razonamiento y juicio rápidos"
+   },
+   {
+    "name": "espíritu de valor",
+    "note": "La dotación de fidelidad, base para la adquisición del carácter"
+   },
+   {
+    "name": "espíritu de conocimiento",
+    "note": "Curiosidad por la aventura y el descubrimiento, el espíritu científico"
+   },
+   {
+    "name": "espíritu de asesoramiento",
+    "note": "El impulso social, la cooperación de la especie"
+   },
+   {
+    "name": "espíritu de adoración",
+    "note": "El impulso religioso, distintivo de la candidatura a la ascensión espiritual"
+   },
+   {
+    "name": "espíritu de sabiduría",
+    "note": "El más elevado de los ayudantes, que coordina a los otros seis"
+   }
+  ],
+  "quote": {
+   "cit": "36:5.4"
+  }
+ },
+ "g02.title": "Las Personalidades Supremas Trinitarias",
+ "g02.intro": "Las Personalidades Supremas Trinitarias son seres administrativos diseñados y creados por la Trinidad del Paraíso para funciones específicas, y existen siete órdenes de ellas. Su número es fijo y definitivo; su creación es un acontecimiento del pasado. En todo el gran universo representan la política administrativa y la justicia de la Trinidad, y forman una sola línea de administración que va desde las esferas del Padre en el Paraíso, a través de Havona y de los sectores mayores y menores de los superuniversos, hasta los universos locales y las capitales de las constelaciones. Las dos últimas órdenes, los Uniones de los Días y los Fieles de los Días, no administran sino que actúan solo como consejeros de los universos locales y de las constelaciones. Al ser de origen trinitario, ninguno de estos seres está expuesto al riesgo del fracaso o de la rebelión.",
+ "g02.01": {
+  "name": "Secretos Trinidizados de la Supremacía",
+  "aka": [
+   "Secretos de la Supremacía"
+  ],
+  "origin": "La Trinidad del Paraíso (no existen registros de su origen)",
+  "realm": "Las siete esferas sagradas del Padre en el circuito más interior de los satélites del Paraíso, diez en cada esfera",
+  "number": "70",
+  "roles": [
+   "Dirigen los asuntos de las siete esferas sagradas del Padre",
+   "Gobiernan cada esfera como un cuerpo de diez directores conjuntos coordinados",
+   "Siete encabezan los departamentos principales; tres representan al Padre, al Hijo y al Espíritu",
+   "Guardan los secretos de las relaciones personales de la Deidad con los grupos de criaturas"
+  ],
+  "quote": {
+   "cit": "18:1.1"
+  }
+ },
+ "g02.02": {
+  "name": "Eternos de los Días",
+  "origin": "La Trinidad del Paraíso (no existen registros de su origen)",
+  "realm": "Los mil millones de mundos de Havona, uno en cada mundo",
+  "number": "1.000.000.000",
+  "roles": [
+   "Gobiernan desde la eternidad un solo mundo de Havona",
+   "Desarrollan sus esferas de forma original, según sus propias ideas e ideales",
+   "Presiden los cónclaves planetarios y visitan por turno las capitales de los superuniversos",
+   "Forman como aprendices a los administradores de los superuniversos"
+  ],
+  "quote": {
+   "cit": "18:2.1"
+  }
+ },
+ "g02.03": {
+  "name": "Ancianos de los Días",
+  "origin": "La Trinidad del Paraíso (todos trinidizados al mismo tiempo)",
+  "realm": "Las esferas sede de los siete superuniversos, tres en cada una (Uversa en Orvonton)",
+  "number": "21",
+  "roles": [
+   "Gobiernan en trío cada gobierno superuniversal",
+   "Imponen una administración uniforme a los diversos superuniversos",
+   "Dictan el juicio ejecutivo final sobre la extinción de las criaturas volitivas",
+   "Gobiernan los superuniversos hasta que el Supremo asuma la soberanía"
+  ],
+  "quote": {
+   "cit": "18:3.4"
+  }
+ },
+ "g02.04": {
+  "name": "Perfecciones de los Días",
+  "origin": "La Trinidad del Paraíso (trinidizados para ayudar a los directores de los superuniversos)",
+  "realm": "Las capitales de los diez sectores mayores de cada superuniverso, tres en cada una",
+  "number": "210",
+  "roles": [
+   "Presiden los gobiernos de los sectores mayores",
+   "Gobiernan como vicegerentes inmediatos de los Ancianos de los Días",
+   "Dominan con perfección los detalles de la administración",
+   "Administran los compromisos de grupo de los graduados ascendentes en las escuelas de los sectores mayores"
+  ],
+  "quote": {
+   "cit": "18:4.1"
+  }
+ },
+ "g02.05": {
+  "name": "Recientes de los Días",
+  "origin": "La Trinidad del Paraíso (creados simultáneamente y formados en Havona bajo los Eternos de los Días)",
+  "realm": "Las sedes de los sectores menores de los superuniversos, tres en cada una",
+  "number": "21.000",
+  "roles": [
+   "Presiden de tres en tres los asuntos de los sectores menores",
+   "Se ocupan en gran parte de los grandes problemas físicos del superuniverso",
+   "Representan a los Ancianos de los Días en los consejos supremos del Paraíso",
+   "Realizan giras de inspección por las capitales de los universos locales a su cargo"
+  ],
+  "quote": {
+   "cit": "18:5.1"
+  }
+ },
+ "g02.06": {
+  "name": "Uniones de los Días",
+  "origin": "La Trinidad del Paraíso",
+  "realm": "La sede central de cada universo local, uno en cada una; el cuerpo de reserva en el Paraíso",
+  "number": "700.000 (no todos comisionados)",
+  "roles": [
+   "Actúan como enlace de la Trinidad ante los gobernantes duales de un universo local",
+   "Aconsejan y asesoran como representantes de la Trinidad y del Padre",
+   "Coordinan las actividades administrativas de todas las ramas del gobierno del universo",
+   "Informan a sus superiores del sector menor, del sector mayor y del superuniverso",
+   "Aconsejan a los gobernantes interinos cuando el Hijo Creador está ausente"
+  ],
+  "quote": {
+   "cit": "18:6.1"
+  }
+ },
+ "g02.07": {
+  "name": "Fieles de los Días",
+  "origin": "La Trinidad del Paraíso",
+  "realm": "Las capitales de las constelaciones de los universos locales (las cien constelaciones de cada uno); el cuerpo de reserva en el Paraíso",
+  "number": "70.000.000 (no todos en servicio)",
+  "roles": [
+   "Aconsejan a los Hijos Vorondadek que gobiernan las constelaciones",
+   "Participan en la administración solo cuando las autoridades de la constelación los invitan",
+   "Sirven bajo el Unión de los Días y le rinden informes",
+   "Forman el último eslabón de la cadena consultiva de origen trinitario"
+  ],
+  "quote": {
+   "cit": "18:7.2"
+  }
+ },
+ "g03.title": "Los Seres Coordinados de Origen en la Trinidad",
+ "g03.intro": "Los Seres Coordinados de Origen en la Trinidad son siete grupos que tienen su origen en la Trinidad del Paraíso: los Hijos Instructores Trinitarios, que también se clasifican entre los Hijos de Dios Paradisiacos; tres grupos de altos administradores superuniversales (los Perfeccionadores de la Sabiduría, los Consejeros Divinos y los Censores Universales); los Espíritus Trinitarios Inspirados, un tanto impersonales; y los nativos de Havona y los Ciudadanos del Paraíso. Salvo los Hijos Instructores y posiblemente los Espíritus Inspirados, el número de estos grupos es fijo y su creación está completa. Junto con las siete órdenes de Personalidades Supremas Trinitarias, los tres grupos administrativos forman las diez divisiones conocidas como los Hijos Estacionarios de la Trinidad, algo más de treinta y siete mil millones de seres en total. Ninguno de estos seres se ha descarriado jamás, y sin embargo, en el sentido más elevado, todos están dotados de libre albedrío.",
+ "g03.01": {
+  "name": "Hijos Instructores Trinitarios",
+  "note": "De origen trinitario pero dedicados funcionalmente al servicio de la filiación divina, son seres de enlace que actúan con doble capacidad. Su número aumenta constantemente, y sirven como los educadores universales. Véase el capítulo 4, Los Hijos de Dios Paradisiacos."
+ },
+ "g03.02": {
+  "name": "Perfeccionadores de la Sabiduría",
+  "origin": "La Trinidad del Paraíso (una creación especializada para personificar la sabiduría de la divinidad en los superuniversos)",
+  "realm": "Los siete superuniversos, mil millones en cada uno, al servicio de los Ancianos de los Días",
+  "number": "7.000.000.000",
+  "roles": [
+   "Personifican la sabiduría de la divinidad en los superuniversos",
+   "Son la fuente de sabiduría para todos los maestros",
+   "Administran en unión con la sabiduría experiencial de los ascendentes",
+   "Juzgan en tríos con los Consejeros Divinos y los Censores Universales",
+   "Participan en la revelación de la verdad a planetas y sistemas individuales"
+  ],
+  "quote": {
+   "cit": "19:2.3"
+  }
+ },
+ "g03.03": {
+  "name": "Consejeros Divinos",
+  "origin": "La Trinidad del Paraíso",
+  "realm": "Los siete superuniversos, tres mil millones en cada uno, hasta los consejos de los sistemas locales",
+  "number": "21.000.000.000 (en servicio)",
+  "roles": [
+   "Son el consejo de la Deidad para los siete superuniversos",
+   "Se agregan, de uno a siete, a los Perfeccionadores de la Sabiduría y a los Censores Universales",
+   "Ocupan siete puestos en el tribunal de nueve miembros de la divinidad trinitaria",
+   "Participan en la revelación de la verdad (autores de varios de estos documentos)"
+  ],
+  "quote": {
+   "cit": "19:3.1"
+  }
+ },
+ "g03.04": {
+  "name": "Censores Universales",
+  "origin": "La Trinidad del Paraíso",
+  "realm": "Los mil millones de mundos de Havona, uno en cada uno, y los siete superuniversos, mil millones en cada uno",
+  "number": "8.000.000.000",
+  "roles": [
+   "Encarnan el juicio de la Deidad, el juicio de la Trinidad misma",
+   "Se sientan con los Ancianos de los Días en todo juicio",
+   "Resumen todos los testimonios en una decisión final de la que no hay apelación",
+   "Participan en la adjudicación de cada dispensación de los mundos evolutivos"
+  ],
+  "quote": {
+   "cit": "19:4.1"
+  }
+ },
+ "g03.05": {
+  "name": "Espíritus Trinitarios Inspirados",
+  "aka": [
+   "Espíritus Inspirados"
+  ],
+  "origin": "La Trinidad del Paraíso",
+  "realm": "Al parecer casi en todas partes, actuando a través de todos los circuitos conocidos (sin lugar discernible en la administración superuniversal)",
+  "number": "No revelado (se cree que no es fijo)",
+  "roles": [
+   "Pueden ser utilizados por una o dos de las Deidades, o por las tres",
+   "Ayudan a los seres de origen trinitario en sus misiones",
+   "Parecen enseñar a los reinos mediante técnicas supraconscientes",
+   "Destinados, según enseñan los Melquisedek, a reemplazar a los Mensajeros Solitarios"
+  ],
+  "quote": {
+   "cit": "19:5.3"
+  }
+ },
+ "g03.06": {
+  "name": "Nativos de Havona",
+  "aka": [
+   "Havoneros"
+  ],
+  "origin": "Creación directa de la Trinidad del Paraíso",
+  "realm": "Los mil millones de mundos de Havona (algunos habitan en la primera zona del Paraíso)",
+  "number": "Más allá del concepto de las mentes humanas (en disminución constante, pues ya no se crean más)",
+  "roles": [
+   "Habitan los mundos perfectos del universo central",
+   "Entablan amistades duraderas con los mortales ascendentes, en beneficio mutuo",
+   "Pueden calificar mediante el servicio para el Cuerpo de la Finalidad",
+   "Se agrupan con los Ciudadanos del Paraíso como personalidades del Paraíso-Havona"
+  ],
+  "quote": {
+   "cit": "19:6.1"
+  }
+ },
+ "g03.07": {
+  "name": "Ciudadanos del Paraíso",
+  "origin": "La Trinidad del Paraíso",
+  "realm": "El Paraíso (la primera zona, la interior, del Área Santa)",
+  "number": "Más de 3.000 órdenes (números individuales no revelados)",
+  "roles": [
+   "Residen permanentemente en el Paraíso",
+   "No participan directamente en el perfeccionamiento de las criaturas volitivas ascendentes",
+   "Confraternizan con los mortales ascendentes que llegan al Paraíso",
+   "Reciben el ministerio de formación de los supernafines primarios"
+  ],
+  "quote": {
+   "cit": "19:7.1"
+  }
+ }
+}

@@ -1,0 +1,490 @@
+{
+ "ui.contents": "Sommaire",
+ "ui.prev": "← Précédent",
+ "ui.next": "Suivant →",
+ "ui.see_chapter": "→ voir le chapitre {}",
+ "ui.lbl.origin": "Origine",
+ "ui.lbl.realm": "Domaine principal",
+ "ui.lbl.number": "Nombre",
+ "ui.lbl.roles": "Ce qu’ils font",
+ "ui.lbl.refs": "Références",
+ "ui.lbl.members": "Membres",
+ "ui.lbl.aka": "Également appelés",
+ "ui.lbl.name": "Personnalité",
+ "ui.lbl.see": "Voir",
+ "ui.index_note": "Classé par ordre alphabétique des noms français (A–Z) ; cliquez sur un nom pour ouvrir sa fiche.",
+ "fm.title": "Les personnalités du Livre d’Urantia",
+ "fm.subtitle": "Guide de terrain de la famille universelle, du Paradis jusqu’à l’homme mortel",
+ "fm.eyebrow": "GUIDE DE TERRAIN",
+ "fm.preface_title": "Préface : un univers peuplé de personnes",
+ "fm.howto_title": "Comment utiliser ce livre",
+ "fm.index_title": "Index",
+ "fm.author": "Jay Han",
+ "fm.preface.01": "Ceux qui ouvrent le Livre d’Urantia pour la première fois se surprennent vite à s’arrêter devant des noms inconnus : les Sept Maitres Esprits, les Anciens des Jours, les Puissants Messagers, les supernaphins et les seconaphins, les Superviseurs de Pouvoir Morontiel, les susatias et les midsonitaires. Les noms sont nombreux, et pourtant il est difficile de voir d’un coup d’œil d’où vient chaque ordre, où il vit et ce qu’il fait. Ce livre a été conçu pour alléger ce fardeau.",
+ "fm.preface.02": "Le Livre d’Urantia enseigne que l’univers n’est pas une machine, mais une famille. Le don de la personnalité, qui commence avec le Père Universel, s’écoule à travers le Paradis et Havona jusqu’aux sept superunivers et aux mondes des univers locaux, et atteint d’innombrables ordres d’êtres. La plupart d’entre eux sont des compagnons, des éducateurs et des gardiens que nous rencontrerons en personne sur le chemin de l’ascension, au-delà de la mort. Les connaitre, c’est connaitre d’avance la demeure vers laquelle nous allons et la famille qui l’habite.",
+ "fm.preface.03": "Les révélateurs eux-mêmes déclarent que cette tâche ne peut être complète :",
+ "fm.preface.04": {
+  "cit": "30:0.2"
+ },
+ "fm.preface.05": "Ce livre s’en tient donc à ce qui a été révélé. Ses dix-sept chapitres regroupent les personnalités selon leur origine et leur affiliation. Chaque chapitre s’ouvre sur une introduction à l’ensemble du groupe et un tableau récapitulatif en couleur, suivis d’une fiche pour chaque personnalité : son origine, son domaine principal, le nombre donné dans le texte, ce qu’elle fait, ainsi qu’une citation du Livre d’Urantia accompagnée de références pour approfondir. Là où le texte se tait, la fiche indique « Non révélé ».",
+ "fm.preface.06": "Tous les noms et toutes les citations suivent le texte original du Livre d’Urantia. N’hésitez pas à ouvrir ce livre à n’importe quelle page. Souvenez-vous seulement que toutes ces personnalités sont les enfants du même Père et qu’elles participent ensemble à l’œuvre qui consiste à nous ramener au Paradis, nous, les plus jeunes membres de la famille.",
+ "fm.howto.01": [
+  "Ouverture de chapitre",
+  "Numéro de chapitre et bandeau de couleur, introduction au groupe et tableau récapitulatif de toutes les personnalités du chapitre (origine, domaine, nombre)."
+ ],
+ "fm.howto.02": [
+  "Sous-groupes",
+  "Des titres munis d’une barre de couleur rassemblent les branches d’un même groupe, comme les supernaphins primaires, secondaires et tertiaires."
+ ],
+ "fm.howto.03": [
+  "Fiche de personnalité",
+  "Le nom dans l’en-tête de couleur ; en dessous, trois cases pour l’origine, le domaine principal et le nombre."
+ ],
+ "fm.howto.04": [
+  "Ce qu’ils font",
+  "Trois à cinq fonctions essentielles, marquées ▸, formulées brièvement."
+ ],
+ "fm.howto.05": [
+  "Membres",
+  "Quand le texte énumère les catégories d’un ordre (par exemple chacun des Sept Maitres Esprits), elles sont présentées dans un tableau."
+ ],
+ "fm.howto.06": [
+  "Citation et références",
+  "Un passage du Livre d’Urantia avec son numéro fascicule:section.paragraphe, et d’autres références."
+ ],
+ "fm.howto.07": [
+  "Fiches de renvoi",
+  "Les personnalités décrites en détail dans un autre chapitre ont une fiche courte qui y renvoie."
+ ],
+ "fm.howto.08": [
+  "Index",
+  "Tous les noms de personnalités sont classés par ordre alphabétique à la fin du livre."
+ ],
+ "g01.title": "Les sept groupes d’Esprits Suprêmes",
+ "g01.intro": "Les sept groupes d’Esprits Suprêmes sont les directeurs coordinateurs de l’administration septuple du grand univers, et tous appartiennent à la famille fonctionnelle de l’Esprit Infini, la Troisième Source-Centre. Trois de ces groupes — les Sept Maitres Esprits, les Sept Agents Exécutifs Suprêmes et les Esprits Réflectifs — sont habituellement classés parmi les enfants de la Trinité du Paradis ; les quatre autres — les Aides-Images Réflectifs, les Sept Esprits des Circuits, les Esprits Créatifs des univers locaux et les esprits-mentaux adjuvats — doivent leur existence à des actes créatifs de l’Esprit Infini ou de ses associés créatifs. Leur domaine s’étend depuis la présence des Maitres Esprits à la périphérie du Paradis, à travers les circuits de Havona, les gouvernements des superunivers et les univers locaux, jusqu’aux adjuvats qui exercent leur ministère auprès du mental des mortels sur les mondes évolutionnaires. À côté de ces sept ordres, ce chapitre présente aussi Majeston, le centre paradisiaque de la réflectivité.",
+ "g01.01": {
+  "name": "Sept Maitres Esprits",
+  "aka": [
+   "Maitres Esprits du Paradis"
+  ],
+  "origin": "L’Esprit Infini (personnalités primaires exprimant les sept associations possibles des trois Déités ; le Père et le Fils ont aussi participé à leur origine)",
+  "realm": "Sept sièges focaux de force qui circulent lentement autour de la périphérie du Paradis, chacun face au superunivers qu’il supervise",
+  "number": "7",
+  "roles": [
+   "Superviser centralement les sept superunivers, un Esprit pour chacun",
+   "Parler au nom de l’Esprit Infini en dehors du Paradis et de Havona",
+   "Agir dans les affaires exécutives par l’intermédiaire des Sept Agents Exécutifs Suprêmes",
+   "Créer les supernaphins secondaires",
+   "Prendre part à la différenciation et à la personnalisation des Esprits Créatifs"
+  ],
+  "members": [
+   {
+    "name": "Maitre Esprit Numéro Un",
+    "note": "Représente spécialement le Père Universel ; préside au premier superunivers"
+   },
+   {
+    "name": "Maitre Esprit Numéro Deux",
+    "note": "Dépeint le Fils Éternel ; dirige le deuxième superunivers"
+   },
+   {
+    "name": "Maitre Esprit Numéro Trois",
+    "note": "Ressemble à l’Esprit Infini ; a la charge du troisième superunivers"
+   },
+   {
+    "name": "Maitre Esprit Numéro Quatre",
+    "note": "Partage les natures combinées du Père et du Fils ; veille sur le quatrième superunivers"
+   },
+   {
+    "name": "Maitre Esprit Numéro Cinq",
+    "note": "Unit les caractères du Père et de l’Esprit Infini ; dirige le cinquième superunivers"
+   },
+   {
+    "name": "Maitre Esprit Numéro Six",
+    "note": "Dépeint le caractère combiné du Fils Éternel et de l’Esprit Infini ; dirige le sixième superunivers"
+   },
+   {
+    "name": "Maitre Esprit Numéro Sept",
+    "note": "Dépeint également le Père, le Fils et l’Esprit ; préside au septième superunivers, Orvonton"
+   }
+  ],
+  "quote": {
+   "cit": "16:0.1"
+  }
+ },
+ "g01.02": {
+  "name": "Sept Agents Exécutifs Suprêmes",
+  "origin": "Trinitisés par le Père, le Fils et l’Esprit selon les spécifications des Sept Maitres Esprits",
+  "realm": "Les sept satellites paradisiaques de l’Esprit Infini (les sphères exécutives)",
+  "number": "7",
+  "roles": [
+   "Servir de coordinateurs administratifs du grand univers",
+   "Exécuter les plans de la divinité promulgués par les Maitres Esprits",
+   "Se consacrer chacun à l’administration d’un superunivers",
+   "Tenir le registre central des personnalités de la Troisième Source",
+   "Tenir au Paradis un conclave millénaire de salutation universelle"
+  ],
+  "members": [
+   {
+    "name": "Agent Exécutif Suprême Numéro Un à Numéro Sept",
+    "note": "Chacun sert le superunivers de même numéro ; le Numéro Sept sert Orvonton"
+   }
+  ],
+  "quote": {
+   "cit": "17:1.3"
+  }
+ },
+ "g01.03": {
+  "name": "Esprits Réflectifs",
+  "aka": [
+   "Esprits-Mères Réflectifs"
+  ],
+  "origin": "La Trinité du Paradis (créés par groupes de sept par une liaison de la Trinité avec l’un des Sept Maitres Esprits)",
+  "realm": "Les sièges des sept superunivers, sept dans chaque capitale (un de chaque type)",
+  "number": "49 (17:2.1 donne le chiffre de « cinquante »)",
+  "roles": [
+   "Servir de foyer réflectif à chaque capitale de superunivers",
+   "Réfléchir les nouvelles et les décrets entre les univers locaux et le superunivers",
+   "Conserver comme archives vivantes tout ce qui a une valeur spirituelle",
+   "Créer les Aides-Images Réflectifs et les seconaphins"
+  ],
+  "quote": {
+   "cit": "17:3.5"
+  }
+ },
+ "g01.04": {
+  "name": "Majeston",
+  "aka": [
+   "chef de la réflectivité"
+  ],
+  "origin": "Créé par l’Être Suprême en liaison fonctionnelle avec l’Absolu de Déité (personnalisé lors de la création du quarante-neuvième Esprit Réflectif)",
+  "realm": "Le Paradis, près du lieu de rencontre des Sept Maitres Esprits",
+  "number": "1",
+  "roles": [
+   "Servir de centre personnel et infaillible de la réflectivité dans les sept superunivers",
+   "Coordonner et maintenir le service de réflectivité de la création",
+   "Unir dans l’action, en des occasions spéciales, les sept organisations réflectives",
+   "Ne prendre aucune autre part à l’administration de l’univers"
+  ],
+  "quote": {
+   "cit": "17:2.3"
+  }
+ },
+ "g01.05": {
+  "name": "Aides-Images Réflectifs",
+  "aka": [
+   "Aides-Images"
+  ],
+  "origin": "Les Esprits Réflectifs (chaque Esprit Réflectif crée son propre Aide)",
+  "realm": "Les sièges des sept superunivers, exactement sept dans chacun",
+  "number": "49",
+  "roles": [
+   "Servir de canal entre les Esprits Réflectifs et les autorités du superunivers",
+   "Être les voix personnelles des Esprits Réflectifs auprès des cours des Anciens des Jours",
+   "Servir pour toujours aux côtés des Esprits dont ils sont issus",
+   "Diriger une foule incroyable de seconaphins auxiliaires"
+  ],
+  "quote": {
+   "cit": "17:4.1"
+  }
+ },
+ "g01.06": {
+  "name": "Sept Esprits des Circuits",
+  "aka": [
+   "Sept Esprits des Circuits de Havona",
+   "Esprits des Circuits"
+  ],
+  "origin": "La descendance collective des Sept Maitres Esprits (représentation impersonnelle conjointe de l’Esprit Infini et des Maitres Esprits)",
+  "realm": "Les sept circuits de Havona, un Esprit pour chaque circuit",
+  "number": "7",
+  "roles": [
+   "Imprégner chacun un seul circuit de Havona",
+   "Assurer une supervision spirituelle unifiée et coordonnée de l’univers central",
+   "Créer les supernaphins tertiaires",
+   "Fréquenter le mental des êtres de Havona, un peu comme les Ajusteurs habitent les mortels"
+  ],
+  "quote": {
+   "cit": "17:5.1"
+  }
+ },
+ "g01.07": {
+  "name": "Esprits Créatifs des univers locaux",
+  "aka": [
+   "Esprit-Mère de l’Univers",
+   "Divine Ministre"
+  ],
+  "origin": "L’Esprit Infini (différencié au sein de l’Esprit Infini lorsqu’un Fils Créateur est personnalisé ; devient une personne au moment de la création de la vie)",
+  "realm": "Le siège de chaque univers local (Salvington dans Nébadon)",
+  "number": "Un pour chaque Fils Créateur (nombre exact non révélé)",
+  "roles": [
+   "Organiser et administrer l’univers local avec le Fils Créateur",
+   "Être la mère immédiate des ordres angéliques de l’univers local",
+   "Conférer les esprits-mentaux adjuvats aux créatures vivantes",
+   "Être élevés à la cosouveraineté après les effusions du Fils"
+  ],
+  "quote": {
+   "cit": "34:0.2"
+  }
+ },
+ "g01.08": {
+  "name": "Esprits-mentaux adjuvats",
+  "aka": [
+   "esprits adjuvats"
+  ],
+  "origin": "L’Esprit Créatif de l’univers local (la Divine Ministre)",
+  "realm": "Les mondes habités de l’univers local (le mental matériel en évolution)",
+  "number": "7 (dans chaque univers local)",
+  "roles": [
+   "Exercer leur ministère auprès du mental matériel sur les mondes évolutionnaires",
+   "Conditionner l’évolution organique pour qu’elle soit orientée vers un but",
+   "Accompagner les Porteurs de Vie sur une nouvelle planète",
+   "Préparer le mental de l’homme évolutionnaire à la venue du Saint-Esprit"
+  ],
+  "members": [
+   {
+    "name": "esprit d’intuition",
+    "note": "Perception rapide, instincts réflexes, instinct de conservation"
+   },
+   {
+    "name": "esprit de compréhension",
+    "note": "Association d’idées, raisonnement vif et jugement rapide"
+   },
+   {
+    "name": "esprit de courage",
+    "note": "Le don de fidélité, base de la formation du caractère"
+   },
+   {
+    "name": "esprit de connaissance",
+    "note": "Curiosité de l’aventure et de la découverte, l’esprit scientifique"
+   },
+   {
+    "name": "esprit de conseil",
+    "note": "L’impulsion sociale, la coopération avec l’espèce"
+   },
+   {
+    "name": "esprit d’adoration",
+    "note": "L’impulsion religieuse, insigne de la candidature à l’ascension spirituelle"
+   },
+   {
+    "name": "esprit de sagesse",
+    "note": "Le plus élevé des adjuvats, qui coordonne les six autres"
+   }
+  ],
+  "quote": {
+   "cit": "36:5.4"
+  }
+ },
+ "g02.title": "Les Personnalités Suprêmes de la Trinité",
+ "g02.intro": "Les Personnalités Suprêmes de la Trinité sont des êtres administratifs conçus et créés par la Trinité du Paradis pour des tâches spécifiques ; elles forment sept ordres. Leur nombre est fixe et définitif ; leur création appartient au passé. Dans tout le grand univers, elles représentent la politique administrative et la justice de la Trinité, formant une seule ligne d’administration qui va des sphères paradisiaques du Père, à travers Havona et les secteurs majeurs et mineurs des superunivers, jusqu’aux univers locaux et aux capitales des constellations. Les deux derniers ordres, les Unions des Jours et les Fidèles des Jours, n’administrent pas, mais servent uniquement de conseillers auprès des univers locaux et des constellations. Étant d’origine trinitaire, aucun de ces êtres n’est exposé au risque de défaillance ou de rébellion.",
+ "g02.01": {
+  "name": "Secrets de Suprématie Trinitisés",
+  "aka": [
+   "Secrets de Suprématie"
+  ],
+  "origin": "La Trinité du Paradis (il n’existe aucune archive de leur origine)",
+  "realm": "Les sept sphères sacrées du Père dans le circuit le plus intérieur des satellites du Paradis, dix sur chaque sphère",
+  "number": "70",
+  "roles": [
+   "Conduire les affaires des sept sphères sacrées du Père",
+   "Gouverner chaque sphère en un corps de dix codirecteurs coordonnés",
+   "Sept dirigent les grands départements ; trois représentent le Père, le Fils et l’Esprit",
+   "Garder les secrets des relations personnelles de la Déité avec les groupes de créatures"
+  ],
+  "quote": {
+   "cit": "18:1.1"
+  }
+ },
+ "g02.02": {
+  "name": "Éternels des Jours",
+  "origin": "La Trinité du Paradis (il n’existe aucune archive de leur origine)",
+  "realm": "Le milliard de mondes de Havona, un sur chaque monde",
+  "number": "1 000 000 000",
+  "roles": [
+   "Diriger depuis l’éternité un seul monde de Havona",
+   "Développer leurs sphères de façon originale, selon leurs propres idées et idéaux",
+   "Présider les conclaves planétaires et visiter à tour de rôle les capitales des superunivers",
+   "Former en apprentissage les administrateurs des superunivers"
+  ],
+  "quote": {
+   "cit": "18:2.1"
+  }
+ },
+ "g02.03": {
+  "name": "Anciens des Jours",
+  "origin": "La Trinité du Paradis (tous trinitisés en même temps)",
+  "realm": "Les sphères-sièges des sept superunivers, trois sur chacune (Uversa dans Orvonton)",
+  "number": "21",
+  "roles": [
+   "Diriger en trio chaque gouvernement de superunivers",
+   "Imposer une administration uniforme à des superunivers divers",
+   "Rendre le jugement exécutif final sur l’extinction des créatures volitives",
+   "Gouverner les superunivers jusqu’à ce que le Suprême en assume la souveraineté"
+  ],
+  "quote": {
+   "cit": "18:3.4"
+  }
+ },
+ "g02.04": {
+  "name": "Perfections des Jours",
+  "origin": "La Trinité du Paradis (trinitisés pour assister les directeurs des superunivers)",
+  "realm": "Les capitales des dix secteurs majeurs de chaque superunivers, trois dans chacune",
+  "number": "210",
+  "roles": [
+   "Présider les gouvernements des secteurs majeurs",
+   "Régner comme vice-gérants immédiats des Anciens des Jours",
+   "Maitriser à la perfection les détails de l’administration",
+   "Administrer les engagements de groupe des diplômés ascendants dans les écoles des secteurs majeurs"
+  ],
+  "quote": {
+   "cit": "18:4.1"
+  }
+ },
+ "g02.05": {
+  "name": "Récents des Jours",
+  "origin": "La Trinité du Paradis (créés simultanément et formés dans Havona sous les Éternels des Jours)",
+  "realm": "Les sièges des secteurs mineurs des superunivers, trois dans chacun",
+  "number": "21 000",
+  "roles": [
+   "Présider par groupes de trois aux affaires des secteurs mineurs",
+   "S’occuper largement des grands problèmes physiques du superunivers",
+   "Représenter les Anciens des Jours dans les conseils suprêmes du Paradis",
+   "Faire des tournées d’inspection dans les capitales des univers locaux qui dépendent d’eux"
+  ],
+  "quote": {
+   "cit": "18:5.1"
+  }
+ },
+ "g02.06": {
+  "name": "Unions des Jours",
+  "origin": "La Trinité du Paradis",
+  "realm": "Le siège de chaque univers local, un dans chacun ; le corps de réserve au Paradis",
+  "number": "700 000 (pas tous en mission)",
+  "roles": [
+   "Assurer la liaison de la Trinité auprès des dirigeants duels d’un univers local",
+   "Conseiller et consulter en tant que représentants de la Trinité et du Père",
+   "Coordonner les activités administratives de toutes les branches du gouvernement de l’univers",
+   "Faire rapport à leurs supérieurs du secteur mineur, du secteur majeur et du superunivers",
+   "Conseiller les dirigeants intérimaires quand le Fils Créateur est absent"
+  ],
+  "quote": {
+   "cit": "18:6.1"
+  }
+ },
+ "g02.07": {
+  "name": "Fidèles des Jours",
+  "origin": "La Trinité du Paradis",
+  "realm": "Les capitales des constellations des univers locaux (les cent constellations de chacun) ; le corps de réserve au Paradis",
+  "number": "70 000 000 (pas tous en service)",
+  "roles": [
+   "Conseiller les Fils Vorondadeks qui gouvernent les constellations",
+   "Ne participer à l’administration que sur l’invitation des autorités de la constellation",
+   "Servir sous l’Union des Jours et lui faire rapport",
+   "Former le dernier maillon de la chaine consultative d’origine trinitaire"
+  ],
+  "quote": {
+   "cit": "18:7.2"
+  }
+ },
+ "g03.title": "Les Êtres Coordonnés d’origine Trinitaire",
+ "g03.intro": "Les Êtres Coordonnés d’origine Trinitaire sont sept groupes qui prennent origine dans la Trinité du Paradis : les Fils Instructeurs de la Trinité, qui sont aussi classés parmi les Fils Paradisiaques de Dieu ; trois groupes de hauts administrateurs des superunivers (les Perfecteurs de Sagesse, les Conseillers Divins et les Censeurs Universels) ; les Esprits Inspirés de la Trinité, quelque peu impersonnels ; et les natifs de Havona et les Citoyens du Paradis. Sauf pour les Fils Instructeurs et peut-être les Esprits Inspirés, le nombre de ces groupes est fixe et leur création est achevée. Avec les sept ordres de Personnalités Suprêmes de la Trinité, les trois groupes administratifs constituent les dix divisions connues sous le nom de Fils Stationnaires de la Trinité, soit un peu plus de trente-sept milliards d’êtres en tout. Aucun de ces êtres ne s’est jamais égaré, et pourtant, au sens le plus élevé, tous sont doués de libre arbitre.",
+ "g03.01": {
+  "name": "Fils Instructeurs de la Trinité",
+  "note": "D’origine trinitaire mais consacrés fonctionnellement au service de la filiation divine, ils sont des êtres de liaison agissant en double qualité. Leur nombre augmente constamment, et ils servent d’éducateurs universels. Voir le chapitre 4, Les Fils Paradisiaques de Dieu."
+ },
+ "g03.02": {
+  "name": "Perfecteurs de Sagesse",
+  "origin": "La Trinité du Paradis (une création spécialisée pour personnifier la sagesse de la divinité dans les superunivers)",
+  "realm": "Les sept superunivers, un milliard dans chacun, au service des Anciens des Jours",
+  "number": "7 000 000 000",
+  "roles": [
+   "Personnifier la sagesse de la divinité dans les superunivers",
+   "Être la source de la sagesse pour tous les éducateurs",
+   "Administrer en union avec la sagesse expérientielle des ascendeurs",
+   "Juger en trio avec les Conseillers Divins et les Censeurs Universels",
+   "Participer à la révélation de la vérité à des planètes et des systèmes individuels"
+  ],
+  "quote": {
+   "cit": "19:2.3"
+  }
+ },
+ "g03.03": {
+  "name": "Conseillers Divins",
+  "origin": "La Trinité du Paradis",
+  "realm": "Les sept superunivers, trois milliards dans chacun, jusqu’aux conseils des systèmes locaux",
+  "number": "21 000 000 000 (en service)",
+  "roles": [
+   "Être le conseil de la Déité pour les sept superunivers",
+   "S’attacher, par groupes de un à sept, aux Perfecteurs de Sagesse et aux Censeurs Universels",
+   "Siéger à sept dans le tribunal de neuf membres de la divinité trinitaire",
+   "Participer à la révélation de la vérité (auteurs de plusieurs de ces fascicules)"
+  ],
+  "quote": {
+   "cit": "19:3.1"
+  }
+ },
+ "g03.04": {
+  "name": "Censeurs Universels",
+  "origin": "La Trinité du Paradis",
+  "realm": "Le milliard de mondes de Havona, un sur chacun, et les sept superunivers, un milliard dans chacun",
+  "number": "8 000 000 000",
+  "roles": [
+   "Incarner le jugement de la Déité, le jugement de la Trinité elle-même",
+   "Siéger avec les Anciens des Jours dans tout jugement",
+   "Résumer tous les témoignages en une décision finale sans appel",
+   "Prendre part au jugement de chaque dispensation des mondes évolutionnaires"
+  ],
+  "quote": {
+   "cit": "19:4.1"
+  }
+ },
+ "g03.05": {
+  "name": "Esprits Inspirés de la Trinité",
+  "aka": [
+   "Esprits Inspirés"
+  ],
+  "origin": "La Trinité du Paradis",
+  "realm": "Apparemment presque partout, agissant par tous les circuits connus (aucune place discernable dans l’administration des superunivers)",
+  "number": "Non révélé (on pense qu’il n’est pas fixe)",
+  "roles": [
+   "Peuvent être utilisés par l’une ou deux des Déités, ou par les trois",
+   "Assister les êtres d’origine trinitaire dans leurs missions",
+   "Semblent enseigner les royaumes par des techniques superconscientes",
+   "Destinés, selon l’enseignement des Melchizédeks, à remplacer les Messagers Solitaires"
+  ],
+  "quote": {
+   "cit": "19:5.3"
+  }
+ },
+ "g03.06": {
+  "name": "Natifs de Havona",
+  "aka": [
+   "Havoniens"
+  ],
+  "origin": "Création directe de la Trinité du Paradis",
+  "realm": "Le milliard de mondes de Havona (certains demeurent dans la première zone du Paradis)",
+  "number": "Au-delà des conceptions du mental humain (en diminution constante, car il n’en est plus créé)",
+  "roles": [
+   "Habiter les mondes parfaits de l’univers central",
+   "Nouer des amitiés durables avec les mortels ascendants, pour leur bénéfice mutuel",
+   "Peuvent se qualifier par le service pour le Corps de la Finalité",
+   "Sont groupés avec les Citoyens du Paradis comme personnalités Paradis-Havona"
+  ],
+  "quote": {
+   "cit": "19:6.1"
+  }
+ },
+ "g03.07": {
+  "name": "Citoyens du Paradis",
+  "origin": "La Trinité du Paradis",
+  "realm": "Le Paradis (la première zone, intérieure, de l’Aire Sainte)",
+  "number": "Plus de 3 000 ordres (nombres individuels non révélés)",
+  "roles": [
+   "Demeurer en permanence au Paradis",
+   "Ne prendre aucune part directe au perfectionnement des créatures volitives ascendantes",
+   "Fraterniser avec les ascendeurs mortels qui atteignent le Paradis",
+   "Recevoir le ministère éducatif des supernaphins primaires"
+  ],
+  "quote": {
+   "cit": "19:7.1"
+  }
+ }
+}

@@ -1,0 +1,738 @@
+{
+ "g10.title": "Les esprits tutélaires des superunivers",
+ "g10.intro": "Les esprits tutélaires des superunivers comprennent trois ordres : les seconaphins, les tertiaphins et les omniaphins. De même que les supernaphins sont les armées angéliques de l’univers central et les séraphins celles des univers locaux, les seconaphins sont les esprits tutélaires des superunivers. Ils sont produits par les sept Esprits Réflectifs au siège de chaque superunivers, par groupes de sept, toujours un primaire, trois secondaires et trois tertiaires. Les tertiaphins et les omniaphins ne sont pas techniquement des esprits tutélaires des superunivers, bien que les uns et les autres y servent comme ministres spirituels, et ni les uns ni les autres ne s’occupent directement de l’ascension des mortels. Ce chapitre traite d’abord de ces deux ordres, puis des sept types de chacun des seconaphins primaires, secondaires et tertiaires, soit vingt-et-un types en tout.",
+ "g10.01": {
+  "name": "Tertiaphins",
+  "origin": "L’Esprit Infini ; personnalisés au Paradis par groupes de mille",
+  "realm": "Inscrits aux sièges des superunivers, techniquement résidents de ces capitales, bien qu’ils servent dans les créations locales",
+  "number": "Mille pour chaque Fils Créateur",
+  "roles": [
+   "Être le seul état-major personnel d’un Fils Créateur aux premiers temps de la construction d’un univers",
+   "Acquérir une puissante expérience comme assistants du Fils pendant l’assemblage de l’univers",
+   "Se démettre officiellement lorsque la Radieuse Étoile du Matin est personnalisée",
+   "Devenir des ministres de liaison entre le Fils Créateur et les Anciens des Jours",
+   "Beaucoup servent temporairement comme Très Hauts Assistants"
+  ],
+  "quote": {
+   "cit": "28:1.1"
+  }
+ },
+ "g10.02": {
+  "name": "Omniaphins",
+  "origin": "Créés par l’Esprit Infini en liaison avec les Sept Agents Exécutifs Suprêmes",
+  "realm": "Affectations dans le grand univers ; dans Orvonton, leur siège est une colonie de courtoisie spéciale dans les régions septentrionales d’Uversa",
+  "number": "Non révélé",
+  "roles": [
+   "Servir exclusivement de serviteurs et de messagers des Sept Agents Exécutifs Suprêmes",
+   "Surveiller les superunivers en vue de la coordination administrative du point de vue des Agents Exécutifs",
+   "La colonie d’Uversa ne fait rapport qu’à l’Agent Exécutif Suprême d’Orvonton",
+   "Agir sur les sièges des systèmes comme représentants personnels de la Sentinelle Affectée",
+   "Certains des premiers omniaphins furent choisis comme noyau des Conseillers Techniques"
+  ],
+  "quote": {
+   "cit": "28:2.1"
+  }
+ },
+ "g10.s03.title": "Seconaphins primaires",
+ "g10.s03.intro": "Un seconaphin sur sept est primaire ; ce sont les « miroirs vivants » attachés aux Anciens des Jours. Par leur nature inhérente, ils tendent vers sept types de service, répartis en série : le premier créé et chaque septième par la suite appartiennent au même type.",
+ "g10.s03.01": {
+  "name": "La Voix de l’Acteur Conjoint",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le premier seconaphin primaire créé et chaque septième par la suite)",
+  "realm": "Le siège du superunivers, affectés aux Anciens des Jours",
+  "number": "Non révélé",
+  "roles": [
+   "Interpréter le mental de l’Esprit Infini auprès des Anciens des Jours",
+   "Faire comprendre ce mental à leurs associés du supergouvernement",
+   "Être ce qui se rapproche le plus d’une représentation personnelle de la Troisième Source-Centre dans une capitale de superunivers",
+   "Combler la place laissée par l’absence d’une Divine Ministre au siège d’un supergouvernement"
+  ],
+  "quote": {
+   "cit": "28:4.4"
+  }
+ },
+ "g10.s03.02": {
+  "name": "La Voix des Sept Maitres Esprits",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le deuxième seconaphin primaire créé et chaque septième par la suite)",
+  "realm": "Le siège du superunivers, affectés aux Anciens des Jours",
+  "number": "Non révélé",
+  "roles": [
+   "Dépeindre les natures et les réactions collectives des Sept Maitres Esprits",
+   "Représenter collectivement les Maitres Esprits auprès des Anciens des Jours",
+   "Compléter la représentation individuelle assurée par les Esprits Réflectifs"
+  ],
+  "quote": {
+   "cit": "28:4.5"
+  }
+ },
+ "g10.s03.03": {
+  "name": "La Voix des Fils Créateurs",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le troisième seconaphin primaire créé et chaque septième par la suite)",
+  "realm": "Le siège du superunivers, affectés aux Anciens des Jours",
+  "number": "Non révélé",
+  "roles": [
+   "Réfléchir le mental des Fils Créateurs de l’ordre des Micaëls",
+   "Faire connaitre aussitôt aux Anciens des Jours l’attitude d’un Micaël, sans l’appeler par les lignes de l’espace",
+   "Fournir d’en bas les éclairs vocaux des Micaëls",
+   "N’avoir jamais commis d’erreur dans leurs présentations dans toute l’histoire d’Uversa"
+  ],
+  "members": [
+   {
+    "name": "Chef des Voix de Nébadon",
+    "note": "Présente sur demande le seconaphin d’enregistrement de Micaël"
+   }
+  ],
+  "quote": {
+   "cit": "28:4.6"
+  }
+ },
+ "g10.s03.04": {
+  "name": "La Voix des Armées Angéliques",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le quatrième seconaphin primaire créé et chaque septième par la suite)",
+  "realm": "Le siège du superunivers, affectés aux Anciens des Jours",
+  "number": "Non révélé",
+  "roles": [
+   "Réagir aux sentiments de tous les ordres d’anges, des supernaphins aux séraphins",
+   "Rendre instantanément accessible aux conseils des Anciens des Jours l’attitude de tout ange commandant ou supervisant",
+   "Fournir un témoignage inconscient, et donc impartial, des armées angéliques"
+  ],
+  "quote": {
+   "cit": "28:4.11"
+  }
+ },
+ "g10.s03.05": {
+  "name": "Les Récepteurs des Télédiffusions",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le cinquième seconaphin primaire créé et chaque septième par la suite)",
+  "realm": "Le siège du superunivers, affectés aux Anciens des Jours",
+  "number": "Non révélé",
+  "roles": [
+   "Recevoir une classe spéciale de messages télédiffusés que seuls captent les seconaphins primaires",
+   "Travailler en liaison avec les anges des voix réflectives",
+   "Synchroniser la vision réflective des Anciens des Jours avec les messages effectifs des circuits de communication"
+  ],
+  "quote": {
+   "cit": "28:4.12"
+  }
+ },
+ "g10.s03.06": {
+  "name": "Les Personnalités de Transport",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le sixième seconaphin primaire créé et chaque septième par la suite)",
+  "realm": "Du siège du superunivers jusqu’au cercle extérieur de Havona ; vers l’intérieur jusqu’au Paradis et vers l’extérieur jusqu’aux mondes de leurs secteurs",
+  "number": "Non révélé",
+  "roles": [
+   "Transporter les pèlerins du temps depuis le siège du superunivers jusqu’au cercle extérieur de Havona",
+   "Servir de corps de transport des superunivers, vers l’intérieur jusqu’au Paradis et vers l’extérieur jusqu’à leurs secteurs",
+   "Entreprendre le voyage d’Uversa à Havona, que les séraphins ne pourraient supporter",
+   "Absorber de l’énergie de vol en cours de route et récupérer en fin de voyage"
+  ],
+  "quote": {
+   "cit": "28:4.13"
+  }
+ },
+ "g10.s03.07": {
+  "name": "Le Corps de Réserve",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le septième seconaphin primaire créé et chaque septième par la suite)",
+  "realm": "Le siège du superunivers, affectés aux Anciens des Jours",
+  "number": "Un groupe très vaste (nombre exact non révélé)",
+  "roles": [
+   "Assumer les tâches non classées et les affectations d’urgence des royaumes",
+   "Remplacer leurs compagnons spécialisés, mais seulement en cas d’urgence",
+   "Accomplir les tâches générales du superunivers qui sortent du cadre des anges à affectation spécifique"
+  ],
+  "quote": {
+   "cit": "28:4.14"
+  }
+ },
+ "g10.s04.title": "Seconaphins secondaires",
+ "g10.s04.intro": "Les seconaphins secondaires ne sont pas moins réflectifs que les primaires ; les termes primaire, secondaire et tertiaire désignent l’ordre de procédure, non le statut. Leurs sept types servent les associés d’origine trinitaire des Anciens des Jours : trois sont attachés aux Perfecteurs de Sagesse, trois aux Conseillers Divins et un aux Censeurs Universels.",
+ "g10.s04.01": {
+  "name": "La Voix de la Sagesse",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le premier type de seconaphins secondaires, créés en série un sur sept)",
+  "realm": "Le siège du superunivers, attachés aux Perfecteurs de Sagesse (chambres de réception spéciales du temple de la sagesse sur Uversa)",
+  "number": "Non révélé",
+  "roles": [
+   "Maintenir une liaison perpétuelle avec les bibliothèques vivantes du Paradis",
+   "Séparer l’essence de la sagesse des informations circulant sur les maitres circuits",
+   "Transmettre infailliblement cette sagesse aux Perfecteurs de Sagesse",
+   "Puiser à la fois la sagesse divine d’en haut et la sagesse pratique d’en bas"
+  ],
+  "quote": {
+   "cit": "28:5.7"
+  }
+ },
+ "g10.s04.02": {
+  "name": "L’Âme de la Philosophie",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le deuxième type de seconaphins secondaires, créés en série un sur sept)",
+  "realm": "Le siège du superunivers, attachés aux Perfecteurs de Sagesse",
+  "number": "Non révélé",
+  "roles": [
+   "Rester en synchronisme focal avec les maitres de philosophie du Paradis",
+   "Réfléchir, comme des miroirs vivants, la sagesse de la divinité et la philosophie du Paradis",
+   "Diluer cette philosophie selon les besoins des mondes humbles en tournant leur visage vers le bas",
+   "Aider les Perfecteurs de Sagesse à adapter leurs décisions aux besoins réels"
+  ],
+  "quote": {
+   "cit": "28:5.11"
+  }
+ },
+ "g10.s04.03": {
+  "name": "L’Union des Âmes",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le troisième type de seconaphins secondaires, créés en série un sur sept)",
+  "realm": "Le siège du superunivers, attachés aux Perfecteurs de Sagesse",
+  "number": "Non révélé",
+  "roles": [
+   "Réfléchir les idéaux et le statut des relations éthiques",
+   "Aider à résoudre les petites frictions et les malentendus entre êtres intelligents",
+   "Fournir l’information courante de l’univers en même temps que l’idéal paradisiaque d’ajustement",
+   "Maintenir une liaison réflective avec les interprètes d’éthique du Paradis",
+   "Favoriser le travail d’équipe dans tout Orvonton"
+  ],
+  "quote": {
+   "cit": "28:5.14"
+  }
+ },
+ "g10.s04.04": {
+  "name": "Le Cœur du Conseil",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le quatrième type de seconaphins secondaires, créés en série un sur sept)",
+  "realm": "Le siège du superunivers, attachés aux Conseillers Divins",
+  "number": "Non révélé",
+  "roles": [
+   "Posséder les faits de l’espace, sélectionnés dans les circuits du temps",
+   "Réfléchir spécialement les coordinateurs supéraphiques de renseignements",
+   "Réfléchir sélectivement les conseils de tous les êtres, élevés ou humbles",
+   "Faire en sorte que les décisions des Conseillers Divins incorporent le conseil de tout le superunivers"
+  ],
+  "quote": {
+   "cit": "28:5.15"
+  }
+ },
+ "g10.s04.05": {
+  "name": "La Joie de l’Existence",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le cinquième type de seconaphins secondaires, créés en série un sur sept)",
+  "realm": "Le siège du superunivers, attachés aux Conseillers Divins",
+  "number": "Non révélé",
+  "roles": [
+   "Être réflectivement accordés avec les surveillants supéraphiques d’harmonie et certains séraphins",
+   "Encourager les réactions de joie chez les anges et les créatures volitives inférieures",
+   "Opérer comme centres de coordination des joies en collaboration avec les directeurs de la rétrospection",
+   "S’efforcer d’améliorer le gout de l’humour et de développer un superhumour",
+   "Chercher à montrer qu’il y a une joie inhérente à l’existence douée de libre arbitre"
+  ],
+  "quote": {
+   "cit": "28:5.16"
+  }
+ },
+ "g10.s04.06": {
+  "name": "La Satisfaction du Service",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le sixième type de seconaphins secondaires, créés en série un sur sept)",
+  "realm": "Le siège du superunivers, attachés aux Conseillers Divins",
+  "number": "Non révélé",
+  "roles": [
+   "Réfléchir l’attitude des directeurs de conduite du Paradis",
+   "Rehausser la valeur du service et la satisfaction qu’il procure",
+   "Réfléchir d’un monde à l’autre les bienfaits du service spirituel",
+   "Se servir des performances des meilleurs pour inspirer les médiocres",
+   "Promouvoir une saine rivalité fraternelle"
+  ],
+  "quote": {
+   "cit": "28:5.17"
+  }
+ },
+ "g10.s04.07": {
+  "name": "Le Discerneur d’Esprits",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le septième type de seconaphins secondaires, créés en série un sur sept)",
+  "realm": "Le siège du superunivers, attachés aux Censeurs Universels, qu’ils accompagnent dans toute mission hors d’Uversa",
+  "number": "Non révélé",
+  "roles": [
+   "Révéler aussitôt le vrai motif, le but et l’origine de toute information",
+   "Réfléchir infailliblement le caractère moral et spirituel réel d’un individu",
+   "Permettre aux Censeurs de juger en juges justes",
+   "Rapporter « quelle sorte d’esprit » est né sur les mondes de l’espace",
+   "Réfléchir la présence des Ajusteurs sans pouvoir déchiffrer leur mentalité"
+  ],
+  "quote": {
+   "cit": "28:5.19"
+  }
+ },
+ "g10.s05.title": "Seconaphins tertiaires",
+ "g10.s05.intro": "Les seconaphins tertiaires sont également créés en série en sept types réflectifs, mais au lieu d’être affectés type par type, ils servent collectivement et de façon interchangeable sous les Fils d’Aboutissement Trinitisés : les Puissants Messagers, les Élevés en Autorité et les Dépourvus de Nom et de Nombre. Des trois ordres de seconaphins, ce sont eux qui exercent le ministère le plus étendu auprès des créatures ascendantes du temps.",
+ "g10.s05.01": {
+  "name": "La Signification d’Origine",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le premier type de seconaphins tertiaires, créés en série)",
+  "realm": "Le siège du superunivers, affectés collectivement aux Fils d’Aboutissement Trinitisés ; ils exercent aussi un large ministère auprès des ascendeurs",
+  "number": "Non révélé",
+  "roles": [
+   "Dépeindre instantanément tout ce qui est requis sur l’origine de tout individu, de toute race ou de tout monde",
+   "Servir de généalogies de référence vivantes et toutes prêtes des multitudes du superunivers",
+   "Fournir des estimations à jour de l’ascendance et du statut actuel",
+   "Enseigner aux ascendeurs comment appliquer l’éthique de l’esprit"
+  ],
+  "quote": {
+   "cit": "28:6.4"
+  }
+ },
+ "g10.s05.02": {
+  "name": "Le Mémoire de la Miséricorde",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le deuxième type de seconaphins tertiaires, créés en série)",
+  "realm": "Le siège du superunivers, affectés collectivement aux Fils d’Aboutissement Trinitisés ; ils exercent aussi un large ministère auprès des ascendeurs",
+  "number": "Non révélé",
+  "roles": [
+   "Tenir les archives vivantes de la miséricorde accordée aux individus et aux races",
+   "Mettre en balance les dettes spirituelles et l’actif de la provision salvatrice",
+   "Témoigner devant les tribunaux d’Uversa lorsque le droit à la vie perpétuelle est jugé",
+   "Enseigner aux ascendeurs comment être vraiment miséricordieux"
+  ],
+  "quote": {
+   "cit": "28:6.6"
+  }
+ },
+ "g10.s05.03": {
+  "name": "L’Importance du Temps",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le troisième type de seconaphins tertiaires, créés en série)",
+  "realm": "Le siège du superunivers, affectés collectivement aux Fils d’Aboutissement Trinitisés ; ils exercent aussi un large ministère auprès des ascendeurs",
+  "number": "Non révélé",
+  "roles": [
+   "Donner des conseils sur le facteur temps dans l’attribution des charges",
+   "Témoigner que chaque prévenu a disposé d’un temps suffisant pour décider",
+   "Dépeindre le temps nécessaire à l’achèvement de toute entreprise",
+   "Permettre aux autorités ascendantes de prévoir les évènements futurs",
+   "Enseigner sur les mondes des maisons l’usage du temps dans le travail et le repos"
+  ],
+  "quote": {
+   "cit": "28:6.11"
+  }
+ },
+ "g10.s05.04": {
+  "name": "La Solennité de la Confiance",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le quatrième type de seconaphins tertiaires, créés en série)",
+  "realm": "Le siège du superunivers, affectés aux Fils d’Aboutissement Trinitisés ; ils accompagnent toujours les Élevés en Autorité",
+  "number": "Non révélé",
+  "roles": [
+   "Dépeindre aux créatures volitives l’obligation, le caractère sacré et la solennité de la confiance",
+   "Réfléchir aux autorités dirigeantes le degré exact de fiabilité de tout candidat",
+   "Éviter l’erreur de confier prématurément des responsabilités",
+   "Accompagner les Élevés en Autorité en évaluant les candidats avant toute affectation"
+  ],
+  "quote": {
+   "cit": "28:6.14"
+  }
+ },
+ "g10.s05.05": {
+  "name": "La Sainteté du Service",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le cinquième type de seconaphins tertiaires, créés en série)",
+  "realm": "Le siège du superunivers, affectés collectivement aux Fils d’Aboutissement Trinitisés ; ils exercent aussi un large ministère auprès des ascendeurs",
+  "number": "Non révélé",
+  "roles": [
+   "Révéler sur leur visage la nature réelle de tout service",
+   "Montrer une analyse complète des motifs véritables et cachés",
+   "Mettre à nu les motifs profonds du cœur humain et du mental angélique"
+  ],
+  "quote": {
+   "cit": "28:6.19"
+  }
+ },
+ "g10.s05.06": {
+  "name": "Le Secret de Grandeur",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le sixième type de seconaphins tertiaires, créés en série)",
+  "realm": "Le siège du superunivers, affectés collectivement aux Fils d’Aboutissement Trinitisés ; ils exercent aussi un large ministère auprès des ascendeurs",
+  "number": "Non révélé",
+  "roles": [
+   "Évaluer réflectivement la grandeur des êtres",
+   "Mesurer la grandeur à son contenu de bonté",
+   "Travailler avec l’Âme de Bonté, en rendant un rapport double et interdépendant"
+  ],
+  "quote": {
+   "cit": "28:6.21"
+  }
+ },
+ "g10.s05.07": {
+  "name": "L’Âme de Bonté",
+  "origin": "Les sept Esprits Réflectifs du siège d’un superunivers (le septième type de seconaphins tertiaires, créés en série)",
+  "realm": "Le siège du superunivers, affectés collectivement aux Fils d’Aboutissement Trinitisés ; ils exercent aussi un large ministère auprès des ascendeurs",
+  "number": "Non révélé",
+  "roles": [
+   "Évaluer réflectivement la bonté des êtres",
+   "Dépeindre la bonté en même temps que sa grandeur divine inhérente",
+   "Travailler avec le Secret de Grandeur, en rendant un rapport double et interdépendant"
+  ],
+  "quote": {
+   "cit": "28:6.21"
+  }
+ },
+ "g11.title": "Les Directeurs de Pouvoir d’Univers",
+ "g11.intro": "Les Directeurs de Pouvoir d’Univers sont des êtres vivants qui règlent intelligemment l’énergie physique dans tout le grand univers. Les Sept Maitres Esprits créèrent les Sept Directeurs Suprêmes de Pouvoir ; ceux-ci, à leur tour, avec les Maitres Esprits, produisirent les Centres Suprêmes de Pouvoir, dont la progéniture directe est formée par les Maitres Contrôleurs Physiques. Ils ne s’occupent que du pouvoir — l’énergie matérielle ou semi-physique —, qu’ils ne créent pas, mais qu’ils modifient, manipulent et orientent. Les centres de pouvoir et les contrôleurs physiques sont créés parfaits et ne passent par aucune formation ni évolution ; les Directeurs Suprêmes de Pouvoir et tous leurs subordonnés échappent à l’intervention des tribunaux de l’espace et ne sont pas soumis à la direction administrative des gouvernements des superunivers ou des univers locaux. Ce chapitre traite des Sept Directeurs Suprêmes de Pouvoir, des Superviseurs de Pouvoir Morontiel des univers locaux, des sept groupes de chacun des centres de pouvoir et des contrôleurs physiques, et des Maitres Organisateurs de Force qui les précèdent dans l’espace extérieur.",
+ "g11.01": {
+  "name": "Sept Directeurs Suprêmes de Pouvoir",
+  "aka": [
+   "Directeurs Suprêmes de Pouvoir",
+   "Sept Directeurs Suprêmes"
+  ],
+  "origin": "Les Sept Maitres Esprits agissant collectivement (la première progéniture semi-matérielle enregistrée issue d’une ascendance purement spirituelle)",
+  "realm": "La périphérie du Paradis, où ils marquent les sièges focaux de force des Maitres Esprits",
+  "number": "7",
+  "roles": [
+   "Régler l’énergie physique du grand univers",
+   "Agir individuellement pour les superunivers et collectivement pour la création centrale",
+   "Créer les Centres Suprêmes de Pouvoir avec les Maitres Esprits",
+   "Gouverner les Maitres Contrôleurs Physiques jusqu’aux sièges des superunivers",
+   "Travailler chacun en union éternelle avec un Maitre Esprit"
+  ],
+  "quote": {
+   "cit": "29:1.1"
+  }
+ },
+ "g11.s02.title": "Superviseurs de Pouvoir Morontiel",
+ "g11.s02.intro": "Progéniture d’un Esprit-Mère d’univers local, ils sont les canaux du pouvoir morontiel qui rendent possible l’environnement de transition de la progression morontielle. Les premiers sont créés lorsque le premier survivant mortel arrive sur un monde des maisons, et ils sont créés par groupes de mille en sept classes. Dirigés uniquement par l’activité conjointe du Fils de l’Univers et de l’Esprit de l’Univers, ils se gouvernent par ailleurs eux-mêmes et ont leur siège sur le premier monde des maisons de chaque système local.",
+ "g11.s02.01": {
+  "name": "Régulateurs de circuits",
+  "origin": "Un Esprit-Mère d’univers local (une classe des Superviseurs de Pouvoir Morontiel)",
+  "realm": "Les sphères de transition (morontielles) ; chaque circuit est limité à un seul monde",
+  "number": "400 dans chaque groupe de 1 000 (il en faut des millions pour les seuls mondes des maisons de Satania)",
+  "roles": [
+   "Coordonner l’énergie physique et spirituelle",
+   "Régulariser son écoulement dans les canaux séparés des sphères morontielles",
+   "Transformer, comme générateurs de pouvoir morontiel, les énergies de l’espace en matériaux morontiels",
+   "Modifier les énergies matérielles pour que leurs associés puissent les contrôler"
+  ],
+  "quote": {
+   "cit": "48:2.13"
+  }
+ },
+ "g11.s02.02": {
+  "name": "Coordinateurs de systèmes",
+  "origin": "Un Esprit-Mère d’univers local (une classe des Superviseurs de Pouvoir Morontiel)",
+  "realm": "Les mondes des maisons et les autres sphères morontielles de transition",
+  "number": "200 dans chaque groupe de 1 000",
+  "roles": [
+   "Harmoniser en une unité opérante les systèmes de pouvoir différents de chaque monde",
+   "Recevoir les ascendeurs remis à la sphère suivante",
+   "Opérer les changements de forme des créatures dans les chambres de transition (environ sept jours)"
+  ],
+  "quote": {
+   "cit": "48:2.15"
+  }
+ },
+ "g11.s02.03": {
+  "name": "Conservateurs planétaires",
+  "origin": "Un Esprit-Mère d’univers local (une classe des Superviseurs de Pouvoir Morontiel)",
+  "realm": "Chaque monde morontiel, depuis les sphères des maisons jusqu’au siège de l’univers",
+  "number": "100 dans chaque groupe de 1 000 (soixante-dix gardiens sur chaque monde morontiel)",
+  "roles": [
+   "Avoir la garde des affaires morontielles de chaque monde morontiel",
+   "Constituer le conseil planétaire local de l’autorité morontielle suprême",
+   "Accorder aux ascendeurs qui arrivent les matériaux de leurs formes morontielles",
+   "Autoriser les changements de forme qui permettent à un ascendeur de passer à la sphère suivante"
+  ],
+  "quote": {
+   "cit": "48:2.18"
+  }
+ },
+ "g11.s02.04": {
+  "name": "Contrôleurs conjugués",
+  "origin": "Un Esprit-Mère d’univers local (une classe des Superviseurs de Pouvoir Morontiel)",
+  "realm": "Le centre de chaque unité administrative d’un monde morontiel",
+  "number": "100 dans chaque groupe de 1 000 (un dans chaque unité administrative)",
+  "roles": [
+   "Être sensibles aux énergies physiques, spirituelles et morontielles et opérer avec elles",
+   "Servir de centre à une équipe de travail d’autres superviseurs de pouvoir dans chaque unité"
+  ],
+  "members": [
+   {
+    "name": "Composition d’une équipe",
+    "note": "Un contrôleur conjugué avec deux coordinateurs de systèmes, quatre régulateurs de circuits, un conservateur planétaire, un stabilisateur de liaisons, et soit un archiviste associé, soit un assortisseur sélectif"
+   }
+  ],
+  "quote": {
+   "cit": "48:2.19"
+  }
+ },
+ "g11.s02.05": {
+  "name": "Stabilisateurs de liaisons",
+  "origin": "Un Esprit-Mère d’univers local (une classe des Superviseurs de Pouvoir Morontiel)",
+  "realm": "Les mondes morontiels de transition",
+  "number": "100 dans chaque groupe de 1 000",
+  "roles": [
+   "Régler l’énergie morontielle en association avec les forces physiques et spirituelles",
+   "Rendre possible la conversion de l’énergie morontielle en matériaux morontiels",
+   "Ralentir la rotation des énergies jusqu’au point où la physicalisation peut se produire"
+  ],
+  "quote": {
+   "cit": "48:2.20"
+  }
+ },
+ "g11.s02.06": {
+  "name": "Assortisseurs sélectifs",
+  "origin": "Un Esprit-Mère d’univers local (une classe des Superviseurs de Pouvoir Morontiel)",
+  "realm": "Les mondes morontiels",
+  "number": "50 dans chaque groupe de 1 000",
+  "roles": [
+   "Réaccorder les ascendeurs qui passent à une nouvelle phase ou les mettre à un diapason plus élevé",
+   "Les maintenir en synchronisme progressif avec la vie morontielle",
+   "Examiner l’accomplissement spirituel et certifier le niveau avancé atteint",
+   "Grouper les personnalités morontielles pour l’étude, l’enseignement et d’autres projets"
+  ],
+  "quote": {
+   "cit": "48:2.21"
+  }
+ },
+ "g11.s02.07": {
+  "name": "Archivistes associés",
+  "origin": "Un Esprit-Mère d’univers local (une classe des Superviseurs de Pouvoir Morontiel)",
+  "realm": "Les mondes morontiels",
+  "number": "50 dans chaque groupe de 1 000",
+  "roles": [
+   "Servir d’archivistes du monde morontiel",
+   "Superviser et conserver les archives morontielles en association avec les archivistes spirituels"
+  ],
+  "quote": {
+   "cit": "48:2.25"
+  }
+ },
+ "g11.s03.title": "Centres Suprêmes de Pouvoir",
+ "g11.s03.intro": "Créés par les Sept Directeurs Suprêmes de Pouvoir en association avec les Sept Maitres Esprits, ils sont, avec leurs associés et subordonnés, plus de dix milliards. Doués d’une personnalité de la Troisième Source et d’une haute volition, ils sont l’intellect du système de pouvoir du grand univers. En dehors de Havona, ils n’opèrent que sur des sphères architecturales ou sur des corps spatiaux convenablement constitués, et ils servent en sept groupes.",
+ "g11.s03.01": {
+  "name": "Superviseurs Suprêmes de Centre",
+  "origin": "Créés collectivement par les Sept Directeurs Suprêmes de Pouvoir en association avec les Sept Maitres Esprits",
+  "realm": "Les mondes spéciaux des Sept Agents Exécutifs Suprêmes, un siège sur chacun",
+  "number": "7",
+  "roles": [
+   "Régler les maitres circuits d’énergie du grand univers",
+   "Travailler en association étroite avec les Sept Agents Exécutifs Suprêmes",
+   "Traiter, avec les Directeurs Suprêmes de Pouvoir, tous les phénomènes situés au-dessous de l’« énergie de gravité »",
+   "Créer les transformateurs d’énergie conjointement avec les Directeurs Suprêmes de Pouvoir"
+  ],
+  "quote": {
+   "cit": "29:2.10"
+  }
+ },
+ "g11.s03.02": {
+  "name": "Centres de Havona",
+  "origin": "Créés collectivement par les Sept Directeurs Suprêmes de Pouvoir en association avec les Sept Maitres Esprits",
+  "realm": "L’univers central de Havona",
+  "number": "1 000 000 (chacun supervisant mille mondes de Havona)",
+  "roles": [
+   "Superviser chacun mille mondes de Havona",
+   "Maintenir la perfection du contrôle de l’énergie que l’on ne trouve que dans Havona"
+  ],
+  "quote": {
+   "cit": "29:2.12"
+  }
+ },
+ "g11.s03.03": {
+  "name": "Centres de Superunivers",
+  "origin": "Créés collectivement par les Sept Directeurs Suprêmes de Pouvoir en association avec les Sept Maitres Esprits",
+  "realm": "La sphère capitale de chacun des sept superunivers",
+  "number": "1 000 dans chaque superunivers (troisième ordre)",
+  "roles": [
+   "Recevoir les trois courants d’énergie primaire, de dix ségrégations chacun",
+   "Émettre sept circuits de pouvoir spécialisés",
+   "Constituer l’organisation électronique du pouvoir de l’univers"
+  ],
+  "quote": {
+   "cit": "29:2.13"
+  }
+ },
+ "g11.s03.04": {
+  "name": "Centres d’Univers Local",
+  "origin": "Créés collectivement par les Sept Directeurs Suprêmes de Pouvoir en association avec les Sept Maitres Esprits",
+  "realm": "Le siège de chaque univers local (dans Nébadon, le centre énergétique exact de Salvington)",
+  "number": "100 dans chaque univers local (quatrième ordre)",
+  "roles": [
+   "Abaisser et modifier les sept circuits de pouvoir venant du superunivers",
+   "Envoyer une énergie utilisable aux constellations et aux systèmes",
+   "Assister les Fils Créateurs dans les époques ultérieures de l’organisation d’un univers",
+   "Fournir des voies d’énergie pour les communications interplanétaires"
+  ],
+  "quote": {
+   "cit": "29:2.16"
+  }
+ },
+ "g11.s03.05": {
+  "name": "Centres de Constellation",
+  "origin": "Créés collectivement par les Sept Directeurs Suprêmes de Pouvoir en association avec les Sept Maitres Esprits",
+  "realm": "Chaque constellation (dans Norlatiadek, au centre du système stellaire qui forme le noyau physique de la constellation)",
+  "number": "10 dans chaque constellation (cinquième ordre)",
+  "roles": [
+   "Projeter de l’énergie vers les cent systèmes locaux tributaires",
+   "Émettre des lignes de pouvoir pour les communications et les transports",
+   "Alimenter en énergie les créatures qui dépendent de l’énergie physique pour entretenir leur vie"
+  ],
+  "quote": {
+   "cit": "29:2.17"
+  }
+ },
+ "g11.s03.06": {
+  "name": "Centres de Système",
+  "origin": "Créés collectivement par les Sept Directeurs Suprêmes de Pouvoir en association avec les Sept Maitres Esprits",
+  "realm": "Le foyer exact de gravité de chaque système local (dans Satania, une ile obscure située au centre astronomique)",
+  "number": "1 dans chaque système local (sixième ordre)",
+  "roles": [
+   "Envoyer les circuits de pouvoir aux mondes habités",
+   "Coordonner les activités des contrôleurs physiques subordonnés",
+   "Assurer la distribution satisfaisante du pouvoir dans le système local",
+   "Relier les centres supérieurs aux contrôleurs des planètes évolutionnaires"
+  ],
+  "quote": {
+   "cit": "29:2.18"
+  }
+ },
+ "g11.s03.07": {
+  "name": "Centres non classés",
+  "origin": "Créés collectivement par les Sept Directeurs Suprêmes de Pouvoir en association avec les Sept Maitres Esprits",
+  "realm": "Des sphères spéciales aux relations énergétiques des plus extraordinaires (jamais les planètes habitées)",
+  "number": "Non révélé (on en trouve sur moins d’un corps spatial sur un million)",
+  "roles": [
+   "Opérer dans des situations locales spéciales",
+   "Agir comme volants d’équilibre de l’univers ou régulateurs d’énergie"
+  ],
+  "quote": {
+   "cit": "29:2.19"
+  }
+ },
+ "g11.s04.title": "Maitres Contrôleurs Physiques",
+ "g11.s04.intro": "Progéniture directe et subordonnés mobiles des Centres Suprêmes de Pouvoir, ils servent dans tout le grand univers. Jusqu’aux sièges des superunivers, ils sont gouvernés directement par les Sept Directeurs Suprêmes de Pouvoir ; à partir de là, le Conseil d’Équilibre les dirige et les répartit. De leurs sept ordres, les quatre derniers réagissent de façon entièrement automatique et ne sont guère des personnes ; tous sont pourtant intelligents.",
+ "g11.s04.01": {
+  "name": "Directeurs de pouvoir adjoints",
+  "origin": "Les Centres Suprêmes de Pouvoir (les Maitres Contrôleurs Physiques sont leur progéniture directe)",
+  "realm": "Les mondes-sièges des secteurs mineurs (avec un inspecteur dans chaque capitale de système local)",
+  "number": "3 millions dans chaque secteur mineur d’Orvonton ; 3 milliards dans le superunivers",
+  "roles": [
+   "Affecter et dépêcher tous les ordres de contrôleurs physiques",
+   "Instruire tous ceux qui étudient les sciences du contrôle de l’énergie",
+   "Alterner le service exécutif avec des tournées d’inspection dans l’espace",
+   "Maintenir l’ensemble de l’agrégation d’énergie vivante en synchronisme harmonieux"
+  ],
+  "quote": {
+   "cit": "29:4.16"
+  }
+ },
+ "g11.s04.02": {
+  "name": "Contrôleurs machinaux",
+  "origin": "Les Centres Suprêmes de Pouvoir (les Maitres Contrôleurs Physiques sont leur progéniture directe)",
+  "realm": "Des secteurs mineurs jusqu’aux mondes habités (y compris Urantia)",
+  "number": "Des billions et des billions dans le secteur mineur d’Ensa ; 10 sur Urantia",
+  "roles": [
+   "Servir d’assistants mobiles des directeurs de pouvoir adjoints",
+   "Faciliter le départ des transports séraphiques",
+   "Orienter l’énergie et la concentrer en circuits",
+   "Égaliser les pressions des circuits interplanétaires"
+  ],
+  "quote": {
+   "cit": "29:4.19"
+  }
+ },
+ "g11.s04.03": {
+  "name": "Transformateurs d’énergie",
+  "origin": "Création conjointe des Sept Directeurs Suprêmes de Pouvoir et des Sept Superviseurs Centraux",
+  "realm": "Les mondes habités",
+  "number": "Près d’un million dans le seul système de Satania ; habituellement 100 sur chaque monde habité",
+  "roles": [
+   "Détenir le commandement sur une planète en l’absence d’un directeur de pouvoir adjoint",
+   "Inspecter tous les transports séraphiques au départ",
+   "Isoler les planètes, comme des commutateurs vivants, contre de puissants courants d’énergie",
+   "Maintenir l’équilibre universel de l’énergie",
+   "Modifier la forme de vingt-sept des trente énergies physiques"
+  ],
+  "quote": {
+   "cit": "29:4.23"
+  }
+ },
+ "g11.s04.04": {
+  "name": "Transmetteurs d’énergie",
+  "origin": "Les Centres Suprêmes de Pouvoir (les Maitres Contrôleurs Physiques sont leur progéniture directe)",
+  "realm": "Principalement à l’intérieur des planètes individuelles (aussi dans les systèmes locaux)",
+  "number": "Non révélé (une batterie de mille assiste un départ séraphique)",
+  "roles": [
+   "Répartir l’énergie telle qu’elle se manifeste sur les mondes individuels",
+   "S’aligner le long d’un trajet pour induire l’écoulement de l’énergie dans un nouveau circuit",
+   "Détecter et renforcer les courants de communication qui s’affaiblissent",
+   "Fournir des lignes de communication de secours",
+   "Aider à entretenir la vie mortelle sur les mondes dont l’atmosphère est appauvrie"
+  ],
+  "quote": {
+   "cit": "29:4.27"
+  }
+ },
+ "g11.s04.05": {
+  "name": "Associateurs primaires",
+  "origin": "Les Centres Suprêmes de Pouvoir (les Maitres Contrôleurs Physiques sont leur progéniture directe)",
+  "realm": "Les sphères matérielles en cours d’organisation, où ils sont le premier groupe de vie à apparaitre",
+  "number": "Non révélé",
+  "roles": [
+   "Accumuler de l’énergie pendant les périodes de manifestation excédentaire",
+   "Libérer l’énergie accumulée pendant les périodes de manifestation déficitaire",
+   "Convertir les énergies de l’espace jusqu’aux unités primitives de la matière",
+   "Agir par leur simple présence, comme des agents catalytiques vivants"
+  ],
+  "quote": {
+   "cit": "29:4.32"
+  }
+ },
+ "g11.s04.06": {
+  "name": "Dissociateurs secondaires",
+  "origin": "Les Centres Suprêmes de Pouvoir (les Maitres Contrôleurs Physiques sont leur progéniture directe)",
+  "realm": "Les mondes locaux et les systèmes locaux",
+  "number": "Non révélé",
+  "roles": [
+   "Travailler à l’inverse des associateurs primaires",
+   "Extraire de la matière des réserves illimitées d’énergie",
+   "Veiller à ce que les formes spéciales d’énergie physique ne s’épuisent jamais localement"
+  ],
+  "quote": {
+   "cit": "29:4.35"
+  }
+ },
+ "g11.s04.07": {
+  "name": "Frandalanks et chronoldeks",
+  "origin": "Création conjointe des trois ordres d’êtres contrôleurs d’énergie : les organisateurs de force primaires et secondaires et les directeurs de pouvoir",
+  "realm": "Tous les mondes habités ; ils opèrent aussi dans l’univers central, dans les superunivers et dans l’espace extérieur",
+  "number": "Les plus nombreux de tous les Maitres Contrôleurs Physiques (leur nombre dépasse tout calcul dans le seul Satania) ; trente divisions",
+  "roles": [
+   "Faire fonction d’indicateurs vivants de présences, de pressions et de vitesses",
+   "Enregistrer automatiquement et infailliblement le statut de toutes les formes d’énergie-force",
+   "Les chronoldeks enregistrent en outre le temps",
+   "Les maitres frandalanks indiquent la pression de pouvoir de tout un superunivers"
+  ],
+  "members": [
+   {
+    "name": "Frandalanks",
+    "note": "Indicateurs vivants en trente divisions, une pour chaque forme fondamentale de force d’univers"
+   },
+   {
+    "name": "Chronoldeks",
+    "note": "Frandalanks qui enregistrent aussi le temps ; les maitres chronoldeks télédiffusent le temps du système"
+   }
+  ],
+  "quote": {
+   "cit": "29:4.37"
+  }
+ },
+ "g11.05": {
+  "name": "Maitres Organisateurs de Force",
+  "aka": [
+   "organisateurs de force du Paradis",
+   "Maitres Organisateurs de Force du Paradis"
+  ],
+  "origin": "Êtres transcendantaux extériorisés (ni créateurs ni créatures)",
+  "realm": "Résidents du Paradis ; actifs dans tout le maitre univers, en particulier dans l’espace extérieur inorganisé",
+  "number": "Non révélé",
+  "roles": [
+   "Travailler sous la supervision des Architectes du Maitre Univers",
+   "Transmuer la puissance d’espace en force primordiale et amorcer les nébuleuses",
+   "Conduire l’énergie jusqu’au stade où elle réagit à la gravité",
+   "Céder la place aux directeurs de pouvoir à l’arrivée d’un Fils Créateur"
+  ],
+  "members": [
+   {
+    "name": "Maitres Organisateurs de Force Extériorisés Primaires",
+    "note": "Créateurs de nébuleuses ; transmuent la force primordiale en énergie primaire ou puissante"
+   },
+   {
+    "name": "Maitres Organisateurs de Force Transcendantaux Associés",
+    "note": "Conduisent l’énergie jusqu’au stade secondaire ou d’énergie de gravité ; le Conseil d’Équilibre est tiré de leurs rangs"
+   }
+  ],
+  "quote": {
+   "cit": "29:5.1"
+  }
+ }
+}

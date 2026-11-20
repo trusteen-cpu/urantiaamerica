@@ -1,0 +1,778 @@
+{
+ "g15.title": "Les esprits tutélaires de l’univers local",
+ "g15.intro": "Les esprits tutélaires de l’univers local forment le corps angélique composé des séraphins, progéniture de l’Esprit-Mère de l’Univers, ainsi que de leurs assistants, les chérubins et les sanobins. Les séraphins sont projetés par unités de 41 472 à la fois depuis les premiers temps de Nébadon, et leur création se poursuit ; ils sont le plus proche d’un type standard parmi tous les types d’esprits, et ils vivent par paires. Après leur éducation et leurs épreuves, ils se répartissent en sept groupes : séraphins suprêmes, supérieurs, superviseurs et administrateurs, aides planétaires, ministres de transition et séraphins du futur ; chaque groupe, sauf le dernier, se subdivise à son tour en sept sous-groupes. Les chérubins et les sanobins ont la même origine que les séraphins, mais forment l’ordre le plus humble des anges et sont les plus proches parents des êtres humains. Les créatures médianes, nées sur les mondes habités, ne sont pas des anges à proprement parler ; mais, parce qu’elles servent les mortels aux côtés des armées angéliques, elles sont fonctionnellement comptées avec les esprits tutélaires. Ce chapitre traite des sept groupes séraphiques et de leurs sous-groupes, puis des chérubins, des sanobins et des créatures médianes.",
+ "g15.s01.title": "Séraphins suprêmes",
+ "g15.s01.intro": "Les séraphins suprêmes sont les plus élevés des sept ordres révélés d’anges de l’univers local. Ils travaillent en sept groupes, chacun étroitement lié aux ministres angéliques du corps du parachèvement séraphique. Manotia, qui a aidé à préparer le fascicule sur les ordres séraphiques, a commencé comme séraphin suprême, et la quatrième effusion du Fils Créateur sous forme de créature eut lieu dans la similitude d’un conseiller d’enseignement de cet ordre.",
+ "g15.s01.01": {
+  "name": "Ministres du Fils-Esprit",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins suprêmes)",
+  "realm": "Dans tout l’univers local, partout où servent les Fils élevés et les êtres issus de l’Esprit ; avec les Avonals lors des missions planétaires",
+  "number": "Non révélé",
+  "roles": [
+   "Servir les Fils élevés et les êtres issus de l’Esprit de l’univers local",
+   "Servir le Fils de l’Univers et l’Esprit de l’Univers",
+   "Travailler en étroite liaison avec le service de renseignements de la Radieuse Étoile du Matin",
+   "Organiser la transition dispensationnelle lors des missions magistrales et d’effusion des Avonals",
+   "Ne prendre aucune part au jugement qui peut accompagner un changement de dispensation"
+  ],
+  "members": [
+   {
+    "name": "Assistants d’effusion",
+    "note": "Un corps de 144 séraphins de parachèvement qui accompagnent toujours un Avonal du Paradis en mission d’effusion ; chefs de tous les autres ministres du Fils-Esprit pendant cette mission"
+   }
+  ],
+  "quote": {
+   "cit": "39:1.2"
+  }
+ },
+ "g15.s01.02": {
+  "name": "Consultants des tribunaux",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins suprêmes)",
+  "realm": "Tous les niveaux de jugement, depuis les conciliateurs et les conseils des Princes Planétaires jusqu’aux tribunaux les plus élevés de l’univers local",
+  "number": "Non révélé",
+  "roles": [
+   "Servir de consultants et d’aides à tous les ordres du jugement",
+   "Veiller à ce que les accusations contre les mortels soient formulées avec justice et jugées avec miséricorde",
+   "Servir largement de défenseurs des mortels",
+   "Incarner l’élément de miséricorde inhérent à la justice divine",
+   "Travailler en étroite collaboration avec les Hauts Commissaires"
+  ],
+  "quote": {
+   "cit": "39:1.7"
+  }
+ },
+ "g15.s01.03": {
+  "name": "Orienteurs universels",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins suprêmes)",
+  "realm": "Salvington, aux côtés des ascendeurs sur le point de quitter leur univers local",
+  "number": "Non révélé",
+  "roles": [
+   "Se lier d’amitié avec les ascendeurs qui font une ultime pause à Salvington et les conseiller",
+   "Faciliter le passage des niveaux atteints aux niveaux non encore atteints du service universel",
+   "Aider les nouveaux êtres spirituels à voir qu’ils se trouvent au bas de l’échelle de l’ascension vers le Paradis",
+   "Se joindre aux séraphins de parachèvement pour préparer les créatures au prochain âge de l’univers"
+  ],
+  "quote": {
+   "cit": "39:1.10"
+  }
+ },
+ "g15.s01.04": {
+  "name": "Conseillers d’enseignement",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins suprêmes)",
+  "realm": "Les institutions éducatives de tout l’univers local : mondes des maisons, sept mondes éducatifs du système, soixante-dix sphères éducatives de la constellation et planètes individuelles",
+  "number": "Non révélé",
+  "roles": [
+   "Servir de secrétaires à tous les ordres d’éducateurs, des Melchizédeks aux mortels morontiels",
+   "Servir d’associés aux chefs de division des institutions éducatives",
+   "Former en grand nombre le personnel des mondes éducatifs des systèmes et des constellations",
+   "Assister et accompagner même les éducateurs sincères du temps"
+  ],
+  "quote": {
+   "cit": "39:1.15"
+  }
+ },
+ "g15.s01.05": {
+  "name": "Directeurs d’affectation",
+  "origin": "L’Esprit-Mère de l’Univers (élus parmi les séraphins suprêmes par les anges qui servent sur les sphères évolutionnaires et architecturales)",
+  "realm": "Chaque sphère évolutionnaire et architecturale",
+  "number": "144 (sur chaque sphère)",
+  "roles": [
+   "Former le conseil angélique le plus élevé sur toute sphère",
+   "Coordonner les phases autonomes des services et des affectations séraphiques",
+   "Présider les assemblées séraphiques réunies pour le service ou pour l’adoration",
+   "Réquisitionner des réserves pour les envoyer en mission"
+  ],
+  "quote": {
+   "cit": "39:1.16"
+  }
+ },
+ "g15.s01.06": {
+  "name": "Archivistes",
+  "aka": [
+   "Archivistes des séraphins suprêmes"
+  ],
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins suprêmes)",
+  "realm": "Non révélé",
+  "number": "Non révélé",
+  "roles": [
+   "Servir d’archivistes officiels des séraphins suprêmes",
+   "Certains sont nés avec leurs dons pleinement développés",
+   "D’autres se sont qualifiés par l’étude et par un service fidèle dans des ordres inférieurs"
+  ],
+  "quote": {
+   "cit": "39:1.17"
+  }
+ },
+ "g15.s01.07": {
+  "name": "Ministres non attachés",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins suprêmes)",
+  "realm": "Les sphères architecturales et les planètes habitées",
+  "number": "En grand nombre (nombre exact non révélé)",
+  "roles": [
+   "Servir selon leur propre initiative sur les sphères architecturales et les planètes habitées",
+   "Répondre volontairement à la demande variable de service des séraphins suprêmes",
+   "Constituer la réserve générale de l’ordre suprême"
+  ],
+  "quote": {
+   "cit": "39:1.18"
+  }
+ },
+ "g15.s02.title": "Séraphins supérieurs",
+ "g15.s02.intro": "Les séraphins supérieurs sont ainsi nommés non parce qu’ils seraient qualitativement supérieurs aux autres anges, mais parce qu’ils ont la charge des activités supérieures d’un univers local, centrées sur Salvington. Beaucoup de ceux des deux premiers groupes sont des séraphins d’accomplissement qui ont servi dans toutes les phases de la formation et sont revenus comme directeurs de leurs semblables ; Nébadon, étant jeune, en compte peu.",
+ "g15.s02.01": {
+  "name": "Le corps de renseignements",
+  "aka": [
+   "Corps de renseignements"
+  ],
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins supérieurs)",
+  "realm": "Tout l’univers local, avec des rapports adressés directement à Salvington",
+  "number": "Non révélé",
+  "roles": [
+   "Appartenir à l’état-major personnel de Gabriel, la Radieuse Étoile du Matin",
+   "Recueillir des informations dans tout l’univers pour les conseils de Nébadon",
+   "Envoyer leurs rapports directement à Salvington par un circuit indépendant",
+   "Communiquer avec les corps de renseignements d’autres univers locaux du même superunivers"
+  ],
+  "quote": {
+   "cit": "39:2.3"
+  }
+ },
+ "g15.s02.02": {
+  "name": "La voix de la miséricorde",
+  "aka": [
+   "Voix de la miséricorde"
+  ],
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins supérieurs)",
+  "realm": "L’univers local, en particulier les sphères supérieures et Salvington",
+  "number": "Non révélé",
+  "roles": [
+   "Être les vrais ministres de miséricorde de l’univers local",
+   "Entretenir les impulsions supérieures et les émotions plus saintes des hommes et des anges",
+   "Sont dirigés par des séraphins de parachèvement qui furent jadis gardiens de la destinée des mortels",
+   "Comptent beaucoup d’anciens guides de justice"
+  ],
+  "quote": {
+   "cit": "39:2.5"
+  }
+ },
+ "g15.s02.03": {
+  "name": "Coordinateurs d’Esprit",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins supérieurs)",
+  "realm": "Basés sur Salvington ; servent n’importe où dans l’univers local",
+  "number": "Non révélé",
+  "roles": [
+   "Préparer les ascendeurs à la transition du statut morontiel au statut spirituel",
+   "Enseigner aux diplômés morontiels à utiliser le mental spirituel nouvellement acquis",
+   "Servir les mortels ascendants de bien d’autres manières"
+  ],
+  "quote": {
+   "cit": "39:2.6"
+  }
+ },
+ "g15.s02.04": {
+  "name": "Maitres assistants",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins supérieurs)",
+  "realm": "Les entreprises éducatives de l’univers local, en particulier les mondes des maisons ; un corps sert aussi sur Urantia",
+  "number": "Non révélé",
+  "roles": [
+   "Aider les conseillers enseignants et travailler à leurs côtés",
+   "Participer au plan de formation septuple des mondes des maisons",
+   "Promouvoir sur Urantia la cause de la vérité et de la droiture"
+  ],
+  "quote": {
+   "cit": "39:2.7"
+  }
+ },
+ "g15.s02.05": {
+  "name": "Transporteurs",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins supérieurs)",
+  "realm": "Salvington ; les trajets vers le siège de l’univers local et à partir de lui",
+  "number": "Non révélé",
+  "roles": [
+   "Servir de franchisseurs d’espace vers le siège de l’univers et à partir de lui",
+   "Transporter, enséraphinées, les personnalités incapables de voyager par elles-mêmes",
+   "Provoquer le sommeil de transit en liaison avec les Ajusteurs de Pensée",
+   "Ne peuvent pas transporter des corps de chair et de sang"
+  ],
+  "quote": {
+   "cit": "39:2.8"
+  }
+ },
+ "g15.s02.06": {
+  "name": "Archivistes",
+  "aka": [
+   "Archivistes des séraphins supérieurs"
+  ],
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins supérieurs)",
+  "realm": "Salvington et ses mondes associés",
+  "number": "Non révélé",
+  "roles": [
+   "Recevoir, classer et réexpédier les archives de Salvington",
+   "Servir de clercs des tribunaux de Salvington et de secrétaires de ses dirigeants",
+   "Rester en contact avec les archivistes des superunivers, de Havona et du Paradis"
+  ],
+  "members": [
+   {
+    "name": "Diffuseurs",
+    "note": "Récepteurs et expéditeurs ; une subdivision spécialisée chargée de l’envoi des archives et des informations essentielles (144 000 messages simultanés)"
+   }
+  ],
+  "quote": {
+   "cit": "39:2.14"
+  }
+ },
+ "g15.s02.07": {
+  "name": "Réserves",
+  "aka": [
+   "Réserves des séraphins supérieurs"
+  ],
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins supérieurs)",
+  "realm": "Salvington",
+  "number": "Considérable (nombre exact non révélé)",
+  "roles": [
+   "Se tenir prêts sur Salvington pour être envoyés instantanément n’importe où dans Nébadon",
+   "Répondre aux directeurs d’affectation et aux administrateurs de l’univers",
+   "Fournir des aides messagers au chef des Brillantes Étoiles du Soir"
+  ],
+  "quote": {
+   "cit": "39:2.17"
+  }
+ },
+ "g15.s03.title": "Séraphins superviseurs",
+ "g15.s03.intro": "Les séraphins superviseurs, troisième ordre des anges de l’univers local, sont affectés exclusivement au service des constellations. Ayant leur siège dans les capitales des constellations, ils exercent un large ministère sur les mondes éducatifs morontiels environnants et travaillent dans tout Nébadon pour le compte des royaumes qui leur sont confiés.",
+ "g15.s03.01": {
+  "name": "Assistants superviseurs",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins superviseurs)",
+  "realm": "Les sièges des constellations",
+  "number": "Non révélé",
+  "roles": [
+   "Servir le travail collectif des Pères des Constellations",
+   "Être les aides toujours efficaces des Très Hauts",
+   "Travailler à l’unification et à la stabilisation de la constellation"
+  ],
+  "quote": {
+   "cit": "39:3.2"
+  }
+ },
+ "g15.s03.02": {
+  "name": "Pronostiqueurs de lois",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins superviseurs)",
+  "realm": "Les assemblées législatives des constellations",
+  "number": "Non révélé",
+  "roles": [
+   "Prévoir comment les lois proposées affecteraient les créatures douées de libre arbitre",
+   "Parler devant les législateurs au nom de ceux qui ne peuvent être présents",
+   "Dépeindre les véritables aspirations de l’âme intérieure des mortels",
+   "Ne rechercher aucune faveur spéciale pour aucun groupe"
+  ],
+  "quote": {
+   "cit": "39:3.3"
+  }
+ },
+ "g15.s03.03": {
+  "name": "Architectes sociaux",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins superviseurs)",
+  "realm": "Depuis les planètes individuelles, à travers les mondes des maisons, jusqu’aux soixante-dix mondes de progrès morontiel d’Édentia (où ils sont organisés en soixante-dix divisions)",
+  "number": "Non révélé",
+  "roles": [
+   "Embellir les contacts sociaux sincères et favoriser l’évolution sociale",
+   "Dépouiller de tout caractère artificiel les associations de créatures",
+   "Réunir des individus appropriés en groupes de travail efficaces",
+   "Avoir juridiction sur les entreprises morontielles impliquant trois personnes ou plus"
+  ],
+  "quote": {
+   "cit": "39:3.4"
+  }
+ },
+ "g15.s03.04": {
+  "name": "Sensibilisateurs d’éthique",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins superviseurs)",
+  "realm": "Partout où ils peuvent servir, en particulier dans les écoles de fraternité d’Édentia",
+  "number": "Non révélé",
+  "roles": [
+   "Promouvoir l’appréciation de la moralité des relations entre personnes",
+   "Servir de conseillers volontaires auprès des dirigeants planétaires",
+   "Enseigner comme instructeurs d’échange sur les mondes éducatifs des systèmes",
+   "Aviver les vérités de la fraternité dans les écoles de fraternité d’Édentia"
+  ],
+  "quote": {
+   "cit": "39:3.7"
+  }
+ },
+ "g15.s03.05": {
+  "name": "Transporteurs",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins superviseurs)",
+  "realm": "Les trajets vers les sièges des constellations et à partir d’eux",
+  "number": "Non révélé",
+  "roles": [
+   "Transporter les personnalités vers les sièges des constellations et à partir d’eux",
+   "Rester pleinement conscients de leur vitesse, de leur direction et de leur position en vol",
+   "Combiner trois lignes d’énergie pour atteindre une moyenne de 893 000 à 899 400 kilomètres par seconde",
+   "Pouvoir changer de vitesse, de direction ou de destination sur instruction"
+  ],
+  "quote": {
+   "cit": "39:3.8"
+  }
+ },
+ "g15.s03.06": {
+  "name": "Archivistes",
+  "aka": [
+   "Archivistes des séraphins superviseurs"
+  ],
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins superviseurs)",
+  "realm": "Les sièges des constellations, comme Édentia dans Norlatiadek",
+  "number": "Non révélé",
+  "roles": [
+   "Agir comme archivistes spéciaux des affaires des constellations",
+   "Maintenir sur Édentia un corps nombreux et efficace"
+  ],
+  "quote": {
+   "cit": "39:3.10"
+  }
+ },
+ "g15.s03.07": {
+  "name": "Réserves",
+  "aka": [
+   "Réserves des séraphins superviseurs"
+  ],
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins superviseurs)",
+  "realm": "Les sièges des constellations",
+  "number": "Non révélé",
+  "roles": [
+   "Servir d’aides messagers aux dirigeants des constellations",
+   "S’attacher sur Salvington aux réserves de Vorondadeks non affectés",
+   "S’attacher aux Vorondadeks en mission spéciale, comme l’observateur d’Urantia"
+  ],
+  "quote": {
+   "cit": "39:3.11"
+  }
+ },
+ "g15.s04.title": "Séraphins administrateurs",
+ "g15.s04.intro": "Les séraphins administrateurs, quatrième ordre, sont affectés aux tâches administratives des systèmes locaux. Natifs des capitales des systèmes, ils sont aussi stationnés en grand nombre sur les sphères des maisons et les sphères morontielles ainsi que sur les mondes habités, et ils sont doués par nature d’une aptitude administrative peu commune. Parce que le chef des armées séraphiques s’est rallié à Lucifer, un nombre exceptionnellement élevé de membres de cet ordre se sont égarés dans Satania.",
+ "g15.s04.01": {
+  "name": "Assistants administratifs",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins administrateurs)",
+  "realm": "Le siège du système et les gouvernements des Princes Planétaires ; sur Urantia, auprès du dirigeant intérimaire",
+  "number": "Non révélé (un corps de mille assiste le dirigeant intérimaire d’Urantia)",
+  "roles": [
+   "Servir d’assistants immédiats du Souverain de Système",
+   "Parcourir le système comme agents personnels de ses dirigeants",
+   "S’attacher aux gouvernements des Princes Planétaires",
+   "Assister les Melchizédeks administrateurs provisoires et leurs successeurs après la défection d’un Prince"
+  ],
+  "quote": {
+   "cit": "39:4.2"
+  }
+ },
+ "g15.s04.02": {
+  "name": "Guides de justice",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins administrateurs)",
+  "realm": "Les tribunaux des systèmes et des planètes, y compris les commissions de conciliation",
+  "number": "Non révélé",
+  "roles": [
+   "Présenter des résumés des témoignages dans les affaires soumises aux tribunaux",
+   "Préparer les exposés pour les audiences préliminaires sur la survie des mortels",
+   "Préparer la défense dans tous les cas de survie douteuse",
+   "Veiller à ce que la justice soit appliquée avec une généreuse miséricorde"
+  ],
+  "quote": {
+   "cit": "39:4.5"
+  }
+ },
+ "g15.s04.03": {
+  "name": "Interprètes de citoyenneté cosmique",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins administrateurs)",
+  "realm": "Les capitales des systèmes, comme Jérusem, et les mondes habités",
+  "number": "Non révélé",
+  "roles": [
+   "Guider les nouveaux citoyens des capitales des systèmes",
+   "Aviver leur sens des responsabilités du gouvernement de l’univers",
+   "Travailler avec les Fils Matériels à l’administration du système",
+   "Dépeindre aux mortels des mondes habités les devoirs de la citoyenneté cosmique"
+  ],
+  "quote": {
+   "cit": "39:4.9"
+  }
+ },
+ "g15.s04.04": {
+  "name": "Stimulateurs de moralité",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins administrateurs)",
+  "realm": "Le siège du système et les mondes habités",
+  "number": "Non révélé",
+  "roles": [
+   "Stimuler l’appréciation de la moralité cosmique, l’interaction de la liberté et de la loyauté",
+   "Enseigner la fécondité de la patience et du progrès graduel",
+   "Dépeindre la vie mortelle comme une chaine ininterrompue de nombreux chainons",
+   "Encourager le progrès spirituel décision après décision"
+  ],
+  "quote": {
+   "cit": "39:4.13"
+  }
+ },
+ "g15.s04.05": {
+  "name": "Transporteurs",
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins administrateurs)",
+  "realm": "Les systèmes locaux ; dans Satania, entre Jérusem et les planètes",
+  "number": "Non révélé",
+  "roles": [
+   "Transporter des passagers en provenance ou à destination de Jérusem",
+   "Servir de transporteurs interplanétaires à l’intérieur du système",
+   "Transporter les ascendeurs vers Édentia à la fin de leur séjour sur Jérusem",
+   "Ne jamais ramener un mortel sur sa planète natale"
+  ],
+  "quote": {
+   "cit": "39:4.15"
+  }
+ },
+ "g15.s04.06": {
+  "name": "Archivistes",
+  "aka": [
+   "Archivistes des séraphins administrateurs"
+  ],
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins administrateurs)",
+  "realm": "Le temple des archives de la capitale du système, comme Jérusem",
+  "number": "Non révélé",
+  "roles": [
+   "Garder les triples archives des systèmes locaux",
+   "Présider les sections matérielle, morontielle et spirituelle du temple des archives",
+   "Conserver toutes les archives en triple exemplaire"
+  ],
+  "quote": {
+   "cit": "39:4.16"
+  }
+ },
+ "g15.s04.07": {
+  "name": "Réserves",
+  "aka": [
+   "Réserves des séraphins administrateurs"
+  ],
+  "origin": "L’Esprit-Mère de l’Univers (classés parmi les séraphins administrateurs)",
+  "realm": "La capitale du système, comme Jérusem",
+  "number": "Non révélé",
+  "roles": [
+   "Attendre une affectation sur Jérusem",
+   "Servir de compagnons spirituels aux mortels ascendants nouvellement arrivés",
+   "Partager leur vaste expérience avec les ascendeurs au cours de visites amicales"
+  ],
+  "quote": {
+   "cit": "39:4.17"
+  }
+ },
+ "g15.s05.title": "Aides planétaires",
+ "g15.s05.intro": "Le cinquième ordre de séraphins, qui a son siège dans les capitales des systèmes, accompagne les Adams et Èves Planétaires dans leurs missions sur les mondes ; le corps initial compte habituellement environ cent-mille membres. Sur Urantia, la plupart furent retirés lors de l’effondrement du régime adamique, et la supervision séraphique retomba plus lourdement sur les administrateurs, les ministres de transition et les gardiens de la destinée. Les gardiens de la destinée, qui veillent sur les mortels individuels, sont tirés de tous les ordres séraphiques, mais servent sur les planètes ; c’est pourquoi ils figurent ici.",
+ "g15.s05.01": {
+  "name": "Voix du Jardin",
+  "origin": "L’Esprit-Mère de l’univers local (cinquième ordre de séraphins, les aides planétaires)",
+  "realm": "Le Jardin d’Éden, quartier général de l’Adam et de l’Ève Planétaires",
+  "number": "Non révélé",
+  "roles": [
+   "Servir de séraphins personnels de l’Adam et de l’Ève",
+   "Assister tous les projets d’élévation physique et intellectuelle des races",
+   "Faire des remontrances lorsque l’Adam s’écarte du plan prescrit",
+   "Sur Urantia, certains sont restés pour servir les successeurs d’Adam dans l’autorité"
+  ],
+  "members": [
+   {
+    "name": "Solonia",
+    "note": "Chef des aides planétaires à l’époque d’Adam sur Urantia ; proclama l’échec du plan divin"
+   }
+  ],
+  "quote": {
+   "cit": "39:5.3"
+  }
+ },
+ "g15.s05.02": {
+  "name": "Esprits de fraternité",
+  "origin": "L’Esprit-Mère de l’univers local (cinquième ordre de séraphins, les aides planétaires)",
+  "realm": "Les mondes évolutionnaires sous le régime adamique",
+  "number": "Non révélé",
+  "roles": [
+   "Favoriser l’harmonie raciale et la coopération sociale entre les diverses races",
+   "Aider les hommes primitifs à comprendre la sagesse d’une association pacifique",
+   "Soutenir les Fils Matériels dans l’harmonisation et le progrès des races"
+  ],
+  "quote": {
+   "cit": "39:5.4"
+  }
+ },
+ "g15.s05.03": {
+  "name": "Âmes de paix",
+  "origin": "L’Esprit-Mère de l’univers local (cinquième ordre de séraphins, les aides planétaires)",
+  "realm": "Les mondes évolutionnaires sous le régime adamique",
+  "number": "Non révélé",
+  "roles": [
+   "Apporter la « paix sur la terre » aux mondes en lutte",
+   "Remplacer, aux âges avancés, l’idée d’expiation par celle d’harmonisation divine",
+   "Leur chef, Vévona, annonça la naissance de Micaël"
+  ],
+  "members": [
+   {
+    "name": "Vévona",
+    "note": "Chef des âmes de paix à l’époque d’Adam ; actuellement attaché à l’état-major du gouverneur général résident"
+   }
+  ],
+  "quote": {
+   "cit": "39:5.5"
+  }
+ },
+ "g15.s05.04": {
+  "name": "Esprits de confiance",
+  "origin": "L’Esprit-Mère de l’univers local (cinquième ordre de séraphins, les aides planétaires)",
+  "realm": "Les mondes évolutionnaires sous le régime adamique (sur Urantia, le groupe entier passa au nouveau régime)",
+  "number": "Non révélé",
+  "roles": [
+   "Inculquer la confiance au mental soupçonneux des hommes primitifs",
+   "Développer une civilisation qui incarne des idéaux d’assurance et de confiance",
+   "Enseigner que l’incertitude est le secret d’une continuité satisfaite"
+  ],
+  "quote": {
+   "cit": "39:5.7"
+  }
+ },
+ "g15.s05.05": {
+  "name": "Transporteurs",
+  "origin": "L’Esprit-Mère de l’univers local (cinquième ordre de séraphins, les aides planétaires)",
+  "realm": "Les planètes individuelles (beaucoup sont stationnés sur Urantia)",
+  "number": "Non révélé",
+  "roles": [
+   "Transporter des êtres de la planète vers la capitale du système (d’Urantia à Jérusem)",
+   "Enséraphiner les passagers endormis dans le sommeil de transit",
+   "Protéger les passagers par des isolants d’énergie que l’on a pris pour des ailes",
+   "Partir du quartier général spirituel, habituellement à minuit"
+  ],
+  "quote": {
+   "cit": "39:5.10"
+  }
+ },
+ "g15.s05.06": {
+  "name": "Archivistes",
+  "origin": "L’Esprit-Mère de l’univers local (cinquième ordre de séraphins, les aides planétaires)",
+  "realm": "Les planètes individuelles",
+  "number": "Non révélé",
+  "roles": [
+   "Enregistrer les affaires majeures de la planète dans ses rapports avec le système et le gouvernement de l’univers",
+   "Ne pas s’occuper des questions relatives à la vie et à l’existence individuelles"
+  ],
+  "quote": {
+   "cit": "39:5.16"
+  }
+ },
+ "g15.s05.07": {
+  "name": "Réserves",
+  "origin": "L’Esprit-Mère de l’univers local (cinquième ordre de séraphins, les aides planétaires)",
+  "realm": "Jérusem, en association étroite avec les réserves de Fils Matériels",
+  "number": "Non révélé (décrites comme abondantes)",
+  "roles": [
+   "Pourvoir à toutes les phases des activités de cet ordre",
+   "Servir de porteurs de messages personnels des systèmes locaux",
+   "Servir les mortels de transition, les anges et les Fils Matériels au siège du système",
+   "Visiter fréquemment même Urantia, pourtant isolée"
+  ],
+  "quote": {
+   "cit": "39:5.17"
+  }
+ },
+ "g15.s05.08": {
+  "name": "Gardiens de la destinée",
+  "aka": [
+   "Gardiens de destinée",
+   "Anges gardiens"
+  ],
+  "origin": "Paires séraphiques expérimentées et volontaires tirées de tous les ordres de séraphins",
+  "realm": "Aux côtés des mortels individuels sur les mondes évolutionnaires, qu’ils accompagnent à travers les mondes des maisons et au-delà",
+  "number": "Non révélé",
+  "roles": [
+   "Garder les mortels qui prennent la décision suprême, entrent dans le troisième cercle ou rejoignent un corps de réserve de la destinée",
+   "Servir par paires pendant le reste de la vie du mortel",
+   "Le séraphin complémentaire tient les archives du mortel",
+   "Prendre part au réassemblage de la personnalité dans les salles de résurrection",
+   "Peuvent passer par Séraphington pour entrer dans le Corps des Mortels Finalitaires"
+  ],
+  "members": [
+   {
+    "name": "Gardiens de groupe",
+    "note": "Du septième au quatrième cercle : une paire séraphique, assistée de chérubins, veille sur 1 000, 500, 100 ou 10 mortels"
+   },
+   {
+    "name": "Gardiens personnels",
+    "note": "À partir du troisième cercle, après la décision suprême, ou pour un corps de réserve de la destinée : une paire pour un mortel"
+   }
+  ],
+  "quote": {
+   "cit": "39:8.5"
+  }
+ },
+ "g15.s06.title": "Ministres de transition",
+ "g15.s06.intro": "Le sixième ordre de séraphins sert partout où les créatures passent de l’état matériel à l’état spirituel. Ils travaillent depuis les mondes habités jusqu’aux capitales des systèmes, mais dans Satania ils éduquent principalement les mortels survivants sur les sept mondes des maisons ; leur foyer est le sixième cercle de Jérusem. Après les gardiens de la destinée, ce sont les séraphins qui s’approchent le plus près des hommes.",
+ "g15.s06.01": {
+  "name": "Évanges séraphiques",
+  "origin": "L’Esprit-Mère de l’univers local (sixième ordre de séraphins, les ministres de transition)",
+  "realm": "Les mondes des maisons",
+  "number": "Non révélé",
+  "roles": [
+   "Aider les ascendeurs à choisir entre les routes facultatives vers Édentia, Salvington, Uversa et Havona",
+   "Recommander l’itinéraire de chaque ascendeur aux vingt-quatre conseillers de Jérusem",
+   "Proclamer l’évangile de la progression éternelle et de l’atteinte de la perfection",
+   "Enseigner que nulle bonne action n’est jamais entièrement perdue"
+  ],
+  "quote": {
+   "cit": "48:6.7"
+  }
+ },
+ "g15.s06.02": {
+  "name": "Interprètes raciaux",
+  "origin": "L’Esprit-Mère de l’univers local (sixième ordre de séraphins, les ministres de transition)",
+  "realm": "Les mondes du temps et les mondes des maisons",
+  "number": "Non révélé",
+  "roles": [
+   "Seconder les efforts des commissaires raciaux pour harmoniser les points de vue raciaux",
+   "Continuer d’harmoniser sur les mondes des maisons les différences raciales qui persistent",
+   "Servir de sociologues et de conseillers ethniques du premier ciel"
+  ],
+  "quote": {
+   "cit": "48:6.22"
+  }
+ },
+ "g15.s06.03": {
+  "name": "Planificateurs mentaux",
+  "origin": "L’Esprit-Mère de l’univers local (sixième ordre de séraphins, les ministres de transition)",
+  "realm": "Les mondes des maisons",
+  "number": "Non révélé",
+  "roles": [
+   "Grouper efficacement les êtres morontiels et organiser leur travail d’équipe",
+   "Étudier la nature, l’expérience et le statut des âmes en transit",
+   "Respecter la volonté morontielle nouveau-née tout en encourageant le progrès",
+   "La plupart ont une expérience antérieure d’anges gardiens"
+  ],
+  "quote": {
+   "cit": "48:6.24"
+  }
+ },
+ "g15.s06.04": {
+  "name": "Conseillers morontiels",
+  "origin": "L’Esprit-Mère de l’univers local (sixième ordre de séraphins, les ministres de transition)",
+  "realm": "Les mondes des maisons, sur le chemin des écoles du siège du système",
+  "number": "Non révélé",
+  "roles": [
+   "Enseigner, diriger et conseiller les mortels survivants",
+   "Enseigner l’intégration des significations et l’unification des valeurs (mota)",
+   "Aider à mettre au point les points de vue matériels et morontiels"
+  ],
+  "quote": {
+   "cit": "48:6.27"
+  }
+ },
+ "g15.s06.05": {
+  "name": "Techniciens",
+  "origin": "L’Esprit-Mère de l’univers local (sixième ordre de séraphins, les ministres de transition)",
+  "realm": "Les sphères morontielles (mondes de transition)",
+  "number": "Non révélé",
+  "roles": [
+   "Aider les nouveaux ascendeurs à s’adapter à l’environnement morontiel étrange",
+   "Assurer la liaison avec les Superviseurs de Pouvoir Morontiel et les Maitres Contrôleurs Physiques",
+   "Instruire les ascendeurs sur les énergies utilisées sur les sphères de transition",
+   "Servir de franchisseurs d’espace en cas d’urgence"
+  ],
+  "quote": {
+   "cit": "48:6.29"
+  }
+ },
+ "g15.s06.06": {
+  "name": "Instructeurs-archivistes",
+  "origin": "L’Esprit-Mère de l’univers local (sixième ordre de séraphins, les ministres de transition)",
+  "realm": "Les mondes des maisons et le siège du système",
+  "number": "Non révélé",
+  "roles": [
+   "Enregistrer les affaires qui se passent aux frontières du spirituel et du physique",
+   "Enregistrer les relations des hommes et des anges ainsi que les affaires morontielles",
+   "Enseigner des techniques efficaces d’enregistrement des faits",
+   "Amener les étudiants à rechercher la vérité aussi bien que les faits"
+  ],
+  "quote": {
+   "cit": "48:6.30"
+  }
+ },
+ "g15.s06.07": {
+  "name": "Réserves tutélaires",
+  "origin": "L’Esprit-Mère de l’univers local (sixième ordre de séraphins, les ministres de transition)",
+  "realm": "Le premier monde des maisons",
+  "number": "Non révélé (un corps important)",
+  "roles": [
+   "Se tenir prêts comme réserves de tous les ordres de séraphins de transition",
+   "Se porter volontaires pour servir les ascendeurs lorsqu’ils ne sont pas affectés",
+   "Éveiller la volonté de servir par l’amitié personnelle",
+   "Enseigner comment supporter la déception et s’oublier soi-même"
+  ],
+  "quote": {
+   "cit": "48:6.34"
+  }
+ },
+ "g15.s07.title": "Séraphins du futur",
+ "g15.s07.intro": "Le septième ordre de séraphins. Comme ils ne s’occupent pas actuellement d’Urantia de façon directe, peu de leurs activités sont révélées.",
+ "g15.s07.01": {
+  "name": "Séraphins du futur",
+  "origin": "L’Esprit-Mère de l’univers local (septième ordre de séraphins)",
+  "realm": "Les royaumes plus anciens et les planètes avancées ; beaucoup sont tenus en réserve sur les mondes séraphiques proches de Salvington",
+  "number": "Non révélé (en grand nombre)",
+  "roles": [
+   "Se préparer à l’aurore de l’âge de lumière et de vie dans Nébadon",
+   "Exercer leur ministère auprès des mortels qui survivent selon des ordres d’ascension modifiés",
+   "Leurs activités ne sont pas révélées, car elles ne concernent pas actuellement Urantia"
+  ],
+  "quote": {
+   "cit": "39:7.1"
+  }
+ },
+ "g15.s08.title": "Chérubins, sanobins et créatures médianes",
+ "g15.s08.intro": "Les chérubins et les sanobins ont la même origine que les séraphins et forment l’ordre le plus humble des anges, assistant les sept ordres séraphiques. Ils travaillent par paires et sont presque humains. Les créatures médianes ne sont pas des anges, mais sont fonctionnellement groupées avec eux.",
+ "g15.s08.01": {
+  "name": "Chérubins",
+  "origin": "L’Esprit-Mère de l’univers local (même origine que les séraphins)",
+  "realm": "Les mondes individuels des systèmes et les mondes éducatifs morontiels (ils ne servent qu’à l’intérieur de l’univers local)",
+  "number": "Non révélé",
+  "roles": [
+   "Servir d’assistants subordonnés aux sept ordres de séraphins",
+   "Travailler comme ouvriers spirituels ordinaires sur les mondes individuels",
+   "Faire équipe avec les sanobins en tant que déflecteur positif de droite",
+   "Tenir les archives des gardiens séraphiques",
+   "Peuvent progresser, par embrassement, jusqu’à devenir Éducateurs des Mondes des Maisons, et même séraphins"
+  ],
+  "members": [
+   {
+    "name": "Candidats à l’ascension",
+    "note": "Candidats naturels au statut séraphique ; peuvent atteindre le plein statut de séraphin"
+   },
+   {
+    "name": "Chérubins de la phase médiane",
+    "note": "Limités dans leur potentiel d’ascension ; la plupart restent chérubins et sanobins"
+   },
+   {
+    "name": "Chérubins morontiels",
+    "note": "Les « quatrièmes créatures » quasi matérielles (une sur quatre) ; accomplissent des tâches frontalières sur les mondes morontiels"
+   }
+  ],
+  "quote": {
+   "cit": "38:7.1"
+  }
+ },
+ "g15.s08.02": {
+  "name": "Sanobins",
+  "origin": "L’Esprit-Mère de l’univers local (même origine que les séraphins)",
+  "realm": "Les mondes individuels des systèmes et les mondes éducatifs morontiels (ils ne servent qu’à l’intérieur de l’univers local)",
+  "number": "Non révélé",
+  "roles": [
+   "Servir de partenaire des chérubins, le déflecteur négatif de gauche",
+   "Être le « complément d’être » des chérubins",
+   "Limités lorsqu’ils sont seuls, ils travaillent habituellement en paire avec un chérubin",
+   "Aider à tenir les archives avec les chérubins",
+   "Partager avec les chérubins la voie de progression vers le statut d’Éducateurs des Mondes des Maisons et de séraphins"
+  ],
+  "quote": {
+   "cit": "38:7.2"
+  }
+ },
+ "g15.s08.03": {
+  "name": "Créatures médianes",
+  "note": "Médians primaires et secondaires, natifs des mondes habités. Ce ne sont pas des anges à proprement parler, mais ils sont fonctionnellement comptés avec les esprits tutélaires du temps. Traités en détail au chapitre 14."
+ }
+}

@@ -1,0 +1,738 @@
+{
+ "g10.title": "Los Espíritus Ministrantes de los Superuniversos",
+ "g10.intro": "Los espíritus ministrantes de los superuniversos comprenden tres órdenes: seconafines, terciafines y omniafines. Así como los supernafines son las huestes angélicas del universo central y los serafines las de los universos locales, los seconafines son los espíritus ministrantes de los superuniversos. Son producidos por los siete Espíritus Reflexivos de cada sede superuniversal en grupos de siete, siempre uno primario, tres secundarios y tres terciarios. Los terciafines y los omniafines no son técnicamente espíritus ministrantes de los superuniversos, aunque ambos sirven allí como ministros espirituales, y ninguno de los dos se ocupa directamente de la ascensión mortal. Este capítulo trata primero esas dos órdenes, y luego los siete tipos de cada una de las clases de seconafines primarios, secundarios y terciarios, veintiún tipos en total.",
+ "g10.01": {
+  "name": "Terciafines",
+  "origin": "El Espíritu Infinito; personalizados en el Paraíso en grupos de mil",
+  "realm": "Registrados en las sedes de los superuniversos, técnicamente residentes allí, aunque sirven en las creaciones locales",
+  "number": "Mil por cada Hijo Creador",
+  "roles": [
+   "Son el único personal propio de un Hijo Creador en los primeros tiempos de la construcción del universo",
+   "Adquieren una experiencia inmensa como asistentes del Hijo durante el ensamblaje del universo",
+   "Dimiten formalmente cuando se personaliza la Brillante Estrella Matutina",
+   "Llegan a ser ministros de enlace entre el Hijo Creador y los Ancianos de los Días",
+   "Muchos sirven temporalmente como Asistentes Altísimos"
+  ],
+  "quote": {
+   "cit": "28:1.1"
+  }
+ },
+ "g10.02": {
+  "name": "Omniafines",
+  "origin": "Creados por el Espíritu Infinito en enlace con los Siete Ejecutivos Supremos",
+  "realm": "Asignación en el gran universo; en Orvonton su sede es una colonia especial de cortesía en las regiones septentrionales de Uversa",
+  "number": "No revelado",
+  "roles": [
+   "Sirven exclusivamente como servidores y mensajeros de los Siete Ejecutivos Supremos",
+   "Supervisan los superuniversos para la coordinación administrativa desde el punto de vista de los Ejecutivos",
+   "La colonia de Uversa informa solo al Ejecutivo Supremo de Orvonton",
+   "Actúan en las sedes de los sistemas como representantes personales del Centinela Asignado",
+   "Algunos de los primeros omniafines fueron escogidos como núcleo de los Asesores Técnicos"
+  ],
+  "quote": {
+   "cit": "28:2.1"
+  }
+ },
+ "g10.s03.title": "Seconafines primarios",
+ "g10.s03.intro": "Uno de cada siete seconafines es primario; son los «espejos vivientes» asignados a los Ancianos de los Días. Por su naturaleza inherente se inclinan hacia siete tipos de servicio, distribuidos en serie: el primero creado y cada séptimo posterior pertenecen al mismo tipo.",
+ "g10.s03.01": {
+  "name": "La Voz del Actor Conjunto",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el primer seconafín primario creado y cada séptimo posterior)",
+  "realm": "La sede del superuniverso, asignados a los Ancianos de los Días",
+  "number": "No revelado",
+  "roles": [
+   "Interpretan la mente del Espíritu Infinito a los Ancianos de los Días",
+   "Hacen comprensible esa mente a sus asociados del supergobierno",
+   "Son lo más cercano a una representación personal de la Tercera Fuente y Centro en una capital superuniversal",
+   "Ocupan el lugar que deja la ausencia de una Ministra Divina en la sede de un supergobierno"
+  ],
+  "quote": {
+   "cit": "28:4.4"
+  }
+ },
+ "g10.s03.02": {
+  "name": "La Voz de los Siete Espíritus Rectores",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el segundo seconafín primario creado y cada séptimo posterior)",
+  "realm": "La sede del superuniverso, asignados a los Ancianos de los Días",
+  "number": "No revelado",
+  "roles": [
+   "Retratan las naturalezas y reacciones colectivas de los Siete Espíritus Rectores",
+   "Representan colectivamente a los Espíritus Rectores ante los Ancianos de los Días",
+   "Complementan la representación individual que proporcionan los Espíritus Reflexivos"
+  ],
+  "quote": {
+   "cit": "28:4.5"
+  }
+ },
+ "g10.s03.03": {
+  "name": "La Voz de los Hijos Creadores",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el tercer seconafín primario creado y cada séptimo posterior)",
+  "realm": "La sede del superuniverso, asignados a los Ancianos de los Días",
+  "number": "No revelado",
+  "roles": [
+   "Reflejan la mente de los Hijos Creadores de la orden de Micael",
+   "Permiten a los Ancianos de los Días conocer al instante la actitud de un Micael, sin llamarlo a través de las líneas del espacio",
+   "Proporcionan los destellos de voz de los Micaeles desde abajo",
+   "Nunca han errado en sus presentaciones en toda la historia de Uversa"
+  ],
+  "members": [
+   {
+    "name": "Jefe de las Voces de Nebadon",
+    "note": "A petición, presenta al seconafín Micael de registro"
+   }
+  ],
+  "quote": {
+   "cit": "28:4.6"
+  }
+ },
+ "g10.s03.04": {
+  "name": "La Voz de las Huestes Angélicas",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el cuarto seconafín primario creado y cada séptimo posterior)",
+  "realm": "La sede del superuniverso, asignados a los Ancianos de los Días",
+  "number": "No revelado",
+  "roles": [
+   "Responden a los sentimientos de todas las órdenes de ángeles, desde los supernafines hasta los serafines",
+   "Ponen instantáneamente la actitud de cualquier ángel comandante o supervisor a disposición de los consejos de los Ancianos de los Días",
+   "Proporcionan un testimonio inconsciente, y por tanto sin prejuicios, de las huestes angélicas"
+  ],
+  "quote": {
+   "cit": "28:4.11"
+  }
+ },
+ "g10.s03.05": {
+  "name": "Receptores de Emisiones",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el quinto seconafín primario creado y cada séptimo posterior)",
+  "realm": "La sede del superuniverso, asignados a los Ancianos de los Días",
+  "number": "No revelado",
+  "roles": [
+   "Reciben una clase especial de mensajes emitidos que solo reciben los seconafines primarios",
+   "Trabajan en enlace con los ángeles de las voces reflexivas",
+   "Sincronizan la visión reflexiva de los Ancianos de los Días con los mensajes reales de los circuitos de comunicación"
+  ],
+  "quote": {
+   "cit": "28:4.12"
+  }
+ },
+ "g10.s03.06": {
+  "name": "Personalidades de Transporte",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el sexto seconafín primario creado y cada séptimo posterior)",
+  "realm": "Desde la sede del superuniverso hasta el círculo exterior de Havona; hacia dentro, hasta el Paraíso, y hacia fuera, hasta los mundos de sus sectores",
+  "number": "No revelado",
+  "roles": [
+   "Llevan a los peregrinos del tiempo desde la sede del superuniverso hasta el círculo exterior de Havona",
+   "Son el cuerpo de transporte de los superuniversos, hacia dentro hasta el Paraíso y hacia fuera hasta sus sectores",
+   "Emprenden el viaje de Uversa a Havona, que los serafines no podrían resistir",
+   "Toman energía para el vuelo en tránsito y se recuperan al final del viaje"
+  ],
+  "quote": {
+   "cit": "28:4.13"
+  }
+ },
+ "g10.s03.07": {
+  "name": "Cuerpo de Reserva",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el séptimo seconafín primario creado y cada séptimo posterior)",
+  "realm": "La sede del superuniverso, asignados a los Ancianos de los Días",
+  "number": "Un grupo muy grande (número exacto no revelado)",
+  "roles": [
+   "Asumen los deberes no clasificados y las asignaciones de emergencia de los reinos",
+   "Sustituyen a sus compañeros especializados, pero solo en emergencias",
+   "Realizan los deberes generales del superuniverso que quedan fuera del alcance de los ángeles de asignación específica"
+  ],
+  "quote": {
+   "cit": "28:4.14"
+  }
+ },
+ "g10.s04.title": "Seconafines secundarios",
+ "g10.s04.intro": "Los seconafines secundarios no son menos reflexivos que los primarios; los términos primario, secundario y terciario indican el orden de procedencia, no el rango. Sus siete tipos sirven a los asociados de origen trinitario de los Ancianos de los Días: tres están asignados a los Perfeccionadores de la Sabiduría, tres a los Consejeros Divinos y uno a los Censores Universales.",
+ "g10.s04.01": {
+  "name": "La Voz de la Sabiduría",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el primer tipo de seconafines secundarios, creados en serie cada séptimo)",
+  "realm": "La sede del superuniverso, asignados a los Perfeccionadores de la Sabiduría (cámaras de recepción especiales del templo de la sabiduría en Uversa)",
+  "number": "No revelado",
+  "roles": [
+   "Mantienen un enlace perpetuo con las bibliotecas vivientes del Paraíso",
+   "Separan la esencia de la sabiduría de la información de los circuitos maestros",
+   "Transmiten esa sabiduría sin error a los Perfeccionadores de la Sabiduría",
+   "Extraen tanto la sabiduría divina de arriba como la sabiduría práctica de abajo"
+  ],
+  "quote": {
+   "cit": "28:5.7"
+  }
+ },
+ "g10.s04.02": {
+  "name": "El Alma de la Filosofía",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el segundo tipo de seconafines secundarios, creados en serie cada séptimo)",
+  "realm": "La sede del superuniverso, asignados a los Perfeccionadores de la Sabiduría",
+  "number": "No revelado",
+  "roles": [
+   "Permanecen en sincronía focal con los maestros de filosofía del Paraíso",
+   "Reflejan, como espejos vivientes, la sabiduría de la divinidad y la filosofía del Paraíso",
+   "Diluyen esa filosofía según las necesidades de los mundos humildes volviendo su rostro hacia abajo",
+   "Ayudan a los Perfeccionadores de la Sabiduría a ajustar las decisiones a las necesidades reales"
+  ],
+  "quote": {
+   "cit": "28:5.11"
+  }
+ },
+ "g10.s04.03": {
+  "name": "La Unión de las Almas",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el tercer tipo de seconafines secundarios, creados en serie cada séptimo)",
+  "realm": "La sede del superuniverso, asignados a los Perfeccionadores de la Sabiduría",
+  "number": "No revelado",
+  "roles": [
+   "Reflejan los ideales y la situación de las relaciones éticas",
+   "Ayudan a resolver las pequeñas fricciones y los malentendidos entre los seres inteligentes",
+   "Proporcionan información actual del universo junto con el ideal de ajuste del Paraíso",
+   "Mantienen un enlace reflexivo con los intérpretes de la ética en el Paraíso",
+   "Fomentan el trabajo en equipo de todo Orvonton"
+  ],
+  "quote": {
+   "cit": "28:5.14"
+  }
+ },
+ "g10.s04.04": {
+  "name": "El Corazón de Consejo",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el cuarto tipo de seconafines secundarios, creados en serie cada séptimo)",
+  "realm": "La sede del superuniverso, asignados a los Consejeros Divinos",
+  "number": "No revelado",
+  "roles": [
+   "Poseen los hechos del espacio, seleccionados de los circuitos del tiempo",
+   "Reflejan especialmente a los coordinadores superáficos de la información",
+   "Reflejan selectivamente el consejo de todos los seres, elevados o humildes",
+   "Hacen que los dictámenes de los Consejeros Divinos encarnen el consejo de todo el superuniverso"
+  ],
+  "quote": {
+   "cit": "28:5.15"
+  }
+ },
+ "g10.s04.05": {
+  "name": "El Regocijo de la Existencia",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el quinto tipo de seconafines secundarios, creados en serie cada séptimo)",
+  "realm": "La sede del superuniverso, asignados a los Consejeros Divinos",
+  "number": "No revelado",
+  "roles": [
+   "Están reflexivamente sintonizados con los supervisores superáficos de la armonía y con ciertos serafines",
+   "Promueven reacciones de alegría entre los ángeles y las criaturas volitivas inferiores",
+   "Funcionan como centros de intercambio de la alegría en colaboración con los directores de reversión",
+   "Intentan mejorar el gusto por el humor y desarrollar un superhumor",
+   "Procuran mostrar que hay una alegría inherente en la existencia de libre albedrío"
+  ],
+  "quote": {
+   "cit": "28:5.16"
+  }
+ },
+ "g10.s04.06": {
+  "name": "La Satisfacción del Servicio",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el sexto tipo de seconafines secundarios, creados en serie cada séptimo)",
+  "realm": "La sede del superuniverso, asignados a los Consejeros Divinos",
+  "number": "No revelado",
+  "roles": [
+   "Reflejan la actitud de los directores de conducta del Paraíso",
+   "Realzan el valor del servicio y la satisfacción que este produce",
+   "Reflejan de mundo en mundo los beneficios del servicio espiritual",
+   "Utilizan el desempeño de los mejores para inspirar a los mediocres",
+   "Promueven una sana rivalidad fraternal"
+  ],
+  "quote": {
+   "cit": "28:5.17"
+  }
+ },
+ "g10.s04.07": {
+  "name": "Los Discernidores de los Espíritus",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el séptimo tipo de seconafines secundarios, creados en serie cada séptimo)",
+  "realm": "La sede del superuniverso, asignados a los Censores Universales, a quienes acompañan en toda misión fuera de Uversa",
+  "number": "No revelado",
+  "roles": [
+   "Revelan al instante el verdadero motivo, propósito y origen de cualquier información",
+   "Reflejan sin error el verdadero carácter moral y espiritual de un individuo",
+   "Permiten a los Censores juzgar como jueces justos",
+   "Informan «qué clase de espíritu» ha nacido en los mundos del espacio",
+   "Reflejan la presencia de los Ajustadores, pero no pueden descifrar su mentalidad"
+  ],
+  "quote": {
+   "cit": "28:5.19"
+  }
+ },
+ "g10.s05.title": "Seconafines terciarios",
+ "g10.s05.intro": "Los seconafines terciarios también se crean en serie en siete tipos reflexivos, pero en lugar de asignarse tipo por tipo, sirven colectiva e indistintamente bajo los Hijos Trinidizados de Logro: los Mensajeros Poderosos, Aquellos Elevados en Autoridad y Aquellos sin Nombre ni Número. De las tres órdenes de seconafines, son los que ministran más ampliamente a las criaturas ascendentes del tiempo.",
+ "g10.s05.01": {
+  "name": "El Significado de los Orígenes",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el primer tipo de seconafines terciarios, creados en serie)",
+  "realm": "La sede del superuniverso, asignados colectivamente a los Hijos Trinidizados de Logro; también ministran ampliamente a los ascendentes",
+  "number": "No revelado",
+  "roles": [
+   "Retratan al instante todo lo que se requiera sobre el origen de cualquier individuo, raza o mundo",
+   "Son genealogías vivientes de referencia inmediata de las huestes del superuniverso",
+   "Proporcionan estimaciones al minuto de la ascendencia y la situación actual",
+   "Enseñan a los ascendentes a aplicar la ética espiritual"
+  ],
+  "quote": {
+   "cit": "28:6.4"
+  }
+ },
+ "g10.s05.02": {
+  "name": "La Memoria de la Misericordia",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el segundo tipo de seconafines terciarios, creados en serie)",
+  "realm": "La sede del superuniverso, asignados colectivamente a los Hijos Trinidizados de Logro; también ministran ampliamente a los ascendentes",
+  "number": "No revelado",
+  "roles": [
+   "Mantienen los registros vivientes de la misericordia extendida a individuos y razas",
+   "Contraponen los pasivos espirituales a los activos de la provisión salvadora",
+   "Testifican en los tribunales de Uversa cuando se adjudica el derecho a la vida sin fin",
+   "Enseñan a los ascendentes a ser verdaderamente misericordiosos"
+  ],
+  "quote": {
+   "cit": "28:6.6"
+  }
+ },
+ "g10.s05.03": {
+  "name": "La Importancia del Tiempo",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el tercer tipo de seconafines terciarios, creados en serie)",
+  "realm": "La sede del superuniverso, asignados colectivamente a los Hijos Trinidizados de Logro; también ministran ampliamente a los ascendentes",
+  "number": "No revelado",
+  "roles": [
+   "Aconsejan sobre el tiempo en la asignación de responsabilidades",
+   "Testifican que todo acusado ha tenido tiempo suficiente para decidir",
+   "Retratan el tiempo necesario para completar cualquier empresa",
+   "Permiten a las autoridades ascendentes prever acontecimientos futuros",
+   "Enseñan en los mundos de estancia el uso del tiempo en el trabajo y el descanso"
+  ],
+  "quote": {
+   "cit": "28:6.11"
+  }
+ },
+ "g10.s05.04": {
+  "name": "La Solemnidad de la Confianza",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el cuarto tipo de seconafines terciarios, creados en serie)",
+  "realm": "La sede del superuniverso, asignados a los Hijos Trinidizados de Logro; siempre acompañan a Aquellos Elevados en Autoridad",
+  "number": "No revelado",
+  "roles": [
+   "Retratan a las criaturas volitivas la obligación, el carácter sagrado y la solemnidad de la confianza",
+   "Reflejan a las autoridades gobernantes la confiabilidad exacta de cualquier candidato",
+   "Evitan el error de confiar responsabilidades prematuramente",
+   "Acompañan a Aquellos Elevados en Autoridad, evaluando a los candidatos antes de cualquier asignación"
+  ],
+  "quote": {
+   "cit": "28:6.14"
+  }
+ },
+ "g10.s05.05": {
+  "name": "La Santidad del Servicio",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el quinto tipo de seconafines terciarios, creados en serie)",
+  "realm": "La sede del superuniverso, asignados colectivamente a los Hijos Trinidizados de Logro; también ministran ampliamente a los ascendentes",
+  "number": "No revelado",
+  "roles": [
+   "Revelan en su rostro la verdadera naturaleza de cualquier servicio",
+   "Muestran un análisis completo de los motivos verdaderos y ocultos",
+   "Ponen al descubierto los motivos profundos del corazón humano y de la mente angélica"
+  ],
+  "quote": {
+   "cit": "28:6.19"
+  }
+ },
+ "g10.s05.06": {
+  "name": "El Secreto de la Grandeza",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el sexto tipo de seconafines terciarios, creados en serie)",
+  "realm": "La sede del superuniverso, asignados colectivamente a los Hijos Trinidizados de Logro; también ministran ampliamente a los ascendentes",
+  "number": "No revelado",
+  "roles": [
+   "Estiman reflexivamente la grandeza de los seres",
+   "Miden la grandeza por su contenido de bondad",
+   "Trabajan con el Alma de la Bondad, rindiendo un informe doble e interdependiente"
+  ],
+  "quote": {
+   "cit": "28:6.21"
+  }
+ },
+ "g10.s05.07": {
+  "name": "El Alma de la Bondad",
+  "origin": "Los siete Espíritus Reflexivos de una sede superuniversal (el séptimo tipo de seconafines terciarios, creados en serie)",
+  "realm": "La sede del superuniverso, asignados colectivamente a los Hijos Trinidizados de Logro; también ministran ampliamente a los ascendentes",
+  "number": "No revelado",
+  "roles": [
+   "Estiman reflexivamente la bondad de los seres",
+   "Retratan la bondad junto con su grandeza divina inherente",
+   "Trabajan con el Secreto de la Grandeza, rindiendo un informe doble e interdependiente"
+  ],
+  "quote": {
+   "cit": "28:6.21"
+  }
+ },
+ "g11.title": "Los Directores del Poder Universal",
+ "g11.intro": "Los Directores del Poder Universal son seres vivientes que regulan inteligentemente la energía física en todo el gran universo. Los Siete Espíritus Rectores crearon a los Siete Directores Supremos del Poder; estos, a su vez, junto con los Espíritus Rectores, produjeron los Centros Supremos del Poder, cuya progenie directa son los Controladores Físicos Decanos. Se ocupan únicamente del poder —la energía material o semifísica—, que no originan sino que modifican, manipulan y orientan. Los centros del poder y los controladores físicos son creados perfectos y no pasan por formación ni evolución; los Directores Supremos del Poder y todos sus subordinados están exentos de la interferencia de los tribunales del espacio y no están sujetos a la dirección administrativa de los gobiernos de los superuniversos ni de los universos locales. Este capítulo trata los Siete Directores Supremos del Poder, los Supervisores del Poder Morontial de los universos locales, los siete grupos de centros del poder y de controladores físicos, y los Organizadores de la Fuerza Decanos que los preceden en el espacio exterior.",
+ "g11.01": {
+  "name": "Siete Directores Supremos del Poder",
+  "aka": [
+   "Directores Supremos del Poder",
+   "Siete Directores Supremos"
+  ],
+  "origin": "Los Siete Espíritus Rectores actuando colectivamente (la primera progenie semimaterial registrada de ascendencia verdaderamente espiritual)",
+  "realm": "La periferia del Paraíso, donde señalan las sedes focales de fuerza de los Espíritus Rectores",
+  "number": "7",
+  "roles": [
+   "Regulan la energía física del gran universo",
+   "Actúan individualmente para los superuniversos y colectivamente para la creación central",
+   "Crean los Centros Supremos del Poder junto con los Espíritus Rectores",
+   "Gobiernan a los Controladores Físicos Decanos hasta las sedes de los superuniversos",
+   "Cada uno trabaja en unión eterna con un Espíritu Rector"
+  ],
+  "quote": {
+   "cit": "29:1.1"
+  }
+ },
+ "g11.s02.title": "Supervisores del Poder Morontial",
+ "g11.s02.intro": "Progenie de un Espíritu Materno de un universo local, son los canales del poder morontial que hacen posible el entorno de transición de la progresión morontial. Los primeros se crean cuando el primer mortal sobreviviente llega a un mundo de estancia, y se crean en grupos de mil en siete clases. Dirigidos solo por la actividad conjunta del Hijo del Universo y el Espíritu del Universo, en lo demás se gobiernan a sí mismos y tienen su sede en el primer mundo de estancia de cada sistema local.",
+ "g11.s02.01": {
+  "name": "Reguladores de los Circuitos",
+  "origin": "Un Espíritu Materno de un universo local (una clase de los Supervisores del Poder Morontial)",
+  "realm": "Las esferas de transición (morontiales); cada circuito se limita a un solo mundo",
+  "number": "400 en cada grupo de 1.000 (se necesitan millones solo para los mundos de estancia de Satania)",
+  "roles": [
+   "Coordinan la energía física y la espiritual",
+   "Regulan su flujo hacia los canales separados de las esferas morontiales",
+   "Como generadores del poder morontial, transforman las energías del espacio en materiales morontiales",
+   "Modifican las energías materiales para que sus asociados puedan controlarlas"
+  ],
+  "quote": {
+   "cit": "48:2.13"
+  }
+ },
+ "g11.s02.02": {
+  "name": "Coordinadores de los Sistemas",
+  "origin": "Un Espíritu Materno de un universo local (una clase de los Supervisores del Poder Morontial)",
+  "realm": "Los mundos de estancia y otras esferas morontiales de transición",
+  "number": "200 en cada grupo de 1.000",
+  "roles": [
+   "Armonizan los distintos sistemas de poder de cada mundo en una unidad de trabajo",
+   "Reciben a los ascendentes entregados a la siguiente esfera",
+   "Efectúan los cambios en la forma de la criatura en las cámaras de transición (unos siete días)"
+  ],
+  "quote": {
+   "cit": "48:2.15"
+  }
+ },
+ "g11.s02.03": {
+  "name": "Custodios Planetarios",
+  "origin": "Un Espíritu Materno de un universo local (una clase de los Supervisores del Poder Morontial)",
+  "realm": "Todo mundo morontial, desde las esferas de estancia hasta la sede del universo",
+  "number": "100 en cada grupo de 1.000 (setenta custodios en cada mundo morontial)",
+  "roles": [
+   "Tienen la custodia de los asuntos morontiales de cada mundo morontial",
+   "Constituyen el consejo planetario local de autoridad morontial suprema",
+   "Conceden material para las formas morontiales a los ascendentes que llegan",
+   "Autorizan los cambios de forma que permiten al ascendente pasar a la siguiente esfera"
+  ],
+  "quote": {
+   "cit": "48:2.18"
+  }
+ },
+ "g11.s02.04": {
+  "name": "Controladores Combinados",
+  "origin": "Un Espíritu Materno de un universo local (una clase de los Supervisores del Poder Morontial)",
+  "realm": "El centro de cada unidad administrativa de un mundo morontial",
+  "number": "100 en cada grupo de 1.000 (uno en cada unidad administrativa)",
+  "roles": [
+   "Perciben y funcionan con las energías físicas, espirituales y morontiales",
+   "Son el centro de un equipo de trabajo de otros supervisores del poder en cada unidad"
+  ],
+  "members": [
+   {
+    "name": "Composición de un equipo",
+    "note": "Un controlador combinado con dos coordinadores de los sistemas, cuatro reguladores de los circuitos, un custodio planetario, un estabilizador de los enlaces, y un registrador asociado o un clasificador selectivo"
+   }
+  ],
+  "quote": {
+   "cit": "48:2.19"
+  }
+ },
+ "g11.s02.05": {
+  "name": "Estabilizadores de los Enlaces",
+  "origin": "Un Espíritu Materno de un universo local (una clase de los Supervisores del Poder Morontial)",
+  "realm": "Los mundos morontiales de transición",
+  "number": "100 en cada grupo de 1.000",
+  "roles": [
+   "Regulan la energía morontial en asociación con las fuerzas físicas y espirituales",
+   "Hacen posible la conversión de la energía morontial en material morontial",
+   "Reducen las revoluciones de la energía hasta el punto en que puede producirse la fisicalización"
+  ],
+  "quote": {
+   "cit": "48:2.20"
+  }
+ },
+ "g11.s02.06": {
+  "name": "Clasificadores Selectivos",
+  "origin": "Un Espíritu Materno de un universo local (una clase de los Supervisores del Poder Morontial)",
+  "realm": "Los mundos morontiales",
+  "number": "50 en cada grupo de 1.000",
+  "roles": [
+   "Reprograman o afinan por adelantado a los ascendentes que pasan a una nueva fase",
+   "Los mantienen en sincronía progresiva con la vida morontial",
+   "Examinan el logro espiritual y certifican la posición avanzada",
+   "Agrupan a las personalidades morontiales para el estudio, la enseñanza y otros proyectos"
+  ],
+  "quote": {
+   "cit": "48:2.21"
+  }
+ },
+ "g11.s02.07": {
+  "name": "Registradores Asociados",
+  "origin": "Un Espíritu Materno de un universo local (una clase de los Supervisores del Poder Morontial)",
+  "realm": "Los mundos morontiales",
+  "number": "50 en cada grupo de 1.000",
+  "roles": [
+   "Actúan como registradores del mundo morontial",
+   "Supervisan y conservan los registros morontiales en asociación con los registradores espirituales"
+  ],
+  "quote": {
+   "cit": "48:2.25"
+  }
+ },
+ "g11.s03.title": "Centros Supremos del Poder",
+ "g11.s03.intro": "Creados por los Siete Directores Supremos del Poder en asociación con los Siete Espíritus Rectores, suman, con sus asociados y subordinados, más de diez mil millones. Dotados de personalidad de la Tercera Fuente y de una elevada volición, son el intelecto del sistema de poder del gran universo. Fuera de Havona funcionan solo en esferas arquitectónicas o en cuerpos espaciales constituidos adecuadamente, y sirven en siete grupos.",
+ "g11.s03.01": {
+  "name": "Supervisores Supremos del Centro",
+  "origin": "Creados colectivamente por los Siete Directores Supremos del Poder en asociación con los Siete Espíritus Rectores",
+  "realm": "Los mundos especiales de los Siete Ejecutivos Supremos, una sede en cada uno",
+  "number": "7",
+  "roles": [
+   "Regulan los circuitos maestros de energía del gran universo",
+   "Trabajan en estrecha asociación con los Siete Ejecutivos Supremos",
+   "Junto con los Directores Supremos del Poder, se ocupan de todos los fenómenos por debajo de la «energía de gravedad»",
+   "Crean los transformadores de la energía conjuntamente con los Directores Supremos del Poder"
+  ],
+  "quote": {
+   "cit": "29:2.10"
+  }
+ },
+ "g11.s03.02": {
+  "name": "Centros de Havona",
+  "origin": "Creados colectivamente por los Siete Directores Supremos del Poder en asociación con los Siete Espíritus Rectores",
+  "realm": "El universo central de Havona",
+  "number": "1.000.000 (cada uno supervisa mil mundos de Havona)",
+  "roles": [
+   "Cada uno supervisa mil mundos de Havona",
+   "Mantienen la perfección del control de la energía que solo se encuentra en Havona"
+  ],
+  "quote": {
+   "cit": "29:2.12"
+  }
+ },
+ "g11.s03.03": {
+  "name": "Centros de los Superuniversos",
+  "origin": "Creados colectivamente por los Siete Directores Supremos del Poder en asociación con los Siete Espíritus Rectores",
+  "realm": "La esfera capital de cada uno de los siete superuniversos",
+  "number": "1.000 en cada superuniverso (tercera orden)",
+  "roles": [
+   "Reciben las tres corrientes de energía primaria de diez segregaciones cada una",
+   "Emiten siete circuitos especializados de poder",
+   "Constituyen la organización electrónica del poder universal"
+  ],
+  "quote": {
+   "cit": "29:2.13"
+  }
+ },
+ "g11.s03.04": {
+  "name": "Centros de los Universos Locales",
+  "origin": "Creados colectivamente por los Siete Directores Supremos del Poder en asociación con los Siete Espíritus Rectores",
+  "realm": "La sede de cada universo local (en Nebadon, el centro exacto de energía de Salvington)",
+  "number": "100 en cada universo local (cuarta orden)",
+  "roles": [
+   "Reducen y modifican los siete circuitos de poder procedentes del superuniverso",
+   "Despachan energía efectiva a las constelaciones y los sistemas",
+   "Ayudan a los Hijos Creadores en los tiempos posteriores de la organización del universo",
+   "Proporcionan vías de energía para la comunicación interplanetaria"
+  ],
+  "quote": {
+   "cit": "29:2.16"
+  }
+ },
+ "g11.s03.05": {
+  "name": "Centros de las Constelaciones",
+  "origin": "Creados colectivamente por los Siete Directores Supremos del Poder en asociación con los Siete Espíritus Rectores",
+  "realm": "Cada constelación (en Norlatiadek, en el centro del sistema estelar que forma el núcleo físico de la constelación)",
+  "number": "10 en cada constelación (quinta orden)",
+  "roles": [
+   "Proyectan energía a los cien sistemas locales tributarios",
+   "Emiten líneas de poder para la comunicación y el transporte",
+   "Energizan a las criaturas que dependen de la energía física para sostener la vida"
+  ],
+  "quote": {
+   "cit": "29:2.17"
+  }
+ },
+ "g11.s03.06": {
+  "name": "Centros de los Sistemas",
+  "origin": "Creados colectivamente por los Siete Directores Supremos del Poder en asociación con los Siete Espíritus Rectores",
+  "realm": "El foco exacto de gravedad de cada sistema local (en Satania, una isla oscura en el centro astronómico)",
+  "number": "1 en cada sistema local (sexta orden)",
+  "roles": [
+   "Envían los circuitos de poder a los mundos habitados",
+   "Coordinan las actividades de los controladores físicos subordinados",
+   "Aseguran la distribución satisfactoria del poder en el sistema local",
+   "Enlazan los centros superiores con los controladores de los planetas evolutivos"
+  ],
+  "quote": {
+   "cit": "29:2.18"
+  }
+ },
+ "g11.s03.07": {
+  "name": "Centros no clasificados",
+  "origin": "Creados colectivamente por los Siete Directores Supremos del Poder en asociación con los Siete Espíritus Rectores",
+  "realm": "Esferas especiales de las relaciones de energía más extraordinarias (nunca los planetas habitados)",
+  "number": "No revelado (se encuentran en menos de un cuerpo espacial de cada millón)",
+  "roles": [
+   "Funcionan en situaciones locales especiales",
+   "Actúan como volantes de equilibrio o reguladores de la energía del universo"
+  ],
+  "quote": {
+   "cit": "29:2.19"
+  }
+ },
+ "g11.s04.title": "Controladores Físicos Decanos",
+ "g11.s04.intro": "Progenie directa y subordinados móviles de los Centros Supremos del Poder, sirven en todo el gran universo. Hasta las sedes de los superuniversos son gobernados directamente por los Siete Directores Supremos del Poder; desde allí los dirige y distribuye el Concilio del Equilibrio. De sus siete órdenes, las cuatro últimas reaccionan de manera totalmente automática y apenas son personas, pero todas son inteligentes.",
+ "g11.s04.01": {
+  "name": "Directores Asociados del Poder",
+  "origin": "Los Centros Supremos del Poder (los Controladores Físicos Decanos son su progenie directa)",
+  "realm": "Los mundos sede de los sectores menores (con un inspector en cada capital de sistema local)",
+  "number": "3 millones en cada sector menor de Orvonton; 3.000 millones en el superuniverso",
+  "roles": [
+   "Asignan y despachan a todas las órdenes de controladores físicos",
+   "Enseñan a todos los que estudian las ciencias del control de la energía",
+   "Alternan el servicio ejecutivo con giras de inspección por el espacio",
+   "Mantienen todo el conjunto viviente de energía en sincronía armoniosa"
+  ],
+  "quote": {
+   "cit": "29:4.16"
+  }
+ },
+ "g11.s04.02": {
+  "name": "Controladores Mecánicos",
+  "origin": "Los Centros Supremos del Poder (los Controladores Físicos Decanos son su progenie directa)",
+  "realm": "Desde los sectores menores hasta los mundos habitados (incluida Urantia)",
+  "number": "Billones y billones en el sector menor de Ensa; 10 en Urantia",
+  "roles": [
+   "Actúan como asistentes móviles de los directores asociados del poder",
+   "Facilitan la partida de los transportes seráficos",
+   "Orientan la energía y la concentran en circuitos",
+   "Igualan las presiones de los circuitos interplanetarios"
+  ],
+  "quote": {
+   "cit": "29:4.19"
+  }
+ },
+ "g11.s04.03": {
+  "name": "Transformadores de la Energía",
+  "origin": "Creación conjunta de los Siete Directores Supremos del Poder y los Siete Supervisores Centrales",
+  "realm": "Los mundos habitados",
+  "number": "Casi un millón solo en Satania; por lo general 100 en cada mundo habitado",
+  "roles": [
+   "Asumen el mando en un planeta cuando no hay ningún director asociado del poder presente",
+   "Inspeccionan todos los transportes seráficos que parten",
+   "Como interruptores vivientes, aíslan a los planetas de las poderosas corrientes de energía",
+   "Mantienen el equilibrio universal de la energía",
+   "Cambian la forma de veintisiete de las treinta energías físicas"
+  ],
+  "quote": {
+   "cit": "29:4.23"
+  }
+ },
+ "g11.s04.04": {
+  "name": "Transmisores de la Energía",
+  "origin": "Los Centros Supremos del Poder (los Controladores Físicos Decanos son su progenie directa)",
+  "realm": "Principalmente dentro de los planetas individuales (también en los sistemas locales)",
+  "number": "No revelado (una batería de mil asiste a una partida seráfica)",
+  "roles": [
+   "Despachan la energía tal como se manifiesta en los mundos individuales",
+   "Se alinean a lo largo de una ruta para inducir el flujo de energía hacia un nuevo circuito",
+   "Detectan y refuerzan las corrientes de comunicación que se debilitan",
+   "Proporcionan líneas de comunicación de emergencia",
+   "Ayudan a sostener la vida mortal en mundos de atmósfera empobrecida"
+  ],
+  "quote": {
+   "cit": "29:4.27"
+  }
+ },
+ "g11.s04.05": {
+  "name": "Asociadores Primarios",
+  "origin": "Los Centros Supremos del Poder (los Controladores Físicos Decanos son su progenie directa)",
+  "realm": "Las esferas materiales en organización, donde son el primer grupo de vida que aparece",
+  "number": "No revelado",
+  "roles": [
+   "Almacenan energía durante los periodos de manifestaciones positivas",
+   "Liberan la energía acumulada durante las temporadas de manifestaciones negativas",
+   "Convierten las energías del espacio hasta las unidades primitivas de la materia",
+   "Actúan por su mera presencia, como agentes catalizadores vivientes"
+  ],
+  "quote": {
+   "cit": "29:4.32"
+  }
+ },
+ "g11.s04.06": {
+  "name": "Disociadores Secundarios",
+  "origin": "Los Centros Supremos del Poder (los Controladores Físicos Decanos son su progenie directa)",
+  "realm": "Los mundos locales y los sistemas locales",
+  "number": "No revelado",
+  "roles": [
+   "Trabajan a la inversa de los asociadores primarios",
+   "Obtienen de la materia suministros ilimitados de energía",
+   "Aseguran que las formas especiales de energía física nunca se agoten localmente"
+  ],
+  "quote": {
+   "cit": "29:4.35"
+  }
+ },
+ "g11.s04.07": {
+  "name": "Frandalanques y Cronoldeques",
+  "origin": "Creación conjunta de las tres órdenes de seres que controlan la energía: los organizadores primarios y secundarios de la fuerza y los directores del poder",
+  "realm": "Todos los mundos habitados; también funcionan en los universos central y superuniversos y en el espacio exterior",
+  "number": "Los más numerosos de todos los Controladores Físicos Decanos (incontables solo en Satania); treinta divisiones",
+  "roles": [
+   "Funcionan como indicadores vivientes de presencia, presión y velocidad",
+   "Registran de forma automática e infalible el estado de toda la fuerza-energía",
+   "Los cronoldeques también registran el tiempo",
+   "Los frandalanques maestros indican la presión del poder de todo un superuniverso"
+  ],
+  "members": [
+   {
+    "name": "Frandalanques",
+    "note": "Indicadores vivientes en treinta divisiones, una para cada forma de fuerza universal básica"
+   },
+   {
+    "name": "Cronoldeques",
+    "note": "Frandalanques que también registran el tiempo; los cronoldeques maestros transmiten la hora del sistema"
+   }
+  ],
+  "quote": {
+   "cit": "29:4.37"
+  }
+ },
+ "g11.05": {
+  "name": "Organizadores de la Fuerza Decanos",
+  "aka": [
+   "organizadores de la fuerza paradisiacos",
+   "Organizadores de la Fuerza Decanos del Paraíso"
+  ],
+  "origin": "Seres trascendentales eventuados (ni creadores ni criaturas)",
+  "realm": "Residen en el Paraíso; activos en todo el universo maestro, especialmente en el espacio exterior no organizado",
+  "number": "No revelado",
+  "roles": [
+   "Trabajan bajo la supervisión de los Arquitectos del Universo Maestro",
+   "Transmutan la potencia del espacio en fuerza primordial e inician las nebulosas",
+   "Llevan la energía hasta la etapa en que responde a la gravedad",
+   "Ceden el lugar a los directores del poder cuando llega un Hijo Creador"
+  ],
+  "members": [
+   {
+    "name": "Organizadores de la Fuerza Decanos Primarios Eventuados",
+    "note": "Creadores de nebulosas; transmutan la fuerza primordial en energía primaria o poderosa"
+   },
+   {
+    "name": "Organizadores de la Fuerza Decanos Asociados Trascendentales",
+    "note": "Llevan la energía hasta la etapa secundaria o de energía de gravedad; el Concilio del Equilibrio se elige de entre sus filas"
+   }
+  ],
+  "quote": {
+   "cit": "29:5.1"
+  }
+ }
+}

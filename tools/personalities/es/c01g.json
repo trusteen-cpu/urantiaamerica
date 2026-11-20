@@ -1,0 +1,461 @@
+{
+ "g15.title": "Los Espíritus Ministrantes del Universo Local",
+ "g15.intro": "Los espíritus ministrantes del universo local son el cuerpo angélico formado por los serafines, progenie del Espíritu Materno del Universo, junto con sus asistentes, los querubines y los sanobines. Los serafines han sido proyectados en unidades de 41.472 a la vez desde los primeros tiempos de Nebadon, y todavía se siguen creando; son el más cercano a un tipo estándar de todos los tipos espirituales, y viven en parejas. Después de la educación y las pruebas se distribuyen en siete grupos: serafines supremos, superiores, supervisores y administradores, asistentes planetarios, ministros de transición y serafines del futuro, y cada grupo, salvo el último, se divide a su vez en siete subgrupos. Los querubines y los sanobines comparten el origen seráfico, pero son la orden más baja de ángeles y los parientes más cercanos de los seres humanos. Los seres intermedios, nacidos en los mundos habitados, no son propiamente ángeles, pero como sirven a los mortales junto a las huestes angélicas, se cuentan funcionalmente entre los espíritus ministrantes. Este capítulo trata los siete grupos seráficos y sus subgrupos, y luego los querubines, los sanobines y los seres intermedios.",
+ "g15.s01.title": "Serafines supremos",
+ "g15.s01.intro": "Los serafines supremos son los más elevados de las siete órdenes reveladas de ángeles del universo local. Trabajan en siete grupos, cada uno estrechamente relacionado con los ministros angélicos del Cuerpo Seráfico de Consumación. Manotia, que ayudó a preparar el documento sobre las órdenes seráficas, comenzó como serafín supremo, y el cuarto autootorgamiento del Hijo Creador como criatura se realizó a semejanza de un consejero de enseñanza de esta orden.",
+ "g15.s01.01": {
+  "name": "Ministros Hijo-Espíritu",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supremos)",
+  "realm": "Todo el universo local, dondequiera que sirvan los altos Hijos y los seres oriundos del Espíritu; con los Avonales en las misiones planetarias",
+  "number": "No revelado",
+  "roles": [
+   "Sirven a los altos Hijos y a los seres oriundos del Espíritu del universo local",
+   "Sirven al Hijo del Universo y al Espíritu del Universo",
+   "Trabajan en estrecha relación con el cuerpo de información de la Brillante Estrella Matutina",
+   "Organizan la transición dispensacional en las misiones magisteriales y de autootorgamiento de los Avonales",
+   "No participan en la adjudicación que puede acompañar a un cambio de dispensación"
+  ],
+  "members": [
+   {
+    "name": "Auxiliares de Autootorgamiento",
+    "note": "Un cuerpo de 144 serafines de consumación que siempre acompaña a un Avonal del Paraíso en una misión de autootorgamiento; jefes de todos los demás ministros Hijo-Espíritu en esa misión"
+   }
+  ],
+  "quote": {
+   "cit": "39:1.2"
+  }
+ },
+ "g15.s01.02": {
+  "name": "Asesores de los Tribunales",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supremos)",
+  "realm": "Todos los niveles de adjudicación, desde los conciliadores y los consejos de los Príncipes Planetarios hasta los más altos tribunales del universo local",
+  "number": "No revelado",
+  "roles": [
+   "Sirven como asesores y auxiliares de todas las órdenes de adjudicación",
+   "Velan por que los cargos contra los mortales se formulen con justicia y se adjudiquen con misericordia",
+   "Sirven ampliamente como defensores de los mortales",
+   "Encarnan el elemento de misericordia inherente a la justicia divina",
+   "Trabajan en estrecha relación con los Altos Comisionados"
+  ],
+  "quote": {
+   "cit": "39:1.7"
+  }
+ },
+ "g15.s01.03": {
+  "name": "Orientadores Universales",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supremos)",
+  "realm": "Salvington, junto a los ascendentes que están a punto de dejar su universo local",
+  "number": "No revelado",
+  "roles": [
+   "Son amigos y consejeros de los ascendentes que se detienen por última vez en Salvington",
+   "Facilitan el paso de los niveles alcanzados a los no alcanzados del servicio universal",
+   "Ayudan a los nuevos seres espirituales a ver que se encuentran al pie de la ascensión al Paraíso",
+   "Se unen a los serafines de consumación para preparar a las criaturas para la siguiente era del universo"
+  ],
+  "quote": {
+   "cit": "39:1.10"
+  }
+ },
+ "g15.s01.04": {
+  "name": "Consejeros de Enseñanza",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supremos)",
+  "realm": "Las instituciones educativas de todo el universo local: mundos de estancia, los siete mundos de capacitación del sistema, las setenta esferas educativas de la constelación y los planetas individuales",
+  "number": "No revelado",
+  "roles": [
+   "Actúan como secretarios de todas las órdenes de maestros, desde los Melquisedek hasta los mortales morontiales",
+   "Sirven como asociados de los jefes de división de las instituciones educativas",
+   "Integran en gran número el personal de los mundos de capacitación de los sistemas y las constelaciones",
+   "Ayudan y atienden incluso a los maestros sinceros del tiempo"
+  ],
+  "quote": {
+   "cit": "39:1.15"
+  }
+ },
+ "g15.s01.05": {
+  "name": "Directores de Asignación",
+  "origin": "El Espíritu Materno del Universo (elegidos entre los serafines supremos por los ángeles que sirven en las esferas evolutivas y arquitectónicas)",
+  "realm": "Cada esfera evolutiva y arquitectónica",
+  "number": "144 (en cada esfera)",
+  "roles": [
+   "Forman el consejo angélico más elevado de cualquier esfera",
+   "Coordinan las fases autodirigidas del servicio y la asignación seráficos",
+   "Presiden las asambleas seráficas, ya sea de servicio o de adoración",
+   "Solicitan reservas para su envío"
+  ],
+  "quote": {
+   "cit": "39:1.16"
+  }
+ },
+ "g15.s01.06": {
+  "name": "Registradores",
+  "aka": [
+   "Registradores de los serafines supremos"
+  ],
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supremos)",
+  "realm": "No revelado",
+  "number": "No revelado",
+  "roles": [
+   "Actúan como registradores oficiales de los serafines supremos",
+   "Algunos nacieron con sus talentos plenamente desarrollados",
+   "Otros se calificaron mediante el estudio y el servicio fiel en órdenes inferiores"
+  ],
+  "quote": {
+   "cit": "39:1.17"
+  }
+ },
+ "g15.s01.07": {
+  "name": "Ministros sin Cartera",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supremos)",
+  "realm": "Las esferas arquitectónicas y los planetas habitados",
+  "number": "Grandes números (número exacto no revelado)",
+  "roles": [
+   "Sirven de forma autodirigida en las esferas arquitectónicas y los planetas habitados",
+   "Atienden voluntariamente la demanda cambiante de servicio seráfico supremo",
+   "Constituyen la reserva general de la orden suprema"
+  ],
+  "quote": {
+   "cit": "39:1.18"
+  }
+ },
+ "g15.s02.title": "Serafines superiores",
+ "g15.s02.intro": "Los serafines superiores se llaman así no porque sean cualitativamente superiores a otros ángeles, sino porque están a cargo de las actividades más elevadas de un universo local, centradas en Salvington. Muchos de sus dos primeros grupos son serafines por promoción que han servido en todas las fases de capacitación y han regresado como directores de los de su clase; Nebadon, por ser joven, tiene pocos de ellos.",
+ "g15.s02.01": {
+  "name": "El Cuerpo de Información",
+  "aka": [
+   "Cuerpo de Información"
+  ],
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines superiores)",
+  "realm": "Todo el universo local, con informes directos a Salvington",
+  "number": "No revelado",
+  "roles": [
+   "Pertenecen al séquito personal de Gabriel, la Brillante Estrella Matutina",
+   "Reúnen información en todo el universo para los consejos de Nebadon",
+   "Envían informes directamente a Salvington por un circuito independiente",
+   "Se intercomunican con los cuerpos de información de otros universos locales del mismo superuniverso"
+  ],
+  "quote": {
+   "cit": "39:2.3"
+  }
+ },
+ "g15.s02.02": {
+  "name": "La Voz de la Misericordia",
+  "aka": [
+   "Voces de Misericordia"
+  ],
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines superiores)",
+  "realm": "El universo local, especialmente las esferas más elevadas y Salvington",
+  "number": "No revelado",
+  "roles": [
+   "Actúan como los verdaderos ministros de la misericordia del universo local",
+   "Fomentan los impulsos más elevados y las emociones más santas de los hombres y los ángeles",
+   "Están dirigidos por serafines de consumación que antes fueron guardianes del destino mortal",
+   "Muchos de ellos sirvieron anteriormente como guías de justicia"
+  ],
+  "quote": {
+   "cit": "39:2.5"
+  }
+ },
+ "g15.s02.03": {
+  "name": "Coordinadores Espirituales",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines superiores)",
+  "realm": "Con sede en Salvington; sirven en cualquier lugar del universo local",
+  "number": "No revelado",
+  "roles": [
+   "Preparan a los ascendentes para la transición del estado morontial al espiritual",
+   "Enseñan a los graduados morontiales a usar la mente espiritual recién adquirida",
+   "Sirven a los mortales ascendentes de muchas otras maneras"
+  ],
+  "quote": {
+   "cit": "39:2.6"
+  }
+ },
+ "g15.s02.04": {
+  "name": "Maestros Asistentes",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines superiores)",
+  "realm": "Las empresas educativas del universo local, especialmente los mundos de estancia; también sirve un cuerpo en Urantia",
+  "number": "No revelado",
+  "roles": [
+   "Ayudan y trabajan junto a los consejeros de enseñanza",
+   "Participan en el plan de capacitación séptuple de los mundos de estancia",
+   "Fomentan la causa de la verdad y la rectitud en Urantia"
+  ],
+  "quote": {
+   "cit": "39:2.7"
+  }
+ },
+ "g15.s02.05": {
+  "name": "Transportadores",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines superiores)",
+  "realm": "Salvington; las rutas de ida y vuelta a la sede del universo local",
+  "number": "No revelado",
+  "roles": [
+   "Sirven como viajeros del espacio de ida y vuelta a la sede del universo",
+   "Llevan, enserafinadas, a las personalidades que no pueden viajar por sí mismas",
+   "Inducen el sueño de tránsito en enlace con los Ajustadores del Pensamiento",
+   "No pueden transportar cuerpos de carne y sangre"
+  ],
+  "quote": {
+   "cit": "39:2.8"
+  }
+ },
+ "g15.s02.06": {
+  "name": "Registradores",
+  "aka": [
+   "Registradores de los serafines superiores"
+  ],
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines superiores)",
+  "realm": "Salvington y sus mundos asociados",
+  "number": "No revelado",
+  "roles": [
+   "Reciben, archivan y reenvían los registros de Salvington",
+   "Actúan como secretarios de los tribunales de Salvington y de sus gobernantes",
+   "Mantienen contacto con los registradores del superuniverso, de Havona y del Paraíso"
+  ],
+  "members": [
+   {
+    "name": "Locutores",
+    "note": "Receptores y despachadores; una subdivisión especializada que se encarga del envío de registros e información esencial (144.000 mensajes simultáneos)"
+   }
+  ],
+  "quote": {
+   "cit": "39:2.14"
+  }
+ },
+ "g15.s02.07": {
+  "name": "Reservas",
+  "aka": [
+   "Reservas de los serafines superiores"
+  ],
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines superiores)",
+  "realm": "Salvington",
+  "number": "Grandes (número exacto no revelado)",
+  "roles": [
+   "Permanecen en Salvington, listos para ser enviados al instante a cualquier lugar de Nebadon",
+   "Responden a los directores de asignación y a los administradores del universo",
+   "Proporcionan auxiliares mensajeros al jefe de las Brillantes Estrellas Vespertinas"
+  ],
+  "quote": {
+   "cit": "39:2.17"
+  }
+ },
+ "g15.s03.title": "Serafines supervisores",
+ "g15.s03.intro": "Los serafines supervisores, la tercera orden de ángeles del universo local, están asignados exclusivamente al servicio de las constelaciones. Con sede en las capitales de las constelaciones, ministran ampliamente en los mundos morontiales de capacitación circundantes y trabajan en todo Nebadon en nombre de los reinos a los que están asignados.",
+ "g15.s03.01": {
+  "name": "Asistentes Supervisores",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supervisores)",
+  "realm": "Las sedes de las constelaciones",
+  "number": "No revelado",
+  "roles": [
+   "Sirven a la tarea colectiva de los Padres de la Constelación",
+   "Actúan como ayudantes siempre eficientes de los Altísimos",
+   "Trabajan por la unificación y la estabilización de la constelación"
+  ],
+  "quote": {
+   "cit": "39:3.2"
+  }
+ },
+ "g15.s03.02": {
+  "name": "Pronosticadores de la Ley",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supervisores)",
+  "realm": "Las asambleas legislativas de las constelaciones",
+  "number": "No revelado",
+  "roles": [
+   "Pronostican cómo afectarían las leyes propuestas a las criaturas de libre albedrío",
+   "Hablan ante los legisladores en nombre de quienes no pueden estar presentes",
+   "Retratan los verdaderos anhelos del alma mortal interior",
+   "No buscan favores especiales para ningún grupo"
+  ],
+  "quote": {
+   "cit": "39:3.3"
+  }
+ },
+ "g15.s03.03": {
+  "name": "Arquitectos Sociales",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supervisores)",
+  "realm": "Desde los planetas individuales, pasando por los mundos de estancia, hasta los setenta mundos de progreso morontial de Edentia (organizados allí en setenta divisiones)",
+  "number": "No revelado",
+  "roles": [
+   "Enaltecen los contactos sociales sinceros y promueven la evolución social",
+   "Despojan de artificialidad las asociaciones entre criaturas",
+   "Reúnen a individuos adecuados en grupos de trabajo eficaces",
+   "Tienen jurisdicción sobre las empresas morontiales en las que intervienen tres o más personas"
+  ],
+  "quote": {
+   "cit": "39:3.4"
+  }
+ },
+ "g15.s03.04": {
+  "name": "Sensibilizadores Éticos",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supervisores)",
+  "realm": "Dondequiera que puedan servir, especialmente en las escuelas de fraternidad de Edentia",
+  "number": "No revelado",
+  "roles": [
+   "Fomentan la apreciación de la moralidad en las relaciones interpersonales",
+   "Sirven como consejeros voluntarios de los gobernantes planetarios",
+   "Enseñan como maestros de intercambio en los mundos de capacitación del sistema",
+   "Avivan las verdades de la fraternidad en las escuelas de fraternidad de Edentia"
+  ],
+  "quote": {
+   "cit": "39:3.7"
+  }
+ },
+ "g15.s03.05": {
+  "name": "Transportadores",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supervisores)",
+  "realm": "Las rutas de ida y vuelta a las sedes de las constelaciones",
+  "number": "No revelado",
+  "roles": [
+   "Llevan personalidades de ida y vuelta a las sedes de las constelaciones",
+   "Permanecen plenamente conscientes de la velocidad, la dirección y la posición durante el vuelo",
+   "Combinan tres líneas de energía para alcanzar un promedio de 555.000 a 559.000 millas por segundo",
+   "Pueden cambiar de velocidad, rumbo o destino si reciben instrucciones"
+  ],
+  "quote": {
+   "cit": "39:3.8"
+  }
+ },
+ "g15.s03.06": {
+  "name": "Registradores",
+  "aka": [
+   "Registradores de los serafines supervisores"
+  ],
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supervisores)",
+  "realm": "Las sedes de las constelaciones, como Edentia de Norlatiadek",
+  "number": "No revelado",
+  "roles": [
+   "Actúan como registradores especiales de los asuntos de la constelación",
+   "Mantienen un cuerpo amplio y eficiente en Edentia"
+  ],
+  "quote": {
+   "cit": "39:3.10"
+  }
+ },
+ "g15.s03.07": {
+  "name": "Reservas",
+  "aka": [
+   "Reservas de los serafines supervisores"
+  ],
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines supervisores)",
+  "realm": "Las sedes de las constelaciones",
+  "number": "No revelado",
+  "roles": [
+   "Sirven como auxiliares mensajeros de los gobernantes de la constelación",
+   "Se agregan a las reservas de Vorondadek sin asignación de Salvington",
+   "Se agregan a los Vorondadek en asignación especial, como el observador de Urantia"
+  ],
+  "quote": {
+   "cit": "39:3.11"
+  }
+ },
+ "g15.s04.title": "Serafines administradores",
+ "g15.s04.intro": "Los serafines administradores, la cuarta orden, están asignados a los deberes administrativos de los sistemas locales. Nativos de las capitales de los sistemas, también están estacionados en gran número en las esferas de estancia y morontiales y en los mundos habitados, y por naturaleza están dotados de una capacidad administrativa poco común. Debido a que el jefe de las huestes seráficas se unió a Lucifer, un número inusualmente grande de esta orden se descarrió en Satania.",
+ "g15.s04.01": {
+  "name": "Asistentes Administrativos",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines administradores)",
+  "realm": "Las sedes de los sistemas y los gobiernos de los Príncipes Planetarios; en Urantia, junto al gobernante interino",
+  "number": "No revelado (un cuerpo de mil asiste al gobernante interino de Urantia)",
+  "roles": [
+   "Actúan como asistentes inmediatos del Soberano del Sistema",
+   "Recorren el sistema como agentes personales de sus gobernantes",
+   "Se agregan a los gobiernos de los Príncipes Planetarios",
+   "Asisten a los síndicos Melquisedek y a sus sucesores después de la defección de un Príncipe"
+  ],
+  "quote": {
+   "cit": "39:4.2"
+  }
+ },
+ "g15.s04.02": {
+  "name": "Guías de Justicia",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines administradores)",
+  "realm": "Los tribunales del sistema y planetarios, incluidas las comisiones conciliadoras",
+  "number": "No revelado",
+  "roles": [
+   "Presentan resúmenes de las pruebas en los casos ante los tribunales",
+   "Preparan las exposiciones para las audiencias preliminares sobre la supervivencia mortal",
+   "Preparan la defensa en todo caso de supervivencia dudosa",
+   "Aseguran que la justicia se imparta con generosa misericordia"
+  ],
+  "quote": {
+   "cit": "39:4.5"
+  }
+ },
+ "g15.s04.03": {
+  "name": "Intérpretes de la Ciudadanía Cósmica",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines administradores)",
+  "realm": "Las capitales de los sistemas, como Jerusem, y los mundos habitados",
+  "number": "No revelado",
+  "roles": [
+   "Guían a los nuevos ciudadanos de las capitales de los sistemas",
+   "Avivan su comprensión de las responsabilidades del gobierno universal",
+   "Trabajan con los Hijos Materiales en la administración del sistema",
+   "Muestran a los mortales de los mundos habitados los deberes de la ciudadanía cósmica"
+  ],
+  "quote": {
+   "cit": "39:4.9"
+  }
+ },
+ "g15.s04.04": {
+  "name": "Estimuladores de la Moralidad",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines administradores)",
+  "realm": "Las sedes de los sistemas y los mundos habitados",
+  "number": "No revelado",
+  "roles": [
+   "Avivan la apreciación de la moralidad cósmica, la interacción de la libertad y la lealtad",
+   "Enseñan la fecundidad de la paciencia y del progreso gradual",
+   "Muestran la vida mortal como una cadena ininterrumpida de muchos eslabones",
+   "Alientan el avance espiritual decisión tras decisión"
+  ],
+  "quote": {
+   "cit": "39:4.13"
+  }
+ },
+ "g15.s04.05": {
+  "name": "Transportadores",
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines administradores)",
+  "realm": "Los sistemas locales; en Satania, entre Jerusem y los planetas",
+  "number": "No revelado",
+  "roles": [
+   "Llevan pasajeros de ida y vuelta a Jerusem",
+   "Sirven como transportadores interplanetarios dentro del sistema",
+   "Llevan a los ascendentes a Edentia después de su asignación en Jerusem",
+   "Nunca llevan a un mortal de regreso a su planeta natal"
+  ],
+  "quote": {
+   "cit": "39:4.15"
+  }
+ },
+ "g15.s04.06": {
+  "name": "Registradores",
+  "aka": [
+   "Registradores de los serafines administradores"
+  ],
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines administradores)",
+  "realm": "El templo de los registros en la capital del sistema, como Jerusem",
+  "number": "No revelado",
+  "roles": [
+   "Llevan los registros por triplicado de los sistemas locales",
+   "Presiden las secciones material, morontial y espiritual del templo de los registros",
+   "Conservan todos los registros por triplicado"
+  ],
+  "quote": {
+   "cit": "39:4.16"
+  }
+ },
+ "g15.s04.07": {
+  "name": "Reservas",
+  "aka": [
+   "Reservas de los serafines administradores"
+  ],
+  "origin": "El Espíritu Materno del Universo (clasificados como serafines administradores)",
+  "realm": "La capital del sistema, como Jerusem",
+  "number": "No revelado",
+  "roles": [
+   "Esperan en Jerusem su asignación",
+   "Sirven como compañeros espirituales de los mortales ascendentes recién llegados",
+   "Comparten su amplia experiencia con los ascendentes en visitas amistosas"
+  ],
+  "quote": {
+   "cit": "39:4.17"
+  }
+ }
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Non classés — Les personnalités du Livre d’Urantia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1f2430;--dim:#6b7280;--bg:#f7f6f2;--card:#fff;--line:#e5e1d8}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:'Segoe UI',system-ui,sans-serif;line-height:1.7;word-break:keep-all}
+a{color:inherit}
+header.top{background:linear-gradient(160deg,#0d1730 0%,#17365d 46%,#2b4a78 100%);color:#fff;text-align:center;padding:46px 16px 36px}
+header.top .eb{font-size:12px;letter-spacing:.22em;color:#e9cf8e}header.top h1{margin:8px 0 6px;font-size:clamp(26px,5vw,36px)}
+header.top p{margin:0;opacity:.85;font-size:15px}header.top .by{margin-top:10px;font-size:13px;opacity:.75}
+.wrap{max-width:860px;margin:0 auto;padding:24px 16px 60px}
+h2.sec{font-size:15px;letter-spacing:.12em;color:var(--dim);border-bottom:2px solid var(--line);padding-bottom:8px;margin:34px 0 12px}
+.pref p{font-family:Georgia,'Times New Roman',serif;font-size:16.5px;text-align:justify;margin:0 0 12px}
+.howto dt{font-weight:700;margin-top:8px}.howto dd{margin:2px 0 0 1em;color:#3b4150;font-size:15px}
+.chs{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px}
+.chs a{display:flex;gap:10px;align-items:center;text-decoration:none;background:var(--card);border:1px solid var(--line);border-left:6px solid var(--c);border-radius:8px;padding:9px 12px}
+.chs a:hover{box-shadow:0 3px 10px #0001}.chs b{color:var(--c);font-size:18px;min-width:1.6em}.chs small{display:block;color:var(--dim);font-size:12px}
+.idx{columns:3 200px;column-gap:20px;font-size:14px}.idx a{display:block;text-decoration:none;padding:1px 0}.idx a:hover{color:#17365d;text-decoration:underline}
+.idx h3{margin:12px 0 4px;font-size:14px;color:var(--dim);break-after:avoid}
+.band{display:flex;align-items:center;gap:16px;background:var(--c);color:#fff;border-radius:12px;padding:16px 20px;margin:4px 0 14px}
+.band .n{font-size:40px;font-weight:800;line-height:1}.band h1{margin:0;font-size:clamp(22px,4.5vw,30px);line-height:1.3}.band small{display:block;opacity:.85;font-style:italic;font-size:13px}
+.intro{font-size:15.5px;margin:0 0 14px}
+table.sum{border-collapse:collapse;width:100%;font-size:14.5px;background:var(--card);margin:0 0 26px}
+table.sum th{background:var(--c);color:#fff;text-align:left;padding:7px 10px}table.sum td{border-top:1px solid var(--line);padding:6px 10px;vertical-align:top}
+table.sum td a{font-weight:700;text-decoration:none}table.sum td a:hover{text-decoration:underline}table.sum tr.sub td{background:var(--t3);font-weight:700}
+.subh{border-left:8px solid var(--c);padding:2px 0 2px 12px;margin:30px 0 6px}.subh h2{margin:0;font-size:21px;color:var(--c)}.subh small{color:var(--dim);font-style:italic}
+.subi{font-size:15px;margin:0 0 14px;color:#3b4150}
+.card{background:var(--card);border-radius:12px;overflow:hidden;box-shadow:0 1px 3px #0001;margin:0 0 22px;scroll-margin-top:12px}
+.card .hd{background:var(--c);color:#fff;padding:10px 16px}.card .hd h3{margin:0;font-size:20px}.card .hd small{display:block;opacity:.85;font-style:italic;font-size:13px}
+.card .hd .aka{font-size:13px;opacity:.9;margin-top:2px}
+.info{display:grid;grid-template-columns:1.1fr 1.1fr .8fr}.info div{padding:8px 12px;background:var(--t1);font-size:14.5px}
+.info div b{display:block;color:var(--c);font-size:12.5px}
+.body{padding:10px 16px 12px}.body h4{margin:6px 0 4px;color:var(--c);font-size:14px}
+.body ul{margin:0 0 8px;padding-left:1.2em}.body li{font-size:15px;margin-bottom:2px}
+table.mem{border-collapse:collapse;width:100%;font-size:14px;margin:0 0 10px}table.mem td{padding:5px 8px;border-top:1px solid var(--line);vertical-align:top}table.mem td:first-child{font-weight:700;width:36%}
+.q{background:#f7f5f0;border-left:4px solid var(--t6);padding:9px 12px;font-family:Georgia,'Times New Roman',serif;font-size:15px;margin:8px 0 6px}
+.q a{display:block;text-align:right;font-family:'Segoe UI',system-ui,sans-serif;font-size:12.5px;color:var(--dim);text-decoration:none}
+.refs{font-size:12.5px;color:var(--dim)}.refs b{color:var(--c)}.refs a{text-decoration:none}.refs a:hover,.q a:hover{text-decoration:underline;color:var(--c)}
+.seecard{background:var(--t1);border-left:6px solid var(--c);border-radius:8px;padding:10px 14px;margin:0 0 18px}.seecard h3{margin:0;font-size:18px}
+.seecard p{margin:4px 0 0;font-size:14.5px}.seecard a{color:var(--c);font-weight:700}
+.pager{display:flex;justify-content:space-between;gap:10px;margin-top:30px;flex-wrap:wrap}
+.pager a{border:1px solid var(--line);background:var(--card);border-radius:10px;padding:9px 14px;text-decoration:none;font-size:14px;max-width:48%}
+@media(max-width:600px){.info{grid-template-columns:1fr}.band .n{font-size:30px}.pref p{text-align:left}}
+@media print{.pager,.ur-home-btn{display:none!important}body{background:#fff}.card{break-inside:avoid}}
+</style>
+<script src="/home-button.js" defer></script>
+</head>
+<body>
+<header class="top" style="padding:20px 16px 16px"><div class="eb">GUIDE DE TERRAIN</div><p style="margin-top:6px"><a href="./" style="text-decoration:none;border-bottom:1px solid rgba(255,255,255,.5)">Les personnalités du Livre d’Urantia · Sommaire</a></p></header>
+<div class="wrap" style="--c:#6B7280;--t1:#f4f5f6;--t3:#dedfe3;--t6:#adb1b9"><div class="band"><div class="n">17</div><div><h1>Non classés</h1></div></div><p class="intro">Le Livre d’Urantia laisse quelques êtres en dehors de ses classifications générales de la personnalité. Après avoir décrit les sept grandes classes de vie des créatures évolutionnaires, il fait remarquer que même celles-ci ne tiennent pas compte d’êtres tels que les midsonitaires. Ce chapitre rassemble deux de ces groupes : les midsonitaires, descendants d’un porteur de vie Melchizédek et d’une Fille Matérielle, que l’on ne peut guère compter ni parmi les mortels ni parmi les immortels ; et les agondontaires, groupement fonctionnel des ascendeurs venus de mondes isolés par la rébellion.</p><table class="sum"><tr><th>Personnalité</th><th>Domaine principal</th><th>Nombre</th></tr><tr><td><a href="#midsoniters">Midsonitaires</a></td><td>L’unique monde midsonite de chaque système local ; ensuite, la sphère midsonite de Salvington, septième des mondes des finalitaires</td><td>Non révélé (tous les midsonitaires jamais nés dans Nébadon sont vivants aujourd’hui)</td></tr><tr><td><a href="#agondonters">Agondontaires</a></td><td>Un secteur résidentiel qui leur est propre sur Jérusem ; ils restent groupés pendant l’ascension dans l’univers local et le superunivers, puis de nouveau au Paradis et dans le Corps de la Finalité Mortelle</td><td>Non révélé</td></tr></table><div class="card" id="midsoniters"><div class="hd"><h3>Midsonitaires</h3><div class="aka">Également appelés: créatures midsonites, races midsonites</div></div>
+<div class="info"><div><b>Origine</b>Descendants d’un porteur de vie Melchizédek matériellement modifié et d’une Fille Matérielle volontaire (la Mère Ève)</div><div><b>Domaine principal</b>L’unique monde midsonite de chaque système local ; ensuite, la sphère midsonite de Salvington, septième des mondes des finalitaires</div><div><b>Nombre</b>Non révélé (tous les midsonitaires jamais nés dans Nébadon sont vivants aujourd’hui)</div></div>
+<div class="body">
+<h4>■ Ce qu’ils font</h4><ul><li>Vivre comme êtres qui se reproduisent sur leurs mondes natals jusqu’à l’âge de mille années standard</li><li>Sont alors transférés par transport séraphique et ne se reproduisent plus</li><li>Se rassembler sur la sphère midsonite de Salvington en vue d’une éventualité future non révélée</li><li>Conseiller les assemblées législatives et les tribunaux à l’âge de lumière et de vie</li><li>Parrainer des entreprises éducatives conjointement avec les finalitaires</li></ul>
+<div class="q">« Les descendants d’un porteur de vie Melchizédek et d’une Fille Matérielle sont connus sous le nom de midsonitaires. »<a href="/fr/book/#36:4.2" target="_blank" rel="noopener">— 36:4.2</a></div>
+<div class="refs"><b>Références</b>  <a href="/fr/book/#36:4.2" target="_blank" rel="noopener">36:4.2</a> · <a href="/fr/book/#36:4.1" target="_blank" rel="noopener">36:4.1</a> · <a href="/fr/book/#36:4.3" target="_blank" rel="noopener">36:4.3</a> · <a href="/fr/book/#36:4.4" target="_blank" rel="noopener">36:4.4</a> · <a href="/fr/book/#36:4.8" target="_blank" rel="noopener">36:4.8</a> · <a href="/fr/book/#55:8.4" target="_blank" rel="noopener">55:8.4</a> · <a href="/fr/book/#49:5.9" target="_blank" rel="noopener">49:5.9</a></div>
+</div></div>
+<div class="card" id="agondonters"><div class="hd"><h3>Agondontaires</h3></div>
+<div class="info"><div><b>Origine</b>Mortels ascendants évolutionnaires venus de mondes isolés par suite d’une rébellion</div><div><b>Domaine principal</b>Un secteur résidentiel qui leur est propre sur Jérusem ; ils restent groupés pendant l’ascension dans l’univers local et le superunivers, puis de nouveau au Paradis et dans le Corps de la Finalité Mortelle</div><div><b>Nombre</b>Non révélé</div></div>
+<div class="body">
+<h4>■ Ce qu’ils font</h4><ul><li>Croire sans voir et persévérer dans l’isolement</li><li>Triompher de difficultés insurmontables, même lorsqu’ils sont seuls</li><li>Demeurer un groupe fonctionnel tout au long de l’ascension (sauf pendant le séjour dans Havona)</li><li>Se voir confier très tôt des missions cosmiques spéciales qui exigent foi et confiance</li></ul>
+<h4>■ Membres</h4><table class=mem><tr><td>Tabamantia</td><td>Un agondontaire de statut finalitaire, survivant d’une sphère mise en quarantaine lors de la première rébellion</td></tr></table>
+<div class="q">« Sur Jérusem, les ascendeurs des mondes isolés occupent un secteur résidentiel privé et sont connus sous le nom d’agondontaires, qui signifie créatures volitives évolutionnaires pouvant croire sans voir, persévérer dans l’isolement et triompher de difficultés quasi insurmontables, même lorsqu’ils sont seuls. »<a href="/fr/book/#50:7.2" target="_blank" rel="noopener">— 50:7.2</a></div>
+<div class="refs"><b>Références</b>  <a href="/fr/book/#50:7.2" target="_blank" rel="noopener">50:7.2</a> · <a href="/fr/book/#50:7.1" target="_blank" rel="noopener">50:7.1</a></div>
+</div></div><nav class="pager"><a href="ch16.html">← Précédent · Les Fils Ascendants de Dieu</a><a href="./">Sommaire</a><span></span></nav></div>
+</body>
+</html>

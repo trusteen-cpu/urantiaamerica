@@ -1,0 +1,552 @@
+{
+ "g12.title": "Las Personalidades del Gran Universo (Las siete colonias de cortesía)",
+ "g12.intro": "Las colonias de cortesía son siete grupos de seres que residen como huéspedes en las esferas arquitectónicas, desde los sistemas locales hasta las capitales de los superuniversos, mientras cumplen sus propias misiones y asignaciones especiales. No son una sola orden creada por una sola Deidad; cada colonia reúne a seres de muchos orígenes, y la mayoría de ellos no forman parte orgánica del gobierno del mundo en que residen. Las siete son los estudiantes estelares, los artesanos celestiales, los directores de reversión, los instructores de las facultades de extensión, los distintos cuerpos de reserva, los estudiantes visitantes y los peregrinos ascendentes. Este capítulo las trata por turno, y presenta a los artesanos celestiales, siguiendo el documento 44, en sus siete divisiones de actividad.",
+ "g12.01": {
+  "name": "Estudiantes Estelares",
+  "aka": [
+   "Astrónomos celestiales"
+  ],
+  "origin": "Un grupo reclutado (cualquier ser de cualquier mundo puede unirse, siempre que tenga vida continua y conocimiento suficiente de los mundos del espacio)",
+  "realm": "Uversa y las demás capitales de los superuniversos, las sedes de los sectores y las capitales arquitectónicas de los universos locales y sus subdivisiones",
+  "number": "Más de un millón solo en Uversa",
+  "roles": [
+   "Observan y calculan las estrellas y el espacio",
+   "Estudian toda forma de material del espacio y de manifestación de la energía",
+   "Trabajan con los Mensajeros Solitarios, las personalidades reflexivas y los transformadores de la energía",
+   "Ayudan a los consejeros de transporte a trazar las rutas",
+   "Permanecen como huéspedes al margen de los asuntos del superuniverso, y sirven al menos un milenio una vez admitidos"
+  ],
+  "quote": {
+   "cit": "30:3.2"
+  }
+ },
+ "g12.s02.title": "Artesanos Celestiales",
+ "g12.s02.intro": "Los artesanos celestiales son los maestros artistas y artesanos de los reinos morontiales y espirituales inferiores, un cuerpo de personalidades compuestas que no son creadas como tales sino seleccionadas y reclutadas. Su cuerpo docente original de siete mil instructores de Havona fue asignado por el Espíritu Infinito en colaboración con los Siete Espíritus Rectores, y desde entonces se les han unido alumnos voluntarios procedentes de los mortales ascendentes y de muchos grupos celestiales. Todos están registrados en la sede del superuniverso, pero son comisionados en siete divisiones y dirigidos por los supervisores morontiales de las capitales de los universos locales; su principal ámbito de actividad son las constelaciones.",
+ "g12.s02.01": {
+  "name": "Músicos Celestiales",
+  "origin": "Artesanos celestiales reclutados (los maestros originales procedían de Havona; los alumnos, de los mortales ascendentes y otros seres celestiales)",
+  "realm": "Los mundos morontiales y espirituales, especialmente los mundos que rodean la sede de la constelación",
+  "number": "No revelado (el cuerpo docente original tenía 1.000 instructores de Havona por división)",
+  "roles": [
+   "Producen armonía celestial mediante la manipulación de las fuerzas espirituales",
+   "Crean melodía en siete modos, desde el sonido y la luz espirituales hasta las sinfonías de color",
+   "Utilizan más de cien mil modos de manipulación del sonido, el color y la energía",
+   "Captan las melodías de otras esferas en los circuitos de transmisión del universo"
+  ],
+  "quote": {
+   "cit": "44:1.2"
+  }
+ },
+ "g12.s02.02": {
+  "name": "Reproductores Celestiales",
+  "origin": "Artesanos celestiales reclutados",
+  "realm": "Los mundos morontiales y espirituales (cónclaves morontiales y asambleas espirituales)",
+  "number": "No revelado (siete grupos)",
+  "roles": [
+   "Reproducen en el nivel morontial escenas y acontecimientos pasados y presentes",
+   "Combinan la recapitulación de la memoria con el descanso mental junto con los directores de reversión",
+   "Montan vastos espectáculos dramáticos que representan el propósito de las grandes asambleas",
+   "Sirven a la educación morontial de los maestros intelectuales y de los ministros de transición"
+  ],
+  "members": [
+   {
+    "name": "Cantantes",
+    "note": "Reiteran las armonías del pasado e interpretan las melodías del presente"
+   },
+   {
+    "name": "Artesanos del color",
+    "note": "Conservan en luz y sombra las escenas pasajeras"
+   },
+   {
+    "name": "Pintores de luz",
+    "note": "Preservan fenómenos semiespirituales"
+   },
+   {
+    "name": "Celebradores históricos",
+    "note": "Reproducen dramáticamente los acontecimientos cruciales de la historia del universo"
+   },
+   {
+    "name": "Artistas proféticos",
+    "note": "Proyectan al futuro los significados de la historia"
+   },
+   {
+    "name": "Narradores de la historia de la vida",
+    "note": "Perpetúan el significado de la experiencia de la vida"
+   },
+   {
+    "name": "Promulgadores administrativos",
+    "note": "Dramaturgos celestiales de la soberanía y la administración"
+   }
+  ],
+  "quote": {
+   "cit": "44:2.11"
+  }
+ },
+ "g12.s02.03": {
+  "name": "Constructores Divinos",
+  "origin": "Artesanos celestiales reclutados",
+  "realm": "Las moradas, los templos y los lugares de asamblea de los mundos morontiales y espirituales",
+  "number": "No revelado (siete grupos)",
+  "roles": [
+   "Construyen y renuevan las moradas morontiales para individuos y grupos de trabajo",
+   "Construyen talleres y los edificios dedicados al descanso y al juego",
+   "Construyen templos de adoración, escuelas de aprendizaje y salas de asamblea pública",
+   "Coordinan la vida morontial con los Supervisores del Poder Morontial"
+  ],
+  "members": [
+   {
+    "name": "Diseñadores y constructores de casas",
+    "note": "Construyen y renuevan moradas individuales y de grupo"
+   },
+   {
+    "name": "Constructores industriales",
+    "note": "Diseñan y ensamblan talleres para los trabajadores ordinarios"
+   },
+   {
+    "name": "Constructores de recreación",
+    "note": "Proporcionan edificios para el descanso y la recreación"
+   },
+   {
+    "name": "Constructores de adoración",
+    "note": "Arquitectos de los templos espirituales y morontiales"
+   },
+   {
+    "name": "Constructores de enseñanza",
+    "note": "Construyen las sedes del aprendizaje morontial y espiritual"
+   },
+   {
+    "name": "Planificadores morontiales",
+    "note": "Construyen para la asociación coordinada de todas las personalidades de una esfera"
+   },
+   {
+    "name": "Constructores públicos",
+    "note": "Planifican y construyen los lugares de asamblea común"
+   }
+  ],
+  "quote": {
+   "cit": "44:3.1"
+  }
+ },
+ "g12.s02.04": {
+  "name": "Registradores del Pensamiento",
+  "origin": "Artesanos celestiales reclutados",
+  "realm": "Los mundos morontiales y espirituales, los circuitos de transmisión del universo y las salas morontiales de registros",
+  "number": "No revelado (siete grupos)",
+  "roles": [
+   "Preservan y reproducen el pensamiento superior de los reinos",
+   "Registran las ideas nobles en la lengua de Uversa",
+   "Supervisan, editan y traducen las transmisiones del Paraíso y de los universos",
+   "Conservan en las salas de registros las escenas vitales de los mundos de transición"
+  ],
+  "members": [
+   {
+    "name": "Preservadores del pensamiento",
+    "note": "Preservan el pensamiento más elevado de los reinos"
+   },
+   {
+    "name": "Registradores de conceptos",
+    "note": "Preservan imágenes de conceptos y modelos de ideas"
+   },
+   {
+    "name": "Registradores de ideografía",
+    "note": "Mejoran mil veces el registro de conceptos mediante ideogramas"
+   },
+   {
+    "name": "Promotores de la oratoria",
+    "note": "Preservan el pensamiento para su reproducción mediante la oratoria"
+   },
+   {
+    "name": "Directores de transmisión",
+    "note": "Censores, editores y coordinadores de las transmisiones del universo"
+   },
+   {
+    "name": "Registradores del ritmo",
+    "note": "Artesanos a quienes los urantianos llamarían poetas"
+   },
+   {
+    "name": "Registradores morontiales",
+    "note": "Fotógrafos de grupos de los mundos de transición"
+   }
+  ],
+  "quote": {
+   "cit": "44:4.1"
+  }
+ },
+ "g12.s02.05": {
+  "name": "Manipuladores de la Energía",
+  "origin": "Artesanos celestiales reclutados",
+  "realm": "Los mundos de transición y todos los planetas habitados (Urantia tiene 70 consejeros de transporte y 12 expertos de la comunicación)",
+  "number": "No revelado (siete grupos)",
+  "roles": [
+   "Trabajan con la energía física, mental y espiritual",
+   "Ayudan a los Supervisores del Poder Morontial",
+   "Aconsejan a los serafines de transporte sobre las rutas y el tráfico",
+   "Se encargan de la comunicación interplanetaria e interuniversal",
+   "Enseñan el descanso divino y la toma de energía espiritual"
+  ],
+  "members": [
+   {
+    "name": "Manipuladores de la energía física",
+    "note": "Sirven con los directores del poder en la energía física"
+   },
+   {
+    "name": "Manipuladores de la energía mental",
+    "note": "Expertos en la intercomunicación entre los seres morontiales"
+   },
+   {
+    "name": "Manipuladores de la energía espiritual",
+    "note": "Mejoran las técnicas de toma de energía espiritual"
+   },
+   {
+    "name": "Manipuladores de lo compuesto",
+    "note": "Unen las tres energías, buscando la presencia del Supremo"
+   },
+   {
+    "name": "Consejeros de transporte",
+    "note": "Supervisores del tráfico de las esferas (70 en Urantia)"
+   },
+   {
+    "name": "Expertos de la comunicación",
+    "note": "Técnicos de los mensajes del espacio (12 en Urantia)"
+   },
+   {
+    "name": "Maestros del descanso",
+    "note": "Enseñan la técnica del descanso divino"
+   }
+  ],
+  "quote": {
+   "cit": "44:5.1"
+  }
+ },
+ "g12.s02.06": {
+  "name": "Diseñadores y Embellecedores",
+  "origin": "Artesanos celestiales reclutados",
+  "realm": "Los mundos morontiales y espirituales",
+  "number": "No revelado (siete encabezamientos principales, más de mil subdivisiones)",
+  "roles": [
+   "Embellecen los mundos morontiales y espirituales",
+   "Diseñan el color, el sonido, la emoción, el olor y el gusto",
+   "Disponen a seres diversos en himnos de gloria",
+   "Dan los toques finales al conjunto morontial"
+  ],
+  "members": [
+   {
+    "name": "Artesanos del color",
+    "note": "Hacen hablar los diez mil matices de color del reflejo espiritual"
+   },
+   {
+    "name": "Diseñadores del sonido",
+    "note": "Representan las ondas espirituales como lo que los mortales llamarían sonido"
+   },
+   {
+    "name": "Diseñadores de la emoción",
+    "note": "Conservan los sentimientos de la morontia y las emociones de la divinidad"
+   },
+   {
+    "name": "Artistas del olor",
+    "note": "Crean sinfonías de olores para los hijos de la luz"
+   },
+   {
+    "name": "Embellecedores de la presencia",
+    "note": "Dramatizan las relaciones disponiendo a los seres"
+   },
+   {
+    "name": "Diseñadores del gusto",
+    "note": "Mejoran el gusto morontial"
+   },
+   {
+    "name": "Sintetizadores morontiales",
+    "note": "Maestros artesanos que añaden los toques culminantes"
+   }
+  ],
+  "quote": {
+   "cit": "44:6.2"
+  }
+ },
+ "g12.s02.07": {
+  "name": "Trabajadores de la Armonía",
+  "origin": "Artesanos celestiales reclutados",
+  "realm": "El mundo espiritual",
+  "number": "No revelado",
+  "roles": [
+   "Manipulan las fuerzas y energías especializadas presentes en el mundo espiritual",
+   "Organizan esas fuerzas y energías",
+   "No se ocupan de la música, la pintura ni nada semejante"
+  ],
+  "quote": {
+   "cit": "44:7.1"
+  }
+ },
+ "g12.03": {
+  "name": "Directores de Reversión",
+  "origin": "No es un grupo creado sino un cuerpo reclutado de voluntarios (desde los nativos de Havona, pasando por las huestes de mensajeros y los espíritus ministrantes, hasta los progresores morontiales; predominan los mortales morontiales ascendentes)",
+  "realm": "Principalmente las capitales de los sistemas locales (sedes de grupo en cada mundo de estancia, una gran sala de asambleas en Jerusem)",
+  "number": "No revelado",
+  "roles": [
+   "Promueven la relajación, el humor y la reversión a recuerdos pasados",
+   "Apoyan a los Compañeros Morontiales como patrocinadores del juego",
+   "Dirigen la diversión, la recreación espiritual y el entretenimiento morontial",
+   "Ayudan a los ascendentes a socializar mediante el juego en grupo"
+  ],
+  "quote": {
+   "cit": "48:4.10"
+  }
+ },
+ "g12.04": {
+  "name": "Instructores de las Facultades de Extensión",
+  "origin": "Residentes avanzados del mundo residencial inmediatamente superior de la carrera ascendente",
+  "realm": "Cada mundo residencial de la carrera ascendente (escuelas preparatorias en el mundo inmediatamente inferior)",
+  "number": "No revelado",
+  "roles": [
+   "Enseñan por adelantado a los residentes del mundo inmediatamente inferior",
+   "Los preparan para el siguiente mundo de su ascensión",
+   "Transmiten la nueva verdad y la experiencia tan pronto como las adquieren"
+  ],
+  "quote": {
+   "cit": "30:3.8"
+  }
+ },
+ "g12.05": {
+  "name": "Distintos Cuerpos de Reserva",
+  "origin": "Seres de muchas órdenes (reservas que no están bajo la supervisión inmediata del gobierno local)",
+  "realm": "Uversa (setenta divisiones primarias), Salvington y otras capitales del universo",
+  "number": "No revelado (setenta divisiones primarias en Uversa)",
+  "roles": [
+   "Permanecen movilizados como vastas reservas en los mundos sede",
+   "Salen al servicio activo a requerimiento de sus directores de grupo",
+   "Ofrecen una educación liberal a quienes pasan una temporada con ellos"
+  ],
+  "quote": {
+   "cit": "30:3.10"
+  }
+ },
+ "g12.06": {
+  "name": "Estudiantes Visitantes",
+  "origin": "Casi todas las clases de seres del universo, salvo las personalidades Creadoras (los mortales morontiales solo dentro de su propio universo local)",
+  "realm": "Los diversos mundos sede (una colonia en Uversa; una estación receptora de estudiantes visitantes en Jerusem)",
+  "number": "Más de mil millones solo en Uversa",
+  "roles": [
+   "Visitan los mundos sede como observadores, alumnos de intercambio y estudiantes auxiliares",
+   "Permanecen desde un día hasta un año, según su misión",
+   "Alrededor de la mitad hacen escala de camino a otros lugares",
+   "Aprenden sobre el universo mediante el viaje y la observación"
+  ],
+  "quote": {
+   "cit": "30:3.11"
+  }
+ },
+ "g12.07": {
+  "name": "Peregrinos Ascendentes",
+  "aka": [
+   "Mortales ascendentes"
+  ],
+  "origin": "Los mortales evolutivos y sus asociados ascendentes (incluidos los seres intermedios glorificados)",
+  "realm": "Las diversas esferas sede de los universos locales y de los superuniversos",
+  "number": "No revelado (en cambio constante)",
+  "roles": [
+   "Asumen servicios relacionados con su progreso hacia el Paraíso",
+   "Se gobiernan a sí mismos en gran parte como colonia",
+   "Sirven a los cuerpos celestiales como ayudantes, estudiantes, observadores y maestros",
+   "Tienden la mano para ayudar a los compañeros que vienen detrás"
+  ],
+  "quote": {
+   "cit": "30:3.13"
+  }
+ },
+ "g13.title": "El Cuerpo de la Finalidad",
+ "g13.intro": "El Cuerpo de la Finalidad es el destino actualmente conocido de los mortales ascendentes del tiempo fusionados con el Ajustador: quienes alcanzan el Paraíso prestan el juramento de eternidad de la Trinidad y son incorporados a él. El cuerpo primario, o mortal, está formado por seis grupos —nativos de Havona, Mensajeros de Gravedad, mortales glorificados, serafines adoptados, Hijos Materiales glorificados y seres intermedios glorificados—, mientras que el único puesto restante en cada compañía de mil lo ocupa el jefe de los Evángeles de Luz agregados. Los finalistas son un cuerpo que se gobierna a sí mismo y que actualmente regresa a servir en los universos del tiempo, pero en Uversa se conjetura que su destino futuro está en los universos del espacio exterior. Este capítulo trata los siete miembros del cuerpo mortal, seguidos de los Trascendentales del Paraíso, cuyo jefe administra el juramento de los finalistas, y de su cuerpo de gobierno, los Arquitectos del Universo Maestro.",
+ "g13.s01.title": "El Cuerpo primario de la Finalidad",
+ "g13.s01.intro": "El Cuerpo primario de la Finalidad, el cuerpo mortal, es el cuerpo de finalistas primario, reunido en el Paraíso a partir de los seres ascendentes del tiempo y del espacio. Se moviliza en compañías de mil, de las cuales unos 990 suelen ser mortales ascendentes y serafines adoptados, mientras que los diez puestos restantes corresponden a los demás miembros. El cuerpo elige a sus propios líderes y jura lealtad solo a la Trinidad del Paraíso, y Grandfanda, el primer mortal ascendente, preside como jefe en el Paraíso de todos los finalistas.",
+ "g13.s01.01": {
+  "name": "Nativos de Havona",
+  "origin": "Creación directa y divina del universo central (se ofrecen como voluntarios para el cuerpo de los finalistas)",
+  "realm": "Proceden del universo central; van adondequiera que vaya la compañía de finalistas a la que están asignados",
+  "number": "Uno por compañía (uno de cada mil); millones y millones en la lista de espera",
+  "roles": [
+   "Aportan al cuerpo el punto de vista de quien ha nacido en la perfección",
+   "Prestan el mismo juramento de finalidad y pertenecen al cuerpo para siempre",
+   "Siguen con entusiasmo a su compañía en su nuevo trabajo",
+   "Ingresan en otros dos cuerpos de finalistas en la misma proporción"
+  ],
+  "quote": {
+   "cit": "31:1.1"
+  }
+ },
+ "g13.s01.02": {
+  "name": "Mensajeros de Gravedad",
+  "origin": "Divinington (Ajustadores modificados y personalizados; una personalización directa de un fragmento del Padre Universal)",
+  "realm": "Agregados a las compañías de finalistas, trascendiendo el tiempo y el espacio (bajo la jurisdicción exclusiva de Grandfanda)",
+  "number": "Un jefe incorporado a cada compañía (con un personal permanente de 999 compañeros y reservas ilimitadas)",
+  "roles": [
+   "Forman un cuerpo de mensajeros personalizados bajo el mando de los finalistas",
+   "Atraviesan el espacio utilizando energías, circuitos e incluso la gravedad",
+   "Un jefe se incorpora al cuerpo por cada compañía",
+   "Comparten un afecto profundo con los mortales glorificados"
+  ],
+  "quote": {
+   "cit": "31:2.1"
+  }
+ },
+ "g13.s01.03": {
+  "name": "Mortales Glorificados",
+  "aka": [
+   "Mortales ascendentes fusionados con el Ajustador",
+   "Finalistas mortales"
+  ],
+  "origin": "Mortales evolutivos fusionados con sus Ajustadores del Pensamiento que han alcanzado el Paraíso (solo se incorporan los fusionados con el Padre)",
+  "realm": "Residen en el Paraíso; sirven en los universos del tiempo y en los mundos establecidos en luz y vida",
+  "number": "No revelado (el grueso del cuerpo; junto con los serafines adoptados, por lo general 990 por compañía)",
+  "roles": [
+   "Componen el grueso del Cuerpo primario de la Finalidad",
+   "Sirven temporalmente en el Cuerpo de Luz y Vida",
+   "Ayudan en la administración de los universos locales y de los superuniversos",
+   "Esperan, como espíritus de sexta etapa, la séptima etapa que aún tienen por delante"
+  ],
+  "quote": {
+   "cit": "31:3.3"
+  }
+ },
+ "g13.s01.04": {
+  "name": "Serafines Adoptados",
+  "origin": "Guardianes seráficos de los mortales (guardianes del destino) que ascienden con sus pupilos y llegan a fusionarse con el Padre",
+  "realm": "El Cuerpo primario de la Finalidad y diversos cuerpos de finalistas no mortales",
+  "number": "No revelado (superados ampliamente en número por los mortales)",
+  "roles": [
+   "Recorren la carrera ascendente con sus pupilos humanos",
+   "Prestan el juramento de los finalistas junto con sus pupilos",
+   "Comparten para siempre el destino de sus asociados mortales",
+   "También están agregados a diversos cuerpos de finalistas no mortales"
+  ],
+  "quote": {
+   "cit": "31:4.1"
+  }
+ },
+ "g13.s01.05": {
+  "name": "Hijos Materiales Glorificados",
+  "origin": "Hijos Materiales —ciudadanos adánicos de los sistemas o Adanes y Evas Planetarios— que reciben Ajustadores y emprenden el sendero ascendente",
+  "realm": "Las compañías de finalistas en el Paraíso (ausentes de muchas compañías)",
+  "number": "No revelado",
+  "roles": [
+   "Añaden un gran potencial a las posibilidades de alto servicio de una compañía",
+   "Son elegidos invariablemente como líderes de la compañía",
+   "Por lo general funcionan conjuntamente, como una sola personalidad, cuando ambos miembros de una pareja están presentes",
+   "Tienen mucho más éxito que los mortales en la aventura de la trinidización"
+  ],
+  "quote": {
+   "cit": "31:5.3"
+  }
+ },
+ "g13.s01.06": {
+  "name": "Seres Intermedios Glorificados",
+  "origin": "Seres intermedios de los planetas evolutivos liberados de la ciudadanía permanente para ascender (todos los intermedios secundarios llegan finalmente a fusionarse con el Ajustador)",
+  "realm": "Las compañías de finalistas en el Paraíso",
+  "number": "No revelado (uno en muchas compañías)",
+  "roles": [
+   "Ascienden al Paraíso después de que su planeta se establece en luz y vida",
+   "Pasan con los mortales por los mundos morontiales, el superuniverso y Havona",
+   "Se unen al cuerpo mortal cuando, como intermedios secundarios, se fusionan con el Ajustador",
+   "Ocupan un puesto en muchas compañías de finalistas"
+  ],
+  "quote": {
+   "cit": "31:6.2"
+  }
+ },
+ "g13.s01.07": {
+  "name": "Evángeles de Luz",
+  "origin": "Personalidades celestiales de muchos orígenes (Mensajeros Solitarios, supernafines, seconafines, Ciudadanos del Paraíso, su progenie trinidizada y otros)",
+  "realm": "Las compañías de finalistas en asignaciones transitorias",
+  "number": "No revelado (su jefe ocupa el único puesto vacante en cada compañía)",
+  "roles": [
+   "Ayudan a cumplir las asignaciones transitorias de los finalistas",
+   "Su jefe ocupa temporalmente el puesto vacante en una compañía",
+   "No prestan el juramento de los finalistas ni están agregados de forma permanente",
+   "Recuperan su condición anterior cuando termina su agregación"
+  ],
+  "quote": {
+   "cit": "31:7.2"
+  }
+ },
+ "g13.s02.title": "Trascendentales del Paraíso",
+ "g13.s02.intro": "Los Trascendentales son seres absonitos que no son ni creadores ni criaturas; simplemente eventúan. Viven en una vasta área al oeste del Paraíso y se ocupan de la superadministración del universo maestro. No tienen nada que ver con la ascensión mortal a Havona, pero los finalistas mortales confraternizan con ellos en el Paraíso, y el jefe de los Trascendentales administra el juramento de eternidad de la Trinidad a cada nuevo grupo de finalistas. Esta sección trata a los Trascendentales en su conjunto y a su cuerpo de gobierno, los Arquitectos del Universo Maestro.",
+ "g13.s02.01": {
+  "name": "Trascendentales",
+  "aka": [
+   "Seres trascendentales eventuados"
+  ],
+  "origin": "Eventuados, no creados (el Absoluto de Deidad puede haber intervenido en su origen; no revelado plenamente)",
+  "realm": "Una vasta área al oeste del Paraíso, exclusivamente suya",
+  "number": "Más de mil grupos (doce grandes divisiones de mil grupos de trabajo principales de siete clases cada uno)",
+  "roles": [
+   "Se dedican a la superadministración de los asuntos del universo maestro",
+   "Están sujetos a Dios el Último y supervisados por la Trinidad",
+   "Confraternizan con los finalistas en el Paraíso",
+   "Por medio de su jefe, administran a los finalistas el juramento de eternidad de la Trinidad"
+  ],
+  "members": [
+   {
+    "name": "Arquitectos del Universo Maestro",
+    "note": "El cuerpo de gobierno de los Trascendentales"
+   },
+   {
+    "name": "Registradores Trascendentales",
+    "note": "Registradores sin forma discernible"
+   },
+   {
+    "name": "Otros Trascendentales",
+    "note": "No revelado"
+   }
+  ],
+  "quote": {
+   "cit": "31:8.3"
+  }
+ },
+ "g13.s02.02": {
+  "name": "Arquitectos del Universo Maestro",
+  "aka": [
+   "Arquitectos Maestros"
+  ],
+  "origin": "Seres absonitos eventuados (su origen, naturaleza y destino quizás no puedan revelarse plenamente)",
+  "realm": "El Paraíso, Havona, los siete superuniversos y los cuatro niveles del espacio exterior (los siete niveles de lo absonito)",
+  "number": "28.011",
+  "roles": [
+   "Forman el cuerpo de gobierno de los Trascendentales del Paraíso",
+   "Por medio del Arquitecto decano, supervisan los siete Cuerpos de la Finalidad",
+   "Dan la aprobación técnica a los emplazamientos de los universos locales de los Hijos Creadores",
+   "Se cree que planifican los universos del espacio exterior",
+   "Toman bajo su tutela a la progenie trinidizada de los finalistas y de los Ciudadanos del Paraíso"
+  ],
+  "members": [
+   {
+    "name": "El Nivel del Paraíso",
+    "note": "1, el Arquitecto decano, coordinador del Paraíso y de sus 21 mundos"
+   },
+   {
+    "name": "El Nivel de Havona",
+    "note": "3, que coordinan los mil millones de esferas del universo central"
+   },
+   {
+    "name": "El Nivel Superuniversal",
+    "note": "7, los supercoordinadores del gran universo"
+   },
+   {
+    "name": "El Nivel Espacial Primario",
+    "note": "70, para el primer universo del espacio exterior (conjetura)"
+   },
+   {
+    "name": "El Nivel Espacial Secundario",
+    "note": "490, para el segundo universo del espacio exterior (conjetura)"
+   },
+   {
+    "name": "El Nivel Espacial Terciario",
+    "note": "3.430, para el tercer universo del espacio exterior (conjetura)"
+   },
+   {
+    "name": "El Nivel Espacial Cuartano",
+    "note": "24.010, para el cuarto universo del espacio exterior (conjetura)"
+   }
+  ],
+  "quote": {
+   "cit": "31:9.1"
+  }
+ }
+}

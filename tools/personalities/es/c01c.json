@@ -1,0 +1,565 @@
+{
+ "g08.title": "Las Huestes de Mensajeros del Espacio",
+ "g08.intro": "Situadas en un rango intermedio dentro de la familia del Espíritu Infinito, las Huestes de Mensajeros del Espacio sirven de eslabones de conexión entre las personalidades más elevadas y los espíritus ministrantes. De sus siete grupos, solo tres —los Servitales de Havona, los Conciliadores Universales y los Compañeros Morontiales— son creados como tales; los otros cuatro (Asesores Técnicos, Custodios de los Registros en el Paraíso, Registradores Celestiales y Compañeros Paradisiacos) representan niveles de logro alcanzados principalmente por las órdenes angélicas. Sirven en todo el universo de los universos, desde el universo central hasta los mundos de estancia de los sistemas locales, siempre bajo la dirección de quienes gobiernan los reinos de su asignación. Este capítulo trata las siete órdenes y presenta a los Compañeros Morontiales en las siete clases de su trabajo en un sistema local.",
+ "g08.01": {
+  "name": "Servitales de Havona",
+  "aka": [
+   "servitales",
+   "criaturas intermedias del universo central"
+  ],
+  "origin": "Creación conjunta de los Siete Espíritus Rectores y los Siete Directores Supremos del Poder (aparecen en grupos de mil; uno de cada cuatro es una «cuarta criatura» semifísica)",
+  "realm": "Los siete circuitos de Havona y los mundos educativos que rodean las siete capitales de los superuniversos",
+  "number": "Prodigioso y todavía en aumento (casi 138.000 millones ministran solo en los 490 satélites de Uversa)",
+  "roles": [
+   "Asisten en el servicio del Padre, el Hijo, el Espíritu y los Siete Espíritus Rectores",
+   "Ayudan e instruyen a los ascendentes de Havona como asociados de los Guías de los Graduados",
+   "Actúan como compañeros de los mortales ascendentes en los mundos educativos del superuniverso",
+   "Acompañan al Guía de los Graduados en el trío de tránsito que escolta a los ascendentes al Paraíso",
+   "Al parecer, después de una larga experiencia llegan a ser ellos mismos Guías de los Graduados"
+  ],
+  "quote": {
+   "cit": "25:1.2"
+  }
+ },
+ "g08.02": {
+  "name": "Conciliadores Universales",
+  "aka": [
+   "conciliadores",
+   "comisiones conciliadoras",
+   "tríos de árbitros"
+  ],
+  "origin": "Los Espíritus Reflexivos de las capitales de los superuniversos (aparecen siete, uno en cada superuniverso, por cada Servital de Havona creado)",
+  "realm": "Las capitales de los superuniversos (sedes de grupo y reservas primarias) y las capitales de los universos locales (reservas secundarias); viajan desde los mundos evolutivos hasta el superuniverso",
+  "number": "Casi dieciocho billones de comisiones —más de setenta billones de individuos— en actividad en Orvonton (se calculan unos cien millones de comisiones en Nebadon)",
+  "roles": [
+   "Sirven en comisiones de cuatro como los tribunales itinerantes de los mundos",
+   "Resuelven con rapidez las dificultades administrativas y jurisdiccionales menores",
+   "Avanzan a través de siete niveles de servicio, desde los mundos hasta el superuniverso",
+   "Llegan a ser maestros-árbitros que explican los misterios en los niveles superiores",
+   "Tras su formación en el Paraíso, recorren los universos como el cuerpo coordinador del Espíritu Infinito"
+  ],
+  "members": [
+   {
+    "name": "Juez-Árbitro",
+    "note": "Jefe judicial de la comisión, elegido por unanimidad por los otros tres"
+   },
+   {
+    "name": "Abogado de Espíritu",
+    "note": "Presenta las pruebas y salvaguarda los derechos de todas las personalidades implicadas"
+   },
+   {
+    "name": "Ejecutor Divino",
+    "note": "La cuarta criatura cuasimaterial que ejecuta las decisiones de la comisión"
+   },
+   {
+    "name": "Registrador",
+    "note": "Secretario del tribunal que prepara los registros para el superuniverso y el universo local"
+   }
+  ],
+  "quote": {
+   "cit": "25:2.11"
+  }
+ },
+ "g08.03": {
+  "name": "Asesores Técnicos",
+  "origin": "No creados como tales. El Espíritu Infinito escogió como núcleo a un millón de las mentes más ordenadas entre los primeros supernafines y omniafines; desde entonces se reclutan entre los supernafines, seconafines, terciafines, omniafines, serafines y ciertos mortales ascendentes y seres intermedios",
+  "realm": "Sedes comunes, en grupos de siete, en las esferas de asignación; desde los universos locales hasta los portales del Paraíso",
+  "number": "Algo más de sesenta y un billones en Orvonton (sin contar los mortales y los seres intermedios transitorios); unos quinientos millones en Nebadon",
+  "roles": [
+   "Aconsejan a toda clase de seres sobre los usos y las técnicas adecuados de las transacciones del mundo espiritual",
+   "Funcionan como las bibliotecas jurídicas vivientes del tiempo y del espacio",
+   "Evitan demoras, facilitan el progreso y aconsejan sobre los logros",
+   "Un grupo especial sirve como consejeros legales de los Portadores de Vida",
+   "Ayudan a los Censores Universales, a los Melquisedek y a los gobernantes de sistemas, constelaciones y universos"
+  ],
+  "quote": {
+   "cit": "25:4.15"
+  }
+ },
+ "g08.04": {
+  "name": "Custodios de los Registros en el Paraíso",
+  "aka": [
+   "Custodios de los Registros",
+   "Jefes de Registros"
+  ],
+  "origin": "Escogidos entre los registradores principales decanos de los supernafines terciarios en Havona",
+  "realm": "Los archivos oficiales del Paraíso, la Isla de Luz; algunos son enviados a los superuniversos como Jefes de Registros",
+  "number": "No revelado",
+  "roles": [
+   "Custodian los archivos oficiales de la Isla de Luz",
+   "Conservan el resumen pertinente de los datos de los superuniversos y de Havona",
+   "Guardan los registros de las transacciones del Paraíso desde la personificación del Espíritu Infinito",
+   "Dirigen a los Registradores Celestiales como Jefes de Registros en los superuniversos"
+  ],
+  "quote": {
+   "cit": "25:5.1"
+  }
+ },
+ "g08.05": {
+  "name": "Registradores Celestiales",
+  "origin": "No creados como tales; serafines ascendentes de los universos locales, recibidos y asignados por los consejos de los Jefes de Registros en las capitales de los superuniversos",
+  "realm": "Las esferas subordinadas de registro en los superuniversos; los registradores decanos, en las moradas circulares alrededor del área de los registros en Uversa",
+  "number": "Billones y billones de registradores en avance en Orvonton; no llegan a ocho millones los registradores decanos en Uversa (75 decanos y casi cuatro mil millones en formación en Nebadon)",
+  "roles": [
+   "Ejecutan todos los registros por duplicado: un original espiritual y una copia semimaterial",
+   "Ponen los registros a disposición de todos los seres, desde el orden material hasta los altos espíritus de luz",
+   "Conservan y envían al superuniverso los registros patrocinados del tiempo y del espacio",
+   "Patrocinan las organizaciones superuniversales de los serafines y supernafines registradores"
+  ],
+  "quote": {
+   "cit": "25:6.1"
+  }
+ },
+ "g08.s06.title": "Compañeros Morontiales",
+ "g08.s06.intro": "Los Compañeros Morontiales son la progenie de un Espíritu Materno de un universo local; se crean en grupos de cien mil, y Nebadon tiene actualmente más de setenta mil millones de ellos. Formados por los Melquisedek en un planeta especial cerca de Salvington y con sede en el primer mundo de estancia de cada sistema local, son los amigos, anfitriones y patrocinadores del juego de todos los que viven la vida morontial ascendente. Los hay de un tipo emprendedor y de un tipo reservado, y su trabajo en un sistema local se divide en las siete clases siguientes.",
+ "g08.s06.01": {
+  "name": "Guardianes de los Peregrinos",
+  "origin": "El Espíritu Materno del universo local (una clase de Compañeros Morontiales)",
+  "realm": "Los mundos de estancia y los mundos morontiales de un sistema local",
+  "number": "No revelado (en total, más de setenta mil millones de Compañeros Morontiales en Nebadon)",
+  "roles": [
+   "Se asocian con los progresores morontiales sin tareas específicas asignadas",
+   "Asumen la responsabilidad de toda la carrera morontial",
+   "Coordinan el trabajo de todos los demás ministros morontiales y de transición"
+  ],
+  "quote": {
+   "cit": "48:3.7"
+  }
+ },
+ "g08.s06.02": {
+  "name": "Recibidores de los Peregrinos y Asociadores Libres",
+  "origin": "El Espíritu Materno del universo local (una clase de Compañeros Morontiales)",
+  "realm": "Los mundos de estancia, y en adelante hasta que el ascendente deja el universo local",
+  "number": "No revelado",
+  "roles": [
+   "Actúan como compañeros sociales de los recién llegados a los mundos de estancia",
+   "Dan la bienvenida a cada sobreviviente que despierta en el primer mundo de estancia",
+   "Permanecen con los ascendentes hasta que dejan el universo local como espíritus de primera etapa",
+   "Sirven según la necesidad y la disponibilidad, más que por asignación permanente"
+  ],
+  "quote": {
+   "cit": "48:3.8"
+  }
+ },
+ "g08.s06.03": {
+  "name": "Anfitriones de los Visitantes Celestiales",
+  "origin": "El Espíritu Materno del universo local (una clase de Compañeros Morontiales)",
+  "realm": "Los mundos de transición de un sistema local",
+  "number": "No revelado",
+  "roles": [
+   "Atienden a los grupos superhumanos de estudiantes visitantes en los mundos de transición",
+   "Hospedan a otros seres celestiales que residen allí temporalmente"
+  ],
+  "quote": {
+   "cit": "48:3.10"
+  }
+ },
+ "g08.s06.04": {
+  "name": "Coordinadores y Directores de Enlace",
+  "origin": "El Espíritu Materno del universo local (una clase de Compañeros Morontiales)",
+  "realm": "Amplias zonas de los mundos de estancia donde reúnen a sus alumnos",
+  "number": "No revelado",
+  "roles": [
+   "Facilitan la relación morontial y previenen la confusión",
+   "Instruyen sobre la conducta social y el progreso morontial",
+   "Patrocinan clases y actividades de grupo entre los mortales ascendentes",
+   "Recurren a los artesanos celestiales y a los directores de reversión para enriquecer sus programas"
+  ],
+  "quote": {
+   "cit": "48:3.11"
+  }
+ },
+ "g08.s06.05": {
+  "name": "Intérpretes y Traductores",
+  "origin": "El Espíritu Materno del universo local (una clase de Compañeros Morontiales)",
+  "realm": "Los mundos de estancia y los mundos de transición de un sistema local",
+  "number": "No revelado",
+  "roles": [
+   "Conocen y hablan todas las lenguas de un universo local",
+   "Enseñan los idiomas de Satania y de Nebadon",
+   "Interpretan y traducen para los ascendentes mientras estos dominan las nuevas lenguas"
+  ],
+  "quote": {
+   "cit": "48:3.12"
+  }
+ },
+ "g08.s06.06": {
+  "name": "Supervisores de las Excursiones y la Reversión",
+  "origin": "El Espíritu Materno del universo local (una clase de Compañeros Morontiales)",
+  "realm": "La esfera sede del sistema y los mundos circundantes de cultura de transición",
+  "number": "No revelado",
+  "roles": [
+   "Acompañan a los ascendentes en los viajes más largos a la esfera sede y a los mundos de transición",
+   "Planifican, dirigen y supervisan las giras individuales y de grupo por los mundos del sistema"
+  ],
+  "quote": {
+   "cit": "48:3.14"
+  }
+ },
+ "g08.s06.07": {
+  "name": "Custodios de las Zonas y de los Edificios",
+  "origin": "El Espíritu Materno del universo local (una clase de Compañeros Morontiales)",
+  "realm": "Las zonas y las estructuras de los mundos de estancia",
+  "number": "No revelado",
+  "roles": [
+   "Cuidan de las zonas y los edificios de los mundos de estancia",
+   "Atienden las moradas y los recintos abiertos donde viven y se reúnen los ascendentes"
+  ],
+  "quote": {
+   "cit": "48:3.15"
+  }
+ },
+ "g08.07": {
+  "name": "Compañeros Paradisiacos",
+  "origin": "Un grupo compuesto reclutado entre los serafines, seconafines, supernafines y omniafines (propuestos por los Espíritus Maternos, los Espíritus Reflexivos y Majeston, y comisionados por uno de los Siete Espíritus Rectores)",
+  "realm": "El Paraíso, la Isla central; cuando es necesario, siguen a un peregrino derrotado de regreso a los universos del tiempo",
+  "number": "No revelado (una condición temporal, no permanente)",
+  "roles": [
+   "Hacen compañía a todos los que están solos en el Paraíso, principalmente a los mortales ascendentes",
+   "Dan la bienvenida a los ascendentes que despiertan en la Isla de Luz",
+   "Ofrecen consejo y compañía a los ascendentes separados de sus asociados",
+   "Siguen, consuelan y animan al peregrino que fracasa en Havona hasta que regresa"
+  ],
+  "members": [
+   {
+    "name": "Compañeros de recepción",
+    "note": "Asignados durante los últimos días en el circuito final de Havona para recibir a los mortales que llegan"
+   }
+  ],
+  "quote": {
+   "cit": "25:8.3"
+  }
+ },
+ "g09.title": "Los Espíritus Ministrantes del Universo Central",
+ "g09.intro": "Los supernafines son los espíritus ministrantes del Paraíso y del universo central, la orden más elevada de las huestes angélicas, que forman el grupo inferior de los hijos del Espíritu Infinito. Son creados en tres órdenes principales. Los supernafines primarios, progenie exclusiva del Espíritu Infinito, sirven a las Deidades en el Paraíso; los supernafines secundarios, creados individualmente por los Siete Espíritus Rectores en siete tipos, dirigen los asuntos de los ascendentes en los siete circuitos de Havona; los supernafines terciarios, hijos de los Siete Espíritus de los Circuitos, desempeñan los diversos servicios del universo central. Como cuerpo, los supernafines se gobiernan a sí mismos, presididos únicamente por su jefe común, el primer ángel del Paraíso, «el ángel modelo original». Este capítulo presenta las siete órdenes de supernafines primarios (documento 27) y los siete grupos de cada una de las órdenes secundaria y terciaria (documento 26). Los mortales ascendentes son guiados por los supernafines secundarios desde el circuito exterior de Havona hacia el interior; en el Paraíso se forman con las órdenes primarias en secuencia inversa, desde los instigadores del reposo hasta los conductores de la adoración.",
+ "g09.s01.title": "Supernafines primarios",
+ "g09.s01.intro": "Los supernafines primarios, progenie exclusiva del Creador Conjunto, son los servidores supernos de las Deidades en la Isla eterna del Paraíso. Desde la eternidad no se ha perdido ni uno de esta hueste, y en gran número ascienden hasta llegar a ser Asesores Técnicos. Los peregrinos ascendentes quedan bajo su dirección solo después de alcanzar la residencia en el Paraíso, y pasan por su formación en el orden inverso de la lista que sigue.",
+ "g09.s01.01": {
+  "name": "Conductores de la Adoración",
+  "origin": "El Espíritu Infinito (los supernafines primarios son la progenie exclusiva del Creador Conjunto)",
+  "realm": "El Paraíso",
+  "number": "No revelado (un cuerpo especial de supernafines primarios)",
+  "roles": [
+   "Dirigen los estallidos de adoración y alabanza en el Paraíso",
+   "Enseñan a las criaturas ascendentes a adorar",
+   "Abren nuevos caminos de expresión para apresurar la plena satisfacción en la adoración",
+   "Dirigen la etapa final de la formación en el Paraíso",
+   "Despiden a los ascendentes cuando son incorporados al Cuerpo de la Finalidad"
+  ],
+  "quote": {
+   "cit": "27:7.4"
+  }
+ },
+ "g09.s01.02": {
+  "name": "Maestros de Filosofía",
+  "aka": [
+   "maestros filósofos del Paraíso",
+   "hombres sabios del cielo"
+  ],
+  "origin": "El Espíritu Infinito (los supernafines primarios son la progenie exclusiva del Creador Conjunto)",
+  "realm": "El Paraíso (el extremo sur del dominio del Paraíso)",
+  "number": "No revelado",
+  "roles": [
+   "Conducen la mente de los habitantes del Paraíso en la solución de los problemas del universo",
+   "Imparten cursos en las setenta divisiones funcionales de la sabiduría",
+   "Disertan sobre los planes y propósitos de la Infinidad",
+   "Transmiten a los ascendentes su interpretación del universo de los universos"
+  ],
+  "quote": {
+   "cit": "27:6.2"
+  }
+ },
+ "g09.s01.03": {
+  "name": "Custodios del Conocimiento",
+  "aka": [
+   "bibliotecas vivientes del Paraíso",
+   "epístolas vivientes"
+  ],
+  "origin": "El Espíritu Infinito (los supernafines primarios son la progenie exclusiva del Creador Conjunto)",
+  "realm": "El Paraíso (los buscadores vivientes del conocimiento están en el extremo norte de la Isla)",
+  "number": "No revelado",
+  "roles": [
+   "Son bibliotecas vivientes en las que están registrados los hechos de los universos",
+   "Proporcionan consulta y verificación a los residentes del Paraíso",
+   "Clasifican el conocimiento en siete grandes órdenes de alrededor de un millón de subdivisiones cada una",
+   "Forman el resumen viviente final de toda la red de ángeles registradores",
+   "Enseñan a los seres en todos los circuitos de Havona"
+  ],
+  "quote": {
+   "cit": "27:5.1"
+  }
+ },
+ "g09.s01.04": {
+  "name": "Directores de Conducta",
+  "origin": "El Espíritu Infinito (los supernafines primarios son la progenie exclusiva del Creador Conjunto)",
+  "realm": "El Paraíso",
+  "number": "No revelado",
+  "roles": [
+   "Instruyen a los nuevos residentes en los usos de la conducta perfecta del Paraíso",
+   "Permanecen junto a los «extraños dentro de las puertas» para guiar sus pasos",
+   "Permiten a los peregrinos evitar la confusión y la incertidumbre",
+   "Forman parte de las comisiones trinas que examinan a los candidatos para la aventura de la Deidad"
+  ],
+  "quote": {
+   "cit": "27:4.4"
+  }
+ },
+ "g09.s01.05": {
+  "name": "Intérpretes de la Ética",
+  "origin": "El Espíritu Infinito (los supernafines primarios son la progenie exclusiva del Creador Conjunto)",
+  "realm": "El Paraíso",
+  "number": "No revelado",
+  "roles": [
+   "Interpretan a los ascendentes la ética que han aprendido con tanto esfuerzo",
+   "Ayudan a los recién llegados al Paraíso a adaptarse a numerosos grupos de seres majestuosos",
+   "Los asisten desde que adquieren la condición de residentes hasta su ingreso en el cuerpo de los finalistas"
+  ],
+  "quote": {
+   "cit": "27:3.3"
+  }
+ },
+ "g09.s01.06": {
+  "name": "Jefes de Asignación",
+  "aka": [
+   "ángeles de asignación"
+  ],
+  "origin": "El Espíritu Infinito (los supernafines primarios son la progenie exclusiva del Creador Conjunto)",
+  "realm": "El Paraíso",
+  "number": "No revelado",
+  "roles": [
+   "Presiden la organización de las tres órdenes de supernafines",
+   "Se hacen cargo de los candidatos derrotados en la aventura de la Deidad y los devuelven al espacio",
+   "Designan al supernafín que comanda a los ángeles en un mundo aislado rehabilitado",
+   "Dispersan periódicamente las asambleas de adoración",
+   "Proporcionan experiencia de servicio a los mortales ascendentes en el Paraíso"
+  ],
+  "quote": {
+   "cit": "27:2.1"
+  }
+ },
+ "g09.s01.07": {
+  "name": "Instigadores del Reposo",
+  "aka": [
+   "inspectores del Paraíso"
+  ],
+  "origin": "El Espíritu Infinito (los supernafines primarios son la progenie exclusiva del Creador Conjunto)",
+  "realm": "El Paraíso y el circuito más interior (el primero) de Havona",
+  "number": "No revelado",
+  "roles": [
+   "Salen al circuito interior de Havona para trabajar con los complementos del reposo",
+   "Preparan a los peregrinos para el último sueño de transición",
+   "Dan la bienvenida al ascendente que despierta en las orillas del Paraíso",
+   "Dirigen la primera etapa de la formación en el Paraíso"
+  ],
+  "quote": {
+   "cit": "27:1.1"
+  }
+ },
+ "g09.s02.title": "Supernafines secundarios",
+ "g09.s02.intro": "Los supernafines secundarios son ángeles de siete tipos, cada uno creado por uno de los Siete Espíritus Rectores, que dirigen los asuntos de los seres ascendentes en los siete circuitos de Havona. Los Espíritus Rectores no comenzaron a crearlos hasta la llegada de Grandfanda, y la mitad de la orden forma a los peregrinos de la eternidad del Paraíso. El peregrino siempre es instruido por supernafines secundarios originados en el Espíritu Rector de su superuniverso natal, y los encuentra circuito por circuito, desde los ayudantes de los peregrinos del séptimo hasta los complementos del reposo del primero.",
+ "g09.s02.01": {
+  "name": "Ayudantes de los Peregrinos",
+  "origin": "Los Siete Espíritus Rectores (cada grupo contiene ángeles de los siete tipos creados)",
+  "realm": "El séptimo circuito (el más exterior) de Havona",
+  "number": "No revelado",
+  "roles": [
+   "Dan la bienvenida al universo central a los ascendentes que han viajado tanto",
+   "Enseñan sobre la Trinidad, la asociación del Padre y el Hijo, y el Espíritu Infinito",
+   "Enseñan un esbozo de todos los requisitos del Paraíso",
+   "Sirven también a los peregrinos de la eternidad del Paraíso",
+   "Confían a sus pupilos a los guías de la supremacía"
+  ],
+  "quote": {
+   "cit": "26:5.1"
+  }
+ },
+ "g09.s02.02": {
+  "name": "Guías de la Supremacía",
+  "origin": "Los Siete Espíritus Rectores (cada grupo contiene ángeles de los siete tipos creados)",
+  "realm": "Solo el sexto circuito de Havona",
+  "number": "No revelado",
+  "roles": [
+   "Supervisan directamente a los ascendentes, ahora llamados «graduados espirituales»",
+   "Los llevan a comprender al Ser Supremo y a la Trinidad de Supremacía",
+   "Presentan a sus discípulos ante la comisión examinadora de setenta"
+  ],
+  "quote": {
+   "cit": "26:6.4"
+  }
+ },
+ "g09.s02.03": {
+  "name": "Guías de la Trinidad",
+  "origin": "Los Siete Espíritus Rectores (cada grupo contiene ángeles de los siete tipos creados)",
+  "realm": "El quinto circuito de Havona",
+  "number": "No revelado",
+  "roles": [
+   "Dan instrucción avanzada sobre la Trinidad a los «candidatos para la aventura de la Deidad»",
+   "Preparan a los peregrinos para el reconocimiento de la personalidad del Espíritu Infinito",
+   "Dedican a cada peregrino una atención exclusiva y todo su afecto",
+   "Presentan a sus discípulos ante una comisión trina de examinadores",
+   "Transfieren a los que tienen éxito a los que hallan al Hijo"
+  ],
+  "quote": {
+   "cit": "26:7.2"
+  }
+ },
+ "g09.s02.04": {
+  "name": "Los Que Hallan al Hijo",
+  "origin": "Los Siete Espíritus Rectores (cada grupo contiene ángeles de los siete tipos creados)",
+  "realm": "El cuarto circuito de Havona (el «circuito de los Hijos»)",
+  "number": "No revelado",
+  "roles": [
+   "Preparan a los candidatos para comprender las relaciones trinitarias del Hijo Eterno",
+   "Enseñan la comprensión espiritual y el reconocimiento de la personalidad del Hijo",
+   "Enseñan a distinguir debidamente al Hijo del Espíritu Infinito"
+  ],
+  "quote": {
+   "cit": "26:8.2"
+  }
+ },
+ "g09.s02.05": {
+  "name": "Guías del Padre",
+  "origin": "Los Siete Espíritus Rectores (cada grupo contiene ángeles de los siete tipos creados)",
+  "realm": "El tercer circuito de Havona",
+  "number": "No revelado",
+  "roles": [
+   "Instruyen a los peregrinos como los más experimentados de los ministros superáficos",
+   "Mantienen escuelas de sabiduría y colegios de técnica",
+   "Preparan a los peregrinos para la aventura de alcanzar al Padre Universal"
+  ],
+  "quote": {
+   "cit": "26:9.1"
+  }
+ },
+ "g09.s02.06": {
+  "name": "Asesores y Consejeros",
+  "origin": "Los Siete Espíritus Rectores (cada grupo contiene ángeles de los siete tipos creados)",
+  "realm": "El segundo circuito de Havona",
+  "number": "No revelado",
+  "roles": [
+   "Instruyen a los hijos del tiempo sobre la carrera de la eternidad",
+   "Aconsejan y consuelan a los peregrinos que fracasaron en la aventura de la Deidad",
+   "Llevan a los decepcionados ante los jefes de asignación en el Paraíso",
+   "Preparan a sus pupilos para el gran reposo final"
+  ],
+  "quote": {
+   "cit": "26:10.1"
+  }
+ },
+ "g09.s02.07": {
+  "name": "Complementos del Reposo",
+  "origin": "Los Siete Espíritus Rectores (cada grupo contiene ángeles de los siete tipos creados)",
+  "realm": "El primer circuito (el más interior) de Havona",
+  "number": "No revelado",
+  "roles": [
+   "Enseñan los problemas inminentes de la residencia en el Paraíso",
+   "Promueven una asociación comprensiva con diversos grupos de seres",
+   "Colaboran con los instigadores del reposo",
+   "Entran en el reposo final como uno solo con el ascendente"
+  ],
+  "quote": {
+   "cit": "26:11.7"
+  }
+ },
+ "g09.s03.title": "Supernafines terciarios",
+ "g09.s03.intro": "Los supernafines terciarios tienen su origen en los Siete Espíritus de los Circuitos, que supervisan los siete circuitos de Havona y están facultados por el Espíritu Infinito para crear tantos como necesite el universo central. Son la más antigua de las dos órdenes de Havona. El cuerpo asignado principalmente a los peregrinos del tiempo se divide en los siete grupos siguientes, cada uno originado, por turno, en los circuitos primero a séptimo.",
+ "g09.s03.01": {
+  "name": "Supervisores de la Armonía",
+  "origin": "El primer Espíritu de los Circuitos (uno de los Siete Espíritus de los Circuitos, facultado por el Espíritu Infinito)",
+  "realm": "Toda Havona (originados en el primer circuito)",
+  "number": "No revelado",
+  "roles": [
+   "Mantienen el orden y aseguran la armonía en todo el trabajo de Havona",
+   "Hacen que todo marche con fluidez y prontitud",
+   "Coordinan las actividades de personalidades de órdenes y niveles diferentes",
+   "Fomentan la comprensión mutua de los peregrinos del tiempo y de la eternidad"
+  ],
+  "quote": {
+   "cit": "26:3.4"
+  }
+ },
+ "g09.s03.02": {
+  "name": "Registradores Principales",
+  "origin": "El segundo Espíritu de los Circuitos (uno de los Siete Espíritus de los Circuitos, facultado por el Espíritu Infinito)",
+  "realm": "Todas partes del universo central (creados en el segundo circuito)",
+  "number": "No revelado",
+  "roles": [
+   "Registran por triplicado para Havona, para su orden y para el Paraíso",
+   "Transmiten automáticamente los asuntos de conocimiento verdadero a los custodios del conocimiento",
+   "Algunos registradores principales decanos son escogidos como Custodios de los Registros en el Paraíso"
+  ],
+  "quote": {
+   "cit": "26:3.5"
+  }
+ },
+ "g09.s03.03": {
+  "name": "Locutores",
+  "origin": "El tercer Espíritu de los Circuitos (uno de los Siete Espíritus de los Circuitos, facultado por el Espíritu Infinito)",
+  "realm": "Toda Havona (estación oficial en el planeta número setenta del circuito más exterior)",
+  "number": "No revelado",
+  "roles": [
+   "Reciben y envían las emisiones de la creación central",
+   "Dirigen los informes espaciales de todos los fenómenos de la Deidad en el Paraíso",
+   "Operan todos los circuitos básicos del espacio"
+  ],
+  "quote": {
+   "cit": "26:3.6"
+  }
+ },
+ "g09.s03.04": {
+  "name": "Mensajeros",
+  "origin": "El cuarto Espíritu de los Circuitos (uno de los Siete Espíritus de los Circuitos, facultado por el Espíritu Infinito)",
+  "realm": "Todo el sistema del Paraíso-Havona",
+  "number": "No revelado",
+  "roles": [
+   "Llevan todos los mensajes que requieren transmisión personal",
+   "Sirven a sus semejantes, a las personalidades celestiales, a los peregrinos del Paraíso y a las almas ascendentes"
+  ],
+  "quote": {
+   "cit": "26:3.7"
+  }
+ },
+ "g09.s03.05": {
+  "name": "Coordinadores de la Información",
+  "aka": [
+   "periódicos vivientes de Havona"
+  ],
+  "origin": "El quinto Espíritu de los Circuitos (uno de los Siete Espíritus de los Circuitos, facultado por el Espíritu Infinito)",
+  "realm": "Havona",
+  "number": "No revelado",
+  "roles": [
+   "Promueven la asociación fraternal entre los peregrinos ascendentes y descendentes",
+   "Mantienen informados a los habitantes de Havona sobre los asuntos de todos los universos",
+   "Asimilan la información casi instantáneamente mediante el método gráfico de Havona"
+  ],
+  "quote": {
+   "cit": "26:3.8"
+  }
+ },
+ "g09.s03.06": {
+  "name": "Personalidades de Transporte",
+  "origin": "El sexto Espíritu de los Circuitos (uno de los Siete Espíritus de los Circuitos, facultado por el Espíritu Infinito)",
+  "realm": "Havona (generalmente operan desde el planeta número cuarenta del circuito más exterior)",
+  "number": "No revelado",
+  "roles": [
+   "Se llevan a los candidatos que fracasan transitoriamente en la aventura de la Deidad",
+   "Sirven a todos los que deben ir y venir en Havona pero no son viajeros del espacio"
+  ],
+  "quote": {
+   "cit": "26:3.9"
+  }
+ },
+ "g09.s03.07": {
+  "name": "Cuerpo de Reserva",
+  "origin": "El séptimo Espíritu de los Circuitos (uno de los Siete Espíritus de los Circuitos, facultado por el Espíritu Infinito), creados sin un designio especial",
+  "realm": "El mundo piloto del séptimo circuito de Havona",
+  "number": "No revelado",
+  "roles": [
+   "Están preparados para atender las fluctuaciones en el trabajo de Havona",
+   "Asumen los deberes menos exigentes de sus asociados terciarios"
+  ],
+  "quote": {
+   "cit": "26:3.10"
+  }
+ }
+}

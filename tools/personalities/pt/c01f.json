@@ -1,0 +1,379 @@
+{
+ "g11.title": "Os Diretores de Potência do Universo",
+ "g11.intro": "Os Diretores de Potência do Universo são seres vivos que regulam de modo inteligente a energia física em todo o grande universo. Os Sete Espíritos Mestres criaram os Sete Diretores Supremos de Potência; estes, por sua vez, junto com os Espíritos Mestres, geraram os Centros Supremos de Potência, cuja progênie direta são os Mestres Controladores Físicos. Lidam apenas com a potência — a energia material ou semifísica —, que não originam, mas modificam, manipulam e direcionam. Os centros de potência e os controladores físicos são criados perfeitos e não passam por aperfeiçoamento nem por evolução; os Diretores Supremos de Potência e todos os seus subordinados estão isentos da interferência dos tribunais do espaço e não estão sujeitos à direção administrativa dos governos dos superuniversos ou dos universos locais. Este capítulo trata dos Sete Diretores Supremos de Potência, dos Supervisores do Poder Moroncial dos universos locais, dos sete grupos de centros de potência e de controladores físicos, e dos Mestres Organizadores da Força, que os precedem no espaço exterior.",
+ "g11.01": {
+  "name": "Sete Diretores Supremos de Potência",
+  "aka": [
+   "Diretores Supremos de Potência",
+   "Sete Diretores Supremos"
+  ],
+  "origin": "Os Sete Espíritos Mestres, atuando coletivamente (a primeira progênie semimaterial registrada de ancestralidade verdadeiramente espiritual)",
+  "realm": "A periferia do Paraíso, assinalando as sedes-centrais de foco de força dos Espíritos Mestres",
+  "number": "7",
+  "roles": [
+   "Regulam a energia física do grande universo",
+   "Atuam individualmente para os superuniversos e coletivamente para a criação central",
+   "Criam os Centros Supremos de Potência junto com os Espíritos Mestres",
+   "Governam os Mestres Controladores Físicos até as sedes-centrais dos superuniversos",
+   "Cada um trabalha em união eterna com um Espírito Mestre"
+  ],
+  "quote": {
+   "cit": "29:1.1"
+  }
+ },
+ "g11.s02.title": "Supervisores do Poder Moroncial",
+ "g11.s02.intro": "Progênie de um Espírito Materno do universo local, são os canais do poder moroncial que tornam possível o ambiente de transição da progressão moroncial. Os primeiros são criados quando o primeiro mortal sobrevivente chega a um mundo das mansões, e são criados em grupos de mil, em sete classes. Dirigidos apenas pela atividade conjunta do Filho do Universo e do Espírito do Universo, de resto governam a si próprios e mantêm a sua sede no primeiro mundo das mansões de cada sistema local.",
+ "g11.s02.01": {
+  "name": "Reguladores dos Circuitos",
+  "origin": "Um Espírito Materno do universo local (uma classe dos Supervisores do Poder Moroncial)",
+  "realm": "As esferas de transição (moronciais); cada circuito se limita a um único mundo",
+  "number": "400 em cada grupo de 1.000 (são necessários milhões apenas para os mundos das mansões de Satânia)",
+  "roles": [
+   "Coordenam a energia física e a espiritual",
+   "Regulam o seu fluxo para os canais separados das esferas moronciais",
+   "Como geradores de poder moroncial, transformam as energias do espaço em materiais moronciais",
+   "Alteram as energias materiais para que os seus associados possam controlá-las"
+  ],
+  "quote": {
+   "cit": "48:2.13"
+  }
+ },
+ "g11.s02.02": {
+  "name": "Coordenadores dos Sistemas",
+  "origin": "Um Espírito Materno do universo local (uma classe dos Supervisores do Poder Moroncial)",
+  "realm": "Os mundos das mansões e outras esferas moronciais de transição",
+  "number": "200 em cada grupo de 1.000",
+  "roles": [
+   "Harmonizam os diferentes sistemas de poder de cada mundo numa unidade operante",
+   "Recebem os ascendentes que são entregues à esfera seguinte",
+   "Efetuam as mudanças na forma da criatura nas câmaras de transição (cerca de sete dias)"
+  ],
+  "quote": {
+   "cit": "48:2.15"
+  }
+ },
+ "g11.s02.03": {
+  "name": "Custódios Planetários",
+  "origin": "Um Espírito Materno do universo local (uma classe dos Supervisores do Poder Moroncial)",
+  "realm": "Todos os mundos moronciais, desde as esferas das mansões até a sede-central do universo",
+  "number": "100 em cada grupo de 1.000 (setenta guardiães em cada mundo moroncial)",
+  "roles": [
+   "Têm a custódia dos assuntos moronciais de cada mundo moroncial",
+   "Constituem o conselho planetário local de autoridade moroncial suprema",
+   "Concedem aos ascendentes que chegam o material para as formas moronciais",
+   "Autorizam as mudanças de forma que permitem ao ascendente passar à esfera seguinte"
+  ],
+  "quote": {
+   "cit": "48:2.18"
+  }
+ },
+ "g11.s02.04": {
+  "name": "Controladores Combinados",
+  "origin": "Um Espírito Materno do universo local (uma classe dos Supervisores do Poder Moroncial)",
+  "realm": "O centro de cada unidade administrativa de um mundo moroncial",
+  "number": "100 em cada grupo de 1.000 (um em cada unidade administrativa)",
+  "roles": [
+   "Percebem e atuam com as energias física, espiritual e moroncial",
+   "Servem como centro de uma equipe de trabalho de outros supervisores do poder em cada unidade"
+  ],
+  "members": [
+   {
+    "name": "Composição de uma equipe",
+    "note": "Um controlador combinado com dois coordenadores dos sistemas, quatro reguladores dos circuitos, um custódio planetário, um estabilizador das ligações e um registrador associado ou um classificador seletivo"
+   }
+  ],
+  "quote": {
+   "cit": "48:2.19"
+  }
+ },
+ "g11.s02.05": {
+  "name": "Estabilizadores das Ligações",
+  "origin": "Um Espírito Materno do universo local (uma classe dos Supervisores do Poder Moroncial)",
+  "realm": "Os mundos moronciais de transição",
+  "number": "100 em cada grupo de 1.000",
+  "roles": [
+   "Regulam a energia moroncial em associação com as forças físicas e espirituais",
+   "Tornam possível a conversão da energia moroncial em material moroncial",
+   "Desaceleram as revoluções da energia até o ponto em que a fisicalização possa ocorrer"
+  ],
+  "quote": {
+   "cit": "48:2.20"
+  }
+ },
+ "g11.s02.06": {
+  "name": "Classificadores Seletivos",
+  "origin": "Um Espírito Materno do universo local (uma classe dos Supervisores do Poder Moroncial)",
+  "realm": "Os mundos moronciais",
+  "number": "50 em cada grupo de 1.000",
+  "roles": [
+   "Resintonizam ou sintonizam antecipadamente os ascendentes que passam a uma nova fase",
+   "Mantêm-nos em sincronia progressiva com a vida moroncial",
+   "Examinam a realização espiritual e certificam a posição avançada",
+   "Agrupam as personalidades moronciais para o estudo, o ensino e outros projetos"
+  ],
+  "quote": {
+   "cit": "48:2.21"
+  }
+ },
+ "g11.s02.07": {
+  "name": "Registradores Associados",
+  "origin": "Um Espírito Materno do universo local (uma classe dos Supervisores do Poder Moroncial)",
+  "realm": "Os mundos moronciais",
+  "number": "50 em cada grupo de 1.000",
+  "roles": [
+   "Servem como os registradores do mundo moroncial",
+   "Supervisionam e guardam os registros moronciais em associação com os registradores espirituais"
+  ],
+  "quote": {
+   "cit": "48:2.25"
+  }
+ },
+ "g11.s03.title": "Centros Supremos de Potência",
+ "g11.s03.intro": "Criados pelos Sete Diretores Supremos de Potência em associação com os Sete Espíritos Mestres, eles somam, com os seus associados e subordinados, mais de dez bilhões. Dotados de personalidade da Terceira Fonte e de elevada volição, são o intelecto do sistema de potência do grande universo. Fora de Havona, atuam apenas em esferas arquitetônicas ou em corpos espaciais adequadamente constituídos, e servem em sete grupos.",
+ "g11.s03.01": {
+  "name": "Centros Supervisores Supremos",
+  "origin": "Criados coletivamente pelos Sete Diretores Supremos de Potência em associação com os Sete Espíritos Mestres",
+  "realm": "Os mundos especiais dos Sete Executivos Supremos, uma sede em cada um",
+  "number": "7",
+  "roles": [
+   "Regulam os circuitos mestres de energia do grande universo",
+   "Trabalham em estreita associação com os Sete Executivos Supremos",
+   "Com os Diretores Supremos de Potência, lidam com todos os fenômenos abaixo da “energia de gravidade”",
+   "Criam os transformadores de energia junto com os Diretores Supremos de Potência"
+  ],
+  "quote": {
+   "cit": "29:2.10"
+  }
+ },
+ "g11.s03.02": {
+  "name": "Centros de Havona",
+  "origin": "Criados coletivamente pelos Sete Diretores Supremos de Potência em associação com os Sete Espíritos Mestres",
+  "realm": "O universo central de Havona",
+  "number": "1.000.000 (cada um supervisiona mil mundos de Havona)",
+  "roles": [
+   "Cada um supervisiona mil mundos de Havona",
+   "Mantêm a perfeição do controle da energia que só se encontra em Havona"
+  ],
+  "quote": {
+   "cit": "29:2.12"
+  }
+ },
+ "g11.s03.03": {
+  "name": "Centros dos Superuniversos",
+  "origin": "Criados coletivamente pelos Sete Diretores Supremos de Potência em associação com os Sete Espíritos Mestres",
+  "realm": "A esfera-capital de cada um dos sete superuniversos",
+  "number": "1.000 em cada superuniverso (terceira ordem)",
+  "roles": [
+   "Recebem as três correntes de energia primária, de dez segregações cada uma",
+   "Emitem sete circuitos especializados de potência",
+   "Constituem a organização eletrônica da potência do universo"
+  ],
+  "quote": {
+   "cit": "29:2.13"
+  }
+ },
+ "g11.s03.04": {
+  "name": "Centros dos Universos Locais",
+  "origin": "Criados coletivamente pelos Sete Diretores Supremos de Potência em associação com os Sete Espíritos Mestres",
+  "realm": "A sede-central de cada universo local (em Nébadon, o centro exato de energia de Sálvington)",
+  "number": "100 em cada universo local (quarta ordem)",
+  "roles": [
+   "Reduzem e modificam os sete circuitos de potência vindos do superuniverso",
+   "Enviam energia efetiva às constelações e aos sistemas",
+   "Auxiliam os Filhos Criadores nos tempos posteriores da organização do universo",
+   "Proporcionam vias de energia para a comunicação interplanetária"
+  ],
+  "quote": {
+   "cit": "29:2.16"
+  }
+ },
+ "g11.s03.05": {
+  "name": "Centros das Constelações",
+  "origin": "Criados coletivamente pelos Sete Diretores Supremos de Potência em associação com os Sete Espíritos Mestres",
+  "realm": "Cada constelação (em Norlatiadeque, no centro do sistema estelar que forma o núcleo físico da constelação)",
+  "number": "10 em cada constelação (quinta ordem)",
+  "roles": [
+   "Projetam energia para os cem sistemas locais tributários",
+   "Emitem linhas de potência para a comunicação e o transporte",
+   "Energizam as criaturas que dependem da energia física para sustentar a vida"
+  ],
+  "quote": {
+   "cit": "29:2.17"
+  }
+ },
+ "g11.s03.06": {
+  "name": "Centros dos Sistemas",
+  "origin": "Criados coletivamente pelos Sete Diretores Supremos de Potência em associação com os Sete Espíritos Mestres",
+  "realm": "O foco exato de gravidade de cada sistema local (em Satânia, uma ilha escura no centro astronômico)",
+  "number": "1 em cada sistema local (sexta ordem)",
+  "roles": [
+   "Enviam os circuitos de potência aos mundos habitados",
+   "Coordenam as atividades dos controladores físicos subordinados",
+   "Asseguram a distribuição satisfatória da potência no sistema local",
+   "Ligam os centros superiores aos controladores dos planetas evolucionários"
+  ],
+  "quote": {
+   "cit": "29:2.18"
+  }
+ },
+ "g11.s03.07": {
+  "name": "Centros Não Classificados",
+  "origin": "Criados coletivamente pelos Sete Diretores Supremos de Potência em associação com os Sete Espíritos Mestres",
+  "realm": "Esferas especiais das relações de energia mais extraordinárias (nunca os planetas habitados)",
+  "number": "Não revelado (encontrados em menos de um corpo espacial em um milhão)",
+  "roles": [
+   "Atuam em situações locais especiais",
+   "Atuam como volantes de equilíbrio do universo ou reguladores de energia"
+  ],
+  "quote": {
+   "cit": "29:2.19"
+  }
+ },
+ "g11.s04.title": "Mestres Controladores Físicos",
+ "g11.s04.intro": "Progênie direta e subordinados móveis dos Centros Supremos de Potência, servem em todo o grande universo. Até as sedes-centrais dos superuniversos, são governados diretamente pelos Sete Diretores Supremos de Potência; a partir dali, o Conselho de Equilíbrio os dirige e distribui. Das suas sete ordens, as quatro últimas reagem de modo totalmente automático e mal chegam a ser pessoas; ainda assim, todas são inteligentes.",
+ "g11.s04.01": {
+  "name": "Diretores Adjuntos de Potência",
+  "origin": "Os Centros Supremos de Potência (os Mestres Controladores Físicos são a sua progênie direta)",
+  "realm": "Os mundos-sede dos setores menores (com um inspetor em cada capital de sistema local)",
+  "number": "3 milhões em cada setor menor de Orvônton; 3 bilhões no superuniverso",
+  "roles": [
+   "Designam e enviam todas as ordens de controladores físicos",
+   "Ensinam todos os que estudam as ciências do controle da energia",
+   "Alternam o serviço executivo com viagens de inspeção pelo espaço",
+   "Mantêm todo o conjunto vivo de energia em sincronia harmoniosa"
+  ],
+  "quote": {
+   "cit": "29:4.16"
+  }
+ },
+ "g11.s04.02": {
+  "name": "Controladores Mecânicos",
+  "origin": "Os Centros Supremos de Potência (os Mestres Controladores Físicos são a sua progênie direta)",
+  "realm": "Dos setores menores aos mundos habitados (inclusive Urântia)",
+  "number": "Trilhões e trilhões no setor menor de Ensa; 10 em Urântia",
+  "roles": [
+   "Servem como assistentes móveis dos diretores adjuntos de potência",
+   "Facilitam a partida dos transportes seráficos",
+   "Direcionam a energia e a concentram em circuitos",
+   "Equalizam as pressões dos circuitos interplanetários"
+  ],
+  "quote": {
+   "cit": "29:4.19"
+  }
+ },
+ "g11.s04.03": {
+  "name": "Transformadores de Energia",
+  "origin": "Criação conjunta dos Sete Diretores Supremos de Potência e dos Sete Supervisores Centrais",
+  "realm": "Os mundos habitados",
+  "number": "Quase um milhão apenas em Satânia; geralmente 100 em cada mundo habitado",
+  "roles": [
+   "Comandam num planeta quando não há nenhum diretor adjunto de potência presente",
+   "Inspecionam todos os transportes seráficos que partem",
+   "Como interruptores vivos, isolam os planetas contra poderosas correntes de energia",
+   "Mantêm o equilíbrio universal da energia",
+   "Alteram a forma de vinte e sete das trinta energias físicas"
+  ],
+  "quote": {
+   "cit": "29:4.23"
+  }
+ },
+ "g11.s04.04": {
+  "name": "Transmissores de Energia",
+  "origin": "Os Centros Supremos de Potência (os Mestres Controladores Físicos são a sua progênie direta)",
+  "realm": "Principalmente no interior dos planetas individuais (também nos sistemas locais)",
+  "number": "Não revelado (uma bateria de mil auxilia uma partida seráfica)",
+  "roles": [
+   "Enviam a energia tal como se manifesta nos mundos individuais",
+   "Alinham-se ao longo de um trajeto para induzir o fluxo de energia num novo circuito",
+   "Detectam e reforçam as correntes de comunicação que se enfraquecem",
+   "Proporcionam linhas de comunicação de emergência",
+   "Ajudam a sustentar a vida mortal em mundos de atmosfera empobrecida"
+  ],
+  "quote": {
+   "cit": "29:4.27"
+  }
+ },
+ "g11.s04.05": {
+  "name": "Associadores Primários",
+  "origin": "Os Centros Supremos de Potência (os Mestres Controladores Físicos são a sua progênie direta)",
+  "realm": "As esferas materiais em organização, onde são o primeiro grupo de vida a aparecer",
+  "number": "Não revelado",
+  "roles": [
+   "Armazenam energia durante os períodos de manifestações positivas",
+   "Liberam a energia acumulada durante as fases de manifestações negativas",
+   "Convertem as energias do espaço até as unidades primitivas da matéria",
+   "Atuam pela sua mera presença, como agentes catalisadores vivos"
+  ],
+  "quote": {
+   "cit": "29:4.32"
+  }
+ },
+ "g11.s04.06": {
+  "name": "Dissociadores Secundários",
+  "origin": "Os Centros Supremos de Potência (os Mestres Controladores Físicos são a sua progênie direta)",
+  "realm": "Os mundos locais e os sistemas locais",
+  "number": "Não revelado",
+  "roles": [
+   "Trabalham de modo inverso aos associadores primários",
+   "Desenvolvem a partir da matéria suprimentos ilimitados de energia",
+   "Garantem que as formas especiais de energia física nunca se esgotem localmente"
+  ],
+  "quote": {
+   "cit": "29:4.35"
+  }
+ },
+ "g11.s04.07": {
+  "name": "Frandalanques e Cronoldeques",
+  "origin": "Criação conjunta das três ordens de seres controladores da energia: os organizadores primários e secundários da força e os diretores de potência",
+  "realm": "Todos os mundos habitados; também atuam nos universos central e superuniversos e no espaço exterior",
+  "number": "Os mais numerosos de todos os Mestres Controladores Físicos (incalculáveis apenas em Satânia); trinta divisões",
+  "roles": [
+   "Funcionam como medidores vivos de presença, de pressão e de velocidade",
+   "Registram automática e infalivelmente o estado de toda a força-energia",
+   "Os cronoldeques registram também o tempo",
+   "Os frandalanques mestres indicam a pressão de potência de todo um superuniverso"
+  ],
+  "members": [
+   {
+    "name": "Frandalanques",
+    "note": "Medidores vivos em trinta divisões, uma para cada forma de força básica do universo"
+   },
+   {
+    "name": "Cronoldeques",
+    "note": "Frandalanques que também registram o tempo; os cronoldeques mestres transmitem o tempo do sistema"
+   }
+  ],
+  "quote": {
+   "cit": "29:4.37"
+  }
+ },
+ "g11.05": {
+  "name": "Mestres Organizadores da Força",
+  "aka": [
+   "organizadores da força do Paraíso",
+   "Mestres Organizadores da Força do Paraíso"
+  ],
+  "origin": "Seres transcendentais manifestados (nem criadores nem criaturas)",
+  "realm": "Residentes no Paraíso; atuantes em todo o universo-mestre, especialmente no espaço exterior não organizado",
+  "number": "Não revelado",
+  "roles": [
+   "Trabalham sob a supervisão dos Arquitetos do Universo-Mestre",
+   "Transmutam a potência do espaço em força primordial e dão início às nebulosas",
+   "Conduzem a energia até o estágio de resposta à gravidade",
+   "Cedem lugar aos diretores de potência quando chega um Filho Criador"
+  ],
+  "members": [
+   {
+    "name": "Mestres Derivados Primários Organizadores da Força",
+    "note": "Criadores de nebulosas; transmutam a força primordial em energia primária, ou energia potencial"
+   },
+   {
+    "name": "Mestres Associados Organizadores de Força Transcendentais",
+    "note": "Levam a energia ao estágio secundário, ou de energia de gravidade; o Conselho de Equilíbrio é tirado das suas fileiras"
+   }
+  ],
+  "quote": {
+   "cit": "29:5.1"
+  }
+ }
+}

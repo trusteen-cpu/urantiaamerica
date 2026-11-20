@@ -1,0 +1,565 @@
+{
+ "g08.title": "Les Armées des Messagers de l’Espace",
+ "g08.intro": "Occupant un rang intermédiaire dans la famille de l’Esprit Infini, les Armées des Messagers de l’Espace servent de liens entre les personnalités supérieures et les esprits tutélaires. Sur leurs sept groupes, trois seulement — les Servites de Havona, les Conciliateurs Universels et les Compagnons de la Morontia — sont créés comme tels ; les quatre autres (les Conseillers Techniques, les Conservateurs d’Archives au Paradis, les Archivistes Célestes et les Compagnons du Paradis) représentent des niveaux d’accomplissement atteints principalement par les ordres angéliques. Ils servent dans tout l’univers des univers, depuis l’univers central jusqu’aux mondes des maisons des systèmes locaux, toujours sous la direction de ceux qui gouvernent les royaumes de leur affectation. Ce chapitre traite des sept ordres et présente les Compagnons de la Morontia selon les sept classes de leur travail dans un système local.",
+ "g08.01": {
+  "name": "Servites de Havona",
+  "aka": [
+   "servites",
+   "créatures médianes de l’univers central"
+  ],
+  "origin": "Création conjointe des Sept Maitres Esprits et des Sept Directeurs Suprêmes de Pouvoir (apparaissant par groupes de mille ; un sur quatre est une « quatrième créature » semi-physique)",
+  "realm": "Les sept circuits de Havona et les mondes éducatifs qui entourent les sept capitales des superunivers",
+  "number": "Prodigieux et toujours croissant (près de 138 milliards servent sur les seuls 490 satellites d’Uversa)",
+  "roles": [
+   "Assister au service du Père, du Fils, de l’Esprit et des Sept Maitres Esprits",
+   "Aider et instruire les ascendeurs de Havona en tant qu’associés des Guides de Diplômés",
+   "Servir de compagnons aux mortels ascendants sur les mondes éducatifs des superunivers",
+   "Accompagner le Guide de Diplômés dans le trio de transit qui escorte les ascendeurs jusqu’au Paradis",
+   "Deviennent apparemment eux-mêmes des Guides de Diplômés après une longue expérience"
+  ],
+  "quote": {
+   "cit": "25:1.2"
+  }
+ },
+ "g08.02": {
+  "name": "Conciliateurs Universels",
+  "aka": [
+   "conciliateurs",
+   "commissions de conciliation",
+   "trios d’arbitres rapporteurs"
+  ],
+  "origin": "Les Esprits Réflectifs des capitales des superunivers (sept apparaissent, un dans chaque superunivers, pour chaque Servite de Havona créé)",
+  "realm": "Les capitales des superunivers (sièges de groupe et réserves primaires) et les capitales des univers locaux (réserves secondaires) ; ils voyagent depuis les mondes évolutionnaires jusqu’au superunivers",
+  "number": "Près de dix-huit billions de commissions — plus de soixante-dix billions d’individus — opèrent dans Orvonton (environ cent-millions de commissions estimées dans Nébadon)",
+  "roles": [
+   "Servir en commissions de quatre comme tribunaux itinérants des mondes",
+   "Juger rapidement les difficultés administratives et juridictionnelles mineures",
+   "Progresser à travers sept niveaux de service, depuis les mondes jusqu’au superunivers",
+   "Devenir des arbitres-éducateurs qui expliquent les mystères aux niveaux supérieurs",
+   "Après une formation au Paradis, parcourir les univers comme corps coordinateur de l’Esprit Infini"
+  ],
+  "members": [
+   {
+    "name": "Juge-arbitre",
+    "note": "Chef judiciaire de la commission, désigné à l’unanimité par les trois autres"
+   },
+   {
+    "name": "Avocat spirituel",
+    "note": "Présente les dépositions et sauvegarde les droits de toutes les personnalités impliquées"
+   },
+   {
+    "name": "Exécuteur divin",
+    "note": "La quatrième créature quasi matérielle qui exécute les décisions de la commission"
+   },
+   {
+    "name": "Archiviste",
+    "note": "Greffier du tribunal qui prépare les dossiers pour le superunivers et l’univers local"
+   }
+  ],
+  "quote": {
+   "cit": "25:2.11"
+  }
+ },
+ "g08.03": {
+  "name": "Conseillers Techniques",
+  "origin": "Non créés comme tels. L’Esprit Infini choisit, comme noyau, un million des penseurs les plus ordonnés parmi les premiers supernaphins et omniaphins ; depuis lors, ils sont recrutés parmi les supernaphins, les seconaphins, les tertiaphins, les omniaphins, les séraphins et certains mortels ascendants et médians",
+  "realm": "Des sièges communs, par groupes de sept, sur les sphères d’affectation ; depuis les univers locaux jusqu’aux portes mêmes du Paradis",
+  "number": "Un peu plus de soixante-et-un billions dans Orvonton (sans compter les mortels et les médians de passage) ; environ un demi-milliard dans Nébadon",
+  "roles": [
+   "Conseiller toutes les classes d’êtres sur les usages et les techniques appropriés dans les transactions du monde spirituel",
+   "Faire fonction de bibliothèques juridiques vivantes du temps et de l’espace",
+   "Éviter les retards, faciliter les progrès et conseiller l’accomplissement",
+   "Servir, pour un groupe spécial, de conseillers juridiques des Porteurs de Vie",
+   "Assister les Censeurs Universels, les Melchizédeks et les dirigeants des systèmes, des constellations et des univers"
+  ],
+  "quote": {
+   "cit": "25:4.15"
+  }
+ },
+ "g08.04": {
+  "name": "Conservateurs d’Archives au Paradis",
+  "aka": [
+   "Conservateurs d’Archives",
+   "Chefs des Archives"
+  ],
+  "origin": "Choisis parmi les plus anciens chefs archivistes des supernaphins tertiaires de Havona",
+  "realm": "Les archives officielles du Paradis, l’Ile de Lumière ; certains sont envoyés dans les superunivers comme Chefs des Archives",
+  "number": "Non révélé",
+  "roles": [
+   "Garder les archives officielles de l’Ile de Lumière",
+   "Détenir le résumé pertinent des données des superunivers et de Havona",
+   "Conserver les annales des transactions du Paradis depuis la personnification de l’Esprit Infini",
+   "Diriger les Archivistes Célestes en tant que Chefs des Archives dans les superunivers"
+  ],
+  "quote": {
+   "cit": "25:5.1"
+  }
+ },
+ "g08.05": {
+  "name": "Archivistes Célestes",
+  "origin": "Non créés comme tels ; séraphins ascendants des univers locaux, reçus et affectés par les conseils des Chefs des Archives sur les capitales des superunivers",
+  "realm": "Les sphères d’archives subordonnées des superunivers ; les archivistes séniors dans les demeures circulaires entourant la zone des archives sur Uversa",
+  "number": "Des billions et des billions d’archivistes en progression dans Orvonton ; pas tout à fait huit-millions d’archivistes séniors sur Uversa (75 séniors et près de quatre milliards en formation dans Nébadon)",
+  "roles": [
+   "Établir tous les dossiers en double : un original spirituel et une copie semi-matérielle",
+   "Rendre les archives accessibles à tous les êtres, depuis l’ordre matériel jusqu’aux hauts esprits de lumière",
+   "Conserver et transmettre au superunivers les archives parrainées du temps et de l’espace",
+   "Parrainer les organisations superuniverselles des séraphins et des supernaphins archivistes"
+  ],
+  "quote": {
+   "cit": "25:6.1"
+  }
+ },
+ "g08.s06.title": "Compagnons de la Morontia",
+ "g08.s06.intro": "Les Compagnons de la Morontia sont la progéniture d’un Esprit-Mère d’univers local ; ils sont créés par groupes de cent-mille, et Nébadon en compte actuellement plus de soixante-dix milliards. Formés par les Melchizédeks sur une planète spéciale proche de Salvington et ayant leur siège sur le premier monde des maisons de chaque système local, ils sont les amis, les hôtes et les parrains des jeux de tous ceux qui vivent la vie morontielle ascendante. Il en existe un type entreprenant et un type réservé, et leur travail dans un système local se répartit selon les sept classes suivantes.",
+ "g08.s06.01": {
+  "name": "Gardiens des pèlerins",
+  "origin": "L’Esprit-Mère de l’univers local (une classe des Compagnons de la Morontia)",
+  "realm": "Les mondes des maisons et les mondes morontiels d’un système local",
+  "number": "Non révélé (plus de soixante-dix milliards de Compagnons de la Morontia en tout dans Nébadon)",
+  "roles": [
+   "S’associer aux progresseurs morontiels sans mission spécifique assignée",
+   "Porter la responsabilité de toute la carrière morontielle",
+   "Coordonner le travail de tous les autres ministres morontiels et de transition"
+  ],
+  "quote": {
+   "cit": "48:3.7"
+  }
+ },
+ "g08.s06.02": {
+  "name": "Récepteurs de pèlerins et associateurs libres",
+  "origin": "L’Esprit-Mère de l’univers local (une classe des Compagnons de la Morontia)",
+  "realm": "Les mondes des maisons, et au-delà jusqu’à ce que l’ascendeur quitte l’univers local",
+  "number": "Non révélé",
+  "roles": [
+   "Servir de compagnons sociaux aux nouveaux arrivants sur les mondes des maisons",
+   "Accueillir chaque survivant qui se réveille sur le premier monde des maisons",
+   "Rester avec les ascendeurs jusqu’à ce qu’ils quittent l’univers local comme esprits du premier stade",
+   "Servir selon les besoins et les disponibilités plutôt que par affectation permanente"
+  ],
+  "quote": {
+   "cit": "48:3.8"
+  }
+ },
+ "g08.s06.03": {
+  "name": "Hôtes des visiteurs célestes",
+  "origin": "L’Esprit-Mère de l’univers local (une classe des Compagnons de la Morontia)",
+  "realm": "Les mondes de transition d’un système local",
+  "number": "Non révélé",
+  "roles": [
+   "Divertir les groupes suprahumains de visiteurs estudiantins sur les mondes de transition",
+   "Recevoir les autres êtres célestes qui y séjournent"
+  ],
+  "quote": {
+   "cit": "48:3.10"
+  }
+ },
+ "g08.s06.04": {
+  "name": "Coordinateurs et directeurs de liaisons",
+  "origin": "L’Esprit-Mère de l’univers local (une classe des Compagnons de la Morontia)",
+  "realm": "Des terrains étendus sur les mondes des maisons, où ils rassemblent leurs élèves",
+  "number": "Non révélé",
+  "roles": [
+   "Faciliter les rapports morontiels et prévenir les confusions",
+   "Instruire en matière de conduite sociale et de progrès morontiel",
+   "Parrainer des classes et des activités de groupe parmi les mortels ascendants",
+   "Faire appel aux artisans célestes et aux directeurs de la rétrospection pour enrichir leurs programmes"
+  ],
+  "quote": {
+   "cit": "48:3.11"
+  }
+ },
+ "g08.s06.05": {
+  "name": "Interprètes et traducteurs",
+  "origin": "L’Esprit-Mère de l’univers local (une classe des Compagnons de la Morontia)",
+  "realm": "Les mondes des maisons et les mondes de transition d’un système local",
+  "number": "Non révélé",
+  "roles": [
+   "Connaitre et parler toutes les langues d’un univers local",
+   "Enseigner les langues de Satania et de Nébadon",
+   "Interpréter et traduire pour les ascendeurs pendant qu’ils maitrisent de nouvelles langues"
+  ],
+  "quote": {
+   "cit": "48:3.12"
+  }
+ },
+ "g08.s06.06": {
+  "name": "Superviseurs d’excursions et de rétrospection",
+  "origin": "L’Esprit-Mère de l’univers local (une classe des Compagnons de la Morontia)",
+  "realm": "La sphère-siège du système et les mondes environnants de culture transitionnelle",
+  "number": "Non révélé",
+  "roles": [
+   "Accompagner les ascendeurs dans les longs voyages vers la sphère-siège et les mondes de transition",
+   "Préparer, diriger et superviser les voyages individuels et collectifs vers les mondes du système"
+  ],
+  "quote": {
+   "cit": "48:3.14"
+  }
+ },
+ "g08.s06.07": {
+  "name": "Conservateurs des terrains et bâtiments",
+  "origin": "L’Esprit-Mère de l’univers local (une classe des Compagnons de la Morontia)",
+  "realm": "Les terrains et les structures des mondes des maisons",
+  "number": "Non révélé",
+  "roles": [
+   "Prendre soin des terrains et des bâtiments des mondes des maisons",
+   "Entretenir les demeures et les enclos ouverts où les ascendeurs vivent et se rassemblent"
+  ],
+  "quote": {
+   "cit": "48:3.15"
+  }
+ },
+ "g08.07": {
+  "name": "Compagnons du Paradis",
+  "origin": "Un groupe composite recruté parmi les séraphins, les seconaphins, les supernaphins et les omniaphins (proposés par les Esprits-Mères, les Esprits Réflectifs et Majeston, et commissionnés par l’un des Sept Maitres Esprits)",
+  "realm": "Le Paradis, l’Ile centrale ; au besoin, ils suivent un pèlerin vaincu jusque dans les univers du temps",
+  "number": "Non révélé (un statut temporaire et non permanent)",
+  "roles": [
+   "Tenir compagnie à tous ceux qui sont seuls au Paradis, principalement les mortels ascendants",
+   "Accueillir les ascendeurs qui se réveillent sur l’Ile de Lumière",
+   "Apporter conseil et compagnie aux ascendeurs séparés de leurs associés",
+   "Suivre, réconforter et encourager un pèlerin qui échoue dans Havona jusqu’à son retour"
+  ],
+  "members": [
+   {
+    "name": "Compagnons de réception",
+    "note": "Affectés durant les derniers jours sur l’ultime circuit de Havona pour accueillir les mortels qui arrivent"
+   }
+  ],
+  "quote": {
+   "cit": "25:8.3"
+  }
+ },
+ "g09.title": "Les esprits tutélaires de l’univers central",
+ "g09.intro": "Les supernaphins sont les esprits tutélaires du Paradis et de l’univers central, l’ordre le plus élevé des armées angéliques, lesquelles forment le groupe le plus humble des enfants de l’Esprit Infini. Ils sont créés en trois ordres majeurs. Les supernaphins primaires, progéniture exclusive de l’Esprit Infini, servent les Déités au Paradis ; les supernaphins secondaires, créés individuellement par les Sept Maitres Esprits en sept types, dirigent les affaires des ascendeurs sur les sept circuits de Havona ; les supernaphins tertiaires, enfants des Sept Esprits des Circuits, accomplissent les divers services de l’univers central. En tant que corps, les supernaphins se gouvernent eux-mêmes, présidés seulement par leur chef mutuel, le premier ange du Paradis, « l’ange modèle originel ». Ce chapitre présente les sept ordres de supernaphins primaires (fascicule 27) et les sept groupes de chacun des ordres secondaire et tertiaire (fascicule 26). Les mortels ascendants sont guidés par les supernaphins secondaires depuis le circuit extérieur de Havona vers l’intérieur ; au Paradis, ils sont formés par les ordres primaires en séquence inverse, depuis les instigateurs de repos jusqu’aux conducteurs d’adoration.",
+ "g09.s01.title": "Supernaphins primaires",
+ "g09.s01.intro": "Les supernaphins primaires, progéniture exclusive du Créateur Conjoint, sont les serviteurs suprêmes des Déités sur l’Ile éternelle du Paradis. De toute éternité, aucun membre de cette multitude n’a été perdu, et ils s’élèvent en grand nombre pour devenir Conseillers Techniques. Les pèlerins ascendants ne passent sous leur direction qu’après avoir atteint la résidence au Paradis, et ils suivent leur formation dans l’ordre inverse de la liste ci-dessous.",
+ "g09.s01.01": {
+  "name": "Conducteurs d’adoration",
+  "origin": "L’Esprit Infini (les supernaphins primaires sont la progéniture exclusive du Créateur Conjoint)",
+  "realm": "Le Paradis",
+  "number": "Non révélé (un corps spécial de supernaphins primaires)",
+  "roles": [
+   "Diriger les élans d’adoration et de louange au Paradis",
+   "Enseigner aux créatures ascendantes comment adorer",
+   "Ouvrir de nouvelles voies d’expression pour hâter la pleine satisfaction dans l’adoration",
+   "Conduire le stade final de la formation au Paradis",
+   "Faire leurs adieux aux ascendeurs lorsqu’ils sont enrôlés dans le Corps de la Finalité"
+  ],
+  "quote": {
+   "cit": "27:7.4"
+  }
+ },
+ "g09.s01.02": {
+  "name": "Maitres de philosophie",
+  "aka": [
+   "maitres philosophes du Paradis",
+   "sages du ciel"
+  ],
+  "origin": "L’Esprit Infini (les supernaphins primaires sont la progéniture exclusive du Créateur Conjoint)",
+  "realm": "Le Paradis (l’extrémité méridionale du domaine paradisiaque)",
+  "number": "Non révélé",
+  "roles": [
+   "Guider le mental des habitants du Paradis dans la solution des problèmes universels",
+   "Donner des cours dans les soixante-dix divisions fonctionnelles de la sagesse",
+   "Discourir sur les plans et les desseins de l’Infinité",
+   "Transmettre aux ascendeurs leur interprétation de l’univers des univers"
+  ],
+  "quote": {
+   "cit": "27:6.2"
+  }
+ },
+ "g09.s01.03": {
+  "name": "Gardiens de la connaissance",
+  "aka": [
+   "bibliothèques vivantes du Paradis",
+   "épitres vivantes"
+  ],
+  "origin": "L’Esprit Infini (les supernaphins primaires sont la progéniture exclusive du Créateur Conjoint)",
+  "realm": "Le Paradis (les découvreurs vivants de la connaissance se trouvent à l’extrémité septentrionale de l’Ile)",
+  "number": "Non révélé",
+  "roles": [
+   "Servir de bibliothèques vivantes dans lesquelles sont enregistrés les faits des univers",
+   "Fournir références et vérifications aux résidents du Paradis",
+   "Classer la connaissance en sept grands ordres d’environ un million de subdivisions chacun",
+   "Former le résumé vivant final de tout le réseau des anges archivistes",
+   "Enseigner les êtres sur tous les circuits de Havona"
+  ],
+  "quote": {
+   "cit": "27:5.1"
+  }
+ },
+ "g09.s01.04": {
+  "name": "Directeurs de conduite",
+  "origin": "L’Esprit Infini (les supernaphins primaires sont la progéniture exclusive du Créateur Conjoint)",
+  "realm": "Le Paradis",
+  "number": "Non révélé",
+  "roles": [
+   "Instruire les nouveaux résidents dans les usages de la conduite parfaite du Paradis",
+   "Se tenir aux côtés des « étrangers qui sont dans les portes » pour guider leurs pas",
+   "Permettre aux pèlerins d’éviter la confusion et l’incertitude",
+   "Siéger dans les commissions trines qui examinent les candidats à l’aventure de la Déité"
+  ],
+  "quote": {
+   "cit": "27:4.4"
+  }
+ },
+ "g09.s01.05": {
+  "name": "Interprètes d’éthique",
+  "origin": "L’Esprit Infini (les supernaphins primaires sont la progéniture exclusive du Créateur Conjoint)",
+  "realm": "Le Paradis",
+  "number": "Non révélé",
+  "roles": [
+   "Interpréter aux ascendeurs l’éthique qu’ils ont si laborieusement apprise",
+   "Aider les arrivants au Paradis à s’ajuster à de nombreux groupes d’êtres majestueux",
+   "Assister depuis l’accession au statut résidentiel jusqu’à l’admission dans le corps des finalitaires"
+  ],
+  "quote": {
+   "cit": "27:3.3"
+  }
+ },
+ "g09.s01.06": {
+  "name": "Chefs d’affectation",
+  "aka": [
+   "anges d’affectation"
+  ],
+  "origin": "L’Esprit Infini (les supernaphins primaires sont la progéniture exclusive du Créateur Conjoint)",
+  "realm": "Le Paradis",
+  "number": "Non révélé",
+  "roles": [
+   "Présider l’organisation des trois ordres de supernaphins",
+   "Prendre en charge les candidats vaincus dans l’aventure de la Déité et les renvoyer dans l’espace",
+   "Désigner le supernaphin qui commande les anges sur un monde isolé réhabilité",
+   "Disperser périodiquement les assemblées d’adoration",
+   "Fournir aux mortels ascendants une expérience de service au Paradis"
+  ],
+  "quote": {
+   "cit": "27:2.1"
+  }
+ },
+ "g09.s01.07": {
+  "name": "Instigateurs de repos",
+  "aka": [
+   "inspecteurs du Paradis"
+  ],
+  "origin": "L’Esprit Infini (les supernaphins primaires sont la progéniture exclusive du Créateur Conjoint)",
+  "realm": "Le Paradis et le circuit le plus intérieur (le premier) de Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Se rendre sur le circuit intérieur de Havona pour travailler avec les compléments de repos",
+   "Préparer les pèlerins au dernier sommeil de transition",
+   "Accueillir l’ascendeur qui s’éveille sur les rivages du Paradis",
+   "Conduire le premier stade de la formation au Paradis"
+  ],
+  "quote": {
+   "cit": "27:1.1"
+  }
+ },
+ "g09.s02.title": "Supernaphins secondaires",
+ "g09.s02.intro": "Les supernaphins secondaires sont des anges de sept types, chacun créé par l’un des Sept Maitres Esprits, qui dirigent les affaires des êtres ascendants sur les sept circuits de Havona. Les Maitres Esprits ne commencèrent à les créer qu’à l’arrivée de Grandfanda, et la moitié de l’ordre forme les pèlerins paradisiaques de l’éternité. Un pèlerin est toujours instruit par des supernaphins secondaires issus du Maitre Esprit de son superunivers natal ; il les rencontre circuit après circuit, depuis les aides des pèlerins du septième jusqu’aux compléments de repos du premier.",
+ "g09.s02.01": {
+  "name": "Aides des pèlerins",
+  "origin": "Les Sept Maitres Esprits (chaque groupe comprend des anges des sept types créés)",
+  "realm": "Le septième circuit (le plus extérieur) de Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Accueillir dans l’univers central les ascendeurs après leurs nombreux voyages",
+   "Enseigner la Trinité, l’association Père-Fils et l’Esprit Infini",
+   "Enseigner un aperçu de toutes les exigences du Paradis",
+   "Servir aussi les pèlerins paradisiaques de l’éternité",
+   "Confier leurs sujets aux guides de suprématie"
+  ],
+  "quote": {
+   "cit": "26:5.1"
+  }
+ },
+ "g09.s02.02": {
+  "name": "Guides de suprématie",
+  "origin": "Les Sept Maitres Esprits (chaque groupe comprend des anges des sept types créés)",
+  "realm": "Uniquement le sixième circuit de Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Superviser directement les ascendeurs, désormais appelés « diplômés spirituels »",
+   "Les amener à comprendre l’Être Suprême et la Trinité de Suprématie",
+   "Présenter leurs élèves à la commission d’examen des soixante-dix"
+  ],
+  "quote": {
+   "cit": "26:6.4"
+  }
+ },
+ "g09.s02.03": {
+  "name": "Guides de la Trinité",
+  "origin": "Les Sept Maitres Esprits (chaque groupe comprend des anges des sept types créés)",
+  "realm": "Le cinquième circuit de Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Donner aux « candidats à l’aventure de la Déité » un enseignement avancé sur la Trinité",
+   "Préparer les pèlerins à la reconnaissance de la personnalité de l’Esprit Infini",
+   "Accorder à chaque pèlerin une attention indivise et une affection totale",
+   "Présenter leurs élèves devant une commission trine d’examinateurs",
+   "Transférer aux découvreurs de Fils les sujets qui ont réussi"
+  ],
+  "quote": {
+   "cit": "26:7.2"
+  }
+ },
+ "g09.s02.04": {
+  "name": "Découvreurs de Fils",
+  "origin": "Les Sept Maitres Esprits (chaque groupe comprend des anges des sept types créés)",
+  "realm": "Le quatrième circuit de Havona (le « circuit des Fils »)",
+  "number": "Non révélé",
+  "roles": [
+   "Préparer les candidats à réaliser les relations du Fils Éternel avec la Trinité",
+   "Enseigner la compréhension spirituelle et la reconnaissance de la personnalité du Fils",
+   "Enseigner à bien distinguer le Fils de l’Esprit Infini"
+  ],
+  "quote": {
+   "cit": "26:8.2"
+  }
+ },
+ "g09.s02.05": {
+  "name": "Guides du Père",
+  "origin": "Les Sept Maitres Esprits (chaque groupe comprend des anges des sept types créés)",
+  "realm": "Le troisième circuit de Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Instruire les pèlerins en tant que les plus expérimentés des ministres supéraphiques",
+   "Entretenir des écoles de sagesse et des collèges de technique",
+   "Préparer les pèlerins à l’aventure de l’accession au Père Universel"
+  ],
+  "quote": {
+   "cit": "26:9.1"
+  }
+ },
+ "g09.s02.06": {
+  "name": "Conseillers et consultants",
+  "origin": "Les Sept Maitres Esprits (chaque groupe comprend des anges des sept types créés)",
+  "realm": "Le deuxième circuit de Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Instruire les enfants du temps sur la carrière de l’éternité",
+   "Conseiller et réconforter les pèlerins qui ont échoué dans l’aventure de la Déité",
+   "Amener les déçus devant les chefs d’affectation au Paradis",
+   "Préparer leurs sujets au grand et dernier repos"
+  ],
+  "quote": {
+   "cit": "26:10.1"
+  }
+ },
+ "g09.s02.07": {
+  "name": "Compléments de repos",
+  "origin": "Les Sept Maitres Esprits (chaque groupe comprend des anges des sept types créés)",
+  "realm": "Le premier circuit (le plus intérieur) de Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Enseigner les problèmes imminents de la résidence au Paradis",
+   "Favoriser une association compréhensive avec des groupes d’êtres divers",
+   "Collaborer avec les instigateurs de repos",
+   "Entrer dans le dernier repos ne faisant qu’un avec l’ascendeur"
+  ],
+  "quote": {
+   "cit": "26:11.7"
+  }
+ },
+ "g09.s03.title": "Supernaphins tertiaires",
+ "g09.s03.intro": "Les supernaphins tertiaires prennent origine dans les Sept Esprits des Circuits, qui supervisent les sept circuits de Havona et ont reçu de l’Esprit Infini le pouvoir d’en créer autant que l’univers central en a besoin. Ils sont le plus ancien des deux ordres de Havona. Le corps affecté principalement aux pèlerins du temps se répartit dans les sept groupes ci-dessous, chacun ayant son origine, dans l’ordre, sur le premier jusqu’au septième circuit.",
+ "g09.s03.01": {
+  "name": "Surveillants d’harmonie",
+  "origin": "Le premier Esprit des Circuits (l’un des Sept Esprits des Circuits, habilité par l’Esprit Infini)",
+  "realm": "Dans tout Havona (originaires du premier circuit)",
+  "number": "Non révélé",
+  "roles": [
+   "Maintenir un système et assurer l’harmonie dans tout le travail de Havona",
+   "Faire en sorte que tout progresse sans heurts et avec diligence",
+   "Coordonner les activités de personnalités d’ordres et de niveaux différents",
+   "Favoriser la compréhension mutuelle des pèlerins du temps et de l’éternité"
+  ],
+  "quote": {
+   "cit": "26:3.4"
+  }
+ },
+ "g09.s03.02": {
+  "name": "Chefs archivistes",
+  "origin": "Le deuxième Esprit des Circuits (l’un des Sept Esprits des Circuits, habilité par l’Esprit Infini)",
+  "realm": "Partout dans l’univers central (créés sur le deuxième circuit)",
+  "number": "Non révélé",
+  "roles": [
+   "Enregistrer en triple exemplaire pour Havona, pour leur ordre et pour le Paradis",
+   "Transmettre automatiquement aux gardiens de la connaissance les questions de vraie connaissance",
+   "Certains des plus anciens chefs archivistes sont choisis comme Conservateurs d’Archives au Paradis"
+  ],
+  "quote": {
+   "cit": "26:3.5"
+  }
+ },
+ "g09.s03.03": {
+  "name": "Diffuseurs",
+  "origin": "Le troisième Esprit des Circuits (l’un des Sept Esprits des Circuits, habilité par l’Esprit Infini)",
+  "realm": "Dans tout Havona (station officielle sur la planète numéro soixante-dix du circuit le plus extérieur)",
+  "number": "Non révélé",
+  "roles": [
+   "Recevoir et émettre les télédiffusions de la création centrale",
+   "Diriger les rapports spatiaux de tous les phénomènes de la Déité au Paradis",
+   "Faire fonctionner tous les circuits fondamentaux de l’espace"
+  ],
+  "quote": {
+   "cit": "26:3.6"
+  }
+ },
+ "g09.s03.04": {
+  "name": "Messagers",
+  "origin": "Le quatrième Esprit des Circuits (l’un des Sept Esprits des Circuits, habilité par l’Esprit Infini)",
+  "realm": "L’ensemble du système Paradis-Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Porter tous les messages nécessitant une transmission personnelle",
+   "Servir leurs compagnons, les personnalités célestes, les pèlerins du Paradis et les âmes ascendantes"
+  ],
+  "quote": {
+   "cit": "26:3.7"
+  }
+ },
+ "g09.s03.05": {
+  "name": "Coordinateurs de renseignements",
+  "aka": [
+   "journaux vivants de Havona"
+  ],
+  "origin": "Le cinquième Esprit des Circuits (l’un des Sept Esprits des Circuits, habilité par l’Esprit Infini)",
+  "realm": "Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Promouvoir des associations fraternelles entre les pèlerins ascendants et descendants",
+   "Tenir les habitants de Havona informés des affaires de tous les univers",
+   "Assimiler l’information presque instantanément par la méthode graphique de Havona"
+  ],
+  "quote": {
+   "cit": "26:3.8"
+  }
+ },
+ "g09.s03.06": {
+  "name": "Personnalités de transport",
+  "origin": "Le sixième Esprit des Circuits (l’un des Sept Esprits des Circuits, habilité par l’Esprit Infini)",
+  "realm": "Havona (opérant habituellement à partir de la planète numéro quarante du circuit le plus extérieur)",
+  "number": "Non révélé",
+  "roles": [
+   "Emmener les candidats qui échouent provisoirement dans l’aventure de la Déité",
+   "Servir tous ceux qui doivent aller et venir dans Havona sans être des franchisseurs d’espace"
+  ],
+  "quote": {
+   "cit": "26:3.9"
+  }
+ },
+ "g09.s03.07": {
+  "name": "Corps de réserve",
+  "origin": "Le septième Esprit des Circuits (l’un des Sept Esprits des Circuits, habilité par l’Esprit Infini), créés sans fonction spécifique",
+  "realm": "Le monde-pilote du septième circuit de Havona",
+  "number": "Non révélé",
+  "roles": [
+   "Se tenir prêts à faire face aux fluctuations du travail de Havona",
+   "Assumer les tâches moins exigeantes de leurs associés tertiaires"
+  ],
+  "quote": {
+   "cit": "26:3.10"
+  }
+ }
+}
