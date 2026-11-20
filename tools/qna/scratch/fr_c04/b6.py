@@ -1,0 +1,93 @@
+from save import save
+
+U = {}
+
+U["q083"] = ("Expliquez, s’il vous plait, les ondes d’énergie quantiques et le spectre de 100 octaves de l’énergie ondulatoire.", [
+"Voici en détail le mécanisme des ondes d’énergie quantiques à l’intérieur de l’atome et le spectre de 100 octaves de l’énergie ondulatoire, tels que les révèle le fascicule 42 du Livre d’Urantia.",
+"1. Comment les ondes d’énergie quantiques opèrent à l’intérieur de l’atome",
+"Émission et absorption par unités quantiques : dans les domaines de la matière, l’énergie ne s’écoule pas de façon continue ; elle n’est émise ou absorbée que par unités exactes de « quanta » ou par multiples de celles-ci.",
+"Changements d’orbite des électrons et production d’ondes : lorsqu’un électron de l’atome passe à une orbite d’énergie supérieure ou inférieure, ou lorsque des électrons entrent en collision, de l’énergie lumineuse est émise ou absorbée par unités quantiques. La vibration et le comportement ondulatoire des unités d’énergie qui apparaissent alors sont entièrement déterminés par les dimensions des structures matérielles en cause.",
+"Le rapport précis de la longueur d’onde (la loi des 860 fois) : la longueur d’onde des ondulations d’énergie émises à l’intérieur de l’atome est exactement 860 fois le diamètre de l’ultimaton, de l’électron, de l’atome ou de l’autre unité d’énergie en cause.",
+"Le phénomène de superposition des ondes : la confusion physique qui surgit dans l’observation du comportement quantique est due à la superposition des ondes d’énergie les unes sur les autres dans l’espace. Lorsque deux crêtes d’onde se rencontrent, elles forment une crête de hauteur double, mais lorsqu’une crête rencontre un creux, elles s’annulent et l’onde disparait.",
+"L’activation de l’espace intérieur de l’atome : l’espace entre le noyau atomique et les électrons n’est pas vide ; il est activé et maintenu en équilibre par des phénomènes ondulatoires parfaitement synchronisés avec la vitesse de circulation des électrons et avec les révolutions axiales des ultimatons.",
+"2. Le spectre de 100 octaves de l’énergie ondulatoire",
+"Dans le superunivers d’Orvonton existe un spectre d’énergie ondulatoire totalisant 100 octaves, qui constitue l’ensemble de l’énergie physique de l’univers.",
+"Les limites de la perception humaine : sur l’ensemble du spectre de 100 octaves, la science d’Urantia (la terre) en reconnait 64, partiellement ou entièrement. En particulier, la lumière visible que l’œil humain peut percevoir n’occupe qu’une octave (la 46e) sur ces 100.",
+"La structure d’ensemble du spectre de l’énergie ondulatoire :",
+"Le spectre des rayons solaires : il occupe 4 octaves de l’échelle entière et comprend la lumière visible (la 46e octave), les rayons ultraviolets et d’autres.",
+"La région au-dessus de la lumière visible : dix octaves au-dessus de l’ultraviolet se trouvent les rayons X et les rayons gamma, et les 32 octaves supérieures sont la zone des puissants rayons cosmiques qui affluent de l’espace extérieur.",
+"La région au-dessous de la lumière visible : au-dessous de la lumière visible se trouvent les rayons infrarouges, et plus bas les 30 octaves inférieures sont constituées par les ondes hertziennes (le groupe des transmissions radio) utilisées pour la télédiffusion et les communications.",
+"3. Les dix classifications de l’énergie ondulatoire du point de vue de la science d’Urantia",
+"Le Livre d’Urantia répartit en dix stades les énergies ondulatoires qui peuvent être observées et classées au niveau de la terre, sur le spectre de 100 octaves :",
+"Rayons infra-ultimatoniques : ondes du stade limite où les ultimatons commencent à prendre une forme définie.",
+"Rayons ultimatoniques : vibrations produites juste avant que les ultimatons ne s’assemblent dans l’espace et ne se condensent en matière électronique.",
+"Rayons spatiaux courts : les plus courtes vibrations électroniques du stade préatomique, associées à la naissance et à la destruction des atomes.",
+"Le stade électronique : les ondes de base de la matérialisation ordinaire, émettant des quanta lorsque les électrons changent d’orbite ou entrent en collision.",
+"Rayons gamma : ondes émises lorsque les noyaux atomiques se divisent spontanément, comme dans la désintégration du radium.",
+"Le groupe des rayons X : ondes de perturbation électromagnétique produites lorsque la vitesse d’un électron est brusquement arrêtée ou ralentie.",
+"Rayons ultraviolets : les rayons chimiques et les productions mécaniques du soleil.",
+"La lumière blanche : l’ensemble de la lumière visible perçue par l’œil humain.",
+"Rayons infrarouges : ondes de ralentissement de l’activité électronique qui passent au stade de la chaleur perceptible.",
+"Ondes hertziennes : les longueurs d’onde utilisées pour la radio et les télédiffusions.",
+"Ainsi, du mouvement ondulatoire des quanta à l’intérieur de l’atome microscopique jusqu’à l’immense spectre ondulatoire cosmique de 100 octaves, chaque onde physique montre que l’énergie émanant du Paradis est contrôlée avec précision selon la loi universelle.",
+])
+
+U["q084"] = ("Parlez-moi aussi de « la réalité de l’hypothèse de l’éther et de son comportement dans l’espace » lorsque l’énergie ondulatoire traverse l’espace, et des « opérations réelles des contrôleurs physiques qui manient l’énergie-matière ».", [
+"Voici un résumé de « la réalité de l’hypothèse de l’éther et de son comportement dans l’espace » et des « opérations réelles des Maitres Contrôleurs Physiques », tels que les décrit le Livre d’Urantia.",
+"1. La réalité de l’hypothèse de l’éther et son comportement dans l’espace",
+"L’inexistence de l’éther comme milieu hypothétique : selon le Livre d’Urantia, l’« éther », supposé par la science être un milieu matériel indépendant, n’existe pas. L’éther dont parle la science humaine n’est qu’un nom collectif pour l’ensemble des activités de force et d’énergie qui remplissent l’espace.",
+"Le déplacement rectiligne des particules d’énergie et les phénomènes ondulatoires : toutes les formes de particules d’énergie (ultimatons et agrégations électroniques), comme la lumière et les ondes électromagnétiques, traversent en réalité l’espace en ligne droite. Cependant, lorsque les particules d’énergie se déplaçant à grande vitesse rencontrent le revêtement de force (la résistance) de l’espace et les tensions de l’attraction, des « perturbations dans l’espace » apparaissent. De même que des vagues se forment quand un navire fend l’eau, ou que des gouttes de pluie ressemblent à des ondulations quand le vent souffle, ces phénomènes d’illusion et de superposition font que le mouvement est observé comme un mouvement ondulatoire.",
+"L’importance cosmique de l’absence d’éther : si un milieu éthéré fixe existait et produisait une résistance par frottement, les planètes habitées finiraient par être attirées dans leur soleil et détruites, et les électrons seraient aspirés dans le noyau atomique. C’est parce qu’il n’existe pas d’éther hypothétique que les corps célestes et les particules microscopiques peuvent poursuivre un mouvement orbital stable.",
+"2. Les opérations réelles des Maitres Contrôleurs Physiques",
+"Les Maitres Contrôleurs Physiques sont des contrôleurs vivants et intelligents qui transforment, règlent, entretiennent et transmettent directement les énergies physiques dans l’espace ; ils opèrent en sept ordres en tout.",
+"Directeurs de pouvoir adjoints : selon les changements des conditions physiques des royaumes, ils affectent les divers contrôleurs physiques aux planètes, aux systèmes et aux univers où l’on en a besoin, et les inspectent.",
+"Contrôleurs machinaux : possédant un puissant don antigravitationnel, ils égalisent les pressions énergétiques des circuits de l’univers et facilitent l’écoulement de l’énergie. Dix d’entre eux résident aussi sur Urantia (la terre) et, avec 1 000 transmetteurs d’énergie, ils fournissent la propulsion antigravitationnelle initiale lorsque les anges décollent de la planète (transport séraphique).",
+"Transformateurs d’énergie : en tant que commutateurs vivants, ils changent librement la forme et le potentiel de 27 des 30 énergies de l’espace. Ils maintiennent l’équilibre physique en isolant une planète donnée des courants d’énergie excessifs venant de grandes étoiles ou de planètes voisines, ou en emmagasinant et en libérant de l’énergie.",
+"Transmetteurs d’énergie : ils servent de supraconducteurs vivants, reliant les délicats canaux d’énergie et lignes de communication qui vont d’une planète à l’autre. En renforçant les faibles signaux reçus de grandes distances, ils maintiennent les télédiffusions de l’univers et les réseaux de communication d’urgence.",
+"Associateurs primaires : maitres de la conservation et du stockage de l’énergie, ils emmagasinent l’énergie et servent de catalyseurs dans le maniement des particules atomiques, électroniques et ultimatoniques, produisant les unités primitives de la matière.",
+"Dissociateurs secondaires : ce sont les « alchimistes de l’espace », qui utilisent leurs puissantes qualités antigravitationnelles pour désagréger la matière et libérer l’énergie illimitée qui s’y trouve condensée.",
+"Frandalanks et chronoldeks : plutôt que de manipuler directement l’énergie physique, ce sont des mécanismes de mesure vivants et intelligents qui évaluent et enregistrent automatiquement et avec précision l’état, la masse, la pression et la vitesse de la force-énergie de l’univers, ainsi que sa précision temporelle.",
+])
+
+U["q085"] = ("Quelles sont les dix classifications de la matière existant dans l’univers selon le Livre d’Urantia ?", [
+"Selon le fascicule 42 (L’énergie — le mental et la matière) du Livre d’Urantia, les dix grandes divisions de la matière qui existent dans les divers soleils, planètes et corps célestes des univers du temps et de l’espace, à l’exclusion de l’univers central, sont les suivantes.",
+"La matière ultimatonique : l’unité physique la plus fondamentale de l’existence matérielle ; les particules d’énergie qui composent l’électron.",
+"La matière subélectronique : le stade explosif et répulsif des supergaz solaires.",
+"La matière électronique : le stade électrique de la différenciation matérielle, comprenant les électrons, les protons et diverses autres unités qui entrent dans la constitution variée des groupes électroniques.",
+"La matière subatomique : la matière qui existe en grande quantité à l’intérieur des soleils chauds et flamboyants.",
+"Les atomes fracassés : la forme que l’on trouve dans les soleils qui se refroidissent et dans tout l’espace.",
+"La matière ionisée : des atomes individuels dépouillés de leurs électrons extérieurs, chimiquement actifs, par des activités électriques, thermiques ou de rayons X, ou par l’action de solvants.",
+"La matière atomique : le stade chimique de l’organisation élémentaire, les unités composantes de la matière moléculaire ou visible.",
+"Le stade moléculaire de la matière : un état de matérialisation relativement stable dans les conditions ordinaires, la matière telle qu’elle existe sur la terre (Urantia).",
+"La matière radioactive : la matière qui manifeste la tendance et l’activité des éléments plus lourds à se désintégrer spontanément dans des conditions de chaleur modérée et de pression gravitationnelle diminuée.",
+"La matière effondrée : la matière que l’on trouve à l’intérieur des soleils froids ou morts, dans laquelle les unités ultimatoniques et électroniques sont très densément comprimées et leurs révolutions grandement ralenties.",
+"Cette classification se fonde moins sur l’apparence extérieure que voit un observateur du dehors que sur l’organisation interne de l’énergie et les propriétés physiques de la matière.",
+])
+
+U["q086"] = ("Parlez-moi en détail de la relation entre les Triodités, les trois Absolus et l’Être Suprême.", [
+"Selon le Livre d’Urantia, les trois Absolus, les Triodités et l’Être Suprême sont des concepts clés qui expliquent les actualités et les potentiels de l’univers ainsi que l’émergence de la Déité évoluante du temps et de l’espace, et ils sont profondément liés entre eux.",
+"1. Les trois Absolus",
+"Les trois Absolus existant dans l’univers sont les trois présences absolues qui incarnent un potentiel et une réactivité infinis ainsi que l’équilibre entre eux.",
+"L’Absolu de Déité : il contient tous les potentiels divins et les possibilités de la Déité, et il est le réservoir potentiel dans lequel ont lieu toutes les activités de divinité.",
+"L’Absolu Non Qualifié : il est non déifié et impersonnel ; c’est le domaine statique, réactif et infini du potentiel de l’espace, de la force et de l’énergie.",
+"L’Absolu Universel : il est le coordinateur associatif qui ajuste la tension de divinité entre la réalité déifiée (l’Absolu de Déité) et la réalité non déifiée (l’Absolu Non Qualifié), égalisant et unifiant la différence entre l’actualité et la potentialité.",
+"2. La structure des Triodités",
+"Les Triodités sont des associations triples de réalités absolues dans lesquelles le Père Universel n’est pas directement inclus comme membre personnel. Les Triodités se répartissent en deux grandes sortes.",
+"La Triodité d’Actualité",
+"Composition : le Fils Éternel (l’absolu d’esprit) + l’Ile du Paradis (le modèle cosmique et physique absolu) + l’Acteur Conjoint/Esprit Infini (l’absolu du mental et la synthèse de la Déité).",
+"Rôle : elle coordonne la somme totale de toutes les réalités absolues déjà actualisées, qu’elles soient spirituelles, cosmiques ou mentales.",
+"La Triodité de Potentialité",
+"Composition : Absolu de Déité + Absolu Universel + Absolu Non Qualifié (l’association des trois Absolus eux-mêmes).",
+"Rôle : elle met en corrélation et unifie les réservoirs d’infinité de toutes les énergies et réalités latentes, spirituelles, mentales et cosmiques, non encore manifestées.",
+"3. La relation entre les Triodités, les trois Absolus et l’Être Suprême",
+"L’Être Suprême est la Déité expérientielle qui croît dans le temps et l’espace en synthétisant le pouvoir et la personnalité dans les univers évolutionnaires. Leur relation peut se résumer selon les trois axes clés suivants.",
+"L’action directe dans l’émergence de la Déité expérientielle : alors que les Trinités s’occupent principalement de l’unification fonctionnelle de l’infinité, les Triodités s’occupent directement de l’apparition cosmique des Déités expérientielles telles que l’Être Suprême et de leur synthèse pouvoir-personnalité.",
+"La transformation du potentiel en actuel : l’Être Suprême est l’aboutissement et le foyer du processus par lequel, au niveau de l’univers fini, la Triodité d’Actualité (les actuels) et la Triodité de Potentialité (les trois Absolus) interagissent, et par lequel les potentiels infinis contenus dans les trois Absolus sont transformés en actualités dans le temps et l’espace (la synthèse pouvoir-personnalité).",
+"Distinction entre les origines de la personnalité et celles du pouvoir",
+"L’origine de la personnalité d’esprit : la personnalité d’esprit de l’Être Suprême dépend absolument de la Trinité du Paradis et en dérive.",
+"L’origine du pouvoir tout-puissant : le pouvoir tout-puissant de l’Être Suprême (le Tout-Puissant Suprême) et sa croissance se fondent sur les deux Triodités (la Triodité d’Actualité + la Triodité de Potentialité des trois Absolus), ainsi que sur Dieu le Septuple et les accomplissements expérientiels des créatures et des Créateurs du temps et de l’espace.",
+"Le mouvement de croissance dans deux directions : la croissance de l’Être Suprême manifeste un double mouvement, dirigé vers l’intérieur (intensivement) vers le Paradis et la Déité, et en même temps vers l’extérieur (extensivement) vers l’espace infini et le potentiel que détiennent les trois Absolus (la Triodité de Potentialité).",
+"En fin de compte, les trois Absolus constituent la « Triodité de Potentialité » et conservent toutes les possibilités de l’univers, et c’est en se combinant avec la Triodité d’Actualité et les activités créatrices du temps et de l’espace qu’ils rendent possible l’actualisation de l’Être Suprême, le Dieu fini évoluant",
+])
+
+save(U)

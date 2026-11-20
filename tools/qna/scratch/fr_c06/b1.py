@@ -1,0 +1,80 @@
+from save import save
+
+U = {}
+
+U["q102"] = ("Expliquez-moi en détail les trois sites d’implantation de la vie décrits dans le Livre d’Urantia, les circonstances de l’époque et les développements qui suivirent.", [
+"Les trois sites d’implantation de la vie sur Urantia (la terre) décrits dans le Livre d’Urantia, les circonstances de l’époque et le cours ultérieur du développement évolutionnaire sont les suivants.",
+"1. Le contexte de l’implantation de la vie et les conditions du milieu",
+"Désignation comme planète expérimentale décimale : Urantia est le 606e monde habité du système de Satania, et aussi une planète décimale (une planète d’expérimentation de la vie), un monde sur dix étant ainsi désigné [49:0.3, 58:0.1]. C’est une sphère sur laquelle sont permises des expériences visant à modifier et à améliorer les types courants d’êtres vivants de l’univers [58:0.1].",
+"Préparation physique et chimique : il y a environ 600 millions d’années, une commission de Porteurs de Vie envoyée de Jérusem étudia le milieu d’Urantia [58:1.1]. Comme le protoplasme du type d’Urantia ne peut fonctionner que dans une solution saline appropriée, ils attendirent que la salinité des mers intérieures eût atteint le niveau voulu et que se fussent formés des baies et des lagons tropicaux peu profonds [58:1.3, 58:1.6-1.7].",
+"2. Les trois sites d’implantation de la vie et les circonstances de l’époque",
+"L’époque de l’implantation : il y a environ 550 millions d’années, le corps des Porteurs de Vie revint et, en coopération avec des forces supramatérielles et spirituelles, planta les modèles originels de vie marine propres à la terre [58:4.2, 58:4.5].",
+"Les sites d’implantation : la vie fut implantée simultanément en trois endroits de la mer centrale qui séparait d’est en ouest la grande masse continentale alors en voie de fragmentation, c’est-à-dire dans des criques tropicales chaudes, peu profondes et abritées (des eaux protégées) [58:4.2, 58:4.4, 65:2.1, 65:2.13].",
+"Région centrale : Eurasie-Afrique [58:4.2]",
+"Région orientale : Australasie (le groupe australien et antarctique) [58:4.2]",
+"Région occidentale : Groenland et Amériques [58:4.2]",
+"Le but de l’implantation : le protoplasme planté dans les trois régions constituait une implantation de vie originelle et identique, et le but était de faire en sorte que, lorsque les grands continents dériveraient plus tard et se sépareraient complètement, chaque continent emporte cette vie avec lui dans ses eaux chaudes [58:4.2, 58:4.4].",
+"3. Le développement par étapes après l’implantation de la vie",
+"① L’établissement de la vie végétale et le passage aux animaux (de 500 à 450 millions d’années)",
+"Il y a 500 millions d’années, la végétation marine primitive était bien établie [58:4.3] et, il y a 450 millions d’années, dans les mers peu profondes et les lagons des continents en voie de séparation, s’opéra le passage graduel du végétal à l’animal [58:6.1]. Les éponges et organismes semblables apparurent à cette époque comme organismes de transition intermédiaires [65:2.2].",
+"② L’apparition des animaux multicellulaires et des trilobites (il y a 400 millions d’années / le cambrien)",
+"Il y a 400 millions d’années, les trilobites, premiers animaux multicellulaires, évoluèrent soudainement et dominèrent les mers [59:1.4]. Les caractéristiques des animaux issus des trois régions d’implantation commencèrent à présenter des traits régionaux légèrement différents entre les groupes de l’hémisphère occidental, d’Eurasie et d’Australasie [59:1.14].",
+"③ L’apparition des vertébrés (poissons), des amphibiens, des reptiles et des mammifères",
+"Les poissons (il y a 250 millions d’années) : les poissons, premiers vertébrés, apparurent dans les mers du nord [59:4.9-4.10].",
+"Les amphibiens (il y a 210 millions d’années) : à mesure que la vessie natatoire d’arthropodes primitifs sortis de la mer pour ramper sur la terre ferme se transformait en poumons, des amphibiens respirant l’air, tels que les grenouilles, apparurent [59:5.5-5.6]. La grenouille est l’un des plus anciens ancêtres vertébrés terrestres de l’humanité qui aient survécu jusqu’à nos jours [65:2.7].",
+"Les reptiles et les mammifères (de 140 à 50 millions d’années) : après l’âge des reptiles (dinosaures), les mammifères placentaires apparurent soudainement il y a 50 millions d’années à partir d’ancêtres dinosauriens agiles et sauteurs [60:1.9, 61:0.1, 61:1.2, 65:2.12].",
+"4. Le sort des trois lignées de vie et l’apparition finale de l’humanité",
+"Les lignées issues des trois sites d’implantation de la vie connurent au fil du temps des sorts différents, comme suit.",
+"Les limites de la lignée d’implantation orientale : les organismes de l’implantation de vie orientale se développèrent d’abord favorablement jusqu’au niveau préhumain, mais, lorsque les types supérieurs de plasma germinatif subirent des pertes répétées et irréparables, ils perdirent leur potentiel de développement intellectuel et leur croissance fut limitée [65:2.13-2.14].",
+"L’union des lignées occidentale et centrale :",
+"Les mammifères supérieurs (la souche lémurienne) qui devaient devenir les ancêtres directs de l’humanité se développèrent de la manière la plus excellente, principalement à partir de l’implantation de vie occidentale (Amérique du Nord) [62:0.1, 65:2.13, 65:2.15].",
+"Cette lignée occidentale franchit le pont terrestre de Béring et migra vers le sud-ouest le long de la côte d’Asie [62:1.2, 65:2.15].",
+"Dans le milieu paradisiaque situé à l’ouest de l’Inde (la péninsule mésopotamienne/perse), la lignée d’origine occidentale et la lignée supérieure de l’implantation de vie centrale s’unirent pour former la lignée ancestrale finale de l’homme [62:0.1, 62:1.2, 65:2.15].",
+"L’apparition des premiers êtres humains (Andon et Fonta) (il y a environ un million d’années) :",
+"Il y a environ un million d’années (exactement 993 419 ans), Andon et Fonta, les premiers vrais êtres humains, naquirent de jumeaux primates isolés dans le sud-ouest de l’Asie [62:5.1, 62:5.2, 63:0.1].",
+"Lorsque, vers l’âge de dix ans, ils répondirent aux esprits-mentaux adjuvats d’adoration et de sagesse et firent des choix volitifs, Urantia fut enfin enregistrée dans l’univers de Nébadon comme planète habitée officielle peuplée de créatures volitives [62:6.5, 62:7.3, 62:7.7].",
+])
+
+U["q103"] = ("Les circonstances précises dans lesquelles la terre et les autres planètes furent éjectées du soleil lorsque le système d’Angona s’approcha il y a 4,5 milliards d’années, ainsi que les réactions nucléaires qui ont lieu dans le soleil et le rôle de l’élément calcium", [
+"Les détails précis de la naissance du système solaire par l’approche du système d’Angona il y a environ 4,5 milliards d’années, des réactions nucléaires à l’intérieur du soleil et du rôle cosmique de l’élément calcium sont les suivants.",
+"1. L’approche du système d’Angona il y a 4,5 milliards d’années et la naissance du système solaire (Monmatia)",
+"L’approche du système d’Angona : il y a environ 4,5 milliards d’années, le système d’Angona, énorme géant obscur de l’espace, solide et fortement chargé, commença à s’approcher de notre soleil, alors isolé.",
+"Convulsions de marée et éjection d’une colonne de gaz : à cette époque, le soleil était dans un état de pulsation d’étoile variable, se dilatant et se contractant selon un cycle de trois jours et demi, et il était donc très sensible aux stimulus gravitationnels extérieurs. Tandis qu’Angona se rapprochait régulièrement pendant quelque 500 000 ans, d’énormes langues de gaz solaire furent éjectées dans l’espace à chaque moment d’expansion maximale du soleil au cours de ses pulsations.",
+"La formation des douze planètes : lorsqu’Angona fut au plus près, d’énormes extrusions de marée se produisirent des deux côtés du soleil. Le gaz attiré vers Angona se détacha définitivement du soleil sous la forme d’une gigantesque colonne de gaz, pointue aux deux extrémités et renflée au milieu.",
+"À partir des noyaux de condensation situés aux deux extrémités effilées de la colonne de gaz se formèrent cinq planètes intérieures et cinq planètes extérieures.",
+"De la partie médiane renflée naquirent les planètes géantes Jupiter et Saturne et, pendant quelque temps après leur formation, ces deux planètes fonctionnèrent comme des soleils secondaires émettant leur propre lumière.",
+"La capture de corps étrangers et le mouvement rétrograde : par sa puissante gravité, le soleil arracha trois corps appartenant au système d’Angona et les inclut dans sa propre famille planétaire. Les collisions de corps au cours de ce processus introduisirent parmi les corps du système solaire le phénomène exceptionnel du mouvement rétrograde (révolution ou rotation dans le sens des aiguilles d’une montre).",
+"Les caractéristiques du plan orbital : si les planètes du système solaire tournent non pas dans le plan de l’équateur solaire mais selon un plan incliné, c’est aussi parce que les planètes furent extraites non par la rotation du soleil, mais selon le plan de l’extrusion solaire formée au moment de l’approche d’Angona.",
+"2. Les réactions nucléaires à l’intérieur du soleil et le rôle de l’élément calcium",
+"L’intérieur solaire à 35 millions de degrés et ses réactions nucléaires : la température au centre du soleil atteint environ 35 millions de degrés Fahrenheit (℉) et engendre d’énormes rayons X. Sous cette température et cette pression élevées, les atomes intacts ne peuvent exister et sont décomposés en particules subatomiques.",
+"Le mécanisme le plus courant de libération de l’énergie solaire est la réaction hydrogène-carbone-hélium.",
+"Le noyau de carbone peut contenir jusqu’à quatre protons ; lorsque des particules d’hydrogène pénètrent dans le noyau de carbone et le saturent, celui-ci les libère sous la forme d’un atome d’hélium. Dans ce processus, le carbone lui-même ne se consume pas, mais sert de catalyseur énergétique qui convertit l’hydrogène en hélium.",
+"Le mécanisme d’évasion acrobatique de l’élément calcium :",
+"Le calcium est le matériau de construction fondamental de l’espace et des planètes (poussière de pierre), et il imprègne en abondance tout l’espace du superunivers d’Orvonton.",
+"Bien que l’atome de calcium soit une particule relativement lourde, dotée de 20 électrons, il est « l’expert en évasion solaire », le plus habile à s’échapper dans l’espace à travers la puissante gravité du soleil.",
+"Les acrobaties des électrons : après avoir perdu l’un de ses électrons extérieurs, l’atome de calcium accomplit un étonnant tour d’acrobatie, lançant son dix-neuvième électron d’avant en arrière entre la dix-neuvième et la vingtième orbite quelque 25 000 fois par seconde.",
+"Grâce à ce délicat mouvement électronique, l’atome de calcium défie en partie la gravité et s’échappe hors du soleil en chevauchant le courant de lumière et d’énergie, saisissant et lâchant les rayons solaires 25 000 fois par seconde.",
+"En raison de cette activité d’évasion du calcium, une couche de calcium gazeux (de pierre) épaisse d’environ 6 000 milles se forme à la surface du soleil.",
+])
+
+U["q104"] = ("Que veut dire le Livre d’Urantia lorsqu’il affirme qu’il y a douze planètes dans le système solaire de Monmatia ? Mercure, Vénus, la Terre, Mars, Jupiter, Saturne, Uranus, Neptune et Pluton n’en font que neuf.", [
+"Lorsque le Livre d’Urantia explique qu’il y avait douze planètes dans Monmatia (le système solaire), il se réfère au nombre de planètes fondamentales nées par condensation directe de la colonne de gaz primordial éjectée du soleil lorsque le système d’Angona s’approcha il y a environ 4,5 milliards d’années.",
+"Les raisons pour lesquelles ce nombre diffère de la structure familière de neuf planètes (huit officiellement aujourd’hui), « Mercure, Vénus, la Terre, Mars, Jupiter, Saturne, Uranus, Neptune, Pluton », sont les suivantes.",
+"1. La structure de formation des douze planètes originelles (5 + 2 + 5)",
+"L’énorme colonne de gaz solaire extraite du soleil par l’attraction gravitationnelle d’Angona était effilée aux deux extrémités et renflée au milieu.",
+"Les planètes géantes du milieu (2) : de la partie centrale la plus renflée de la colonne naquirent les planètes géantes Jupiter et Saturne.",
+"Les planètes intérieures et extérieures (10) : à partir des noyaux de condensation situés aux extrémités effilées de la colonne, de part et d’autre, se formèrent respectivement cinq planètes intérieures et cinq planètes extérieures.",
+"C’est ainsi qu’un total de douze planètes originelles fut assemblé à partir de la colonne de gaz du système solaire primitif.",
+"2. La « cinquième planète » disparue et la ceinture d’astéroïdes",
+"Pourquoi donc n’y en a-t-il pas douze aujourd’hui ? Selon le Livre d’Urantia, c’est parce que l’une des douze planètes fut détruite dans une catastrophe cosmique.",
+"La dislocation de la cinquième planète : la cinquième planète du système solaire, située entre Mars et Jupiter, suivait une orbite irrégulière et s’approchait périodiquement de plus en plus près de Jupiter.",
+"Finalement, lorsqu’elle atteignit le point critique de la limite de dislocation par la marée gravitationnelle de la puissante Jupiter, cette cinquième planète fut soudain mise en pièces.",
+"Les fragments de cette cinquième planète détruite en vinrent à former la ceinture d’astéroïdes qui circule aujourd’hui sur l’orbite comprise entre Mars et Jupiter.",
+"3. La capture de corps du système d’Angona",
+"En outre, au moment de sa formation, le système solaire arracha par gravité trois corps étrangers (planètes) au système d’Angona qui s’approchait, et les ajouta à sa propre famille planétaire. Comme séquelle de ces collisions et de ces captures, le phénomène du mouvement rétrograde, révolution ou rotation dans le sens des aiguilles d’une montre, fut introduit dans certains corps du système solaire.",
+"💡 Résumé",
+"La science moderne a traditionnellement compté neuf planètes (huit officiellement depuis le reclassement de Pluton en 2006) et ne voit dans la ceinture d’astéroïdes qu’un simple amas de roches, mais le Livre d’Urantia explique les choses sur la base de la structure de douze planètes fondamentales nées de la colonne de gaz solaire primordiale, y compris la « cinquième planète » qui fut fragmentée en ceinture d’astéroïdes.",
+])
+
+if __name__ == "__main__":
+    save(U)
