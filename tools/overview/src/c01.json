@@ -1,0 +1,1090 @@
+{
+ "ui.html_title": "A Conceptual Overview of The Urantia Book",
+ "ui.h1": "A Conceptual Overview of The Urantia Book",
+ "ui.crumb_home": "Home",
+ "ui.crumb_section": "Urantia Book Studies",
+ "ui.lead": "Revelation · God · Cosmology · Christology and Salvation · The Church and the Kingdom · Prayer and Worship — the large picture of The Urantia Book in six parts.",
+ "ui.by": "by <b>Rev. Dr. Meredith J. Sprunger</b>, UCC",
+ "ui.open_all": "Open all",
+ "ui.close_all": "Close all",
+ "ui.toggle_suffix": " — open/close",
+ "ui.back_to_top": "Back to top",
+ "ui.part_label": "PART {rn}",
+ "ui.part_rn": "I|II|III|IV|V|VI",
+ "ui.ref_see": "See {ref}",
+ "ui.ref_paper": "Paper {n}",
+ "ui.src_note": "Text: Rev. Dr. Meredith J. Sprunger, UCC, “A Conceptual Overview of The Urantia Book,” first published by The Urantia Book Fellowship (urantiabook.org). Quotations from The Urantia Book are checked against the original English text; click a reference to open it.",
+ "part1.title": "Revelation",
+ "part1.lead": "Epochal revelation is periodic, successive, and evolutionary. Insofar as the indwelling Spirit reveals truth to individuals, revelation is continuous. Revelation always upsteps the religions of evolution.",
+ "p1.001.h": "The Urantia Book view of revelation",
+ "p1.002.pt": {
+  "n": "1",
+  "text": "Epochal revelation is periodic, successive, and evolutionary. Insofar as the indwelling Spirit reveals truth to individuals, revelation is continuous. [101:2.10]"
+ },
+ "p1.003.pt": {
+  "n": "2",
+  "text": "Knowledge must be achieved by evolutionary discovery but it is integrated and given spiritual value orientation by revelation. This saves much time in eliminating the errors and distortions of evolution. [101:4.5]"
+ },
+ "p1.004.pt": {
+  "n": "3",
+  "text": "Revelation is never too far removed from the thought processes of the age in which it is given. It is rooted solidly in evolutionary foundations. [92:4],  [101:2.2]"
+ },
+ "p1.005.pt": {
+  "n": "4",
+  "text": "Revelation expands and upsteps the religions of evolution. [92:4]"
+ },
+ "p1.006.pt": {
+  "n": "5",
+  "text": "Revelation co-ordinates and integrates science, philosophy, and religion with the truths of reality. It bridges conceptual deficiencies. [42:4.7],  [101:2.2], [103:6.12], [103:7.8]"
+ },
+ "p1.007.pt": {
+  "n": "6",
+  "text": "Revelation can only be validated by experience. [101:2.4]"
+ },
+ "p1.008.pt": {
+  "n": "7",
+  "text": "Revelation is never complete until we meet the Universal Father. [92:4.9]"
+ },
+ "p1.009.h": "Summary",
+ "p1.010.p": "The Urantia Book should be evaluated by the quality of its truth content, not by its revelatory claims.",
+ "p1.011.p": "Great religious and spiritual transformations of society have always been the result of transformations at the grass roots level; common people, hungry for spiritual truth, receive liberating truth gladly. The Urantia Book presents a feast of spiritual truth to a hungry world which is becoming increasingly disillusioned with its religious institutions.",
+ "part2.title": "The Urantia Book View of God",
+ "part2.lead": "Traditional concepts and contemporary concepts—such as those in Process Theology—are expanded, enhanced and integrated.",
+ "p2.001.h": "God the Father",
+ "p2.002.pt": {
+  "n": "1",
+  "text": "The Universal Father is the God of all creation. [1:0.1] God is spirit and we should think of Him as the creator, controller, and infinite upholder of all things. [1:3.1] In science God is regarded as a cause, in philosophy an ultimate reality, and in religion as a loving Father. [4:4.7]"
+ },
+ "p2.003.pt": {
+  "n": "2",
+  "text": "God is a person who can know and be known; he is the source of personality. [1:5.16] God's conduct is personal - conscious and volitional. He is not a slave to his own perfection and infinity. [12:7.6]"
+ },
+ "p2.004.pt": {
+  "n": "3",
+  "text": "God is not just a synonym for nature, law, beauty, or love. He is not \"the noblest work of man\" neither is he manlike or machinelike. He is a transcendent reality. [1:2.1]"
+ },
+ "p2.005.pt": {
+  "n": "4",
+  "text": "God is infinite, eternal, righteous, just, loving, merciful, omnipotent, omnipresent, omniscient, and primal. [See Paper 3]"
+ },
+ "p2.006.pt": {
+  "n": "5",
+  "text": "God is the bestower of personality and he dwells within us. In Him we live and move and have our being. [5:6.1], [12:7.12]"
+ },
+ "p2.007.h": "God the Son",
+ "p2.008.pt": {
+  "n": "1",
+  "text": "The Son is the spiritual and personal nature of God made manifest to the universes. [6:7.3] He is the eternal Word of God. [6:1.4], [12:7.12] The Eternal Son is the great mercy minister to all creation.[6:2.2]"
+ },
+ "p2.009.q": {
+  "paras": [
+   {
+    "cit": "7:7.1",
+    "text": "The Eternal Son is a complete, exclusive, universal, and final revelation of the spirit and the personality of the Universal Father."
+   }
+  ],
+  "refs": "[7:7.1]"
+ },
+ "p2.010.pt": {
+  "n": "2",
+  "text": "The spirit-gravity pull of the Eternal Son constitutes the secret of the Paradise ascension of surviving mortals. [7:3.2]"
+ },
+ "p2.011.pt": {
+  "n": "3",
+  "text": "The Sons of the Eternal Son can incarnate in the likeness of mortal flesh. [7:5.4]"
+ },
+ "p2.012.h": "God the Spirit",
+ "p2.013.pt": {
+  "n": "1",
+  "text": "The Infinite Spirit is the effective agent for the execution of the Father-Son plan for spiritual growth and Paradise attainment. God is love; the Son is mercy; and the Spirit is ministry. [8:3.5], [9:0.3]"
+ },
+ "p2.014.pt": {
+  "n": "2",
+  "text": "The Infinite Spirit is the correlator of all actual reality - the manipulator of energy, the absolute mind and the source of the mind-gravity circuit, and a minister to personalities. [8:6.1], [9:1.3], [9:4.2], [9:6.1]"
+ },
+ "p2.015.pt": {
+  "n": "3",
+  "text": "The ministry of the Paradise Trinity is co-ordinated. [3:6.8]"
+ },
+ "p2.016.h": "God the Supreme",
+ "p2.017.pt": {
+  "n": "1",
+  "text": "God the Supreme is the actualizing God of time and space. [0:2.12]  He is the personalization of the totality of evolutionary universe experience. [118:9.9]  The Supreme grows as the personalities in the evolving universes attain Godlikeness."
+ },
+ "p2.018.p": "This concept is very close to the contemporary deity concepts in the writings of Jung, Tillich, Teilhard de Chardin, and Whitehead. Process Theology, which stems from Whiteheadian philosophy, speaks about the \"primordial\" nature of God ( I AM, Paradise Trinity, Absolutes) and the \"consequent\" nature of God (Supreme). Whitehead's \"universe as living organism\" parallels the concept of God the Supreme as presented in The Urantia Book. This concept of God the Supreme also has parallels with the idea of  the \"immanence of God\" as it is developed in traditional theology.",
+ "p2.019.pt": {
+  "n": "2",
+  "text": "With God the Supreme one must do something as well as be something. [115:0.1] The Supreme is the catalyzer of all universe growth. [117:3.13]"
+ },
+ "p2.020.pt": {
+  "n": "3",
+  "text": "At the end of the present universe age the Supreme Being will function as an experiential sovereign of the grand universe. [117:2.7]"
+ },
+ "p2.021.h": "God the Sevenfold",
+ "p2.022.pt": {
+  "n": "1",
+  "text": "Man progressively discerns God through the ministry of God the Sevenfold. This is the \"spiritual ladder\" by which man ascends the universe from his planetary origin to Paradise. Mortals in our universe successively encounter God in the following order:"
+ },
+ "p2.023.sp": {
+  "n": "a",
+  "text": "Christ Michael (Jesus, the creator Son of our local universe)"
+ },
+ "p2.024.sp": {
+  "n": "b",
+  "text": "The Ancients of Days"
+ },
+ "p2.025.sp": {
+  "n": "c",
+  "text": "The Seventh Master Spirit"
+ },
+ "p2.026.sp": {
+  "n": "d",
+  "text": "The Supreme Being"
+ },
+ "p2.027.sp": {
+  "n": "e",
+  "text": "God the Spirit"
+ },
+ "p2.028.sp": {
+  "n": "f",
+  "text": "God the Son"
+ },
+ "p2.029.sp": {
+  "n": "g",
+  "text": "God the Father [0:8.1], [118:2.2]"
+ },
+ "p2.030.pt": {
+  "n": "2",
+  "text": "In spite of the complexity of the manifestations of Deity in the universe of universes, God is one and there is universal unity in his ministry. [56:0.1], [34:5.2]"
+ },
+ "p2.031.q": {
+  "paras": [
+   {
+    "cit": "34:6.2",
+    "text": "Although Divinity may be plural in manifestation, in human experience Deity is singular, always one. Neither is spiritual ministry plural in human experience. Regardless of plurality of origin, all spirit influences are one in function."
+   }
+  ],
+  "refs": "[34:6.2]"
+ },
+ "p2.032.h": "The I AM Concept - The First Source and Center",
+ "p2.033.pt": {
+  "n": "1",
+  "text": "The I AM achieves personality by becoming the Father of the Eternal Son and the Infinite Spirit. Concomitant with the differentiation of the Son and the Spirit from the Father, the isle of Paradise and the Central universe came into being. (In actuality the Paradise Trinity, Paradise, and the Central Universe have always been in existence.) [0:3.15]"
+ },
+ "p2.034.pt": {
+  "n": "2",
+  "text": "The I AM has existential and potential qualities of reality expressed by the interaction of seven Absolutes:"
+ },
+ "p2.035.pt": {
+  "n": "1",
+  "text": ". The First Source and Center - The Universal Father."
+ },
+ "p2.036.pt": {
+  "n": "2",
+  "text": ". The Second Source and Center - The Eternal Son."
+ },
+ "p2.037.pt": {
+  "n": "3",
+  "text": ". The Third Source and Center - The Infinite Spirit."
+ },
+ "p2.038.pt": {
+  "n": "4",
+  "text": ". The Isle of Paradise - the source of all universe energy and gravity control."
+ },
+ "p2.039.pt": {
+  "n": "5",
+  "text": ". The Deity Absolute - the source of universe causational and personality potentials."
+ },
+ "p2.040.pt": {
+  "n": "6",
+  "text": ". The Unqualified Absolute - the source of universe static-reactive and infinite capacity potentials."
+ },
+ "p2.041.pt": {
+  "n": "7",
+  "text": ". The Universal Absolute - the source of universe unity and integration. [105:1]"
+ },
+ "p2.042.pt": {
+  "n": "3",
+  "text": "God, as the First Source and Center, is primal in relation to total reality and is limited only by volition. [0:12.2]"
+ },
+ "p2.043.q": {
+  "paras": [
+   {
+    "cit": "1:7.7",
+    "text": "The First Source and Center is that infinity who unqualifiedly transcends all mind, all matter, and all spirit."
+   }
+  ],
+  "refs": "[1:7.7]"
+ },
+ "p2.044.h": "Summary",
+ "p2.045.pt": {
+  "n": "1",
+  "text": "The Urantia Book achieves a coherent integration of trinitarian and process theologies, combining the best of the traditional concepts of God with the most meaningful of the present day dynamic concepts (Tillich, Teilhard de Chardin, Whitehead)."
+ },
+ "p2.046.pt": {
+  "n": "2",
+  "text": "Although the concept of God is greatly expanded in The Urantia Book, it is rooted in Judeo-Christian theological perspectives."
+ },
+ "p2.047.pt": {
+  "n": "3",
+  "text": "The chief contribution of The Urantia Book view of God is that it enlarges and integrates traditional concepts in a way which illuminates spiritual values while simultaneously stimulating new and creative thinking about theological and philosophical meanings."
+ },
+ "part3.title": "Cosmology",
+ "part3.lead": "The book presents an integrated physical and spiritual cosmology describing an extensive hierarchical system of spiritual administrative and ministering personalities.",
+ "p3.001.h": "Physical Cosmography",
+ "p3.002.pt": {
+  "n": "1",
+  "text": "A simplified description of the astronomical universe from the center outward starts with the Isle of Paradise, which is surrounded by the one billion perfect pattern worlds of the central universe, Havona. This central creation is encompassed by seven evolutionary superuniverses with their trillions of inhabited planets, all of which, is encircled by four gigantic outer space levels. [12:1.3], [15:2.2]"
+ },
+ "p3.003.sp": {
+  "n": "a",
+  "text": "Paradise, the central universe, and the seven superuniverses all taken together is known as the Grand Universe which is inhabited."
+ },
+ "p3.004.sp": {
+  "n": "b",
+  "text": "The grand universe plus the four outer space levels, which are not now inhabited, is known as the Master Universe."
+ },
+ "p3.005.sp": {
+  "n": "c",
+  "text": "The superuniverses are subdivided into major and minor sectors, local universes, constellations, systems, and individual planets."
+ },
+ "p3.006.pt": {
+  "n": "2",
+  "text": "Paradise is the absolute source and eternal focal point of all energy-matter and material gravity. [11:8.2]"
+ },
+ "p3.007.pt": {
+  "n": "3",
+  "text": "This physical cosmography roughly parallels what is known or hypothesized by contemporary astronomy. Orvonton, the seventh superuniverse, for instance, is identified with the Milky Way galaxy and most of its major divisions have been identified by our astronomers. [15:2.10]"
+ },
+ "p3.008.pt": {
+  "n": "4",
+  "text": "The authors report that universe space expands and contracts in two billion year cycles. [11:5.9]  They make many comments which relate to present day astronomical concepts and data."
+ },
+ "p3.009.pt": {
+  "n": "5",
+  "text": "The authors, however, caution us that because of restrictions placed on revelatory activity, the science and cosmology of The Urantia Book are not inspired. While spiritual insight is a revelatory gift, human knowledge and wisdom must evolve. Very soon, they tell us, the science of The Urantia Book will be out grown. [101:4.2]"
+ },
+ "p3.010.p": "The Urantia Book's physical cosmology represents the best of human knowledge at the time of its compilation in the mid 1930s.",
+ "p3.011.h": "Spiritual Cosmology",
+ "p3.012.pt": {
+  "n": "1",
+  "text": "Postmortal morontial (part material, part spiritual) and spiritual activities and training take place on architectural spheres. These specially constructed headquarters worlds and their satellites are distributed throughout the grand universe paralleling the geographic and hierarchical cosmography of the material creations; systems, constellations, local universe headquarters, minor sectors, major sectors, superuniverse headquarters, the one billion spheres of the central universe, and the Isle of Paradise."
+ },
+ "p3.013.pt": {
+  "n": "2",
+  "text": "Presiding over each of these ascending spheres is a hierarchy of spiritual administrative personalities. At each level the spiritual activities and training become progressively higher."
+ },
+ "p3.014.sp": {
+  "n": "a",
+  "text": "Our system, Satania, is supervised by a Lanonandek Son, Lanaforge, who is known as our System sovereign. Lucifer at one time was our System Sovereign but was deposed following the Lucifer rebellion. [45:2.1]   [For information on the Lucifer rebellion, see \"The Lucifer Manifesto\", 53:3.1]"
+ },
+ "p3.015.sp": {
+  "n": "b",
+  "text": "Our constellation, Norlatiadek, is governed by three Vorondadek Sons who are known as the Most Highs. Because of the Lucifer rebellion they have been particularly active in the supervision of our planet. [43:3.1]"
+ },
+ "p3.016.sp": {
+  "n": "c",
+  "text": "Our local universe, Nebadon, composed of ten million inhabited worlds (when completed), is ruled by a Sovereign Michael Son often referred to as Christ Michael. Following his bestowal on our planet as Jesus of Nazareth, the Universal Father gave him complete authority in our universe. He is a perfect revelation of the Universal Father and the Eternal Son to all in our universe. All who go to the Father in our universe proceed through his loving local universe ministry. [33:1.1]"
+ },
+ "p3.017.pt": {
+  "n": "3",
+  "text": "The physical, mental, and spiritual aspects of the diverse levels of creation are integrated, correlated, and unified by a superb divine plan and an eternal purpose. [56:1.1]"
+ },
+ "p3.018.q": {
+  "paras": [
+   {
+    "cit": "56:10.14",
+    "text": "Every impulse of every electron, thought, or spirit is an acting unit in the whole universe ... The universe is a whole; no thing or being exists or lives in isolation."
+   }
+  ],
+  "refs": "[56:10.14]"
+ },
+ "part4.title": "Christology and the Plan of Salvation",
+ "part4.lead": "Jesus is portrayed as truly human and truly divine. In addition to being the savior of humanity he is pictured as a Creator Son much after the view presented in the prologue of John, Col. 1:15-16, and Hebrews 1:2.",
+ "p4.001.h": "The Divine Prebestowal Status of Jesus",
+ "p4.002.pt": {
+  "n": "1",
+  "text": "Jesus was the incarnation of a Creator Son of the order of Michael. He is known in our universe as Christ Michael. Dan. 12:1, Rev. 12:7, [21:0.1]"
+ },
+ "p4.003.sp": {
+  "n": "a",
+  "text": "The Creator Sons are created by the Universal Father and the Eternal Son. Each is unique in nature as well as personality. [21:0.5]"
+ },
+ "p4.004.sp": {
+  "n": "b",
+  "text": "They are the creators and rulers of the local universes as described in the prologue of the Gospel of John. John 1:1 - 18, Col. 1: 15 - 16, Heb. 1:2 Christ Michael is the creator of our universe, Nebadon. [21:2.1], [33:1]"
+ },
+ "p4.005.sp": {
+  "n": "c",
+  "text": "In their local universes these Creator Michaels are the \"only begotten son\". To a local universe, for all practical purposes, a Michael Son is God. None who live in his universe proceed to the Father except through his ministry. [5:3.6] John 14:6"
+ },
+ "p4.006.pt": {
+  "n": "2",
+  "text": "Each Michael Son must earn his sovereignty by incarnating in the likeness of the various orders of created beings in his universe. Jesus of Nazareth was the seventh and final bestowal of Christ Michael. [120:1] Christ now reigns as Sovereign in our universe. Matt. 28:18, John 12:32."
+ },
+ "p4.007.h": "The Bestowal of Christ Michael on Our Planet as Jesus of Nazareth",
+ "p4.008.pt": {
+  "n": "1",
+  "text": "The purposes of Jesus' mission were to:"
+ },
+ "p4.009.sp": {
+  "n": "a",
+  "text": "Reveal the Father. [128:0.2]"
+ },
+ "p4.010.sp": {
+  "n": "b",
+  "text": "Acquire mortal experience. [128:0.2], [129:3.7]"
+ },
+ "p4.011.sp": {
+  "n": "c",
+  "text": "Terminate the Lucifer rebellion. [134:8.9]"
+ },
+ "p4.012.sp": {
+  "n": "d",
+  "text": "Prepare the way for the universal bestowal of Thought Adjusters and the Spirit of Truth. [120:2.6]"
+ },
+ "p4.013.sp": {
+  "n": "e",
+  "text": "Become the inspiration for religious living for all of his universe. [120:2.7]"
+ },
+ "p4.014.sp": {
+  "n": "f",
+  "text": "Establish a new and living way from man to God. [129:4.7], [182:1.9]"
+ },
+ "p4.015.sp": {
+  "n": "g",
+  "text": "Acquire sovereignty. [120:0.2]"
+ },
+ "p4.016.pt": {
+  "n": "2",
+  "text": "Key events in the life of Jesus"
+ },
+ "p4.017.sp": {
+  "n": "a",
+  "text": "Jesus was born August 21st, 7 B. C. [119:6.2]"
+ },
+ "p4.018.sp": {
+  "n": "b",
+  "text": "The early training and education of Jesus was received in the home and synagogue. He graduated from the synagogue school during his 13th year. When he was 14 his father was killed in a construction accident and Jesus became the sole support and comfort of his family. [126:2.1]"
+ },
+ "p4.019.sp": {
+  "n": "c",
+  "text": "From the age of 15 to 26 Jesus served as the head of his family following which his brother, James took over the family responsibilities."
+ },
+ "p4.020.sp": {
+  "n": "d",
+  "text": "During the years from 27 to 32 Jesus conducted a private, personal ministry traveling widely about the Roman world and the Caspian Sea region and working in the Zebedee boat building shop."
+ },
+ "p4.021.sp": {
+  "n": "e",
+  "text": "Jesus was baptized by John the Baptist January 14th, 26 A. D. in his 32nd year. He spent most of the next year selecting and training his apostles. His public ministry began January 19th, 27 A. D., and terminated at his crucifixion April 7th, 30 A. D. [135:8.6], [141:1], [187:2.1]"
+ },
+ "p4.022.sp": {
+  "n": "f",
+  "text": "On April 9th, 30 A. D., Jesus came forth from the tomb with a morontia body -- the same kind of body mortals will have when they are resurrected from the sleep of death. [189:1.10]"
+ },
+ "p4.023.sp": {
+  "n": "g",
+  "text": "During his post-resurrection sojourn on our world Jesus made 19 appearances to mortals. His ascension took place May 18th, 30 A. D. [193:5.1]"
+ },
+ "p4.024.h": "The Plan of Salvation",
+ "p4.025.pt": {
+  "n": "1",
+  "text": "Jesus' death on the cross was not to atone for any sin of Adam or for man's supposed racial guilt. Jesus is a savior but not a ransomer or a redeemer. [See \"Meaning of the Death on the Cross, [188:4], [See also \"Lessons from the Cross\" [188:5]"
+ },
+ "p4.026.sp": {
+  "n": "a",
+  "text": "Evil, sin, and judgment are stern and sober realities in the universe; nevertheless, the Universal Father is not a spirit despot who requires blood sacrifice or atonement for sins. [188:5]"
+ },
+ "p4.027.q": {
+  "paras": [
+   {
+    "cit": "188:5.2",
+    "text": "The cross forever shows that the attitude of Jesus toward sinners was neither condemnation nor condonation, but rather eternal and loving salvation."
+   }
+  ],
+  "refs": "[188:5.2]"
+ },
+ "p4.028.sp": {
+  "n": "b",
+  "text": "By allowing misguided mortals to put him to death, Jesus made the cross an eternal symbol of the triumph of love over hate and the victory of truth over evil."
+ },
+ "p4.029.p": "The seven-fold plan of salvation offered by Jesus:",
+ "p4.030.p": "Salvation from material fetters in the personal realization of sonship with God, who is spirit.",
+ "p4.031.p": "Salvation from intellectual bondage: man shall know the truth, and the truth shall set him free.",
+ "p4.032.p": "Salvation from spiritual blindness, the human realization of the fraternity of mortal beings and the morontian awareness of the brotherhood of all universe creatures; the service-discovery of spiritual reality and the ministry-revelation of the goodness of spirit values.",
+ "p4.033.p": "Salvation from incompleteness of self through the attainment of the spirit levels of the universe and through the eventual realization of the harmony of Havona and the perfection of Paradise.",
+ "p4.034.p": "Salvation from self, deliverance from the limitations of self-consciousness through the attainment of the cosmic levels of the Supreme mind and by co-ordination with the attainments of all other self-conscious beings.",
+ "p4.035.p": "Salvation from time, the achievement of an eternal life of unending progression in God-recognition and God-service.",
+ "p4.036.p": "Salvation from the finite, the perfected oneness with Deity in and through the Supreme by which the creature attempts the transcendental discovery of the Ultimate on the postfinaliter levels of the absonite. [101:6.8]",
+ "p4.037.pt": {
+  "n": "2",
+  "text": "Survival after death is determined by the affirmation of truth, beauty, and goodness (God) as the person sincerely understands these values. We are saved by faith. [5:1], [5:5.13]"
+ },
+ "p4.038.pt": {
+  "n": "3",
+  "text": "Death works no magic whereby we are instantaneously transformed from animal-origin material beings into perfect spirit beings. We advance in the universe by evolutionary growth and experience. The entire universe is a vast school for perfecting mortals."
+ },
+ "p4.039.sp": {
+  "n": "a",
+  "text": "This is because of the Father's supreme mandate:"
+ },
+ "p4.040.q": {
+  "paras": [
+   {
+    "cit": "1:0.3",
+    "text": "From the Universal Father who inhabits eternity there has gone forth the supreme mandate, \"Be you perfect, even as I am perfect.\" In love and mercy the messengers of Paradise have carried this divine exhortation down through the ages and out through the universes, even to such lowly animal-origin creatures as the human races of Urantia."
+   }
+  ],
+  "refs": "[1:0.3]"
+ },
+ "p4.041.sp": {
+  "n": "b",
+  "text": "We have a long Paradise journey ahead:"
+ },
+ "p4.042.q": {
+  "paras": [
+   {
+    "cit": "31:10.20",
+    "text": "Evolutionary mortals are born on the planets of space, pass through the morontia worlds, ascend the spirit universes, traverse the Havona spheres, find God, attain Paradise, and are mustered into the primary Corps of the Finality, therein to await the next assignment of universe service. ... And as we view this sublime spectacle, we all exclaim: What a glorious destiny for the animal-origin children of time, the material sons of space!"
+   }
+  ],
+  "refs": "[31:10.10]"
+ },
+ "p4.043.pt": {
+  "n": "4",
+  "text": "In spite of the imperfection, suffering, and disappointments, which are a part of this life, we have ahead a great destiny of boundless opportunity, unlimited progress, and endless service. [32:5], [108:6.8]"
+ },
+ "p4.044.q": {
+  "paras": [
+   {
+    "cit": "23:2.12",
+    "text": "The confusion and turmoil of Urantia do not signify that the Paradise Rulers lack either interest or ability to manage affairs differently. The Creators are possessed of full power to make Urantia a veritable paradise, but such an Eden would not contribute to the development of those strong, noble, and experienced characters which the Gods are so surely forging out on your world between the anvils of necessity and the hammers of anguish. Your anxieties and sorrows, your trials and disappointments, are just as much a part of the divine plan on your sphere as are the exquisite perfection and infinite adaptation of all things to their supreme purpose on the worlds of the central and perfect universe."
+   }
+  ],
+  "refs": "[23:2.5]"
+ },
+ "part5.title": "The Church and the Kingdom of Heaven",
+ "part5.lead": "Religious institutions have value but are only social institutions. The Kingdom of God is a spiritual relationship with God and other human beings which transcends social institutions.",
+ "p5.001.h": "Distinctions between the Church and Jesus' Concept of the Kingdom of Heaven",
+ "p5.002.p": "The church is largely a social institution; the Kingdom of heaven is a spiritual relationship.",
+ "p5.003.pt": {
+  "n": "1",
+  "text": "The Christian Church."
+ },
+ "p5.004.sp": {
+  "n": "a",
+  "text": "Christianity often promotes a religion about Jesus; the kingdom of heaven is the religion of Jesus."
+ },
+ "p5.005.q": {
+  "paras": [
+   {
+    "cit": "196:2.6",
+    "text": "Jesus founded the religion of personal experience in doing the will of God and serving the human brotherhood; Paul founded a religion in which the glorified Jesus became the object of worship and the brotherhood consisted of fellow believers in the divine Christ."
+   }
+  ],
+  "refs": "[196:2.6]"
+ },
+ "p5.006.sp": {
+  "n": "b",
+  "text": "The church has become the socialized and humanized shadow of the spiritual brotherhood and has often taken the place of Jesus' concept of the kingdom of Heaven. [170:5:12]"
+ },
+ "p5.007.q": {
+  "paras": [
+   {
+    "cit": "170:5.7",
+    "text": "The church, as a social outgrowth of the kingdom, would have been wholly natural and even desirable.  The evil of the church was not its existence, but rather that it almost completely supplanted the Jesus concept of the kingdom."
+   }
+  ],
+  "refs": "[170:5.5]"
+ },
+ "p5.008.q": {
+  "paras": [
+   {
+    "cit": "170:5.18",
+    "text": "And so, for centuries, the Christian church has labored under great embarrassment because it dared to lay claim to those mysterious powers and privileges of the kingdom, powers and privileges which can be exercised and experienced only between Jesus and his spiritual believer brothers."
+   }
+  ],
+  "refs": "[170:5.18]"
+ },
+ "p5.009.sp": {
+  "n": "c",
+  "text": "In order to control the dynamic religion of Jesus the church has thoroughly traditionalized, dogmatized, and institutionalized it -- thus unwittingly becoming an obstacle to the growth of the real teachings of Jesus and the fellowship of believers. [99:2.6], [195:10.8]"
+ },
+ "p5.010.sp": {
+  "n": "d",
+  "text": "Secularism broke the bonds of church authoritarianism but now threatens to establish a godless society. Many Christians are unwittingly secularists. [195:8.3]"
+ },
+ "p5.011.pt": {
+  "n": "2",
+  "text": "The Kingdom of Heaven."
+ },
+ "p5.012.sp": {
+  "n": "a",
+  "text": "The kingdom of heaven is an inner spiritual relationship centered in the truth of the Fatherhood of God and the brotherhood of man. It is the rule of God in the hearts of men."
+ },
+ "p5.013.q": {
+  "paras": [
+   {
+    "cit": "170:1.13",
+    "text": "Concerning the kingdom, his last word always was, \"The kingdom is within you.\""
+   }
+  ],
+  "refs": "[170:1.13], Luke 17:21"
+ },
+ "p5.014.q": {
+  "paras": [
+   {
+    "cit": "170:5.11",
+    "text": "To Jesus the kingdom was the sum of those individuals who had confessed their faith in the fatherhood of God, thereby declaring their wholehearted dedication to the doing of the will of God, thus becoming members of the spiritual brotherhood of man."
+   }
+  ],
+  "refs": "[170:5.11]"
+ },
+ "p5.015.sp": {
+  "n": "b",
+  "text": "The essentials of entering the kingdom are faith, sincerity, and the hunger for truth, beauty, and goodness. [170:2.18]"
+ },
+ "p5.016.sp": {
+  "n": "c",
+  "text": "The cardinal features of the kingdom are:"
+ },
+ "p5.017.p": "l). The Pre-eminence of the individual.",
+ "p5.018.pt": {
+  "n": "2",
+  "text": ". The will as the determining factor in human experience."
+ },
+ "p5.019.pt": {
+  "n": "3",
+  "text": ". Spiritual fellowship with God the Father."
+ },
+ "p5.020.pt": {
+  "n": "4",
+  "text": ". The supreme satisfaction of the loving service of man."
+ },
+ "p5.021.pt": {
+  "n": "5",
+  "text": ". The transcendency of the spiritual over the material in human personality. [170:4.1]"
+ },
+ "p5.022.h": "The Social Dynamics of Religious Institutions",
+ "p5.023.pt": {
+  "n": "1",
+  "text": "The dangers of religious Institutionalism."
+ },
+ "p5.024.q": {
+  "paras": [
+   {
+    "cit": "99:6.3",
+    "text": "But as religion becomes institutionalized, its power for good is curtailed, while the possibilities for evil are greatly multiplied. The dangers of formalized religion are: fixation of beliefs and crystallization of sentiments; accumulation of vested interests with increase of secularization; tendency to standardize and fossilize truth; diversion of religion from the service of God to the service of the church; inclination of leaders to become administrators instead of ministers; tendency to form sects and competitive divisions; establishment of oppressive ecclesiastical authority; creation of the aristocratic \"chosen-people\" attitude; fostering of false and exaggerated ideas of sacredness; the routinizing of religion and the petrification of worship; tendency to venerate the past while ignoring present demands; failure to make up-to-date interpretations of religion; entanglement with functions of secular institutions; it creates the evil discrimination of religious castes; it becomes an intolerant judge of orthodoxy; it fails to hold the interest of adventurous youth and gradually loses the saving message of the gospel of eternal salvation."
+   }
+  ],
+  "refs": "[99:6.3]"
+ },
+ "p5.025.pt": {
+  "n": "2",
+  "text": "The need and purpose of religious institutions:"
+ },
+ "p5.026.q": {
+  "paras": [
+   {
+    "cit": "99:6.2",
+    "text": "There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty, and goodness; to foster the attractions of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship. And all live religions encourage human friendship, conserve morality, promote neighborhood welfare, and facilitate the spread of the essential gospel of their respective messages of eternal salvation."
+   }
+  ],
+  "refs": "[99:6.2]"
+ },
+ "p5.027.pt": {
+  "n": "3",
+  "text": "Religion, religious institutions or religious groups should not become organically involved in secular work, social reconstruction, or economic reorganization, but as civilization advances they should constantly update their religious position by making vigorous restatements of their moral mandates and spiritual principles. [99:1.6]"
+ },
+ "p5.028.sp": {
+  "n": "a",
+  "text": "It is wise for religious groups to confine their activities to religious causes. [99:2.3], [195:10.13], [195:10.20,21]"
+ },
+ "p5.029.sp": {
+  "n": "b",
+  "text": "Religionists should function in society, in industry, and in politics as individuals, not as religious groups. [99:3.9]"
+ },
+ "p5.030.h": "Jesus' Concept of the Kingdom Will Prevail",
+ "p5.031.pt": {
+  "n": "1",
+  "text": "In spite of its limitations, Christianity is the best religion of the twentieth century. It is one of the greatest powers for good on earth. [195:10.9]"
+ },
+ "p5.032.pt": {
+  "n": "2",
+  "text": "The church is the larval stage of the thwarted spiritual kingdom. The kingdom inaugurated by Jesus is still alive and will emerge as the dominant spiritual force on our planet. [170:5.21]"
+ },
+ "p5.033.pt": {
+  "n": "3",
+  "text": "We are living in one of the pivotal periods of history."
+ },
+ "p5.034.q": {
+  "paras": [
+   {
+    "cit": "195:9.5",
+    "text": "The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity--the real life and teachings of Jesus."
+   }
+  ],
+  "refs": "[195:9.5]"
+ },
+ "p5.035.q": {
+  "paras": [
+   {
+    "cit": "196:1.2",
+    "text": "The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries."
+   }
+  ],
+  "refs": "[196:1.2]"
+ },
+ "p5.036.q": {
+  "paras": [
+   {
+    "cit": "195:9.2",
+    "text": "But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth.  A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism.  Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment."
+   }
+  ],
+  "refs": "[195:9.2]"
+ },
+ "p5.037.q": {
+  "paras": [
+   {
+    "cit": "195:9.4",
+    "text": "Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings ... who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world."
+   }
+  ],
+  "refs": "[195:9.4]"
+ },
+ "p5.038.q": {
+  "paras": [
+   {
+    "cit": "195:10.6",
+    "text": "The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh."
+   }
+  ],
+  "refs": "[195:10.6]"
+ },
+ "p5.039.h": "The Kingdom of God is an invisible and Spiritual Brotherhood which is Destined to become a Living Organism Transcending Social Institutions",
+ "p5.040.p": "Religionists are challenged to find spiritual unity, not intellectual uniformity.",
+ "p5.041.pt": {
+  "n": "1",
+  "text": "Spiritual unity is based on common ideals, purposes, and goals, not on the same theological beliefs and creeds."
+ },
+ "p5.042.q": {
+  "paras": [
+   {
+    "cit": "103:5.12",
+    "text": "There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members."
+   }
+  ],
+  "refs": "[103:5.12]"
+ },
+ "p5.043.q": {
+  "paras": [
+   {
+    "cit": "170:5.20",
+    "text": "This pitiful subdivision of Christian believers results from failure to discern in the Master's manifold teachings the divine oneness of his matchless life. But someday the true believers in Jesus will not be thus spiritually divided in their attitude before unbelievers. Always we may have diversity of intellectual comprehension and interpretation, even varying degrees of socialization, but lack of spiritual brotherhood is both inexcusable and reprehensible."
+   }
+  ],
+  "refs": "[170:5.20]"
+ },
+ "p5.044.q": {
+  "paras": [
+   {
+    "cit": "195:10.14",
+    "text": "But in this brotherhood of Jesus there is no place for sectarian rivalry, group bitterness, nor assertions of moral superiority and spiritual infallibility."
+   }
+  ],
+  "refs": "[195:10.14]"
+ },
+ "p5.045.pt": {
+  "n": "2",
+  "text": "The great hope for our world is that this expanded revelation of truth will unite the churches and religions of our planet in common and fraternal purposes and ideals."
+ },
+ "p5.046.q": {
+  "paras": [
+   {
+    "cit": "195:10.16",
+    "text": "The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers."
+   }
+  ],
+  "refs": "[195:10.16]"
+ },
+ "p5.047.h": "Summary",
+ "p5.048.pt": {
+  "n": "1",
+  "text": "The Urantia Book presents an ecumenical approach to religion. It emphasizes that you may belong to any religious group or to no religious group and still be in the kingdom of God."
+ },
+ "p5.049.pt": {
+  "n": "2",
+  "text": "Its evolutionary, universe oriented frames of reference free us from the compulsive desire to \"save\" people by urging them to adopt our religious or philosophic views. It helps us to be patient, understanding, and loving with the immature, the fearful, the angry, and the egocentric people of the world. The Urantia Book helps us, as humankind has seldom been helped, to identify with the world-wide family of God."
+ },
+ "part6.title": "Prayer and Worship",
+ "part6.lead": "The nature and effect of prayer and worship are dealt with in detail and guidelines for more effective prayer are provided.  Worship is the highest privilege and the first duty of all created intelligences.",
+ "p6.001.h": "The Distinction between Prayer and Worship and their Relational Aspects",
+ "p6.002.pt": {
+  "n": "1",
+  "text": "Prayer has an element of self or creature interest and concern. Worship is the contemplation of God; it is an end in itself."
+ },
+ "p6.003.q": {
+  "paras": [
+   {
+    "cit": "5:3.3",
+    "text": "Worship is for its own sake; prayer embodies a self- or creature-interest element; that is the great difference between worship and prayer."
+   }
+  ],
+  "refs": "[5:3.3]"
+ },
+ "p6.004.q": {
+  "paras": [
+   {
+    "cit": "143:7.7",
+    "text": "Prayer is self-reminding--sublime thinking; worship is self-forgetting--superthinking."
+   }
+  ],
+  "refs": "[143:7.7]"
+ },
+ "p6.005.pt": {
+  "n": "2",
+  "text": "Prayer may lead to worship and be an aid to worship."
+ },
+ "p6.006.q": {
+  "paras": [
+   {
+    "cit": "144:4.8",
+    "text": "As prayer may be likened to recharging the spiritual batteries of the soul, so worship may be compared to the act of tuning in the soul to catch the universe broadcasts of the infinite spirit of the Universal Father."
+   }
+  ],
+  "refs": "[144:4.8]"
+ },
+ "p6.007.h": "The Nature and Effect of Prayer",
+ "p6.008.pt": {
+  "n": "1",
+  "text": "The nature of prayer."
+ },
+ "p6.009.sp": {
+  "n": "a",
+  "text": "Prayer is communication with God designed to expand insight. [143:7], [168:4.3]"
+ },
+ "p6.010.sp": {
+  "n": "b",
+  "text": "Prayer is both a sound psychological practise which augments self-realization and an effective spiritual technique to expand the soul. [91:3.4,5], [91:6.3,4], [144:4.8]"
+ },
+ "p6.011.sp": {
+  "n": "c",
+  "text": "Prayer is not a technique to escape life's difficulties, but a way in which we can learn to face conflict and suffering meaningfully and courageously. Prayer does not change God's mind, but it may change the person praying. [91:8], [144:2], [144:4]"
+ },
+ "p6.012.pt": {
+  "n": "2",
+  "text": "The distortion of prayer."
+ },
+ "p6.013.sp": {
+  "n": "a",
+  "text": "Primitive and immature prayer attempts to plead or bargain with God for health, wealth, power, or preference."
+ },
+ "p6.014.q": {
+  "paras": [
+   {
+    "cit": "89:8.8",
+    "text": "Early prayer was hardly worship; it was a bargaining petition for health, wealth, and life. And in many respects prayers have not much changed with the passing of the ages."
+   }
+  ],
+  "refs": "[89:8.8]"
+ },
+ "p6.015.q": {
+  "paras": [
+   {
+    "cit": "91:6.1",
+    "text": "Prayer, unless in liaison with the will and actions of the personal spiritual forces and material supervisors of a realm, can have no direct effect upon one's physical environment. While there is a very definite limit to the province of the petitions of prayer, such limits do not equally apply to the faith of those who pray."
+   }
+  ],
+  "refs": "[91:6.1]"
+ },
+ "p6.016.q": {
+  "paras": [
+   {
+    "cit": "91:6.2",
+    "text": "Prayer is not a technique for curing real and organic diseases, but it has contributed enormously to the enjoyment of abundant health and to the cure of numerous mental, emotional, and nervous ailments. And even in actual bacterial disease, prayer has many times added to the efficacy of other remedial procedures. Prayer has turned many an irritable and complaining invalid into a paragon of patience and made him an inspiration to all other human sufferers."
+   }
+  ],
+  "refs": "[91:6.2]"
+ },
+ "p6.017.sp": {
+  "n": "b",
+  "text": "Prayer cannot be used to circumvent universe laws and the limitations of time and space."
+ },
+ "p6.018.q": {
+  "paras": [
+   {
+    "cit": "146:2.3",
+    "text": "That prayer which is inconsistent with the known and established laws of God is an abomination to the Paradise Deities."
+   }
+  ],
+  "refs": "[146:2.3]"
+ },
+ "p6.019.q": {
+  "paras": [
+   {
+    "cit": "146:2.9",
+    "text": "Prayer may not be employed to avoid the delays of time or to transcend the handicaps of space."
+   }
+  ],
+  "refs": "[146:2.9]"
+ },
+ "p6.020.pt": {
+  "n": "3",
+  "text": "Conditions of effective prayer"
+ },
+ "p6.021.sp": {
+  "n": "a",
+  "text": "Words are not important to prayer; God responds only to the true and sincere attitudes of the mind and soul."
+ },
+ "p6.022.q": {
+  "paras": [
+   {
+    "cit": "91:8.12",
+    "text": "Words are irrelevant to prayer; they are merely the intellectual channel in which the river of spiritual supplication may chance to flow. The word value of a prayer is purely autosuggestive in private devotions and sociosuggestive in group devotions. God answers the soul's attitude, not the words."
+   }
+  ],
+  "refs": "[91:8.12]"
+ },
+ "p6.023.sp": {
+  "n": "b",
+  "text": "We should pray for divine guidance to solve our human problems, not for some cosmic, miraculous solution. [91:9]"
+ },
+ "p6.024.sp": {
+  "n": "c",
+  "text": "To pray effectively you must face reality honestly and intelligently, attempt to solve problems by the resources which you have, be dedicated to doing the will of God, and have living faith."
+ },
+ "p6.025.q": {
+  "paras": [
+   {
+    "cit": "91:9.1",
+    "text": "If you would engage in effective praying, you should bear in mind the laws of prevailing petitions:"
+   },
+   {
+    "cit": "91:9.2",
+    "text": "1. You must qualify as a potent prayer by sincerely and courageously facing the problems of universe reality. You must possess cosmic stamina."
+   },
+   {
+    "cit": "91:9.3",
+    "text": "2. You must have honestly exhausted the human capacity for human adjustment. You must have been industrious."
+   },
+   {
+    "cit": "91:9.4",
+    "text": "3. You must surrender every wish of mind and every craving of soul to the transforming embrace of spiritual growth. You must have experienced an enhancement of meanings and an elevation of values."
+   },
+   {
+    "cit": "91:9.5",
+    "text": "4. You must make a wholehearted choice of the divine will. You must obliterate the dead center of indecision."
+   },
+   {
+    "cit": "91:9.6",
+    "text": "5. You not only recognize the Father's will and choose to do it, but you have effected an unqualified consecration, and a dynamic dedication, to the actual doing of the Father's will."
+   },
+   {
+    "cit": "91:9.7",
+    "text": "6. Your prayer will be directed exclusively for divine wisdom to solve the specific human problems encountered in the Paradise ascension--the attainment of divine perfection."
+   },
+   {
+    "cit": "91:9.8",
+    "text": "7. And you must have faith--living faith."
+   }
+  ],
+  "refs": "[91:9]"
+ },
+ "p6.026.q": {
+  "paras": [
+   {
+    "cit": "144:3.17",
+    "text": "Jesus taught that effective prayer must be:"
+   },
+   {
+    "cit": "144:3.18",
+    "text": "Unselfish--not alone for oneself"
+   },
+   {
+    "cit": "144:3.19",
+    "text": "Believing--according to faith"
+   },
+   {
+    "cit": "144:3.20",
+    "text": "Sincere--honest of heart"
+   },
+   {
+    "cit": "144:3.21",
+    "text": "Intelligent--according to light."
+   },
+   {
+    "cit": "144:3.22",
+    "text": "Trustful--in submission to the Father's all-wise will."
+   }
+  ],
+  "refs": "[144:3.8]"
+ },
+ "p6.027.sp": {
+  "n": "d",
+  "text": "We can learn much by observing the prayer life of Jesus. Prayer encompassed the total expression of his balanced and creative life on our world."
+ },
+ "p6.028.q": {
+  "paras": [
+   {
+    "cit": "196:0.10",
+    "text": "Jesus brought to God, as a man of the realm, the greatest of all offerings: the consecration and dedication of his own will to the majestic service of doing the divine will. Jesus always and consistently interpreted religion wholly in terms of the Father's will. When you study the career of the Master, as concerns prayer or any other feature of the religious life, look not so much for what he taught as for what he did. Jesus never prayed as a religious duty. To him prayer was a sincere expression of spiritual attitude, a declaration of soul loyalty, a recital of personal devotion, an expression of thanksgiving, an avoidance of emotional tension, a prevention of conflict, an exaltation of intellection, an ennoblement of desire, a vindication of moral decision, an enrichment of thought, an invigoration of higher inclinations, a consecration of impulse, a clarification of viewpoint, a declaration of faith, a transcendental surrender of will, a sublime assertion of confidence, a revelation of courage, the proclamation of discovery, a confession of supreme devotion, the validation of consecration, a technique for the adjustment of difficulties, and the mighty mobilization of the combined soul powers to withstand all human tendencies toward selfishness, evil, and sin. He lived just such a life of prayerful consecration to the doing of his Father's will and ended his life triumphantly with just such a prayer. The secret of his unparalleled religious life was this consciousness of the presence of God; and he attained it by intelligent prayer and sincere worship—unbroken communion with God—and not by leadings, voices, visions, or extraordinary religious practices."
+   }
+  ],
+  "refs": "[196:0.10]"
+ },
+ "p6.029.pt": {
+  "n": "4",
+  "text": "The answer to prayer"
+ },
+ "p6.030.sp": {
+  "n": "a",
+  "text": "Only prayers which are rooted in spiritual reality and sustained by faith are answered in the frames of reference of the petitioner. Prayers are answered in terms of true spiritual needs. [146:2]"
+ },
+ "p6.031.sp": {
+  "n": "b",
+  "text": "We should not attempt to use prayer as a substitute for human ingenuity and action. It cannot be used to escape reality. [91:4]"
+ },
+ "p6.032.sp": {
+  "n": "c",
+  "text": "Some prayers because of the visionary aspirations and all-encompassing nature can only be fully answered in eternity. [168:4.9]"
+ },
+ "p6.033.pt": {
+  "n": "5",
+  "text": "The effect of prayer"
+ },
+ "p6.034.sp": {
+  "n": "a",
+  "text": "Prayer is a vital and indispensable factor in spiritual growth. Even immature and futile prayers expand the soul's potential. [144:4.2]"
+ },
+ "p6.035.q": {
+  "paras": [
+   {
+    "cit": "91:8.9 91:8.10",
+    "text": "But real praying does attain reality. Even when the air currents are ascending, no bird can soar except by outstretched wings. Prayer elevates man because it is a technique of progressing by the utilization of the ascending spiritual currents of the universe. Genuine prayer adds to spiritual growth, modifies attitudes, and yields that satisfaction which comes from communion with divinity. It is a spontaneous outburst of God-consciousness."
+   }
+  ],
+  "refs": "[91:8.9]"
+ },
+ "p6.036.sp": {
+  "n": "b",
+  "text": "Prayer is a major resource for the achievement of human self-realization, effectiveness, and inner peace."
+ },
+ "p6.037.q": {
+  "paras": [
+   {
+    "cit": "91:4.5",
+    "text": "Remember, even if prayer does not change God, it very often effects great and lasting changes in the one who prays in faith and confident expectation. Prayer has been the ancestor of much peace of mind, cheerfulness, calmness, courage, self-mastery, and fair-mindedness in the men and women of the evolving races."
+   }
+  ],
+  "refs": "[91:4.5]"
+ },
+ "p6.038.sp": {
+  "n": "c",
+  "text": "Prayer has great social repercussions, and is an antidote to personality isolation. [91:3.7], [91:6.2]"
+ },
+ "p6.039.h": "The Nature and Effect of Worship",
+ "p6.040.pt": {
+  "n": "1",
+  "text": "Primitive forms of worship"
+ },
+ "p6.041.sp": {
+  "n": "a",
+  "text": "In man's long history he has worshipped almost everything. He has even deified and sainted himself. To the primitive mind fear and worship were virtually synonymous. [See Paper 91]"
+ },
+ "p6.042.q": {
+  "paras": [
+   {
+    "cit": "85:7.2",
+    "text": "You must remember that feeling, not thinking, was the guiding and controlling influence in all evolutionary development. To the primitive mind there is little difference between fearing, shunning, honoring, and worshiping."
+   }
+  ],
+  "refs": "[85:7.2]"
+ },
+ "p6.043.sp": {
+  "n": "b",
+  "text": "Worship should not be confused with psychic or mystical experience."
+ },
+ "p6.044.q": {
+  "paras": [
+   {
+    "cit": "100:5.10",
+    "text": "The direct communion with one's Thought Adjuster, such as occurred in the later years of Jesus' life in the flesh, should not be confused with these so-called mystical experiences. The factors which contribute to the initiation of mystic communion are indicative of the danger of such psychic states. The mystic status is favored by such things as: physical fatigue, fasting, psychic dissociation, profound aesthetic experiences, vivid sex impulses, fear, anxiety, rage, and wild dancing. Much of the material arising as a result of such preliminary preparation has its origin in the subconscious mind."
+   }
+  ],
+  "refs": "[100:5.10]"
+ },
+ "p6.045.pt": {
+  "n": "2",
+  "text": "Communion with God"
+ },
+ "p6.046.sp": {
+  "n": "a",
+  "text": "Worship is spiritual communion with God; it is the part identifying with the Whole."
+ },
+ "p6.047.q": {
+  "paras": [
+   {
+    "cit": "196:3.22",
+    "text": "True religious worship is not a futile monologue of self-deception. Worship is a personal communion with that which is divinely real, with that which is the very source of reality. Man aspires by worship to be better and thereby eventually attains the best."
+   }
+  ],
+  "refs": "[196:3.19]"
+ },
+ "p6.048.sp": {
+  "n": "b",
+  "text": "God-consciousness is man's greatest opportunity and challenge."
+ },
+ "p6.049.q": {
+  "paras": [
+   {
+    "cit": "196:3.34",
+    "text": "The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man's greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness--contact with the divine presence."
+   }
+  ],
+  "refs": "[196:3.31]"
+ },
+ "p6.050.pt": {
+  "n": "3",
+  "text": "Accompaniments of worship."
+ },
+ "p6.051.sp": {
+  "n": "a",
+  "text": "The atmosphere of simple beauty or nature and the structure of appealing ritual can be conducive to worship. [97:10.7], [167:6.6]"
+ },
+ "p6.052.sp": {
+  "n": "b",
+  "text": "Worship should alternate with service. [143:7]"
+ },
+ "p6.053.pt": {
+  "n": "4",
+  "text": "The effect of worship."
+ },
+ "p6.054.sp": {
+  "n": "a",
+  "text": "Worship is the most creative activity of man. It renews the mind, stimulates soul growth, eliminates insecurity and personality isolation, and greatly increases the total resources of the individual. [16:7], [100:2], [143:7], [160:1.10,11,12], [160:3.1]"
+ },
+ "p6.055.sp": {
+  "n": "b",
+  "text": "Worship is ancestor to the highest joys of man."
+ },
+ "p6.056.q": {
+  "paras": [
+   {
+    "cit": "27:7.1",
+    "text": "Worship is the highest privilege and the first duty of all created intelligences. Worship is the conscious and joyous act of recognizing and acknowledging the truth and fact of the intimate and personal relationships of the Creators with their creatures. The quality of worship is determined by the depth of creature perception; and as the knowledge of the infinite character of the Gods progresses, the act of worship becomes increasingly all-encompassing until it eventually attains the glory of the highest experiential delight and the most exquisite pleasure known to created beings."
+   }
+  ],
+  "refs": "[27:7.1]"
+ },
+ "p6.057.h": "Summary",
+ "p6.058.pt": {
+  "n": "1",
+  "text": "The Urantia Book clarifies the many facets of spiritual ministry which, heretofore, have been only vaguely sensed. The Urantia Book makes the spiritual world conceptually tangible and real, not just a vague, relatively formless mythology."
+ },
+ "p6.059.pt": {
+  "n": "2",
+  "text": "It takes the magic out of prayer and separates psychic and mystical states from worship. At the same time it makes prayer, worship, and service central in religious living. These teachings reinforce what is generally recognized as the best views and practices of prayer and worship in all the major religions of the world."
+ }
+}
