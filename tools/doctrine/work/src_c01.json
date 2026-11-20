@@ -1,0 +1,1304 @@
+{
+ "part:1": "God: The Starting Point of Every Doctrine",
+ "part:2": "The Universe and the Celestial Beings: How God Governs",
+ "part:3": "Man: Personality, Mind, Adjuster, and Soul",
+ "part:4": "The History of Mankind: Plan, Setback, and Recovery",
+ "part:5": "Jesus: The Life That Revealed God",
+ "part:6": "Salvation and the Religious Life: How Man Reaches God",
+ "part:7": "Christianity and The Urantia Book",
+ "audio:01": "Eternal Life",
+ "audio:02": "Faith",
+ "audio:03": "Salvation",
+ "audio:04": "The Kingdom of Heaven",
+ "audio:05": "Healing",
+ "audio:06": "Personality",
+ "audio:07": "The I AM",
+ "audio:08": "Thought Adjuster",
+ "audio:09": "Christology",
+ "audio:10": "Trinity",
+ "audio:11": "Christianity and The Urantia Book",
+ "audio:12": "The Destiny of the Soul",
+ "audio:13": "Angelology",
+ "audio:14": "The Will of God",
+ "audio:15": "Worship",
+ "audio:16": "Prayer",
+ "audio:17": "The Supreme Being",
+ "audio:18": "The Nature of Religion",
+ "audio:19": "Jesus of Nazareth",
+ "audio:20": "Structure and Administration of the Universe",
+ "audio:21": "Jesus' Last Week",
+ "audio:22": "The First Human: Andon and Fonta",
+ "audio:23": "Jesus' Teaching",
+ "audio:24": "Origin of Humanity and Races",
+ "audio:25": "Adam and Eve",
+ "audio:26": "Materialization",
+ "audio:27": "The Lucifer Rebellion",
+ "audio:28": "The Mind",
+ "audio:29": "The Sons of God",
+ "audio:30": "The Origin and Future of Christianity",
+ "ch00:label": "Preface",
+ "ch00:title": "Reading Doctrine as Logic",
+ "ch00:0": "The Urantia Book is a very large book. Beginning with the Foreword, it unfolds in four parts: the central and superuniverses, the local universe, the history of Urantia, and the life and teachings of Jesus. First-time readers are easily overwhelmed by its breadth, and even those who have read it for many years sometimes lose their way. The reason is that the teaching on any one doctrine is not gathered into a single paper but scattered across the whole book. Teaching about God appears in Paper 1, but also in Paper 105, in Paper 117, and in the papers on the life of Jesus.",
+ "ch00:1": "This book, Core Doctrines of The Urantia Book, is an attempt to gather those scattered teachings doctrine by doctrine and to set out the fundamental logic of each. What does The Urantia Book say about a given doctrine? Why does it say so? From what more fundamental doctrine does that teaching follow, and how is it connected with the other doctrines? And what does it mean for human life and experience? These four questions form the framework of the book. Each chapter builds a chain of reasoning in the order of definition, grounds, structure, and consequences, and every link in that chain is supported by quotations from the text of The Urantia Book.",
+ "ch00:2": "We read this way because The Urantia Book itself presents truth as an interconnected whole. Its doctrines are not isolated propositions. The doctrine of the I AM leads to the Trinity; the Trinity leads to the will of God and to the Supreme Being; and these lead in turn to the doctrines of human personality, the Adjuster, and the soul, and to the doctrines of salvation and ascension. Follow any one doctrine back to its grounds, and it becomes clear that the whole is a single teaching. The revelators do not ask us to do this by human reason alone. They say they know that within man there is a divine presence that helps him toward this understanding.",
+ "ch00:4": "To read doctrine as logic, then, is not to turn faith into theory. It is to hear exactly what the text says and to see how its statements fit together. To that end this book keeps a few principles. First, it uses no sources outside The Urantia Book. It does not present the views of other scholars or traditions, and even in the chapters on the Bible and Christian doctrine it stays within what The Urantia Book itself says. Second, it does not invent what the text does not say; the commentary confines itself to explaining, connecting, and comparing passages. Third, every quotation is taken word for word from The Urantia Book, and each carries its paper, section, and paragraph number, so that readers can check the surrounding context for themselves. Fourth, the chapters do not move through the papers in order. Even within a single chapter they range freely over the relevant passages of the whole book, following the logic of the doctrine at hand.",
+ "ch00:5": "The four chapters of Part One, for example, form a single chain. Chapter 1 sees that the will of the I AM stands at the very beginning of all reality. Chapter 2 asks why that will is expressed in the Trinity of Father, Son, and Spirit. Chapter 3 takes up God's eternal purpose, the will of God, and Chapter 4 takes up the Supreme Being, the God who grows as that purpose is realized in time. Because the conclusion of each chapter becomes the ground of the next, a first reading in order is recommended. Each chapter, however, has been written to stand on its own, so readers may also begin with whatever doctrine they need.",
+ "ch00:6": "The book is made up of thirty-two chapters in seven parts. It begins with God, the starting point of every doctrine, and moves through the way God governs the universe, the makeup of man, the history of mankind, the life of Jesus, and salvation and the religious life, arriving finally at the relationship between Christianity and The Urantia Book.",
+ "ch00:7": {
+  "cap": "Table P.1  The Plan of This Book and the Companion English Audiobooks",
+  "rows": [
+   [
+    "Part",
+    "Chapters",
+    "The Question It Addresses",
+    "English Audiobook Numbers"
+   ],
+   [
+    "Part 1: God",
+    "Chapters 1–4",
+    "Who is God, the starting point of every doctrine?",
+    "07, 10, 14, 17"
+   ],
+   [
+    "Part 2: The Universe and the Celestial Beings",
+    "Chapters 5–8",
+    "How does God constitute and govern the universe?",
+    "20, 29, 13, 26"
+   ],
+   [
+    "Part 3: Man",
+    "Chapters 9–12",
+    "What are personality, mind, the Adjuster, and the soul?",
+    "06, 28, 08, 12"
+   ],
+   [
+    "Part 4: The History of Mankind",
+    "Chapters 13–17",
+    "How does God's plan suffer setback on this planet, and how is it recovered?",
+    "22, 24, 27, 25, —"
+   ],
+   [
+    "Part 5: Jesus",
+    "Chapters 18–22",
+    "Who is Jesus, and how did his life reveal God?",
+    "19, 09, —, 23, 21"
+   ],
+   [
+    "Part 6: Salvation and the Religious Life",
+    "Chapters 23–30",
+    "How does man reach God?",
+    "03, 02, 04, 01, 18, 15, 16, 05"
+   ],
+   [
+    "Part 7: Christianity and The Urantia Book",
+    "Chapters 31–32",
+    "How are the teachings of Christianity related to The Urantia Book?",
+    "30, 11"
+   ]
+  ]
+ },
+ "ch00:8": "Each chapter contains four or five tables or more. The tables show the structure, classifications, and stages of a doctrine at a glance, and they set common misunderstandings side by side with the answers of the text. Every cell carries the number of the passage on which it rests, so that by following the tables alone the reader can retrace the logic of the chapter. At the end of each chapter there are three Questions for Reflection. Read alone, they can serve as starting points for meditation; in group study, as topics for discussion.",
+ "ch00:9": "This book has a companion series of audiobooks, but it is not a transcription of them. Where an audiobook unfolds a doctrine as commentary for the ear, this book lets the reader confirm, with the eye, the fundamental logic of that doctrine and its grounds in the text. The English audiobooks are available at urantiareaders.com, and wherever an English audiobook exists for a chapter, the chapter ends with a link and a QR code. In the ebook the link plays the audiobook directly; in the printed book, scan the QR code. You may first listen to an audiobook for the overall picture of a doctrine and then turn to the corresponding chapter to check its logic and text, or you may read the chapter first and then listen again to reflect on it. Moving back and forth between the two lets a doctrine settle in both mind and ear.",
+ "ch00:10": "What this book asks of its readers is not to memorize conclusions but to return to the text: to follow the cited passage numbers into The Urantia Book, to read what comes before and after, and to compare related passages in other papers. Read in this way, a doctrine becomes not knowledge received from others but truth confirmed for oneself. And that truth does not remain mere knowledge; it grows into the living experience of knowing God and serving man.",
+ "ch01:label": "Chapter 1",
+ "ch01:title": "The I AM",
+ "ch01:sub": "The Source of All Reality",
+ "ch01:0": "Every doctrine of The Urantia Book starts from God. The constitution of the universe, the celestial beings, the personality and soul of man, salvation and ascension: all of them trace back in the end to a single source. Yet before The Urantia Book speaks of the personality of the Universal Father, it sets in place a philosophic concept broader than that personality. This is the I AM. This chapter asks three questions. What is the I AM? Why does The Urantia Book need this concept? And how is it connected with the God whom man calls Father?",
+ "ch01:1": "1. Definition: The One Uncaused Cause",
+ "ch01:2": "Before the Foreword introduces the I AM as a being, it first makes clear what kind of concept this is. The concept arises from the limits a finite mind meets when it tries to think about eternity.",
+ "ch01:4": "The phrase philosophic concession is the first key to this doctrine. Human thought moves along the chain of cause and effect, so it cannot think about reality as a whole without placing one uncaused reality at the head of that chain. The revelators respect this need and place the I AM before all things. This concession is not a mere convenience. It is a foothold that enables man to think, if only a little, about the beginning and the end of reality.",
+ "ch01:6": "Only when we have some basis for thinking about origins can we think about destiny, for if man does not know where he came from, he cannot say where he is going. Paper 105, “Deity and Reality”, makes the content of this concept clearer.",
+ "ch01:8": "The I AM, therefore, is confined to no category. It is neither deified nor undeified, neither personal nor impersonal. “No qualification can be applied to the Infinite except to state that the I AM is.” (105:1.4) The name itself is the definition: he is. Alongside this concept the Foreword uses two others. Distinguishing the three will keep the discussion that follows from becoming confused.",
+ "ch01:9": {
+  "cap": "Table 1.1  Three Concepts That Point to the First Source and Center",
+  "rows": [
+   [
+    "Concept",
+    "Character as Stated in the Text",
+    "Source"
+   ],
+   [
+    "I AM",
+    "A creature-philosophic extension of the ‘infinity of will’; a philosophic concession to creatures who cannot comprehend nonbeginning realities",
+    "0:3.23, 0:3.24"
+   ],
+   [
+    "The Infinite (Father-Infinite)",
+    "An actual value-level representing the true infinity of the absolute and unfettered free will of the Universal Father",
+    "0:3.24"
+   ],
+   [
+    "Universal Father",
+    "That phase of the Infinite which we perceive in our personalities as an actual experiential reality",
+    "105:1.6"
+   ],
+   [
+    "First Source and Center",
+    "Primal in all domains; infinite as well as eternal, and limited only by volition",
+    "0:3.9, 0:3.11"
+   ]
+  ]
+ },
+ "ch01:10": "2. Grounds: Why a Beginning Must Be Assumed",
+ "ch01:11": "The doctrine of the I AM begins with a mind that lives in time trying to understand eternity. The revelators do not hide this. Because they must portray the origin of the universe to finite minds, they explain: “Therefore must many of the simultaneous events of eternity be presented as sequential transactions.” (0:3.20) Paper 105 pictures the hypothetical moment that serves as the starting point in this way.",
+ "ch01:13": "In this hypothetical static moment there is no differentiation at all. Actuals are still contained within their potentials, and potentials have not yet appeared. Yet at precisely this point the revelators say that one thing must be assumed: “But even in this conjectured situation we must assume the existence of the possibility of self-will.” (105:1.5) What stands at the very beginning of reality is not mechanical necessity but will. The Foreword describes the first act of that will as follows.",
+ "ch01:15": "This liberation was not achieved in solitude. In this first transaction the I AM became the Eternal Father of the Original Son and at the same time the Eternal Source of the Isle of Paradise, and in the presence of the Father and the Son the Infinite Spirit appeared (0:3.22). The Foreword adds what this coexistence meant for the Father.",
+ "ch01:17": "Were infinity alone, personality would be dispersed into infinity. Because the Father coexists with the Son and the Spirit, he remains a personality. This is why the doctrine of the I AM leads directly to the doctrine of the Trinity. But this sequence, told in the language of time, must not be taken literally. Whenever the revelators speak of a sequence, they add at once that it differs from the facts of eternity. The following table brings these pairs together.",
+ "ch01:18": {
+  "cap": "Table 1.2  The Language of Time and the Facts of Eternity",
+  "rows": [
+   [
+    "Statement in the Language of Time",
+    "The Fact of Eternity the Text Adds",
+    "Source"
+   ],
+   [
+    "The I AM was at first alone",
+    "There never was a time when the I AM was not the Father of the Son; the Son and the Spirit are coeternal with the I AM",
+    "0:3.23"
+   ],
+   [
+    "The seven Absolutes appeared one after another",
+    "The seven Absolutes had no beginning; they are eternal and have always been",
+    "105:3.1"
+   ],
+   [
+    "The First Source and Center is antecedent to all absolutes",
+    "That postulate is invalidated by the eternity coexistence of the Son, the Spirit, the three Absolutes, and the Paradise Isle",
+    "105:3.9"
+   ],
+   [
+    "There was a ‘first’ volitional expression",
+    "It is a theoretical moment postulated in order to portray the origins of reality",
+    "105:2.2"
+   ]
+  ]
+ },
+ "ch01:19": "3. Structure: Seven Relationships and Seven Absolutes",
+ "ch01:20": "The I AM does not remain solitary but differentiates itself. Paper 105 unfolds this differentiation in stages: the I AM as solitary, the I AM as triune, and at last the I AM as sevenfold (105:2.4). This self-metamorphosis gives rise to every branch of reality.",
+ "ch01:22": "Each of these seven phases is a fundamental relationship. In the first relationship the I AM becomes father of the Eternal Son; in the second, cause of eternal Paradise. The revelators sum up the difference between the two in one sentence: “The Universal Father is God-as-love; the Universal Controller is God-as-pattern.” (105:2.6) That the first of the seven phases is a personality relationship carries deep meaning for every doctrine in this book.",
+ "ch01:24": "If the very first relationship of reality is that of Father and Son, then for man to call God Father is not a figure of speech but something in keeping with the deepest structure of reality. The sonship of every personality has already been established as a possibility within this primal relationship. The same paragraph adds that this phase “is partially experiencible on spiritual levels even by mortals who, while yet in the flesh, may worship our Father.” (105:2.5) The remaining six phases are as follows.",
+ "ch01:25": {
+  "cap": "Table 1.3  The Seven Phases of the I AM",
+  "rows": [
+   [
+    "Phase",
+    "The I AM Is…",
+    "Reality in Which It Is Best Understood",
+    "Source"
+   ],
+   [
+    "1. The Universal Father",
+    "Father of the Eternal Son",
+    "The primal personality relationship of actualities",
+    "105:2.5"
+   ],
+   [
+    "2. The Universal Controller",
+    "Cause of eternal Paradise",
+    "The primal impersonal relationship; God-as-pattern",
+    "105:2.6"
+   ],
+   [
+    "3. The Universal Creator",
+    "One with the Eternal Son",
+    "The appearance of conjoint personality and the eternal universe (Havona)",
+    "105:2.7"
+   ],
+   [
+    "4. The Infinite Upholder",
+    "Self-associative",
+    "The Universal Absolute",
+    "105:2.8"
+   ],
+   [
+    "5. The Infinite Potential",
+    "Self-qualified",
+    "The Deity Absolute",
+    "105:2.9"
+   ],
+   [
+    "6. The Infinite Capacity",
+    "Static-reactive",
+    "The Unqualified Absolute",
+    "105:2.10"
+   ],
+   [
+    "7. The Universal One of Infinity",
+    "I AM as I AM",
+    "The self-relationship revealed in the divine Father of all personality",
+    "105:2.11"
+   ]
+  ]
+ },
+ "ch01:26": "These seven relationships eternalize as the seven Absolutes. The revelators say, “The seven Absolutes are the premise of reality.” (105:3.1) The seven Absolutes are in turn arranged in three groups: the Original, the origin of all things; the three Absolutes of actuality; and the three Absolutes of potentiality.",
+ "ch01:27": {
+  "cap": "Table 1.4  The Three Groupings of the Seven Absolutes",
+  "rows": [
+   [
+    "Group",
+    "Absolutes Included",
+    "Description in the Text",
+    "Source"
+   ],
+   [
+    "The Original",
+    "The First Source and Center",
+    "The source manifestation of the I AM from which all reality takes origin",
+    "115:3.6"
+   ],
+   [
+    "The Actual",
+    "The Eternal Son, the Infinite Spirit, the Paradise Isle",
+    "The actual revelation of the originality of the First Source and Center",
+    "115:3.7"
+   ],
+   [
+    "The Potential",
+    "The Deity, Unqualified, and Universal Absolutes",
+    "The potential revelation of the originality of the First Source and Center",
+    "115:3.8"
+   ]
+  ]
+ },
+ "ch01:29": "What deserves notice in this structure is that the diversity of the universe is not a division of the source. The seven Absolutes are not seven different gods; they are the eternalized forms of seven relationships that the one I AM sustains with itself. Reality is therefore both many and one. This principle of the many in the one will appear again, in other forms, in the Trinity of the next chapter and in the Supreme Being of Chapter 4.",
+ "ch01:30": "4. The Personal and the Impersonal",
+ "ch01:31": "Of the seven phases, the one with the greatest bearing on the doctrines of this whole book is the first division. The free will of the I AM divided reality into the personalizable and the nonpersonalizable. The Universal Absolute, we are told, “was inevitable” (0:11.10) in this very act. The personal leads to the Father, the Son, and the Spirit; the impersonal leads to Paradise and the potentials of space. Yet neither lies outside the First Source and Center.",
+ "ch01:33": "The Foreword shows in seven branches how this dependence appears in the universe. Matter, mind, spirit, and personality each converge on a different center, but all those centers have branched off from the same source.",
+ "ch01:34": {
+  "cap": "Table 1.5  The Branches of Reality and the Centers on Which They Converge",
+  "rows": [
+   [
+    "Branch of Reality",
+    "Center of Convergence",
+    "Source"
+   ],
+   [
+    "The gravity forces of the material universes",
+    "The gravity center of nether Paradise",
+    "0:3.13"
+   ],
+   [
+    "The mind forces",
+    "The Infinite Spirit (the cosmic mind in the Seven Master Spirits)",
+    "0:3.14"
+   ],
+   [
+    "The universe spirit forces",
+    "The Eternal Son",
+    "0:3.15"
+   ],
+   [
+    "The unlimited capacity for deity action",
+    "The Deity Absolute",
+    "0:3.16"
+   ],
+   [
+    "The unlimited capacity for infinity response",
+    "The Unqualified Absolute (the two Absolutes are unified in the Universal Absolute)",
+    "0:3.17, 0:3.18"
+   ],
+   [
+    "The potential personality of an evolutionary moral being",
+    "The personality of the Universal Father",
+    "0:3.19"
+   ]
+  ]
+ },
+ "ch01:35": "Between the realities thus differentiated there is tension. The infinite and the finite, eternity and time, the potential and the actual seem to stand opposed. The Foreword finds the reason the finite universe nonetheless exists without collapsing in the presence of the Universal Absolute.",
+ "ch01:37": "It is because of this balance that man can stand before God as a personality without being annihilated. A finite being is not a shadow of the infinite but a reality that has been given its place within the infinite.",
+ "ch01:38": "5. Consequences: The Father's Face Turned by the Infinite",
+ "ch01:39": "What does this doctrine mean for human faith? The revelators warn that the concept of the I AM can be dangerous, because it is so remote from experience as “to involve serious distortion of meanings and misconception of values” (105:1.2). So they clearly distinguish this philosophic concept from the Father whom man worships.",
+ "ch01:41": "This distinction calls for humility. The revelators say that knowing the Father as an infinity is not easy even for exalted beings.",
+ "ch01:43": "To think about the I AM is more a matter of faith than of knowledge. However vast the universe may be, it is no more than a partial revelation of the Infinite (105:1.7), and before it man can only acknowledge that he cannot know it all. But not being able to know it all does not mean that God is far away. Man cannot comprehend infinity, but infinity can limit itself and draw near to man. The logic of this chapter at last arrives at the following sentence.",
+ "ch01:45": "Three consequences follow. First, since all reality has come from one source, the universe is fundamentally one. Though matter, mind, and spirit seem to follow different laws, their roots are not divided. Second, since the first act of that source was will, there is purpose at the foundation of the universe. This purpose becomes the theme of Chapter 3, on the will of God. Third, whatever is connected with the I AM never comes to an end: “Whatsoever is identified with the I AM can never find an end to progression” (115:3.16). Here lies the ground on which man's ascension becomes an endless adventure. Speaking of the seventh phase, Paper 105 testifies that this source embraces every being.",
+ "ch01:47": "From the smallest particle to the greatest universe, from the past to the future, all is within the same source. Wherever man may stand, therefore, he has not been pushed outside of reality. This is the fundamental security that the doctrine of the I AM gives to man.",
+ "ch01:48": "In Closing: Knowing the Source",
+ "ch01:49": "The I AM is the one uncaused cause, the first postulate a finite mind sets up in order to think about eternity. What stood at that first moment was will; from the self-differentiation of that will the seven phases and the seven Absolutes were eternalized, and all reality stands upon those relationships. Yet this infinity does not remain a cold abstraction to man; it turns toward him the face of a Father. In that first relationship the I AM became the Father of the Son and, with the Son, the source of the Spirit. The next chapter considers how these three Deities constitute the one Paradise Trinity.",
+ "ch01:50": {
+  "title": "Questions for Reflection",
+  "items": [
+   "1. If the I AM is a philosophic concession to the finite mind (0:3.23), how does my attitude differ when I accept this concept and when I worship the Universal Father?",
+   "2. What does the teaching that free will, not mechanical necessity, stands at the very beginning of reality (0:3.21) change in the way I see the universe and my own life?",
+   "3. If the face the Infinite turns toward all personalities is the face of a Father (105:1.8), which do I choose before the unknowable: fear or trust?"
+  ]
+ },
+ "ch02:label": "Chapter 2",
+ "ch02:title": "The Trinity",
+ "ch02:sub": "Why God Is Three and Yet One",
+ "ch02:0": "As we saw in Chapter 1, the first relationship of the I AM was that of Father and Son, and in the presence of the Father and the Son the Infinite Spirit appeared. How are these three one? The Urantia Book answers this question with the doctrine of the Paradise Trinity. This chapter defines what the Trinity is, examines why the revelators call the Trinity the one inevitability in the universe, asks how the three persons are distinguished from the one Trinity, and considers in turn what this doctrine means for human faith and life.",
+ "ch02:1": "1. Definition: The Undivided Deity of Three Persons",
+ "ch02:2": "At its opening, Paper 10, “The Paradise Trinity”, defines the Trinity in a single sentence. God is not divided into three, and the three persons do not dissolve and vanish into one.",
+ "ch02:4": "This definition has two axes. One is that all three persons are original, co-ordinate, and coexistent; the other is that the three form a divine oneness. The three persons are not copies of one another: “none is a duplicate; each is original; all are united.” (10:2.6) The relationship of the three persons is described in a sequence, but that sequence is not a before and after in time; it is a structure of relationship. The Father gives the fullness of himself to the Son, and the Father and the Son together constitute the third person.",
+ "ch02:6": "The Son comes from the self-bestowal of the Father, and the Spirit from the conjoint bestowal of the Father and the Son, yet neither came into being later. All three are eternal, and this relationship of bestowal is precisely what determines the unique place of each. The Foreword distinguishes who each of the three persons is by means of titles.",
+ "ch02:7": {
+  "cap": "Table 2.1  The Titles and Unique Places of the Three Deities",
+  "rows": [
+   [
+    "Deity",
+    "Title in the Foreword",
+    "Description in Paper 10",
+    "Source"
+   ],
+   [
+    "God the Father",
+    "Creator, Controller, and Upholder; the First Person of Deity",
+    "The infinite father-personality, the unlimited source personality",
+    "0:2.12, 10:2.4"
+   ],
+   [
+    "God the Son",
+    "Co-ordinate Creator, Spirit Controller, and Spiritual Administrator; the Second Person of Deity",
+    "The unqualified personality-absolute, the perfect revelation of the personal nature of God",
+    "0:2.13, 10:2.4"
+   ],
+   [
+    "God the Spirit",
+    "Conjoint Actor, Universal Integrator, and Mind Bestower; the Third Person of Deity",
+    "The conjoint personality, the unique personal consequence of the everlasting Father-Son union",
+    "0:2.14, 10:2.4"
+   ]
+  ]
+ },
+ "ch02:8": "Is the Trinity itself, then, a fourth person? Paper 104, “Growth of the Trinity Concept”, answers clearly that it is not. The Trinity is a unique Deity reality, real though not a personality.",
+ "ch02:10": "2. Grounds: Why There Must Be Three",
+ "ch02:11": "The revelators do not regard the Trinity as one possibility among many. Everything else in the universe, they say, might have been otherwise, but not the Trinity.",
+ "ch02:13": "Why is it inevitable? The first ground lies in fatherhood itself. A First Source and Center without a Son “could not in any sense of the word be considered the Universal Father” (10:3.5). The same paragraph says it briefly: “fatherhood is not real without sonship.” (10:3.5) For God to be Father, there must eternally be a Son. And in fact there was never a moment when the Father was alone.",
+ "ch02:15": "The second ground lies in the nature of divine personality. Personality is not shut up in itself; it shares itself.",
+ "ch02:17": "Sharing is not a defect of divine personality but its very nature. The Father's sharing of the reality of being with the Son and the Spirit is the first expression of this nature, and every delegation and bestowal that takes place in the universe is its extension. The third ground is liberation from the limits of absoluteness. Had the Father existed alone as an absolute personality, that absoluteness would have become a fetter. The opening of Paper 10 describes this liberation as follows.",
+ "ch02:19": "What is absolute has no room to move, and an infinite will must find a place to express itself. The Trinity safeguards both together. The absoluteness of Deity is fully preserved within the Trinity, and the personal will of the Father is expressed without limit through the Son and the Spirit and their children. By giving absoluteness of personality to the Son, the Father escapes from that fetter.",
+ "ch02:21": "Fourth, the revelators also note that three persons form a minimum social group, but they add that “this is least of all the many reasons for believing in the inevitability of the Conjoint Actor.” (10:2.3) The fifth ground comes from the side of philosophy. In human thought a solitary God is eventually reduced to an impersonal Absolute. “Personality in Deity demands that such Deity exist in relation to other and equal personal Deity.” (104:2.2) Gathered together, these grounds are as follows.",
+ "ch02:22": {
+  "cap": "Table 2.2  Five Grounds for the Inevitability of the Trinity",
+  "rows": [
+   [
+    "Ground",
+    "Logic",
+    "Source"
+   ],
+   [
+    "Fatherhood",
+    "A source without a Son is not a Father; fatherhood is not real without sonship",
+    "10:3.5"
+   ],
+   [
+    "The nature of personality",
+    "Divine personality is not self-centered but shares itself",
+    "10:1.3"
+   ],
+   [
+    "Liberation from absoluteness",
+    "By giving absoluteness of personality to the Son, the Father escapes from the fetters of personality absolutism",
+    "10:0.1, 10:3.7"
+   ],
+   [
+    "The minimum social group",
+    "Three persons are a minimum social group (the least of the reasons)",
+    "10:2.3"
+   ],
+   [
+    "Preserving the concept of personality",
+    "Without relationship to other and equal personalities, God is reduced to a pantheistic Absolute",
+    "104:2.2"
+   ]
+  ]
+ },
+ "ch02:23": "3. Structure: Three Persons and One Union",
+ "ch02:24": "How do the three persons and the one Trinity exist together? While admitting that this mystery cannot be fully solved, the revelators offer a crude illustration that man can grasp.",
+ "ch02:26": "The point of this illustration is that the three persons working together as individuals is different from their working as the Trinity. The revelators say, “As persons they can collaborate as they choose, but that is not the Trinity.” (10:4.4) And the functions of the Trinity are more than the sum of the attributes of the three. Just as a human family or community is more than the sum of its members, “The group potential is always far in excess of the simple sum of the attributes of the component individuals.” (10:5.2) This distinction becomes clearer when the personal Deities are compared with the Trinity.",
+ "ch02:27": {
+  "cap": "Table 2.3  The Personal Deities Compared with the Trinity",
+  "rows": [
+   [
+    "Point of Comparison",
+    "Father, Son, and Spirit (as Persons)",
+    "The Paradise Trinity",
+    "Source"
+   ],
+   [
+    "What they have",
+    "They have attributes",
+    "Functions rather than attributes (justice administration, totality attitudes, co-ordinate action, cosmic overcontrol)",
+    "10:5.1"
+   ],
+   [
+    "Justice",
+    "Justice is not the personal attitude of any one of them",
+    "Justice is the Trinity attitude of these three personalities of love, mercy, and ministry",
+    "10:6.2"
+   ],
+   [
+    "Object of concern",
+    "The Father shows the personal attitude of love in all his acts",
+    "Concerned with the total planet, total universe, total grand universe",
+    "10:7.6, 10:7.2"
+   ],
+   [
+    "Manner of collaboration",
+    "As persons they can collaborate as they choose",
+    "As three Deities they cannot collaborate in a non-Trinity manner",
+    "10:4.4"
+   ]
+  ]
+ },
+ "ch02:28": "This structure also appears in the way the Father acts in the universe. The Father does many things through the Sons and the Spirit, but what he does as total Deity he does only in the Trinity. Section 3 of Paper 10 sets out these seven ways as follows.",
+ "ch02:29": {
+  "cap": "Table 2.4  How the First Source and Center Functions Outside Havona",
+  "rows": [
+   [
+    "Function",
+    "Channel",
+    "Source"
+   ],
+   [
+    "As creator",
+    "Through the Creator Sons, his grandsons",
+    "10:3.10"
+   ],
+   [
+    "As controller",
+    "Through the gravity center of Paradise",
+    "10:3.11"
+   ],
+   [
+    "As spirit",
+    "Through the Eternal Son",
+    "10:3.12"
+   ],
+   [
+    "As mind",
+    "Through the Conjoint Creator",
+    "10:3.13"
+   ],
+   [
+    "As a Father",
+    "Parental contact with all creatures through his personality circuit",
+    "10:3.14"
+   ],
+   [
+    "As a person",
+    "By his exclusive fragments; in mortal man by the Thought Adjusters",
+    "10:3.15"
+   ],
+   [
+    "As total Deity",
+    "Only in the Paradise Trinity",
+    "10:3.16"
+   ]
+  ]
+ },
+ "ch02:30": "4. The Work of the Trinity: Justice and the Total",
+ "ch02:31": "The representative function of the Trinity in the universe is justice. This is where the doctrine of the Trinity touches the moral life of man. The origin of law, its administration, its revelation, and its application each have a different place, and the application of law, justice, belongs to the Trinity (10:6.1).",
+ "ch02:33": "This teaching tells man two things. First, when man meets God as a person, he always meets love and mercy. Second, justice is not the mood or retaliation of any one person but a collective and total judgment. Jesus' teaching that justice is never a personal act but always a group function rests on this principle (104:2.5). The revelators say that justice and mercy do not finally conflict: “When fully perceived and completely understood, the righteous justice of the Trinity and the merciful love of the Universal Father are coincident.” (10:6.18)",
+ "ch02:34": "Yet man in time does not always see that coincidence, because the Trinity deals with the whole while man lives within a part. The revelators frankly acknowledge this gap.",
+ "ch02:36": "This admission establishes an important order for faith. Man can be certain of the Father's personal love. But the acts of the Trinity directed toward the whole are not now fully understood; that understanding is given in the progress of eternity. Even before what he does not understand, therefore, man has no reason to doubt love.",
+ "ch02:37": "5. Misunderstandings of the Trinity and the Answers of the Text",
+ "ch02:38": "In human thought the Trinity has often been mixed up with other ideas. Looking back on how this concept has grown on Urantia, Paper 104 distinguishes the revealed Trinity from the triad beliefs of evolutionary religion (104:0.1). The triads of evolutionary religion arose from associations of experience, such as the three joints of the fingers or the three legs of a stool, but the revealed Trinity is a truth about the reality of God. The text gives clear answers to several misunderstandings.",
+ "ch02:39": {
+  "cap": "Table 2.5  Misunderstandings of the Trinity and the Answers of the Text",
+  "rows": [
+   [
+    "Misunderstanding",
+    "The Answer of the Text",
+    "Source"
+   ],
+   [
+    "The Trinity is a collection of three gods",
+    "“A true trinity conception is not just a grouping together of three separate gods.” (104:1.7)",
+    "104:1.7"
+   ],
+   [
+    "The Trinity is the product of a mind fond of threes",
+    "The Trinity concept of revealed religion must not be confused with the triad beliefs of evolutionary religions",
+    "104:0.1"
+   ],
+   [
+    "The Trinity is a fourth person",
+    "It is not a personality but a true and absolute reality, compatible with the three persons",
+    "104:2.4"
+   ],
+   [
+    "The Trinity is merely a functional union",
+    "The Trinity is not a triunity; it is undivided and indivisible Deity",
+    "104:3.15"
+   ],
+   [
+    "The one who came to Urantia was the Second Person of Deity himself",
+    "In spirit this is true, but in actuality it is not a fact; the Michael Creators are not the absolute personality",
+    "104:1.13"
+   ]
+  ]
+ },
+ "ch02:40": "Many of these misunderstandings stem from a history in which the truth of the Trinity was never fully conveyed to man. This truth was revealed many times and obscured many times. Jesus himself taught it, but his disciples did not properly receive it.",
+ "ch02:42": "But the revelators add that no age's understanding reaches the Trinity as it is. The Trinity functions on all levels, while man remains on the finite level.",
+ "ch02:44": "The last item concerns the Christian understanding of the Trinity. The revelators judge that although that concept “erred in fact, it was practically true with respect to spiritual relationships” (104:1.13). This question is taken up again in Chapters 19 and 32.",
+ "ch02:45": "6. Consequences: Love and Law, and the Growing Trinity",
+ "ch02:46": "What does the doctrine of the Trinity add to human faith? Through faith man realizes the love of God, yet the universe moves according to ordained laws. How is the gap between a loving Father and seemingly impassive laws to be understood?",
+ "ch02:48": "If man knows only the love of the Father and not the sovereignty of the Trinity, his faith is shaken before the laws of the universe. Conversely, if he sees only law and does not know the Father, the universe becomes a cold machine. The Trinity reveals that the two are one in the same Deity. Nor is the Trinity closed off in eternity. The Foreword says that the original Trinity is existential and was inevitable (0:12.1), and it adds that the experiential Deities that were potential within it are appearing in time.",
+ "ch02:50": "The original Trinity is complete, but the manifestation of that Trinity in the universes of time and space is still in progress. Its first fruit is God the Supreme, and man takes part in that manifestation through his own experience. The Trinity is therefore not a doctrine of a remote eternity but a doctrine bound up with the choices man makes today. Chapter 4 examines this connection in detail.",
+ "ch02:51": "In Closing: God Who Is Three and One",
+ "ch02:52": "God is three, because fatherhood is not real without sonship, because divine personality shares itself, and because the Father, by giving absoluteness of personality to the Son, escapes from the fetters of absoluteness. God is one, because the three persons constitute one indivisible Deity, the Paradise Trinity, which is real though not a personality and which governs justice and the total. As persons, man meets the love of the Father; as the Trinity, he meets the order of the universe. The purpose this God holds toward the universe, the will of God, is the theme of the next chapter.",
+ "ch02:53": {
+  "title": "Questions for Reflection",
+  "items": [
+   "1. What ground does the statement “fatherhood is not real without sonship” (10:3.5) give to my faith in calling God Father?",
+   "2. What does the teaching that justice is not a personal attitude but a function of the Trinity (10:6.2) ask of the way I judge other people?",
+   "3. Recall a time when your faith was shaken between a loving Father and the ordained laws of the universe. How does the Trinity concept (104:2.3) help you see that experience anew?"
+  ]
+ },
+ "ch03:label": "Chapter 3",
+ "ch03:title": "The Will of God",
+ "ch03:sub": "The Divine Purpose That Moves the Universe",
+ "ch03:0": "In Chapter 1 we saw that will stands at the very beginning of all reality, and in Chapter 2 we saw how that will is expressed in the Trinity of Father, Son, and Spirit. The question now turns to what that will is directed toward. In The Urantia Book the will of God is not a pious figure of speech but a doctrine that binds together the creation of the universe, providence, and the salvation of man. This chapter asks in turn what the will of God is, how it is carried out in the universe, how it meets the choices of free creatures, and what it means for man to do that will.",
+ "ch03:1": "1. Definition: The Eternal Purpose of God",
+ "ch03:2": "From its first sentence, Paper 4, “God’s Relation to the Universe”, speaks of the purpose of God. The universe is not the product of chance but of will.",
+ "ch03:4": "This passage contains three elements. The purpose embraces all material, intellectual, and spiritual phenomena. That purpose is eternal, and it is even now being executed in time. And creation proceeded from a free and sovereign will. Where, then, does this purpose reside in God? Paper 117, “God the Supreme”, defines the will of God across all the levels of Deity.",
+ "ch03:6": {
+  "cap": "Table 3.1  Where the Will of God Resides",
+  "rows": [
+   [
+    "Location",
+    "There the Will of God Is…",
+    "Source"
+   ],
+   [
+    "The First Source and Center",
+    "Present as purpose",
+    "117:0.1"
+   ],
+   [
+    "The three Absolutes",
+    "Potentialized",
+    "117:0.1"
+   ],
+   [
+    "The Eternal Son",
+    "Personalized",
+    "117:0.1"
+   ],
+   [
+    "The Infinite Spirit",
+    "Conjoined for universe action",
+    "117:0.1"
+   ],
+   [
+    "The patterns of Paradise",
+    "Eternalized",
+    "117:0.1"
+   ],
+   [
+    "God the Supreme",
+    "Becoming the highest finite manifestation of the total will of God",
+    "117:0.1"
+   ]
+  ]
+ },
+ "ch03:7": "As the table shows, the will of God is not confined to any one place. It is present in possibilities not yet realized, in the personality of the Son, in the activity of the Spirit, and in the patterns of Paradise. To know the will of God, therefore, is not to know a list of rules but to know the direction of a single purpose that runs through all these levels. A finite being, however, cannot see the whole of that purpose.",
+ "ch03:9": "This passage also tells us where man glimpses the purpose of God: in the plan of creature ascension, the plan that leads man to Paradise. Paper 4 likewise says that this plan for perfecting evolutionary mortals seems to be one of the chief concerns of the superuniverses (4:0.3).",
+ "ch03:10": "2. Grounds: What the Father Did Not Relinquish",
+ "ch03:11": "Why does the universe move by will? The grounds lie in the doctrines of the two previous chapters. The Father has delegated everything that can be delegated to the Son and the Spirit and to the many Sons. Yet the revelators say there is something the Father never parted with. They observe that the Father “has divested himself of all direct manifestations of absoluteness except absolute fatherhood and absolute volition.” (10:3.6) Whether volition is an inalienable attribute of the Father cannot be known, but it is clear that the Father did not divest himself of it. The Father who gave away everything has kept his will.",
+ "ch03:12": "This fact explains where every will in the universe comes from. Paper 118, “Supreme and Ultimate—Time and Space”, says that all volition is relative: “In the originating sense, only the Father-I AM possesses finality of volition” (118:6.4), and man's free will is only relatively final on the finite level. There are many wills in the universe, but all of them have branched off from one original will. For a creature's will to become one with the will of God is therefore not submission to something foreign but a return to the source of its own will.",
+ "ch03:13": "3. Structure: The Ways the Will Is Carried Out in the Universe",
+ "ch03:14": "How is the will of God actually carried out? The revelators clearly reject the idea that God does everything personally.",
+ "ch03:16": "This distinction, that God is omnipotent but not omnificent, is a pillar supporting the doctrine of the will of God. The revelators warn that to accept omnificence is “to embrace the colossal error of pantheism.” (118:6.8) If God did everything directly, the creature's will would have no place, and the work of the Creator Sons and their countless helpers would lose its meaning. God rules through his Sons (3:5.2), and his providence is carried out through the co-operation of a multitude of beings.",
+ "ch03:18": "This does not mean that the Father has handed the universe over to his Sons and withdrawn far off. Delegation is not absence. Paper 4 emphasizes, on the contrary, that God is upholding all things even at this moment.",
+ "ch03:20": "The universe is not a clock that runs as long as it was wound and then stops. The will of God is not a command issued once at the moment of creation but a living purpose that holds the universe at every moment. The Father, moreover, may at any time “interpose a fatherly hand in the stream of cosmic events” (118:10.6). And within man he acts personally through the Thought Adjuster. The channels through which the will of God is carried out may be summarized as follows.",
+ "ch03:21": {
+  "cap": "Table 3.2  The Channels Through Which the Will of God Is Carried Out",
+  "rows": [
+   [
+    "Channel",
+    "Description in the Text",
+    "Source"
+   ],
+   [
+    "Rule through the Sons",
+    "The Father rules through his Sons, in an unbroken chain of rulers ending with the Planetary Princes",
+    "3:5.2"
+   ],
+   [
+    "Providence",
+    "The interlocking activities of the celestial beings and the divine spirits",
+    "4:1.1"
+   ],
+   [
+    "The overcontrol of the Supreme",
+    "Providence is in part the overcontrol of the incomplete Supreme manifested in the incomplete universes",
+    "118:10.20"
+   ],
+   [
+    "The Father's direct action",
+    "When delegated personalities fail, or at any time as motivated by the Father's love",
+    "3:5.1, 118:10.6"
+   ],
+   [
+    "The indwelling Adjuster",
+    "As a person, he acts directly in mortal man by the Thought Adjusters",
+    "10:3.15"
+   ]
+  ]
+ },
+ "ch03:22": "4. Freedom and Will: The Part and the Whole",
+ "ch03:23": "If the will of God is eternal and sovereign, why are there so many things in the world that run contrary to it? The revelators do not avoid this question. The answer lies in the distinction between the part and the whole.",
+ "ch03:25": "Paper 115, “The Supreme Being”, states the same principle on a wider scale. The potential may fail to be actualized with respect to a part on some level, but never in the aggregate. “The will of God does ultimately prevail, not always concerning the individual but invariably concerning the total.” (115:3.13) An individual's choice can in fact go against the will of God. But such opposition cannot overthrow the purpose of the universe as a whole.",
+ "ch03:26": {
+  "cap": "Table 3.3  The Will of God in the Part and in the Whole",
+  "rows": [
+   [
+    "Scope",
+    "The Will of God…",
+    "Source"
+   ],
+   [
+    "The heart of one person",
+    "May not always have its way",
+    "3:5.3"
+   ],
+   [
+    "The destiny of a planet",
+    "The divine plan prevails",
+    "3:5.3"
+   ],
+   [
+    "The individual and the aggregate",
+    "Prevails, not always concerning the individual but invariably concerning the total",
+    "115:3.13"
+   ],
+   [
+    "The concern of providence",
+    "Acts according to the relation of the creature's function to the total, not the importance of the creature as a person",
+    "118:10.5"
+   ],
+   [
+    "The love of the Father",
+    "Operates directly in the heart of the individual, independent of all other individuals",
+    "118:10.11"
+   ]
+  ]
+ },
+ "ch03:27": "Why, then, did God not make from the beginning a world in which nothing could go wrong? The revelators' answer lies in freedom. The possibility of error is the price of freedom.",
+ "ch03:29": "Paper 3 works out this principle through nine virtues. For each virtue man is to acquire, there is an environment he must confront in order to acquire it. The uncertainties of life are not a failure of the will of God but the stage for growth that this will has prepared (3:5.5).",
+ "ch03:30": {
+  "cap": "Table 3.4  The Virtues and the Conditions of Life They Require",
+  "rows": [
+   [
+    "Desirable Virtue",
+    "Condition Man Must Confront",
+    "Source"
+   ],
+   [
+    "Courage",
+    "An environment that necessitates grappling with hardships and reacting to disappointments",
+    "3:5.6"
+   ],
+   [
+    "Altruism",
+    "Situations of social inequality",
+    "3:5.7"
+   ],
+   [
+    "Hope",
+    "Constant insecurities and recurrent uncertainties",
+    "3:5.8"
+   ],
+   [
+    "Faith",
+    "The predicament of always knowing less than one can believe",
+    "3:5.9"
+   ],
+   [
+    "Love of truth",
+    "A world where error is present and falsehood always possible",
+    "3:5.10"
+   ],
+   [
+    "Idealism",
+    "An environment of relative goodness and beauty",
+    "3:5.11"
+   ],
+   [
+    "Loyalty",
+    "The possibilities of betrayal and desertion",
+    "3:5.12"
+   ],
+   [
+    "Unselfishness",
+    "The incessant clamoring of the self for recognition and honor",
+    "3:5.13"
+   ],
+   [
+    "Pleasure",
+    "The alternative of pain and the likelihood of suffering",
+    "3:5.14"
+   ]
+  ]
+ },
+ "ch03:31": "5. Doing the Will of God",
+ "ch03:32": "Now the doctrine comes down into human life. What does it mean to do the will of God? Paper 111, “The Adjuster and the Soul”, defines it with striking simplicity.",
+ "ch03:34": "Here doing the will of God is defined as sharing. This definition fits precisely with the doctrine of Chapter 2. Divine personality shares itself, and the Father shares all things with the Son and the Spirit. When man shares his inner life with God, he is doing the very thing God does. So the same paragraph says, “Sharing is Godlike—divine.” (111:5.1) Nor is this choice merely a condition for some future reward. The revelators say that its fruits are given at the very moment of choosing.",
+ "ch03:36": "The same paragraph adds that this consent is preceded by a consent on God's side. The Father has already chosen to make a fragment of himself subject to the will of the creature personality (111:5.4). Before man entrusts himself to God, God has first entrusted himself to man. And this choice is not an abandonment of will.",
+ "ch03:38": "The revelators contrast the character of this choice by means of a pair of declarations. It is a declaration of affirmation rather than of resignation.",
+ "ch03:40": "This choice differs in character from all other human choices. Man's will is in every respect within finite limits, with one exception: the choice to find God and to be like him. That choice is “superfinite” (118:6.7). And this choice will surely bear fruit. Man can elect to become more than a man, and when he chooses the voyage of universe ascension, the human choice and the divine will are coincident: “And what a son desires and the Father wills will certainly come to pass.” (118:6.5) This choice is therefore what makes man great.",
+ "ch03:42": "The most perfect example of this choice is Jesus. His earthly life was “devoted to one great purpose—doing the Father's will, living the human life religiously and by faith.” (196:0.14) At the end of this choice lies oneness with the God who dwells within man. The Thought Adjuster is the will of God resident within man, and the goal of ascension is for that will and man's will to become completely one.",
+ "ch03:44": "But this attunement is not achieved overnight. The will of God is not seen all at once, yet when life is viewed as a whole, it becomes ever clearer.",
+ "ch03:46": "The same holds for providence. Men try to find providence in miracles or good fortune, but the revelators say that providence is neither whimsical nor magical. It is the sure march of the universe toward the goals of eternity.",
+ "ch03:48": "Setting the ideas people commonly hold about the will of God beside the text makes the difference clear.",
+ "ch03:49": {
+  "cap": "Table 3.5  Misunderstandings of the Will of God and the Answers of the Text",
+  "rows": [
+   [
+    "Misunderstanding",
+    "The Answer of the Text",
+    "Source"
+   ],
+   [
+    "Providence means that God has decided everything in advance",
+    "God loves us too much to do that, for that would be cosmic tyranny",
+    "118:10.1"
+   ],
+   [
+    "God does everything personally",
+    "God is omnipotent but not omnificent; the fallacy of omnificence is the error of pantheism",
+    "118:6.1, 118:6.8"
+   ],
+   [
+    "Good fortune is a sign of the will of God",
+    "Much of what a mortal would call good luck might really be bad luck",
+    "118:10.9"
+   ],
+   [
+    "To follow the will of God is to give up one's will",
+    "It is not a surrender of will but a consecration, an expansion, and a perfecting of will",
+    "111:5.5"
+   ],
+   [
+    "Prayer is a means of changing the will of God",
+    "Many times the answer to prayer for providential intervention is one's own changed attitude toward life",
+    "118:10.23"
+   ]
+  ]
+ },
+ "ch03:50": "In Closing: Where Purpose and Choice Meet",
+ "ch03:51": "The will of God is the eternal purpose of the First Source and Center. The Father has shared everything, yet he has kept his will, and every will in the universe has branched off from that original will. That will is carried out through the rule of the Sons, through providence, and through the indwelling Adjuster, yet God does not do everything personally. In the heart of a single person that will may be refused, but in the whole it is surely carried out. And when man consecrates his own will to that will, his choice transcends the finite and will certainly come to pass. The revelators say that to the extent we do the will of God, in whatever universe station we may be, the potential of the Supreme becomes actual (117:0.1). The next chapter examines the God of this actualization, the Supreme Being who grows through experience.",
+ "ch03:52": {
+  "title": "Questions for Reflection",
+  "items": [
+   "1. If doing the will of God is sharing my inner life with God (111:5.1), what have I not yet shared?",
+   "2. How does the teaching that the will of God does not always prevail in a single heart but surely prevails in the whole (3:5.3) help me see my own failures and the confusion of the world?",
+   "3. Which of the uncertainties in my life right now are becoming conditions for growing courage, hope, or faith (3:5.5–3:5.14)?"
+  ]
+ },
+ "ch04:label": "Chapter 4",
+ "ch04:title": "The Supreme Being",
+ "ch04:sub": "The God Who Grows Through Experience",
+ "ch04:0": "The three preceding chapters dealt with the eternal God. The I AM has no beginning, the Paradise Trinity is eternally perfect, and the will of God is an eternal purpose. But The Urantia Book adds to these a remarkable doctrine: a God who is growing in time, the Supreme Being. This chapter, the last of Part One, asks who the Supreme Being is, why there must be a growing God in addition to the eternal God, how he is constituted, and how human life is bound up with his growth.",
+ "ch04:1": "1. Definition: The God of Time and Space",
+ "ch04:2": "Among the seven meanings of the word God, the Foreword lists God the Supreme fourth. The words that recur in this definition are evolution and experience.",
+ "ch04:4": "The Supreme Being is not one who has been complete from all eternity but one who is now actualizing. And that actualization takes place in what the Creator and the creature experience together. Paper 117, “God the Supreme”, portrays this God in the language of values man already knows.",
+ "ch04:6": "When man experiences truth, beauty, and goodness, he is already in touch with the substance of the Supreme Being. The Supreme Being is not a remote abstraction but the maximum of divinity that a finite being can experience. He is also deeply bound up with time itself.",
+ "ch04:8": "All the growth that man undergoes in time is preserved in the Supreme Being. Time, therefore, is not something that flows away into nothing but a current that finds meaning in the Supreme. The revelators say that the Supreme is not infinite, but “he probably embraces all of infinity that a finite creature can ever really comprehend.” (117:6.19)",
+ "ch04:9": "2. Grounds: Why a Growing God Is Needed",
+ "ch04:10": "If there is an eternal and perfect God, why is a growing God needed as well? The first key to answering this question is the distinction the Foreword draws between existential and experiential Deity (0:7.2–0:7.4).",
+ "ch04:11": {
+  "cap": "Table 4.1  Existential and Experiential Deity",
+  "rows": [
+   [
+    "Distinction",
+    "Existential Deity",
+    "Experiential Deity",
+    "Source"
+   ],
+   [
+    "The Deities concerned",
+    "The Father, the Son, and the Spirit",
+    "God the Supreme, God the Ultimate, and God the Absolute",
+    "0:7.1"
+   ],
+   [
+    "Mode of existence",
+    "Of eternal existence, past, present, and future",
+    "Actualizing in the post-Havona present but of unending existence throughout all future eternity",
+    "0:7.3, 0:7.4"
+   ],
+   [
+    "Origin and destiny",
+    "Unqualifiedly eternal",
+    "Have an origin, but are eternal in destiny",
+    "0:7.5"
+   ],
+   [
+    "Present status",
+    "Existential in actuality",
+    "Not now fully existent; in process of actualization",
+    "0:7.5, 0:7.6"
+   ]
+  ]
+ },
+ "ch04:12": "The Father has already achieved existential expression of Deity in the Son and the Spirit. He is now achieving experiential expression on hitherto unrevealed deity levels (0:7.6). The second key comes from the appearance of the universe itself. The revelators set Havona and Urantia side by side and follow the conclusions of reason.",
+ "ch04:14": "This conclusion does not shake faith but rather sets it upright. If the imperfections of the world are regarded as the direct work of an infinite and perfect God, man can only resent God or resign himself before suffering and inequity. But if the God of time and space is a growing God, imperfection is not failure but the place of growth. The revelators say that this understanding frees religion from being an instrument of social resignation (116:0.1). And growth is not a solitary undertaking.",
+ "ch04:16": "Havona does not grow, because it is perfect from the beginning. The grand universe grows, because it is imperfect. The sum of that growth is the Supreme Being. And the ground for the existence of the finite universe lies in the end in the will of God: “The realms of the finite exist by virtue of the eternal purpose of God.” (115:1.4) The will of God, which we saw in Chapter 3, thus leads into the doctrine of the Supreme Being.",
+ "ch04:17": "3. Structure: Derived from the Trinity, Growing Through Experience",
+ "ch04:18": "Where does the Supreme Being come from? Paper 115, “The Supreme Being”, distinguishes two sources of Supremacy. His personality comes from above; his growth comes from the tension between the actual and the potential.",
+ "ch04:20": "His spirit personality comes from the Trinity, but his power accumulates in the work done by the Creators of time and space. God the Supreme is “power-actualizing” (116:2.2) in the doings of the Creator Sons, the Ancients of Days, and the Master Spirits. And what binds this spirit personality and this power into one is the Supreme Mind. The revelators say there will be no Almighty apart from the Supreme, no Supreme apart from the Almighty (116:1.2). The three phases of the Supreme Being are summarized below. In the end the three phases converge in a single experience. In the universe procession of descending Creators who reveal God and ascending creatures who seek God, descenders and ascenders come to understand one another and discover brotherhood (117:1.2).",
+ "ch04:22": "The Supreme Being is neither the God of the Creator alone nor the God of the creature alone. He grows in the very place where the God who descends and the man who ascends meet.",
+ "ch04:23": {
+  "cap": "Table 4.2  The Three Phases of the Supreme Being",
+  "rows": [
+   [
+    "Phase",
+    "Description in the Text",
+    "Present Status",
+    "Source"
+   ],
+   [
+    "God the Supreme (spirit personality)",
+    "A spirit person stemming from the Trinity; functions primarily in the central universe",
+    "Real as a personality",
+    "115:4.2, 116:0.5"
+   ],
+   [
+    "The Almighty Supreme (power)",
+    "Functions secondarily in the grand universe as a personality of power",
+    "Now factualizing through the activities of the Supreme Creator Personalities",
+    "116:0.5, 116:2.14"
+   ],
+   [
+    "Supreme Mind",
+    "The function that unites the power and personality attributes",
+    "In process of actualizing in the co-ordination of the grand universe",
+    "116:1.2, 116:1.3"
+   ]
+  ]
+ },
+ "ch04:24": "The way man meets the Supreme Being is God the Sevenfold. Because man cannot comprehend Paradise Deity, divinity limits itself, bringing the Supreme Creators into being and through them carrying the light of life even to the evolutionary worlds (116:2.3). Mortals encounter the levels of God the Sevenfold one after another, beginning from below.",
+ "ch04:25": {
+  "cap": "Table 4.3  The Order in Which Mortals Encounter God the Sevenfold",
+  "rows": [
+   [
+    "Order",
+    "Level",
+    "Classification",
+    "Source"
+   ],
+   [
+    "1",
+    "The Creator Sons (and Creative Spirits)",
+    "Supreme Creators",
+    "116:2.5"
+   ],
+   [
+    "2",
+    "The Ancients of Days",
+    "Supreme Creators",
+    "116:2.6"
+   ],
+   [
+    "3",
+    "The Seven Master Spirits",
+    "Supreme Creators",
+    "116:2.7"
+   ],
+   [
+    "4",
+    "The Supreme Being",
+    "Experiential spirit personalization and focus of almighty power",
+    "116:2.8, 116:2.12"
+   ],
+   [
+    "5",
+    "The Conjoint Actor",
+    "Paradise Deity",
+    "116:2.9"
+   ],
+   [
+    "6",
+    "The Eternal Son",
+    "Paradise Deity",
+    "116:2.10"
+   ],
+   [
+    "7",
+    "The Universal Father",
+    "Paradise Deity",
+    "116:2.11"
+   ]
+  ]
+ },
+ "ch04:26": "In this order the Supreme Being stands exactly in the middle. Above him are the Paradise Deities; below him are the Supreme Creators of time and space. The Supreme Being is the place where eternity and time meet and, in the words of the revelators, “The Supreme Being is the maximum revelation of Deity to the seven superuniverses and for the present universe age.” (116:2.12)",
+ "ch04:27": "4. Man and the Supreme Being: Interdependent Growth",
+ "ch04:28": "This is where the doctrine touches man most directly. The growth of the Supreme Being does not stand apart from the growth of creatures. When man grows, the Supreme grows.",
+ "ch04:30": "To say that God depends on the choices of man is bold. Yet this is not a weakness in God but an expression of trust. The revelators explain this dependence in terms of trust and love.",
+ "ch04:32": "What has been placed in man's hands is a part of God himself. Man's growth, therefore, is not merely private self-cultivation; it becomes a cosmic responsibility to realize the divinity entrusted to him. And this growth does not happen of itself.",
+ "ch04:34": "That effort is required is at once a burden and a comfort, for man's struggle is not a struggle undertaken alone.",
+ "ch04:36": "The revelators explain that man's growth and the growth of the Supreme Being share the same structure. What the Trinity is to God the Supreme, the Adjuster is to man (117:3.10). The parallel may be summarized as follows.",
+ "ch04:37": {
+  "cap": "Table 4.4  The Growth of Man and the Growth of the Supreme Being",
+  "rows": [
+   [
+    "Comparison",
+    "Man",
+    "The Supreme Being",
+    "Source"
+   ],
+   [
+    "Divine source",
+    "The indwelling Thought Adjuster",
+    "The Paradise Trinity",
+    "117:3.10"
+   ],
+   [
+    "Manner of growth",
+    "Consciously grows from the material toward the spiritual by the strength and persistency of his own decisions",
+    "His sovereignty grows in and out of the acts and achievements of the Supreme Creator Personalities",
+    "117:3.6, 117:3.7"
+   ],
+   [
+    "Result of growth",
+    "The evolution of the immortal soul",
+    "The realization of experiential sovereignty and divinity",
+    "117:3.10, 117:4.2"
+   ],
+   [
+    "When rejected",
+    "The self can be destroyed, but what was worth while persists in the Supreme",
+    "The part dependent on that choice experiences delay",
+    "117:4.3, 117:4.2"
+   ]
+  ]
+ },
+ "ch04:38": "The relationship between man and the Supreme Being is less one of creation than one of ground. The revelators draw this distinction precisely.",
+ "ch04:40": "To reject survival, therefore, is not merely an individual loss. The personality that does not ascend “returns to the Supreme as a drop of water returns to the sea.” (117:4.4) The share that personality could have contributed is not filled in the same way by anyone else's contribution. The revelators present this as the challenge set before man (117:4.10). Even if another creature someday makes a contribution, “But that will be his contribution to the Supreme, not yours.” (117:4.10)",
+ "ch04:41": "5. The Way to Find the Supreme Being",
+ "ch04:42": "Man can discover the Father in his own heart, because the Adjuster is there. But the Supreme Being is not found in that individual way. Because the Supreme Being is the sum of the growth of all creatures, the way to find him also passes through other people.",
+ "ch04:44": "This teaching links the doctrine of the Supreme Being directly with the brotherhood of man. The Father treats each person as a cosmic individual, while the Supreme treats his experiential children as a single cosmic total (117:6.22). The revelators say that as God is man's divine Father, so is the Supreme man's divine Mother, in whom he is nurtured (117:6.2). This discovery is not dramatic. Men find the Supreme “slowly and patiently as a river quietly wears away the soil beneath.” (117:6.25) The substance of the Supreme that man can experience now is the fruits of the spirit (117:6.17). Even man's small choice to do the will of God is immediately reflected in this cosmic growth.",
+ "ch04:46": "And the one who walks this way is not alone.",
+ "ch04:48": {
+  "cap": "Table 4.5  Misunderstandings of the Supreme Being and the Answers of the Text",
+  "rows": [
+   [
+    "Misunderstanding",
+    "The Answer of the Text",
+    "Source"
+   ],
+   [
+    "The Supreme Being is the same as the Trinity",
+    "God the Supreme is not the Paradise Trinity, neither is he any one or all of the superuniverse Creators",
+    "116:2.14"
+   ],
+   [
+    "The Supreme Being created man",
+    "The Supreme Being did not create man, but man was created out of the potentiality of the Supreme",
+    "117:3.12"
+   ],
+   [
+    "The Supreme Being is already complete",
+    "The experiential Deities are not now fully existent; they are in process of actualization",
+    "0:7.6"
+   ],
+   [
+    "Man can now find the Supreme Being personally",
+    "No single ascender will find the Supreme until all ascenders reach the maximum universe maturity that lets them share in this discovery",
+    "117:6.21"
+   ],
+   [
+    "The Supreme Being is infinite",
+    "The Supreme is not infinite, but he probably embraces all of infinity that a finite creature can comprehend",
+    "117:6.19"
+   ]
+  ]
+ },
+ "ch04:49": "6. Consequences: The Virtue of Incompleteness",
+ "ch04:50": "The doctrine of the Supreme Being lets us see the imperfection of the universe in a new light. Because the Supreme Being is not yet complete, there is room for creatures to take part in his completion. The revelators call this incompleteness a virtue.",
+ "ch04:52": "This is also why man can aspire to Paradise and to the destiny of a finaliter. That destiny is possible because man is within the Supreme and takes part in his cycle of growth (117:2.5). And this growth has an end. When all finite potentials are realized, the Supreme Being will emerge as the experiential sovereign of the grand universe, and the universes will be settled in light and life (117:2.7, 117:6.24). Then the choices man makes today will remain forever within that completed God.",
+ "ch04:53": "In Closing: Man Growing with the Growing God",
+ "ch04:54": "The Supreme Being is the God of time and space, the personal Deity in whom the experience of Creator and creature becomes one. His spirit personality comes from the Trinity, his power accumulates in the work of the Creators of time, and the Supreme Mind binds the two together. And his growth and the growth of all creatures depend on each other. That is why a single small human choice carries cosmic meaning. With this, Part One completes the four fundamental doctrines concerning God. The I AM is the source of all reality; the Trinity is the personal oneness of that source; the will of God is that God's eternal purpose; and the Supreme Being is the God in whom that purpose is being realized in time. Part Two examines how this God constitutes and governs the universe.",
+ "ch04:55": {
+  "title": "Questions for Reflection",
+  "items": [
+   "1. How does the conclusion that the imperfections of Urantia reveal the management of Creators who are other than perfect (116:0.2) change my faith before the suffering and inequity of the world?",
+   "2. If Supreme Deity is in a certain sense dependent on the choosing of the mortal will (117:4.9), what weight do the decisions I make today carry?",
+   "3. What does the statement that I can find the Father in my own heart but must search for the Supreme in the hearts of all other people (117:6.23) ask of the way I treat my neighbors?"
+  ]
+ },
+ "ch05:label": "Chapter 5",
+ "ch05:title": "The Constitution and Administration of the Universe",
+ "ch05:0": "Part One asked who God is. Part Two asks how that God governs his creation. The Urantia Book devotes so many pages to the structure and administration of the universe, not to satisfy astronomical curiosity, but because when we learn how the universe is organized and who is entrusted with ruling it, we come to see what kind of order our small world belongs to, and whose will that order follows. From its very first pages the Foreword sets man's place within this great order.",
+ "ch05:2": "This chapter asks four questions. How is the universe organized? Who rules each of its units? Why does the Universal Father govern through his Sons and associates rather than directly? And what does this administrative order mean for the life of a single person?",
+ "ch05:3": "1. One Center, Six Concentric Levels of Space",
+ "ch05:4": "The cosmology of The Urantia Book begins at the center. At the heart of all creation stands the motionless Isle of Paradise, and around it lies the perfect central universe of Havona. These two are eternal realities, without beginning or end, and all other universes revolve around them.",
+ "ch05:6": "Beyond them lie the seven superuniverses, and beyond those, four outer space levels that are still being organized. The revelators distinguish these six concentric ellipses by three tenses: eternity, time, and the future.",
+ "ch05:8": {
+  "cap": "Table 5.1  The Six Space Levels of the Master Universe",
+  "rows": [
+   [
+    "Level",
+    "Nature",
+    "Source"
+   ],
+   [
+    "Paradise (center)",
+    "The stationary and absolutely stable Isle, the center of Havona",
+    "12:1.10"
+   ],
+   [
+    "1. The central universe, Havona",
+    "An eternal existence without beginning or end; one billion perfect spheres",
+    "12:1.10"
+   ],
+   [
+    "2. The seven superuniverses",
+    "Creations of time; the outer portion of the grand universe, now organized and inhabited",
+    "12:1.12, 12:1.16"
+   ],
+   [
+    "3–6. The four outer space levels",
+    "Future creations, where force circuits and materializing energies are gathering",
+    "12:1.14, 12:1.16"
+   ]
+  ]
+ },
+ "ch05:9": "The creation of time is not yet finished. Observing the outer boundary of the grand universe, the revelators see not a completed building but a site still under construction.",
+ "ch05:11": "Here a principle comes to light: the perfect comes first, and the imperfect grows up around it. Havona is the pattern on which the evolving universes are to fix their gaze, and the universes of time were made to grow toward that pattern. Even the Creator Sons who build the local universes learn in Havona.",
+ "ch05:13": "The very structure of the universe already holds a direction: ascent toward the center. The perfect center becomes the goal of the periphery, and the unfinished periphery grows by coming to resemble the center. The geography of the universe is a map of its purpose.",
+ "ch05:14": "2. The Administrative Units of the Seven Superuniverses",
+ "ch05:15": "The universes of time are not scattered at random. Paper 15 lays out the organization of the grand universe step by step, from the planet to the superuniverse. These divisions, however, serve administration; they do not simply follow astronomical boundaries. The basic creative unit of administration is the local universe.",
+ "ch05:17": {
+  "cap": "Table 5.2  The Organizational Units of a Superuniverse and Their Rulers",
+  "rows": [
+   [
+    "Unit",
+    "Composition",
+    "Inhabitable worlds (approx.)",
+    "Rulers",
+    "Source"
+   ],
+   [
+    "System",
+    "About one thousand inhabitable worlds",
+    "1,000",
+    "A System Sovereign; a Planetary Prince on each planet",
+    "15:2.3, 45:2.1"
+   ],
+   [
+    "Constellation",
+    "One hundred systems",
+    "100,000",
+    "Three Vorondadek Sons (the Constellation Fathers)",
+    "15:2.4, 35:6.2"
+   ],
+   [
+    "Local universe",
+    "One hundred constellations",
+    "10 million",
+    "A Creator Son of the order of Michael",
+    "15:2.5"
+   ],
+   [
+    "Minor sector",
+    "One hundred local universes",
+    "1 billion",
+    "Three Recents of Days",
+    "15:2.6"
+   ],
+   [
+    "Major sector",
+    "One hundred minor sectors",
+    "100 billion",
+    "Three Perfections of Days",
+    "15:2.7"
+   ],
+   [
+    "Superuniverse",
+    "Ten major sectors",
+    "1 trillion",
+    "Three Ancients of Days",
+    "15:2.8"
+   ],
+   [
+    "Grand universe",
+    "Seven superuniverses",
+    "7 trillion",
+    "The Seven Master Spirits (indirectly and reflectively from Paradise)",
+    "15:2.9"
+   ]
+  ]
+ },
+ "ch05:18": "This table contains one clear dividing line. Systems, constellations, and local universes are ruled by the Creator Son and his children. Minor sectors, major sectors, and superuniverses are ruled by Supreme Trinity Personalities, the ‘Days’ beings. The administration of the grand universe is a twofold structure in which two lines of authority interlock. And above it all, Paradise governs the seven superuniverses not by laying its hand on them directly but by reflecting its rule through the Master Spirits.",
+ "ch05:20": "The intermediate governments each have their own sphere. The major sector governments are concerned chiefly with intellectual status and training, the minor sector governments with physical stability.",
+ "ch05:22": "3. The Government of the Trinity and the Government of the Son",
+ "ch05:23": "The superuniverse government derives from the Paradise Trinity. Alongside the three Ancients of Days who jointly rule a superuniverse are the Perfectors of Wisdom, the Divine Counselors, and the Universal Censors, and Paper 15 says that “These three groups are Co-ordinate Trinity Personalities, taking origin directly and divinely in the Paradise Trinity” (15:10.11). Yet the remaining groups in this same government, surprisingly, are beings who have risen up from among men.",
+ "ch05:25": "Perfect beings who came from the Trinity work together in one government with beings who rose from the worlds of time and attained perfection. The superuniverse is the meeting place of divine perfection and experiential perfection. The local universe, by contrast, is the domain that a single Creator Son personally builds and rules. If the superuniverse government is concerned chiefly with adjudication, intellectual training, and physical stability, the local universe government is concerned with creation and ministry.",
+ "ch05:26": {
+  "cap": "Table 5.3  The Superuniverse Government and the Local Universe Government",
+  "rows": [
+   [
+    "Aspect",
+    "Superuniverse government",
+    "Local universe government",
+    "Source"
+   ],
+   [
+    "Origin",
+    "The Paradise Trinity (Trinity-origin personalities and ascendant mortals)",
+    "The Creator Son and the Universe Mother Spirit",
+    "15:10.11~12, 33:0.1"
+   ],
+   [
+    "Rulers",
+    "Three Ancients of Days (joint chief executives)",
+    "Michael, the Creator Son (sovereign), and the Universe Spirit (codirector)",
+    "15:10.3, 33:3.3"
+   ],
+   [
+    "Chief concerns",
+    "Adjudication, intellectual training, physical control and stability",
+    "Creation, sustenance, and ministry",
+    "15:13.2, 15:13.4, 33:7.1"
+   ],
+   [
+    "Eternal life and extinction",
+    "Renders the final verdict",
+    "Has no right to decide; refers such cases to the tribunals of Orvonton",
+    "33:2.2, 33:7.4"
+   ],
+   [
+    "Mutual relations",
+    "Superuniverses are isolated from one another and know of each other only through Paradise",
+    "Gabriel serves as chief executive in relation to both governments",
+    "15:10.23, 33:4.6"
+   ]
+  ]
+ },
+ "ch05:27": "The point at which the two governments divide is significant. The local universe builds and nurtures life, but the verdict that would end a personality's eternal survival is left to the government of the Trinity. Paper 33 finds the reason in the very nature of local universe administration. Because that administration is concerned with creation, evolution, maintenance, and ministry, “The universe tribunals are, therefore, denied the right to pass upon those cases involving the question of eternal life and death” (33:7.4). Creation and judgment are placed in different hands, so that the one who gave life does not become the judge who takes it away.",
+ "ch05:28": "Another thing worth noting is the relationship among the superuniverses. The seven superuniverses exchange no ambassadors; they know of one another's affairs only through the clearinghouse on Paradise. The revelators say that this isolation is not a permanent condition.",
+ "ch05:30": "The present administrative structure is not a finished system but a growing one. The seven superuniverses, now kept apart, will one day be co-ordinated as one under the sovereignty of the Supreme Being. The history of universe administration follows the same path as the growth of the Supreme Being, which we examined in Chapter 4.",
+ "ch05:31": "4. The Principle of Delegation: The Father Rules in His Sons",
+ "ch05:32": "Why, then, is so complex an administration needed? Could not the all-powerful Universal Father simply rule every world himself? The Urantia Book answers this question from the Father's own nature. The Father is not self-centered; he gives away everything that can be given.",
+ "ch05:34": "This delegation does not mean that the Father has withdrawn. The revelators state plainly that we must not suppose him to be “a silent or inactive member” (32:4.1). The Father keeps the bestowal of personality and the bestowal of the Adjusters in his own hands, and through the personality circuit he remains directly connected with every personality. It is only in the routine administration of a local universe that he works through a Son.",
+ "ch05:36": "Delegation is not the absence of God but another mode of his presence. Even where he has stepped back, the Father works through those who have taken that place.",
+ "ch05:38": "The logic of delegation can be summed up in three points. First, the Father's love is a sharing, and sharing makes room for others to do real work. Second, creatures grow only by functioning and by experiencing. If God did everything himself, neither Sons nor angels nor men would have any share of experience. Third, even within a delegated administration, the Father's presence reaches each person directly through the personality circuit and the indwelling Adjuster. So the administration is delegated, but the relationship between the Father and his children is not.",
+ "ch05:39": "5. The Administration of a Local Universe: The Creator Son and His Associates",
+ "ch05:40": "At the center of a local universe is the Creator Son. He is not the same as the Eternal Son, nor is he a member of the Trinity, yet to his own universe he reveals both the Father and the Son.",
+ "ch05:42": "But Michael does not rule alone. The Universe Mother Spirit, the local universe manifestation of the Infinite Spirit, builds and governs the universe with him from the very beginning.",
+ "ch05:44": "Gabriel, the Bright and Morning Star, the first-born of the Son and the Spirit, is the chief executive of the universe. He does not create, but he takes part in every important decision other than creation.",
+ "ch05:46": "The courts, the councils, and the executive agencies are distributed among the universe headquarters, the constellations, and the systems. And at the very end of the line, on a single inhabited planet, stands the Planetary Prince. Paper 50 presents him as the last link by which the Sons of God draw near to man.",
+ "ch05:48": "Michael himself, at the summit of this administration, does not sit as a judge.",
+ "ch05:50": {
+  "cap": "Table 5.4  The Division of Functions in Local Universe Administration",
+  "rows": [
+   [
+    "Agency or personality",
+    "Responsibility",
+    "Source"
+   ],
+   [
+    "Michael, the Creator Son",
+    "Creation, sustenance, and ministry (does not personally participate in judicial work)",
+    "33:7.1"
+   ],
+   [
+    "The Universe Mother Spirit",
+    "Codirector in all details of management; brings the orders of spirit personalities into being",
+    "33:3.3, 33:3.8"
+   ],
+   [
+    "Gabriel (the Bright and Morning Star)",
+    "Chief executive, arbiter of executive appeals, supervisor of all judicial machinery",
+    "33:4.5, 33:7.2"
+   ],
+   [
+    "The tribunals of Salvington",
+    "Decide universe-wide matters and appeals coming up from the system courts",
+    "33:7.2"
+   ],
+   [
+    "Constellations",
+    "The legislative assemblies of the local universe",
+    "33:8.1"
+   ],
+   [
+    "Systems",
+    "Executive and administrative units that carry out the legislative mandates of the constellation and the decrees of the universe courts",
+    "33:8.1"
+   ],
+   [
+    "The Planetary Prince",
+    "Presides over a single inhabited planet",
+    "15:2.3"
+   ]
+  ]
+ },
+ "ch05:51": "What stands out is that creation, adjudication, legislation, and execution are placed in different hands. The Creator does not judge; judgment is entrusted to those who have gained experience. Legislation takes place in the constellations, execution in the systems. This division is a wisdom that keeps power from being concentrated in one place, and at the same time it gives the beings of every order their own share of responsibility and growth. The revelators state briefly what this order means for man: “You are living in a well-ordered universe, and sooner or later you may depend upon being dealt with justly, even mercifully” (33:7.8). The Sons of God who work within this great administrative framework are taken up in Chapter 6, and the ministering angels in Chapter 7.",
+ "ch05:52": "Administrative order is not an end in itself. The courts, the councils, and the executive agencies all serve a single great plan. The Mighty Messenger who closes Paper 32 puts it this way: “We are all a part of an eternal project which the Gods are supervising and outworking” (32:5.1). The System Sovereign, the Constellation Fathers, Gabriel, and the person living out a single day on one planet are all part of this enterprise. The administrative hierarchy is not a chain in which the higher order the lower about, but a network of co-operation in which each, in his own place, serves the same purpose. Man begins at the very bottom of this network, but he is called to pass through every one of its stages, one by one, along the path of ascension until he reaches Paradise.",
+ "ch05:53": {
+  "cap": "Table 5.5  Urantia's Place in the Administration of the Universe",
+  "rows": [
+   [
+    "Unit",
+    "Name",
+    "Headquarters",
+    "Position",
+    "Source"
+   ],
+   [
+    "Planet",
+    "Urantia",
+    "—",
+    "The 606th in the system of Satania",
+    "15:14.5"
+   ],
+   [
+    "System",
+    "Satania",
+    "Jerusem",
+    "The twenty-fourth in the constellation of Norlatiadek",
+    "15:14.6"
+   ],
+   [
+    "Constellation",
+    "Norlatiadek",
+    "Edentia",
+    "The seventieth in the universe of Nebadon",
+    "15:14.6"
+   ],
+   [
+    "Local universe",
+    "Nebadon",
+    "Salvington",
+    "The eighty-fourth in the minor sector of Ensa",
+    "15:14.6"
+   ],
+   [
+    "Minor sector",
+    "Ensa",
+    "Uminor the third",
+    "The third in the major sector of Splandon",
+    "15:14.7"
+   ],
+   [
+    "Major sector",
+    "Splandon",
+    "Umajor the fifth",
+    "The fifth in the superuniverse of Orvonton",
+    "15:14.7"
+   ],
+   [
+    "Superuniverse",
+    "Orvonton",
+    "Uversa",
+    "The seventh segment of the grand universe",
+    "15:14.7, 0:0.5"
+   ]
+  ]
+ },
+ "ch05:54": "In Closing: An Ordered Universe, a Beloved World",
+ "ch05:55": "The constitution and administration of the universe are joined in a single chain. The eternal and perfect Paradise-Havona lies at the center, and the seven superuniverses of time grow up around it. The superuniverses are adjudicated and guarded by the government of the Trinity, and within them the local universes are built and cared for by the Creator Sons. This twofold administration springs from the nature of a Father who gives himself away, and even in that delegation the Father remains directly linked with each person through the personality circuit and the Adjuster. And so this small planet, one among seven trillion worlds, is no forsaken outpost. “your sphere is just as precisely administered and just as lovingly fostered as if it were the only inhabited world in all existence” (15:14.9). The next chapter examines the Sons of God who actually carry out this administration, who build the universes, rule them, and personally come down to the worlds.",
+ "ch05:56": {
+  "title": "Questions for Reflection",
+  "items": [
+   "1. What does the principle that Creators never sit in judgment on their creatures (33:7.1) teach about separating creation from judgment?",
+   "2. The Father has divested himself of every function that another being can perform (32:4.10). What question does this raise about the way I entrust work to others and work alongside them?",
+   "3. If this planet, one among seven trillion worlds, is fostered as lovingly as if it were the only one (15:14.9), how does that change the way I look at my own smallness?"
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+import json, os
+os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
+Q = {
+"ch06:9": "Os Filhos de Deus do Paraíso têm três origens: os primários, ou os Filhos Criadores, que são trazidos à existência pelo Pai Universal e pelo Filho Eterno; os secundários, ou Filhos Magisteriais, que são filhos do Filho Eterno e do Espírito Infinito; os Filhos Instrutores da Trindade, que são uma progênie do Pai, do Filho e do Espírito.",
+"ch06:15": "Os Avonais são os Filhos do Paraíso para o serviço e para a auto-outorga, em particular, nos planetas dos universos locais. E, posto que cada Filho Avonal possua uma personalidade exclusiva e como não há dois iguais, o seu trabalho é individualmente único, nos reinos da sua permanência,",
+"ch06:36": "Alguma ordem de Filhos do Paraíso deve ser auto-outorgada, em cada mundo mortal habitado, com a finalidade de tornar possível aos Ajustadores do Pensamento residirem nas mentes de todos os seres humanos normais naquela esfera, pois os Ajustadores não vêm para todos os seres humanos de boa-fé antes que o Espírito da Verdade haja sido efundido em toda a carne;",
+"ch06:47": "Cada um desses filhos de Deus compartilha da paternidade de Deus, e Deus ama a cada um dos Seus filhos criaturas de modo igual;",
+"ch07:12": "Os anjos não têm corpos materiais, mas são seres definidos, contínuos e discretos; são de natureza e origem espirituais. Embora invisíveis para os mortais, eles percebem-vos enquanto ainda na carne sem a ajuda de transformadores ou de conversores;",
+"ch07:16": "Vós fazeis bem em amá-los, mas não deveis adorá-los; os anjos não são objeto de culto.",
+"ch07:41": "vós deveis traçar o vosso próprio curso, mas esses anjos, então, atuam para fazer o melhor uso possível do caminho que vós escolhestes.",
+"ch08:10": "uma vez que tenham saído do Paraíso, devem retornar para lá, ainda que idades e mais idades sejam necessárias para completar o circuito ordenado. Aquilo que tem a sua origem na Deidade do Paraíso só pode ter como destino o Paraíso, ou alguma Deidade.",
+"ch08:26": "eles são capazes de iniciar, no espaço, em torno da sua presença, os imensos ciclones de força que, quando iniciados, nunca podem ser interrompidos, ou limitados, até que as forças, as quais a tudo invadem, sejam mobilizadas para o surgimento final das unidades ultimatômicas de matéria do universo.",
+"ch09:42": "Partes do eu podem funcionar de inúmeros modos — pensando, sentindo, desejando — , mas apenas os atributos coordenados da personalidade total ficam focalizados na ação inteligente",
+"ch09:52": "Nenhuma criatura pessoal pode ser forçada à aventura eterna; o portal da eternidade abre-se apenas em resposta à escolha, feita em livre-arbítrio, pelos filhos, com livre-arbítrio do Deus do arbítrio livre.",
+"ch10:13": "Os domínios da mente da criatura têm a sua origem exclusiva na Terceira Fonte e Centro; Ela é a outorgadora da mente. Mesmo os fragmentos do Pai acham impossível residir nas mentes dos homens, antes que o caminho tenha sido apropriadamente preparado para eles pela ação da mente e pela função espiritual do Espírito Infinito.",
+"ch11:7": "Os Ajustadores são o amor do Pai, tornado realidade e encarnado nas almas dos homens; eles são a verdadeira promessa de uma carreira eterna para o homem, enclausurada dentro da mente mortal",
+"ch11:14": "O Ajustador é a realidade universal divina que torna real a verdade de que Deus é o Pai do homem. O Ajustador é, para o homem residido por ele, a bússola cósmica infalível que sempre conduz a sua alma, sem erros, na direção de Deus.",
+"ch11:29": "Tudo que o Ajustador não pode aplicar à vossa vida atual, aquelas verdades que ele não pode transmitir com êxito ao homem ao qual se afiança, ele irá guardar fielmente para usar no próximo estágio de existência",
+"ch11:33": "Ele é o poder, o privilégio e a possibilidade de sobrevivência, que, tão plena e definitivamente, vos distingue das criaturas meramente animais. Ele é o estímulo espiritual mais alto e verdadeiramente interno do pensamento, em contraste com o estímulo externo e físico",
+}
+os.makedirs("pt", exist_ok=True)
+json.dump(Q, open("pt/quotes_c02.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print(len(Q))

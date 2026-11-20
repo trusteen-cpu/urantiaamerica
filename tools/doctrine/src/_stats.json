@@ -1,0 +1,38 @@
+{
+ "c01": {
+  "chapters": "ch00-ch05",
+  "units": 335,
+  "quotes": 81,
+  "words_to_translate": 12706
+ },
+ "c02": {
+  "chapters": "ch06-ch11",
+  "units": 355,
+  "quotes": 101,
+  "words_to_translate": 13879
+ },
+ "c03": {
+  "chapters": "ch12-ch16",
+  "units": 284,
+  "quotes": 87,
+  "words_to_translate": 11051
+ },
+ "c04": {
+  "chapters": "ch17-ch22",
+  "units": 362,
+  "quotes": 111,
+  "words_to_translate": 13281
+ },
+ "c05": {
+  "chapters": "ch23-ch27",
+  "units": 273,
+  "quotes": 74,
+  "words_to_translate": 11204
+ },
+ "c06": {
+  "chapters": "ch28-ch33",
+  "units": 319,
+  "quotes": 92,
+  "words_to_translate": 12339
+ }
+}
