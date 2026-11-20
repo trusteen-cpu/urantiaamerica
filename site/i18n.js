@@ -94,7 +94,7 @@ window.SITE = {
     },
     es: { text: "es/book/", doctrine: "es/doctrine/", topics: "es/topics/", theology: "es/theology/", qna: "es/qna/", lists: "es/lists/", glossary: "es/glossary/", personalities: "es/personalities/", chronology: "es/chronology/", overview: "es/overview/", bilingual: "es/bilingual/", intro: "es/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
     fr: { text: "fr/book/", doctrine: "fr/doctrine/", topics: "fr/topics/", theology: "fr/theology/", qna: "fr/qna/", lists: "fr/lists/", glossary: "fr/glossary/", personalities: "fr/personalities/", chronology: "fr/chronology/", overview: "fr/overview/", bilingual: "fr/bilingual/", intro: "fr/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
-    pt: { text: "pt/book/", topics: "pt/topics/", theology: "pt/theology/", qna: "pt/qna/", lists: "pt/lists/", glossary: "pt/glossary/", personalities: "pt/personalities/", chronology: "pt/chronology/", overview: "pt/overview/", bilingual: "pt/bilingual/", intro: "pt/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" }
+    pt: { text: "pt/book/", doctrine: "pt/doctrine/", topics: "pt/topics/", theology: "pt/theology/", qna: "pt/qna/", lists: "pt/lists/", glossary: "pt/glossary/", personalities: "pt/personalities/", chronology: "pt/chronology/", overview: "pt/overview/", bilingual: "pt/bilingual/", intro: "pt/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" }
   }
 };
 

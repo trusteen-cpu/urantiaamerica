@@ -9,7 +9,7 @@
  "ch28:6": "A adoração cresce pelo mesmo caminho que o conhecimento de Deus. Quanto mais profundamente Deus é conhecido, mais abrangente se torna a adoração, até que ela chega a ser, por fim, o mais elevado encantamento que uma criatura conhece. A adoração é uma alegria que brota do conhecer, e essa alegria, por sua vez, aprofunda o conhecer. Jesus exprimiu o mesmo fato nos termos da relação entre a parte e o todo.",
  "ch28:8": "Se a adoração é uma relação, ela não pode ser um monólogo solitário. Do lado humano, a adoração é uma experiência subjetiva, mas aquilo que essa experiência alcança é a mais real das realidades. O documento 196, “A Fé de Jesus”, deixa isso claro.",
  "ch28:10": "2. A adoração existe para a sua própria causa",
- "ch28:11": "Nada revela a natureza da adoração com mais nitidez do que a comparação com a prece. As duas são frequentemente oferecidas juntas, mas separam-se quanto ao motivo. A seção 3 do documento 5, “A Relação de Deus com o Indivíduo”, intitulada “A Verdadeira Adoração”, expõe a diferença deste modo.",
+ "ch28:11": "Nada revela a natureza da adoração com mais nitidez do que a comparação com a prece. As duas são freqüentemente oferecidas juntas, mas separam-se quanto ao motivo. A seção 3 do documento 5, “A Relação de Deus com o Indivíduo”, intitulada “A Verdadeira Adoração”, expõe a diferença deste modo.",
  "ch28:13": "Não adoramos a Deus por causa daquilo que Ele dá. “nós simplesmente adoramos a Deus, pelo que compreendemos que Ele seja” (5:3.3). O mesmo parágrafo expõe o motivo da adoração de modo ainda mais claro.",
  "ch28:15": "Aqui a adoração deixa inteiramente para trás a lógica da troca. Assim como amamos uma pessoa não pelo que ela tem, mas por quem ela é, a adoração se regozija em Deus por Ele mesmo. É por isso que, no momento em que algum interesse próprio entra na adoração, o caráter do ato se modifica.",
  "ch28:17": "Isso não torna a prece inferior. O mesmo parágrafo acrescenta que não há razão pela qual a prece não deva ser dirigida ao Pai como parte da verdadeira adoração (5:3.4). Jesus ensinou as duas funções como um par: a prece sustenta a vida, e a adoração a cria de novo.",
@@ -220,5 +220,1025 @@
    "2. Que mudança no meu trabalho e no meu serviço diários me pedem as palavras “A adoração é a técnica de voltar-se para o Um, para receber a inspiração do serviço de muitos” (143:7.6)?",
    "3. Se a adoração é uma experiência que faz o adorador cada vez mais semelhante ao ser adorado (146:2.17), que tipo de pessoa está fazendo de mim, agora, a imagem de Deus que eu contemplo?"
   ]
- }
+ },
+ "ch29:label": "Capítulo 29",
+ "ch29:title": "A prece",
+ "ch29:sub": "O respirar do crescimento espiritual",
+ "ch29:0": "No capítulo anterior, a adoração foi definida como um ato que nada pede. Será então a prece, que de fato pede alguma coisa, inferior à adoração? O Livro de Urântia não diz isso. A prece é o ato de ir a Deus com as necessidades de si próprio e do semelhante e, por meio dessas mesmas necessidades, torna-se um caminho de crescimento. Jesus apresentou a prece aos seus apóstolos com estas palavras.",
+ "ch29:2": "Assim como o respirar mantém o corpo vivo, a prece mantém a alma viva. Este capítulo pergunta o que é a prece, de onde ela veio e como cresceu, o que ela muda e o que não muda, e como é respondida. As chaves para essas perguntas estão no documento 91, “A Evolução da Prece”, e no ensinamento que Jesus deu aos seus apóstolos em Gilboa, em Jotapata e no caminho que partia de Betânia.",
+ "ch29:3": "1. A definição da prece: a atitude da alma para com o espírito",
+ "ch29:4": "No seu discurso no acampamento de Gilboa, Jesus definiu a prece não como uma fórmula fixa, mas como uma atitude da alma. João Batista havia ensinado aos seus discípulos uma prece curta, mas fizera isso para que tivessem alguma coisa a ensinar à multidão, e não para lhes dar uma forma fixa para a expressão das suas próprias almas (144:2.1).",
+ "ch29:6": "Três coisas estão contidas nessa definição. A prece é uma expressão pessoal e espontânea. A prece é a comunhão entre o Pai e o seu filho. E a prece conduz ao progresso espiritual da pessoa. As palavras, portanto, não são a essência da prece. O documento 91 diz: “Deus responde à atitude da alma, não às palavras” (91:8.12). As palavras de uma prece são meramente o canal intelectual pelo qual flui o rio da súplica espiritual.",
+ "ch29:7": "A prece é um ato subjetivo, mas não fica encerrada no subjetivo. Quando uma pessoa se estende para alcançar Deus, Deus responde. O documento 91 dá a conhecer a forma que essa resposta assume.",
+ "ch29:9": "Aquilo que a prece genuína dá a uma pessoa aponta na mesma direção. O fruto da prece não são coisas exteriores, mas o crescimento interior.",
+ "ch29:11": "2. A origem e a evolução da prece",
+ "ch29:12": "O Livro de Urântia não retrata a prece como algo completo desde o princípio. A prece cresceu à medida que crescia a autoconsciência humana. O seu ponto de partida foi a capacidade de ter consciência de um outro ser.",
+ "ch29:14": "Assim como uma criança que conversa com um companheiro imaginário transforma o monólogo em diálogo, o homem primitivo aprendeu primeiro a falar dirigindo-se a alguém. Esse alterego foi a princípio uma ficção, mas, ao longo das gerações, foi sendo progressivamente enaltecido até alcançar, por fim, o Deus Único.",
+ "ch29:16": {
+  "cap": "Tabela 29.1  O caminho percorrido pela prece (documento 91)",
+  "rows": [
+   [
+    "Estágio",
+    "A forma da prece",
+    "Fonte"
+   ],
+   [
+    "Pedidos de sorte",
+    "Monólogos não dirigidos à Deidade; uma espécie de pensamento em voz alta feito pelo servo da magia",
+    "91:0.2"
+   ],
+   [
+    "Pedidos a seres supra-humanos",
+    "Com os conceitos de fantasmas e espíritos, os pedidos passam a ter um destinatário supra-humano",
+    "91:0.3"
+   ],
+   [
+    "Diálogo com um alterego",
+    "Recitações dirigidas a ninguém em particular evoluem para uma comunicação na forma de diálogo",
+    "91:3.2"
+   ],
+   [
+    "Prece ao Deus Único",
+    "O alterego é enaltecido até tornar-se um ser divino que incorpora os ideais mais elevados",
+    "91:3.3"
+   ],
+   [
+    "Diálogo com o Deus residente",
+    "A idéia do alterego evolui até a verdade da presença factual do Ajustador",
+    "91:3.7"
+   ]
+  ]
+ },
+ "ch29:17": "Ao fim dessa evolução ocorre uma notável inversão. O interlocutor próximo imaginado pelo homem primitivo era uma ficção, mas a revelação dá a conhecer que Deus está de fato presente exatamente nesse lugar. A prece iluminada pensa no Pai no Paraíso e, ao mesmo tempo, reconhece o Ajustador residente.",
+ "ch29:19": "Como resultado dessa evolução, a prece tornou-se uma experiência dupla. É um processo psicológico que ocorre dentro da mente humana e, ao mesmo tempo, uma técnica espiritual de contato com o espírito que está além da mente. O documento 91 explica que a prece conduz o eu em duas direções.",
+ "ch29:21": "Assim, fracassa toda tentativa de explicar a prece como puramente psicológica, e também toda tentativa de explicá-la como puramente sobrenatural. O revelador diz: “A prece tem sido e será sempre uma experiência humana dupla” (91:3.6). O procedimento psicológico e a técnica espiritual nunca podem ser totalmente separados. O fato de a prece ser um ato psicológico salutar, que desperta os poderes latentes de uma pessoa, não nega que ela seja também o umbral do encontro com o Ajustador.",
+ "ch29:22": "A prece, portanto, tem raízes diferentes das da magia. As duas surgiram independentemente e apontam em direções opostas. “A magia era uma tentativa de ajustar a Deidade às circunstâncias; a prece é um esforço de ajustar a personalidade à vontade da Deidade” (91:8.2).",
+ "ch29:23": "3. O que a prece muda",
+ "ch29:24": "A diferença entre a magia e a prece conduz ao princípio mais fundamental da prece. A prece não muda Deus; quem muda é aquele que ora. Jesus enunciou esse princípio em Jotapata.",
+ "ch29:26": "Por que, então, Jesus disse aos seus seguidores que orassem com persistência? A parábola do vizinho que vai à meia-noite pedir pão emprestado e a da viúva que volta repetidamente ao juiz injusto ensinam ambas a persistência. Mas Jesus acrescentou de imediato uma palavra, para que o propósito dessa persistência não fosse mal compreendido.",
+ "ch29:28": "Que a prece mude a pessoa não é pouca coisa. Deus não muda, mas as suas dádivas são recebidas na medida em que o vaso destinado a recebê-las foi preparado. A prece amplia esse vaso.",
+ "ch29:29": "Jesus falou também, na linguagem da vontade, daquilo que a prece realiza dentro de uma pessoa. A prece é o processo de pôr a vontade humana em harmonia com a vontade de Deus e, desse modo, torna-se parte do plano divino de transformar aquilo que está sendo naquilo que deveria ser.",
+ "ch29:32": "O mesmo princípio resolve a relação entre a prece e o esforço. A prece não é um meio de dispensa do trabalho, mas uma fonte de força para quem trabalha. O documento 91 estabelece o equilíbrio deste modo.",
+ "ch29:34": {
+  "cap": "Tabela 29.2  O que a prece faz e o que ela não pode fazer",
+  "rows": [
+   [
+    "O que a prece não pode fazer",
+    "O que a prece faz",
+    "Fonte"
+   ],
+   [
+    "Não muda a atitude divina para com o homem",
+    "Muda a atitude do homem para com o imutável Pai",
+    "146:2.8"
+   ],
+   [
+    "Não pode evitar as demoras do tempo nem transcender as limitações do espaço",
+    "Expande a capacidade de receptividade espiritual da alma",
+    "146:2.9, 144:4.2"
+   ],
+   [
+    "Nunca deve tornar-se uma substituta para a ação",
+    "É um estímulo à ação e um guia para os esforços progressivos",
+    "91:4.2"
+   ],
+   [
+    "A menos que esteja em ligação com as forças espirituais pessoais, não tem efeito direto sobre o meio ambiente físico",
+    "Promove a felicidade pessoal, o autocontrole, a harmonia social e o progresso moral",
+    "91:6.1, 6.3"
+   ],
+   [
+    "Não resolve por nós as nossas dificuldades",
+    "Dá sabedoria e força espiritual enquanto enfrentamos os problemas que surgem",
+    "91:6.5"
+   ]
+  ]
+ },
+ "ch29:35": "4. A prece ética: pelos valores, não pelas coisas",
+ "ch29:36": "Se a prece é uma questão de mudar a pessoa, então aquilo que se pede ganha importância. O Livro de Urântia traça uma linha nítida entre a prece egoísta e a prece ética.",
+ "ch29:38": "A prece que espera de Deus favoritismo, a prece que Lhe pede que me ame mais do que aos Seus outros filhos, não é equânime (91:4.3). Jesus aconselhou uma mudança de direção: evitar orar demasiadamente para si próprio e orar mais pelo progresso espiritual dos semelhantes; evitar a prece materialista e orar pela abundância das dádivas do espírito (146:2.10). O próprio Jesus orava em geral no plural, não no singular, e orou para si próprio apenas nas grandes crises da sua vida terrena (144:4.6). O documento 91 resume o princípio numa única frase.",
+ "ch29:40": {
+  "cap": "Tabela 29.3  Da prece centrada no eu à prece ética",
+  "rows": [
+   [
+    "Forma inferior",
+    "Forma superior",
+    "Fonte"
+   ],
+   [
+    "Busca uma vantagem egoísta sobre os semelhantes",
+    "É equânime para com todos e não espera parcialidade",
+    "91:4.1, 4.3"
+   ],
+   [
+    "Pede favores materiais",
+    "Pede sabedoria, perdão e autodomínio",
+    "91:4.3"
+   ],
+   [
+    "Ora demasiadamente para si próprio",
+    "Ora mais pelo progresso espiritual dos semelhantes",
+    "146:2.10"
+   ],
+   [
+    "Ora apenas quando está em dificuldades",
+    "Fala ao Pai, como filho, mesmo quando tudo vai bem com a alma",
+    "146:2.12"
+   ],
+   [
+    "Busca algo para si ou para os outros",
+    "Quando nada busca, tende para o nível da verdadeira adoração",
+    "91:4.3"
+   ]
+  ]
+ },
+ "ch29:41": "A última linha da tabela mostra que a prece e a adoração estão unidas. Quanto mais profunda se torna a prece, menos ela pede e mais contempla. É por isso que Jesus exortou os seus seguidores a empregar a prece como um meio de serem conduzidos, pelo agradecimento, à verdadeira adoração (146:2.15).",
+ "ch29:42": "5. A resposta à prece",
+ "ch29:43": "Toda prece é respondida? A resposta de Jesus foi que isso depende de quão plenamente a prece está de acordo com a vontade do Pai. A prece de quem está inteiramente dedicado a fazer a vontade do Pai não pode falhar.",
+ "ch29:45": "Inversamente, o canal da prece pode ser fechado do lado humano. Em Jotapata, Jesus advertiu sobre o que um coração que abriga a iniqüidade faz à prece.",
+ "ch29:47": "Não é que Deus deixe de ouvir; é o homem que se retira do lugar da comunhão. O perdão opera do mesmo modo. O Pai já perdoou, mas esse perdão só se torna real na experiência de uma pessoa quando ela perdoa aos seus semelhantes (146:2.4). A resposta à prece nunca está separada da vida daquele que ora.",
+ "ch29:48": "É por isso que Jesus disse que existe apenas uma forma de prece apropriada para todos os filhos de Deus: “Apesar de tudo, seja feita a vossa vontade” (146:2.12). Mas como devemos compreender uma resposta que demora ou que não se vê? No caminho de Betânia para Pela, depois da morte de Lázaro, os apóstolos debateram-se exatamente com essa pergunta, e Jesus respondeu com dez princípios.",
+ "ch29:49": {
+  "cap": "Tabela 29.4  O ensinamento de Jesus sobre a resposta à prece (168:4.4–4.13)",
+  "rows": [
+   [
+    "Princípio",
+    "Conteúdo",
+    "Fonte"
+   ],
+   [
+    "O finito e o Infinito",
+    "A prece é limitada pelo conhecimento do finito; a resposta é condicionada pela visão e pelos objetivos do Infinito",
+    "168:4.4"
+   ],
+   [
+    "A demora",
+    "Uma prece aparentemente não respondida é muitas vezes presságio de uma resposta melhor que foi retardada",
+    "168:4.5"
+   ],
+   [
+    "A resposta na eternidade",
+    "A prece da fé pode ser tão ampla que a sua resposta só pode ser recebida no Paraíso",
+    "168:4.6"
+   ],
+   [
+    "A tradução",
+    "Uma prece distorcida pela ignorância e pela superstição é traduzida pelos seres espirituais antes de ser respondida",
+    "168:4.8"
+   ],
+   [
+    "As respostas espirituais",
+    "Todas as orações verdadeiras dirigem-se aos seres espirituais e são respondidas em realidades espirituais",
+    "168:4.9"
+   ],
+   [
+    "A entrega da fé",
+    "A fé sincera concede antecipadamente o direito de responder segundo a sabedoria e o amor",
+    "168:4.10"
+   ],
+   [
+    "As respostas em depósito",
+    "As respostas ficam em depósito, aguardando que alcancemos os níveis em que poderemos recebê-las",
+    "168:4.12"
+   ]
+  ]
+ },
+ "ch29:50": "No centro desses princípios está a relação entre pai e filho. A criança está sempre dentro do seu direito quando pede ao pai, e o pai está sempre dentro das suas obrigações quando a sua sabedoria superior dita que a resposta seja retardada, modificada ou adiada (168:4.11). Jesus concluiu deste modo.",
+ "ch29:52": "6. As condições para uma prece eficiente",
+ "ch29:53": "Ao encerrar a sua exposição sobre a prece, o documento 91 enumera as leis do pedido bem-sucedido. Essas sete condições não separam a prece da vida. A qualificação para orar é obtida ao se encarar com coragem os problemas da vida, ao se esgotar tudo o que é humanamente possível e ao se cumprir, de fato, a vontade do Pai.",
+ "ch29:54": {
+  "cap": "Tabela 29.5  As sete condições para uma prece eficiente (91:9.2–9.8)",
+  "rows": [
+   [
+    "Condição",
+    "Essência",
+    "Fonte"
+   ],
+   [
+    "1. Vigor",
+    "Encarar com sinceridade e coragem os problemas da realidade do universo",
+    "91:9.2"
+   ],
+   [
+    "2. Diligência",
+    "Exaurir honestamente toda possibilidade de ajustamento humano",
+    "91:9.3"
+   ],
+   [
+    "3. Entrega",
+    "Entregar todo desejo e toda aspiração ao abraço transformador do crescimento espiritual",
+    "91:9.4"
+   ],
+   [
+    "4. Escolha",
+    "Escolher de todo o coração a vontade divina e anular a indecisão",
+    "91:9.5"
+   ],
+   [
+    "5. Consagração",
+    "Dedicação sem reservas ao cumprimento efetivo da vontade do Pai",
+    "91:9.6"
+   ],
+   [
+    "6. Foco",
+    "Buscar a sabedoria divina para os problemas específicos encontrados na ascensão",
+    "91:9.7"
+   ],
+   [
+    "7. Fé",
+    "Possuir uma fé viva",
+    "91:9.8"
+   ]
+  ]
+ },
+ "ch29:55": "Essas condições não exigem nem erudição nem posição. A eficácia da prece não depende, de modo algum, do entendimento intelectual nem do status cultural daquele que ora (91:6.7). O revelador diz que a prece é o caminho mais rápido aberto a toda pessoa.",
+ "ch29:57": "Praticamente todas as preces do próprio Jesus eram feitas silenciosamente, no espírito e no coração (144:4.10). Ele ensinou que, depois de orar, se deveria permanecer por um momento em silêncio, para dar ao espírito residente a oportunidade de falar à alma atenta (146:2.17). A prece é, ao mesmo tempo, falar e ouvir. E essa espera silenciosa conduz a prece à adoração. O Livro de Urântia diz que, assim como a prece conduziu a alma de Jesus à supercomunhão com os Dirigentes Supremos do universo, ela conduzirá os mortais da Terra à comunhão da verdadeira adoração (144:4.4). A prece e a adoração são atos diferentes, mas estão num único caminho. Passar da prece que pede à prece de agradecimento, e do agradecimento à adoração que nada pede: este é o amadurecimento da prece.",
+ "ch29:58": "Conclusão: abrir as asas",
+ "ch29:59": "O ensinamento de O Livro de Urântia sobre a prece forma uma única corrente. A prece é a atitude pessoal e espontânea da alma para com o espírito, a comunhão entre o Pai e o seu filho. Cresceu do monólogo ao diálogo e de um alterego imaginário à conversa com o Deus residente. A prece não muda Deus, mas muda aquele que ora; por isso, torna-se verdadeira prece quando pede valores e não coisas, crescimento e não gratificação. A prece dedicada à vontade do Pai tem a resposta garantida, mas essa resposta vem segundo a sabedoria do tempo e da eternidade. O documento 91 retrata tudo isso numa única cena: até mesmo quando as correntes de ar estão ascendentes, pássaro algum pode planar a não ser de asas bem abertas (91:8.9). A prece é o abrir das próprias asas sobre as correntes espirituais ascendentes do universo. O próximo capítulo examina a cura, o lugar onde a prece e a fé se encontram com os sofrimentos do corpo e da mente.",
+ "ch29:60": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se a prece “muda a atitude do homem para com o imutável Pai” (146:2.8), quais das minhas atitudes as minhas preces recentes mudaram?",
+   "2. À luz do conselho “Orai apenas pelos valores, não pelas coisas; pelo crescimento, não pela gratificação” (91:8.13), o que mudaria se eu reescrevesse o conteúdo das minhas preces?",
+   "3. Como se apresentam as preces que pareciam não respondidas quando vistas de novo à luz dos princípios de 168:4, especialmente os princípios da demora e das respostas em depósito?"
+  ]
+ },
+ "ch30:label": "Capítulo 30",
+ "ch30:title": "A cura",
+ "ch30:sub": "A restauração do corpo, da mente e do espírito",
+ "ch30:0": "Os três capítulos anteriores, sobre a religião, a adoração e a prece, falaram do caminho pelo qual o homem chega a Deus. Mas quem percorre esse caminho é um ser que tem um corpo, e o corpo adoece e a mente é ferida. Qual é, então, a relação entre a doença e o sofrimento e Deus? A doença é a punição pelo pecado? A fé cura a doença? Por que Jesus algumas vezes curava os doentes e outras vezes se recusava a curar? O Livro de Urântia dá respostas coerentes a essas perguntas. Este capítulo começa pelas antiquíssimas teorias da humanidade sobre a doença e examina, a seguir, as verdadeiras causas do sofrimento, a ministração de cura de Jesus e os seus limites, e a relação entre a fé e os meios materiais, antes de perguntar o que significa a restauração plena do corpo, da mente e do espírito.",
+ "ch30:1": "1. As antiquíssimas teorias da humanidade sobre a doença",
+ "ch30:2": "Antes de falar da cura, O Livro de Urântia mostra primeiro como os seres humanos entenderam a doença. Para o homem primitivo, a doença e a morte eram inexplicáveis, e tudo aquilo que não podia ser explicado era atribuído aos espíritos.",
+ "ch30:4": "Como a doença era encarada como um fenômeno espiritual, o xamã era ao mesmo tempo curandeiro, sacerdote e médico (90:3.2). O documento 90, “O Xamanismo — Os Curandeiros e os Sacerdotes”, agrupa em cinco as teorias que as pessoas apresentaram para explicar a causa do sofrimento. Faltavam fatos à mente primitiva, mas ela era lógica a seu modo.",
+ "ch30:5": {
+  "cap": "Tabela 30.1  Cinco teorias sobre a doença e a morte (90:3.4–3.9)",
+  "rows": [
+   [
+    "Teoria",
+    "Conteúdo",
+    "Fonte"
+   ],
+   [
+    "1. Os fantasmas",
+    "A primeiríssima hipótese: os espíritos causam a doença retirando a alma do corpo",
+    "90:3.4"
+   ],
+   [
+    "2. A violência",
+    "Ferimentos e mortes de causa óbvia, como na guerra ou no combate com animais",
+    "90:3.5"
+   ],
+   [
+    "3. A magia",
+    "A crença de que o feitiço e o mau olhado dos inimigos causam a doença",
+    "90:3.7"
+   ],
+   [
+    "4. O pecado",
+    "A doença vista como punição pela violação de um tabu, resultado da ira divina",
+    "90:3.8"
+   ],
+   [
+    "5. A causação natural",
+    "A relação física de causa e efeito na energia, na matéria e na vida",
+    "90:3.9"
+   ]
+  ]
+ },
+ "ch30:6": "A quarta teoria, a idéia de que a doença é a punição pelo pecado, ainda hoje sobrevive amplamente, diz o revelador (90:3.8). Só com a quinta teoria o homem começou a olhar a doença sem medo.",
+ "ch30:8": "Contudo, essa história antiga encerra um fato que o leitor de hoje não deve deixar passar. As teorias dos antigos estavam erradas, mas os seus tratamentos nem sempre eram inúteis. Eles tinham uma fé ilimitada nos próprios métodos de tratamento, e o revelador diz: “e isso era já, por si mesmo, um poderoso remédio” (90:4.1). E esse fato não é verdadeiro apenas para os tempos antigos.",
+ "ch30:10": "O poder da fé sobre o corpo e a mente atua antes de qualquer acerto ou erro de uma teoria. Esse fato se mostrará uma chave importante para compreender, mais adiante, as curas de Jesus.",
+ "ch30:11": "2. O sofrimento não é uma punição de Deus",
+ "ch30:12": "A idéia de que a doença é a punição pelo pecado ainda prevalecia nos dias de Jesus. Os rabinos ensinavam que todos os casos de cegueira de nascença eram causados pelo pecado (164:3.3). Quando Natanael perguntou de quem era o pecado que havia causado a cegueira de um certo mendigo, Jesus respondeu: “Nem esse homem, nem os seus progenitores cometeram pecado” (164:3.7). Aquela cegueira viera pela seqüência natural dos acontecimentos. Quando João perguntou, em Betsaida, sobre os sofrimentos dos inocentes, Jesus expôs três causas do sofrimento.",
+ "ch30:14": "A terceira causa é a colheita da persistência na rebelião contra o governo justo do céu. A isso pertence o fato de que a ordem natural deste planeta tem sido, por tantas vezes, desorganizada pelas aventuras pecaminosas de rebeldes (148:5.2). Contudo, nenhuma das três causas é uma punição enviada diretamente por Deus. Jesus deixou isso claro repetidas vezes.",
+ "ch30:16": {
+  "cap": "Tabela 30.2  O ensinamento de Jesus sobre as causas do sofrimento",
+  "rows": [
+   [
+    "Causa",
+    "A descrição do texto",
+    "Fonte"
+   ],
+   [
+    "Os acidentes do tempo e as imperfeições do mal",
+    "As imperfeições inerentes a uma existência física imatura",
+    "148:6.11"
+   ],
+   [
+    "As conseqüências inexoráveis do pecado",
+    "A transgressão das leis da vida e da luz",
+    "148:6.11"
+   ],
+   [
+    "A colheita da rebelião",
+    "Colhida da persistência na rebelião contra o governo do céu",
+    "148:6.11, 5.2"
+   ],
+   [
+    "A vida errônea e os erros dos ancestrais",
+    "Longos anos de vida errônea, os acidentes do tempo, os erros dos ancestrais",
+    "147:3.3"
+   ],
+   [
+    "O que ele não é",
+    "As misérias do homem não são uma visitação pessoal de julgamento divino",
+    "148:6.11"
+   ]
+  ]
+ },
+ "ch30:17": "Esse ensinamento liberta o sofredor de um fardo duplo. Além da dor da doença, ele não precisa carregar também o medo de ter sido abandonado por Deus. Ao mesmo tempo, o ensinamento devolve ao homem a responsabilidade. O homem não deve culpar Deus pelos resultados naturais da vida que escolhe viver, e “O empenho inteligente capacitaria o homem a superar grande parte da sua miséria terrena” (148:5.3).",
+ "ch30:18": "3. As curas de Jesus e os seus limites",
+ "ch30:19": "Jesus curou muitos doentes. Contudo, O Livro de Urântia não retrata essas curas como o centro da sua proclamação do evangelho. Quando quase mil doentes se aglomeraram à sua volta, ao entardecer, em Cafarnaum, Jesus ficou profundamente comovido, mas conhecia um princípio.",
+ "ch30:21": "Naquele dia, Jesus passou a decisão sobre a cura para a vontade do seu Pai e, como a vontade do Pai não colocou nenhuma objeção, 683 pessoas foram curadas em poucos instantes (145:3.10). Mas o desfecho mostrou que o princípio de Jesus estava certo.",
+ "ch30:23": "Os que haviam sido curados esperaram até tarde da noite para agradecer-lhe, mas Jesus, muito perturbado com o que havia acontecido, retirou-se. Quando voltou, tarde, recusou as suas felicitações e a sua adoração, dizendo apenas:",
+ "ch30:25": "Ao amanhecer do dia seguinte, quando os apóstolos lhe disseram que os doentes estavam de novo se aglomerando, Jesus ainda assim partiu para outras cidades. Disse que a sua missão era a revelação do Pai e a proclamação do Reino, e que muitos dos que acorriam a ele para a cura dos seus corpos não vinham em busca da verdade e da salvação (145:5.6). Os prodígios de cura não eram parte do seu plano de proclamação do Reino; vieram incidentalmente, porque um ser com prerrogativas de criador estava na Terra, associado à misericórdia divina e à compaixão humana (145:3.15). As curas de Jesus registradas em O Livro de Urântia não são todas de um só tipo.",
+ "ch30:26": {
+  "cap": "Tabela 30.3  O caráter variado da cura na vida de Jesus",
+  "rows": [
+   [
+    "Caso",
+    "Caráter",
+    "Fonte"
+   ],
+   [
+    "A cura ao entardecer em Cafarnaum",
+    "Uma cura criativa em massa deixada à vontade do Pai, nunca repetida",
+    "145:3.10, 3.11"
+   ],
+   [
+    "O hospital de Betsaida",
+    "Recuperação por meio de tratamento material, prece e fé, sem milagres sobrenaturais",
+    "148:2.1, 2.2"
+   ],
+   [
+    "As curas espontâneas e inconscientes",
+    "Uma fé forte forçava a manifestação da cura na presença de Jesus",
+    "149:1.2, 1.8"
+   ],
+   [
+    "A cura de Verônica",
+    "Não o seu toque, mas a sua fé pura e viva a curou",
+    "152:0.3"
+   ],
+   [
+    "Josias, o cego",
+    "Uma obra que Jesus escolheu realizar com um propósito seu, empregando também meios materiais",
+    "164:3.13, 3.15"
+   ],
+   [
+    "O menino epilético",
+    "A cura tanto de um mal físico quanto de uma doença do espírito",
+    "158:5.5"
+   ]
+  ]
+ },
+ "ch30:27": "4. A fé e a cura",
+ "ch30:28": "Como a tabela mostra, muitas das curas de Jesus não foram milagres que ele quis conscientemente. A chave estava na fé daquele que era curado. Quando Verônica, há muito afligida por uma hemorragia, tocou a borda da sua veste no meio da multidão, Jesus a chamou à sua presença e corrigiu o seu equívoco.",
+ "ch30:30": "O revelador declara honestamente que nunca foi revelado com exatidão o que ocorreu nesses casos de cura espontânea (149:1.3). Ele oferece apenas a opinião de que três fatores atuavam juntos.",
+ "ch30:31": {
+  "cap": "Tabela 30.4  Três fatores que atuam juntos na cura espontânea (149:1.5–1.8)",
+  "rows": [
+   [
+    "Fator",
+    "A descrição do texto",
+    "Fonte"
+   ],
+   [
+    "A fé da criatura",
+    "Uma fé forte, dominante e viva, que deseja o benefício espiritual mais do que a restauração física",
+    "149:1.5"
+   ],
+   [
+    "A compaixão do Criador",
+    "A grande simpatia e compaixão do Filho Criador encarnado, com poderes de cura fora do tempo",
+    "149:1.6"
+   ],
+   [
+    "A vontade do Pai",
+    "Se a vontade do Pai não fosse diferente, a necessidade e o poder tornavam-se um",
+    "149:1.7"
+   ],
+   [
+    "Conclusão",
+    "Jesus freqüentemente proporcionava aos homens curarem a si próprios por meio da sua poderosa fé",
+    "149:1.8"
+   ]
+  ]
+ },
+ "ch30:33": "A expressão “proporcionava aos homens curarem a si próprios” é importante. A iniciativa da cura está naquele que crê. Essa fé buscava o benefício espiritual mais do que a restauração corporal. Em contraste, alguns buscavam a cura com propósitos puramente egoístas. Uma viúva rica de Tiro agia como se o poder de Deus pudesse ser comprado com dinheiro; buscava apenas a cura dos seus males físicos e nunca se tornou interessada no evangelho do Reino (149:1.9).",
+ "ch30:34": "As recuperações no hospital de Betsaida explicam-se pelo mesmo princípio. Durante o tempo em que mil doentes se recuperaram ali, nunca ocorreu nenhum milagre sobrenatural; contudo, os doentes não paravam de dizer que Jesus os havia curado (148:2.1). O revelador explica deste modo a natureza dessas recuperações.",
+ "ch30:36": "Um homem junto ao tanque de Betesda ilustra esse princípio da maneira mais simples. Durante muitos anos ele fora afligido pelas enfermidades da sua mente perturbada e havia esperado que alguém o ajudasse. Rejubilando-se com as palavras de Jesus, recolheu o seu leito e foi para casa, mesmo sendo dia de sábado.",
+ "ch30:38": "A fé não é magia; é um poder que levanta a pessoa presa pelo medo e pelo desamparo.",
+ "ch30:39": "5. Os meios materiais e a prece",
+ "ch30:40": "Se a fé é tão importante para a cura, a medicina é desnecessária? A resposta de O Livro de Urântia é decisiva. Quando Jesus curou o cego Josias, usou deliberadamente a saliva, a argila e a piscina de Siloé, e tinha ao fazê-lo um claro propósito de ensino.",
+ "ch30:42": "O hospital de Betsaida funcionava no mesmo espírito. Elman, o médico sírio, e os seus associados usavam todos os métodos materiais de tratamento conhecidos, junto com as práticas espirituais da prece e do encorajamento da fé (148:2.1). A medicina e a fé não competem; cooperam. O lugar da prece situa-se dentro dessa cooperação.",
+ "ch30:44": "Mesmo nas doenças bacterianas reais, a prece tem aumentado a eficácia de outros remédios e tem transformado muitos inválidos queixosos em paradigmas da paciência (91:6.2). Mas a prece não deve tomar o lugar dos cuidados. Jesus ensinou isso em Jotapata.",
+ "ch30:46": "6. A restauração plena do corpo, da mente e do espírito",
+ "ch30:47": "Qual é, então, a meta última da cura? Aos doentes reunidos junto ao tanque de Betesda, Jesus não deu um milagre, mas uma mensagem. Essa mensagem inverte as prioridades da cura.",
+ "ch30:49": "Essas prioridades concordam com a definição da sua missão que Jesus deu a Natanael. Quando os problemas do espírito são resolvidos, a mente é vivificada, e uma mente vivificada lida melhor com os problemas materiais.",
+ "ch30:51": "Que Jesus tenha dito primeiro ao paralítico: “Filho, não temas; os teus pecados estão perdoados” (148:9.2), e que a cura do menino epilético esteja registrada como “uma cura verdadeira para uma aflição dupla, um mal físico e uma doença do espírito” (158:5.5), aponta na mesma direção. A verdadeira cura é a restauração da pessoa inteira.",
+ "ch30:52": {
+  "cap": "Tabela 30.5  Três dimensões da cura",
+  "rows": [
+   [
+    "Dimensão",
+    "A forma da cura",
+    "Fonte"
+   ],
+   [
+    "O corpo",
+    "Os meios materiais não são desprezados; o empenho inteligente supera grande parte da miséria",
+    "164:3.15, 148:5.3"
+   ],
+   [
+    "A mente",
+    "Transformações da mente e do espírito que expulsam o medo e põem fim à ansiedade",
+    "148:2.2"
+   ],
+   [
+    "O espírito",
+    "A purificação das doenças espirituais e a cura das enfermidades morais",
+    "147:3.3"
+   ],
+   [
+    "A pessoa inteira",
+    "A cura tanto de um mal físico quanto de uma doença do espírito",
+    "158:5.5"
+   ]
+  ]
+ },
+ "ch30:53": "Essa cura é possível mesmo quando o corpo nunca é curado. Jó nunca soube a razão do seu sofrimento, mas alcançou uma visão de Deus. Jesus resumiu essa vitória com estas palavras.",
+ "ch30:55": "A cura do corpo um dia termina, mas a paz de alma que vem da visão de Deus continua para além da morte. Vale lembrar que uma das marcas da fé genuína vistas no capítulo 27 era a manutenção do equilíbrio em meio à doença e ao sofrimento agudo (101:3.8).",
+ "ch30:56": "Conclusão: para além do corpo, a pessoa inteira",
+ "ch30:57": "O ensinamento de O Livro de Urântia sobre a cura desdobra-se deste modo. Durante longas idades, a humanidade atribuiu a doença aos espíritos, à magia e ao pecado, mas Jesus deixou claro que o sofrimento não é uma punição arbitrária de Deus. O sofrimento vem dos acidentes do tempo e das imperfeições do mal, das conseqüências do pecado e da colheita da rebelião. Jesus curou muitos doentes, mas não construiu um movimento espiritual sobre prodígios materiais, e muitas das suas curas foram operadas pela própria fé viva das pessoas. A fé não substitui a medicina, e a prece não substitui os cuidados amorosos. E a meta última da cura vai além da restauração do corpo, até a restauração da pessoa inteira, purificada das doenças espirituais e das enfermidades morais. Com isso, completam-se as doutrinas da salvação e da vida religiosa da sexta parte. A sétima parte, apoiando-se nesses ensinamentos, examina a relação entre a religião de Jesus e o cristianismo.",
+ "ch30:58": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Como o ensinamento de que o sofrimento “não é uma visitação pessoal de julgamento divino” (148:6.11) muda o modo como trato as pessoas doentes ou que sofrem?",
+   "2. Como o homem junto ao tanque de Betesda (147:3.5), estou apenas esperando que alguém me ajude, adiando aquilo que eu mesmo poderia levantar-me e fazer?",
+   "3. Se ser purificado das doenças espirituais é algo maior do que a cura do corpo (147:3.3), em que dimensão está a cura de que mais preciso agora?"
+  ]
+ },
+ "ch31:label": "Capítulo 31",
+ "ch31:title": "A origem, o desenvolvimento e o futuro do cristianismo",
+ "ch31:0": "O Livro de Urântia retrata a religião como o ponto de encontro de dois caminhos: o caminho evolucionário pelo qual o homem busca Deus e o caminho revelatório pelo qual Deus busca o homem. No mundo ocidental, esse encontro deu o seu maior fruto no cristianismo. Este capítulo pergunta como O Livro de Urântia compreende o cristianismo. De onde veio o cristianismo, que caminho percorreu e para onde deve ir? O Livro de Urântia não responde a essas perguntas com condenação. Honra grandemente as contribuições do cristianismo, mas declara com honestidade como o cristianismo chegou a diferir da religião do próprio Jesus.",
+ "ch31:1": "A definição mais concisa do cristianismo em O Livro de Urântia aparece numa passagem que classifica as religiões do mundo do século vinte.",
+ "ch31:3": "Essa definição contém a chave de todo o capítulo. O cristianismo é uma religião “sobre a vida e os ensinamentos de Cristo”. A religião que o próprio Jesus viveu e a religião construída sobre Jesus estão ligadas entre si, mas não são a mesma coisa. Se nos apegarmos a essa distinção, a origem, o desenvolvimento e o futuro do cristianismo poderão ser lidos como uma única linha lógica. A sua origem foi a passagem da religião de Jesus para uma religião sobre Jesus; o seu desenvolvimento foi a ampliação dessa religião por meio de concessões às culturas do mundo; e o seu futuro é o despertar da religião de Jesus que jaz adormecida dentro dela. Este capítulo confirma, a partir do texto, esses três elos, um após o outro.",
+ "ch31:4": "1. A origem: do evangelho do Reino ao evangelho de Cristo",
+ "ch31:5": "O que Jesus proclamou foi o evangelho do Reino: a paternidade de Deus e a irmandade dos homens. Mas, depois da cruz, da ressurreição e de Pentecostes, o centro da pregação dos discípulos deslocou-se. O Livro de Urântia registra esse deslocamento como a cena inicial do nascimento do cristianismo.",
+ "ch31:7": "Essa mudança não brotou da má vontade. Os discípulos estavam inflamados pela sua experiência com o Senhor ressuscitado e consideravam o relato dessa experiência como a própria pregação do evangelho. Ao mesmo tempo que aponta o erro que essa primeira comunidade cometeu, O Livro de Urântia fala também da sua grandeza.",
+ "ch31:9": "A sua grandeza e o seu erro cresceram de uma única raiz. A boa vontade dos discípulos não surgiu do reconhecimento da irmandade dos homens, mas de um amor nascido do conceito da autodoação de Jesus (194:4.6). Eles formaram uma irmandade de crentes em Jesus, e essa irmandade fez surgir um maravilhoso amor fraternal. Mas, no centro desse amor, estava o “Pai do Senhor Jesus”, e não o “Pai amantíssimo de todos os homens”. O documento 196 resume esse começo com os nomes de dois apóstolos.",
+ "ch31:11": "Note-se a palavra “involuntariamente”. Pedro não se propôs fundar uma nova religião. Simplesmente contou o que tinha visto e, à medida que esse relato se acumulou, tornou-se uma religião. O documento 195 resume: “Pedro foi o verdadeiro fundador da igreja cristã; Paulo levou a mensagem cristã aos gentios, e os crentes gregos difundiram-na por todo o império romano.” (195:0.1) Quando o povo judeu, preso à lei e à tradição, não pôde aceitar o novo evangelho, a corrente da evolução religiosa deslocou-se para o ocidente.",
+ "ch31:13": {
+  "cap": "Tabela 31.1  Os sete fios que formaram o cristianismo (98:7.3–7.10)",
+  "rows": [
+   [
+    "Fio",
+    "Conteúdo",
+    "Fonte"
+   ],
+   [
+    "Os ensinamentos de Melquisedeque",
+    "Um fator básico em todas as religiões do Ocidente e do Oriente nos últimos quatro mil anos",
+    "98:7.4"
+   ],
+   [
+    "A religião hebraica",
+    "Moralidade, ética, teologia e crença tanto na Providência quanto no supremo Yavé",
+    "98:7.5"
+   ],
+   [
+    "O zoroastrismo",
+    "A concepção da luta cósmica entre o bem e o mal; moldou a estrutura dos dogmas e da cosmologia",
+    "98:7.6"
+   ],
+   [
+    "Os cultos dos mistérios",
+    "O mitraísmo e a adoração da Grande Mãe; influenciaram até as lendas do nascimento",
+    "98:7.7"
+   ],
+   [
+    "A vida de Jesus",
+    "O fato da vida humana de Joshua ben José e a realidade do Cristo glorificado",
+    "98:7.8"
+   ],
+   [
+    "O ponto de vista de Paulo",
+    "Cartas aos seus convertidos, consideradas mais tarde como a “palavra de Deus”",
+    "98:7.9"
+   ],
+   [
+    "A filosofia grega",
+    "Em maior harmonia com a versão de Paulo do cristianismo; um fator do seu sucesso no Ocidente",
+    "98:7.10"
+   ]
+  ]
+ },
+ "ch31:14": "2. A expansão: helenização e concessões",
+ "ch31:15": "Como uma mensagem que começou na Galiléia conquistou as melhores mentes do império romano? O Livro de Urântia dá cinco razões: a organização de Paulo, a helenização profunda, o ideal novo e grande deixado pela vida auto-outorgada de Jesus e duas séries de concessões, primeiro ao culto mitraico e depois ao paganismo. Importa que o ideal de Jesus esteja no centro dessa lista. A organização e as concessões foram meios; o poder que de fato atraía as pessoas vinha da vida de Jesus. O cenário, além disso, estava preparado. O mundo ocidental havia herdado um grande legado na filosofia, na arte e na política, mas “não tinham tido nenhuma religião que satisfizesse à alma” (195:0.2). Ao entrar nessa terra faminta, o cristianismo não permaneceu uma chamada espiritual simples; apresentou-se como uma ordem para a vida inteira.",
+ "ch31:17": "Contudo, a razão final pela qual o cristianismo prevaleceu não foi nem a teoria nem a organização, mas a vida dos seus crentes. O Livro de Urântia declara claramente o que deu ao cristianismo a sua maior força.",
+ "ch31:19": {
+  "cap": "Tabela 31.2  Cinco razões pelas quais o cristianismo triunfou sobre os seus rivais (195:0.5–0.10)",
+  "rows": [
+   [
+    "Razão",
+    "A explicação do texto",
+    "Fonte"
+   ],
+   [
+    "1. A organização",
+    "Paulo era um grande organizador, e os seus sucessores mantiveram o ritmo que ele estabeleceu",
+    "195:0.6"
+   ],
+   [
+    "2. A helenização",
+    "Abrangia o melhor da filosofia grega, bem como a nata da teologia hebraica",
+    "195:0.7"
+   ],
+   [
+    "3. Um ideal novo",
+    "O eco da vida auto-outorgada de Jesus e uma mensagem de salvação para toda a humanidade",
+    "195:0.8"
+   ],
+   [
+    "4. Concessões ao mitraísmo",
+    "A melhor metade dos seus adeptos fora conquistada do culto da Antioquia",
+    "195:0.9"
+   ],
+   [
+    "5. Concessões ao paganismo",
+    "Nas gerações posteriores, conquistou até mesmo Constantino para a nova religião",
+    "195:0.10"
+   ]
+  ]
+ },
+ "ch31:20": "As concessões tiveram um preço. Contudo, O Livro de Urântia não as considera simples corrupção. Os líderes deixaram de lado parte dos ideais de Jesus para salvar muitas das suas idéias, e o resultado trouxe tanto perdas quanto ganhos. E os reveladores insistem em que aquilo que pareceu perdido não desapareceu de fato.",
+ "ch31:22": {
+  "cap": "Tabela 31.3  O balanço das concessões: o que a velha ordem conquistou e o que o cristianismo ganhou",
+  "rows": [
+   [
+    "Categoria",
+    "Conteúdo",
+    "Fonte"
+   ],
+   [
+    "Vitórias da velha ordem",
+    "Muitas vitórias menores de natureza ritualista; o fausto pagão entrou no culto",
+    "195:0.13, 195:3.6"
+   ],
+   [
+    "Ascendência cristã 1",
+    "Uma nota nova e enormemente mais elevada na moral humana",
+    "195:0.14"
+   ],
+   [
+    "Ascendência cristã 2",
+    "Um conceito novo e ampliado de Deus",
+    "195:0.15"
+   ],
+   [
+    "Ascendência cristã 3",
+    "A esperança de imortalidade tornou-se parte da reafirmação de uma religião reconhecida",
+    "195:0.16"
+   ],
+   [
+    "Ascendência cristã 4",
+    "Jesus de Nazaré foi dado à alma sedenta do homem",
+    "195:0.17"
+   ]
+  ]
+ },
+ "ch31:23": "Os quatro ganhos do cristianismo não foram de modo algum pequenos. O padrão da moral foi elevado, o conceito de Deus foi ampliado e a esperança de imortalidade tomou o seu lugar dentro da segurança religiosa. Acima de tudo, Jesus de Nazaré foi dado às almas sedentas. Muitas das verdades de Jesus foram quase perdidas nessas concessões, mas “ainda permanecem como que adormecidas nessa religião de cristianismo paganizado” (195:0.18).",
+ "ch31:24": "Roma adotou Cristo como a sua filosofia moral. O império precisava de um Deus, e o cristianismo precisava do império. Essa união deu ao cristianismo um amplo cenário, mas trouxe também o perigo de transformá-lo numa cultura, em vez de uma experiência da alma.",
+ "ch31:26": "O mesmo parágrafo prossegue dizendo que muitos indivíduos penetraram abaixo da superfície dessa religião estatal e encontraram dentro dela verdades latentes como alimento para as suas almas. Mesmo quando a instituição tomou o lugar da experiência, a alma individual que buscava a verdade ainda tirava água viva de dentro dessa instituição.",
+ "ch31:27": "3. O longo percurso: hibernação e rejuvenescimento",
+ "ch31:28": "Por estar a igreja ligada à sociedade e à política, o cristianismo declinou juntamente com o Ocidente no seu tempo de declínio. A religião tornou-se monástica e regulamentada, e o indivíduo quase desapareceu diante da autoridade da igreja. Contudo, o cristianismo suportou essa longa noite e sobreviveu. O Livro de Urântia condensa todas essas reviravoltas numa única passagem.",
+ "ch31:30": "A conclusão que os reveladores tiram desse percurso não é o pessimismo. O mesmo parágrafo diz que tal genealogia “indica a vitalidade inerente e a posse de vastos recursos de recuperação” (195:4.4). A fonte dessa vitalidade é o ensinamento de Jesus que o cristianismo traz dentro de si. As instituições, os rituais e as filosofias trocaram de vestes de era em era, mas a vida e as palavras de Jesus envoltas nessas vestes chamaram de novo, em cada geração, indivíduos que buscavam a verdade. É por causa desse conteúdo que o cristianismo, uma e outra vez à beira do colapso, voltou à vida.",
+ "ch31:32": {
+  "cap": "Tabela 31.4  As etapas da história cristã (documento 195)",
+  "rows": [
+   [
+    "Etapa",
+    "Características",
+    "Fonte"
+   ],
+   [
+    "Origem",
+    "A religião de Jesus transformada numa religião sobre Jesus",
+    "195:4.4"
+   ],
+   [
+    "Helenização",
+    "Começou de fato com o discurso de Paulo em Atenas; enraizou-se onde quer que prevalecesse a cultura grega",
+    "195:1.1, 195:1.10"
+   ],
+   [
+    "Romanização e paganização",
+    "Tornou-se a cultura moral de Roma e adotou o fausto ritualista dos pagãos",
+    "195:2.5, 195:0.11"
+   ],
+   [
+    "A idade das trevas",
+    "Monástica, ascética, regulamentada; num sentido espiritual, em hibernação",
+    "195:4.1"
+   ],
+   [
+    "Rejuvenescimento e fragmentação",
+    "Reabilitação depois da renascença; numerosas seitas adequadas aos tipos de personalidade",
+    "195:4.3"
+   ],
+   [
+    "A prova moderna",
+    "O desafio de um tempo de mentes científicas e de tendências materialistas",
+    "195:4.5"
+   ]
+  ]
+ },
+ "ch31:33": "4. O cristianismo hoje: fraquezas e forças",
+ "ch31:34": "O Livro de Urântia não oculta os problemas do cristianismo do século vinte. O seu maior perigo não é a perseguição vinda de fora, mas um endurecimento que procede de dentro.",
+ "ch31:36": "Outro problema é o seu caráter de segunda mão. Os reveladores dizem que mesmo o cristianismo “não é apenas uma religião sobre Jesus, mas é amplamente uma religião na qual os homens experimentam coisas por intermédio de outras pessoas” (195:9.8). As pessoas aceitam a religião tal como os seus instrutores a transmitem, sem prosseguir até experimentar por si mesmas a presença de Deus. Contudo, essa crítica não termina em desprezo. Os reveladores também nomeiam com honestidade a razão pela qual as pessoas modernas evitam a religião de Jesus: ela não deixa a pessoa como está.",
+ "ch31:38": "O formalismo, a organização e a religião de segunda mão são todos modos de suavizar essa exigência. Quando uma religião é racionalizada, tradicionalizada e institucionalizada, o seu poder de me transformar também se enfraquece. Ainda assim, a crítica do texto nunca se converte em desdém. O Livro de Urântia adverte claramente contra considerar o cristianismo superficialmente.",
+ "ch31:40": {
+  "cap": "Tabela 31.5  A avaliação de O Livro de Urântia sobre o cristianismo de hoje",
+  "rows": [
+   [
+    "Aspecto",
+    "O diagnóstico do texto",
+    "Fonte"
+   ],
+   [
+    "Ameaça",
+    "O formalismo, a super-organização, o intelectualismo e outras tendências não espirituais",
+    "195:9.10"
+   ],
+   [
+    "Caráter de segunda mão",
+    "Uma religião experimentada por intermédio de outros, tomada tal como passada pelos instrutores",
+    "195:9.8"
+   ],
+   [
+    "Divisão",
+    "Defronta-se com a condenação incorporada no slogan “Uma casa dividida, contra si própria, não poderá sobreviver”",
+    "195:10.11"
+   ],
+   [
+    "Contribuição",
+    "Um dos grandes poderes para o bem na Terra",
+    "195:10.12"
+   ],
+   [
+    "Vitalidade",
+    "Contém o suficiente dos ensinamentos de Jesus para imortalizar-se",
+    "195:10.18"
+   ]
+  ]
+ },
+ "ch31:41": "5. O futuro: o caminho de volta a Jesus",
+ "ch31:42": "Por trás desse diagnóstico há uma única distinção. Para os reveladores, as fraquezas do cristianismo vêm sobretudo da sua distância da religião de Jesus, e as suas forças vêm sobretudo da religião de Jesus que ele ainda conserva. O caminho para remediar as fraquezas e o caminho para fortalecer as forças apontam, portanto, na mesma direção.",
+ "ch31:43": "Onde está, então, o futuro do cristianismo? A resposta de O Livro de Urântia é simples: não em voltar ao cristianismo primitivo, mas em mover-se em direção a Jesus a partir de onde agora estamos. O documento 195 diz: “É inútil falar de um renascimento da primitiva cristandade; vós deveis seguir para frente, partindo de onde estais.” (195:10.1)",
+ "ch31:45": "Quem conduzirá essa renovação? O Livro de Urântia diz que ela espera novos líderes. Não são administradores de instituições, mas homens e mulheres espirituais que dependem apenas de Jesus e dos seus ensinamentos.",
+ "ch31:47": "O quadro do futuro aqui não é uma reorganização de instituições, mas uma transformação de pessoas. Quando os homens e mulheres nascidos do espírito estão em primeiro lugar, a liderança necessária para a reorganização da sociedade, da moral, da economia e da política decorre deles (195:9.4). Jesus vivendo de novo na experiência dos crentes: essa é a substância da renovação do cristianismo. E essa renovação começa diante da própria cruz que o cristianismo louvou por tanto tempo.",
+ "ch31:49": {
+  "cap": "Tabela 31.6  A direção da renovação do cristianismo",
+  "rows": [
+   [
+    "Afastando-se de",
+    "Em direção a",
+    "Fonte"
+   ],
+   [
+    "Um renascimento do cristianismo primitivo",
+    "Avançar a partir de onde nos encontramos",
+    "195:10.1"
+   ],
+   [
+    "A ocupação com problemas sociais e materiais",
+    "Novos instrutores devotados à regeneração espiritual dos homens",
+    "195:9.4"
+   ],
+   [
+    "A experiência religiosa de segunda mão",
+    "A experiência real de conhecer a presença de Deus",
+    "195:9.8"
+   ],
+   [
+    "O apadrinhamento dos sistemas sociais do Ocidente",
+    "O evangelho vivo da paternidade de Deus e da irmandade dos homens",
+    "195:10.21"
+   ]
+  ]
+ },
+ "ch31:50": "Conclusão: a religião de Jesus adormecida dentro da religião sobre Jesus",
+ "ch31:51": "A lógica do cristianismo tal como O Livro de Urântia a retrata é esta. O cristianismo nasceu como uma religião sobre a vida e os ensinamentos de Jesus. Por meio da helenização e das concessões, conquistou o mundo romano e, a esse preço, obscureceu parte dos ideais de Jesus. Contudo, esses ideais não desapareceram; permanecem latentes no seu evangelho e, por causa dessas verdades latentes, o cristianismo pôde levantar-se de novo depois da sua longa hibernação. O futuro do cristianismo, portanto, não vem de fora; vem do Jesus que ele já traz dentro de si. O próximo capítulo examina como o próprio O Livro de Urântia, que procura tornar de novo visível essa religião de Jesus, se situa em relação ao cristianismo: o que ele leva adiante e o que amplia.",
+ "ch31:52": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Os discípulos tomaram os “comentários vivos e ilustrativos a respeito do evangelho do Reino” (194:4.6) pelo próprio evangelho. O que isso me pede quanto àquilo que coloco em primeiro lugar quando partilho a minha fé com os outros?",
+   "2. Se as concessões dos primeiros líderes salvaram muitas das idéias de Jesus, mas obscureceram os seus ideais (195:0.12), onde está o equilíbrio entre guardar a verdade e difundi-la?",
+   "3. Se a esperança do cristianismo está em Jesus vivendo de novo na experiência dos crentes (195:10.1), como seria isso na minha vida hoje?"
+  ]
+ },
+ "ch32:label": "Capítulo 32",
+ "ch32:title": "O cristianismo e O Livro de Urântia",
+ "ch32:sub": "Continuidade e expansão",
+ "ch32:0": "O capítulo anterior examinou como O Livro de Urântia vê a origem, a história e o futuro do cristianismo. Este capítulo dá um passo adiante e pergunta como o próprio O Livro de Urântia se situa em relação ao cristianismo. Apresenta-se ele como uma nova religião que substitui o cristianismo, ou procura levar adiante algo que está dentro do cristianismo e ampliar algo mais? Para responder, precisamos saber primeiro como O Livro de Urântia compreende a revelação. Quando a revelação é vista não como uma série de acontecimentos desconexos, mas como um processo contínuo, a relação entre o cristianismo e O Livro de Urântia aparece não como oposição, mas como continuidade e expansão. Este capítulo examina essa relação em quatro camadas: o princípio da revelação contínua, aquilo que O Livro de Urântia leva adiante, aquilo que procura ampliar e a relação entre a igreja e o Reino.",
+ "ch32:1": "1. A revelação continua e cresce",
+ "ch32:2": "O primeiro princípio que O Livro de Urântia estabelece sobre a revelação é que a revelação é progressiva. Nem toda a verdade é dada numa única revelação; ao contrário, a luz aumenta passo a passo ao longo da história de um mundo.",
+ "ch32:4": "O mesmo parágrafo dá também a razão. Se a revelação deve enaltecer a religião evolucionária, não pode distanciar-se muito do pensamento da sua época, e assim “A religião da revelação deve sempre ser limitada pela capacidade do homem para recebê-la” (92:4.1). De acordo com esse princípio, O Livro de Urântia nomeia cinco revelações de significado epocal na história de Urântia. A quarta é Jesus de Nazaré, e a quinta são os Documentos de Urântia.",
+ "ch32:5": {
+  "cap": "Tabela 32.1  As cinco revelações epocais em Urântia (92:4.4–4.9)",
+  "rows": [
+   [
+    "Ordem",
+    "Revelação",
+    "Essência",
+    "Fonte"
+   ],
+   [
+    "1",
+    "Os ensinamentos dalamatianos",
+    "Promulgaram pela primeira vez o verdadeiro conceito da Primeira Fonte e Centro",
+    "92:4.5"
+   ],
+   [
+    "2",
+    "Os ensinamentos edênicos",
+    "Retrataram uma vez mais o conceito do Pai de todos",
+    "92:4.6"
+   ],
+   [
+    "3",
+    "Melquisedeque de Salém",
+    "Confiança e fé; a fé como o ato por meio do qual os homens ganham o favorecimento de Deus",
+    "92:4.7"
+   ],
+   [
+    "4",
+    "Jesus de Nazaré",
+    "Apresentou Deus como o Pai Universal; a essência do seu ensinamento foi amor e serviço",
+    "92:4.8"
+   ],
+   [
+    "5",
+    "Os Documentos de Urântia",
+    "Uma apresentação composta, efetuada por muitos seres",
+    "92:4.9"
+   ]
+  ]
+ },
+ "ch32:6": "Das cinco revelações, a que está diretamente ligada ao cristianismo é a quarta. O Livro de Urântia resume a revelação de Jesus com estas palavras.",
+ "ch32:8": "A expressão “perdurou em geral” indica com precisão o papel do cristianismo. Que os ensinamentos de Jesus tenham sobrevivido por quase dois mil anos deve-se ao cristianismo, que os transmitiu e os guardou. O cristianismo foi o vaso que levou a quarta revelação de geração em geração. A quinta revelação não veio para quebrar esse vaso. Veio para trazer de novo à luz aquilo que o vaso contém.",
+ "ch32:9": "Nessa lista, O Livro de Urântia coloca a revelação de Jesus antes de si mesmo. A quinta revelação não procura superar a quarta, mas lançar sobre ela uma luz nova. Ao mesmo tempo, O Livro de Urântia declara francamente os limites da sua própria revelação.",
+ "ch32:11": "Essa recusa em exaltar-se como a revelação final é importante para compreender a sua relação com o cristianismo. O Livro de Urântia não procura derrubar as verdades do cristianismo e assentar-se no lugar delas. Antes, como um elo de uma revelação contínua, procura tornar mais brilhante a luz conservada pelo elo anterior.",
+ "ch32:12": "2. O que ele leva adiante: os registros e os conceitos humanos",
+ "ch32:13": "O modo como O Livro de Urântia leva adiante o cristianismo aparece com mais clareza nos princípios pelos quais ele narra a vida de Jesus. O narrador, uma criatura intermediária, declara que o propósito não era descartar os evangelhos, mas fazer uso deles (121:8.1). Depois de explicar, um por um, as circunstâncias em que os quatro evangelhos foram escritos, ele avalia os seus autores deste modo.",
+ "ch32:15": "O narrador diz ainda que se valeu de conceitos dos ensinamentos de Jesus reunidos por mais de dois mil seres humanos, desde os tempos de Jesus até a sua própria época, e recorreu à revelação apenas quando a expressão humana faltou (121:8.13). O Livro de Urântia apóia-se, assim, nos discernimentos acumulados pelos homens e mulheres sabedores de Deus da história cristã, e honra-os.",
+ "ch32:16": "A sua visão das escrituras segue o mesmo princípio. Jesus ensinou a Natanael que as escrituras são obra dos homens e refletem o grau de iluminação das suas épocas, mas não menosprezou o seu valor.",
+ "ch32:18": "Essas palavras distinguem entre honrar as escrituras e fazer delas um ídolo. Jesus disse que as escrituras contêm também bastante coisa que representa de um modo falso o Pai do céu, mas não considerou que isso apagasse o valor das escrituras como um todo. As escrituras são sagradas porque são o registro de homens que estavam em busca de Deus (159:4.4). A atitude de O Livro de Urântia para com as escrituras é a mesma. Não as descarta; procura revelar com mais clareza o próprio Deus que os seus autores buscavam.",
+ "ch32:19": "Aquilo que Jesus contestou não foram as escrituras em si, mas a doutrina que afirma a sua infalibilidade. Ele deixou claro onde reside a autoridade da verdade.",
+ "ch32:21": {
+  "cap": "Tabela 32.2  O ensinamento de Jesus sobre as escrituras (159:4)",
+  "rows": [
+   [
+    "Questão",
+    "A resposta de Jesus",
+    "Fonte"
+   ],
+   [
+    "A origem das escrituras",
+    "Obra de homens, alguns deles santos, outros não tão santos",
+    "159:4.3"
+   ],
+   [
+    "O valor das escrituras",
+    "A melhor coleção de sabedoria religiosa e verdade espiritual",
+    "159:4.3"
+   ],
+   [
+    "Por que as escrituras são sagradas",
+    "Apresentam os pensamentos e atos de homens que estavam em busca de Deus",
+    "159:4.4"
+   ],
+   [
+    "A pretensão de infalibilidade",
+    "Nada que a natureza humana houver tocado pode ser considerado infalível",
+    "159:4.8"
+   ],
+   [
+    "A autoridade da verdade",
+    "O próprio espírito que reside nas suas manifestações vivas",
+    "159:4.7"
+   ]
+  ]
+ },
+ "ch32:22": "3. O que ele amplia: a religião de Jesus",
+ "ch32:23": "A maior coisa que O Livro de Urântia procura acrescentar ao cristianismo não é uma nova doutrina, mas a religião do próprio Jesus. Os reveladores colocam lado a lado a religião que Jesus fundou e a religião que Paulo fundou.",
+ "ch32:25": "O mesmo parágrafo diz que ambos os conceitos eram potenciais na vida divino-humana de Jesus. Aquilo que O Livro de Urântia espera, portanto, não é descartar a religião de Paulo, mas recuperar a outra metade que ela perdeu de vista e unir os dois conceitos num só. Essa metade perdida é o Jesus humano que lutou.",
+ "ch32:27": "Recuperar o Jesus humano não é apenas uma questão de reconstrução histórica. Desse modo, ele se tornou “o novo caminho vivo pelo qual todos os mortais podem ascender, dessa forma, da humanidade à divindade” (196:2.4). Quando à fé que adora Jesus se une a fé que confia no Pai juntamente com Jesus, o cristianismo recupera a sua amplitude original. É também por isso que O Livro de Urântia narra a vida de Jesus com tanta extensão e tanto detalhe. Se o cristianismo há de recuperar o seu poder, deve, acima de tudo, encontrar-se de novo com o próprio Jesus.",
+ "ch32:29": {
+  "cap": "Tabela 32.3  A religião de Jesus e a religião sobre Jesus (196:2)",
+  "rows": [
+   [
+    "Categoria",
+    "A religião de Jesus",
+    "A religião sobre Jesus",
+    "Fonte"
+   ],
+   [
+    "Fundamento",
+    "A experiência religiosa pessoal do Jesus da Galiléia",
+    "A experiência religiosa pessoal do apóstolo Paulo",
+    "196:2.1"
+   ],
+   [
+    "Centro",
+    "Fazer a vontade de Deus e servir à irmandade humana",
+    "A adoração do Jesus glorificado",
+    "196:2.6"
+   ],
+   [
+    "Irmandade",
+    "Todos os homens sob a paternidade de Deus",
+    "Os irmãos crentes no Cristo divino",
+    "196:2.6, 196:2.11"
+   ],
+   [
+    "Imagem de Jesus",
+    "O valente Jesus humano que lutou",
+    "O Cristo divino",
+    "196:2.4"
+   ],
+   [
+    "Visão do homem",
+    "Fracos e perturbados, mas todos filhos de Deus",
+    "Uma visão pessimista da humanidade",
+    "196:2.9"
+   ]
+  ]
+ },
+ "ch32:30": "4. Doutrinas levadas adiante e corrigidas",
+ "ch32:31": "O Livro de Urântia lança uma luz nova, uma por uma, sobre as doutrinas centrais do cristianismo. O seu método é coerente: preserva a verdade espiritual contida numa doutrina e remove as idéias errôneas que se enrolaram em torno dessa verdade. A Trindade é um bom exemplo. Depois de explicar que o conceito cristão inicial da Trindade compreendia o Pai Universal, o Filho Criador de Nébadon e o Espírito Materno do universo local (104:1.12), os reveladores emitem este juízo sobre o seu valor.",
+ "ch32:33": "A doutrina da expiação segue o mesmo caminho. O Livro de Urântia encontra o propósito da encarnação não em apaziguar um Deus enraivecido, mas em revelar o amor do Pai. Contudo, acrescenta que mesmo aquele que formulou a doutrina da expiação compreendeu algo dessa verdade.",
+ "ch32:35": "Essa correção não diminui Jesus. O documento 188 diz que, embora muito dificilmente seja adequado falar de Jesus como alguém que se tenha sacrificado ou como resgatador, “é totalmente correto referir-se a ele como um salvador” (188:4.7). Jesus mostrou o caminho da salvação de um modo mais claro e certo. O critério da correção é o Deus que Jesus revelou. Uma vez compreendido o Pai como verdadeiro e amoroso, a noção primitiva de Deus como um monarca ofendido não tem mais onde se sustentar.",
+ "ch32:37": "O mesmo se dá com a doutrina do pecado original. O Livro de Urântia diz que, embora a natureza animal possa ser hereditária, “o pecado não é transmitido de pai para filho” (188:4.5). O pecado é um ato pelo qual a vontade individual se rebela contra a vontade do Pai, e assim também a salvação é uma dádiva que o indivíduo recebe pela fé. Também quanto ao Reino de Deus, O Livro de Urântia antevê o dia do retorno ao próprio conceito de Jesus.",
+ "ch32:39": {
+  "cap": "Tabela 32.4  A continuação e a expansão da doutrina cristã em O Livro de Urântia",
+  "rows": [
+   [
+    "Doutrina",
+    "A compreensão cristã",
+    "A expansão de O Livro de Urântia",
+    "Fonte"
+   ],
+   [
+    "A Trindade",
+    "Entendida como o Pai, o Filho Criador e o Espírito Materno",
+    "Errada de fato, mas verdadeira com respeito às relações espirituais",
+    "104:1.12, 104:1.13"
+   ],
+   [
+    "A encarnação",
+    "A reconciliação com um Deus enraivecido",
+    "Leva os homens ao reconhecimento do amor do Pai e da sua filiação",
+    "98:7.1"
+   ],
+   [
+    "A cruz",
+    "Expiação e resgate",
+    "Tornou o caminho da salvação mais claro e certo",
+    "188:4.1, 188:4.7"
+   ],
+   [
+    "O pecado original",
+    "Culpa hereditária e mal inato",
+    "O pecado é rebelião consciente e deliberada de uma criatura individual volitiva",
+    "121:6.5, 188:4.5"
+   ],
+   [
+    "O Reino de Deus",
+    "A igreja, ou um Reino futuro na segunda vinda",
+    "A vontade do Pai dominante no coração daquele que crê",
+    "170:5.14, 170:5.19"
+   ]
+  ]
+ },
+ "ch32:40": "5. A igreja e o Reino: a crisálida e a borboleta",
+ "ch32:41": "A relação entre o cristianismo e O Livro de Urântia torna-se mais delicada na sua visão da igreja. O Livro de Urântia reconhece que a igreja foi um resultado social inevitável e útil da vida e dos ensinamentos de Jesus (170:5.10). O problema esteve em a igreja ter desalojado o Reino. Contudo, os reveladores vêem o Reino dentro dessa igreja não como morto, mas como adormecido.",
+ "ch32:43": "O mesmo documento compara também a igreja a uma sombra. Uma sombra não é a substância, mas nos diz que a substância existe.",
+ "ch32:45": "Uma crisálida não é uma prisão que confina a borboleta, mas uma casa que a protege. Essa imagem mostra como O Livro de Urântia considera a igreja. Jesus não fundou a igreja, mas tampouco a abandonou. Enquanto a igreja proclamar o nome de Jesus e levar as pessoas a ler as suas palavras, o Reino pode crescer dentro dela. O que O Livro de Urântia diz à igreja não é que ela deva fechar as suas portas, mas que ouse esposar o programa do Mestre (195:10.10).",
+ "ch32:47": "A verdadeira igreja que O Livro de Urântia retrata, portanto, não é uma organização visível. Tampouco o caminho para reunir uma cristandade dividida em seitas está na fusão de organizações.",
+ "ch32:49": "A uniformidade põe todos no mesmo molde; a unidade é a união de pessoas diferentes por meio da união de fé com o mesmo Jesus. Essa irmandade invisível pode incluir muitas igrejas e grupos diferentes, mas dentro dela não há lugar para a rivalidade sectária nem para afirmações de infalibilidade espiritual (195:10.14).",
+ "ch32:50": {
+  "cap": "Tabela 32.5  A igreja visível e a irmandade do Reino",
+  "rows": [
+   [
+    "Aspecto",
+    "A igreja visível",
+    "A irmandade do Reino",
+    "Fonte"
+   ],
+   [
+    "Natureza",
+    "Principalmente social",
+    "Espiritual",
+    "170:5.18"
+   ],
+   [
+    "Modo de entrada",
+    "O rito exterior do batismo",
+    "Admitida pela fé",
+    "170:5.13"
+   ],
+   [
+    "Unidade",
+    "Inclinada à uniformidade",
+    "Unidade nascida da união de fé com o Jesus vivo",
+    "195:10.11"
+   ],
+   [
+    "Destino",
+    "A crisálida dentro da qual o Reino está adormecido",
+    "A borboleta que emerge da longa submersão",
+    "170:5.21"
+   ]
+  ]
+ },
+ "ch32:51": "Conclusão: o mesmo Jesus, uma luz mais brilhante",
+ "ch32:52": "A relação entre O Livro de Urântia e o cristianismo pode ser resumida deste modo. A revelação continua e cresce, e O Livro de Urântia, como um elo que vem depois da revelação de Jesus, lança de novo a sua luz. Leva adiante os evangelhos, as escrituras e os discernimentos humanos da história cristã; em cada doutrina, preserva a verdade espiritual ao mesmo tempo que corrige as idéias errôneas; e devolve a religião de Jesus à religião sobre Jesus. O Espírito da Verdade outorgado em Pentecostes preparou essa expansão desde o princípio.",
+ "ch32:54": "A âncora permanece firme, e a luz cresce. A vida de Jesus está fixada como um fato da história que não pode ser reescrito. Mas o significado dessa vida desdobra-se cada vez mais profundamente em cada geração, sob a orientação do Espírito da Verdade. A compreensão que o cristianismo alcançou nos seus primeiros séculos não pode ser a totalidade desse significado, nem a compreensão que O Livro de Urântia agora apresenta pode ser a última. O que O Livro de Urântia oferece ao cristianismo não é um Jesus diferente, mas uma compreensão mais ampla do mesmo Jesus. E essa esperança chega até a união dos crentes divididos.",
+ "ch32:56": "Com isso, chegam ao fim as sete partes do livro. O Posfácio olha para trás, para o modo como essas doutrinas, que começaram com Deus e passaram pelo homem, pela história, por Jesus e pela salvação até chegar ao cristianismo, convergem numa só verdade e num só caminho.",
+ "ch32:57": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se O Livro de Urântia diz que nenhuma revelação, incluída ela própria, pode jamais ser completa antes de se alcançar o Pai Universal (92:4.9), com que atitude devo sustentar as verdades em que creio?",
+   "2. O juízo de que o conceito cristão da Trindade foi de fato errado, mas verdadeiro com respeito às relações espirituais (104:1.13): que critério ele me dá para considerar as doutrinas de outras crenças?",
+   "3. Se a igreja é a crisálida dentro da qual o Reino está adormecido (170:5.21), por onde poderia começar, dentro da comunidade de fé a que pertenço, o trabalho de despertar a borboleta?"
+  ]
+ },
+ "ch33:label": "Posfácio",
+ "ch33:title": "Uma só verdade, um só caminho",
+ "ch33:0": "Ao longo de trinta e dois capítulos, este livro expôs, uma por uma, as doutrinas de O Livro de Urântia. Começou com Deus e passou pelo universo e pelos seres celestes, pelo homem, pela história da humanidade, por Jesus, e pela salvação e a vida religiosa, chegando por fim ao cristianismo. Em cada capítulo perguntou pela definição, pelo fundamento, pela estrutura e pelas conseqüências de uma doutrina, e em cada elo apresentou o texto. Olhando agora para trás, para esse caminho, descobrimos que doutrinas que pareciam ser assuntos separados estão unidas numa única corrente. Toda doutrina procede do Pai Universal e retorna ao Pai Universal.",
+ "ch33:1": "Logo no início do seu primeiro documento, O Livro de Urântia já declarou a direção do livro inteiro. Todas as criaturas de vontade do universo estão na mesma jornada, e no fim dessa jornada está o mesmo Ser.",
+ "ch33:3": "Dentro dessa passagem, as doutrinas encontram os seus lugares. As doutrinas do EU SOU, da Trindade e do Ser Supremo dizem a partir de quem essa jornada começa e em direção a quem ela se move. As doutrinas da organização do universo, dos Filhos de Deus e dos anjos dizem em que ordem, e com a ajuda de quem, a jornada é feita. As doutrinas da personalidade, da mente, do Ajustador do Pensamento e da alma dizem de que é feito o viajante que parte nessa jornada. As doutrinas da história humana dizem que reveses a jornada encontrou neste planeta e como ela foi restaurada. E a doutrina de Jesus mostra o exemplo daquele que percorreu a jornada do princípio ao fim.",
+ "ch33:4": "As doutrinas da salvação e da vida religiosa falam da porta pela qual entramos na jornada e do modo como caminhamos. A salvação é uma dádiva recebida pela fé; a fé é o caminho para conhecer Deus; e o Reino do céu é a irmandade daqueles que, por essa fé, têm Deus como seu Pai. A adoração e a prece são a comunhão que partilhamos com o Pai ao longo do caminho, e a vida eterna é a promessa de que a jornada não termina com a morte. Por fim, as doutrinas do cristianismo e de O Livro de Urântia dizem como essa verdade foi transmitida, obscurecida e trazida de novo à luz na história da humanidade. Vistas desse modo, as sete partes não são sete assuntos, mas sete facetas de uma única jornada.",
+ "ch33:5": "Não é por acaso que as doutrinas estão unidas desse modo. Porque a verdade vem do Deus único, as doutrinas que refletem essa verdade não se chocam umas com as outras, mas iluminam-se umas às outras. Os leitores deste livro provavelmente tiveram mais de uma vez a experiência de descobrir que uma compreensão profunda de uma doutrina abre outra por si mesma. Conheça-se a personalidade, e a sobrevivência aparece à vista; conheça-se o Ajustador do Pensamento, e a prece aparece à vista; conheça-se a vida de Jesus, e o futuro do cristianismo aparece à vista. É por isso que este livro procurou ler as doutrinas não como itens a memorizar um por um, mas como uma corrente lógica.",
+ "ch33:6": {
+  "cap": "Tabela A.1  O que as sete partes perguntaram e responderam",
+  "rows": [
+   [
+    "Parte",
+    "Pergunta fundamental",
+    "A resposta do texto",
+    "Fonte"
+   ],
+   [
+    "Parte 1: Deus",
+    "De onde vem tudo?",
+    "O Pai Universal é o elaborador eterno e sustentador infinito de toda a criação",
+    "1:0.3"
+   ],
+   [
+    "Parte 2: O universo e os seres celestes",
+    "Como Deus governa?",
+    "Em amor e misericórdia, os mensageiros do Paraíso levaram a exortação divina através dos universos",
+    "1:0.3"
+   ],
+   [
+    "Parte 3: O homem",
+    "O que há dentro do homem?",
+    "Deus cede uma parte do Seu ser para que viva e resida no homem",
+    "5:1.12"
+   ],
+   [
+    "Parte 4: A história da humanidade",
+    "Que caminho este mundo percorreu?",
+    "A revelação é evolucionária, mas é sempre progressiva",
+    "92:4.1"
+   ],
+   [
+    "Parte 5: Jesus",
+    "Como quem Deus foi revelado?",
+    "Moisés ensinou a justiça; Jesus retratou o amor e a misericórdia do Pai celeste",
+    "188:4.4"
+   ],
+   [
+    "Parte 6: A salvação e a vida religiosa",
+    "Como o homem alcança Deus?",
+    "A salvação deveria ser tida como certa por aqueles que crêem na paternidade de Deus",
+    "188:4.9"
+   ],
+   [
+    "Parte 7: O cristianismo e O Livro de Urântia",
+    "Como essa verdade é levada adiante?",
+    "Agora é Jesus que se faz mais necessário",
+    "195:10.1"
+   ]
+  ]
+ },
+ "ch33:7": "Uma só verdade dá origem a um só caminho. Em O Livro de Urântia, esse caminho não é um sistema de doutrina, mas uma pessoa. Passando a última noite com os seus apóstolos, Jesus respondeu a Tomé, que perguntava pelo caminho, com estas palavras.",
+ "ch33:9": "Lidas dentro de toda a lógica de O Livro de Urântia, essas palavras adquirem um significado mais amplo. Jesus é o caminho porque revelou o Pai da maneira mais plena e percorreu pessoalmente o caminho pelo qual o homem ascende ao Pai. Esse caminho não está confinado a nenhum povo nem a nenhuma igreja. Desde que o Espírito da Verdade foi derramado sobre toda a carne, toda alma amante da verdade pode pôr-se nesse caminho. E, dentro daquele que o percorre, caminha junto o Ajustador do Pensamento enviado pelo Pai.",
+ "ch33:10": "Falar de um só caminho não é falar de um caminho estreito. O próprio O Livro de Urântia declara que nenhuma revelação pode jamais ser completa antes de se alcançar o Pai Universal (92:4.9). A verdade é uma só, mas a compreensão daqueles que a captam está sempre ainda crescendo. Quem percorre o único caminho, portanto, não condena os outros, mas trata-os como irmãos que buscam o mesmo Pai. A segurança de possuir a verdade só se torna verdadeira segurança quando anda junto com a humildade.",
+ "ch33:11": "Este livro procurou ler as doutrinas pelo caminho da lógica. Mas a lógica apenas mostra o caminho; não pode percorrê-lo por nós. O Livro de Urântia diz que a religião é apenas um humanismo elevado até que descubra a realidade da presença de Deus na experiência pessoal (195:10.1). Conhecer as doutrinas é ter um mapa; viver as doutrinas é pôr-se a caminho com esse mapa na mão. Que as passagens reunidas neste livro sirvam como sinais que ajudem nessa caminhada. Os audiolivros em inglês em urantiareaders.com, onde existir um para o capítulo, permitem ouvir de novo a mesma doutrina. Seguir a lógica com os olhos, ouvir a sua ressonância com os ouvidos e, por fim, confirmar a sua verdade com a própria vida: essa é a leitura que este livro espera dos seus leitores.",
+ "ch33:12": "Depois de todas as doutrinas, o que permanece no fim é o mais simples dos conceitos. No último documento, que fala da fé de Jesus, O Livro de Urântia expressou-o deste modo.",
+ "ch33:14": "A infinitude do EU SOU, o mistério da Trindade, a vasta administração do universo, a longa jornada da ascensão: todos convergem, por fim, nesta única idéia. Deus é nosso Pai e, portanto, todos os homens são irmãos. A paternidade de Deus e a irmandade dos homens: esta é a única verdade de que O Livro de Urântia fala, e viver essa verdade em amor e serviço é o único caminho."
 }

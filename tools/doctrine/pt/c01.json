@@ -39,7 +39,7 @@
  "ch00:label": "Prefácio",
  "ch00:title": "Ler a doutrina como lógica",
  "ch00:0": "O Livro de Urântia é um livro muito extenso. Começando pela Introdução, desdobra-se em quatro partes: o universo central e os superuniversos, o universo local, a história de Urântia, e a vida e os ensinamentos de Jesus. Quem o lê pela primeira vez facilmente se sente esmagado pela sua amplitude, e mesmo quem o lê há muitos anos às vezes se perde. A razão é que o ensinamento sobre qualquer doutrina não está reunido num único documento, mas espalhado por todo o livro. O ensinamento sobre Deus aparece no documento 1, mas também no documento 105, no documento 117 e nos documentos sobre a vida de Jesus.",
- "ch00:1": "Este livro, Doutrinas fundamentais de O Livro de Urântia, é uma tentativa de reunir esses ensinamentos dispersos, doutrina por doutrina, e de expor a lógica fundamental de cada uma. O que diz O Livro de Urântia sobre determinada doutrina? Por que o diz? De que doutrina mais fundamental decorre esse ensinamento, e como ele se liga às outras doutrinas? E o que significa para a vida e a experiência humanas? Essas quatro perguntas formam a estrutura do livro. Cada capítulo constrói uma cadeia de raciocínio na ordem definição, fundamentos, estrutura e consequências, e cada elo dessa cadeia é apoiado por citações do texto de O Livro de Urântia.",
+ "ch00:1": "Este livro, Doutrinas fundamentais de O Livro de Urântia, é uma tentativa de reunir esses ensinamentos dispersos, doutrina por doutrina, e de expor a lógica fundamental de cada uma. O que diz O Livro de Urântia sobre determinada doutrina? Por que o diz? De que doutrina mais fundamental decorre esse ensinamento, e como ele se liga às outras doutrinas? E o que significa para a vida e a experiência humanas? Essas quatro perguntas formam a estrutura do livro. Cada capítulo constrói uma cadeia de raciocínio na ordem definição, fundamentos, estrutura e conseqüências, e cada elo dessa cadeia é apoiado por citações do texto de O Livro de Urântia.",
  "ch00:2": "Lemos desse modo porque O Livro de Urântia mesmo apresenta a verdade como um todo interligado. As suas doutrinas não são proposições isoladas. A doutrina do EU SOU leva à Trindade; a Trindade leva à vontade de Deus e ao Ser Supremo; e estes, por sua vez, levam às doutrinas da personalidade humana, do Ajustador e da alma, e às doutrinas da salvação e da ascensão. Siga-se qualquer doutrina até os seus fundamentos, e torna-se claro que o todo é um único ensinamento. Os reveladores não nos pedem que façamos isso apenas com a razão humana. Dizem saber que, dentro do homem, há uma presença divina que o ajuda a chegar a esse entendimento.",
  "ch00:4": "Ler a doutrina como lógica, portanto, não é transformar a fé em teoria. É ouvir exatamente o que o texto diz e ver como as suas afirmações se encaixam umas nas outras. Para isso, este livro observa alguns princípios. Primeiro, não usa nenhuma fonte fora de O Livro de Urântia. Não apresenta as opiniões de outros estudiosos ou tradições e, mesmo nos capítulos sobre a Bíblia e a doutrina cristã, mantém-se dentro do que O Livro de Urântia mesmo diz. Segundo, não inventa o que o texto não diz; o comentário limita-se a explicar, relacionar e comparar passagens. Terceiro, todas as citações são reproduzidas palavra por palavra da tradução oficial portuguesa publicada pela Urantia Foundation, e cada uma traz o número do documento, da seção e do parágrafo, para que o leitor possa verificar por si mesmo o contexto. Quarto, os capítulos não percorrem os documentos pela ordem. Mesmo dentro de um único capítulo, transitam livremente pelas passagens pertinentes de todo o livro, seguindo a lógica da doutrina em questão.",
  "ch00:5": "Os quatro capítulos da primeira parte, por exemplo, formam uma única cadeia. O capítulo 1 vê que a vontade do EU SOU está no começo mesmo de toda a realidade. O capítulo 2 pergunta por que essa vontade se exprime na Trindade do Pai, do Filho e do Espírito. O capítulo 3 trata do propósito eterno de Deus, a vontade de Deus, e o capítulo 4 trata do Ser Supremo, o Deus que cresce à medida que esse propósito se realiza no tempo. Como a conclusão de cada capítulo se torna o fundamento do seguinte, recomenda-se uma primeira leitura pela ordem. Cada capítulo, porém, foi escrito para valer por si mesmo, de modo que o leitor também pode começar por qualquer doutrina de que precise.",
@@ -57,37 +57,37 @@
     "Parte 1: Deus",
     "Capítulos 1–4",
     "Quem é Deus, o ponto de partida de toda doutrina?",
-    "07, 10, 14, 17"
+    "07, 10, 14 e 17"
    ],
    [
     "Parte 2: O universo e os seres celestes",
     "Capítulos 5–8",
     "Como Deus constitui e governa o universo?",
-    "20, 29, 13, 26"
+    "20, 29, 13 e 26"
    ],
    [
     "Parte 3: O homem",
     "Capítulos 9–12",
     "O que são a personalidade, a mente, o Ajustador e a alma?",
-    "06, 28, 08, 12"
+    "06, 28, 08 e 12"
    ],
    [
     "Parte 4: A história da humanidade",
     "Capítulos 13–17",
     "Como o plano de Deus sofre um revés neste planeta, e como é recuperado?",
-    "22, 24, 27, 25, —"
+    "22, 24, 27, 25 e —"
    ],
    [
     "Parte 5: Jesus",
     "Capítulos 18–22",
     "Quem é Jesus, e como a sua vida revelou Deus?",
-    "19, 09, —, 23, 21"
+    "19, 09, —, 23 e 21"
    ],
    [
     "Parte 6: A salvação e a vida religiosa",
     "Capítulos 23–30",
     "Como o homem alcança Deus?",
-    "03, 02, 04, 01, 18, 15, 16, 05"
+    "03, 02, 04, 01, 18, 15, 16 e 05"
    ],
    [
     "Parte 7: O cristianismo e O Livro de Urântia",
@@ -99,5 +99,1206 @@
  },
  "ch00:8": "Cada capítulo contém quatro ou cinco tabelas, ou mais. As tabelas mostram de relance a estrutura, as classificações e as etapas de uma doutrina, e põem lado a lado os mal-entendidos comuns e as respostas do texto. Cada célula traz o número da passagem em que se apoia, de modo que, seguindo apenas as tabelas, o leitor pode refazer a lógica do capítulo. No fim de cada capítulo há três Perguntas para reflexão. Na leitura individual, podem servir de ponto de partida para a meditação; no estudo em grupo, de temas para discussão.",
  "ch00:9": "Este livro acompanha uma série de audiolivros, mas não é uma transcrição deles. Enquanto o audiolivro desenvolve uma doutrina como comentário para o ouvido, este livro permite ao leitor confirmar com os olhos a lógica fundamental dessa doutrina e os seus fundamentos no texto. Os audiolivros em inglês estão disponíveis em urantiareaders.com e, sempre que existe um audiolivro em inglês para um capítulo, o capítulo termina com um link e um código QR. No livro eletrônico, o link reproduz diretamente o audiolivro; no livro impresso, leia o código QR. Pode-se primeiro ouvir um audiolivro para ter a visão geral de uma doutrina e depois passar ao capítulo correspondente para verificar a sua lógica e o seu texto, ou ler primeiro o capítulo e depois ouvir de novo para refletir sobre ele. Ir e vir entre os dois permite que uma doutrina se assente tanto na mente quanto no ouvido.",
- "ch00:10": "O que este livro pede aos seus leitores não é que memorizem conclusões, mas que voltem ao texto: que sigam os números das passagens citadas até O Livro de Urântia, leiam o que vem antes e depois e comparem as passagens relacionadas em outros documentos. Lida desse modo, uma doutrina torna-se não um conhecimento recebido de outros, mas uma verdade confirmada por si mesmo. E essa verdade não permanece um mero conhecimento; cresce até tornar-se a experiência viva de conhecer Deus e servir ao homem."
+ "ch00:10": "O que este livro pede aos seus leitores não é que memorizem conclusões, mas que voltem ao texto: que sigam os números das passagens citadas até O Livro de Urântia, leiam o que vem antes e depois e comparem as passagens relacionadas em outros documentos. Lida desse modo, uma doutrina torna-se não um conhecimento recebido de outros, mas uma verdade confirmada por si mesmo. E essa verdade não permanece um mero conhecimento; cresce até tornar-se a experiência viva de conhecer Deus e servir ao homem.",
+ "ch01:label": "Capítulo 1",
+ "ch01:title": "O EU SOU",
+ "ch01:sub": "A fonte de toda a realidade",
+ "ch01:0": "Toda doutrina de O Livro de Urântia parte de Deus. A constituição do universo, os seres celestes, a personalidade e a alma do homem, a salvação e a ascensão: tudo isso remonta, afinal, a uma única fonte. Contudo, antes de falar da personalidade do Pai Universal, O Livro de Urântia estabelece um conceito filosófico mais amplo do que essa personalidade. Esse conceito é o EU SOU. Este capítulo faz três perguntas. O que é o EU SOU? Por que O Livro de Urântia precisa desse conceito? E como ele se liga ao Deus a quem o homem chama Pai?",
+ "ch01:1": "1. Definição: a única causa incausada",
+ "ch01:2": "Antes de apresentar o EU SOU como um ser, a Introdução deixa claro, primeiro, que tipo de conceito é esse. O conceito nasce dos limites que uma mente finita encontra quando tenta pensar a eternidade.",
+ "ch01:4": "A expressão concessão filosófica é a primeira chave desta doutrina. O pensamento humano move-se ao longo da cadeia de causa e efeito, de modo que não consegue pensar a realidade como um todo sem colocar uma realidade incausada à frente dessa cadeia. Os reveladores respeitam essa necessidade e colocam o EU SOU antes de todas as coisas. Essa concessão não é uma mera conveniência. É um ponto de apoio que permite ao homem pensar, ainda que só um pouco, sobre o começo e o fim da realidade.",
+ "ch01:6": "Somente quando temos alguma base para pensar as origens podemos pensar o destino, pois, se o homem não sabe de onde veio, não pode dizer para onde vai. O documento 105, “A Deidade e a Realidade”, torna mais claro o conteúdo desse conceito.",
+ "ch01:8": "O EU SOU, portanto, não se restringe a nenhuma categoria. Não é nem deificado, nem não-deificado; nem pessoal, nem impessoal. “Nenhuma qualificação pode ser aplicada ao Infinito, exceto afirmar que o EU SOU é.” (105:1.4) O próprio nome é a definição: Ele é. Ao lado desse conceito, a Introdução emprega dois outros. Distinguir os três evitará que a discussão que se segue se torne confusa.",
+ "ch01:9": {
+  "cap": "Tabela 1.1  Três conceitos que apontam para a Primeira Fonte e Centro",
+  "rows": [
+   [
+    "Conceito",
+    "Caráter, tal como afirmado no texto",
+    "Fonte"
+   ],
+   [
+    "EU SOU",
+    "Uma extensão, à maneira filosófica da criatura, da ‘infinitude da vontade’; uma concessão filosófica às criaturas que não podem compreender realidades sem começo",
+    "0:3.23, 0:3.24"
+   ],
+   [
+    "O Infinito (Pai-Infinito)",
+    "Um valor-nível factual que representa a verdadeira infinitude do livre-arbítrio absoluto e sem entraves do Pai Universal",
+    "0:3.24"
+   ],
+   [
+    "Pai Universal",
+    "Aquele aspecto do Infinito que percebemos nas nossas personalidades como uma realidade factual experiencial",
+    "105:1.6"
+   ],
+   [
+    "Primeira Fonte e Centro",
+    "Primordial em todos os domínios; infinita bem como eterna, e limitada apenas pela volição",
+    "0:3.9, 0:3.11"
+   ]
+  ]
+ },
+ "ch01:10": "2. Fundamentos: por que se deve supor um começo",
+ "ch01:11": "A doutrina do EU SOU começa com uma mente que vive no tempo tentando compreender a eternidade. Os reveladores não o escondem. Como precisam retratar a origem do universo para mentes finitas, explicam: “Portanto, muitos eventos simultâneos na eternidade devem ser apresentados como operações seqüenciais.” (0:3.20) O documento 105 descreve do seguinte modo o momento hipotético que serve de ponto de partida.",
+ "ch01:13": "Nesse momento estático hipotético não há diferenciação alguma. Os factuais ainda estão contidos dentro dos seus potenciais, e os potenciais ainda não apareceram. No entanto, é justamente nesse ponto que os reveladores dizem que uma coisa deve ser suposta: “Mas, mesmo nessa situação de conjectura, devemos assumir que exista a possibilidade da vontade própria.” (105:1.5) O que está no começo mesmo da realidade não é a necessidade mecânica, mas a vontade. A Introdução descreve assim o primeiro ato dessa vontade.",
+ "ch01:15": "Essa liberação não foi alcançada na solidão. Nessa primeira operação, o EU SOU tornou-se o Pai Eterno do Filho Original e, ao mesmo tempo, a Fonte Eterna da Ilha do Paraíso, e, na presença do Pai e do Filho, apareceu o Espírito Infinito (0:3.22). A Introdução acrescenta o que essa coexistência significou para o Pai.",
+ "ch01:17": "Se houvesse apenas a infinitude, a personalidade se dispersaria na infinitude. Porque o Pai coexiste com o Filho e o Espírito, Ele permanece uma personalidade. É por isso que a doutrina do EU SOU leva diretamente à doutrina da Trindade. Mas essa seqüência, narrada na linguagem do tempo, não deve ser tomada ao pé da letra. Sempre que os reveladores falam de uma seqüência, acrescentam logo que ela difere dos fatos da eternidade. A tabela seguinte reúne esses pares.",
+ "ch01:18": {
+  "cap": "Tabela 1.2  A linguagem do tempo e os fatos da eternidade",
+  "rows": [
+   [
+    "Afirmação na linguagem do tempo",
+    "O fato da eternidade que o texto acrescenta",
+    "Fonte"
+   ],
+   [
+    "O EU SOU estava, a princípio, só",
+    "Nunca houve um tempo em que o EU SOU não fosse o Pai do Filho; o Filho e o Espírito são coeternos com o EU SOU",
+    "0:3.23"
+   ],
+   [
+    "Os sete Absolutos apareceram um após o outro",
+    "Os sete Absolutos não tiveram nenhum começo; são eternos e têm sempre sido",
+    "105:3.1"
+   ],
+   [
+    "A Primeira Fonte e Centro é antecedente a todos os absolutos",
+    "Esse postulado é invalidado pela coexistência, na eternidade, do Filho, do Espírito, dos três Absolutos e da Ilha do Paraíso",
+    "105:3.9"
+   ],
+   [
+    "Houve uma ‘primeira’ expressão volicional",
+    "É um instante teórico, postulado para retratar as origens da realidade",
+    "105:2.2"
+   ]
+  ]
+ },
+ "ch01:19": "3. Estrutura: sete relações e sete Absolutos",
+ "ch01:20": "O EU SOU não permanece solitário, mas diferencia-se a si mesmo. O documento 105 desdobra essa diferenciação em etapas: o EU SOU solitário, o EU SOU trino e, por fim, o EU SOU sétuplo (105:2.4). Essa autometamorfose dá origem a todos os ramos da realidade.",
+ "ch01:22": "Cada uma dessas sete fases é uma relação fundamental. Na primeira relação, o EU SOU torna-se pai do Filho Eterno; na segunda, causa do Paraíso eterno. Os reveladores resumem numa frase a diferença entre as duas: “O Pai Universal é Deus, enquanto é amor; o Controlador Universal é Deus, enquanto arquétipo.” (105:2.6) Que a primeira das sete fases seja uma relação de personalidade tem um significado profundo para todas as doutrinas deste livro.",
+ "ch01:24": "Se a primeiríssima relação da realidade é a de Pai e Filho, então chamar Deus de Pai não é, para o homem, uma figura de linguagem, mas algo que está de acordo com a estrutura mais profunda da realidade. A filiação de toda personalidade já foi estabelecida como possibilidade dentro dessa relação primordial. O mesmo parágrafo acrescenta que essa fase “é parcialmente experienciável em níveis espirituais, até mesmo pelos mortais que, enquanto ainda estão na carne, podem adorar o nosso Pai” (105:2.5). As seis fases restantes são as seguintes.",
+ "ch01:25": {
+  "cap": "Tabela 1.3  As sete fases do EU SOU",
+  "rows": [
+   [
+    "Fase",
+    "O EU SOU é…",
+    "Realidade em que melhor se compreende",
+    "Fonte"
+   ],
+   [
+    "1. O Pai Universal",
+    "Pai do Filho Eterno",
+    "A relação primordial de personalidade das factualidades",
+    "105:2.5"
+   ],
+   [
+    "2. O Controlador Universal",
+    "Causa do Paraíso eterno",
+    "A relação impessoal primordial; Deus enquanto arquétipo",
+    "105:2.6"
+   ],
+   [
+    "3. O Criador Universal",
+    "Um com o Filho Eterno",
+    "O aparecimento da personalidade conjunta e do universo eterno (Havona)",
+    "105:2.7"
+   ],
+   [
+    "4. O Sustentador Infinito",
+    "Auto-associável",
+    "O Absoluto Universal",
+    "105:2.8"
+   ],
+   [
+    "5. O Potencial Infinito",
+    "Autoqualificável",
+    "O Absoluto da Deidade",
+    "105:2.9"
+   ],
+   [
+    "6. A Capacidade Infinita",
+    "Estático-reativo",
+    "O Absoluto Inqualificável",
+    "105:2.10"
+   ],
+   [
+    "7. O Uno Universal da Infinitude",
+    "EU SOU enquanto EU SOU",
+    "A relação consigo próprio revelada no Pai divino de toda personalidade",
+    "105:2.11"
+   ]
+  ]
+ },
+ "ch01:26": "Essas sete relações eternizam-se como os sete Absolutos. Os reveladores dizem: “Os sete Absolutos são a premissa da realidade.” (105:3.1) Os sete Absolutos, por sua vez, dispõem-se em três grupos: o Original, origem de todas as coisas; os três Absolutos da factualidade; e os três Absolutos de potencialidade.",
+ "ch01:27": {
+  "cap": "Tabela 1.4  Os três agrupamentos dos sete Absolutos",
+  "rows": [
+   [
+    "Grupo",
+    "Absolutos incluídos",
+    "Descrição no texto",
+    "Fonte"
+   ],
+   [
+    "O Original",
+    "A Primeira Fonte e Centro",
+    "A manifestação da fonte do EU SOU na qual toda realidade tem origem",
+    "115:3.6"
+   ],
+   [
+    "O Factual",
+    "O Filho Eterno, o Espírito Infinito, a Ilha do Paraíso",
+    "A revelação factual da originalidade da Primeira Fonte e Centro",
+    "115:3.7"
+   ],
+   [
+    "O Potencial",
+    "O Absoluto da Deidade, o Absoluto Inqualificável e o Absoluto Universal",
+    "A revelação potencial da originalidade da Primeira Fonte e Centro",
+    "115:3.8"
+   ]
+  ]
+ },
+ "ch01:29": "O que merece atenção nessa estrutura é que a diversidade do universo não é uma divisão da fonte. Os sete Absolutos não são sete deuses diferentes; são as formas eternizadas de sete relações que o único EU SOU mantém consigo mesmo. A realidade é, portanto, ao mesmo tempo múltipla e una. Esse princípio do múltiplo no uno aparecerá de novo, sob outras formas, na Trindade do próximo capítulo e no Ser Supremo do capítulo 4.",
+ "ch01:30": "4. O pessoal e o impessoal",
+ "ch01:31": "Das sete fases, a que tem maior alcance para as doutrinas de todo este livro é a primeira divisão. O livre-arbítrio do EU SOU dividiu a realidade em personalizável e não personalizável. O Absoluto Universal, diz-se, “era inevitável” (0:11.10) nesse mesmo ato. O pessoal leva ao Pai, ao Filho e ao Espírito; o impessoal leva ao Paraíso e aos potenciais do espaço. Contudo, nenhum dos dois está fora da Primeira Fonte e Centro.",
+ "ch01:33": "A Introdução mostra, em sete ramos, como essa dependência aparece no universo. A matéria, a mente, o espírito e a personalidade convergem, cada um, para um centro diferente, mas todos esses centros se ramificaram da mesma fonte.",
+ "ch01:34": {
+  "cap": "Tabela 1.5  Os ramos da realidade e os centros para os quais convergem",
+  "rows": [
+   [
+    "Ramo da realidade",
+    "Centro de convergência",
+    "Fonte"
+   ],
+   [
+    "As forças da gravidade dos universos materiais",
+    "O centro de gravidade do Paraíso inferior",
+    "0:3.13"
+   ],
+   [
+    "As forças da mente",
+    "O Espírito Infinito (a mente cósmica nos Sete Espíritos Mestres)",
+    "0:3.14"
+   ],
+   [
+    "As forças espirituais do universo",
+    "O Filho Eterno",
+    "0:3.15"
+   ],
+   [
+    "A capacidade ilimitada de ação da deidade",
+    "O Absoluto da Deidade",
+    "0:3.16"
+   ],
+   [
+    "A capacidade ilimitada de resposta à infinitude",
+    "O Absoluto Inqualificável (os dois Absolutos estão unificados no Absoluto Universal)",
+    "0:3.17, 0:3.18"
+   ],
+   [
+    "A personalidade potencial de um ser moral evolucionário",
+    "A personalidade do Pai Universal",
+    "0:3.19"
+   ]
+  ]
+ },
+ "ch01:35": "Entre as realidades assim diferenciadas há tensão. O infinito e o finito, a eternidade e o tempo, o potencial e o factual parecem opor-se. A Introdução encontra na presença do Absoluto Universal a razão pela qual o universo finito, apesar disso, existe sem desmoronar.",
+ "ch01:37": "É graças a esse equilíbrio que o homem pode estar diante de Deus como personalidade sem ser aniquilado. Um ser finito não é uma sombra do infinito, mas uma realidade à qual foi dado o seu lugar dentro do infinito.",
+ "ch01:38": "5. Conseqüências: a face de Pai que o Infinito volta para nós",
+ "ch01:39": "O que significa essa doutrina para a fé humana? Os reveladores advertem que o conceito do EU SOU pode ser perigoso, porque está tão distante da experiência “a ponto de envolver distorções sérias de significados e erros quanto aos valores” (105:1.2). Por isso distinguem claramente esse conceito filosófico do Pai a quem o homem adora.",
+ "ch01:41": "Essa distinção pede humildade. Os reveladores dizem que conhecer o Pai como uma infinitude não é fácil nem mesmo para seres elevados.",
+ "ch01:43": "Pensar sobre o EU SOU é mais uma questão de fé do que de conhecimento. Por mais vasto que seja o universo, ele não é mais do que uma revelação parcial do Infinito (105:1.7), e diante dele o homem só pode reconhecer que não é capaz de conhecer tudo. Mas não poder conhecer tudo não significa que Deus esteja longe. O homem não pode compreender a infinitude, mas a infinitude pode limitar-se a si mesma e aproximar-se do homem. A lógica deste capítulo chega, enfim, à frase seguinte.",
+ "ch01:45": "Seguem-se três conseqüências. Primeira: visto que toda a realidade veio de uma só fonte, o universo é fundamentalmente uno. Embora a matéria, a mente e o espírito pareçam seguir leis diferentes, as suas raízes não estão divididas. Segunda: visto que o primeiro ato dessa fonte foi a vontade, há propósito no fundamento do universo. Esse propósito torna-se o tema do capítulo 3, sobre a vontade de Deus. Terceira: o que quer que esteja ligado ao EU SOU nunca chega a um fim: “O que quer que seja identificado com o EU SOU, não pode nunca ter um fim na sua progressão” (115:3.16). Aqui está o fundamento pelo qual a ascensão do homem se torna uma aventura sem fim. Falando da sétima fase, o documento 105 dá testemunho de que essa fonte abrange todos os seres.",
+ "ch01:47": "Da menor partícula ao maior universo, do passado ao futuro, tudo está dentro da mesma fonte. Onde quer que o homem esteja, portanto, ele não foi empurrado para fora da realidade. Essa é a segurança fundamental que a doutrina do EU SOU dá ao homem.",
+ "ch01:48": "Conclusão: conhecer a fonte",
+ "ch01:49": "O EU SOU é a única causa incausada, o primeiro postulado que uma mente finita estabelece para pensar a eternidade. O que estava naquele primeiro momento era a vontade; da autodiferenciação dessa vontade eternizaram-se as sete fases e os sete Absolutos, e toda a realidade assenta sobre essas relações. Contudo, essa infinitude não permanece para o homem uma abstração fria; volta para ele a face de um Pai. Nessa primeira relação, o EU SOU tornou-se o Pai do Filho e, com o Filho, a fonte do Espírito. O próximo capítulo considera como essas três Deidades constituem a única Trindade do Paraíso.",
+ "ch01:50": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se o EU SOU é uma concessão filosófica à mente finita (0:3.23), em que difere a minha atitude quando aceito esse conceito e quando adoro o Pai Universal?",
+   "2. O que muda na maneira como vejo o universo e a minha própria vida o ensinamento de que é o livre-arbítrio, e não a necessidade mecânica, que está no começo mesmo da realidade (0:3.21)?",
+   "3. Se a face que o Infinito volta para todas as personalidades é a face de um Pai (105:1.8), o que escolho diante do incognoscível: o medo ou a confiança?"
+  ]
+ },
+ "ch02:label": "Capítulo 2",
+ "ch02:title": "A Trindade",
+ "ch02:sub": "Por que Deus é três e, contudo, um",
+ "ch02:0": "Como vimos no capítulo 1, a primeira relação do EU SOU foi a de Pai e Filho, e na presença do Pai e do Filho apareceu o Espírito Infinito. Como são um esses três? O Livro de Urântia responde a essa pergunta com a doutrina da Trindade do Paraíso. Este capítulo define o que é a Trindade, examina por que os reveladores chamam a Trindade de a única inevitabilidade do universo, pergunta como as três pessoas se distinguem da Trindade una e considera, em seguida, o que essa doutrina significa para a fé e a vida humanas.",
+ "ch02:1": "1. Definição: a Deidade indivisa de três pessoas",
+ "ch02:2": "Logo no início do documento 10, “A Trindade do Paraíso”, a Trindade é definida em uma única frase. Deus não está dividido em três, e as três pessoas não se dissolvem nem desaparecem em uma só.",
+ "ch02:4": "Essa definição tem dois eixos. Um é que as três pessoas são originais, coordenadas e coexistentes; o outro é que as três formam uma unicidade divina. As três pessoas não são cópias umas das outras: “nenhuma é duplicata da outra; cada uma é original; e todas são unidas” (10:2.6). A relação das três pessoas é descrita como uma seqüência, mas essa seqüência não é um antes e um depois no tempo; é uma estrutura de relação. O Pai outorga ao Filho a plenitude de Si próprio, e o Pai e o Filho, juntos, constituem a terceira pessoa.",
+ "ch02:6": "O Filho provém da autodoação do Pai, e o Espírito, da outorga conjunta do Pai e do Filho; contudo, nenhum dos dois passou a existir depois. Os três são eternos, e essa relação de outorga é precisamente o que determina o lugar único de cada um. A Introdução distingue quem é cada uma das três pessoas por meio de títulos.",
+ "ch02:7": {
+  "cap": "Tabela 2.1  Os títulos e os lugares únicos das três Deidades",
+  "rows": [
+   [
+    "Deidade",
+    "Título na Introdução",
+    "Descrição no documento 10",
+    "Fonte"
+   ],
+   [
+    "Deus, o Pai",
+    "Criador, Controlador e Sustentador; a Primeira Pessoa da Deidade",
+    "A personalidade-pai infinita, a personalidade fonte ilimitada",
+    "0:2.12, 10:2.4"
+   ],
+   [
+    "Deus, o Filho",
+    "Criador Coordenado, Controlador do Espírito e Administrador Espiritual; a Segunda Pessoa da Deidade",
+    "O absoluto-da-personalidade inqualificável, a perfeita revelação da natureza pessoal de Deus",
+    "0:2.13, 10:2.4"
+   ],
+   [
+    "Deus, o Espírito",
+    "Agente Conjunto, Integrador Universal e Outorgador da Mente; a Terceira Pessoa da Deidade",
+    "A personalidade-conjunta, a conseqüência pessoal única da união eterna entre o Pai e o Filho",
+    "0:2.14, 10:2.4"
+   ]
+  ]
+ },
+ "ch02:8": "Seria, então, a própria Trindade uma quarta pessoa? O documento 104, “O Crescimento do Conceito da Trindade”, responde claramente que não. A Trindade é uma realidade única de Deidade, real embora não seja uma personalidade.",
+ "ch02:10": "2. Fundamentos: por que tem de haver três",
+ "ch02:11": "Os reveladores não consideram a Trindade como uma possibilidade entre muitas. Tudo o mais no universo, dizem eles, poderia ter sido de outro modo, mas não a Trindade.",
+ "ch02:13": "Por que ela é inevitável? O primeiro fundamento está na própria paternidade. Uma Primeira Fonte e Centro sem um Filho “não poderia em nenhum sentido da palavra ser considerada o Pai Universal” (10:3.5). O mesmo parágrafo o diz de forma breve: “a paternidade não é real sem filiação” (10:3.5). Para que Deus seja Pai, tem de haver eternamente um Filho. E, de fato, nunca houve um momento em que o Pai estivesse sozinho.",
+ "ch02:15": "O segundo fundamento está na natureza da personalidade divina. A personalidade não está fechada em si mesma; ela se compartilha.",
+ "ch02:17": "Compartilhar não é um defeito da personalidade divina, mas a sua própria natureza. O fato de o Pai compartilhar a realidade do Seu ser com o Filho e o Espírito é a primeira expressão dessa natureza, e toda delegação e toda outorga que acontecem no universo são o seu prolongamento. O terceiro fundamento é a libertação dos limites da absolutez. Se o Pai tivesse existido sozinho como uma personalidade absoluta, essa absolutez ter-se-ia tornado uma algema. O início do documento 10 descreve essa libertação da seguinte maneira.",
+ "ch02:19": "O que é absoluto não tem espaço para se mover, e uma vontade infinita precisa encontrar um lugar onde se expressar. A Trindade salvaguarda as duas coisas ao mesmo tempo. A absolutez da Deidade é plenamente preservada dentro da Trindade, e a vontade pessoal do Pai expressa-se sem limite por meio do Filho, do Espírito e dos filhos Deles. Ao outorgar ao Filho a absolutez de personalidade, o Pai escapa dessa algema.",
+ "ch02:21": "Em quarto lugar, os reveladores observam também que três pessoas formam um grupo social mínimo, mas acrescentam que, “entre as várias razões para acreditar-se na inevitabilidade do Agente Conjunto, esta seria a menos importante” (10:2.3). O quinto fundamento vem do lado da filosofia. No pensamento humano, um Deus solitário acaba sendo reduzido a um Absoluto impessoal. “A personalidade na Deidade exige que tal Deidade exista em relação a outra Deidade igual e pessoal” (104:2.2). Reunidos, esses fundamentos são os seguintes.",
+ "ch02:22": {
+  "cap": "Tabela 2.2  Cinco fundamentos da inevitabilidade da Trindade",
+  "rows": [
+   [
+    "Fundamento",
+    "Lógica",
+    "Fonte"
+   ],
+   [
+    "A paternidade",
+    "Uma fonte sem um Filho não é um Pai; a paternidade não é real sem filiação",
+    "10:3.5"
+   ],
+   [
+    "A natureza da personalidade",
+    "A personalidade divina não é autocentrada, mas se compartilha",
+    "10:1.3"
+   ],
+   [
+    "A libertação da absolutez",
+    "Ao outorgar ao Filho a absolutez de personalidade, o Pai escapa da algema do absolutismo da personalidade",
+    "10:0.1, 10:3.7"
+   ],
+   [
+    "O grupo social mínimo",
+    "Três pessoas são um grupo social mínimo (a menos importante das razões)",
+    "10:2.3"
+   ],
+   [
+    "A preservação do conceito de personalidade",
+    "Sem relação com outras personalidades iguais, Deus é reduzido a um Absoluto panteísta",
+    "104:2.2"
+   ]
+  ]
+ },
+ "ch02:23": "3. Estrutura: três pessoas e uma união",
+ "ch02:24": "Como existem juntas as três pessoas e a Trindade una? Embora admitam que esse mistério não pode ser plenamente resolvido, os reveladores oferecem uma ilustração tosca que o homem consegue captar.",
+ "ch02:26": "O ponto dessa ilustração é que as três pessoas trabalharem juntas como indivíduos é diferente de trabalharem como a Trindade. Os reveladores dizem: “Enquanto pessoas, Eles podem colaborar conforme escolherem, mas então não estariam atuando como uma Trindade” (10:4.4). E as funções da Trindade são mais do que a soma dos atributos das três. Assim como uma família ou uma comunidade humana é mais do que a soma dos seus membros, “O potencial de um grupo excede sempre, e amplamente, a simples soma dos atributos dos indivíduos componentes” (10:5.2). Essa distinção fica mais clara quando se comparam as Deidades pessoais com a Trindade.",
+ "ch02:27": {
+  "cap": "Tabela 2.3  As Deidades pessoais comparadas com a Trindade",
+  "rows": [
+   [
+    "Ponto de comparação",
+    "Pai, Filho e Espírito (como pessoas)",
+    "A Trindade do Paraíso",
+    "Fonte"
+   ],
+   [
+    "O que têm",
+    "Têm atributos",
+    "Funções mais do que atributos (administração da justiça, atitudes da totalidade, ação coordenada, supercontrole cósmico)",
+    "10:5.1"
+   ],
+   [
+    "A justiça",
+    "A justiça não é a atitude pessoal de nenhum deles",
+    "A justiça é a atitude trinitária dessas três personalidades de amor, misericórdia e ministério",
+    "10:6.2"
+   ],
+   [
+    "Objeto de interesse",
+    "O Pai mostra a atitude pessoal de amor em todos os Seus atos",
+    "Ocupa-se do planeta total, do universo total, do grande universo total",
+    "10:7.6, 10:7.2"
+   ],
+   [
+    "Modo de colaborar",
+    "Enquanto pessoas, podem colaborar conforme escolherem",
+    "Como três Deidades, não podem colaborar de modo não trinitário",
+    "10:4.4"
+   ]
+  ]
+ },
+ "ch02:28": "Essa estrutura aparece também no modo como o Pai atua no universo. O Pai faz muitas coisas por meio dos Filhos e do Espírito, mas o que Ele faz como Deidade total, Ele o faz apenas na Trindade. A seção 3 do documento 10 expõe essas sete maneiras da seguinte forma.",
+ "ch02:29": {
+  "cap": "Tabela 2.4  Como a Primeira Fonte e Centro funciona fora de Havona",
+  "rows": [
+   [
+    "Função",
+    "Canal",
+    "Fonte"
+   ],
+   [
+    "Como criador",
+    "Por intermédio dos Filhos Criadores, Seus netos",
+    "10:3.10"
+   ],
+   [
+    "Como controlador",
+    "Por meio do centro de gravidade do Paraíso",
+    "10:3.11"
+   ],
+   [
+    "Como espírito",
+    "Por meio do Filho Eterno",
+    "10:3.12"
+   ],
+   [
+    "Como mente",
+    "Por meio do Criador Conjunto",
+    "10:3.13"
+   ],
+   [
+    "Como Pai",
+    "Contato paterno com todas as criaturas por meio do Seu circuito de personalidade",
+    "10:3.14"
+   ],
+   [
+    "Como pessoa",
+    "Por meio dos Seus fragmentos exclusivos; no homem mortal, por meio dos Ajustadores do Pensamento",
+    "10:3.15"
+   ],
+   [
+    "Como Deidade total",
+    "Apenas na Trindade do Paraíso",
+    "10:3.16"
+   ]
+  ]
+ },
+ "ch02:30": "4. A obra da Trindade: a justiça e o total",
+ "ch02:31": "A função representativa da Trindade no universo é a justiça. É aqui que a doutrina da Trindade toca a vida moral do homem. A origem da lei, a sua administração, a sua revelação e a sua aplicação têm, cada uma, um lugar diferente, e a aplicação da lei, a justiça, cabe à Trindade (10:6.1).",
+ "ch02:33": "Esse ensinamento diz duas coisas ao homem. Primeiro, quando o homem encontra Deus como pessoa, ele sempre encontra o amor e a misericórdia. Segundo, a justiça não é o humor ou a represália de nenhuma pessoa em particular, mas um julgamento coletivo e total. O ensinamento de Jesus de que a justiça nunca é um ato pessoal, mas sempre uma função de grupo, repousa nesse princípio (104:2.5). Os reveladores dizem que a justiça e a misericórdia não estão, em última análise, em conflito: “Quando totalmente percebida e completamente compreendida, a reta justiça da Trindade e o amor misericordioso do Pai Universal são coincidentes” (10:6.18).",
+ "ch02:34": "Contudo, o homem no tempo nem sempre vê essa coincidência, porque a Trindade lida com o todo, enquanto o homem vive dentro de uma parte. Os reveladores reconhecem francamente essa distância.",
+ "ch02:36": "Esse reconhecimento estabelece uma ordem importante para a fé. O homem pode ter certeza do amor pessoal do Pai. Mas os atos da Trindade dirigidos ao todo não são agora plenamente compreendidos; essa compreensão é dada no progresso da eternidade. Mesmo diante daquilo que não compreende, portanto, o homem não tem motivo para duvidar do amor.",
+ "ch02:37": "5. Equívocos sobre a Trindade e as respostas do texto",
+ "ch02:38": "No pensamento humano, a Trindade foi muitas vezes misturada com outras idéias. Ao rever como esse conceito cresceu em Urântia, o documento 104 distingue a Trindade revelada das crenças nas tríades da religião evolucionária (104:0.1). As tríades da religião evolucionária surgiram de associações da experiência, como as três articulações dos dedos ou os três pés de um banquinho, mas a Trindade revelada é uma verdade sobre a realidade de Deus. O texto dá respostas claras a vários equívocos.",
+ "ch02:39": {
+  "cap": "Tabela 2.5  Equívocos sobre a Trindade e as respostas do texto",
+  "rows": [
+   [
+    "Equívoco",
+    "A resposta do texto",
+    "Fonte"
+   ],
+   [
+    "A Trindade é um conjunto de três deuses",
+    "“Uma verdadeira concepção trinitária não é apenas um agrupamento de três deuses separados.” (104:1.7)",
+    "104:1.7"
+   ],
+   [
+    "A Trindade é o produto de uma mente afeiçoada ao número três",
+    "O conceito da Trindade da religião revelada não deve ser confundido com as crenças nas tríades das religiões evolucionárias",
+    "104:0.1"
+   ],
+   [
+    "A Trindade é uma quarta pessoa",
+    "Não é uma personalidade, mas uma realidade verdadeira e absoluta, compatível com as três pessoas",
+    "104:2.4"
+   ],
+   [
+    "A Trindade é meramente uma união funcional",
+    "A Trindade não é uma triunidade; é Deidade indivisa e indivisível",
+    "104:3.15"
+   ],
+   [
+    "Quem veio a Urântia foi a própria Segunda Pessoa da Deidade",
+    "Isso é verdade em espírito, mas factualmente não é real; os Michaéis Criadores não são a personalidade absoluta",
+    "104:1.13"
+   ]
+  ]
+ },
+ "ch02:40": "Muitos desses equívocos provêm de uma história em que a verdade da Trindade nunca foi plenamente transmitida ao homem. Essa verdade foi revelada muitas vezes e obscurecida muitas vezes. O próprio Jesus a ensinou, mas os seus discípulos não a receberam devidamente.",
+ "ch02:42": "Mas os reveladores acrescentam que a compreensão de nenhuma época alcança a Trindade tal como ela é. A Trindade funciona em todos os níveis, ao passo que o homem permanece no nível finito.",
+ "ch02:44": "O último ponto diz respeito à compreensão cristã da Trindade. Os reveladores julgam que, embora esse conceito “haja sido de fato errado, ele era praticamente verdadeiro com respeito às relações espirituais” (104:1.13). Essa questão é retomada nos capítulos 19 e 32.",
+ "ch02:45": "6. Conseqüências: o amor e a lei, e a Trindade que cresce",
+ "ch02:46": "O que a doutrina da Trindade acrescenta à fé humana? Pela fé o homem compreende o amor de Deus; contudo, o universo move-se segundo leis ordenadas. Como deve ser entendida a distância entre um Pai amoroso e leis aparentemente impassíveis?",
+ "ch02:48": "Se o homem conhece apenas o amor do Pai e não a soberania da Trindade, a sua fé vacila diante das leis do universo. Inversamente, se ele vê apenas a lei e não conhece o Pai, o universo torna-se uma máquina fria. A Trindade revela que as duas coisas são uma só na mesma Deidade. Tampouco a Trindade está encerrada na eternidade. A Introdução diz que a Trindade original é existencial e foi inevitável (0:12.1), e acrescenta que as Deidades experienciais que eram potenciais nela estão aparecendo no tempo.",
+ "ch02:50": "A Trindade original está completa, mas a manifestação dessa Trindade nos universos do tempo e do espaço ainda está em curso. O seu primeiro fruto é Deus, o Supremo, e o homem participa dessa manifestação por meio da sua própria experiência. A Trindade não é, portanto, uma doutrina de uma eternidade remota, mas uma doutrina ligada às escolhas que o homem faz hoje. O capítulo 4 examina em detalhe essa ligação.",
+ "ch02:51": "Para concluir: Deus, que é três e um",
+ "ch02:52": "Deus é três, porque a paternidade não é real sem filiação, porque a personalidade divina se compartilha e porque o Pai, ao outorgar ao Filho a absolutez de personalidade, escapa da algema da absolutez. Deus é um, porque as três pessoas constituem uma única Deidade indivisível, a Trindade do Paraíso, que é real embora não seja uma personalidade e que rege a justiça e o total. Nas pessoas, o homem encontra o amor do Pai; na Trindade, encontra a ordem do universo. O propósito que esse Deus tem para com o universo, a vontade de Deus, é o tema do próximo capítulo.",
+ "ch02:53": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Que fundamento a afirmação “a paternidade não é real sem filiação” (10:3.5) dá à minha fé quando chamo Deus de Pai?",
+   "2. O que o ensinamento de que a justiça não é uma atitude pessoal, mas uma função da Trindade (10:6.2), pede à minha maneira de julgar as outras pessoas?",
+   "3. Lembre-se de um momento em que a sua fé vacilou entre um Pai amoroso e as leis ordenadas do universo. Como o conceito da Trindade (104:2.3) ajuda você a ver essa experiência de um modo novo?"
+  ]
+ },
+ "ch03:label": "Capítulo 3",
+ "ch03:title": "A vontade de Deus",
+ "ch03:sub": "O propósito divino que move o universo",
+ "ch03:0": "No capítulo 1 vimos que a vontade está no começo mesmo de toda a realidade, e no capítulo 2 vimos como essa vontade se expressa na Trindade do Pai, do Filho e do Espírito. A pergunta volta-se agora para aquilo a que essa vontade se dirige. Em O Livro de Urântia, a vontade de Deus não é uma figura de linguagem piedosa, mas uma doutrina que une a criação do universo, a providência e a salvação do homem. Este capítulo pergunta, sucessivamente, o que é a vontade de Deus, como ela é executada no universo, como ela se encontra com as escolhas das criaturas livres e o que significa para o homem fazer essa vontade.",
+ "ch03:1": "1. Definição: o propósito eterno de Deus",
+ "ch03:2": "Desde a sua primeira frase, o documento 4, “A Relação de Deus com o Universo”, fala do propósito de Deus. O universo não é produto do acaso, mas da vontade.",
+ "ch03:4": "Essa passagem contém três elementos. O propósito abrange todos os fenômenos materiais, intelectuais e espirituais. Esse propósito é eterno e está sendo cumprido já agora, no tempo. E a criação procedeu de uma vontade livre e soberana. Onde reside, então, esse propósito em Deus? O documento 117, “Deus, o Supremo”, define a vontade de Deus através de todos os níveis da Deidade.",
+ "ch03:6": {
+  "cap": "Tabela 3.1  Onde reside a vontade de Deus",
+  "rows": [
+   [
+    "Lugar",
+    "Ali a vontade de Deus está…",
+    "Fonte"
+   ],
+   [
+    "A Primeira Fonte e Centro",
+    "Presente como propósito",
+    "117:0.1"
+   ],
+   [
+    "Os três Absolutos",
+    "Potencializada",
+    "117:0.1"
+   ],
+   [
+    "O Filho Eterno",
+    "Personalizada",
+    "117:0.1"
+   ],
+   [
+    "O Espírito Infinito",
+    "Conjugada para a atuação no universo",
+    "117:0.1"
+   ],
+   [
+    "Os arquétipos do Paraíso",
+    "Eternizada",
+    "117:0.1"
+   ],
+   [
+    "Deus, o Supremo",
+    "Transformando-se na mais elevada manifestação finita da vontade total de Deus",
+    "117:0.1"
+   ]
+  ]
+ },
+ "ch03:7": "Como mostra a tabela, a vontade de Deus não está confinada a um só lugar. Ela está presente em possibilidades ainda não realizadas, na personalidade do Filho, na atividade do Espírito e nos arquétipos do Paraíso. Conhecer a vontade de Deus, portanto, não é conhecer uma lista de regras, mas conhecer a direção de um único propósito que atravessa todos esses níveis. Um ser finito, porém, não consegue ver esse propósito na sua totalidade.",
+ "ch03:9": "Essa passagem nos diz também onde o homem vislumbra o propósito de Deus: no plano de ascensão da criatura, o plano que conduz o homem ao Paraíso. O documento 4 diz igualmente que esse plano de aperfeiçoamento dos mortais evolucionários parece ser uma das principais preocupações dos superuniversos (4:0.3).",
+ "ch03:10": "2. Fundamentos: aquilo de que o Pai não se despojou",
+ "ch03:11": "Por que o universo se move pela vontade? Os fundamentos estão nas doutrinas dos dois capítulos anteriores. O Pai delegou tudo o que pode ser delegado ao Filho e ao Espírito e aos numerosos Filhos. Contudo, os reveladores dizem que há algo de que o Pai nunca se desfez. Eles observam que o Pai “se despojou de todas as manifestações diretas de absolutez, exceto a paternidade absoluta e a absoluta volição” (10:3.6). Não se sabe se a volição é um atributo inalienável do Pai, mas está claro que o Pai não se despojou dela. O Pai, que deu tudo, conservou a Sua vontade.",
+ "ch03:12": "Esse fato explica de onde vem toda vontade no universo. O documento 118, “O Supremo e o Último — o Tempo e o Espaço”, diz que toda volição é relativa: “No sentido em que se originou, apenas o Pai-EU SOU possui a finalidade da volição” (118:6.4), e o livre-arbítrio do homem é apenas relativamente final, no nível finito. Há muitas vontades no universo, mas todas elas se ramificaram a partir de uma única vontade original. Que a vontade de uma criatura se torne una com a vontade de Deus não é, portanto, a submissão a algo alheio, mas um retorno à fonte da sua própria vontade.",
+ "ch03:13": "3. Estrutura: os modos como a vontade é executada no universo",
+ "ch03:14": "Como a vontade de Deus é realmente executada? Os reveladores rejeitam claramente a idéia de que Deus faça tudo pessoalmente.",
+ "ch03:16": "Essa distinção, a de que Deus é onipotente, mas não onificente, é um pilar que sustenta a doutrina da vontade de Deus. Os reveladores advertem que aceitar a onificência “seria abraçar o erro colossal que é o panteísmo” (118:6.8). Se Deus fizesse tudo diretamente, a vontade da criatura não teria lugar, e a obra dos Filhos Criadores e dos seus incontáveis auxiliares perderia o seu sentido. Deus governa por intermédio dos Seus Filhos (3:5.2), e a Sua providência é executada por meio da cooperação de uma multidão de seres.",
+ "ch03:18": "Isso não significa que o Pai tenha entregado o universo aos Seus Filhos e se retirado para longe. Delegação não é ausência. Pelo contrário, o documento 4 enfatiza que Deus sustenta todas as coisas mesmo neste momento.",
+ "ch03:20": "O universo não é um relógio que funciona enquanto dura a corda e depois pára. A vontade de Deus não é uma ordem dada uma única vez no momento da criação, mas um propósito vivo que sustenta o universo a cada momento. Além disso, o Pai pode, a qualquer momento, “interpor uma mão paterna na corrente de eventos cósmicos” (118:10.6). E dentro do homem Ele atua pessoalmente por meio do Ajustador do Pensamento. Os canais pelos quais a vontade de Deus é executada podem ser resumidos da seguinte forma.",
+ "ch03:21": {
+  "cap": "Tabela 3.2  Os canais pelos quais a vontade de Deus é executada",
+  "rows": [
+   [
+    "Canal",
+    "Descrição no texto",
+    "Fonte"
+   ],
+   [
+    "O governo por intermédio dos Filhos",
+    "O Pai governa por intermédio dos Seus Filhos, numa corrente ininterrupta de dirigentes que termina com os Príncipes Planetários",
+    "3:5.2"
+   ],
+   [
+    "A providência",
+    "As atividades entrelaçadas dos seres celestes e dos espíritos divinos",
+    "4:1.1"
+   ],
+   [
+    "O supercontrole do Supremo",
+    "A providência é, em parte, o supercontrole do Supremo incompleto, manifestado nos universos incompletos",
+    "118:10.20"
+   ],
+   [
+    "A ação direta do Pai",
+    "Quando as personalidades delegadas fracassam, ou a qualquer momento, motivado pelo amor do Pai",
+    "3:5.1, 118:10.6"
+   ],
+   [
+    "O Ajustador residente",
+    "Como pessoa, Ele atua diretamente no homem mortal por meio dos Ajustadores do Pensamento",
+    "10:3.15"
+   ]
+  ]
+ },
+ "ch03:22": "4. A liberdade e a vontade: a parte e o todo",
+ "ch03:23": "Se a vontade de Deus é eterna e soberana, por que há no mundo tantas coisas que vão contra ela? Os reveladores não evitam essa pergunta. A resposta está na distinção entre a parte e o todo.",
+ "ch03:25": "O documento 115, “O Ser Supremo”, enuncia o mesmo princípio numa escala mais ampla. O potencial pode não ter êxito em factualizar-se com respeito a uma parte em algum nível, mas nunca com respeito ao conjunto. “A vontade de Deus prevalece em ultimidade; nem sempre concernindo ao indivíduo, mas invariavelmente, no que concerne ao todo” (115:3.13). A escolha de um indivíduo pode, de fato, ir contra a vontade de Deus. Mas tal oposição não pode derrubar o propósito do universo como um todo.",
+ "ch03:26": {
+  "cap": "Tabela 3.3  A vontade de Deus na parte e no todo",
+  "rows": [
+   [
+    "Alcance",
+    "A vontade de Deus…",
+    "Fonte"
+   ],
+   [
+    "O coração de uma pessoa",
+    "Nem sempre pode ter caminho aberto",
+    "3:5.3"
+   ],
+   [
+    "O destino de um planeta",
+    "O plano divino prevalece",
+    "3:5.3"
+   ],
+   [
+    "O indivíduo e o conjunto",
+    "Prevalece, nem sempre no que concerne ao indivíduo, mas invariavelmente no que concerne ao todo",
+    "115:3.13"
+   ],
+   [
+    "O interesse da providência",
+    "Atua segundo a relação da função da criatura com o total, não segundo a importância da criatura como pessoa",
+    "118:10.5"
+   ],
+   [
+    "O amor do Pai",
+    "Atua diretamente no coração do indivíduo, independentemente de todos os outros indivíduos",
+    "118:10.11"
+   ]
+  ]
+ },
+ "ch03:27": "Por que, então, Deus não fez desde o início um mundo em que nada pudesse dar errado? A resposta dos reveladores está na liberdade. A possibilidade do erro é o preço da liberdade.",
+ "ch03:29": "O documento 3 desenvolve esse princípio por meio de nove virtudes. Para cada virtude que o homem deve adquirir, há um ambiente que ele precisa enfrentar para adquiri-la. As incertezas da vida não são um fracasso da vontade de Deus, mas o cenário de crescimento que essa vontade preparou (3:5.5).",
+ "ch03:30": {
+  "cap": "Tabela 3.4  As virtudes e as condições de vida que elas requerem",
+  "rows": [
+   [
+    "Virtude desejável",
+    "Condição que o homem deve enfrentar",
+    "Fonte"
+   ],
+   [
+    "A coragem",
+    "Um ambiente que requeira o enfrentamento das dificuldades e a reação às decepções",
+    "3:5.6"
+   ],
+   [
+    "O altruísmo",
+    "Situações de desigualdade social",
+    "3:5.7"
+   ],
+   [
+    "A esperança",
+    "Inseguranças constantes e incertezas renovadas",
+    "3:5.8"
+   ],
+   [
+    "A fé",
+    "A dificuldade de saber sempre menos do que se pode crer",
+    "3:5.9"
+   ],
+   [
+    "O amor à verdade",
+    "Um mundo no qual o erro esteja presente e a falsidade seja sempre possível",
+    "3:5.10"
+   ],
+   [
+    "O idealismo",
+    "Um ambiente de relativa bondade e beleza",
+    "3:5.11"
+   ],
+   [
+    "A lealdade",
+    "As possibilidades de traição e deserção",
+    "3:5.12"
+   ],
+   [
+    "O desapego",
+    "O incessante clamor do ego, que exige reconhecimento e honras",
+    "3:5.13"
+   ],
+   [
+    "O prazer",
+    "A alternativa da dor e a probabilidade do sofrimento",
+    "3:5.14"
+   ]
+  ]
+ },
+ "ch03:31": "5. Fazer a vontade de Deus",
+ "ch03:32": "Agora a doutrina desce à vida humana. O que significa fazer a vontade de Deus? O documento 111, “O Ajustador e a Alma”, define-o com uma simplicidade surpreendente.",
+ "ch03:34": "Aqui, fazer a vontade de Deus é definido como compartilhar. Essa definição corresponde exatamente à doutrina do capítulo 2. A personalidade divina se compartilha, e o Pai compartilha todas as coisas com o Filho e o Espírito. Quando o homem compartilha a sua vida interior com Deus, ele está fazendo exatamente o que Deus faz. Por isso o mesmo parágrafo diz: “Compartilhar é da natureza de Deus — é divino” (111:5.1). Essa escolha tampouco é mera condição para alguma recompensa futura. Os reveladores dizem que os seus frutos são dados no momento mesmo da escolha.",
+ "ch03:36": "O mesmo parágrafo acrescenta que esse consentimento é precedido por um consentimento da parte de Deus. O Pai já escolheu sujeitar um fragmento de Si próprio à vontade da personalidade da criatura (111:5.4). Antes que o homem se confie a Deus, Deus confiou-Se primeiro ao homem. E essa escolha não é um abandono da vontade.",
+ "ch03:38": "Os reveladores contrastam o caráter dessa escolha por meio de um par de declarações. É uma declaração de afirmação, mais do que de resignação.",
+ "ch03:40": "Essa escolha difere em caráter de todas as outras escolhas humanas. A vontade do homem está, em todos os aspectos, dentro de limites finitos, com uma exceção: a escolha de encontrar Deus e de ser como Ele. Essa escolha é “suprafinita” (118:6.7). E essa escolha certamente dará fruto. O homem pode escolher tornar-se mais do que um homem, e quando escolhe a viagem da ascensão no universo, a escolha humana e a vontade divina são coincidentes: “E se aquilo que um filho deseja é da vontade do Pai, então certamente acontecerá” (118:6.5). Essa escolha é, portanto, o que torna o homem grande.",
+ "ch03:42": "O exemplo mais perfeito dessa escolha é Jesus. A sua vida terrena “foi devotada a um grande propósito — fazer a vontade do Pai, viver a vida humana, religiosamente e pela fé” (196:0.14). No fim dessa escolha está a unidade com o Deus que reside no homem. O Ajustador do Pensamento é a vontade de Deus residente no homem, e a meta da ascensão é que essa vontade e a vontade do homem se tornem completamente uma só.",
+ "ch03:44": "Mas essa sintonização não se alcança da noite para o dia. A vontade de Deus não é vista de uma só vez; contudo, quando a vida é considerada como um todo, ela se torna cada vez mais clara.",
+ "ch03:46": "O mesmo vale para a providência. Os homens procuram encontrar a providência nos milagres ou na boa sorte, mas os reveladores dizem que a providência não é caprichosa nem mágica. Ela é a marcha segura do universo rumo às metas da eternidade.",
+ "ch03:48": "Pôr lado a lado com o texto as idéias que as pessoas costumam ter sobre a vontade de Deus torna clara a diferença.",
+ "ch03:49": {
+  "cap": "Tabela 3.5  Equívocos sobre a vontade de Deus e as respostas do texto",
+  "rows": [
+   [
+    "Equívoco",
+    "A resposta do texto",
+    "Fonte"
+   ],
+   [
+    "A providência significa que Deus decidiu tudo de antemão",
+    "Deus nos ama demais para fazer isso, pois isso seria tirania cósmica",
+    "118:10.1"
+   ],
+   [
+    "Deus faz tudo pessoalmente",
+    "Deus é onipotente, mas não onificente; a falácia da onificência é o erro do panteísmo",
+    "118:6.1, 118:6.8"
+   ],
+   [
+    "A boa sorte é um sinal da vontade de Deus",
+    "Muito daquilo que um mortal chamaria de boa sorte poderia ser realmente má sorte",
+    "118:10.9"
+   ],
+   [
+    "Seguir a vontade de Deus é renunciar à própria vontade",
+    "Não é uma rendição da vontade, mas uma consagração, uma expansão e um perfeccionamento da vontade",
+    "111:5.5"
+   ],
+   [
+    "A oração é um meio de mudar a vontade de Deus",
+    "Muitas vezes a resposta à oração que pede a intervenção providencial é a própria atitude mudada diante da vida",
+    "118:10.23"
+   ]
+  ]
+ },
+ "ch03:50": "Para concluir: onde o propósito e a escolha se encontram",
+ "ch03:51": "A vontade de Deus é o propósito eterno da Primeira Fonte e Centro. O Pai compartilhou tudo, mas conservou a Sua vontade, e toda vontade no universo se ramificou a partir dessa vontade original. Essa vontade é executada por meio do governo dos Filhos, da providência e do Ajustador residente; contudo, Deus não faz tudo pessoalmente. No coração de uma única pessoa essa vontade pode ser recusada, mas no todo ela é executada com segurança. E quando o homem consagra a sua própria vontade a essa vontade, a sua escolha transcende o finito e certamente acontecerá. Os reveladores dizem que, à medida que fizermos a vontade de Deus, qualquer que seja o ponto do universo em que estejamos, o potencial do Supremo torna-se factual (117:0.1). O próximo capítulo examina o Deus dessa factualização, o Ser Supremo, que cresce por meio da experiência.",
+ "ch03:52": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se fazer a vontade de Deus é compartilhar a minha vida interior com Deus (111:5.1), o que eu ainda não compartilhei?",
+   "2. Como o ensinamento de que a vontade de Deus nem sempre prevalece num único coração, mas prevalece com segurança no todo (3:5.3), me ajuda a ver os meus próprios fracassos e a confusão do mundo?",
+   "3. Quais das incertezas da minha vida atual estão se tornando condições para fazer crescer a coragem, a esperança ou a fé (3:5.5–3:5.14)?"
+  ]
+ },
+ "ch04:label": "Capítulo 4",
+ "ch04:title": "O Ser Supremo",
+ "ch04:sub": "O Deus que cresce por meio da experiência",
+ "ch04:0": "Os três capítulos anteriores trataram do Deus eterno. O EU SOU não tem começo, a Trindade do Paraíso é eternamente perfeita e a vontade de Deus é um propósito eterno. Mas O Livro de Urântia acrescenta a isso uma doutrina notável: um Deus que está crescendo no tempo, o Ser Supremo. Este capítulo, o último da primeira parte, pergunta quem é o Ser Supremo, por que tem de haver um Deus que cresce além do Deus eterno, como ele é constituído e de que modo a vida humana está ligada ao seu crescimento.",
+ "ch04:1": "1. Definição: o Deus do tempo e do espaço",
+ "ch04:2": "Entre os sete significados da palavra Deus, a Introdução coloca Deus, o Supremo, em quarto lugar. As palavras que se repetem nessa definição são evolução e experiência.",
+ "ch04:4": "O Ser Supremo não é alguém que esteja completo desde toda a eternidade, mas alguém que agora está em factualização. E essa factualização acontece naquilo que o Criador e a criatura experimentam juntos. O documento 117, “Deus, o Supremo”, retrata esse Deus na linguagem dos valores que o homem já conhece.",
+ "ch04:6": "Quando o homem experimenta a verdade, a beleza e a bondade, ele já está em contato com a substância do Ser Supremo. O Ser Supremo não é uma abstração remota, mas o máximo de divindade que um ser finito pode experimentar. Ele está também profundamente ligado ao próprio tempo.",
+ "ch04:8": "Todo o crescimento por que o homem passa no tempo é preservado no Ser Supremo. O tempo, portanto, não é algo que escoa para o nada, mas uma corrente que encontra significado no Supremo. Os reveladores dizem que o Supremo não é infinito, mas que “provavelmente ele abraça toda uma infinitude a qual uma criatura finita jamais poderá compreender realmente” (117:6.19).",
+ "ch04:9": "2. Fundamentos: por que é necessário um Deus que cresce",
+ "ch04:10": "Se há um Deus eterno e perfeito, por que é necessário também um Deus que cresce? A primeira chave para responder a essa pergunta é a distinção que a Introdução faz entre Deidade existencial e Deidade experiencial (0:7.2–0:7.4).",
+ "ch04:11": {
+  "cap": "Tabela 4.1  A Deidade existencial e a Deidade experiencial",
+  "rows": [
+   [
+    "Distinção",
+    "Deidade existencial",
+    "Deidade experiencial",
+    "Fonte"
+   ],
+   [
+    "As Deidades em questão",
+    "O Pai, o Filho e o Espírito",
+    "Deus, o Supremo, Deus, o Último, e Deus, o Absoluto",
+    "0:7.1"
+   ],
+   [
+    "Modo de existência",
+    "De existência eterna; passada, presente e futura",
+    "Em factualização no presente pós-Havona, mas de existência sem fim ao longo de toda a eternidade futura",
+    "0:7.3, 0:7.4"
+   ],
+   [
+    "Origem e destino",
+    "Eternas inqualificavelmente",
+    "Têm uma origem, mas são eternas no seu destino",
+    "0:7.5"
+   ],
+   [
+    "Status presente",
+    "Existenciais em factualidade",
+    "Não plenamente existentes agora; em processo de factualização",
+    "0:7.5, 0:7.6"
+   ]
+  ]
+ },
+ "ch04:12": "O Pai já alcançou a expressão existencial da Deidade no Filho e no Espírito. Ele está agora alcançando a expressão experiencial em níveis da deidade até então irrevelados (0:7.6). A segunda chave vem da própria aparência do universo. Os reveladores colocam Havona e Urântia lado a lado e seguem as conclusões da razão.",
+ "ch04:14": "Essa conclusão não abala a fé; antes, endireita-a. Se as imperfeições do mundo forem consideradas obra direta de um Deus infinito e perfeito, o homem só poderá ressentir-se contra Deus ou resignar-se diante do sofrimento e da injustiça. Mas, se o Deus do tempo e do espaço é um Deus que cresce, a imperfeição não é fracasso, mas o lugar do crescimento. Os reveladores dizem que esse entendimento liberta a religião de ser um instrumento de resignação social (116:0.1). E o crescimento não é uma empresa solitária.",
+ "ch04:16": "Havona não cresce, porque é perfeita desde o princípio. O grande universo cresce, porque é imperfeito. A soma desse crescimento é o Ser Supremo. E o fundamento da existência do universo finito está, em última análise, na vontade de Deus: “Os domínios do finito existem em virtude do propósito eterno de Deus” (115:1.4). A vontade de Deus, que vimos no capítulo 3, conduz assim à doutrina do Ser Supremo.",
+ "ch04:17": "3. Estrutura: derivado da Trindade, crescendo por meio da experiência",
+ "ch04:18": "De onde vem o Ser Supremo? O documento 115, “O Ser Supremo”, distingue duas fontes da Supremacia. A sua personalidade vem de cima; o seu crescimento vem da tensão entre o factual e o potencial.",
+ "ch04:20": "A sua personalidade espiritual vem da Trindade, mas o seu poder acumula-se na obra realizada pelos Criadores do tempo e do espaço. Deus, o Supremo, “factualiza o seu poder” (116:2.2) nos feitos dos Filhos Criadores, dos Anciães dos Dias e dos Espíritos Mestres. E o que une essa personalidade espiritual e esse poder numa só coisa é a Mente Suprema. Os reveladores dizem que não haverá nenhum Todo-Poderoso separadamente do Supremo, nenhum Supremo separadamente do Todo-Poderoso (116:1.2). As três fases do Ser Supremo são resumidas abaixo. No fim, as três fases convergem numa única experiência. Na procissão universal dos Criadores que descem para revelar Deus e das criaturas que ascendem em busca de Deus, os que descem e os que ascendem chegam a compreender-se uns aos outros e descobrem a fraternidade (117:1.2).",
+ "ch04:22": "O Ser Supremo não é nem o Deus apenas do Criador nem o Deus apenas da criatura. Ele cresce exatamente no lugar onde se encontram o Deus que desce e o homem que ascende.",
+ "ch04:23": {
+  "cap": "Tabela 4.2  As três fases do Ser Supremo",
+  "rows": [
+   [
+    "Fase",
+    "Descrição no texto",
+    "Status presente",
+    "Fonte"
+   ],
+   [
+    "Deus, o Supremo (personalidade espiritual)",
+    "Uma pessoa-espírito que brota da Trindade; funciona primariamente no universo central",
+    "Real como personalidade",
+    "115:4.2, 116:0.5"
+   ],
+   [
+    "O Supremo Todo-Poderoso (poder)",
+    "Funciona secundariamente no grande universo como uma personalidade de poder",
+    "Está-se factualizando agora por meio das atividades das Personalidades Criadoras Supremas",
+    "116:0.5, 116:2.14"
+   ],
+   [
+    "A Mente Suprema",
+    "A função que une os atributos de poder e de personalidade",
+    "Em processo de factualização na coordenação do grande universo",
+    "116:1.2, 116:1.3"
+   ]
+  ]
+ },
+ "ch04:24": "O modo como o homem encontra o Ser Supremo é Deus, o Sétuplo. Como o homem não consegue compreender a Deidade do Paraíso, a divindade se atenua e se qualifica, trazendo à existência os Criadores Supremos e, por meio deles, levando a luz da vida até os mundos evolucionários (116:2.3). Os mortais encontram os níveis de Deus, o Sétuplo, um após o outro, começando de baixo.",
+ "ch04:25": {
+  "cap": "Tabela 4.3  A ordem em que os mortais encontram Deus, o Sétuplo",
+  "rows": [
+   [
+    "Ordem",
+    "Nível",
+    "Classificação",
+    "Fonte"
+   ],
+   [
+    "1",
+    "Os Filhos Criadores (e os Espíritos Criativos)",
+    "Criadores Supremos",
+    "116:2.5"
+   ],
+   [
+    "2",
+    "Os Anciães dos Dias",
+    "Criadores Supremos",
+    "116:2.6"
+   ],
+   [
+    "3",
+    "Os Sete Espíritos Mestres",
+    "Criadores Supremos",
+    "116:2.7"
+   ],
+   [
+    "4",
+    "O Ser Supremo",
+    "Personalização espiritual experiencial e foco do poder Todo-Poderoso",
+    "116:2.8, 116:2.12"
+   ],
+   [
+    "5",
+    "O Agente Conjunto",
+    "Deidade do Paraíso",
+    "116:2.9"
+   ],
+   [
+    "6",
+    "O Filho Eterno",
+    "Deidade do Paraíso",
+    "116:2.10"
+   ],
+   [
+    "7",
+    "O Pai Universal",
+    "Deidade do Paraíso",
+    "116:2.11"
+   ]
+  ]
+ },
+ "ch04:26": "Nessa ordem, o Ser Supremo está exatamente no meio. Acima dele estão as Deidades do Paraíso; abaixo dele, os Criadores Supremos do tempo e do espaço. O Ser Supremo é o lugar onde a eternidade e o tempo se encontram e, nas palavras dos reveladores, “O Ser Supremo é a revelação máxima da Deidade para os sete superuniversos e para a presente idade do universo” (116:2.12).",
+ "ch04:27": "4. O homem e o Ser Supremo: um crescimento interdependente",
+ "ch04:28": "É aqui que a doutrina toca o homem mais diretamente. O crescimento do Ser Supremo não está separado do crescimento das criaturas. Quando o homem cresce, o Supremo cresce.",
+ "ch04:30": "Dizer que Deus depende das escolhas do homem é ousado. Contudo, isso não é uma fraqueza em Deus, mas uma expressão de confiança. Os reveladores explicam essa dependência em termos de confiança e de amor.",
+ "ch04:32": "O que foi colocado nas mãos do homem é uma parte do próprio Deus. O crescimento do homem, portanto, não é mero cultivo privado de si mesmo; torna-se uma responsabilidade cósmica de realizar a divindade que lhe foi confiada. E esse crescimento não acontece por si só.",
+ "ch04:34": "Que o esforço seja necessário é ao mesmo tempo um fardo e um consolo, pois a luta do homem não é uma luta travada a sós.",
+ "ch04:36": "Os reveladores explicam que o crescimento do homem e o crescimento do Ser Supremo têm a mesma estrutura. O que a Trindade é para Deus, o Supremo, o Ajustador é para o homem (117:3.10). O paralelo pode ser resumido da seguinte forma.",
+ "ch04:37": {
+  "cap": "Tabela 4.4  O crescimento do homem e o crescimento do Ser Supremo",
+  "rows": [
+   [
+    "Comparação",
+    "O homem",
+    "O Ser Supremo",
+    "Fonte"
+   ],
+   [
+    "Fonte divina",
+    "O Ajustador do Pensamento residente",
+    "A Trindade do Paraíso",
+    "117:3.10"
+   ],
+   [
+    "Modo de crescer",
+    "Cresce conscientemente do material para o espiritual por meio da força e da persistência das suas próprias decisões",
+    "A sua soberania cresce nos atos e pelos atos e realizações das Personalidades Criadoras Supremas",
+    "117:3.6, 117:3.7"
+   ],
+   [
+    "Resultado do crescimento",
+    "A evolução da alma imortal",
+    "A realização da soberania e da divindade experienciais",
+    "117:3.10, 117:4.2"
+   ],
+   [
+    "Quando é rejeitado",
+    "O eu pode ser destruído, mas tudo o que valha a pena persiste no Supremo",
+    "A parte que dependia dessa escolha experimenta um retardamento",
+    "117:4.3, 117:4.2"
+   ]
+  ]
+ },
+ "ch04:38": "A relação entre o homem e o Ser Supremo é menos uma relação de criação do que uma relação de fundamento. Os reveladores traçam essa distinção com precisão.",
+ "ch04:40": "Rejeitar a sobrevivência, portanto, não é uma mera perda individual. A personalidade que não ascende “retorna para o Supremo como uma gota de água retorna para o mar” (117:4.4). A parte que essa personalidade poderia ter contribuído não é preenchida do mesmo modo pela contribuição de nenhum outro. Os reveladores apresentam isso como o desafio feito ao homem (117:4.10). Ainda que uma outra criatura faça algum dia uma contribuição, “Esta, porém, seria a contribuição dela para o Supremo, não a vossa” (117:4.10).",
+ "ch04:41": "5. O caminho para encontrar o Ser Supremo",
+ "ch04:42": "O homem pode descobrir o Pai no seu próprio coração, porque o Ajustador está ali. Mas o Ser Supremo não é encontrado dessa maneira individual. Como o Ser Supremo é a soma do crescimento de todas as criaturas, o caminho para encontrá-lo passa também pelas outras pessoas.",
+ "ch04:44": "Esse ensinamento liga diretamente a doutrina do Ser Supremo à fraternidade dos homens. O Pai trata cada pessoa como um indivíduo cósmico, ao passo que o Supremo trata os seus filhos experienciais como um único todo cósmico (117:6.22). Os reveladores dizem que, como Deus é o Pai divino do homem, também o Supremo é a sua mãe divina, em quem ele é nutrido (117:6.2). Essa descoberta não é espetacular. Os homens encontram o Supremo “lenta e pacientemente, como um rio mansamente desbasta o solo por baixo” (117:6.25). A substância do Supremo que o homem pode experimentar agora são os frutos do espírito (117:6.17). Mesmo a pequena escolha do homem de fazer a vontade de Deus reflete-se imediatamente nesse crescimento cósmico.",
+ "ch04:46": "E quem percorre esse caminho não está sozinho.",
+ "ch04:48": {
+  "cap": "Tabela 4.5  Equívocos sobre o Ser Supremo e as respostas do texto",
+  "rows": [
+   [
+    "Equívoco",
+    "A resposta do texto",
+    "Fonte"
+   ],
+   [
+    "O Ser Supremo é o mesmo que a Trindade",
+    "Deus, o Supremo, não é a Trindade do Paraíso, e ele também não é nenhum dos Criadores superuniversais, nem todos eles",
+    "116:2.14"
+   ],
+   [
+    "O Ser Supremo criou o homem",
+    "O Ser Supremo não criou o homem, mas o homem foi criado a partir da potencialidade do Supremo",
+    "117:3.12"
+   ],
+   [
+    "O Ser Supremo já está completo",
+    "As Deidades experienciais não são plenamente existentes agora; estão em processo de factualização",
+    "0:7.6"
+   ],
+   [
+    "O homem pode encontrar agora o Ser Supremo pessoalmente",
+    "Nem um único ascendente encontrará o Supremo até que todos os ascendentes hajam alcançado a maturidade máxima no universo que os qualificará a participar dessa descoberta",
+    "117:6.21"
+   ],
+   [
+    "O Ser Supremo é infinito",
+    "O Supremo não é infinito, mas provavelmente abraça toda a infinitude que uma criatura finita pode compreender",
+    "117:6.19"
+   ]
+  ]
+ },
+ "ch04:49": "6. Conseqüências: a virtude da incompletude",
+ "ch04:50": "A doutrina do Ser Supremo nos permite ver a imperfeição do universo sob uma nova luz. Como o Ser Supremo ainda não está completo, há lugar para que as criaturas participem da sua completude. Os reveladores chamam essa incompletude de virtude.",
+ "ch04:52": "É também por isso que o homem pode aspirar ao Paraíso e ao destino de finalitor. Esse destino é possível porque o homem está no Supremo e participa do seu ciclo de crescimento (117:2.5). E esse crescimento tem um fim. Quando todos os potenciais finitos forem realizados, o Ser Supremo emergirá como o soberano experiencial do grande universo, e os universos estarão estabelecidos em luz e vida (117:2.7, 117:6.24). Então as escolhas que o homem faz hoje permanecerão para sempre dentro desse Deus completado.",
+ "ch04:53": "Para concluir: o homem que cresce com o Deus que cresce",
+ "ch04:54": "O Ser Supremo é o Deus do tempo e do espaço, a Deidade pessoal na qual a experiência do Criador e da criatura se torna uma só. A sua personalidade espiritual vem da Trindade, o seu poder acumula-se na obra dos Criadores do tempo, e a Mente Suprema une os dois. E o seu crescimento e o crescimento de todas as criaturas dependem um do outro. É por isso que uma única e pequena escolha humana tem significado cósmico. Com isso, a primeira parte completa as quatro doutrinas fundamentais sobre Deus. O EU SOU é a fonte de toda a realidade; a Trindade é a unicidade pessoal dessa fonte; a vontade de Deus é o propósito eterno desse Deus; e o Ser Supremo é o Deus no qual esse propósito está sendo realizado no tempo. A segunda parte examina como esse Deus constitui e governa o universo.",
+ "ch04:55": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Como a conclusão de que as imperfeições de Urântia revelam a administração de Criadores que não são os perfeitos (116:0.2) muda a minha fé diante do sofrimento e da injustiça do mundo?",
+   "2. Se a Deidade Suprema é, em um certo sentido, dependente da escolha da vontade mortal (117:4.9), que peso têm as decisões que tomo hoje?",
+   "3. O que a afirmação de que posso descobrir o Pai no meu próprio coração, mas terei de procurar pelo Supremo nos corações de todos os outros homens (117:6.23), pede à minha maneira de tratar o próximo?"
+  ]
+ },
+ "ch05:label": "Capítulo 5",
+ "ch05:title": "A constituição e a administração do universo",
+ "ch05:0": "A primeira parte perguntou quem é Deus. A segunda parte pergunta como esse Deus governa a Sua criação. O Livro de Urântia dedica tantas páginas à estrutura e à administração do universo não para satisfazer a curiosidade astronômica, mas porque, quando aprendemos como o universo está organizado e a quem foi confiado governá-lo, chegamos a ver a que tipo de ordem pertence o nosso pequeno mundo e a vontade de quem essa ordem segue. Desde as suas primeiras páginas, a Introdução situa o lugar do homem dentro dessa grande ordem.",
+ "ch05:2": "Este capítulo faz quatro perguntas. Como o universo está organizado? Quem governa cada uma das suas unidades? Por que o Pai Universal governa por intermédio dos Seus Filhos e coligados, e não diretamente? E o que essa ordem administrativa significa para a vida de uma única pessoa?",
+ "ch05:3": "1. Um só centro, seis níveis concêntricos do espaço",
+ "ch05:4": "A cosmologia de O Livro de Urântia começa no centro. No coração de toda a criação está a Ilha estacionária do Paraíso, e ao seu redor está o perfeito universo central de Havona. Esses dois são realidades eternas, sem começo nem fim, e todos os outros universos giram em torno deles.",
+ "ch05:6": "Além deles estão os sete superuniversos e, além destes, quatro níveis do espaço exterior que ainda estão sendo organizados. Os reveladores distinguem essas seis elipses concêntricas por três tempos: a eternidade, o tempo e o futuro.",
+ "ch05:8": {
+  "cap": "Tabela 5.1  Os seis níveis espaciais do universo-mestre",
+  "rows": [
+   [
+    "Nível",
+    "Natureza",
+    "Fonte"
+   ],
+   [
+    "O Paraíso (centro)",
+    "A Ilha estacionária e absolutamente estabilizada, no centro de Havona",
+    "12:1.10"
+   ],
+   [
+    "1. O universo central, Havona",
+    "Uma existência eterna, sem começo e sem fim; um bilhão de esferas perfeitas",
+    "12:1.10"
+   ],
+   [
+    "2. Os sete superuniversos",
+    "Criações do tempo; a porção exterior do grande universo, agora organizada e habitada",
+    "12:1.12, 12:1.16"
+   ],
+   [
+    "3–6. Os quatro níveis do espaço exterior",
+    "Criações futuras, onde se acumulam circuitos de força e energias que se materializam",
+    "12:1.14, 12:1.16"
+   ]
+  ]
+ },
+ "ch05:9": "A criação do tempo ainda não está terminada. Ao observarem a fronteira exterior do grande universo, os reveladores não vêem um edifício acabado, mas uma obra ainda em construção.",
+ "ch05:11": "Aqui vem à luz um princípio: o perfeito vem primeiro, e o imperfeito cresce ao seu redor. Havona é o arquétipo no qual os universos em evolução devem fixar o olhar, e os universos do tempo foram feitos para crescer em direção a esse arquétipo. Até os Filhos Criadores que constroem os universos locais aprendem em Havona.",
+ "ch05:13": "A própria estrutura do universo já contém uma direção: a ascensão rumo ao centro. O centro perfeito torna-se a meta da periferia, e a periferia inacabada cresce à medida que vai se assemelhando ao centro. A geografia do universo é um mapa do seu propósito.",
+ "ch05:14": "2. As unidades administrativas dos sete superuniversos",
+ "ch05:15": "Os universos do tempo não estão espalhados ao acaso. O documento 15 expõe, passo a passo, a organização do grande universo, desde o planeta até o superuniverso. Essas divisões, porém, servem à administração; não seguem simplesmente fronteiras astronômicas. A unidade criativa básica da administração é o universo local.",
+ "ch05:17": {
+  "cap": "Tabela 5.2  As unidades de organização de um superuniverso e os seus governantes",
+  "rows": [
+   [
+    "Unidade",
+    "Composição",
+    "Mundos habitáveis (aprox.)",
+    "Governantes",
+    "Fonte"
+   ],
+   [
+    "Sistema",
+    "Cerca de mil mundos habitáveis",
+    "1 000",
+    "Um Soberano do Sistema; um Príncipe Planetário em cada planeta",
+    "15:2.3, 45:2.1"
+   ],
+   [
+    "Constelação",
+    "Cem sistemas",
+    "100 000",
+    "Três Filhos Vorondadeques (os Pais da Constelação)",
+    "15:2.4, 35:6.2"
+   ],
+   [
+    "Universo local",
+    "Cem constelações",
+    "10 milhões",
+    "Um Filho Criador da ordem dos Michaéis",
+    "15:2.5"
+   ],
+   [
+    "Setor menor",
+    "Cem universos locais",
+    "1 bilhão",
+    "Três Recentes dos Dias",
+    "15:2.6"
+   ],
+   [
+    "Setor maior",
+    "Cem setores menores",
+    "100 bilhões",
+    "Três Perfeições dos Dias",
+    "15:2.7"
+   ],
+   [
+    "Superuniverso",
+    "Dez setores maiores",
+    "1 trilhão",
+    "Três Anciães dos Dias",
+    "15:2.8"
+   ],
+   [
+    "Grande universo",
+    "Sete superuniversos",
+    "7 trilhões",
+    "Os Sete Espíritos Mestres (indireta e refletivamente, do Paraíso)",
+    "15:2.9"
+   ]
+  ]
+ },
+ "ch05:18": "Essa tabela contém uma linha divisória clara. Os sistemas, as constelações e os universos locais são governados pelo Filho Criador e pelos seus filhos. Os setores menores, os setores maiores e os superuniversos são governados por Personalidades Supremas da Trindade, os seres “dos Dias”. A administração do grande universo é uma estrutura dupla, na qual duas linhas de autoridade se entrelaçam. E, acima de tudo, o Paraíso governa os sete superuniversos não pondo diretamente a mão sobre eles, mas refletindo o seu governo por meio dos Espíritos Mestres.",
+ "ch05:20": "Os governos intermediários têm, cada um, a sua própria esfera. Os governos dos setores maiores ocupam-se principalmente do status intelectual e do aperfeiçoamento; os governos dos setores menores, da estabilidade física.",
+ "ch05:22": "3. O governo da Trindade e o governo do Filho",
+ "ch05:23": "O governo do superuniverso deriva da Trindade do Paraíso. Junto aos três Anciães dos Dias, que governam conjuntamente um superuniverso, estão os Perfeccionadores da Sabedoria, os Conselheiros Divinos e os Censores Universais, e o documento 15 diz que “Esses três grupos são Personalidades Coordenadas da Trindade, tendo direta e divinamente a sua origem na Trindade do Paraíso” (15:10.11). Contudo, os grupos restantes desse mesmo governo são, surpreendentemente, seres que se elevaram do meio dos homens.",
+ "ch05:25": "Seres perfeitos vindos da Trindade trabalham juntos, num só governo, com seres que ascenderam dos mundos do tempo e alcançaram a perfeição. O superuniverso é o lugar de encontro da perfeição divina e da perfeição experiencial. O universo local, por outro lado, é o domínio que um único Filho Criador constrói e governa pessoalmente. Se o governo do superuniverso se ocupa principalmente do julgamento, do aperfeiçoamento intelectual e da estabilidade física, o governo do universo local ocupa-se da criação e da ministração.",
+ "ch05:26": {
+  "cap": "Tabela 5.3  O governo do superuniverso e o governo do universo local",
+  "rows": [
+   [
+    "Aspecto",
+    "Governo do superuniverso",
+    "Governo do universo local",
+    "Fonte"
+   ],
+   [
+    "Origem",
+    "A Trindade do Paraíso (personalidades de origem na Trindade e mortais ascendentes)",
+    "O Filho Criador e o Espírito Materno do Universo",
+    "15:10.11~12, 33:0.1"
+   ],
+   [
+    "Governantes",
+    "Três Anciães dos Dias (os principais executivos conjuntos)",
+    "Michael, o Filho Criador (soberano), e o Espírito do Universo (co-diretora)",
+    "15:10.3, 33:3.3"
+   ],
+   [
+    "Ocupações principais",
+    "Julgamento, aperfeiçoamento intelectual, controle físico e estabilidade",
+    "Criação, sustentação e ministração",
+    "15:13.2, 15:13.4 e 33:7.1"
+   ],
+   [
+    "Vida eterna e extinção",
+    "Profere o veredicto final",
+    "Não tem o direito de julgar; remete esses casos aos tribunais de Orvônton",
+    "33:2.2, 33:7.4"
+   ],
+   [
+    "Relações mútuas",
+    "Os superuniversos estão isolados uns dos outros e só se conhecem por meio do Paraíso",
+    "Gabriel atua como comandante executivo em relação aos dois governos",
+    "15:10.23, 33:4.6"
+   ]
+  ]
+ },
+ "ch05:27": "O ponto em que os dois governos se dividem é significativo. O universo local constrói e nutre a vida, mas o veredicto que poria fim à sobrevivência eterna de uma personalidade é deixado ao governo da Trindade. O documento 33 encontra a razão na própria natureza da administração do universo local. Como essa administração se ocupa da criação, da evolução, da manutenção e da ministração, “Aos tribunais do universo é, por isso, negado o direito de julgar os casos envolvendo a questão da vida e morte eternas” (33:7.4). A criação e o julgamento são postos em mãos diferentes, para que aquele que deu a vida não se torne o juiz que a tira.",
+ "ch05:28": "Outra coisa digna de nota é a relação entre os superuniversos. Os sete superuniversos não trocam embaixadores; só tomam conhecimento dos assuntos uns dos outros por meio da câmara de compensação do Paraíso. Os reveladores dizem que esse isolamento não é uma condição permanente.",
+ "ch05:30": "A estrutura administrativa atual não é um sistema acabado, mas um sistema que cresce. Os sete superuniversos, agora mantidos separados, serão um dia coordenados como um só sob a soberania do Ser Supremo. A história da administração do universo segue o mesmo caminho do crescimento do Ser Supremo, que examinamos no capítulo 4.",
+ "ch05:31": "4. O princípio da delegação: o Pai governa nos Seus Filhos",
+ "ch05:32": "Por que, então, é necessária uma administração tão complexa? Não poderia o Pai Universal, que tudo pode, simplesmente governar Ele mesmo cada mundo? O Livro de Urântia responde a essa pergunta a partir da própria natureza do Pai. O Pai não é autocentrado; Ele dá tudo o que pode ser dado.",
+ "ch05:34": "Essa delegação não significa que o Pai tenha se retirado. Os reveladores afirmam claramente que não devemos supor que Ele seja “um membro silencioso ou inativo” (32:4.1). O Pai conserva nas Suas próprias mãos o outorgamento da personalidade e o outorgamento dos Ajustadores e, por meio do circuito de personalidade, permanece diretamente ligado a cada personalidade. É somente na administração rotineira de um universo local que Ele atua por intermédio de um Filho.",
+ "ch05:36": "A delegação não é a ausência de Deus, mas um outro modo da Sua presença. Mesmo onde Ele se afastou, o Pai atua por meio daqueles que ocuparam esse lugar.",
+ "ch05:38": "A lógica da delegação pode ser resumida em três pontos. Primeiro, o amor do Pai é um compartilhar, e o compartilhar abre espaço para que outros façam um trabalho real. Segundo, as criaturas só crescem funcionando e experimentando. Se Deus fizesse tudo Ele mesmo, nem os Filhos, nem os anjos, nem os homens teriam qualquer participação na experiência. Terceiro, mesmo dentro de uma administração delegada, a presença do Pai chega diretamente a cada pessoa por meio do circuito de personalidade e do Ajustador residente. Assim, a administração é delegada, mas a relação entre o Pai e os Seus filhos não o é.",
+ "ch05:39": "5. A administração de um universo local: o Filho Criador e os seus coligados",
+ "ch05:40": "No centro de um universo local está o Filho Criador. Ele não é o mesmo que o Filho Eterno, nem é membro da Trindade; contudo, revela ao seu próprio universo tanto o Pai quanto o Filho.",
+ "ch05:42": "Mas Michael não governa sozinho. O Espírito Materno do Universo, a manifestação do Espírito Infinito no universo local, constrói e governa o universo com ele desde o princípio.",
+ "ch05:44": "Gabriel, o Brilhante Estrela Matutino, o primogênito do Filho e do Espírito, é o comandante executivo do universo. Ele não cria, mas participa de toda decisão importante que não seja de criação.",
+ "ch05:46": "Os tribunais, os conselhos e as agências executivas estão distribuídos entre a sede-central do universo, as constelações e os sistemas. E, na ponta extrema da linha, num único planeta habitado, está o Príncipe Planetário. O documento 50 apresenta-o como o último elo por meio do qual os Filhos de Deus se aproximam do homem.",
+ "ch05:48": "O próprio Michael, no topo dessa administração, não se assenta como juiz.",
+ "ch05:50": {
+  "cap": "Tabela 5.4  A divisão de funções na administração do universo local",
+  "rows": [
+   [
+    "Agência ou personalidade",
+    "Responsabilidade",
+    "Fonte"
+   ],
+   [
+    "Michael, o Filho Criador",
+    "Criação, sustentação e ministração (não participa pessoalmente do trabalho judicial)",
+    "33:7.1"
+   ],
+   [
+    "O Espírito Materno do Universo",
+    "Co-diretora em todos os detalhes da administração; traz à existência as ordens de personalidades do espírito",
+    "33:3.3, 33:3.8"
+   ],
+   [
+    "Gabriel (o Brilhante Estrela Matutino)",
+    "Comandante executivo, árbitro dos apelos executivos, supervisor de todo o mecanismo judicial",
+    "33:4.5, 33:7.2"
+   ],
+   [
+    "Os tribunais de Sálvington",
+    "Ocupam-se dos problemas de importância geral para o universo e dos casos de apelação que vêm dos tribunais dos sistemas",
+    "33:7.2"
+   ],
+   [
+    "As constelações",
+    "As assembléias legislativas do universo local",
+    "33:8.1"
+   ],
+   [
+    "Os sistemas",
+    "Unidades executivas e administrativas que fazem cumprir os mandados legislativos da constelação e os decretos das cortes do universo",
+    "33:8.1"
+   ],
+   [
+    "O Príncipe Planetário",
+    "Preside a um único planeta habitado",
+    "15:2.3"
+   ]
+  ]
+ },
+ "ch05:51": "O que se destaca é que a criação, o julgamento, a legislação e a execução são postos em mãos diferentes. O Criador não julga; o julgamento é confiado àqueles que adquiriram experiência. A legislação acontece nas constelações; a execução, nos sistemas. Essa divisão é uma sabedoria que impede que o poder se concentre num só lugar e, ao mesmo tempo, dá aos seres de cada ordem a sua própria parte de responsabilidade e de crescimento. Os reveladores dizem brevemente o que essa ordem significa para o homem: “Vós estais vivendo em um universo bem ordenado e, mais cedo ou mais tarde, podeis confiar que sereis tratados com a justiça devida e até mesmo com misericórdia” (33:7.8). Os Filhos de Deus que trabalham dentro dessa grande estrutura administrativa são tratados no capítulo 6, e os anjos ministradores, no capítulo 7.",
+ "ch05:52": "A ordem administrativa não é um fim em si mesma. Os tribunais, os conselhos e as agências executivas servem todos a um único grande plano. O Mensageiro Poderoso que encerra o documento 32 o diz assim: “Somos todos uma parte de um projeto eterno que os Deuses estão supervisionando e executando” (32:5.1). O Soberano do Sistema, os Pais da Constelação, Gabriel e a pessoa que vive um único dia num planeta fazem todos parte desse empreendimento. A hierarquia administrativa não é uma cadeia em que os superiores dão ordens aos inferiores, mas uma rede de cooperação na qual cada um, no seu próprio lugar, serve ao mesmo propósito. O homem começa na base mesma dessa rede, mas é chamado a passar por cada uma das suas etapas, uma a uma, ao longo do caminho da ascensão, até chegar ao Paraíso.",
+ "ch05:53": {
+  "cap": "Tabela 5.5  O lugar de Urântia na administração do universo",
+  "rows": [
+   [
+    "Unidade",
+    "Nome",
+    "Sede-central",
+    "Posição",
+    "Fonte"
+   ],
+   [
+    "Planeta",
+    "Urântia",
+    "—",
+    "O de número 606 no sistema de Satânia",
+    "15:14.5"
+   ],
+   [
+    "Sistema",
+    "Satânia",
+    "Jerusém",
+    "O de número vinte e quatro na constelação de Norlatiadeque",
+    "15:14.6"
+   ],
+   [
+    "Constelação",
+    "Norlatiadeque",
+    "Edêntia",
+    "O de número 70 no universo de Nébadon",
+    "15:14.6"
+   ],
+   [
+    "Universo local",
+    "Nébadon",
+    "Sálvington",
+    "O de número oitenta e quatro no setor menor de Ensa",
+    "15:14.6"
+   ],
+   [
+    "Setor menor",
+    "Ensa",
+    "U Menor, a terceira",
+    "O de número três no setor maior de Esplândon",
+    "15:14.7"
+   ],
+   [
+    "Setor maior",
+    "Esplândon",
+    "U Maior, a quinta",
+    "O quinto setor maior do superuniverso de Orvônton",
+    "15:14.7"
+   ],
+   [
+    "Superuniverso",
+    "Orvônton",
+    "Uversa",
+    "O sétimo segmento do grande universo",
+    "15:14.7, 0:0.5"
+   ]
+  ]
+ },
+ "ch05:54": "Para concluir: um universo ordenado, um mundo amado",
+ "ch05:55": "A constituição e a administração do universo estão unidas numa só cadeia. O eterno e perfeito Paraíso-Havona está no centro, e os sete superuniversos do tempo crescem ao seu redor. Os superuniversos são julgados e guardados pelo governo da Trindade e, dentro deles, os universos locais são construídos e cuidados pelos Filhos Criadores. Essa administração dupla brota da natureza de um Pai que dá a Si próprio e, mesmo nessa delegação, o Pai permanece diretamente ligado a cada pessoa por meio do circuito de personalidade e do Ajustador. E assim este pequeno planeta, um entre sete trilhões de mundos, não é um posto avançado abandonado. “a vossa esfera é tão precisamente administrada e fomentada, com tanto e tal amor, que é como se ela fosse o único mundo habitado em toda a existência” (15:14.9). O próximo capítulo examina os Filhos de Deus que de fato executam essa administração, que constroem os universos, governam-nos e descem pessoalmente aos mundos.",
+ "ch05:56": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. O que o princípio de que os Criadores nunca se assentam para o julgamento das suas criaturas (33:7.1) ensina sobre a separação entre a criação e o julgamento?",
+   "2. O Pai despojou-se de todas as funções que possam ser executadas por um outro ser (32:4.10). Que pergunta isso levanta sobre a maneira como confio trabalho aos outros e trabalho ao lado deles?",
+   "3. Se este planeta, um entre sete trilhões de mundos, é fomentado com tanto amor como se fosse o único (15:14.9), como isso muda a maneira como vejo a minha própria pequenez?"
+  ]
+ }
 }

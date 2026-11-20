@@ -30,7 +30,7 @@
     "Filhos Trinitarizados",
     "Abraçados pela Trindade e dedicados ao serviço da Trindade",
     "Mensageiros Poderosos, Aqueles Elevados Em Autoridade, Aqueles Sem Nome Nem Número e outros",
-    "20:0.5, 22:1.1, 15:10.12"
+    "20:0.5, 22:1.1 e 15:10.12"
    ]
   ]
  },
@@ -99,7 +99,7 @@
     "Filhos Magisteriais (Avonais)",
     "O Filho Eterno e o Espírito Infinito",
     "Julgadores das dispensações; missões magisteriais e missões de auto-outorga",
-    "20:1.11, 20:2.4~7, 20:3.1"
+    "20:1.11, 20:2.4~7 e 20:3.1"
    ],
    [
     "Filhos Instrutores da Trindade (Dainais)",
@@ -226,6 +226,1235 @@
    "1. Se o propósito da auto-outorga não é apaziguar o Pai, mas fazer do Filho um governante compassivo (20:5.2), o que significa a experiência de colocar-se no lugar do outro para aqueles que conduzem outras pessoas?",
    "2. Ainda não sou divino por natureza, mas tenho o status de filho pela fé (40:6.1). Como estou vivendo entre esse “já” e esse “ainda não”?",
    "3. Se Deus não dá preferência a nenhum destino ascendente e ama a cada filho de modo igual (40:10.13), como posso abandonar o hábito de comparar e classificar os caminhos espirituais dos outros?"
+  ]
+ },
+ "ch07:label": "Capítulo 7",
+ "ch07:title": "Angelologia",
+ "ch07:sub": "Os espíritos ministradores",
+ "ch07:0": "Os Filhos de Deus do capítulo 6 constroem, governam, julgam e ensinam o universo. Mas o trabalho do universo não se realiza apenas governando. Ao lado do governo deve sempre haver o cuidado. Em O Livro de Urântia, aqueles a quem esse cuidado é confiado são os anjos, os espíritos ministradores. Se os Filhos revelam principalmente a vontade do Pai e do Filho Eterno, os anjos levam pessoalmente a ministração da Terceira Fonte e Centro, o Espírito Infinito.",
+ "ch07:1": "A doutrina dos anjos costuma vir encoberta pela imaginação e pela lenda. Este capítulo pergunta o que O Livro de Urântia realmente diz sobre os anjos. De onde vêm os anjos e qual é a sua natureza? O que eles fazem pelo homem, e o que não fazem? E até onde se estende a relação entre os anjos e os homens?",
+ "ch07:2": "1. A família dos espíritos ministradores",
+ "ch07:3": "O Livro de Urântia não junta os anjos em uma única multidão. Os anjos se dividem em sete ordens, distribuídas pelos três níveis do universo: o universo central, os superuniversos e os universos locais. O que todos eles têm em comum é o serviço.",
+ "ch07:5": {
+  "cap": "Tabela 7.1  As sete ordens de espíritos ministradores e as suas esferas de serviço",
+  "rows": [
+   [
+    "Ordem",
+    "Esfera de serviço",
+    "Origem",
+    "Fonte"
+   ],
+   [
+    "Supernafins",
+    "O universo central (Paraíso-Havona)",
+    "Primários: o Espírito Infinito; secundários e terciários: os Espíritos Mestres e os Espíritos dos Circuitos",
+    "26:1.3 e 26:1.12"
+   ],
+   [
+    "Seconafins",
+    "Os superuniversos",
+    "Os Espíritos Refletivos",
+    "26:1.4 e 26:1.13"
+   ],
+   [
+    "Tertiafins",
+    "Os superuniversos (serviço de ligação entre os Filhos Criadores e os Anciães dos Dias)",
+    "O Espírito Infinito",
+    "26:1.5 e 26:1.13"
+   ],
+   [
+    "Omniafins",
+    "Os superuniversos",
+    "—",
+    "26:1.6 e 26:1.13"
+   ],
+   [
+    "Serafins",
+    "Os universos locais",
+    "O Espírito Materno do Universo",
+    "26:1.7, 26:1.14 e 38:1.1"
+   ],
+   [
+    "Querubins e sanobins",
+    "Os universos locais (assistentes dos serafins)",
+    "O Espírito Materno do Universo",
+    "26:1.8, 26:1.14 e 38:7.1"
+   ],
+   [
+    "Criaturas intermediárias",
+    "Os mundos habitados (agrupadas funcionalmente com os espíritos ministradores)",
+    "Nascem nos mundos habitados por mortais",
+    "26:1.9 e 26:1.14"
+   ]
+  ]
+ },
+ "ch07:6": "Os primeiros anjos que o homem encontra são os serafins e os querubins do universo local. Eles são filhos do Espírito Materno do Universo. E a época da sua criação é significativa. Os serafins não foram feitos como ornamentos do universo, mas como uma provisão para o homem.",
+ "ch07:8": "Quando se traça o plano da evolução das criaturas volitivas, os anjos que irão servi-las são criados juntamente com ele. Desde o princípio, a razão de ser dos anjos está ligada à ascensão do homem. Assim, a angelologia é ao mesmo tempo uma parte da cosmologia e uma parte da doutrina da salvação. Além disso, os serafins não diferem muito na forma de um universo para outro. São trabalhadores padronizados, nos quais se pode confiar e com os quais se pode contar em qualquer universo.",
+ "ch07:10": "2. A natureza dos anjos: companheiros um pouco adiante do homem",
+ "ch07:11": "Os anjos não têm corpos, mas isso não significa que não sejam reais. São indivíduos distintos e compreendem a vida humana por dentro.",
+ "ch07:13": "A distância entre os anjos e os homens é menor do que poderíamos pensar. O documento 38 diz que os anjos, quanto ao status pessoal, não estão tão afastados dos seres humanos, embora, “em certas atuações funcionais, os serafins ultrapassam de longe os mortais” (38:2.3).",
+ "ch07:15": "A afirmação de que os anjos estão “apenas um pouco adiante” do homem é importante. Os anjos não são seres divinos de uma dimensão inteiramente diferente da do homem, mas companheiros que caminham um pouco à frente na mesma estrada. Quando o homem deixa o corpo e chega aos mundos das mansões, torna-se muito semelhante aos anjos. Dessa proximidade decorre a atitude correta para com os anjos: são companheiros a serem amados, mas não objetos de adoração.",
+ "ch07:17": {
+  "cap": "Tabela 7.2  Anjos e homens: semelhanças e diferenças",
+  "rows": [
+   [
+    "Aspecto",
+    "Anjos (serafins)",
+    "Homens",
+    "Fonte"
+   ],
+   [
+    "Corpo",
+    "Não têm corpo material; invisíveis para o homem",
+    "Têm corpos materiais",
+    "38:2.1"
+   ],
+   [
+    "Percepção",
+    "Percebem o homem enquanto ainda na carne sem transformadores",
+    "Na primeira vida, em geral não têm consciência dos anjos",
+    "38:2.1 e 113:4.2"
+   ],
+   [
+    "Status pessoal",
+    "Apenas um pouco adiante do homem",
+    "Criados um pouco abaixo dos tipos mais simples de anjos",
+    "38:2.6 e 113:7.3"
+   ],
+   [
+    "Poderes",
+    "Ultrapassam de longe o homem em certas funções",
+    "—",
+    "38:2.3"
+   ],
+   [
+    "Relação",
+    "Companheiros a serem amados, mas não objetos de culto",
+    "Todos são exortados a adorar a Deus",
+    "38:2.5"
+   ]
+  ]
+ },
+ "ch07:18": "3. As sete ordens de serafins",
+ "ch07:19": "Os serafins do universo local, por sua vez, dividem-se em sete ordens. O Espírito Infinito procura produzir serafins uniformes, mas os Seus filhos surgem em grande variedade. As diferenças entre as ordens não são diferenças de mérito, mas de designação. O documento 39 explica que mesmo os serafins superiores recebem esse nome não por serem qualitativamente superiores, mas “porque estão encarregados de atividades as mais altas, em um universo local” (39:2.1).",
+ "ch07:21": {
+  "cap": "Tabela 7.3  As sete ordens de serafins do universo local",
+  "rows": [
+   [
+    "Ordem",
+    "Serviço principal",
+    "Fonte"
+   ],
+   [
+    "1. Serafins supremos",
+    "Os mais elevados dos anjos revelados do universo local; ligados ao Corpo Seráfico dos Completos",
+    "39:1.1"
+   ],
+   [
+    "2. Serafins superiores",
+    "Encarregados das atividades mais elevadas de um universo local",
+    "39:2.1"
+   ],
+   [
+    "3. Serafins supervisores",
+    "Dedicados ao serviço das constelações",
+    "39:3.1"
+   ],
+   [
+    "4. Serafins administradores",
+    "Os deveres administrativos dos sistemas locais",
+    "39:4.1"
+   ],
+   [
+    "5. Ajudantes planetários",
+    "Servem aos Adãos planetários dos mundos evolucionários",
+    "39:5.1"
+   ],
+   [
+    "6. Ministros de transição",
+    "Ajudam na transição do estado material para o espiritual; educação nos mundos das mansões",
+    "39:6.1"
+   ],
+   [
+    "7. Serafins do futuro",
+    "Mantidos na reserva, em preparação para a idade de luz e vida",
+    "39:7.1"
+   ]
+  ]
+ },
+ "ch07:22": "Ao lado dos serafins estão os querubins e os sanobins, que os assistem. Eles têm a mesma origem dos serafins e se assemelham a eles nos seus dons essenciais, mas são a mais baixa ordem de anjos e, justamente por isso, os parentes mais próximos do homem. O documento 38 descreve-os como “afetuosos de modo tocante e quase humano” (38:7.1). Também no mundo dos anjos o lugar humilde é o lugar próximo. Seguindo essas sete ordens de cima para baixo, vemos que o trabalho dos anjos se dispõe ao longo de um caminho que vai da sede-central do universo local, passando pelas constelações e pelos sistemas, até um único planeta, e desse planeta até os mundos das mansões. Os reveladores dizem que, quanto mais se avança por esse caminho, mais interessante se torna o trabalho dos anjos. A ministração dos anjos “torna-se de interesse crescente à medida que se avizinha dos mundos habitados, à medida que abrange os problemas reais enfrentados pelos homens e mulheres do tempo, os quais se preparam para o esforço de alcançar a meta da eternidade” (39:5.1). A hierarquia angélica é uma escada de serviço que desce em direção ao homem.",
+ "ch07:23": "4. Os guardiães do destino: anjos ao lado do homem",
+ "ch07:24": "A relação entre os anjos e os homens é mais estreita na ministração dos anjos guardiães. O documento 113 declara que esse ensinamento não é uma fantasia e explica em termos concretos como os anjos guardiães são designados para os seres humanos. A base da designação não é a raça nem a posição social, mas o crescimento intelectual e espiritual da pessoa, isto é, o círculo que ela alcançou. No início, um anjo cuida de muitas pessoas ao mesmo tempo.",
+ "ch07:26": "À medida que a pessoa avança para os círculos interiores, o cuidado torna-se mais pessoal. E, quando ela alcança o terceiro círculo, um par de serafins fica dedicado unicamente a essa pessoa.",
+ "ch07:28": {
+  "cap": "Tabela 7.4  A designação dos anjos guardiães segundo o crescimento nos círculos",
+  "rows": [
+   [
+    "Círculo alcançado",
+    "Designação dos anjos guardiães",
+    "Fonte"
+   ],
+   [
+    "Sétimo círculo (inicial)",
+    "Um anjo guardião com uma companhia de querubins para mil pessoas",
+    "113:1.7"
+   ],
+   [
+    "Sexto círculo",
+    "Um par seráfico com uma companhia de querubins para quinhentas",
+    "113:1.7"
+   ],
+   [
+    "Quinto círculo",
+    "Um par de serafins guardiães com um grupo de querubins para cerca de cem",
+    "113:1.7"
+   ],
+   [
+    "Quarto círculo",
+    "Um par de serafins, assistido por uma companhia de querubins, para dez",
+    "113:1.7"
+   ],
+   [
+    "Terceiro círculo e além",
+    "Um anjo pessoal (na verdade, dois) inteiramente devotado a uma pessoa",
+    "113:1.8"
+   ],
+   [
+    "Condições para ser chamado guardião do destino",
+    "Uma ou mais destas: a decisão suprema de tornar-se semelhante a Deus, a entrada no terceiro círculo ou a participação em um dos corpos de reserva do destino",
+    "113:2.1"
+   ]
+  ]
+ },
+ "ch07:29": "A tarefa da guarda não é imposta aos anjos. Eles se oferecem como voluntários para esse trabalho, e as designações são feitas ponderando tanto as necessidades do ser humano quanto a experiência do anjo.",
+ "ch07:31": "Tampouco essa relação é mera administração oficial. Os reveladores dizem que os anjos desenvolvem “um afeto duradouro para com os seus companheiros humanos” (113:2.5). O anjo guardião ama a pessoa que está aos seus cuidados. Há uma lógica nesse modo de designação: o cuidado angélico responde à decisão humana. Quanto mais a pessoa decide tornar-se semelhante a Deus e avança para os círculos interiores, mais o universo lhe responde com um cuidado pessoal. A ministração dos anjos não substitui o crescimento do homem; ela acompanha esse crescimento e o sustenta.",
+ "ch07:32": "5. O que os anjos fazem e o que não fazem",
+ "ch07:33": "Os anjos ajudam o homem, mas há limites claros para essa ajuda. Esses limites existem para salvaguardar a personalidade e o livre-arbítrio do homem.",
+ "ch07:35": "Os anjos tampouco agem segundo os humores ou os pedidos do homem. Eles seguem os mandados que recebem dos seus superiores.",
+ "ch07:37": "Como, então, os anjos trabalham? Se o Ajustador trabalha por dentro, o anjo trabalha por fora.",
+ "ch07:39": "As situações, as pessoas e as oportunidades que alguém encontra, o ambiente que exige decisões, são o lugar de trabalho do anjo. É por isso que a orientação angélica não promete uma vida cômoda. O documento 113 diz que aceitar o guiamento de um serafim “raramente significa conseguir uma vida fácil” (113:4.3). É o homem que escolhe o caminho; o anjo o ajuda a fazer dele o melhor uso.",
+ "ch07:42": {
+  "cap": "Tabela 7.5  O Ajustador residente e o serafim guardião",
+  "rows": [
+   [
+    "Aspecto",
+    "Ajustador do Pensamento",
+    "Serafim guardião",
+    "Fonte"
+   ],
+   [
+    "Presença de quem",
+    "A presença do Pai",
+    "O agente pessoal da ministração do Espírito Infinito",
+    "113:3.3 e 113:4.1"
+   ],
+   [
+    "Modo de atuação",
+    "De dentro, por meio da alma",
+    "De fora para dentro, por intermédio do meio ambiente social, ético e moral",
+    "113:4.1"
+   ],
+   [
+    "Responsabilidade",
+    "A essência da natureza eterna do homem",
+    "O mestre para a natureza que evolui no homem",
+    "113:4.2"
+   ],
+   [
+    "Ritmo de atividade",
+    "—",
+    "Mais ativo quando o Ajustador está menos ativo",
+    "113:4.5"
+   ],
+   [
+    "Depois da morte",
+    "O Ajustador ausente é a identidade do ser imortal",
+    "Fiel custódio dos valores de sobrevivência da alma adormecida",
+    "113:6.5"
+   ]
+  ]
+ },
+ "ch07:43": "Dizer que os anjos trabalham por fora não significa que o seu trabalho seja superficial. Os serafins guardiães entrelaçam em uma unidade as inumeráveis influências que alcançam uma pessoa. No nível espiritual, eles tornam pessoais muitas ministrações do universo que, de outro modo, seriam impessoais e pré-pessoais. O documento 113 descreve as funções dos serafins em três níveis, espiritual, intelectual e físico, e, entre eles, o trabalho nos níveis intelectual e físico é o seguinte.",
+ "ch07:45": "A atuação dos espíritos ajudantes da mente, os circuitos do Espírito Santo, o Espírito da Verdade e o trabalho dos controladores físicos não trazem, em si mesmos, o rosto de uma personalidade. O anjo entrelaça essas ministrações impessoais para ajustá-las à vida de uma pessoa. Quando o vasto cuidado do universo alcança um único ser humano, ele chega trazendo o rosto pessoal de um anjo. O Ajustador e o anjo parecem não se comunicar diretamente um com o outro, mas trabalham juntos em perfeita harmonia. A presença de Deus guia a pessoa por dentro, e a ministração do Espírito Infinito molda o seu ambiente por fora. Entre os dois, o homem faz as suas próprias escolhas e faz crescer a sua alma. O Ajustador é tratado em detalhe no capítulo 11, e a alma no capítulo 12.",
+ "ch07:46": "6. Uma companhia que continua além da morte",
+ "ch07:47": "A ministração dos anjos não termina com a morte. Quando uma pessoa morre, os serafins guardiães assumem a custódia dos valores de sobrevivência que a sua alma acumulou e os salvaguardam. A ressurreição nos mundos das mansões realiza-se por meio da cooperação do Ajustador e dos serafins. O documento 113 descreve a cena brevemente: “O Ajustador identificar-vos-á; o serafim guardião irá repersonalizar-vos e então vos reapresentar ao fiel Monitor dos vossos dias na Terra” (113:6.6).",
+ "ch07:48": "Ao despertar nos mundos das mansões, a pessoa vê esses companheiros com os próprios olhos pela primeira vez. E a companhia dos anjos não termina aí; ela continua por toda a longa jornada da ascensão. As etapas da administração do universo examinadas no capítulo 5 tornam-se o próprio caminho percorrido junto com os anjos.",
+ "ch07:50": {
+  "cap": "Tabela 7.6  A companhia dos guardiães seráficos na jornada da ascensão",
+  "rows": [
+   [
+    "Etapa",
+    "O que fazem os guardiães seráficos",
+    "Fonte"
+   ],
+   [
+    "Os mundos das mansões",
+    "Tornam-se associados seráficos permanentes; testemunham e certificam os decretos da união eterna com o Ajustador",
+    "113:7.4"
+   ],
+   [
+    "Jerusém e os mundos do sistema",
+    "Acompanham a pessoa que alcançou o estado moroncial maduro",
+    "113:7.4"
+   ],
+   [
+    "Edêntia e as suas setenta esferas de socialização",
+    "Seguem junto e conduzem a pessoa até os Melquisedeques",
+    "113:7.4"
+   ],
+   [
+    "Sálvington",
+    "Levam a pessoa a estar face a face com o Soberano de Nébadon",
+    "113:7.4"
+   ],
+   [
+    "Os setores menor e maior e Uversa",
+    "Permanecem com a pessoa até os mundos de recepção e a entregam aos seconafins para o vôo até Havona",
+    "113:7.4"
+   ]
+  ]
+ },
+ "ch07:51": "E essa companhia está ligada ao próprio destino dos anjos. Os anjos também ascendem. Os anjos não podem partir do lugar mais baixo de todos, como o homem, mas podem alcançar o Paraíso por meio do trabalho de conduzir os homens para o alto.",
+ "ch07:53": "Aqui o serviço e a ascensão tornam-se uma só coisa. O anjo avança em direção a Deus servindo ao homem, e o homem avança em direção a Deus recebendo o serviço do anjo. Os destinos das duas ordens cumprem-se um por meio do outro. Sobre os anjos que alcançaram o Paraíso, o documento 39 conclui:",
+ "ch07:55": "Conclusão: um universo unido pelo serviço",
+ "ch07:56": "A doutrina dos anjos pode ser resumida em uma única corrente. Os anjos são filhos do Espírito Infinito e do Espírito Materno do Universo, criados para servir às criaturas volitivas quando a evolução dessas criaturas é planejada. Não têm corpos, mas são personalidades distintas, companheiros um pouco adiante do homem, a serem amados, mas não adorados. As suas ordens formam uma escada de serviço desde a sede-central do universo local até um único planeta, e o cuidado dos anjos guardiães torna-se cada vez mais pessoal em resposta ao crescimento espiritual do homem. Eles não invadem a mente nem a vontade do homem, mas trabalham por meio do seu ambiente exterior; além da morte, permanecem ao seu lado na ressurreição; e, por meio desse serviço, eles próprios alcançam o Paraíso. O universo governado pelos Filhos é aquecido pelo serviço dos anjos. No próximo capítulo voltamos o olhar para examinar como o universo material, o palco em que todos esses seres trabalham, vem à existência, do espírito, passando pela energia, até a matéria.",
+ "ch07:57": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se os anjos não invadem o santuário da mente nem manipulam a vontade (113:5.1), o que devo esperar, e o que não devo esperar, quando busco a orientação de Deus?",
+   "2. Se os anjos trabalham por intermédio do meu meio ambiente social, ético e moral (113:4.1), que significado têm agora as situações da minha vida que exigem decisões?",
+   "3. Se os serafins avançam em direção a Deus guiando uma alma até os portais do Paraíso (113:7.7), como ajudar os outros está ligado ao meu próprio crescimento espiritual?"
+  ]
+ },
+ "ch08:label": "Capítulo 8",
+ "ch08:title": "O processo de materialização",
+ "ch08:sub": "Do espírito à matéria",
+ "ch08:0": "Os capítulos 5 a 7 examinaram as personalidades que governam e servem o universo. Este capítulo pergunta pelo palco em que essas personalidades trabalham, o próprio universo material. De onde veio a matéria que compõe as estrelas, os planetas e os nossos próprios corpos? A resposta de O Livro de Urântia é clara: também a matéria veio de Deus. Ela não é um princípio rival, contraposto ao espírito, mas energia que fluiu do Paraíso e tomou forma por meio de uma série de estágios.",
+ "ch08:1": "Essa doutrina é importante porque coloca a relação entre a matéria e o espírito sobre uma base correta. Se a matéria é vista como algo que nada tem a ver com o espírito, o universo se torna uma máquina que funciona sem Deus; se a matéria é vista como má ou vã, a vida do corpo e do mundo se torna um fardo a ser descartado. O Livro de Urântia rejeita ambos esses caminhos. Este capítulo examina, sucessivamente, a fonte da energia, os estágios pelos quais a energia se torna matéria, os seres que dirigem esse processo, a estrutura da matéria e o princípio de que a mente e o espírito dominam a matéria.",
+ "ch08:2": "1. Toda energia vem do Paraíso",
+ "ch08:3": "Ao tratar do universo material, o documento 42 distingue primeiro a sua base da sua essência. O universo é material no sentido de que repousa sobre a energia. Mas aquele que sustenta essa base material é o Pai Universal.",
+ "ch08:5": "A base é material, mas a essência é espírito. O documento 42 coloca as duas lado a lado em uma única frase: “A base do universo é material, mas a essência da vida é espírito” (42:1.1). E logo acrescenta que o Pai dos espíritos é também o ancestral dos universos. A fonte do espírito e a fonte da matéria não são duas, mas uma. Essa energia jorra sem cessar e, pelas mãos de muitas personalidades, essa corrente se torna matéria e vida.",
+ "ch08:7": "Tampouco a produção dessa energia é assunto das criaturas. Os reveladores dizem que há um limite que a ciência humana, por mais que avance, jamais poderá atravessar. Os cientistas “permanecerão, indefinidamente, impotentes ainda para criar sequer um átomo de matéria, ou gerar um raio de energia e, menos ainda, para outorgar à matéria aquilo que chamamos de vida” (42:1.4). O homem pode manejar e transformar a energia, mas nunca pode ser a sua fonte. E a energia que vem do Paraíso nunca desaparece.",
+ "ch08:9": "Por mais que as suas formas mudem sem fim, a sua realidade nunca se extingue e, no final, ela retorna ao lugar de onde veio.",
+ "ch08:11": "Aqui se forja o primeiro elo da doutrina da materialização. A energia procede de Deus e retorna a Deus. Até o movimento da matéria faz parte do grande circuito de todo o universo, uma corrente cheia de propósito que sai do Paraíso e retorna ao Paraíso. Assim como a estrutura do universo que vimos no capítulo 5 contém em si uma ascensão em direção ao centro, a energia do universo contém em si um retorno ao centro.",
+ "ch08:12": "2. Da potência do espaço ao poder universal",
+ "ch08:13": "A energia que vem do Paraíso não se torna matéria de imediato. O documento 42 classifica em sete níveis os estágios pelos quais passa a energia física. Os reveladores reconhecem primeiro que a linguagem humana é pobre demais para distinguir esses níveis: “Há uma tal pobreza de linguagem, que devemos atribuir significados múltiplos a esses termos” (0:6.2). Por isso eles dão também os nomes usados em Uversa.",
+ "ch08:14": {
+  "cap": "Tabela 8.1  Os sete níveis da força e da energia",
+  "rows": [
+   [
+    "Nível",
+    "Natureza",
+    "Nome em Uversa",
+    "Fonte"
+   ],
+   [
+    "1. Potência de espaço",
+    "A presença, no espaço livre, do Absoluto Inqualificável; uma pré-realidade, sensível apenas à atração pessoal do Pai Universal",
+    "absoluta",
+    "42:2.3, 42:2.5 e 42:2.6"
+   ],
+   [
+    "2. Força primordial",
+    "A primeira mudança básica na potência do espaço; algumas vezes denominada energia pura",
+    "segregata",
+    "42:2.7, 42:2.9"
+   ],
+   [
+    "3. Energias emergentes",
+    "Duas fases, a energia de potência (a) e a energia de gravidade (b); o ancestral ativo de toda a matéria do universo",
+    "—",
+    "42:2.10~13"
+   ],
+   [
+    "4. Poder universal",
+    "A energia de controle da gravidade, dirigida em canais de poder para servir aos propósitos dos Criadores",
+    "gravita",
+    "42:2.14, 42:2.15"
+   ],
+   [
+    "5. Energia de Havona",
+    "Uma fase preexistente de energia, característica do universo central",
+    "triata",
+    "42:2.16, 42:2.17"
+   ],
+   [
+    "6. Energia transcendental",
+    "Opera no nível superior do Paraíso e apenas em relação aos povos absonitos",
+    "tranosta",
+    "42:2.18"
+   ],
+   [
+    "7. Monota",
+    "A energia viva, não-espiritual, do Paraíso; o sistema de energia não-espiritual do Pai Universal",
+    "monota",
+    "42:2.19"
+   ]
+  ]
+ },
+ "ch08:15": "Dos sete níveis, aquele com o qual o homem lida diretamente nos universos do tempo e do espaço é o quarto, o poder universal. Só depois que a força-espaço foi transformada em energia de espaço, e em seguida na energia de controle da gravidade, a energia física está finalmente pronta para o uso.",
+ "ch08:17": "Como sugere a palavra “amadureceu”, a materialização é um processo de amadurecimento sem pressa. A primeira linha dessa tabela, a potência de espaço, ponto de partida de toda energia física, é um estado que ainda nem sequer pode ser chamado de realidade. E, no entanto, esse estado, o mais primordial de todos, é sensível à atração pessoal do Pai Universal.",
+ "ch08:19": "O fundo mesmo do universo material repousa não sobre uma lei impessoal, mas sobre a atração pessoal do Pai. Esse é o fundamento da doutrina da materialização. A última linha da tabela também é notável. A monota, a energia não-espiritual do Paraíso, forma par com a energia viva e espiritual do Filho Eterno. Os reveladores confessam que não conseguem diferençar a natureza das duas.",
+ "ch08:21": "Na sua fonte, as energias do espírito e da matéria são aparentemente as mesmas. Elas só divergem à medida que se afastam do Paraíso. Esse é o segundo elo da doutrina da materialização. A matéria não brota de uma raiz diferente da do espírito; ela se desdobra por um caminho diferente a partir da mesma fonte. Assim, o mundo material pode ser um véu que oculta a realidade espiritual, mas, visto corretamente, torna-se um espelho que reflete essa realidade.",
+ "ch08:22": "3. Os seres vivos que manejam a energia",
+ "ch08:23": "A energia não se torna matéria por si mesma. Em cada estágio há seres vivos que dirigem a sua transmutação. Em O Livro de Urântia, a materialização não é um processo natural cego, mas uma obra guiada por seres inteligentes.",
+ "ch08:25": "Os organizadores da força são seres singulares, nem criadores nem criaturas, que habitam no Paraíso e trabalham no espaço não organizado. Eles são “os originadores das nebulosas” (15:4.4).",
+ "ch08:27": "As nebulosas espirais trazidas à existência desse modo tornam-se as rodas matrizes dos sóis e dos seus sistemas. Quando a energia se torna sensível à gravidade, os diretores de potência assumem o trabalho. Antes de serem técnicos que manejam a energia, esses diretores são seres cuja própria presença move a energia.",
+ "ch08:29": {
+  "cap": "Tabela 8.2  Da energia à vida: os seres que atuam em cada estágio",
+  "rows": [
+   [
+    "Estágio",
+    "Seres responsáveis",
+    "O que fazem",
+    "Fonte"
+   ],
+   [
+    "Potência de espaço → força primordial",
+    "Mestres Organizadores Primários da Força",
+    "Criadores de nebulosas que manipulam as forças primordiais do espaço; instigadores dos ciclones de energia",
+    "29:5.5, 15:4.4"
+   ],
+   [
+    "Energia primária → energia de gravidade",
+    "Mestres Organizadores Associados Transcendentais da Força",
+    "Prosseguem a transmutação da energia do estágio primário ao secundário",
+    "29:5.5"
+   ],
+   [
+    "Energia de gravidade → matéria",
+    "Diretores do Poder no Universo (centros de potência e controladores físicos)",
+    "Transmutam a energia em matéria e estabelecem os circuitos de poder e os canais de energia",
+    "42:1.5, 15:4.2"
+   ],
+   [
+    "Matéria → reinos habitados",
+    "O Filho Criador",
+    "Materializa a matéria visível a partir da energia preexistente e estabelece os reinos habitados",
+    "32:2.1"
+   ],
+   [
+    "Matéria morta → vida material",
+    "Os Portadores da Vida",
+    "Iniciam na matéria morta os processos que chamamos de vida",
+    "42:1.5"
+   ],
+   [
+    "Entre a matéria e o espírito",
+    "Os Supervisores do Poder Moroncial",
+    "Realizam o mesmo trabalho nos reinos de transição entre os mundos material e espiritual",
+    "42:1.5"
+   ]
+  ]
+ },
+ "ch08:30": "Essa tabela segue a seqüência descrita em um único parágrafo do documento 42. Os organizadores da força iniciam as mudanças da força-espaço, os diretores de potência transmutam a energia em matéria e assim nascem os mundos materiais. Sobre essa matéria, os Portadores da Vida iniciam a vida. O Filho Criador que vimos no capítulo 6 também está no meio dessa seqüência. Ele não constrói um universo a partir do nada.",
+ "ch08:32": "A materialização é uma cooperação de muitas personalidades. Seres que provêm da linhagem da Terceira Fonte e Centro, o Espírito Infinito, dão forma à energia; o Filho constrói mundos a partir dela; e os ministros do Espírito Infinito cuidam, então, da vida e da mente nesses mundos. O universo material é uma casa construída em conjunto por muitos dos filhos de Deus.",
+ "ch08:33": "4. Do ultímaton ao átomo: a estrutura da matéria",
+ "ch08:34": "Quando a energia é organizada em matéria pelas mãos dos diretores de potência, a sua primeira unidade é o ultímaton, ainda desconhecido da ciência de Urântia. Os ultímatons combinam-se para formar elétrons, e os elétrons e prótons combinam-se para formar átomos. A relação entre o ultímaton e o elétron é surpreendentemente exata.",
+ "ch08:36": "A matéria repousa, portanto, sobre uma ordem numérica. Os reveladores dizem também que a matéria é idêntica em todos os universos, com exceção do universo central. As propriedades da matéria dependem da velocidade de rotação, do número e do tamanho dos membros que a compõem, e da sua distância ao núcleo. E a matéria encontrada nos sóis, nos planetas e nos corpos do espaço divide-se em dez classes, segundo o seu estado de organização.",
+ "ch08:38": {
+  "cap": "Tabela 8.3  As dez grandes divisões da matéria",
+  "rows": [
+   [
+    "Divisão",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "1. Matéria ultimatômica",
+    "As unidades físicas primordiais da existência material; as partículas de energia que compõem os elétrons",
+    "42:3.3"
+   ],
+   [
+    "2. Matéria subeletrônica",
+    "O estágio explosivo e repelente dos supergases solares",
+    "42:3.4"
+   ],
+   [
+    "3. Matéria eletrônica",
+    "O estágio elétrico da diferenciação material",
+    "42:3.5"
+   ],
+   [
+    "4. Matéria subatômica",
+    "Existe amplamente no interior dos sóis abrasantes",
+    "42:3.6"
+   ],
+   [
+    "5. Átomos fragmentados",
+    "Encontrados nos sóis em fase de resfriamento e em todo o espaço",
+    "42:3.7"
+   ],
+   [
+    "6. Matéria ionizada",
+    "Átomos individuais desprovidos dos seus elétrons externos",
+    "42:3.8"
+   ],
+   [
+    "7. Matéria atômica",
+    "O estágio químico da organização dos elementos; as unidades componentes da matéria molecular ou visível",
+    "42:3.9"
+   ],
+   [
+    "8. O estágio molecular da matéria",
+    "Um estado de materialização relativamente estável sob condições comuns (a matéria de Urântia)",
+    "42:3.10"
+   ],
+   [
+    "9. Matéria radioativa",
+    "Matéria em que os elementos mais pesados mostram uma tendência a desintegrar-se",
+    "42:3.11"
+   ],
+   [
+    "10. Matéria em colapso",
+    "A matéria relativamente estável encontrada no interior de sóis frios ou mortos",
+    "42:3.12"
+   ]
+  ]
+ },
+ "ch08:39": "Nessa classificação, a matéria que o homem toca com as mãos é apenas o oitavo estágio. O mundo que o homem sente como sólido é uma estação na longa jornada que a energia percorre. Os reveladores acrescentam que essa classificação segue os estágios de organização, e não a aparência das coisas aos olhos das criaturas. A matéria não é uma coisa fixa, mas um estado de energia organizada. O processo pelo qual os sóis surgem das nebulosas e os planetas surgem dos sóis é uma extensão dessa mesma organização. A origem do sistema solar ao qual Urântia pertence é narrada em detalhe no documento 57.",
+ "ch08:40": "5. O espírito é o arquiteto, a mente é o construtor",
+ "ch08:41": "O último elo do processo de materialização é uma questão de direção. Se a energia é organizada em matéria, de onde vem o modelo dessa organização? A seção final do documento 42 encontra a resposta na mente e no espírito. O homem comumente supõe que o corpo vem primeiro e que um espírito habita dentro dele. Os reveladores invertem essa ordem.",
+ "ch08:43": "O arquiteto projeta, o construtor constrói e o edifício se ergue. Essa figura mostra de relance a relação entre o espírito, a mente e a matéria. A matéria não produz os seus próprios modelos. Os reveladores chamam a contraparte física de “o reflexo, no tempo-espaço, da realidade do espírito, a repercussão física da ação criativa da mente-espírito” (42:12.14). E resumem essa relação em um único princípio.",
+ "ch08:45": {
+  "cap": "Tabela 8.4  Do espírito à matéria: a cadeia lógica da doutrina da materialização",
+  "rows": [
+   [
+    "Elo",
+    "O que diz o texto",
+    "Fonte"
+   ],
+   [
+    "Fonte",
+    "A energia pura é controlada pelo Pai Universal, e o rio da energia e da vida flui das Deidades",
+    "42:0.1, 42:1.5"
+   ],
+   [
+    "Retorno",
+    "Aquilo que tem a sua origem na Deidade do Paraíso só pode ter como destino o Paraíso",
+    "42:1.8"
+   ],
+   [
+    "A mesma raiz",
+    "A natureza do espírito do Paraíso e a da monota do Paraíso são aparentemente semelhantes",
+    "42:2.20"
+   ],
+   [
+    "Organização pessoal",
+    "Os organizadores da força e os diretores de potência transmutam a energia e a organizam em matéria",
+    "15:4.2, 42:2.22"
+   ],
+   [
+    "Ordem",
+    "A matéria fora do universo central é idêntica e segue uma ordem numérica exata",
+    "42:3.1, 42:6.5"
+   ],
+   [
+    "Ordem de domínio",
+    "O espírito é o arquiteto, a mente o construtor, o corpo a edificação; a mente domina a matéria, e o espírito exerce o supercontrole sobre a mente",
+    "42:12.12, 42:12.15"
+   ]
+  ]
+ },
+ "ch08:46": "Esse princípio aplica-se diretamente ao homem. Também o corpo humano é uma casa construída pela mente.",
+ "ch08:48": "O corpo é o tabernáculo em que habita a mente, e a forma moroncial depois da morte é igualmente individualizada pela mente da pessoa. Assim como os corpos diferem de pessoa para pessoa, também as formas moronciais diferem. Na passagem do corpo material ao corpo moroncial e, daí, à forma espiritual, é sempre o interior que dá forma ao exterior. Dentro desse corpo a mente cresce e, quando essa mente segue a condução do espírito, uma alma vem à existência. A mesma seção do documento 42 acrescenta que só a mente que se submete livremente à direção do espírito pode esperar sobreviver além da existência no tempo-espaço. A mente é tratada no capítulo 10, e o crescimento da alma no capítulo 12.",
+ "ch08:49": "Conclusão: a matéria é a sombra e o espelho do espírito",
+ "ch08:50": "A doutrina da materialização está unida em uma única corrente. Toda energia vem do Paraíso, e o Pai Universal a sustenta. Essa energia passa da potência de espaço, pela força primordial e pelas energias emergentes, até tornar-se poder universal, e é organizada em ultímatons, elétrons e átomos para tornar-se estrelas e planetas. Cada um desses estágios é uma obra dirigida por seres vivos, como os organizadores da força, os diretores de potência, os Filhos Criadores e os Portadores da Vida, e a sua direção vem da mente e do espírito. E a energia que saiu do Paraíso retorna, por fim, ao Paraíso. A matéria, portanto, não é inimiga do espírito. A matéria é a sombra que o espírito projeta sobre o tempo e o espaço e, vista corretamente, é um espelho que reflete a realidade do espírito. O corpo do homem e o chão em que ele pisa são fragmentos desse espelho. Com isso, a segunda parte examinou como Deus governa o universo, por meio da ordem da administração, dos Filhos, dos anjos e da matéria. A terceira parte examina o próprio homem, situado dentro desse universo: a sua personalidade, a sua mente, o seu Ajustador e a sua alma.",
+ "ch08:51": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se não é o corpo que tem um espírito, mas o espírito que tem um corpo (42:12.12), com que atitude devo considerar o meu corpo e a minha vida material?",
+   "2. Se a materialização é uma obra dirigida por seres inteligentes, como os organizadores da força e os diretores de potência (15:4.2), como isso muda o modo como olho para a natureza?",
+   "3. Como o princípio de que aquilo que veio do Paraíso retorna ao Paraíso (42:1.8) se relaciona com a convicção de que o trabalho e o esforço da minha vida não são em vão?"
+  ]
+ },
+ "ch09:label": "Capítulo 9",
+ "ch09:title": "A personalidade",
+ "ch09:sub": "A dádiva do Pai",
+ "ch09:0": "A primeira parte começou com Deus, e a segunda parte considerou como Deus governa o universo. A terceira parte volta-se para o ser humano individual que vive sob esse governo. O Livro de Urântia não considera o homem como um todo único e indiferenciado. A Introdução diz que a experiência humana em Urântia contém níveis distintos de realidade: corpo, mente, espírito, alma e personalidade (0:5.6–0:5.11). Quatro desses cinco realizam, cada um, uma obra própria, mas o que une os quatro em um só é o quinto.",
+ "ch09:2": "Por isso, a terceira parte começa com a personalidade. Este capítulo faz três perguntas. O que é a personalidade? Por que a personalidade vem somente do Pai Universal? E o que significa o fato da personalidade para a vida e o destino humanos? A mente será tratada no capítulo 10, o Ajustador do Pensamento no capítulo 11 e a alma no capítulo 12.",
+ "ch09:3": {
+  "cap": "Tabela 9.1  As cinco realidades que compõem o homem",
+  "rows": [
+   [
+    "Realidade",
+    "Definição no texto",
+    "De onde vem"
+   ],
+   [
+    "Corpo",
+    "O organismo material, o mecanismo eletroquímico vivo (0:5.7)",
+    "O mecanismo de vida preparado pela evolução material (111:1.4)"
+   ],
+   [
+    "Mente",
+    "O mecanismo de pensar, perceber e sentir (0:5.8)",
+    "A Terceira Fonte e Centro, a outorgadora da mente (9:5.2)"
+   ],
+   [
+    "Espírito",
+    "O Ajustador do Pensamento que reside na mente, de status pré-pessoal (0:5.9)",
+    "Diretamente do Pai Universal (107:1.2)"
+   ],
+   [
+    "Alma",
+    "Uma aquisição experiencial, uma realidade moroncial (0:5.10)",
+    "O Ajustador como pai, a mente como mãe (0:5.10)"
+   ],
+   [
+    "Personalidade",
+    "A única realidade invariável, a unificadora de todos os outros fatores (0:5.11)",
+    "A outorga exclusiva do Pai Universal (0:5.11)"
+   ]
+  ]
+ },
+ "ch09:4": "1. Definição: ou há personalidade, ou não há",
+ "ch09:5": "O Livro de Urântia não se propõe a definir a personalidade. O revelador reconhece, antes de tudo, que “A personalidade é um dos mistérios não-resolvidos dos universos” (5:6.2). Em vez disso, o texto deixa claro o que a personalidade não é e como ela é dada. A distinção mais importante está entre a mente e a personalidade.",
+ "ch09:7": "Três linhas de raciocínio emergem dessa passagem. Primeiro, a personalidade é algo acrescentado à mente. Por mais que a mente se desenvolva, ela nunca se torna personalidade por si mesma. Segundo, a personalidade não é uma questão de grau. Uma pessoa não acumula personalidade pouco a pouco, mas a recebe inteira desde o início. Terceiro, o caminho para cima, a partir de baixo, está fechado. A Introdução diz o mesmo: “A personalidade nunca é espontânea, é uma dádiva do Pai do Paraíso” (0:5.4). A evolução pode preparar um corpo e uma mente, mas não pode produzir a personalidade.",
+ "ch09:8": "Isso não significa que a personalidade seja algo abstrato, sem relação com o corpo. A personalidade é dada do alto, mas o lugar em que ela funciona é a vida material, aqui e agora. O documento 5 compara o momento em que a personalidade começa de fato a operar ao lançamento de um navio.",
+ "ch09:10": "A palavra-chave aqui é “liberadora”. O toque do Pai não carrega o veículo da vida material com nada a mais; ele liberta esse veículo da cadeia de causa e efeito, para que possa navegar por si mesmo. E o eu material assim lançado já é plenamente pessoal. Uma pessoa não se torna uma personalidade somente depois da morte; vivendo neste corpo e com esta mente, ela já escolhe, ama e assume responsabilidades como personalidade.",
+ "ch09:11": "2. O fundamento: por que somente o Pai outorga a personalidade",
+ "ch09:12": "Por que, então, a personalidade vem somente do Pai? O fundamento está na própria natureza do Pai. O Pai Universal não é uma força nem uma lei. O documento 12 fala Dele nestes termos: “Ele é uma personalidade primordial e de livre-arbítrio” (12:7.6). Uma vez que existe o original de toda personalidade, a personalidade da criatura só pode ser uma imagem derivada desse original.",
+ "ch09:14": "Estudar a personalidade humana apenas no homem é olhar somente para a sombra. O verdadeiro significado da personalidade deve ser lido Naquele que a dá. Por isso, o documento 5 chama a outorga da personalidade de função exclusiva do Pai e amarra a relação nos dois sentidos.",
+ "ch09:16": "A personalidade vem do Pai e se move em direção ao Pai. Quando o documento 112 descreve a personalidade como a qualidade “outorgada pelo Pai Universal, Ele próprio, ou pelo Agente Conjunto, atuando em nome do Pai” (112:0.3), o Agente Conjunto apenas atua em nome do Pai; a fonte da outorga continua sendo o Pai. A abertura do documento 5, seção 6, reúne toda essa relação em uma frase: “Deus, o Pai, é o outorgador e o conservador de todas as personalidades” (5:6.1). O Pai dá a personalidade, preserva-a e torna-se o seu destino quando essa personalidade escolhe a Sua vontade.",
+ "ch09:17": "Esse fundamento determina também o método para estudar a personalidade. Começar pela personalidade humana e dela inferir a personalidade de Deus tem os seus limites. O revelador nos lembra que a direção é, de fato, a inversa.",
+ "ch09:19": "A mesma seção acrescenta que, por isso, os melhores conceitos da personalidade divina tiveram de esperar a vida de auto-outorga de Michael (1:6.3). Porque a personalidade humana e a divina foram reveladas juntas na vida de Jesus, o homem obteve uma pista para refazer o caminho da sombra até a substância. A relação entre Jesus e a personalidade é retomada nos capítulos 18 e 19.",
+ "ch09:20": "3. A estrutura: autoconsciência e relativo livre-arbítrio",
+ "ch09:21": "Como a personalidade se mostra em um ser humano? O documento 16, seção 8, “A Personalidade em Urântia”, aponta duas marcas.",
+ "ch09:23": "A autoconsciência é mais do que conhecer a si mesmo. As frases seguintes da mesma seção ampliam o seu alcance.",
+ "ch09:25": "A capacidade de conhecer a si mesmo e a capacidade de conhecer o outro brotam da mesma raiz. O livre-arbítrio é qualificado pela palavra “relativo”. Uma pessoa vive dentro dos limites do corpo, da hereditariedade e do ambiente, mas a outorga da personalidade “confere relativa liberação da reação escravizada à causação anterior” (5:6.9), e é exatamente nessa abertura que a escolha acontece. O revelador enumera sete domínios em que essa liberdade atua.",
+ "ch09:26": {
+  "cap": "Tabela 9.2  Os sete domínios do relativo livre-arbítrio",
+  "rows": [
+   [
+    "Ordem",
+    "Domínio",
+    "A explicação do texto"
+   ],
+   [
+    "1",
+    "Decisão moral",
+    "A sabedoria mais elevada (16:8.8)"
+   ],
+   [
+    "2",
+    "Escolha espiritual",
+    "O discernimento da verdade (16:8.9)"
+   ],
+   [
+    "3",
+    "Amor altruísta",
+    "O serviço fraterno (16:8.10)"
+   ],
+   [
+    "4",
+    "Cooperação voluntária",
+    "A lealdade grupal (16:8.11)"
+   ],
+   [
+    "5",
+    "Discernimento cósmico",
+    "A apreensão dos significados no universo (16:8.12)"
+   ],
+   [
+    "6",
+    "Dedicação da personalidade",
+    "A devoção a fazer a vontade do Pai, com todo o coração (16:8.13)"
+   ],
+   [
+    "7",
+    "Adoração",
+    "A busca sincera dos valores divinos e o amor irrestrito ao divino Doador dos Valores (16:8.14)"
+   ]
+  ]
+ },
+ "ch09:27": "Os sete domínios começam com a moralidade e terminam com a adoração. A liberdade da personalidade não é a liberdade de escolher qualquer coisa; é a liberdade de avançar em direção a valores mais elevados. No seu ápice, a liberdade chega ao ponto de entregar o eu ao Pai.",
+ "ch09:28": "O próprio fato da autoconsciência e do livre-arbítrio é prova de que o homem não pode ser explicado apenas pela matéria. O documento 112 oferece esse ponto como resposta ao materialismo.",
+ "ch09:30": "A matéria não conhece a si mesma, nem pode colocar-se acima de si mesma e avaliar-se. O fato de uma pessoa poder olhar para trás, para a sua vida, pesar o certo e o errado e escolher o melhor mostra que algo dado de acima da matéria habita dentro dela. O documento 16 chama a plena função de um dom de personalidade como esse de “o início da compreensão do parentesco com a Deidade” (16:8.19).",
+ "ch09:31": "4. A singularidade e o circuito da personalidade",
+ "ch09:32": "Outro atributo da personalidade é a singularidade: “As personalidades podem ser semelhantes, mas nunca são iguais” (16:8.4). Essa não é uma diferença acidental, mas uma diferença nascida do amor do Pai.",
+ "ch09:34": "Ser único é ser insubstituível. Por isso, o documento 112 diz que as personalidades “são associáveis, mas não totalizáveis” (112:0.12). Contudo, essa singularidade não termina no isolamento. O documento 12 diz que o amor de Deus pelo indivíduo é a própria fonte da fraternidade: “Esse mesmo amor de Deus pelo indivíduo traz à existência a família divina de todos os indivíduos, a fraternidade universal dos filhos de livre-arbítrio do Pai do Paraíso” (12:7.10). A paternidade de Deus e a fraternidade dos homens repousam sobre a singularidade da personalidade.",
+ "ch09:35": "Se o Pai trata cada personalidade desse modo, como essas personalidades estão ligadas ao Pai? O Livro de Urântia responde descrevendo quatro circuitos de atração no universo e colocando entre eles o circuito da personalidade.",
+ "ch09:37": {
+  "cap": "Tabela 9.3  Os quatro circuitos do universo e o lugar da personalidade",
+  "rows": [
+   [
+    "Circuito",
+    "Centro",
+    "O que atrai",
+    "Fonte"
+   ],
+   [
+    "Gravidade material",
+    "A Ilha do Paraíso",
+    "Toda a matéria",
+    "5:6.11"
+   ],
+   [
+    "Gravidade da mente",
+    "O Agente Conjunto",
+    "Toda a mente, os verdadeiros valores intelectuais",
+    "5:6.11, 9:6.2"
+   ],
+   [
+    "Gravidade do espírito",
+    "O Filho Eterno",
+    "Todas as realidades do espírito",
+    "5:6.11, 9:6.2"
+   ],
+   [
+    "Circuito da personalidade",
+    "O Pai Universal",
+    "Todas as personalidades, transmitindo a sua adoração ao Pai",
+    "5:6.11, 5:6.10"
+   ]
+  ]
+ },
+ "ch09:38": "O circuito da personalidade não depende dos outros três. O Pai está pessoalmente cônscio de todas as personalidades e em contato pessoal com elas, e essa consciência de personalidade “existe independentemente da missão dos Ajustadores do Pensamento” (5:6.10). Um ser que não é residido por um Ajustador ainda está dentro desse circuito, se tiver personalidade. A personalidade e o Ajustador vêm ambos do Pai, mas são dádivas diferentes. O modo como os dois atuam juntos no homem é o tema dos capítulos 11 e 12.",
+ "ch09:39": {
+  "cap": "Tabela 9.4  A distinção entre a personalidade e o Ajustador do Pensamento",
+  "rows": [
+   [
+    "Item",
+    "Personalidade",
+    "Ajustador do Pensamento"
+   ],
+   [
+    "Origem",
+    "Outorgada pelo Pai Universal (5:6.4)",
+    "Procede diretamente do Pai Universal (107:1.2)"
+   ],
+   [
+    "Natureza",
+    "Diversificada, original e exclusiva (16:8.3)",
+    "Idêntico em natureza ao advir do Pai (16:8.3)"
+   ],
+   [
+    "É uma personalidade?",
+    "A própria personalidade",
+    "Não é uma personalidade, mas uma entidade real (107:7.1)"
+   ],
+   [
+    "Sequência",
+    "Independe da outorga do Ajustador e a antecede (16:8.3)",
+    "Designado depois da primeira decisão moral (108:2.1)"
+   ],
+   [
+    "Ligação com o Pai",
+    "O circuito da personalidade (5:6.11)",
+    "Residindo na mente (107:0.1)"
+   ]
+  ]
+ },
+ "ch09:40": "5. A personalidade como unificadora",
+ "ch09:41": "Quando a Introdução diz que a personalidade “unifica todos os outros fatores associados da individualidade” (0:5.11), ela aponta para a função da personalidade. O documento 9 diz o mesmo: “A personalidade é a unificadora desses componentes da individualidade experiencial” (9:4.6). Se o corpo, a mente e o espírito se movessem separadamente, um ser humano não poderia ser um único sujeito. O que une esses elementos em um único “quem” é a personalidade.",
+ "ch09:43": "Pensar, sentir e desejar podem apontar, cada um, para uma direção diferente. O que os reúne em uma ação numa única direção não é uma parte, mas a personalidade inteira. Aqui o documento 112 distingue entre o eu e a personalidade. A soma das partes constitui o eu, isto é, a individualidade, mas esse processo “não tem nada a ver com a personalidade, que é a unificadora de todos esses fatores relacionados às realidades cósmicas” (112:1.18). O eu é o que é reunido; a personalidade é o que reúne.",
+ "ch09:44": "6. Conseqüências: comunhão, escolha e sobrevivência",
+ "ch09:45": "Três conseqüências decorrem da doutrina de que a personalidade é a dádiva do Pai. A primeira é a comunhão. Porque Deus e o homem são ambos pessoas, é possível entre eles uma comunhão que vai além da mera interação.",
+ "ch09:47": "Essa comunhão não se alcança pela dissolução do homem em Deus. Porque a personalidade é única, o caminho da união com Deus deve ser também um caminho entre pessoa e pessoa.",
+ "ch09:49": "A segunda é a soberania da escolha. Depois de dar a personalidade, o Pai não força o destino eterno dessa personalidade. O documento 5 resolve isso com a palavra “decretou”.",
+ "ch09:51": "Essa soberania é um limite que o Pai estabeleceu para Si mesmo. Tendo dado a personalidade e provido o crescimento da alma, o Pai “permanece de lado” (5:6.8). Uma eternidade imposta não é o que o Pai deseja.",
+ "ch09:53": "A terceira é uma eternidade condicionada. Porque a personalidade vem do Pai, ela traz o potencial da eternidade, mas o homem deve decidir por si mesmo se tomará parte nessa eternidade.",
+ "ch09:55": "A escolha de uma pessoa, portanto, não termina como um assunto apenas dela. O documento 112 diz que da fidelidade da vontade mortal dependem o Ajustador, para ter personalidade eterna, o Pai Universal, para a realização de um novo filho ascendente, e o Ser Supremo, para a factualidade da evolução experiencial (112:5.5). A escolha de uma personalidade está entrelaçada com todo o plano de Deus.",
+ "ch09:56": {
+  "cap": "Tabela 9.5  A cadeia lógica da doutrina da personalidade",
+  "rows": [
+   [
+    "Elo",
+    "Conteúdo",
+    "Fonte"
+   ],
+   [
+    "Definição",
+    "Uma qualidade que não é mente nem espírito; ou há personalidade, ou não há",
+    "5:6.3, 0:5.11"
+   ],
+   [
+    "Fundamento",
+    "Somente o Pai, a personalidade primordial, outorga a personalidade",
+    "12:7.6, 5:6.4 e 1:6.1"
+   ],
+   [
+    "Estrutura",
+    "Autoconsciência, relativo livre-arbítrio, singularidade absoluta",
+    "16:8.5, 12:7.9"
+   ],
+   [
+    "Função",
+    "Unifica o corpo, a mente e o espírito em um único sujeito",
+    "0:5.11, 9:4.6 e 112:2.7"
+   ],
+   [
+    "Ligação",
+    "Toda personalidade está dentro do circuito da personalidade do Pai",
+    "5:6.10, 5:6.11"
+   ],
+   [
+    "Conseqüência",
+    "Comunhão com Deus, soberania da vontade, uma eternidade condicionada",
+    "1:7.1, 5:6.8 e 112:5.2"
+   ]
+  ]
+ },
+ "ch09:57": "Conclusão: o lugar de quem recebeu uma dádiva",
+ "ch09:58": "A doutrina da personalidade pode ser resumida em uma breve corrente. A personalidade não é mente nem espírito; não pode ser construída pela evolução; é dada somente pelo Pai Universal, a personalidade primordial. A personalidade assim recebida mostra-se na autoconsciência e no relativo livre-arbítrio; cada uma é insubstituivelmente única; e todas estão dentro do circuito da personalidade do Pai. Em conseqüência, o homem pode ter comunhão com Deus, escolhe o seu próprio destino e, por essa escolha, toma parte na eternidade. Contudo, o lugar em que a personalidade funciona é a mente. A escolha, a comunhão e a autoconsciência acontecem todas por meio da mente. O próximo capítulo examina de onde vem essa mente, que se situa entre a matéria e o espírito, e qual é a sua estrutura.",
+ "ch09:59": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se a personalidade não é “uma conquista progressiva” (5:6.3), o que é que realmente cresce quando dizemos que uma pessoa cresce e muda ao longo da vida?",
+   "2. Como o fato de que toda personalidade está dentro do circuito da personalidade do Pai (5:6.11) fundamenta o modo como trato as outras pessoas?",
+   "3. Se Deus fez da soberania da vontade mortal um decreto absoluto (5:6.8), até onde se estende a responsabilidade confiada à minha escolha?"
+  ]
+ },
+ "ch10:label": "Capítulo 10",
+ "ch10:title": "A mente",
+ "ch10:sub": "Entre a matéria e o espírito",
+ "ch10:0": "O capítulo anterior disse que a personalidade é uma dádiva vinda do alto. Contudo, a personalidade não funciona no vazio. Escolher, amar e adorar, tudo isso acontece no âmbito da mente. Em O Livro de Urântia, a mente é uma realidade situada entre a matéria e o espírito. Abaixo, ela toca as energias do corpo; acima, toca os valores do espírito. O documento 9 resume em três palavras a relação entre essas três realidades.",
+ "ch10:2": "Se a energia é coisa e o espírito é valor, a mente é o significado que liga os dois. Este capítulo faz quatro perguntas. O que é a mente? De onde vem a mente? Que níveis e que estrutura tem a mente? E que papel desempenha a mente no destino humano?",
+ "ch10:3": "1. Definição: superposta à energia",
+ "ch10:4": "A Introdução define a mente como “O mecanismo de pensar, perceber e sentir do organismo humano” (0:5.8). Mas esse mecanismo não brota por si mesmo da matéria do cérebro. O documento 9, seção 4, “A Mente Absoluta”, traça uma linha clara entre a mente e a energia.",
+ "ch10:6": "Esse é o primeiro princípio da doutrina da mente. A mente não é um produto da matéria, mas uma ministração acrescentada sobre a matéria. O cérebro é um recipiente que recebe a mente; a própria mente vem do alto. O documento 112 apresenta esse princípio como argumento contra o materialismo.",
+ "ch10:8": "Há aqui dois abismos. Um é o abismo entre a matéria e o pensamento; o outro é o abismo ainda maior entre a mente material e o amor espiritual. O primeiro abismo é transposto pela ministração da mente do Espírito Infinito; o segundo é transposto pela ministração do espírito e pela escolha humana. A mente situa-se exatamente entre esses dois abismos. O documento 42 aplica esse princípio à mente em todos os níveis.",
+ "ch10:10": "A mente é “a presença-atividade da ministração viva”. Isto é, algum ser está prestando um serviço vivo a um sistema de energia. Dos reflexos do animal mais inferior até a mais elevada adoração, onde quer que haja mente, há sempre a ministração de alguém. Quem é esse alguém torna-se a próxima pergunta.",
+ "ch10:11": "2. A fonte: o Espírito Infinito e os seus ministros",
+ "ch10:12": "Assim como o outorgador da personalidade é o Pai Universal, a outorgadora da mente é a Terceira Fonte e Centro, o Espírito Infinito. O documento 9 enfatiza esse ponto repetidas vezes.",
+ "ch10:14": "A última frase é importante. O Ajustador do Pensamento não reside em qualquer mente. A ministração da mente do Espírito Infinito deve primeiro preparar o caminho. A mente, então, é a realidade que prepara o terreno onde a personalidade e o Ajustador se encontram. A mente do Espírito Infinito não chega ao homem de uma só vez; ela desce por meio de ministros em vários níveis. Os Sete Espíritos Mestres, como a mente cósmica, distribuem a mente ao grande universo (9:4.3); no universo local, o Espírito Materno do Universo recebe essa mente; e os sete espíritos ajudantes da mente ministram às mentes dos homens e dos animais (9:5.3, 36:5.1).",
+ "ch10:15": {
+  "cap": "Tabela 10.1  O caminho pelo qual a mente chega ao homem",
+  "rows": [
+   [
+    "Estágio",
+    "Ministro",
+    "Texto"
+   ],
+   [
+    "Fonte",
+    "A Terceira Fonte e Centro (o Espírito Infinito): a outorgadora da mente",
+    "9:5.2"
+   ],
+   [
+    "Grande universo",
+    "Os Sete Espíritos Mestres: a fonte setúplice da mente cósmica",
+    "9:4.3, 16:6.1"
+   ],
+   [
+    "Universo local",
+    "O Espírito Materno do Universo (Espírito Criativo): a variante nebadônica da mente cósmica",
+    "9:4.3, 9:5.4"
+   ],
+   [
+    "Mente humana",
+    "Os sete espíritos ajudantes da mente: a ministração pessoal do Espírito Materno",
+    "36:5.1, 9:5.3"
+   ],
+   [
+    "Atração",
+    "Toda mente está dentro do circuito da gravidade da mente do Agente Conjunto",
+    "9:6.1, 9:6.2"
+   ]
+  ]
+ },
+ "ch10:16": "Nesse caminho, a mente e a personalidade chegam por linhas diferentes. A mente vem do Espírito Infinito por meio dos seus ministros; a personalidade vem diretamente do Pai. Por isso, a mente pode ser dada até mesmo a seres que não têm personalidade.",
+ "ch10:18": "Os animais têm mente e são conscientes, mas não têm personalidade. O homem recebeu a personalidade acima da mente. Aqui se confirma mais uma vez o princípio visto no capítulo anterior: o dom da mente por si só não constitui a personalidade. Por isso, o documento 9 chama a mente humana de um fio da mente cósmica: a mente do homem é “um circuito individualizado, uma porção impessoal daquela mente cósmica” (9:5.4). Será, então, divina a mente humana? Aqui o revelador traça imediatamente uma linha divisória.",
+ "ch10:20": "A fonte da mente é divina, mas a mente humana ainda não é divina. A mesma seção o diz claramente: “O Criador Conjunto é a fonte da mente, mas a mente não é o Criador Conjunto” (9:5.5). Logo na seção seguinte, o documento 9 chama isso de um compromisso entre a essência da perfeição do pensamento e a natureza humana imatura (9:5.6).",
+ "ch10:22": "A sua origem e o seu destino são divinos, mas o seu estado presente não o é. Essa distinção entre três tempos estabelece a atitude correta para com a mente. O homem não tem razão nem para adorar a sua mente nem para desprezá-la. O revelador lamenta que os homens frustrem as suas mentes pela insinceridade e pela injustiça e as distorçam pela ansiedade inútil, e diz que a contemplação do intelecto humano imaturo “deveria conduzir apenas a reações de humildade” (9:5.7). Mas essa humildade não é resignação. Porque o destino da mente é divino, a direção para a qual ela se volta continua sendo responsabilidade do próprio homem.",
+ "ch10:23": "3. A estrutura: os níveis da mente e os sete espíritos ajudantes da mente",
+ "ch10:24": "O documento 42, seção 10, classifica por nível as mentes não-criadoras. Essa classificação mostra onde a mente humana se situa na escada universal da mente.",
+ "ch10:25": {
+  "cap": "Tabela 10.2  Os níveis da mente",
+  "rows": [
+   [
+    "Nível",
+    "Ministro",
+    "Característica",
+    "Texto"
+   ],
+   [
+    "Espíritos pré-ajudantes da mente",
+    "Os Mestres Controladores Físicos",
+    "Mente não-experiencial, mecânica; não-ensinável",
+    "42:10.3"
+   ],
+   [
+    "Espíritos ajudantes da mente",
+    "Os sete espíritos ajudantes da mente do Espírito Materno",
+    "Mente que experiencia; cinco nos animais, sete no homem",
+    "42:10.4"
+   ],
+   [
+    "Mentes moronciais em evolução",
+    "O Espírito Materno e o Filho Criador",
+    "Consciência em expansão na carreira ascendente",
+    "42:10.5"
+   ],
+   [
+    "Mente cósmica",
+    "Os Sete Espíritos Mestres",
+    "Engloba todos os níveis da mente finita",
+    "42:10.6"
+   ]
+  ]
+ },
+ "ch10:26": "A ministração dos espíritos ajudantes da mente começa muito antes de o homem aparecer. O documento 36 diz que eles determinam a direção da evolução.",
+ "ch10:28": "A evolução tem um propósito porque a ministração da mente esteve presente na vida desde o início. A mente humana pertence ao segundo nível, a mente dos espíritos ajudantes. Os animais também recebem a ministração dos cinco primeiros espíritos ajudantes da mente, mas o homem recebe todos os sete. Os sete espíritos ajudantes da mente são enumerados na ordem da sua realização evolucionária.",
+ "ch10:29": {
+  "cap": "Tabela 10.3  Os sete espíritos ajudantes da mente",
+  "rows": [
+   [
+    "Ordem",
+    "Nome",
+    "A explicação do texto"
+   ],
+   [
+    "1",
+    "O espírito da intuição",
+    "A percepção rápida, os instintos físicos primitivos e reflexos inerentes, o dom autopreservador (36:5.6)"
+   ],
+   [
+    "2",
+    "O espírito da compreensão",
+    "O impulso da coordenação, a associação de idéias, o raciocínio rápido (36:5.7)"
+   ],
+   [
+    "3",
+    "O espírito da coragem",
+    "O dom da fidelidade, a base da aquisição do caráter (36:5.8)"
+   ],
+   [
+    "4",
+    "O espírito do conhecimento",
+    "A curiosidade, mãe da aventura e da descoberta, o espírito científico (36:5.9)"
+   ],
+   [
+    "5",
+    "O espírito do conselho",
+    "O impulso social, o dom da cooperação com a espécie (36:5.10)"
+   ],
+   [
+    "6",
+    "O espírito da adoração",
+    "O impulso religioso, o primeiro anseio diferencial (36:5.11)"
+   ],
+   [
+    "7",
+    "O espírito da sabedoria",
+    "A tendência inerente para o avanço ordenado e progressivo, coordenando os outros ajudantes (36:5.12)"
+   ]
+  ]
+ },
+ "ch10:30": "Entre eles, o sexto é o limiar que separa o homem dos animais. O revelador fala do espírito da adoração nestes termos.",
+ "ch10:32": "Não é o grau de inteligência que separa o homem do animal. O que os separa é o impulso de erguer a cabeça para algo mais elevado do que si próprio, que é a adoração. E, no momento em que esse limiar é transposto, a mente entra em outro domínio de ministração.",
+ "ch10:34": "Os espíritos ajudantes da mente não são, eles próprios, personalidades; crescem por meio da experiência, mas nunca se tornam pessoais (36:5.13). Eles preparam o terreno em que a ministração do espírito começa no homem. É também por isso que a residência do Ajustador do Pensamento requer a atuação de todos os sete espíritos ajudantes (108:2.2).",
+ "ch10:35": "4. Os três discernimentos da mente cósmica",
+ "ch10:36": "A mente humana não consiste apenas na ministração dos espíritos ajudantes da mente. Acima dela está a mente cósmica. O documento 16, seção 6, “A Mente Cósmica”, diz que a mente cósmica responde infalivelmente a três níveis de realidade (16:6.5). Essa resposta não é algo que o homem aprende e adquire; é um fundamento posto na mente desde o início.",
+ "ch10:37": {
+  "cap": "Tabela 10.4  Os três discernimentos da mente cósmica",
+  "rows": [
+   [
+    "Nível de realidade",
+    "A explicação do texto",
+    "Forma de discriminação",
+    "Atividade humana"
+   ],
+   [
+    "A causação",
+    "O domínio da realidade dos sentidos físicos, a uniformidade lógica (16:6.6)",
+    "Forma matemática",
+    "Ciência (16:6.10)"
+   ],
+   [
+    "O dever",
+    "O domínio da realidade da moral, o reconhecimento do bem e do mal (16:6.7)",
+    "Forma judicial",
+    "Filosofia (16:6.10)"
+   ],
+   [
+    "A adoração",
+    "O domínio da realidade da experiência religiosa, a fraternidade divina (16:6.8)",
+    "Forma de reverência e adoração",
+    "Religião (16:6.10)"
+   ]
+  ]
+ },
+ "ch10:38": "Graças a esses três discernimentos, o homem é capaz de dedicar-se à ciência, à filosofia e à religião. A razão pela qual ele pode confiar nos fatos, a razão pela qual pode ponderar o que é correto e a razão pela qual pode buscar a Deus estão todas no fundo da mente. O revelador explica de que esse fundamento protege o homem.",
+ "ch10:40": "O homem não começa a pensar a partir do nada. O fundamento para confiar na causação, perceber o dever e desejar adorar já está presente na mente. Sem ele, a ciência, a filosofia e a religião seriam todas edifícios erguidos sobre suposições sem base. Contudo, esse fundamento não cresce por si mesmo. O revelador lamenta que tão poucas pessoas em Urântia tenham prazer em cultivar essas qualidades (16:6.9). Por isso, ele liga esse fundamento inato à meta de todo empreendimento humano.",
+ "ch10:42": "A última frase liga-se ao capítulo anterior. A mente possui os três discernimentos, mas o que os une em um só é a personalidade. A mente é o material; a personalidade é a unificadora.",
+ "ch10:43": "5. A mente como arena da escolha",
+ "ch10:44": "O que faz, então, essa mente no destino humano? O documento 111, seção 1, “A Mente, Arena da Escolha”, define a mente como o lugar onde toda decisão é tomada.",
+ "ch10:46": "A evolução proveu o corpo, e o Pai deu o Ajustador. Mas a mente é diferente.",
+ "ch10:48": "Dizer que a vida e a morte dependem da mente não significa que a mente decide a vida e a morte, mas que as decisões tomadas dentro da mente as decidem. O mesmo documento compara os papéis desses três fatores a um navio.",
+ "ch10:50": "Nessa figura, a mente é a embarcação. A embarcação não é nem o capitão nem o piloto. Um navio pode seguir em qualquer direção. Assim, a mente evolucionária situa-se entre o mecânico e o espiritual, e as mentes intermediárias são aquelas “cuja estabilidade e tranqüilidade dependem da escolha da personalidade e da identificação com o espírito” (111:1.7). Na sua conversa com Ganid em Chipre, Jesus descreveu o que acontece quando a mente está dividida.",
+ "ch10:52": "A unidade da mente não se obtém evitando o conflito. A mesma seção acrescenta que essa paz “é conseguida antes pela firme afirmação do triunfo daquilo que é verdadeiro” (133:7.12). Conforme aquilo a que é dedicada, a mente ou se dispersa ou se torna una.",
+ "ch10:53": "6. Conseqüência: o destino da mente",
+ "ch10:54": "A mente é uma outorga da divindade, mas não é eterna em si mesma. Essa é a conseqüência de maior peso da doutrina da mente.",
+ "ch10:56": "O documento 111 diz o mesmo. A mente mortal é “um sistema de intelecto temporário, cedido por empréstimo aos seres humanos, para uso durante o período da vida material” (111:1.5). O que é emprestado deve ser devolvido. Mas o fruto das decisões tomadas com a mente emprestada permanece. Na medida em que a mente se identifica com o espírito, esse fruto é recolhido na alma recém-nascida, e a própria mente obtém o caminho para passar à mente moroncial. O nascimento dessa alma é tratado no capítulo 12. Como diz o documento 9, nos universos do tempo a mente “parece funcionar em uma zona intermediária entre a energia e o espírito” (9:6.7). O destino da mente não é permanecer nessa zona intermediária, mas atravessar, pela escolha, para o lado do espírito.",
+ "ch10:57": {
+  "cap": "Tabela 10.5  A cadeia lógica da doutrina da mente",
+  "rows": [
+   [
+    "Elo",
+    "Conteúdo",
+    "Fonte"
+   ],
+   [
+    "Definição",
+    "Uma ministração viva superposta à energia, a realidade do significado",
+    "9:4.2, 9:4.5 e 42:10.7"
+   ],
+   [
+    "Fundamento",
+    "O Espírito Infinito é o outorgador da mente e ministra por meio dos Espíritos Mestres e do Espírito Materno",
+    "9:5.2, 9:4.3 e 36:5.1"
+   ],
+   [
+    "Estrutura",
+    "Os sete espíritos ajudantes da mente e os três discernimentos da mente cósmica",
+    "36:5.6–36:5.12, 16:6.5–16:6.8"
+   ],
+   [
+    "Função",
+    "A arena da escolha em que a personalidade escolhe a Deus ou O abandona",
+    "111:1.3, 111:1.9"
+   ],
+   [
+    "Conseqüência",
+    "Não é imortal fora da identificação com o espírito; um sistema temporário cedido por empréstimo",
+    "36:5.17, 111:1.5"
+   ]
+  ]
+ },
+ "ch10:58": "Conclusão: o lugar do significado",
+ "ch10:59": "Para reunir mais uma vez a doutrina da mente: a energia é coisa, o espírito é valor, e a mente cria o significado entre os dois. A mente não brota da matéria, mas é superposta à energia, e a sua fonte é o Espírito Infinito. A mente humana recebe a ministração dos sete espíritos ajudantes da mente e os três discernimentos da mente cósmica, e assim se torna capaz de dedicar-se à ciência, à filosofia e à religião. Contudo, essa mente ainda não é divina e, a menos que se identifique com o espírito, também não é eterna. A mente é a arena em que a personalidade escolhe a Deus ou O abandona. Nessa mesma arena, o próprio Pai desceu para residir. O próximo capítulo examina Deus residindo na mente, o Ajustador do Pensamento.",
+ "ch10:60": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Como a distinção “A energia é coisa; a mente é significado; o espírito é valor” (9:4.5) ilumina o modo como passo o meu dia?",
+   "2. Se o espírito da adoração distingue o homem do animal (36:5.11), o que significa dizer que a adoração, e não a inteligência, é o limiar do ser humano?",
+   "3. Se a mente é a embarcação e a vontade é o capitão (111:1.9), que conflitos estão agora perturbando a embarcação da minha mente?"
+  ]
+ },
+ "ch11:label": "Capítulo 11",
+ "ch11:title": "O Ajustador do Pensamento",
+ "ch11:sub": "Deus residente",
+ "ch11:0": "Nos dois capítulos anteriores, o homem recebeu duas dádivas. A personalidade vem diretamente do Pai Universal, e a mente vem do Espírito Infinito por meio de uma série de ministros. Contudo, a realidade mais surpreendente no homem, tal como O Livro de Urântia o descreve, é uma terceira dádiva: Deus faz que uma parte de Si próprio resida diretamente na mente humana. O documento 107 começa com esse fato.",
+ "ch11:2": "Esse paradoxo, de que Aquele que está mais distante é também o mais próximo, é o ponto de partida da doutrina do Ajustador. Este capítulo faz cinco perguntas. O que é o Ajustador? Por que Deus vem ao homem? Quando e sob que condições ele vem? O que ele faz na mente? E onde termina a relação entre o homem e o Ajustador?",
+ "ch11:3": "1. Definição: um fragmento de Deus",
+ "ch11:4": "Quanto à origem dos Ajustadores, não há divergência de opinião no universo: eles procedem diretamente do Pai Universal. O revelador leva o significado ainda mais longe.",
+ "ch11:6": "O Ajustador não é uma criatura feita por Deus, mas um fragmento do próprio Deus. É por isso que o Ajustador é de uma ordem diferente da dos anjos ou de outros ministros espirituais. Ao mesmo tempo, o Ajustador não é uma personalidade. O documento 107 diz: “Os Ajustadores do Pensamento não são personalidades; eles são entidades reais” (107:7.1), e chama-os de realidades pré-pessoais. A personalidade pertence ao homem; o Ajustador pertence ao Deus que reside nesse homem. Essa diferença decorre, como vimos no capítulo 9, do fato de que a personalidade e o Ajustador são dádivas diferentes. O Ajustador não é um princípio frio, mas uma presença de amor. A introdução do documento 107 retrata os Ajustadores nestes termos.",
+ "ch11:8": "A palavra “enclausurada” mostra a humildade dessa residência. Um fragmento do Deus infinito consente em habitar no lugar estreito de uma mente mortal finita. E essa permanência é, ela própria, uma promessa da carreira eterna do homem. Os vários nomes pelos quais o Ajustador é chamado iluminam vários aspectos da sua natureza.",
+ "ch11:9": {
+  "cap": "Tabela 11.1  Os nomes do Ajustador",
+  "rows": [
+   [
+    "Nome",
+    "Aspecto que revela",
+    "Fonte"
+   ],
+   [
+    "Ajustador do Pensamento",
+    "Não um assistente do pensamento, mas um ajustador do pensamento",
+    "108:5.5"
+   ],
+   [
+    "Monitor Misterioso",
+    "O modo pelo qual o Pai reside na mente humana",
+    "107:0.1"
+   ],
+   [
+    "Dádiva divina",
+    "Evidência de que o Pai reservou para Si um meio de comunicação direta com toda criatura material",
+    "107:7.6"
+   ],
+   [
+    "Luz piloto",
+    "A luminosidade espiritual que acompanha a presença divina",
+    "107:4.5"
+   ],
+   [
+    "Bússola cósmica",
+    "Sempre conduz a alma na direção de Deus",
+    "107:0.6"
+   ],
+   [
+    "Ajudante celeste",
+    "A missão concerne mais à vida futura do que a esta vida",
+    "108:5.5"
+   ]
+  ]
+ },
+ "ch11:10": "2. O fundamento: por que Deus vem ao homem",
+ "ch11:11": "A razão pela qual Deus reside no homem está na meta que Deus estabeleceu para o homem. Essa é uma meta que o homem jamais poderia alcançar pelas próprias forças.",
+ "ch11:13": "A lógica é simples. Primeiro vem o mandamento de ser perfeito, e depois vem o Ajustador como o caminho para cumprir esse mandamento. Deus não se limita a estabelecer a meta e retirar-se; Ele próprio se torna um parceiro no caminho para essa meta. Por isso, a mesma seção chama a residência do Ajustador de “a garantia absoluta e irrestrita” (107:0.3) de que o homem pode encontrar o Pai. O próprio fato de haver um Deus residente é a garantia de que Deus pode ser encontrado.",
+ "ch11:15": "A paternidade de Deus não termina como uma confissão ou uma metáfora. Porque um fragmento do Pai realmente reside no homem, o homem é realmente um filho de Deus. A doutrina da paternidade de Deus torna-se fato na residência do Ajustador.",
+ "ch11:16": "3. A residência: quando e onde ele vem",
+ "ch11:17": "O Ajustador não vem em qualquer momento. O documento 108, seção 2, “Os Pré-requisitos para o Ajustador Residir”, diz que a mente deve primeiro ser preparada.",
+ "ch11:19": "Aqui a ministração dos sete espíritos ajudantes da mente, vista no capítulo 10, dá fruto. Quando o espírito da adoração e o espírito da sabedoria estão funcionando e a criança faz a sua primeira escolha moral, o Ajustador vem. Em Urântia isso ocorre, em média, pouco antes do sexto aniversário (108:2.1). E, desde a auto-outorga de Michael e a efusão do Espírito da Verdade, os Ajustadores residem nas mentes de todas as criaturas normais de vontade (108:6.2).",
+ "ch11:20": "Essa residência não espera até que o homem tenha sido purificado. A mesma seção diz que, por meio dos dons divinos, o Pai se aproxima o mais que pode do pecado e do mal, e acrescenta: “pois é literalmente verdadeiro que o Ajustador deva coexistir na mente mortal, mesmo em meio à falta de retidão humana” (108:6.2). O Ajustador sofre com os pensamentos egoístas e os medos animais do homem e, contudo, não se retira. O texto nos assegura: “O Ajustador permanece convosco, mesmo em todos os desastres e durante todas as enfermidades, desde que não destruam por inteiro a vossa vida mental” (110:1.5). Tão persistente é o modo como Deus permanece ao lado do homem.",
+ "ch11:21": {
+  "cap": "Tabela 11.2  As condições e o momento da residência do Ajustador",
+  "rows": [
+   [
+    "Item",
+    "Conteúdo",
+    "Fonte"
+   ],
+   [
+    "Preparação da mente",
+    "A atuação coordenada dos sete ajudantes, a conexão com o circuito do Espírito Santo",
+    "108:2.2"
+   ],
+   [
+    "Ocasião decisiva",
+    "A primeira decisão moral, de personalidade",
+    "108:2.1"
+   ],
+   [
+    "Momento médio em Urântia",
+    "O dia 2 134 da vida terrestre, pouco antes do sexto aniversário",
+    "108:2.1"
+   ],
+   [
+    "Residência universal",
+    "Todas as criaturas normais de vontade, depois do Filho auto-outorgado e da outorga do Espírito da Verdade",
+    "108:6.2"
+   ],
+   [
+    "Lugar de residência",
+    "Não o cérebro material, mas a mente mortal",
+    "110:1.1"
+   ]
+  ]
+ },
+ "ch11:22": "O lugar onde o Ajustador habita também deve ser esclarecido. O Ajustador não está localizado em nenhum órgão do corpo.",
+ "ch11:24": "O fato de o Ajustador residir na mente encaixa-se na conclusão do capítulo 10, de que a mente é a arena onde o Ajustador e o homem se encontram. O Ajustador atua sobre a mente, e o homem escolhe dentro da mente.",
+ "ch11:25": "4. A missão: o que ele faz na mente",
+ "ch11:26": "A chave para compreender a missão do Ajustador está na palavra “ajustar”. O Ajustador não pensa pelo homem.",
+ "ch11:28": "Pensar é a parte da personalidade. O Ajustador aperfeiçoa, modifica e coordena esse pensamento e, acima de tudo, constrói a sua contraparte espiritual. A mesma seção diz que os Ajustadores “se devotam ao trabalho de construir as contrapartes espirituais das vossas carreiras, de fazer as transcrições moronciais dos vossos verdadeiros eus em avanço” (110:2.3). Tudo o que há de valor espiritual nas decisões que o homem toma na Terra é reproduzido no Ajustador e preservado para a próxima vida. Mesmo as verdades que o homem ainda não pode receber não são descartadas.",
+ "ch11:30": "O Ajustador não perde aquilo que não pôde ser realizado nesta vida, mas o leva para a próxima. Para o Ajustador, a vida na Terra não é um fim, mas uma etapa. A missão do Ajustador, portanto, não é tornar esta vida cômoda.",
+ "ch11:32": "Dentro do homem, o Ajustador torna-se um estímulo de natureza diferente dos estímulos exteriores. Os sentidos do corpo alcançam a mente pelos nervos, mas o estímulo do Ajustador vem de dentro e do alto.",
+ "ch11:34": "O fato de a vida não ser fácil talvez não seja prova de que o Ajustador está ausente; pode ser sinal de que o Ajustador está em ação. Pois, sem decisões, não há crescimento, e, sem crescimento, a alma não cresce. Contudo, nem mesmo o Ajustador pode tomar as decisões pelo homem. Os Ajustadores gostariam de transformar o medo em amor e confiança, “mas eles não podem, mecânica e arbitrariamente, fazer tais coisas; isso é tarefa vossa” (108:5.8).",
+ "ch11:35": {
+  "cap": "Tabela 11.3  O que o Ajustador faz e o que não faz",
+  "rows": [
+   [
+    "O que o Ajustador faz",
+    "O que o Ajustador não faz",
+    "Fonte"
+   ],
+   [
+    "Espiritualiza e eterniza o pensamento",
+    "Controla o pensamento enquanto tal",
+    "110:2.3"
+   ],
+   [
+    "Constrói as transcrições moronciais da vida",
+    "Assume a prerrogativa de pensar da personalidade",
+    "110:2.3"
+   ],
+   [
+    "Torna a vida razoavelmente difícil para estimular decisões",
+    "Torna fácil a carreira mortal",
+    "108:5.5"
+   ],
+   [
+    "Manipula a mente do homem",
+    "Domina-a contra a vontade dele",
+    "111:1.8"
+   ],
+   [
+    "Gostaria de transformar o medo em amor e confiança",
+    "Transforma-o mecânica e arbitrariamente",
+    "108:5.8"
+   ]
+  ]
+ },
+ "ch11:36": "5. A cooperação: a vontade humana e o Ajustador",
+ "ch11:37": "Se o Ajustador é um fragmento de Deus, por que a vontade do Ajustador se curva à vontade do homem? A resposta de O Livro de Urântia está na soberania da vontade que o Pai decretou (5:6.8). O Ajustador não ultrapassa essa soberania.",
+ "ch11:39": "Mas, se o Ajustador também tem volição, por que ele se subordina à vontade do homem? O documento 107 explica isso pela diferença dos níveis em que a vontade atua.",
+ "ch11:41": "A personalidade é a dádiva do Pai, e o Ajustador é uma realidade pré-pessoal. Por isso, até mesmo um fragmento de Deus respeita a escolha da personalidade. Quando a mente humana se conforma plenamente à mente do Ajustador e a vontade executa as decisões dessa mente combinada, só então a vontade pré-pessoal do Ajustador alcança expressão de personalidade por meio da decisão do homem (110:2.5). A vontade de Deus aparece na vida humana somente por meio da vontade do homem. A relação com o Ajustador é, portanto, de cooperação. Essa cooperação não é necessariamente um processo consciente. O revelador diz que os motivos e as decisões do homem, as suas determinações cheias de fé e os seus desejos supremos constituem uma cooperação real (110:3.6). E ele apresenta quatro modos de aumentar conscientemente essa cooperação.",
+ "ch11:42": {
+  "cap": "Tabela 11.4  Quatro modos de aumentar a harmonia com o Ajustador",
+  "rows": [
+   [
+    "Ordem",
+    "Modo",
+    "A explicação do texto"
+   ],
+   [
+    "1",
+    "Escolher seguir o guiamento divino",
+    "Basear a vida na mais elevada consciência da verdade, da beleza e da bondade (110:3.7)"
+   ],
+   [
+    "2",
+    "Amar a Deus, desejando ser como Ele",
+    "Reconhecer a paternidade divina e adorar amorosamente o Pai celestial (110:3.8)"
+   ],
+   [
+    "3",
+    "Amar aos homens, desejando servir a eles",
+    "Reconhecer a irmandade entre os homens e cultivar um afeto sábio (110:3.9)"
+   ],
+   [
+    "4",
+    "Aceitar, com alegria, a cidadania cósmica",
+    "Reconhecer as obrigações para com o Ser Supremo; o nascimento da moralidade cósmica (110:3.10)"
+   ]
+  ]
+ },
+ "ch11:43": "Nessa cooperação, não é o Ajustador que falha: “Os Ajustadores nunca fracassam” (110:3.3). Os anjos e até mesmo os Filhos do universo local podem às vezes sair do caminho divino, “mas os Ajustadores nunca falham” (108:5.3). Só se fala de êxito ou de fracasso do ponto de vista da sobrevivência humana. Qual é, então, o cerne dessa cooperação?",
+ "ch11:45": "O progresso da cooperação mostra-se na conquista dos sete círculos psíquicos. O ingresso no sétimo círculo marca o começo da verdadeira função da personalidade humana, e completar o primeiro círculo denota uma relativa maturidade do ser mortal (110:6.1). À medida que o homem atravessa os círculos, um após o outro, a sintonia com o Ajustador se aprofunda, a alma cresce e a personalidade torna-se mais real (110:6.8–110:6.10). À medida que os círculos são atravessados, também a voz do Ajustador se aproxima. Essa voz está sempre dentro do homem, mas a maioria das pessoas “raramente a escutará durante a vida inteira” (110:7.9). Não escutá-lo não significa que ele não esteja ali. A maior parte do trabalho do Ajustador é feita silenciosamente, abaixo do limiar da consciência.",
+ "ch11:46": "6. Conseqüência: a fusão e a revelação sem fim",
+ "ch11:47": "O fim da cooperação é a fusão. Mas a realização dos círculos não é o mesmo que a fusão. A fusão depende “de uma sintonização final e completa da vontade mortal com a vontade de Deus, tal como esta se manifesta no Ajustador do Pensamento residente” (110:7.1). Quando essa sintonia é alcançada, os dois já não são dois.",
+ "ch11:49": "Observe-se aqui que o parceiro na fusão é “a alma moroncial imortal”. O Ajustador não se funde com a mente material do homem; ele se funde com a alma que nutriu juntamente com o homem. A doutrina do Ajustador conduz, assim, à doutrina da alma. E a fusão não é um fim, mas o começo de uma descoberta sem fim.",
+ "ch11:51": {
+  "cap": "Tabela 11.5  A cadeia lógica da doutrina do Ajustador",
+  "rows": [
+   [
+    "Elo",
+    "Conteúdo",
+    "Fonte"
+   ],
+   [
+    "Definição",
+    "Um fragmento incriado de Deus, uma entidade real que não é uma personalidade",
+    "107:1.2, 107:7.1"
+   ],
+   [
+    "Fundamento",
+    "Deus desceu como parceiro para cumprir o mandamento de ser perfeito",
+    "107:0.3"
+   ],
+   [
+    "Condições",
+    "Reside na mente depois da preparação pelos ajudantes e da primeira decisão moral",
+    "108:2.1, 108:2.2 e 110:1.1"
+   ],
+   [
+    "Missão",
+    "Espiritualiza e eterniza o pensamento e constrói as transcrições moronciais",
+    "110:2.3, 108:5.5"
+   ],
+   [
+    "Cooperação",
+    "Nunca espiritualiza contra a vontade; o desejo de ser semelhante a Deus",
+    "110:2.2, 110:3.2"
+   ],
+   [
+    "Conseqüência",
+    "A fusão com a alma, uma revelação de Deus que nunca termina",
+    "110:7.4, 107:4.7"
+   ]
+  ]
+ },
+ "ch11:52": "Conclusão: o Deus que está mais próximo",
+ "ch11:53": "A doutrina do Ajustador une a transcendência e a imanência de Deus em uma única realidade. O Pai, no centro do Paraíso, envia um fragmento de Si próprio à mente humana. Esse fragmento não é criado; é o próprio Deus, e vem como parceiro para o cumprimento do mandamento de ser perfeito. O Ajustador reside na mente preparada pelos espíritos ajudantes da mente no momento da primeira decisão moral; ele espiritualiza o pensamento em vez de substituí-lo e estimula as decisões em vez de tornar a vida fácil. Porque ele nunca age contra a vontade do homem, tudo se realiza por meio da cooperação e, quando essa cooperação se completa, o homem e o Ajustador tornam-se um. Contudo, o parceiro nessa fusão é a alma que o homem e o Ajustador geram juntos. O próximo capítulo examina como essa alma nasce, como cresce e para onde vai.",
+ "ch11:54": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se o Ajustador é a realidade que “torna real a verdade de que Deus é o Pai do homem” (107:0.6), que peso tem a minha oração quando chamo Deus de Pai?",
+   "2. Se o Ajustador torna a vida razoavelmente difícil a fim de estimular decisões (108:5.5), quais das dificuldades da minha vida neste momento estão pedindo uma decisão?",
+   "3. Dos quatro modos de aumentar a harmonia com o Ajustador (110:3.7–110:3.10), qual estou negligenciando mais no presente?"
   ]
  }
 }

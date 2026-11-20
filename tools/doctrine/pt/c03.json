@@ -94,12 +94,12 @@
    [
     "Mente material",
     "Mãe da alma; o tear que sustenta os tecidos moronciais; parcialmente consciente da alma",
-    "0:5.10, 111:2.2, 111:3.4"
+    "0:5.10, 111:2.2 e 111:3.4"
    ],
    [
     "Ajustador do Pensamento",
     "Pai da alma; tece os modelos espirituais; inteiramente consciente da alma",
-    "0:5.10, 111:2.2, 111:3.4"
+    "0:5.10, 111:2.2 e 111:3.4"
    ],
    [
     "Personalidade",
@@ -164,7 +164,7 @@
    [
     "Definição",
     "Uma realidade moroncial, nem material nem espiritual, nascida da relação entre a mente e o espírito",
-    "0:5.10, 111:2.3, 111:2.7"
+    "0:5.10, 111:2.3 e 111:2.7"
    ],
    [
     "Fundamento",
@@ -179,7 +179,7 @@
    [
     "Crescimento",
     "Cresce pelos valores da verdade, da beleza e da bondade; um processo de educação",
-    "111:3.5, 111:3.6, 111:3.7"
+    "111:3.5, 111:3.6 e 111:3.7"
    ],
    [
     "Condição",
@@ -201,6 +201,872 @@
    "1. Se a alma se funda não na autoconsciência, mas na autoconsciência moral (133:6.5), quais das decisões que tomei hoje ajudaram a minha alma a crescer?",
    "2. Como a afirmação “A mente conhece a quantidade, a realidade e os significados. Contudo, a qualidade — os valores — é sentida” (111:3.6) mostra a diferença entre conhecer e crescer?",
    "3. Se a carreira mortal “não é tanto uma provação, é mais uma educação” (111:3.5), como devo encarar os fracassos que estou vivendo agora?"
+  ]
+ },
+ "ch13:label": "Capítulo 13",
+ "ch13:title": "Os primeiros seres humanos e a sua família",
+ "ch13:0": "A quarta parte lê como doutrina a história humana de um único planeta, Urântia. Em O Livro de Urântia, a história da humanidade não é uma crônica de acontecimentos fortuitos. É a história de um plano que implantou e nutriu a vida, dos reveses que abalaram esse plano e de uma recuperação que prosseguiu mesmo em meio a esses reveses. Este capítulo trata do primeiro elo dessa cadeia: quando e como o homem se tornou homem? Qual é o limiar entre o animal e o humano, e o que deixaram para a raça humana os dois primeiros seres a cruzá-lo, Andon e Fonta?",
+ "ch13:1": "1. A vontade precoce de um planeta de experimento de vida",
+ "ch13:2": "O Livro de Urântia situa o aparecimento do homem dentro do plano dos Portadores da Vida. Os Portadores da Vida são os seres que implantam a vida num planeta e velam pela sua evolução, e Urântia foi designada para eles como um mundo de vida experimental, um lugar para testar modificações dos projetos de vida padrão (65:4.1). Experimento, aqui, não significa que as coisas foram deixadas seguir o seu próprio curso. O revelador limita cuidadosamente o sentido da palavra.",
+ "ch13:4": "Experimentar é buscar variações melhores com base em projetos de vida já estabelecidos. Em Urântia, os Portadores da Vida aprimoraram pelo menos vinte e oito modificações da vida, e estas serão usadas em todo o Nébadon (65:4.1). O preço desse trabalho foi o aparecimento de formas transitórias de vida que parecem inúteis (65:4.10). E o objetivo maior a que visaram nesse experimento foi o aparecimento precoce da vontade humana.",
+ "ch13:6": "Esta única passagem é a chave de todo o capítulo. Em Urântia, os povos andônicos apareceram antes das seis raças coloridas, e essas seis raças nasceram mais tarde, todas de uma vez, de uma única família (65:4.7). O fato de que aqui a história humana começou numa ordem diferente da dos outros mundos torna-se o ponto de partida de todas as peculiaridades da história de Urântia, desde a chegada tardia do Príncipe Planetário (65:4.8) até a dispersão das raças e a missão de Adão. Até que viesse o Príncipe Planetário, essa humanidade primitiva foi supervisionada por doze observadores Melquisedeques, que chegaram quando Andon e Fonta tomaram as decisões que os tornaram capazes de receber a residência dos Ajustadores (65:4.9). Desde o princípio, os temas da vontade e da decisão estão no centro da história humana.",
+ "ch13:7": {
+  "cap": "Tabela 13.1  Traços distintivos do experimento de vida de Urântia",
+  "rows": [
+   [
+    "Item",
+    "Mundo evolucionário comum",
+    "Urântia",
+    "Fonte"
+   ],
+   [
+    "Aparecimento da vontade",
+    "Depois que as raças coloridas já existem há muito tempo, geralmente entre os homens vermelhos",
+    "Na raça andônica, anterior às raças coloridas",
+    "65:4.11"
+   ],
+   [
+    "Aparecimento das raças coloridas",
+    "Uma de cada vez, por mutações independentes da linhagem animal",
+    "Seis raças de uma vez, de uma família sangique",
+    "65:4.7, 64:6.1"
+   ],
+   [
+    "Chegada do Príncipe Planetário",
+    "Por volta da época em que a vontade humana aparece pela primeira vez",
+    "Quase quinhentos mil anos mais tarde, junto com as raças sangiques",
+    "65:4.8"
+   ],
+   [
+    "Supervisão antes do Príncipe",
+    "Exercida pelo Príncipe",
+    "Exercida por doze observadores Melquisedeques",
+    "65:4.9"
+   ]
+  ]
+ },
+ "ch13:8": "2. Os dois primeiros seres humanos",
+ "ch13:9": "Os ancestrais imediatos do homem vieram de um tipo lemuriano de mamífero placentário, há cerca de um milhão de anos, por meio de três mutações sucessivas e súbitas (62:0.1). Essa linhagem, que vai dos mamíferos precursores aos mamíferos intermediários e dos mamíferos intermediários aos primatas, cruzou o limiar num par de gêmeos nascidos de um casal de primatas. O revelador chega a dar a data: contando a partir de 1934 d.C., os dois primeiros seres humanos nasceram exatamente 993 419 anos antes (62:5.1). Tinham polegares plenamente humanos e pés como os do homem moderno, chegavam à maturidade aos doze anos e tinham uma expectativa potencial de vida de cerca de setenta e cinco anos (62:5.2–5.3).",
+ "ch13:10": {
+  "cap": "Tabela 13.2  A linhagem evolucionária que conduz ao homem",
+  "rows": [
+   [
+    "Estágio",
+    "Características",
+    "Fonte"
+   ],
+   [
+    "Mamíferos precursores",
+    "Descendentes do tipo norte-americano de lêmures",
+    "62:4.7"
+   ],
+   [
+    "Mamíferos intermediários",
+    "Surgiram dos mamíferos precursores; deram à luz gêmeos superiores",
+    "62:4.1, 62:4.7"
+   ],
+   [
+    "Primatas",
+    "Mãos e pés de tipo humano, postura ereta, mas ainda sem verdadeira mente humana",
+    "62:4.4"
+   ],
+   [
+    "Os primeiros humanos (os gêmeos)",
+    "Verdadeiros seres humanos; sentimentos de adoração; decisões da vontade",
+    "62:4.6, 62:5.4"
+   ]
+  ]
+ },
+ "ch13:11": "Ainda mais decisiva do que o corpo foi a diferença que apareceu nas emoções. Os gêmeos manifestaram emoções novas, como a admiração e a vaidade, e possuíam também alguma medida de simpatia e de vergonha (62:5.4–5.5). Entre elas, o revelador destaca a seguinte como o avanço mais notável.",
+ "ch13:13": "É profundamente significativo que o primeiro sinal da humanidade do homem tenha sido o sentimento de adoração, antes das ferramentas ou da linguagem. Em O Livro de Urântia, o homem entra em cena como um ser capaz de voltar-se para Deus desde o princípio. Naturalmente, esse sentimento ainda estava misturado com ignorância e medo. O mesmo parágrafo acrescenta que o medo, unido à ignorância dos fenômenos naturais, estava prestes a dar origem à religião primitiva (62:5.4). O fato de que o sentimento de adoração e o sentimento de medo partiram juntos dá origem, como veremos, aos dois ramos da religião primitiva. A história dos pais dos gêmeos também merece menção. A mãe deu a vida tentando salvar os gêmeos de um ataque de gibões, e o pai, depois que os filhos partiram, vagou de um lado para outro em sua dor até morrer (62:5.10–5.11). A raça humana nasceu sobre o sacrifício do amor materno e do amor paterno animais.",
+ "ch13:14": "3. O nascimento da mente: os sete espíritos ajudantes da mente",
+ "ch13:15": "O que, então, transformou a mente animal em mente humana? O Livro de Urântia explica o processo como o funcionamento sucessivo dos sete espíritos ajudantes da mente. Os espíritos da intuição, da compreensão, da coragem, do conhecimento e do conselho haviam funcionado um após o outro na vida animal em evolução (62:6.3), e, até os primatas, a atividade desses cinco espíritos foi se tornando cada vez maior. Mas os dois mais elevados ainda não haviam funcionado (62:6.4). Quando os gêmeos tinham cerca de dez anos de idade, o espírito da adoração fez contato primeiro com a mente da menina e depois com a do menino.",
+ "ch13:17": {
+  "cap": "Tabela 13.3  O funcionamento sucessivo dos espíritos ajudantes da mente e a completude da mente humana",
+  "rows": [
+   [
+    "Espírito ajudante",
+    "Estágio do primeiro funcionamento",
+    "Capacidade que apareceu",
+    "Fonte"
+   ],
+   [
+    "Intuição, compreensão",
+    "Vida animal primordial; tipos mais elevados",
+    "Ação reflexa; associação espontânea de idéias",
+    "62:6.3"
+   ],
+   [
+    "Coragem, conhecimento",
+    "Animais em evolução; mamíferos",
+    "Autoconsciência de proteção; conhecimento",
+    "62:6.3"
+   ],
+   [
+    "Conselho",
+    "Mamíferos mais elevados",
+    "Instinto de grupo; desenvolvimento social primitivo",
+    "62:6.3"
+   ],
+   [
+    "Adoração",
+    "Os gêmeos, por volta dos dez anos de idade",
+    "Contato mental dos sentimentos de adoração",
+    "62:6.5"
+   ],
+   [
+    "Sabedoria",
+    "A época da decisão de ir para o norte",
+    "Completude da mente humana",
+    "62:6.5"
+   ]
+  ]
+ },
+ "ch13:18": "Essa ministração não começou de repente. Os Portadores da Vida dão testemunho da longa preparação dos espíritos ajudantes com estas palavras.",
+ "ch13:20": "À medida que o cérebro crescia, a ministração da mente aprofundava-se, e, à medida que a ministração da mente se aprofundava, espíritos ajudantes mais elevados podiam funcionar. A evolução material e a ministração da mente ergueram-se lado a lado até que, com os espíritos da adoração e da sabedoria, cruzaram um único limiar. Esse limiar não pode ser cruzado apenas pelas forças materiais, nem apenas pela ministração da mente. A mente humana nasce no ponto de encontro de três coisas: o recipiente do cérebro, a ministração dos espíritos ajudantes e a decisão do próprio ser humano.",
+ "ch13:21": "Não devemos deixar escapar o fato de que a completude da mente e o ato da decisão ocorrem no mesmo momento. A mente humana não vem apenas com a capacidade de pensar, mas com a capacidade de formar propósitos e de escolher. A relação entre mente, personalidade e vontade é tratada em detalhe nos capítulos 9 e 10.",
+ "ch13:22": "4. A primeira decisão e o reconhecimento do planeta",
+ "ch13:23": "Por volta dos nove anos de idade, junto a um rio, os gêmeos resolveram viver um com o outro e um para o outro, e esse foi o começo de uma série de decisões que terminou com a sua partida para o norte (62:5.8). Os Portadores da Vida observaram essas decisões, mas não as tomaram no lugar dos gêmeos.",
+ "ch13:25": "Os seres celestes podem orientar as circunstâncias, mas não podem tomar as decisões de uma mente em lugar dela. Esse princípio atravessa toda a história humana. O que os Portadores da Vida fizeram foi conduzir os gêmeos para o norte, dentro dos limites permissíveis da função planetária; a decisão permaneceu, até o fim, dos próprios gêmeos (62:5.9). No terceiro dia após a fuga dos gêmeos, a primeira mensagem de Sálvington declarou o significado da sua decisão.",
+ "ch13:27": "A decisão de um único par abriu um circuito do universo. Urântia foi formalmente reconhecida como um planeta de residência humana 993 408 anos atrás (62:7.7), e com isso chegou ao fim a supervisão dos Portadores da Vida. Eles registram a razão com estas palavras.",
+ "ch13:29": "A missão dos Portadores da Vida dura até que apareçam criaturas de vontade. Uma vez que apareçam seres capazes de adorar e de escolher ascender, o que se segue fica entregue à sua própria escolha. Quando os gêmeos tinham onze anos, a mensagem dos arcanjos deu nome a esses pais da humanidade.",
+ "ch13:31": "5. A família de Andon: fogo, clã e linguagem",
+ "ch13:32": "Andon significa “a primeira criatura, semelhante ao Pai, a demonstrar ter sede humana de perfeição” (63:0.3). Não foi apenas a inteligência que os levou a partir para o norte. O revelador diz que a personalidade e o Ajustador estavam por trás disso.",
+ "ch13:34": "No caminho para o norte, Andon viu faíscas saltarem da pederneira e, depois de dois meses de fracassos, quando Fonta trouxe um ninho de pássaro seco, o segredo de acender o fogo foi resolvido (63:2.4–2.5). O fogo tornou-se mais do que uma técnica de sobrevivência; tornou-se um símbolo de independência.",
+ "ch13:36": "O seu primeiro filho, Sontad, nasceu, e Andon e Fonta tiveram ao todo dezenove filhos (63:3.1–3.2). Essa família possuía uma acentuada consciência de clã e desenvolveu uma linguagem vigorosa (63:4.6). O revelador encontra a fonte da sua solidariedade na ministração da mente.",
+ "ch13:38": "Os espíritos ajudantes da mente não apenas completaram a mente dos gêmeos; também uniram a sua família. Os homens lutavam pelas suas famílias e as mulheres dedicavam-se aos filhos. Mas esse amor ainda não ia além do clã imediato.",
+ "ch13:40": {
+  "cap": "Tabela 13.4  Cronologia e cultura da família de Andon",
+  "rows": [
+   [
+    "Assunto",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "Primeiro filho",
+    "Sontad, nascido quase dois anos depois da sua fuga",
+    "63:3.1"
+   ],
+   [
+    "Tamanho da família",
+    "Dezenove filhos, quase cinqüenta netos e seis bisnetos",
+    "63:3.2"
+   ],
+   [
+    "Morte dos pais",
+    "Mortos juntos num terremoto, aos quarenta e dois anos de idade",
+    "63:3.4"
+   ],
+   [
+    "Solidariedade familiar",
+    "Mantida até a vigésima geração",
+    "63:3.6"
+   ],
+   [
+    "Causas da divisão",
+    "Competição por alimento, atritos sociais e guerras entre clãs",
+    "63:3.6, 63:4.8"
+   ]
+  ]
+ },
+ "ch13:41": "6. Onagar e a primeira religião verdadeira",
+ "ch13:42": "À medida que os clãs andonitas se dispersaram, o seu status cultural e espiritual retrocedeu por quase dez mil anos. Então surgiu Onagar, trouxe a paz entre as tribos e conduziu-as juntas à adoração “d’Aquele que dá o alento aos homens e animais” (63:6.1). A oração que ele ensinou exprime a própria vida e as esperanças do homem primitivo.",
+ "ch13:44": "Os emissários de Onagar foram os primeiros missionários do mundo, e levaram às colônias mais longínquas a doutrina de uma Deidade única e do “Grande Além” (63:6.7). Onagar instituiu um sistema de governo tribal que as gerações seguintes não conseguiram igualar por milhares de anos, e, até a chegada do Príncipe Planetário, nunca mais houve uma civilização tão altamente espiritual (63:6.8). Essa religião era verdadeira porque a sua fé correspondia a uma capacidade real dentro do homem. O Livro de Urântia fala assim de todos os mortais que têm Ajustadores residentes.",
+ "ch13:46": "Nos dias de Onagar, esse potencial abriu-se amplamente para a humanidade.",
+ "ch13:48": {
+  "cap": "Tabela 13.5  Os dois caminhos da religião primitiva: o medo e a adoração",
+  "rows": [
+   [
+    "Ramo",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "Medo da natureza",
+    "Fenômenos naturais como o trovão, o relâmpago, a chuva, a neve e o gelo",
+    "63:6.3"
+   ],
+   [
+    "Adoração dos animais",
+    "Os grandes animais de alimento que sustentavam a vida tornados objetos de adoração",
+    "63:6.3"
+   ],
+   [
+    "Origem do sacrifício",
+    "Cerimônias em torno de animais venerados, que se tornaram os posteriores ritos sacrificiais",
+    "63:6.4"
+   ],
+   [
+    "Adoração d’Aquele que dá o alento",
+    "A adoração de Onagar a uma Deidade única e o conceito de uma vida no além",
+    "63:6.1, 63:6.7"
+   ]
+  ]
+ },
+ "ch13:49": "Os próprios Andon e Fonta receberam reconhecimento no julgamento por ocasião da chegada do Príncipe Planetário, passaram pelos mundos das mansões, tornaram-se cidadãos de Jerusém e ali se fundiram com os seus Ajustadores (63:7.1–7.2). Os primeiros pais da humanidade são também as primeiras testemunhas da sobrevivência eterna. Afligiram-se com a traição de Caligástia e com a falta de Adão, mas rejubilaram-se sobremaneira com a notícia de que Michael havia escolhido o mundo deles como cenário da sua auto-outorga final (63:7.1). O revelador encerra a história deles com estas palavras.",
+ "ch13:51": "Para concluir: uma raça humana que começou com uma decisão",
+ "ch13:52": "O começo da humanidade, tal como O Livro de Urântia o retrata, segue uma única lógica. Os Portadores da Vida projetaram a vida de modo que a vontade aparecesse cedo. Quando a ministração dos espíritos ajudantes da mente alcançou a adoração e a sabedoria, a mente humana ficou completa, e a primeira decisão dessa mente abriu um circuito do universo e trouxe o reconhecimento do planeta. Os dois que tomaram essa decisão receberam personalidade e tornaram-se residência de Ajustadores; obtiveram o fogo e formaram uma família, e entre os seus descendentes floresceu pela primeira vez a verdadeira religião. Desde o princípio, o homem foi um ser que escolhe e adora. Contudo, os descendentes de Andon dispersaram-se e retrocederam, e no meio deles haveriam de nascer novas raças. O próximo capítulo examina a origem e a dispersão das seis raças coloridas que surgiram da família sangique.",
+ "ch13:53": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se o primeiro sinal que distingue o homem do animal são os sentimentos de adoração (62:5.4), e não as ferramentas ou a linguagem, o que isso nos diz sobre a natureza essencial do homem?",
+   "2. Nem mesmo os Portadores da Vida podiam controlar a mente dos gêmeos (62:5.9). O que isso nos ensina sobre o modo como Deus e os seres celestes tratam a liberdade humana?",
+   "3. A família de Andon tinha profundo afeto familiar, mas o altruísmo ainda não havia nascido (63:4.3). Até onde chega hoje o meu próprio amor?"
+  ]
+ },
+ "ch14:label": "Capítulo 14",
+ "ch14:title": "A origem e a dispersão das raças",
+ "ch14:0": "No capítulo anterior, a humanidade começou com a decisão de um único casal, Andon e Fonta. No entanto, a humanidade de hoje está dividida em muitas cores de pele e muitos tipos físicos. De onde veio essa diversidade? O Livro de Urântia não explica a origem das raças como um acidente ou uma maldição. A diferenciação das raças faz parte de um plano para o qual os Portadores da Vida tomaram providências desde o princípio, e esse plano abrange produzir muitas raças, dispersá-las e depois reuni-las novamente numa só. Seguindo o texto, este capítulo pergunta, sucessivamente, por que as raças surgiram, como surgiram, para onde se dispersaram e para onde se encaminham.",
+ "ch14:1": "1. A diferenciação das raças faz parte do plano",
+ "ch14:2": "A necessidade da diferenciação racial manifesta-se primeiro nas tendências das criaturas em evolução. À medida que os clãs andonitas se multiplicaram, o contato entre as famílias gerou atritos e rixas, e as guerras entre os clãs levaram embora as linhagens mais capazes (63:4.7–4.8). O revelador nos diz que os Portadores da Vida conheciam de antemão essa tendência.",
+ "ch14:4": "Num mundo evolucionário comum, essas seis raças aparecem uma após a outra, na ordem das cores do espectro, começando pelo homem vermelho (52:1.1): o homem vermelho, a raça alaranjada, o homem amarelo, a raça verde, o homem azul e a raça índigo. Dentre elas, o revelador chama a primeira, a terceira e a quinta, a vermelha, a amarela e a azul, de raças primárias, e as outras três de raças secundárias (51:4.3). Mas essa diferenciação não é simplesmente uma perda.",
+ "ch14:6": "A diferenciação não é um fim em si mesma, mas uma preparação para uma síntese maior. Como nenhuma raça isolada pode conter todos os potenciais, muitas raças expressam potenciais diferentes e, quando mais tarde são novamente reunidas, a humanidade fica enriquecida. Essa lógica orienta o capítulo inteiro.",
+ "ch14:7": {
+  "cap": "Tabela 14.1  O caminho das raças num mundo evolucionário comum",
+  "rows": [
+   [
+    "Etapa",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "Aparecimento",
+    "Aparecem uma após a outra, na ordem das cores do espectro, começando pelo homem vermelho",
+    "52:1.1"
+   ],
+   [
+    "Classificação",
+    "Vermelha, amarela e azul são primárias; alaranjada, verde e índigo são secundárias",
+    "51:4.3"
+   ],
+   [
+    "Dispersão",
+    "A grande idade da dispersão racial sob o Príncipe Planetário; a cor como base dos agrupamentos",
+    "52:2.5"
+   ],
+   [
+    "Elevação",
+    "Aperfeiçoadas pela mistura com a raça violeta Adâmica importada",
+    "51:4.4, 51:4.8"
+   ],
+   [
+    "Consumação",
+    "As raças misturadas, os problemas de cor desaparecidos, todas as raças de um só sangue",
+    "52:4.1"
+   ]
+  ]
+ },
+ "ch14:8": "2. A dispersão e o retrocesso dos descendentes andônicos",
+ "ch14:9": "Em Urântia, esse caminho começou numa ordem diferente. Os povos andônicos existiram antes das raças coloridas e, a partir de cerca de 950 mil anos atrás, os seus descendentes espalharam-se a oeste até a França e a Inglaterra, e a leste até Java (64:1.6). Mas o seu caminho esteve bloqueado desde o início. A leste ficavam as elevações tibetanas; ao sul e a oeste, o Mediterrâneo, que então se estendia até o oceano Índico; e ao norte, o gelo (64:1.1). O revelador diz que essa situação se tornou uma das raízes do sentimento religioso.",
+ "ch14:11": "Ainda assim, os andonitas progressistas não voltaram para junto dos seus parentes do sul, que habitavam em árvores. O revelador mostra que essa escolha foi a condição que separou o progresso do retrocesso.",
+ "ch14:13": "Os grupos que foram para o leste, porém, miscigenaram-se com os seus primos, animais inferiores, e, quando essa mistura, por sua vez, se uniu aos andonitas do norte, os povoados que adoravam Aquele Que Dá o Alento diminuíram (64:1.7). Enquanto isso, alguns grupos preservaram a herança de Andon e de Onagar. Os povos de Foxhall, na Inglaterra, transmitiram às idades posteriores o trabalho na pedra e tornaram-se os ancestrais dos esquimós (64:2.5), e as tribos Badonan dos planaltos do noroeste da Índia foram os únicos descendentes de Andon que nunca praticaram o sacrifício humano (64:3.1). As raças de Neandertal, surgidas da linhagem Badonan, dominaram o mundo por quase meio milhão de anos, mas, de modo geral, a sua era foi um tempo de retrocesso. O homem de Neandertal não tinha nenhuma religião além de uma superstição vergonhosa e chegou a sacrificar seres humanos para aplacar as forças invisíveis (64:4.12). O revelador avalia aquele período com estas palavras.",
+ "ch14:15": {
+  "cap": "Tabela 14.2  Os principais ramos dos descendentes andônicos",
+  "rows": [
+   [
+    "Grupo",
+    "Localização",
+    "Características",
+    "Fonte"
+   ],
+   [
+    "Povos de Foxhall",
+    "Inglaterra, o extremo oeste",
+    "Preservaram relativamente muito da cultura andônica; ancestrais dos esquimós",
+    "64:2.5, 64:2.7"
+   ],
+   [
+    "Tribos Badonan",
+    "Planaltos do noroeste da Índia",
+    "Os únicos descendentes andônicos que nunca praticaram o sacrifício humano",
+    "64:3.1"
+   ],
+   [
+    "Raças de Heidelberg",
+    "Por toda a Europa",
+    "Um povo de certo modo superior e prolífico",
+    "64:2.3"
+   ],
+   [
+    "Raças de Neandertal",
+    "Da França à China e ao norte da África",
+    "Excelentes lutadores; nenhuma religião além da superstição",
+    "64:4.1, 64:4.12"
+   ]
+  ]
+ },
+ "ch14:16": "3. A família sangique: seis raças de uma só família",
+ "ch14:17": "As novas raças surgiram em meio a esse retrocesso. Há quinhentos mil anos, depois de longas guerras entre as tribos Badonan, restavam cerca de cem famílias, e esses sobreviventes eram os mais inteligentes e os mais desejáveis de todos os descendentes de Andon e Fonta que então viviam (64:5.1). E entre eles aconteceu algo inesperado.",
+ "ch14:19": "Os dezenove filhos da família sangique tinham peles que tomavam cores diferentes com a exposição à luz do sol. Cinco eram vermelhos, dois alaranjados, quatro amarelos, dois verdes, quatro azuis e dois índigo, e, quando se uniram aos companheiros da sua tribo, a sua progênie tendia para a cor de pele do ascendente sangique (64:5.3). O revelador explica esse acontecimento por comparação com os mundos comuns.",
+ "ch14:21": "As raças que, em outros mundos, surgem uma a uma por mutações em linhagens diferentes nasceram em Urântia como irmãos e irmãs. Por maiores que sejam as diferenças entre as raças, a sua raiz é um único lar. E esse lar remonta, por sua vez, a Andon e Fonta. Como a família sangique veio da linhagem Badonan, a melhor dos descendentes andônicos, todas as raças coloridas são, em última instância, descendentes dos dois primeiros seres humanos. Vale lembrar também que o Príncipe Planetário chegou por essa época (64:5.4). O segundo grande capítulo da história humana começa onde coincidem o nascimento das seis raças e a chegada do Príncipe.",
+ "ch14:22": "4. As características e os líderes das seis raças sangiques",
+ "ch14:23": "Ao descrever uma a uma as características das seis raças, o revelador registra tanto o que elas ganharam quanto o que perderam. O homem vermelho foi o primeiro a desenvolver uma civilização e um governo tribal (64:6.3); o homem amarelo foi o primeiro a abandonar a caça e a estabelecer uma vida estável baseada na agricultura (64:6.14); e o homem azul inventou cedo a lança e lançou os fundamentos de muitas das artes da civilização moderna (64:6.21). A explicação de por que o homem amarelo sobreviveu mostra de que depende o destino de uma raça.",
+ "ch14:25": "Das raças vermelha, verde e alaranjada, ao contrário, o texto registra o seguinte: “Essas três raças, virtualmente, destruíram-se antes que pudessem ser finalmente aniquiladas pelos seus inimigos das outras raças” (64:7.7). Foi a paz, mais do que a força, que preservou uma raça. Do homem azul, além disso, diz-se que tinha “o poder cerebral do homem vermelho, associado à alma e ao sentimento do homem amarelo” (64:6.21), e ele foi a raça que os descendentes Adâmicos preferiram a todas as outras. Como mostra a tabela abaixo, cada uma das seis raças teve um líder que lhe ensinou de novo sobre Deus.",
+ "ch14:26": {
+  "cap": "Tabela 14.3  As características e os líderes espirituais das seis raças sangiques",
+  "rows": [
+   [
+    "Raça",
+    "Características marcantes",
+    "Líder espiritual",
+    "Fonte"
+   ],
+   [
+    "Homem vermelho",
+    "Primeira civilização e governo tribal; monogamia",
+    "Onamonalonton (“Grande Espírito”)",
+    "64:6.3, 64:6.7"
+   ],
+   [
+    "Raça alaranjada",
+    "A necessidade de construir toda e qualquer coisa",
+    "Porshunta",
+    "64:6.10, 64:6.12"
+   ],
+   [
+    "Homem amarelo",
+    "Primeira agricultura estável; organização social e cooperação",
+    "Singlangton (“Verdade Única”)",
+    "64:6.14, 64:6.15"
+   ],
+   [
+    "Homem verde",
+    "Enfraquecido por migrações em várias direções",
+    "Fantad",
+    "64:6.17"
+   ],
+   [
+    "Homem azul",
+    "Invenção da lança; fundamentos das artes da civilização",
+    "Orlandof (“Chefe Supremo”)",
+    "64:6.21, 64:6.23"
+   ],
+   [
+    "Raça índigo",
+    "A última a deixar a terra de origem; foi para a África",
+    "Orvonon (“Deus dos Deuses”)",
+    "64:6.25, 64:6.26"
+   ]
+  ]
+ },
+ "ch14:27": "A maioria desses líderes apareceu nas idades de trevas que se seguiram à rebelião de Caligástia. Além dos líderes renomados, o revelador não esquece a parte que coube a inúmeros mestres menores.",
+ "ch14:29": "O texto não oculta as diferenças de capacidade entre as raças. Mas também deixa claro que essas diferenças não são diferenças de status espiritual. Da raça índigo, que descreve como a de menor progresso, o revelador acrescenta o seguinte.",
+ "ch14:31": "O dom biológico e a realização cultural diferem de raça para raça, mas o status perante Deus é o mesmo. Essa distinção é o elo mais importante da lógica deste capítulo. A raça pertence ao nível do corpo e da civilização; a relação com Deus pertence ao nível da personalidade e do Ajustador.",
+ "ch14:32": "5. Por que muitas raças?",
+ "ch14:33": "Por que, então, três ou seis raças, e não uma só? O revelador diz que há razões dignas de nota, ainda que os mortais não possam apreciá-las todas plenamente, e apresenta cinco (64:6.30).",
+ "ch14:34": {
+  "cap": "Tabela 14.4  Cinco razões para fazer evoluir várias raças coloridas",
+  "rows": [
+   [
+    "Razão",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "1. Seleção natural",
+    "A variedade é necessária para a sobrevivência diferencial das linhagens superiores",
+    "64:6.31"
+   ],
+   [
+    "2. Mistura superior",
+    "O cruzamento de raças superiores pode produzir raças mais fortes e vigorosas",
+    "64:6.32"
+   ],
+   [
+    "3. Competição",
+    "A diversidade entre as raças estimula uma competição salutar",
+    "64:6.33"
+   ],
+   [
+    "4. Tolerância e altruísmo",
+    "As diferenças de status desenvolvem a tolerância e o altruísmo humanos",
+    "64:6.34"
+   ],
+   [
+    "5. O tempo da homogeneidade",
+    "A homogeneidade não é desejável antes que se alcancem altos níveis espirituais",
+    "64:6.35"
+   ]
+  ]
+ },
+ "ch14:35": "A quarta e a quinta razões são especialmente notáveis. Nas palavras do texto, são as seguintes.",
+ "ch14:38": "A diversidade dá ao homem um lugar onde aprender a tolerância e o altruísmo, e tornar-se um só é desejável apenas depois de alcançada primeiro a maturidade espiritual. No capítulo anterior vimos que o altruísmo ainda não havia nascido na família de Andon (63:4.3). As diferenças entre as raças tornam-se o próprio solo em que esse altruísmo cresce. A diversidade racial é também uma escola para o crescimento moral do homem.",
+ "ch14:39": "6. Dispersão, mistura e a raça violeta",
+ "ch14:40": "Cercadas pelo gelo, as raças sangiques viveram misturadas nos sopés das montanhas durante quase cem mil anos, e desde cedo manifestou-se uma antipatia natural entre as diferentes raças (64:7.2). As raças primárias superiores evitaram os trópicos e foram para o norte, enquanto as raças secundárias foram atraídas para o sul, para a África (64:7.3). A raça alaranjada foi absorvida ou exterminada pela verde, e a verde, pela índigo (64:6.13, 64:7.14). Mas a dispersão foi também mistura. Os homens azuis que foram para a Europa encontraram ali os homens de Neandertal, descendentes do seu ancestral comum, Andon (64:7.9).",
+ "ch14:42": "No texto, a mistura não é, em si mesma, nem boa nem má. Repetidas vezes a civilização deteriorou-se quando linhagens superiores se misturaram com inferiores (64:1.8), e, quando chegaram linhagens superiores, as raças mais antigas foram aperfeiçoadas. O resultado da mistura depende do que se mistura com o quê. Esse princípio será mais tarde a chave para compreender a missão de Adão. Quando as migrações terminaram, o mapa tinha este aspecto.",
+ "ch14:44": "Daí em diante, a humanidade de Urântia tornou-se o resultado de uma mistura e remistura de cinco linhagens básicas (81:4.1). O revelador diz que, para compreender as raças de hoje, é preciso levar em conta a influência da linhagem Adâmica que veio depois (64:7.12). Nos mundos comuns, a raça violeta do Adão e da Eva planetários mistura-se com as raças evolucionárias e eleva-as. Em Urântia, porém, esse plano não foi executado em larga escala (51:4.4). A missão de Adão e o seu malogro são tratados no capítulo 16.",
+ "ch14:45": {
+  "cap": "Tabela 14.5  As cinco linhagens básicas que compõem a humanidade de Urântia",
+  "rows": [
+   [
+    "Linhagem",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "Andonitas",
+    "Os aborígines de Urântia",
+    "81:4.4"
+   ],
+   [
+    "Sangiques primários",
+    "As raças vermelha, amarela e azul",
+    "81:4.5"
+   ],
+   [
+    "Sangiques secundários",
+    "As raças alaranjada, verde e índigo",
+    "81:4.6"
+   ],
+   [
+    "Noditas",
+    "Descendentes dos dalamatianos",
+    "81:4.7"
+   ],
+   [
+    "Adamitas",
+    "A raça violeta",
+    "81:4.8"
+   ]
+  ]
+ },
+ "ch14:46": "No caminho para essa meta, o revelador pede não apenas a mistura biológica, mas também o despertar ético.",
+ "ch14:48": "Para onde, então, se encaminha a história das raças? Nos mundos normais e leais, o caminho das raças chega ao seguinte estado.",
+ "ch14:50": "O Portador da Vida que registrou essa longa história não olha com desdém para os nossos ancestrais primitivos. Ele honra as suas lutas com estas palavras.",
+ "ch14:52": "Para concluir: de um só lar a um só sangue",
+ "ch14:53": "A doutrina das raças descreve um círculo. Os Portadores da Vida providenciaram a separação das raças para que o homem, descendente de animais lutadores, pudesse viver em conjunto. As seis raças coloridas de Urântia nasceram como irmãos e irmãs numa única família, a família sangique, e espalharam-se pelo mundo, cada qual com as suas características e realizações próprias. Essas diferenças serviram à seleção natural, à competição e à tolerância; não dividiram o status perante Deus. E essa dispersão foi planejada para conduzir, por fim, a um mundo em que todas as raças têm um só sangue e a irmandade dos homens floresce. Em Urântia, porém, esse plano sofreu dois grandes reveses. O próximo capítulo examina o primeiro deles, a rebelião de Lúcifer e a traição de Caligástia.",
+ "ch14:54": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. As seis raças coloridas nasceram como irmãos e irmãs numa só família (64:5.2). O que esse fato pede do modo como eu vejo a raça hoje?",
+   "2. Por que é importante manter juntas tanto as diferenças de capacidade entre as raças quanto o seu status igual “perante os poderes celestes” (64:6.27)?",
+   "3. Se as diferenças entre as raças são essenciais para o desenvolvimento da tolerância e do altruísmo (64:6.34), que tipo de escola as diferenças ao meu redor estão se tornando para mim?"
+  ]
+ },
+ "ch15:label": "Capítulo 15",
+ "ch15:title": "A rebelião de Lúcifer",
+ "ch15:sub": "A liberdade e o seu abuso",
+ "ch15:0": "Os dois capítulos anteriores acompanharam o processo pelo qual a humanidade nasceu e se dispersou segundo um plano. A partir deste capítulo, voltamo-nos para os reveses que abalaram esse plano. O primeiro revés começou não com o homem, mas no céu. Lúcifer, o soberano do sistema de Satânia, levantou uma rebelião, e Caligástia, o Príncipe Planetário de Urântia, aderiu a ela. Em O Livro de Urântia, esse acontecimento não é apenas uma história antiga; é um lugar da doutrina que revela a natureza do mal, do pecado e da liberdade. Este capítulo faz três perguntas. Como um ser criado perfeito chega à rebelião? O que havia de falso na liberdade proclamada pelo rebelde? E por que Deus não destruiu imediatamente os rebeldes?",
+ "ch15:1": "1. Os líderes da rebelião",
+ "ch15:2": "Lúcifer era um brilhante Filho Lanonandeque primário de Nébadon, distinguido como uma das cem personalidades mais capazes e brilhantes entre mais de setecentos mil da sua espécie (53:0.1). O sistema de Satânia, que ele governava, contém 607 mundos habitados (53:1.1). O revelador coloca lado a lado, numa única frase, o seu começo brilhante e o seu fim.",
+ "ch15:4": "Essa frase é como uma anatomia da rebelião. O impulso do ego, a rejeição da lealdade, a desconsideração pelas obrigações fraternais, a cegueira para as relações cósmicas e os sofismas de uma liberdade espúria aparecem em ordem. O primeiro assistente de Lúcifer era Satã, e o ser comumente chamado de diabo em Urântia era Caligástia, o Príncipe Planetário deposto (53:1.4). Em toda a história dos Filhos Lanonandeques, apenas três Soberanos de Sistemas desrespeitaram o governo do Filho Criador (53:0.2). A rebelião não é comum no universo e, por isso mesmo, esse acontecimento deixou uma marca profunda e peculiar em Urântia. Há mais uma coisa a lembrar: os rebeldes não foram criados maus desde o princípio. Todos eram Filhos de Deus de alta posição e capacidade notável, e foi em meio a essa mesma excelência que caíram.",
+ "ch15:5": {
+  "cap": "Tabela 15.1  As principais personalidades da rebelião",
+  "rows": [
+   [
+    "Personalidade",
+    "Posição original",
+    "Papel na rebelião",
+    "Fonte"
+   ],
+   [
+    "Lúcifer",
+    "Filho Lanonandeque primário; Soberano do sistema de Satânia",
+    "Líder da rebelião; proclamou a Declaração de Liberdade",
+    "53:0.1, 53:3.1"
+   ],
+   [
+    "Satã",
+    "Lanonandeque primário; primeiro assistente de Lúcifer",
+    "Advogou a causa de Lúcifer em Urântia",
+    "53:1.4"
+   ],
+   [
+    "Caligástia",
+    "Lanonandeque secundário; Príncipe Planetário de Urântia",
+    "Traiu o planeta; chamado de diabo",
+    "53:1.4, 67:1.2"
+   ],
+   [
+    "Abaddon",
+    "Dirigente do corpo de assistentes de Caligástia",
+    "Dirigente executivo dos rebeldes de Urântia",
+    "53:1.5"
+   ]
+  ]
+ },
+ "ch15:6": "2. Onde começou a rebelião?",
+ "ch15:7": "A causa da rebelião não pode ser buscada fora. Não havia condições especiais no sistema de Satânia que provocassem a rebelião, e o revelador acredita que Lúcifer teria instigado a rebelião onde quer que estivesse (53:2.2).",
+ "ch15:9": "O que alimentou essa idéia foi o orgulho. Lúcifer iludiu a si mesmo até chegar a crer que a sua rebelião era, pelo menos, para o bem do sistema.",
+ "ch15:11": "O mesmo parágrafo diz que, em algum ponto dessa experiência, ele se tornou insincero, e o mal evoluiu para o pecado deliberado e voluntário. Aqui se torna importante a distinção que O Livro de Urântia faz entre o mal e o pecado. Na abertura do documento 54, o revelador apresenta quatro termos.",
+ "ch15:13": {
+  "cap": "Tabela 15.2  A distinção entre erro, mal, pecado e iniqüidade",
+  "rows": [
+   [
+    "Termo",
+    "Atitude diante da realidade",
+    "Deficiência que revela",
+    "Fonte"
+   ],
+   [
+    "Erro",
+    "Concepção errônea ou distorção da realidade",
+    "Falta de agudez intelectual",
+    "67:1.4, 67:1.5"
+   ],
+   [
+    "Mal",
+    "Compreensão parcial das realidades do universo, ou ajustamento defeituoso a elas",
+    "Deficiência de sabedoria",
+    "67:1.4, 67:1.5"
+   ],
+   [
+    "Pecado",
+    "Resistência proposital à realidade divina",
+    "Pobreza espiritual abjeta",
+    "67:1.4, 67:1.5"
+   ],
+   [
+    "Iniqüidade",
+    "Desafio aberto e persistente da realidade reconhecida",
+    "Desaparecimento do controle da personalidade",
+    "67:1.4, 67:1.5"
+   ]
+  ]
+ },
+ "ch15:14": "Caligástia trilhou o mesmo caminho. Ele era ultra-individualista e inquieto sob a autoridade (66:8.1). Lúcifer e Caligástia haviam sido pacientemente instruídos e prevenidos afetuosamente sobre as suas tendências para as críticas e sobre o seu orgulho, mas interpretaram toda essa ajuda como críticas sem fundamento e interferências nas suas liberdades (66:8.2). A rebelião não acontece da noite para o dia. Um pouco de orgulho leva à rejeição do conselho, a rejeição gera o auto-engano, e o auto-engano endurece em pecado voluntário. De Caligástia, o revelador acrescenta que, ao cometer deliberadamente esse pecado, distorceu tão completamente a sua personalidade que a sua mente nunca mais foi capaz de recuperar plenamente o equilíbrio (67:1.3). O pecado destrói não apenas a ordem exterior, mas a própria personalidade que o escolhe. O pecado repetido torna-se hábito, e o pecador habitual facilmente cai na iniqüidade (67:1.6).",
+ "ch15:15": "3. O manifesto de Lúcifer",
+ "ch15:16": "A perturbação na mente de Lúcifer tomou forma, por fim, na Declaração de Liberdade de Lúcifer. A causa dos rebeldes foi declarada sob três pontos principais (53:3.1).",
+ "ch15:17": {
+  "cap": "Tabela 15.3  As três alegações do manifesto de Lúcifer",
+  "rows": [
+   [
+    "Ponto",
+    "A alegação de Lúcifer",
+    "Fonte"
+   ],
+   [
+    "1. A realidade do Pai Universal",
+    "O Pai não existe e é um mito inventado pelos Filhos do Paraíso; negação de que a personalidade seja uma dádiva do Pai",
+    "53:3.2"
+   ],
+   [
+    "2. O governo universal de Michael",
+    "Os sistemas locais deveriam ser autônomos; a interferência dos Anciães dos Dias é tirania",
+    "53:3.3, 53:3.4"
+   ],
+   [
+    "3. O ataque ao plano de ascensão",
+    "Tempo e energia demais são gastos no preparo dos mortais; os ascendentes deveriam desfrutar da liberdade da autodeterminação",
+    "53:3.6"
+   ]
+  ]
+ },
+ "ch15:18": "As três alegações remontam a uma única raiz. A primeira nega o Pai, a segunda nega o governo do Filho que representa o Pai, e a terceira nega o próprio caminho para o Pai. Se não há Pai, não há ninguém a quem ser leal nem meta de ascensão. Tudo o que resta é a autodeterminação. A negação da realidade de Deus é o ponto de partida da falsa liberdade. Como mostra a terceira alegação, Lúcifer ridicularizou como ficção o longo plano de preparo dos mortais ascendentes. No entanto, esse plano é a própria vontade do Pai, que deseja que as criaturas do tempo alcancem a perfeição por meio da experiência. Em conseqüência da rebelião, o sistema ficou isolado dos sistemas irmãos (67:3.1), e a “guerra nos céus” espalhou-se até todos os planetas de Satânia. Essa guerra não foi uma guerra de espadas e armas, mas uma luta de mentes e de lealdades.",
+ "ch15:20": "4. A verdadeira liberdade e a falsa liberdade",
+ "ch15:21": "O revelador diz que, de todos os problemas que a rebelião deixou, nenhum tem causado mais dificuldades do que a incapacidade dos mortais imaturos de distinguir entre a verdadeira e a falsa liberdade (54:1.1). Por isso ele expõe, repetidas vezes, as condições da liberdade.",
+ "ch15:24": {
+  "cap": "Tabela 15.4  A verdadeira liberdade e a falsa liberdade",
+  "rows": [
+   [
+    "Aspecto",
+    "Verdadeira liberdade",
+    "Falsa liberdade",
+    "Fonte"
+   ],
+   [
+    "Origem",
+    "A recompensa do progresso evolucionário",
+    "O engano do erro, no tempo, e do mal, no espaço",
+    "54:1.2"
+   ],
+   [
+    "Companheira",
+    "Auto-respeito, controle de si próprio",
+    "Auto-admiração, afirmação do ego",
+    "54:1.6"
+   ],
+   [
+    "Fruto",
+    "Serviço altruísta",
+    "Exploração dos outros e poder injusto",
+    "54:1.6"
+   ],
+   [
+    "Relação com a realidade",
+    "Progressivamente relacionada à realidade",
+    "Divorciada da realidade e autodestrutiva",
+    "54:1.3, 54:1.4"
+   ]
+  ]
+ },
+ "ch15:25": "Qual foi, então, o crime de Lúcifer? Ele clamava por liberdade, mas, na verdade, procurava tirar a liberdade de outros seres. Deus deu o livre-arbítrio a toda criatura pessoal para que cada uma pudesse tomar parte na longa luta evolucionária e contribuir com a sua parte própria (54:2.3).",
+ "ch15:28": "A falsa liberdade, no fim, rouba a liberdade dos outros. É por isso que o revelador diz que o manifesto de Lúcifer, revestido pelos trajes da liberdade, destaca-se, à luz da razão, como ameaça a consumar o “roubo da liberdade pessoal e a fazê-lo numa escala só alcançada, em toda a história de Nébadon, por duas vezes” (54:2.3). Por que, então, Deus não fez desde o princípio apenas seres que não pudessem pecar? A resposta do revelador é clara. Se a liberdade de escolha é real, a possibilidade da escolha errada também deve ser real.",
+ "ch15:30": "Os Deuses não criam o mal, nem permitem o pecado e a rebelião (54:0.2). Mas onde quer que existam seres imperfeitos dotados de livre-arbítrio, existe a possibilidade do pecado. O que Deus salvaguarda não é o pecado, mas a liberdade. Aquilo que Lúcifer procurou tirar, Deus preserva até o fim.",
+ "ch15:31": "5. A traição de Urântia e a lealdade de Amadon",
+ "ch15:32": "Caligástia havia concordado de antemão em trair o planeta quando a rebelião fosse anunciada (67:1.2). O revelador considera essa traição o mais grave dos males, pois nenhum cargo é de confiança mais sagrada do que o de um Príncipe Planetário.",
+ "ch15:34": "No mesmo planeta, porém, houve também a escolha oposta. Quarenta membros do corpo dos cem assessores do Príncipe, incluindo Van, recusaram-se a unir-se à rebelião (67:3.2), e Amadon, descendente de Andon e Fonta, permaneceu firme ao lado de Van durante os sete anos de luta (67:3.8).",
+ "ch15:36": "Não foi o tamanho do intelecto que decidiu a lealdade. A lealdade de Van foi o produto de pensamento claro, motivação sincera, propósito não-egoísta e uma consagração inquestionável de si mesmo a cumprir a vontade do Pai (67:3.6). Durante sete anos, a primeira pergunta de toda vida celeste subordinada era: “E Amadon, de Urântia, continua inarredável ainda?” (67:8.3). Depois da rebelião, os seguidores de Van retiraram-se para os planaltos do oeste da Índia e planejaram a reabilitação do mundo, e os descendentes de Amadon tornaram-se o fermento biológico que forneceu lideranças durante as longas idades de trevas que se seguiram à rebelião (67:6.1, 67:6.3). O revelador diz que a lealdade de Amadon e dos seus companheiros trouxe um bem tão grande que não pode ser contrabalançado nem mesmo pela soma total de todo o mal e pesar da rebelião de Lúcifer (67:8.4). E, embora a presença de Caligástia se tenha tornado um dos fundamentos da doutrina de um diabo, o ensinamento de que ele poderia mover à força a vontade humana era fictício (66:8.6).",
+ "ch15:38": "Essa passagem é o consolo mais direto que a doutrina da rebelião oferece ao homem. Nem mesmo um Príncipe caído podia coagir a vontade humana, e nem mesmo o Ajustador a compele. O destino do homem depende, em última instância, da própria escolha do homem.",
+ "ch15:39": "6. Por que não foram destruídos imediatamente?",
+ "ch15:40": "Resta a pergunta mais difícil. Por que Deus permitiu que os rebeldes causassem dano por tanto tempo? Desde o início da rebelião, Michael ofereceu a todos os rebeldes o perdão e o restabelecimento no serviço mediante o arrependimento (53:9.1). E retardou a execução da justiça. O revelador diz que os que se tornaram pais podem compreender melhor por que um Criador-pai é tão lento em condenar os seus filhos (54:4.2).",
+ "ch15:42": "Essa demora pertence à própria natureza da misericórdia.",
+ "ch15:45": {
+  "cap": "Tabela 15.5  Alguns motivos pelos quais os rebeldes não foram imediatamente detidos",
+  "rows": [
+   [
+    "Motivo",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "Tempo para a misericórdia",
+    "Dá ao malfeitor tempo para formular uma atitude plenamente determinada",
+    "54:5.2"
+   ],
+   [
+    "A paciência do Pai",
+    "Nenhum pai afeiçoado se precipita em aplicar uma punição",
+    "54:5.4"
+   ],
+   [
+    "O status de Michael",
+    "Não havendo completado as suas auto-outorgas, ele não exerceu a jurisdição sumária",
+    "54:5.6"
+   ],
+   [
+    "Plena oportunidade de escolha",
+    "Que cada criatura amadurecesse plenamente uma escolha sobre as questões da rebelião",
+    "54:5.10"
+   ],
+   [
+    "Plena divulgação",
+    "Expor o pecado, em vez de ocultá-lo, é a cura mais rápida",
+    "54:5.11"
+   ]
+  ]
+ },
+ "ch15:46": "Somos informados de que, em Uversa, ensinam-se até quarenta e oito motivos para possibilitar que o mal tome o curso pleno da sua própria bancarrota moral e da sua extinção espiritual (54:5.14). O resultado é surpreendente. De uma rebelião que a princípio pareceu uma calamidade sem atenuantes, os benefícios começaram gradualmente a acumular-se. A soma do mal continuou a crescer apenas em alguns mundos isolados, enquanto as repercussões benéficas se estendiam pelo universo e pelo superuniverso, chegando mesmo até Havona (54:6.6). Os benefícios da rebelião, evidentemente, não vão para os rebeldes. O bem não pode vir do mal para aqueles que planejam e cometem o mal, mas todas as coisas trabalham juntas para o bem daqueles que amam fazer a vontade de Deus (54:4.7).",
+ "ch15:48": "E, por mais amplo que seja o dano da rebelião, há um limite que ela não pode ultrapassar. As repercussões exteriores do pecado são coletivas, mas as suas conseqüências espirituais são inteiramente pessoais (67:7.1–7.2).",
+ "ch15:50": "Para concluir: a liberdade só é liberdade dentro da realidade",
+ "ch15:51": "A doutrina da rebelião de Lúcifer mantém-se unida por uma única lógica. A rebelião começou não fora, mas no orgulho dentro da mente de uma personalidade e, por meio do auto-engano, tornou-se pecado voluntário. Esse pecado veio à luz num manifesto que negava a realidade do Pai e, enquanto clamava por liberdade, procurava na verdade roubar a liberdade de todas as criaturas. A verdadeira liberdade existe apenas em relação com a realidade e com a divindade. Deus não destruiu imediatamente os rebeldes, mas concedeu um tempo de misericórdia, e dentro desse tempo brilhou uma lealdade como a de Amadon, e o bem resultante da rebelião chegou a exceder mil vezes o mal. A rebelião terminou em Jerusém e cessa nos mundos caídos tão logo os Filhos divinos chegam até eles (53:9.7). Urântia, porém, ficou isolada por essa rebelião, e nesse isolamento veio o segundo revés. O próximo capítulo examina a missão de Adão e Eva e a sua falta.",
+ "ch15:52": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se ninguém jamais sugeriu a Lúcifer uma rebelião e a idéia teve a sua origem na própria mente dele (53:2.3), como posso reconhecer, na minha própria vida, o processo pelo qual o orgulho cresce até o auto-engano?",
+   "2. À luz das palavras “A verdadeira liberdade é fruto do controle de si próprio” (54:1.6), o que, entre as coisas que considero liberdade, não passa, de fato, de afirmação do ego?",
+   "3. O que me ensina, nos lugares onde hoje vacilo, a razão pela qual Amadon, carecendo de intelecto e de experiência, pôde permanecer leal até o fim (67:3.6, 67:3.9)?"
+  ]
+ },
+ "ch16:label": "Capítulo 16",
+ "ch16:title": "Adão e Eva",
+ "ch16:sub": "A missão de elevação biológica e a sua falta",
+ "ch16:0": "O que a rebelião de Lúcifer deixou em Urântia foi o isolamento e a confusão. Em meio a essa confusão chegaram Adão e Eva, um Filho e uma Filha Materiais de Deus. A sua história tem sido transmitida há muito tempo sob o nome de queda do homem. O Livro de Urântia, porém, lê essa história de um modo inteiramente diferente. Adão e Eva não foram ancestrais que lançaram a humanidade numa maldição; foram emissários enviados para elevar biologicamente a humanidade. Este capítulo pergunta: Quem são os Filhos e as Filhas Materiais, e o que vêm fazer? Por que a sua missão malogrou em Urântia? E o que essa falta deixou para a humanidade?",
+ "ch16:1": "1. Os Filhos e as Filhas Materiais de Deus",
+ "ch16:2": "Os Filhos e as Filhas Materiais são uma progênie do Filho Criador, seres destinados a funcionar como elevadores físicos nos mundos evolucionários (51:1.1). Têm uma altura de dois metros e meio a três metros, os seus corpos brilham com uma luz de tonalidade violeta, e mantêm a sua imortalidade por meio de uma nutrição dual, ingerindo diretamente certas energias do universo junto com o alimento material (51:1.3–1.4). Diferentemente dos outros filhos celestes, são visíveis aos mortais e podem de fato intermesclar-se com eles (51:1.7). O revelador resume o seu lugar numa única expressão: são “elos de conexão entre o mundo espiritual e o mundo físico” (51:1.6).",
+ "ch16:3": {
+  "cap": "Tabela 16.1  A natureza dos Filhos e das Filhas Materiais",
+  "rows": [
+   [
+    "Item",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "Origem",
+    "Progênie do Filho Criador; o Espírito Materno do Universo não participa",
+    "51:1.1"
+   ],
+   [
+    "Corpo",
+    "De dois metros e meio a três metros de altura; brilho violeta; masculino e feminino iguais e complementares",
+    "51:1.3"
+   ],
+   [
+    "Sustento da vida",
+    "Nutrição dual de alimento material e de energias do universo",
+    "51:1.4"
+   ],
+   [
+    "Ajustadores",
+    "Não possuem Ajustadores enquanto estão nas capitais dos sistemas e em missões planetárias",
+    "51:1.6"
+   ],
+   [
+    "Visibilidade",
+    "Visíveis aos mortais e capazes de intermesclar-se e procriar com eles",
+    "51:1.7"
+   ]
+  ]
+ },
+ "ch16:4": "O propósito pelo qual vêm aos mundos evolucionários é claro.",
+ "ch16:6": "2. O plano Adâmico num mundo normal",
+ "ch16:7": "Num mundo comum, essa missão não tem pressa. Adão e Eva permanecem primeiro biologicamente segregados dos mortais evolucionários durante muitas gerações, enquanto formam uma raça forte da sua ordem. Essa é a origem da raça violeta (51:3.3). A raça violeta não se mistura com os nativos antes que o seu número ultrapasse um milhão (51:5.2), e o próprio Adão e a própria Eva nunca se acasalam com as raças evolucionárias; o aperfeiçoamento biológico é tarefa da sua progênie (51:5.3). As seis raças coloridas que vimos num capítulo anterior estavam destinadas a ser misturadas e elevadas justamente por meio dessa amalgamação (51:4.8). O revelador descreve com estas palavras o resultado quando o plano é executado.",
+ "ch16:9": {
+  "cap": "Tabela 16.2  A ordem da missão Adâmica num mundo normal",
+  "rows": [
+   [
+    "Etapa",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "1. Segregação",
+    "Adão e Eva formam a raça violeta durante muitas gerações",
+    "51:3.3"
+   ],
+   [
+    "2. Preparação",
+    "Nenhuma amalgamação antes que a raça violeta ultrapasse um milhão",
+    "51:5.2"
+   ],
+   [
+    "3. Seleção",
+    "A assessoria do Príncipe traz homens e mulheres superiores ao Jardim; acasalamento voluntário",
+    "51:5.3"
+   ],
+   [
+    "4. Monogamia",
+    "Os que se unem à progênie Adâmica comprometem-se com a monogamia",
+    "51:5.5"
+   ],
+   [
+    "5. Elevação",
+    "Em cem mil anos, mais progresso do que em um milhão de anos",
+    "51:5.6"
+   ]
+  ]
+ },
+ "ch16:10": "O cerne desse plano é a paciência e a ordem. Primeiro se estabelece plenamente uma linhagem pura e, depois, permite-se que os selecionados participem voluntariamente. É um método que respeita o ritmo lento da evolução, acrescentando-lhe uma dádiva que vem do alto.",
+ "ch16:11": "3. O mundo mais difícil",
+ "ch16:12": "Urântia não era um mundo normal. Os Portadores da Vida, vendo que o progresso biológico das raças se aproximava do seu apogeu, pediram um Filho Material, e pouco menos de cem anos depois da inspeção chegaram Adão e Eva (73:0.1, 73:0.3). Mas o que encontraram foi um planeta atrasado pela rebelião e colocado sob o isolamento espiritual. As raças eram biologicamente adequadas, mas nunca haviam sido purgadas das suas linhagens defeituosas (75:1.2); o povo estava totalmente despreparado para aceitar a irmandade dos homens, e a sua fala estava dispersa em centenas de dialetos (75:1.3).",
+ "ch16:14": "Além disso, estavam isolados. Depois da partida antecipada dos administradores Melquisedeques, não havia meio de consultar os seus superiores (75:1.4). Durante mais de cem anos de esforços, o mundo fora do Jardim quase não melhorou (75:0.1). O revelador aponta de antemão de onde viria o seu fracasso.",
+ "ch16:16": "4. A falta de Eva e a escolha de Adão",
+ "ch16:17": "Caligástia visitava freqüentemente o Jardim, mas Adão e Eva mostraram-se intransigentes diante das suas propostas de acomodação. E aqui o revelador confirma de novo um princípio do capítulo anterior: “nem Caligástia nem o seu parceiro, tinham poder para influenciar qualquer indivíduo contra a sua própria vontade” (75:2.1). Assim, o Príncipe caído desistiu de Adão e tentou um ataque em flanco contra Eva (75:2.3). O seu canal foi Serapatátia, um líder dos noditas. Serapatátia simpatizava sinceramente com a causa de Adão e era totalmente honesto, mas não podia esperar pelo tempo que levaria para formar plenamente a raça violeta.",
+ "ch16:19": "A proposta de Serapatátia era dar aos noditas um líder de origem parcialmente violeta e, assim, uni-los mais estreitamente ao Jardim (75:3.5). Seguindo esse plano, que amadureceu durante mais de cinco anos, Eva encontrou-se com Cano, um líder nodita, e consentiu em acrescentar o seu próprio pequeno esquema de salvação do mundo ao plano divino (75:3.7–3.9). Solônia, a voz do Jardim, define com estas palavras o caráter desse ato.",
+ "ch16:22": "Esse princípio, de que os bons motivos não justificam os maus métodos, é o cerne doutrinário da história de Adão. A escolha de Adão foi de outro caráter. No dia seguinte ao passo errado de Eva, ele procurou Laota, uma mulher nodita, e cometeu a mesma loucura.",
+ "ch16:24": "Essa escolha de Adão foi um erro de julgamento, mas o seu motivo foi uma afeição supramortal pela sua companheira. Ele não podia suportar a idéia de passar os anos em Urântia sozinho, sem Eva (75:5.2). Contudo, as conseqüências da falta não pararam naqueles que a cometeram. Os habitantes enfurecidos do Jardim destruíram um assentamento nodita vizinho, e Serapatátia, tomado de remorso, tirou a própria vida (75:5.3–5.4). O revelador registra sobre quem recaiu essa dor.",
+ "ch16:26": "Logo um exército dos noditas marchou sobre o Jardim. Os Melquisedeques recusaram-se a aconselhar Adão e disseram-lhe apenas que fizesse como achasse melhor (75:6.1). O princípio de que o céu não interfere na escolha humana foi mantido mesmo nesse momento. E Adão tomou mais uma decisão.",
+ "ch16:28": {
+  "cap": "Tabela 16.3  O curso dos acontecimentos que levaram à falta",
+  "rows": [
+   [
+    "Etapa",
+    "Descrição",
+    "Fonte"
+   ],
+   [
+    "Direção da tentação",
+    "Caligástia faz um ataque em flanco contra Eva em vez de Adão",
+    "75:2.3"
+   ],
+   [
+    "Canal",
+    "Serapatátia, um líder nodita, sincero mas impaciente",
+    "75:3.3, 75:3.6"
+   ],
+   [
+    "Proposta",
+    "Produzir um líder nodita de sangue violeta e unir os noditas ao Jardim",
+    "75:3.5"
+   ],
+   [
+    "O ato de Eva",
+    "Encontro secreto com Cano; acréscimo do seu próprio plano ao plano divino",
+    "75:3.7, 75:3.9"
+   ],
+   [
+    "O ato de Adão",
+    "Escolheu deliberadamente compartilhar do destino de Eva",
+    "75:5.2"
+   ],
+   [
+    "A tragédia que se seguiu",
+    "Destruição de um assentamento nodita; longas guerras entre adamitas e noditas",
+    "75:5.3, 75:5.9"
+   ]
+  ]
+ },
+ "ch16:29": "5. O veredicto: falta, mas não rebelião",
+ "ch16:30": "Gabriel pronunciou o veredicto. O Adão e a Eva de Urântia foram julgados em falta, por haverem violado o pacto da sua missão de confiança (75:7.1). Mas os juízes de Sálvington absolveram-nos da acusação de desrespeito ao governo do universo (75:7.2). Foram degradados ao status de mortais, e o acesso às energias armazenadas na árvore da vida foi-lhes negado (75:7.3, 75:7.6). O revelador deixa claro o significado desse veredicto.",
+ "ch16:32": "A distinção feita no capítulo anterior aplica-se aqui com exatidão. O ato de Eva foi uma falha na adaptação dos planos, isto é, o mal. A rebelião de Lúcifer foi uma resistência proposital à realidade divina, isto é, o pecado. Por isso, também os seus desfechos diferem. No segundo jardim, Adão e Eva foram informados de que o seu arrependimento havia sido aceito. A sua transgressão havia sido um erro de julgamento, e não uma rebelião deliberada (76:5.1). E a eles, agora mortais, aconteceu algo que nunca havia acontecido antes.",
+ "ch16:34": "Os Ajustadores, que eles não possuíam como Filhos Materiais, passaram a residir neles quando se tornaram mortais. A sua degradação de status foi, ao mesmo tempo, o começo de um novo caminho. Adão viveu 530 anos e, no terceiro dia depois da sua morte, foi despertado, junto com Eva, numa ressurreição especial (76:5.5, 76:6.2). Eles passaram pelos mundos da ascensão e chegaram a Jerusém.",
+ "ch16:36": {
+  "cap": "Tabela 16.4  As conseqüências vividas por Adão e Eva",
+  "rows": [
+   [
+    "Domínio",
+    "Conseqüência",
+    "Fonte"
+   ],
+   [
+    "Status",
+    "Degradados de Filhos Materiais a mortais",
+    "75:7.3"
+   ],
+   [
+    "Vida",
+    "Negado o acesso às energias da árvore da vida, levando à dissolução do corpo mortal",
+    "75:7.5, 75:7.6"
+   ],
+   [
+    "Filhos",
+    "Dois terços dos filhos na idade da escolha, e todas as crianças mais novas, foram para Edêntia",
+    "75:6.3"
+   ],
+   [
+    "Culpa",
+    "Absolvidos da acusação de rebelião; julgados apenas em falta",
+    "75:7.2, 75:7.7"
+   ],
+   [
+    "Desfecho espiritual",
+    "Arrependimento, residência do Ajustador, ressurreição especial, volta a Jerusém como cidadãos ascendentes",
+    "76:5.2, 76:6.3"
+   ]
+  ]
+ },
+ "ch16:37": "6. Não houve uma “queda do homem”",
+ "ch16:38": "Foi a humanidade, então, amaldiçoada por causa de Adão? A resposta de O Livro de Urântia é enfática.",
+ "ch16:40": "Adão e Eva caíram do status de Filhos Materiais ao de mortais, mas isso não foi uma queda da humanidade (75:8.1). O revelador remove diretamente a antiga acusação lançada contra Adão.",
+ "ch16:42": "Fracasso e contribuição estão presentes juntos num mesmo homem. O Livro de Urântia nem enfeita Adão como herói nem o marca como pecador. Mesmo no segundo jardim, Adão empenhou-se em deixar atrás de si o seu plasma de vida, e por meio dele 1 570 homens e mulheres superiores foram acrescentados ao mundo (76:4.8). Depois, a raça violeta espalhou-se pela civilização mundial por meio dos anditas. Mas, como o plano malogrou cedo, a humanidade recebeu apenas uma pequena parte. O revelador relaciona esse resultado com o medo que as pessoas experimentam hoje.",
+ "ch16:44": "A fraca resistência às doenças vem da mesma causa (76:4.7). O revés é real, mas não é uma culpa herdada; é uma dádiva recebida em menor medida. E o espaço vazio deixado por essa dádiva menor deve agora ser preenchido pelo esforço humano. O revelador diz que Urântia, havendo fracassado na realização da harmonia entre as raças pela técnica Adâmica, deve resolver o problema do aperfeiçoamento racial por outros métodos, basicamente humanos (51:5.7).",
+ "ch16:45": {
+  "cap": "Tabela 16.5  A doutrina da queda e a compreensão de O Livro de Urântia",
+  "rows": [
+   [
+    "Pergunta",
+    "Compreensão comum",
+    "A explicação de O Livro de Urântia",
+    "Fonte"
+   ],
+   [
+    "A humanidade caiu?",
+    "A humanidade caiu por meio de Adão",
+    "Não houve queda do homem; a humanidade foi elevada",
+    "75:8.1, 75:8.2"
+   ],
+   [
+    "Adão é a causa de uma maldição?",
+    "A causa de uma maldição sobre a raça humana",
+    "Não deveria ser considerado como a causa de uma maldição",
+    "75:8.3"
+   ],
+   [
+    "O pecado é herdado?",
+    "Todos os descendentes herdam a culpa",
+    "A culpa moral do pecado é totalmente pessoal",
+    "67:7.7"
+   ],
+   [
+    "O fim de Adão",
+    "Expulsão e morte",
+    "Arrependimento, ressurreição e cidadania ascendente em Jerusém",
+    "76:5.1, 76:6.3"
+   ]
+  ]
+ },
+ "ch16:46": "A história de Adão deixa uma lição para todos os que ascendem.",
+ "ch16:48": "No entanto, o infortúnio não foi todo o destino de Urântia. Como o fracasso de Adão e a rebelião de Caligástia lançaram este planeta nas trevas, essas mesmas trevas tornaram-se o pano de fundo contra o qual Michael escolheu este mundo como cenário da sua auto-outorga (76:5.7). O revelador escreve.",
+ "ch16:50": "Para concluir: uma missão de paciência",
+ "ch16:51": "A doutrina de Adão e Eva desdobra-se deste modo. Os Filhos e as Filhas Materiais vêm como uma dádiva de graça física para elevar biologicamente as raças evolucionárias. A sua missão é um plano de paciência, que forma uma linhagem pura e espera pela participação voluntária. Em Urântia, encontraram as condições mais difíceis; Eva escolheu um método errado a partir de bons motivos, e Adão, por amor, compartilhou do seu destino. Foi o mal, mas não a rebelião, e para eles, uma vez arrependidos, abriu-se o caminho do Ajustador, da ressurreição e da ascensão. A humanidade não caiu, mas foi, ao contrário, elevada. E o revelador lê todos esses erros como sinal de um universo em que a personalidade governa: “A perfeição é a nossa meta eterna, não a nossa origem” (75:8.6). Depois de Adão, as trevas espirituais aprofundaram-se, e a luz da verdade corria o risco de se apagar. O próximo capítulo examina Maquiventa Melquisedeque, que veio para manter viva essa luz, e a difusão mundial dos seus ensinamentos.",
+ "ch16:52": {
+  "title": "Perguntas para reflexão",
+  "items": [
+   "1. Se a falta de Eva representou “o caminho errado de se alcançar fins probos” (75:4.6), quando tentei eu, com boas intenções, contornar o caminho divino?",
+   "2. Os Ajustadores passaram a residir em Adão e Eva somente depois que eles se tornaram mortais (76:5.2). O que isso nos diz sobre a experiência do fracasso e do arrependimento?",
+   "3. De que modo o ensinamento de que não houve uma “queda do homem” (75:8.2) muda a maneira como vejo a mim mesmo e a humanidade?"
   ]
  }
 }

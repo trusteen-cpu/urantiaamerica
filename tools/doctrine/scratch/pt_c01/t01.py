@@ -71,6 +71,6 @@ T = {
  "ch01:50": {"title": "Perguntas para reflexão", "items": [
    "1. Se o EU SOU é uma concessão filosófica à mente finita (0:3.23), em que difere a minha atitude quando aceito esse conceito e quando adoro o Pai Universal?",
    "2. O que muda na maneira como vejo o universo e a minha própria vida o ensinamento de que é o livre-arbítrio, e não a necessidade mecânica, que está no começo mesmo da realidade (0:3.21)?",
-   "3. Se a face que o Infinito volta para todas as personalidades é a face de um Pai (105:1.8), o que escolho diante do incognoscível: o medo ou a confiança?"]]},
+   "3. Se a face que o Infinito volta para todas as personalidades é a face de um Pai (105:1.8), o que escolho diante do incognoscível: o medo ou a confiança?"]},
 }
 merge(T)
