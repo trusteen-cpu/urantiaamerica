@@ -1,0 +1,1050 @@
+{
+ "ui": {
+  "title": "376 listas clave de El libro de Urantia",
+  "meta_desc": "Las 376 listas numeradas que aparecen en el texto de El libro de Urantia, presentadas como tablas con comentario. Elija una lista a la izquierda para verla.",
+  "burger": "☰ Listas",
+  "h1": "376 listas clave de El libro de Urantia",
+  "sub": "Listas numeradas del texto, como tablas con comentario: elija una lista a la izquierda",
+  "placeholder": "Buscar por número, título o contenido (p. ej., siete, Ajustador)",
+  "loading": "Cargando…",
+  "part1": "Parte I  El universo central y los superuniversos",
+  "part2": "Parte II  El universo local",
+  "part3": "Parte III  La historia de Urantia",
+  "part4": "Parte IV  La vida y las enseñanzas de Jesús",
+  "count_all": "{n} listas",
+  "count_found": "{n} listas encontradas",
+  "list_no": "Lista {n}",
+  "book": "El libro de Urantia",
+  "commentary": "COMENTARIO",
+  "prev": "← Anterior · Lista {n}",
+  "next": "Lista {n} · Siguiente →",
+  "error": "No se pudieron cargar las listas. Vuelva a intentarlo en un momento."
+ },
+ "L001": {
+  "t": "Siete niveles de funcionamiento de la Deidad Total y tres niveles de la realidad",
+  "cols": [
+   "",
+   "Nivel",
+   "Característica"
+  ],
+  "rows": [
+   [
+    "1",
+    "Estático",
+    "Deidad autocontenida y autoexistente"
+   ],
+   [
+    "2",
+    "Potencial",
+    "Deidad autovolitiva y con autopropósito"
+   ],
+   [
+    "3",
+    "Asociativo",
+    "Deidad autopersonalizada y divinamente fraternal"
+   ],
+   [
+    "4",
+    "Creador",
+    "Deidad autodistributiva y divinamente revelada"
+   ],
+   [
+    "5",
+    "Evolutivo",
+    "Deidad autoexpansiva e identificada con la criatura"
+   ],
+   [
+    "6",
+    "Supremo",
+    "Deidad autoexperiencial y unificadora de criatura-Creador"
+   ],
+   [
+    "7",
+    "Último",
+    "Deidad autoproyectada y que trasciende el tiempo y el espacio"
+   ],
+   [
+    "",
+    "Finito",
+    "Vida de la criatura y limitaciones espacio-temporales; el nivel de Deidad de la Supremacía"
+   ],
+   [
+    "",
+    "Absonito",
+    "Sin comienzos ni fines, trascendencia del tiempo y del espacio; Ultimidad"
+   ],
+   [
+    "",
+    "Absoluto",
+    "Sin comienzo, sin fin, sin tiempo y sin espacio; la Trinidad lograda"
+   ]
+  ],
+  "d": "El Prólogo afirma que la Deidad funciona en niveles personales, prepersonales y superpersonales, y luego enumera siete niveles en los que la Deidad Total es funcional. Los niveles estático, potencial y asociativo describen a la Deidad que existe, se propone y se personaliza dentro de sí misma; en los niveles creador y evolutivo la Deidad se distribuye y se identifica con las criaturas. Los niveles supremo y último son la Deidad experiencial que supercontrola el gran universo y el universo maestro. A continuación el texto divide la realidad en los niveles finito, absonito y absoluto, y los hace corresponder con la Supremacía de la Deidad, la Ultimidad de la Deidad y la Trinidad. Juntas, estas listas forman el marco cosmológico de todo el libro y son la clave de sus enseñanzas posteriores sobre el Supremo y el Último."
+ },
+ "L002": {
+  "t": "Siete tipos concebibles de perfección",
+  "cols": [
+   "",
+   "Tipo"
+  ],
+  "rows": [
+   [
+    "1",
+    "Perfección absoluta en todos los aspectos"
+   ],
+   [
+    "2",
+    "Perfección absoluta en algunas fases y perfección relativa en todos los demás aspectos"
+   ],
+   [
+    "3",
+    "Aspectos absolutos, relativos e imperfectos en asociaciones variadas"
+   ],
+   [
+    "4",
+    "Perfección absoluta en algunos respectos, imperfección en todos los demás"
+   ],
+   [
+    "5",
+    "Perfección absoluta en ninguna dirección, perfección relativa en todas las manifestaciones"
+   ],
+   [
+    "6",
+    "Perfección absoluta en ninguna fase, relativa en algunas, imperfecta en otras"
+   ],
+   [
+    "7",
+    "Perfección absoluta en ningún atributo, imperfección en todos"
+   ]
+  ],
+  "d": "El Prólogo explica que la divinidad puede ser perfecta, como en el Paraíso, imperfecta, como en la evolución espacio-temporal, o relativa, como en ciertos niveles de Havona, y luego expone siete tipos concebibles de perfección. La lista comienza con la perfección absoluta en todos los aspectos y va cambiando paso a paso la proporción de cualidades absolutas, relativas e imperfectas hasta llegar a la imperfección en todos. Obsérvese que la perfección no se presenta como un simple asunto de tenerla o carecer de ella, sino como una serie graduada de condiciones. Esta distinción muestra que incluso las criaturas mortales imperfectas no están fuera del plan de la divinidad; se encuentran en un sendero que conduce, a través de la perfección relativa, hacia una perfección cada vez más elevada."
+ },
+ "L003": {
+  "t": "Tres niveles de personalidad de la Deidad del Padre Universal",
+  "cols": [
+   "",
+   "Nivel",
+   "Ejemplo"
+  ],
+  "rows": [
+   [
+    "1",
+    "Prepersonal",
+    "El ministerio de los fragmentos del Padre, tales como los Ajustadores del Pensamiento"
+   ],
+   [
+    "2",
+    "Personal",
+    "La experiencia evolucionaria de los seres creados y procreados"
+   ],
+   [
+    "3",
+    "Superpersonal",
+    "Las existencias eventuadas de ciertos seres absonitos y otros seres asociados"
+   ]
+  ],
+  "d": "La conciencia cósmica implica el reconocimiento de una Primera Causa, la única realidad no causada. El Prólogo afirma que Dios, el Padre Universal, funciona en tres niveles de personalidad de la Deidad de valor subinfinito y de expresión relativa de divinidad. En el nivel prepersonal actúa mediante fragmentos del Padre, tales como los Ajustadores del Pensamiento; en el nivel personal, en la experiencia evolucionaria de las criaturas; en el nivel superpersonal, en las existencias eventuadas de los seres absonitos. Lo esencial de la lista es que Dios es personal, pero no está confinado dentro de los límites de la personalidad. Por eso el texto añade inmediatamente que la palabra Dios requiere una definición diferente en cada nivel de funcionamiento de la Deidad."
+ },
+ "L004": {
+  "t": "Siete significados de la palabra Dios",
+  "cols": [
+   "",
+   "Nombre",
+   "Significado"
+  ],
+  "rows": [
+   [
+    "1",
+    "Dios el Padre",
+    "Creador, Controlador y Sostenedor; el Padre Universal, la Primera Persona de la Deidad"
+   ],
+   [
+    "2",
+    "Dios el Hijo",
+    "Creador Coordinado, Controlador de Espíritu y Administrador Espiritual; el Hijo Eterno"
+   ],
+   [
+    "3",
+    "Dios el Espíritu",
+    "Actor Conjunto, Integrador Universal y Dotador de Mente; el Espíritu Infinito"
+   ],
+   [
+    "4",
+    "Dios el Supremo",
+    "El Dios del tiempo y del espacio en autoactualización y en autoevolución"
+   ],
+   [
+    "5",
+    "Dios el Séptuple",
+    "La personalidad de la Deidad dondequiera que ésta funcione realmente en el tiempo y en el espacio"
+   ],
+   [
+    "6",
+    "Dios el Último",
+    "El Dios que eventúa del supertiempo y del espacio trascendido"
+   ],
+   [
+    "7",
+    "Dios el Absoluto",
+    "El Dios experiencializante de los valores superpersonales y los significados de divinidad trascendidos"
+   ]
+  ],
+  "d": "El Prólogo anuncia desde el principio que la palabra Dios se utiliza en estos documentos con siete significados. Los tres primeros son las personas de la Trinidad del Paraíso, la Deidad existencial desde la eternidad. Los cuatro últimos son la Deidad experiencial, que crece o surge junto con la experiencia de las criaturas en el tiempo y el espacio: Dios el Supremo, el Séptuple, el Último y el Absoluto. Conocer esta distinción evita que el lector confunda los niveles a los que se refiere la palabra Dios a lo largo del libro. La lista condensa además una de las ideas distintivas de esta revelación: Dios no solo es perfecto y completo, sino que también se revela progresivamente a medida que crecen los universos."
+ },
+ "L005": {
+  "t": "Siete fases de la realidad infinita: los siete Absolutos coordinados",
+  "cols": [
+   "",
+   "Absoluto"
+  ],
+  "rows": [
+   [
+    "1",
+    "La Primera Fuente y Centro"
+   ],
+   [
+    "2",
+    "La Segunda Fuente y Centro"
+   ],
+   [
+    "3",
+    "La Tercera Fuente y Centro"
+   ],
+   [
+    "4",
+    "La Isla del Paraíso"
+   ],
+   [
+    "5",
+    "El Absoluto de Deidad"
+   ],
+   [
+    "6",
+    "El Absoluto Universal"
+   ],
+   [
+    "7",
+    "El Absoluto No Cualificado"
+   ]
+  ],
+  "d": "El Prólogo declara que la realidad infinita total es existencial en siete fases y como siete Absolutos coordinados. Los tres primeros son el Padre, el Hijo y el Espíritu, las tres personas de la Deidad; el cuarto es la Isla del Paraíso, no personal y fuente de la materia. Los tres últimos son el Absoluto de Deidad, que contiene los potenciales de la realidad deificada; el Absoluto No Cualificado, de la realidad no deificada; y el Absoluto Universal, que resuelve y unifica la tensión entre ellos. Obsérvese que lo personal y lo impersonal, lo actual y lo potencial, quedan todos comprendidos en estos siete. Sin embargo, la raíz de los siete es la Primera Fuente y Centro, de modo que Dios es primordial, sin cualificación alguna, en relación con la realidad total."
+ },
+ "L006": {
+  "t": "Siete relaciones de la Primera Fuente y Centro con el universo",
+  "cols": [
+   "",
+   "Realidad",
+   "Centro de convergencia"
+  ],
+  "rows": [
+   [
+    "1",
+    "Las fuerzas de la gravedad de los universos materiales",
+    "El centro de gravedad del Paraíso bajo"
+   ],
+   [
+    "2",
+    "Las fuerzas de la mente",
+    "El Espíritu Infinito; la mente cósmica en los Siete Espíritus Rectores; Majestón"
+   ],
+   [
+    "3",
+    "Las fuerzas de espíritu del universo",
+    "El Hijo Eterno"
+   ],
+   [
+    "4",
+    "La capacidad ilimitada para acción de la deidad",
+    "El Absoluto de Deidad"
+   ],
+   [
+    "5",
+    "La capacidad ilimitada para respuesta de infinidad",
+    "El Absoluto No Cualificado"
+   ],
+   [
+    "6",
+    "Los dos Absolutos, Cualificado y No Cualificado",
+    "Coordinados y unificados en el Absoluto Universal"
+   ],
+   [
+    "7",
+    "La personalidad potencial de un ser moral",
+    "La personalidad del Padre Universal"
+   ]
+  ],
+  "d": "La Primera Fuente y Centro es primordial en todos los dominios, y ninguna cosa ni ser existe sino en relación con él y en dependencia de él. El Prólogo resume esa relación en siete líneas. La gravedad material converge en el Paraíso bajo, la mente en el Espíritu Infinito y el espíritu en el Hijo Eterno; las capacidades para la acción de la deidad y la respuesta de infinidad residen en dos Absolutos, que a su vez son unificados en el Absoluto Universal. Es significativo que el último punto centre la personalidad de todo ser moral en la personalidad del Padre Universal. Así como cada fuerza del universo converge en su propio centro, la personalidad del ser humano está vinculada directamente con el Padre."
+ },
+ "L007": {
+  "t": "Tres fases primarias en las que la realidad es realizable",
+  "cols": [
+   "",
+   "Fase",
+   "Alcance"
+  ],
+  "rows": [
+   [
+    "1",
+    "La realidad no deificada",
+    "Desde los dominios de la energía de lo no personal hasta la presencia del Absoluto No Cualificado"
+   ],
+   [
+    "2",
+    "La realidad deificada",
+    "Desde la personalidad finita más baja hasta la presencia del Absoluto de Deidad"
+   ],
+   [
+    "3",
+    "La realidad interasociada",
+    "Un vasto dominio, potencial y en actualización, comprendido dentro del Absoluto Universal"
+   ]
+  ],
+  "d": "La realidad se origina en la volición infinita del Padre Universal y es realizable en tres fases primarias en muchos niveles del universo. La realidad no deificada va desde la energía no personal hasta el Absoluto No Cualificado; la realidad deificada abarca todos los reinos de la personalidad hasta el Absoluto de Deidad. Entre ambas se extiende un vasto dominio de realidad interasociada, difícil de identificar para los seres subdeificados, gran parte del cual está comprendida dentro del Absoluto Universal. Las tres fases corresponden exactamente a los tres Absolutos: el de Deidad, el No Cualificado y el Universal. Leída junto con la afirmación que sigue, según la cual el Absoluto Universal resuelve la tensión de divinidad iniciada por el Padre, la lista pone a la vista con claridad la estructura primaria de la realidad."
+ },
+ "L008": {
+  "t": "Cuatro divisiones de la realidad desde el punto de vista del tiempo y del espacio",
+  "cols": [
+   "",
+   "División",
+   "Explicación"
+  ],
+  "rows": [
+   [
+    "1",
+    "Actual y Potencial",
+    "El Hijo Eterno es una actualidad absoluta; el hombre mortal, una potencialidad no realizada"
+   ],
+   [
+    "2",
+    "Absoluto y Subabsoluto",
+    "Existencias de la eternidad; absonitas y finitas"
+   ],
+   [
+    "3",
+    "Existencial y Experiencial",
+    "La Deidad Paradisiaca es existencial; el Supremo y el Último, experienciales"
+   ],
+   [
+    "4",
+    "Personal e Impersonal",
+    "Los significados centrados en el Hijo Eterno, separados de las cosas centradas en el Paraíso"
+   ]
+  ],
+  "d": "Tras exponer el concepto primario de la realidad original, el Prólogo vuelve a dividir la realidad, desde el punto de vista del tiempo y del espacio, en cuatro pares: actual y potencial, absoluto y subabsoluto, existencial y experiencial, personal e impersonal. Cada par va acompañado de un ejemplo, y es especialmente llamativo el contraste entre el Hijo Eterno como actualidad espiritual absoluta y el hombre mortal como potencialidad espiritual en gran parte no realizada. La cuarta división explica que la acción de libre albedrío del Padre separó por siempre los valores mente-espíritu-personales centrados en el Hijo Eterno de las cosas que están centradas en la Isla del Paraíso. Estos conceptos emparejados forman un vocabulario básico que se emplea una y otra vez en la teología y la cosmología que siguen."
+ },
+ "L009": {
+  "t": "Cuatro niveles de la realidad universal en la experiencia humana en Urantia",
+  "cols": [
+   "",
+   "Nivel",
+   "Descripción"
+  ],
+  "rows": [
+   [
+    "1",
+    "Cuerpo",
+    "El organismo material o físico del hombre"
+   ],
+   [
+    "2",
+    "Mente",
+    "El mecanismo del organismo humano que piensa, percibe y siente"
+   ],
+   [
+    "3",
+    "Espíritu",
+    "El espíritu divino que reside en la mente del hombre, el Ajustador del Pensamiento"
+   ],
+   [
+    "4",
+    "Alma",
+    "Una adquisición experiencial; el alma morontial, inmortal y naciente"
+   ]
+  ],
+  "d": "Las cualidades de la realidad universal representadas por las tres personas de la Deidad y la Isla del Paraíso se manifiestan en la experiencia humana en Urantia en cuatro niveles: cuerpo, mente, espíritu y alma. El cuerpo es el mecanismo electroquímico viviente de origen animal; la mente es la inteligencia que va hacia arriba, mediante la adoración y la sabiduría, hasta el nivel del espíritu. El espíritu es el Ajustador del Pensamiento residente, y el alma es una nueva realidad morontial de la que el Ajustador es el padre y la mente material es la madre. Inmediatamente después de la lista, el texto añade que la personalidad no es ninguno de estos cuatro, sino la única realidad invariable que los unifica a todos. Es una imagen del ser humano mucho más precisa que la antigua división en cuerpo y alma."
+ },
+ "L010": {
+  "t": "Tres manifestaciones de la energía física",
+  "cols": [
+   "",
+   "Término",
+   "Significado"
+  ],
+  "rows": [
+   [
+    "1",
+    "Fuerza cósmica",
+    "Energías que derivan del Absoluto No Cualificado y que hasta el momento no responden a la gravedad paradisiaca"
+   ],
+   [
+    "2",
+    "Energía emergente",
+    "Responde a la gravedad Paradisiaca pero aún no responde a la gravedad local o lineal"
+   ],
+   [
+    "3",
+    "Poder del universo",
+    "Responde directamente a la gravedad lineal; el nivel electrónico de la materia-energía"
+   ]
+  ],
+  "d": "Los reveladores explican que, debido a la pobreza del lenguaje, deben asignar múltiples significados a fuerza, energía y poder, y luego definen tres términos para las manifestaciones de la energía física. El criterio es la respuesta a la gravedad. La fuerza cósmica deriva del Absoluto No Cualificado, pero aún no responde a la gravedad paradisiaca; la energía emergente responde a la gravedad paradisiaca, pero todavía no a la gravedad lineal: es el nivel preelectrónico; el poder del universo responde directamente a la gravedad lineal: es el nivel electrónico de la materia-energía. Estas tres etapas forman un mapa compacto de cómo la materia que conocemos surge de los potenciales del espacio. Siguen siendo la referencia básica al leer los documentos posteriores sobre la física y la energía."
+ },
+ "L011": {
+  "t": "La presencia dual de la Deidad",
+  "cols": [
+   "",
+   "Presencia",
+   "Significado"
+  ],
+  "rows": [
+   [
+    "1",
+    "Existencial",
+    "Seres de existencia eterna, pasada, presente y futura"
+   ],
+   [
+    "2",
+    "Experiencial",
+    "Seres que se actualizan en el presente post-Havona pero cuya existencia no tiene fin a lo largo de la eternidad futura"
+   ]
+  ],
+  "d": "El mecanismo de la Deidad del universo maestro es doble en lo que respecta a las relaciones con la eternidad. Dios el Padre, Dios el Hijo y Dios el Espíritu son existenciales, eternos en el pasado, el presente y el futuro; Dios el Supremo, Dios el Último y Dios el Absoluto son experienciales y se actualizan en las épocas post-Havona. Es importante que las Deidades experienciales tengan un origen, pero sean eternas en su destino. Habiendo logrado la expresión existencial en el Hijo y el Espíritu, el Padre está logrando ahora la expresión experiencial en niveles de deidad hasta ahora no revelados. Esta breve lista resume en dos palabras el concepto distintivo de esta revelación: Dios es completo y perfecto, y sin embargo existe también una Deidad que crece junto con los universos."
+ },
+ "L012": {
+  "t": "El acercamiento séptuplo de la criatura evolucionaria a la Deidad",
+  "cols": [
+   "",
+   "Personalidad de la Deidad"
+  ],
+  "rows": [
+   [
+    "1",
+    "Los Hijos Creadores Paradisiacos"
+   ],
+   [
+    "2",
+    "Los Ancianos de los Días"
+   ],
+   [
+    "3",
+    "Los Siete Espíritus Rectores"
+   ],
+   [
+    "4",
+    "El Ser Supremo"
+   ],
+   [
+    "5",
+    "Dios el Espíritu"
+   ],
+   [
+    "6",
+    "Dios el Hijo"
+   ],
+   [
+    "7",
+    "Dios el Padre"
+   ]
+  ],
+  "d": "Para compensar el estado de finitud y las limitaciones de concepto de la criatura, el Padre Universal ha establecido un acercamiento séptuplo de las criaturas evolucionarias a la Deidad. El orden de la lista es el camino del ascenso. El descubrimiento experiencial de Dios comienza con el reconocimiento de la divinidad del Hijo Creador del universo local, asciende a través de los Ancianos de los Días del superuniverso y de uno de los Siete Espíritus Rectores, y llega finalmente al descubrimiento del Padre Universal en el Paraíso. Estos siete constituyen a Dios el Séptuple en el tiempo y el espacio, que algún día se poder-personalizará en el Ser Supremo. El sentido de la lista es que se ha dispuesto una escalera para los mortales, que no pueden alcanzar directamente al Padre infinito, y que conduce desde la Deidad más cercana hasta la más distante."
+ },
+ "L013": {
+  "t": "Las funciones combinadas denominadas la acción del Absoluto Universal",
+  "cols": [
+   "",
+   "Absoluto",
+   "Función"
+  ],
+  "rows": [
+   [
+    "1",
+    "El Absoluto de Deidad",
+    "El activador omnipotente; el Absoluto Cualificado dentro del cual toman lugar todas las actividades de la divinidad"
+   ],
+   [
+    "2",
+    "El Absoluto No Cualificado",
+    "El mecanizador totalmente eficiente; no personal, extradivino, no deificado, y sin embargo una realidad positiva"
+   ],
+   [
+    "3",
+    "El Absoluto Universal",
+    "Resolución de la tensión entre lo deificado y lo no deificado; coordinador asociativo"
+   ]
+  ],
+  "d": "Cuando no es posible distinguir plenamente el Absoluto de Deidad del Absoluto No Cualificado, su función combinada se denomina la acción del Absoluto Universal. El Prólogo describe luego a los tres por turno. El Absoluto de Deidad es el activador omnipotente, cuya respuesta se hace siempre en términos del bienestar de la entera creación y de las posibilidades de toda la eternidad futura. El Absoluto No Cualificado carece de personalidad y de divinidad, pero no es un mero negativismo filosófico, sino una realidad positiva que impregna el gran universo, distinta tanto del panteísmo como de la antigua hipótesis del éter. El Absoluto Universal resuelve la tensión creada cuando el Padre diferenció la realidad en deificada y no deificada. Su relación muestra cómo los potenciales del universo se despliegan en orden."
+ },
+ "L014": {
+  "t": "Las dos Trinidades post-Havona",
+  "cols": [
+   "",
+   "Trinidad",
+   "Composición"
+  ],
+  "rows": [
+   [
+    "1",
+    "La Trinidad Última",
+    "El Ser Supremo, las Personalidades Supremas Creadoras y los Arquitectos absonitos del Universo Maestro"
+   ],
+   [
+    "2",
+    "La Trinidad Absoluta",
+    "Dios el Supremo, Dios el Último y el no revelado Consumador del Destino-Universo"
+   ]
+  ],
+  "d": "Más allá de la eterna Trinidad del Paraíso, el Prólogo presenta dos Trinidades experienciales que no se hallan por ahora plenamente manifiestas, sino que están en proceso de realización en el universo. La Trinidad Última consistirá en el Ser Supremo, las Personalidades Supremas Creadoras y los Arquitectos absonitos del Universo Maestro, que no son creadores ni criaturas; de su unificación Dios el Último adquirirá poder y se personalizará. La Trinidad Absoluta consistirá en Dios el Supremo, Dios el Último y el no revelado Consumador del Destino-Universo, y haría experiencial la Deidad Absoluta. Los reveladores dicen con franqueza que la Trinidad Última se está unificando hasta su cumplimiento, pero que verdaderamente dudan de la plena unificación de la Trinidad Absoluta. La lista muestra cómo surgen las Deidades experienciales de la asociación de Deidades anteriores."
+ },
+ "L015": {
+  "t": "Tres experiencias que revelan al Ajustador divino",
+  "cols": [
+   "Fenómeno",
+   "Descripción"
+  ],
+  "rows": [
+   [
+    "Conciencia de Dios",
+    "La capacidad intelectual de conocer a Dios"
+   ],
+   [
+    "Búsqueda de Dios",
+    "El impulso espiritual de encontrar a Dios"
+   ],
+   [
+    "El deseo plenamente sincero de hacer la voluntad del Padre",
+    "El anhelo de la personalidad de ser como Dios"
+   ]
+  ],
+  "d": "La existencia de Dios no puede probarse nunca mediante el experimento o la lógica, pero se demuestra en la experiencia humana. El documento 1 encuentra esa evidencia en el Ajustador del Pensamiento que reside en la mente humana. La capacidad de conocer a Dios, el impulso de encontrarlo y el anhelo de ser como él son las señales de la presencia del Ajustador. Obsérvese que los tres fenómenos corresponden a tres dimensiones del ser humano: el intelecto, el espíritu y la personalidad. El consuelo de esta lista es que el mismo corazón que busca a Dios es ya una prueba de que Dios está cerca."
+ },
+ "L016": {
+  "t": "Tres condiciones que limitan el poder de Dios",
+  "cols": [
+   "",
+   "Condición",
+   "Contenido"
+  ],
+  "rows": [
+   [
+    "1",
+    "La naturaleza de Dios",
+    "Su amor infinito, la verdad, la belleza y la bondad"
+   ],
+   [
+    "2",
+    "La voluntad de Dios",
+    "Su ministerio de misericordia y la relación paternal con las personalidades del universo"
+   ],
+   [
+    "3",
+    "La ley de Dios",
+    "La rectitud y justicia de la eterna Trinidad del Paraíso"
+   ]
+  ],
+  "d": "La omnipotencia divina está perfectamente coordinada con los demás atributos de la personalidad de Dios; no es un poder de hacer cualquier cosa. El documento 3 afirma que el poder de Dios está ordinariamente limitado en su manifestación espiritual en el universo por tres condiciones. Dios no hace nada contrario a su amor y su bondad; actúa de acuerdo con su voluntad paternal de misericordia hacia sus criaturas; y sostiene la ley de la rectitud y la justicia de la Trinidad. La clave es que nada exterior ata a Dios; su propia naturaleza, su voluntad y su ley determinan cómo se usa su poder. Leída junto con la afirmación anterior de que muchas cosas en los mundos evolucionarios no son obra personal del Padre Universal, la lista ofrece una pista para el problema del sufrimiento."
+ },
+ "L017": {
+  "t": "Nueve inevitabilidades de la vida de la criatura evolutiva",
+  "cols": [
+   "",
+   "Cualidad deseable",
+   "Ambiente necesario"
+  ],
+  "rows": [
+   [
+    "1",
+    "El valor, la fuerza de carácter",
+    "El enfrentamiento con dificultades y la reacción a los desencantos"
+   ],
+   [
+    "2",
+    "El altruismo, el servicio a los semejantes",
+    "Situaciones de desigualdad social"
+   ],
+   [
+    "3",
+    "La esperanza, la magnitud de la confianza",
+    "Inseguridades e incertidumbres recurrentes"
+   ],
+   [
+    "4",
+    "La fe, la suprema afirmación del pensamiento humano",
+    "Una mente que siempre sabe menos de lo que puede creer"
+   ],
+   [
+    "5",
+    "El amor a la verdad",
+    "Un mundo donde el error está presente y la falsedad es siempre posible"
+   ],
+   [
+    "6",
+    "El idealismo, el concepto que más se acerca a lo divino",
+    "Un ambiente de bondad y belleza relativas"
+   ],
+   [
+    "7",
+    "La lealtad, la devoción al deber más alto",
+    "Las posibilidades de traición y deserción"
+   ],
+   [
+    "8",
+    "La falta de egoísmo, el espíritu de olvido de sí mismo",
+    "El incesante clamor de un yo inescapable que exige reconocimiento y honor"
+   ],
+   [
+    "9",
+    "El placer, la satisfacción de la felicidad",
+    "La alternativa del dolor y la probabilidad del sufrimiento"
+   ]
+  ],
+  "d": "Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen la soberanía universal de Dios. El documento 3 muestra por qué mediante nueve preguntas. Si el valor es deseable, tiene que haber dificultades; si el altruismo, tiene que haber desigualdad; si la fe, la mente tiene que saber menos de lo que puede creer. Todos los puntos tienen la misma forma: una cualidad preciosa emparejada con el ambiente difícil que se necesita para desarrollarla. Por lo tanto, las dificultades no son una prueba de indiferencia divina, sino una condición de la escuela en la que se forma el carácter. El texto continúa diciendo que el hombre evolutivo debe ser falible si ha de ser libre, y distingue claramente la posibilidad del mal del pecado."
+ },
+ "L018": {
+  "t": "Tres enseñanzas separadas combinadas en el concepto cristiano de Dios",
+  "cols": [
+   "",
+   "Concepto",
+   "Dios"
+  ],
+  "rows": [
+   [
+    "1",
+    "El concepto hebreo",
+    "Dios como vindicador de los valores morales, un Dios justo"
+   ],
+   [
+    "2",
+    "El concepto griego",
+    "Dios como unificador, un Dios de sabiduría"
+   ],
+   [
+    "3",
+    "El concepto de Jesús",
+    "Dios como amigo viviente, Padre amante, la presencia divina"
+   ]
+  ],
+  "d": "El documento 5 diagnostica el concepto cristiano de Dios como un intento de combinar tres enseñanzas separadas. La tradición hebrea enseñaba un Dios justo; la filosofía griega, un Dios de sabiduría que unifica todas las cosas; y Jesús, un Dios que es amigo viviente y Padre amante. Al mezclarse estas enseñanzas, la teología cristiana compuesta encuentra dificultad en alcanzar consistencia, dificultad que se agrava por el hecho de que la doctrina primitiva se basaba en la experiencia religiosa personal de tres personas: Filo, Jesús y Pablo. La lista no pretende menospreciar el cristianismo; ayuda al lector a distinguir, dentro de él, el concepto de Dios propio de Jesús. El texto añade a continuación que Jesús elevó el amor pasivo a un afecto activo que alcanza incluso al malhechor."
+ },
+ "L019": {
+  "t": "Tres grandes satisfacciones de la experiencia religiosa",
+  "cols": [
+   "",
+   "Dimensión",
+   "Satisfacción"
+  ],
+  "rows": [
+   [
+    "1",
+    "Intelectualmente",
+    "La satisfacción de una conciencia humana más unificada"
+   ],
+   [
+    "2",
+    "Filosóficamente",
+    "La substanciación de sus ideales de valores morales"
+   ],
+   [
+    "3",
+    "Espiritualmente",
+    "La experiencia de la compañía divina, las satisfacciones espirituales de la verdadera adoración"
+   ]
+  ],
+  "d": "Los frutos de la experiencia religiosa no están reservados para la vida después de la muerte. El documento 5 dice que el hombre mortal obtiene tres grandes satisfacciones de la experiencia religiosa incluso en los días de su estadía temporal en la tierra. Intelectualmente, su conciencia se vuelve más unificada; filosóficamente, sus ideales de valores morales quedan confirmados como realidades y no como sueños; espiritualmente, prospera en la compañía divina y en la verdadera adoración. Estas tres dimensiones encajan con los tres niveles de la conciencia de Dios descritos inmediatamente después: la conciencia intelectual, la conciencia del alma y la conciencia del espíritu. Lo esencial de la lista es que la religión no es un compartimento de la vida, sino una experiencia que unifica a todo el ser humano."
+ },
+ "L020": {
+  "t": "Tres empresas del plan divino de logro de la perfección",
+  "cols": [
+   "",
+   "Plan",
+   "Contenido"
+  ],
+  "rows": [
+   [
+    "1",
+    "El plan de logro progresivo",
+    "El plan de ascensión evolutiva del Padre Universal; los Ajustadores y la personalidad"
+   ],
+   [
+    "2",
+    "El plan del autootorgamiento",
+    "La empresa del Hijo Eterno de revelar al Padre; el otorgamiento de los Hijos de Dios"
+   ],
+   [
+    "3",
+    "El plan del ministerio de la misericordia",
+    "Proyectado por el Espíritu Infinito, solo y de sí mismo"
+   ]
+  ],
+  "d": "El plan divino de logro de la perfección comprende tres empresas maravillosamente correlacionadas. La primera, el plan de logro progresivo, surge de la propuesta del Padre: «⟦Q 7:4.4⟧Hagamos a las criaturas mortales a nuestra propia imagen⟦/Q⟧», e incluye la dádiva de los Ajustadores del Pensamiento y de la personalidad. La segunda, el plan del autootorgamiento, es la empresa del Hijo Eterno en la que los Hijos encarnan el amor del Padre y la misericordia del Hijo en los mundos evolutivos y actúan como rescatadores cuando se produce una rebelión. La tercera, el plan del ministerio de la misericordia, fue proyectada por el Espíritu Infinito solo y hace eficaces en la práctica a las otras dos. Obsérvese que cada persona de la Deidad patrocina un plan en cooperación. En Urantia, un Hijo Creador realizó precisamente este servicio de restauración."
+ },
+ "L021": {
+  "t": "Tres grandes grupos de la familia funcional de la Tercera Fuente y Centro",
+  "cols": [
+   "",
+   "Grupo",
+   "Órdenes incluidas"
+  ],
+  "rows": [
+   [
+    "I",
+    "Los Espíritus Supremos",
+    "Siete Espíritus Rectores, Espíritus Reflectivos, Espíritus Creativos de los Universos Locales"
+   ],
+   [
+    "II",
+    "Los Directores del Poder",
+    "Criaturas y agencias de control que funcionan en todo el espacio organizado"
+   ],
+   [
+    "III",
+    "Las Personalidades del Espíritu Infinito",
+    "Personalidades más Elevadas, Huestes de Mensajeros del Espacio, Espíritus Ministradores del Tiempo"
+   ]
+  ],
+  "d": "Al cerrar su relato de las actividades del Espíritu Infinito, el documento 9 resume la familia funcional de la Tercera Fuente y Centro en tres grandes grupos. Los Espíritus Supremos son un grupo de origen compuesto que incluye a los Siete Espíritus Rectores, los Espíritus Reflectivos y los Espíritus Creativos. Los Directores del Poder son las criaturas y agencias de control que manejan la energía en todo el espacio organizado. Las Personalidades del Espíritu Infinito se dividen a su vez en tres clasificaciones: las Personalidades más Elevadas, las Huestes de Mensajeros del Espacio y los Espíritus Ministradores del Tiempo. El texto añade con cuidado que esta designación no implica que todos sean personalidades de la Tercera Fuente. La clasificación traza el mapa de una vasta familia espiritual que sirve desde el Paraíso hasta los planetas, y los documentos posteriores siguen este orden."
+ },
+ "L022": {
+  "t": "Siete maneras en que la Primera Fuente y Centro funciona fuera de Havona",
+  "cols": [
+   "",
+   "Calidad",
+   "Canal"
+  ],
+  "rows": [
+   [
+    "1",
+    "Como creador",
+    "A través de los Hijos Creadores, sus nietos"
+   ],
+   [
+    "2",
+    "Como controlador",
+    "A través del centro de gravedad del Paraíso"
+   ],
+   [
+    "3",
+    "Como espíritu",
+    "A través del Hijo Eterno"
+   ],
+   [
+    "4",
+    "Como mente",
+    "A través del Creador Conjunto"
+   ],
+   [
+    "5",
+    "Como Padre",
+    "Contacto paterno con todas las criaturas a través del circuito de personalidad"
+   ],
+   [
+    "6",
+    "Como persona",
+    "Sus fragmentos exclusivos; en el hombre mortal, los Ajustadores del Pensamiento"
+   ],
+   [
+    "7",
+    "Como Deidad total",
+    "Tan sólo en la Trinidad del Paraíso"
+   ]
+  ],
+  "d": "En los universos fenoménicos fuera de Havona, el Padre Universal realiza la mayor parte de su obra por medio de otros. La creación procede a través de los Hijos Creadores, el control material a través de la gravedad del Paraíso, el espíritu a través del Hijo Eterno y la mente a través del Creador Conjunto. Sin embargo, conserva dos funciones directamente: como Padre mantiene contacto con cada criatura mediante su circuito de personalidad, y como persona actúa dentro del hombre mortal por medio de los Ajustadores del Pensamiento. El texto subraya que todas estas delegaciones son completamente voluntarias y autoimpuestas. El núcleo de la lista es que el Padre ha confiado a otros la administración de los universos, pero no ha cedido a nadie su relación personal con cada uno de sus hijos."
+ },
+ "L023": {
+  "t": "Diez personalidades de los Hijos Estacionarios de la Trinidad",
+  "cols": [
+   "",
+   "Personalidad"
+  ],
+  "rows": [
+   [
+    "1",
+    "Secretos Trinidizados de la Supremacía"
+   ],
+   [
+    "2",
+    "Eternos de los Días"
+   ],
+   [
+    "3",
+    "Ancianos de los Días"
+   ],
+   [
+    "4",
+    "Perfecciones de los Días"
+   ],
+   [
+    "5",
+    "Recientes de los Días"
+   ],
+   [
+    "6",
+    "Uniones de los Días"
+   ],
+   [
+    "7",
+    "Fieles de los Días"
+   ],
+   [
+    "8",
+    "Perfeccionadores de la Sabiduría"
+   ],
+   [
+    "9",
+    "Consejeros Divinos"
+   ],
+   [
+    "10",
+    "Censores Universales"
+   ]
+  ],
+  "d": "Los Hijos Estacionarios de la Trinidad, hijos de las tres Deidades del Paraíso que funcionan como la Trinidad, constan de diez órdenes. Las seis órdenes que llevan el nombre de los Días se ocupan de la administración y el juicio desde Havona hasta los universos locales y las constelaciones, mientras que los Perfeccionadores de la Sabiduría, los Consejeros Divinos y los Censores Universales aportan sabiduría, consejo y veredictos en los gobiernos de los superuniversos. Es interesante que el autor de este documento pertenezca él mismo a la décima orden, los Censores Universales. El texto explica que estas órdenes no representan la actitud de la Trinidad en un sentido universal, sino solamente en los dominios del juicio ejecutivo: la justicia. El sentido de la lista es que la justicia del universo no se ejecuta según opiniones personales, sino por medio de seres que provienen de la Trinidad."
+ },
+ "L024": {
+  "t": "Tres ámbitos de actividad en la Isla del Paraíso",
+  "cols": [
+   "",
+   "Ámbito",
+   "Carácter"
+  ],
+  "rows": [
+   [
+    "1",
+    "El Paraíso superior",
+    "La superficie ocupada por las actividades de personalidad, dominada por la Trinidad"
+   ],
+   [
+    "2",
+    "El Paraíso periférico",
+    "Actividades que no son estrictamente ni personales ni no personales"
+   ],
+   [
+    "3",
+    "El Paraíso bajo",
+    "El plano impersonal, donde se enfoca la presencia en el espacio del Absoluto No Cualificado"
+   ]
+  ],
+  "d": "La eterna Isla del Paraíso, en el centro de todas las cosas, se divide geográficamente en tres ámbitos de actividad. El Paraíso superior, ocupado por las actividades de personalidad, parece estar dominado por la Trinidad; el Paraíso bajo, en el lado opuesto, es el plano impersonal en el que se enfoca la presencia funcional en el espacio del Absoluto No Cualificado. Entre ambos, el Paraíso periférico provee actividades que no son estrictamente ni personales ni no personales. El documento 11 describe luego cada ámbito por turno. Esta división triple da forma espacial a la enseñanza del Prólogo según la cual lo personal y lo impersonal fueron separados por la voluntad del Padre. Es notable que el espíritu y la materia de todo el universo tengan su punto de partida en lados diferentes de una misma Isla."
+ },
+ "L025": {
+  "t": "Tres etapas de respuesta a la gravedad del Paraíso",
+  "cols": [
+   "",
+   "Etapa",
+   "Característica"
+  ],
+  "rows": [
+   [
+    "1",
+    "Etapas pregravitacionales (fuerza)",
+    "Individualización de la potencia espacial en las formas de fuerza cósmica preenergéticas; segregata"
+   ],
+   [
+    "2",
+    "Etapas gravitacionales (energía)",
+    "Sistemas de energía que responden a la atracción de la gravedad del Paraíso; ultimata"
+   ],
+   [
+    "3",
+    "Etapas postgravitacionales (poder del universo)",
+    "Respuesta a la gravedad lineal; triata en el universo central, gravita en los superuniversos"
+   ]
+  ],
+  "d": "El Paraíso es la fuente absoluta de toda la energía-materia del universo de los universos. El documento 11 explica que las numerosas formas de fuerza y energía revelan tres etapas generales según su respuesta a la gravedad del Paraíso. Primero viene la segregata, la carga de fuerza primordial del espacio; luego, por la acción de los organizadores de fuerza, aparecen los ultimata, que responden a la gravedad del Paraíso; finalmente viene el poder del universo, que responde a la gravedad lineal, organizado como triata en el universo central y como gravita en los superuniversos. El texto advierte con prudencia que estas etapas no están perfectamente delineadas. La lista vuelve a expresar, en términos físicos más concretos, la distinción del Prólogo entre fuerza cósmica, energía emergente y poder del universo."
+ },
+ "L026": {
+  "t": "Seis niveles espaciales que rodean la Isla central",
+  "cols": [
+   "",
+   "Nivel espacial"
+  ],
+  "rows": [
+   [
+    "1",
+    "El universo central, Havona"
+   ],
+   [
+    "2",
+    "Los siete superuniversos"
+   ],
+   [
+    "3",
+    "El primer nivel del espacio exterior"
+   ],
+   [
+    "4",
+    "El segundo nivel del espacio exterior"
+   ],
+   [
+    "5",
+    "El tercer nivel del espacio exterior"
+   ],
+   [
+    "6",
+    "El cuarto o el más extremo nivel del espacio"
+   ]
+  ],
+  "d": "Partiendo del Paraíso hacia afuera, el universo maestro existe en seis elipses concéntricas que rodean la Isla central. En el interior está Havona, el eterno universo central sin principio ni fin; más allá se encuentran los siete superuniversos, las creaciones actualmente organizadas y habitadas. Más afuera vienen cuatro niveles del espacio exterior, donde se están formando ahora mismo universos enormes. Esta imagen muestra que nuestro mundo no está en el borde de la creación, sino relativamente cerca del centro de una creación destinada todavía a una vasta expansión. Al mismo tiempo, los niveles exteriores, como futuro escenario de los finalistas y de Dios el Último, sugieren que la historia del universo está lejos de haber terminado."
+ },
+ "L027": {
+  "t": "Cuatro circuitos de la gravedad absoluta en el universo maestro",
+  "cols": [
+   "",
+   "Circuito"
+  ],
+  "rows": [
+   [
+    "1",
+    "La gravedad de personalidad del Padre Universal"
+   ],
+   [
+    "2",
+    "La gravedad espiritual del Hijo Eterno"
+   ],
+   [
+    "3",
+    "La gravedad mental del Actor Conjunto"
+   ],
+   [
+    "4",
+    "La gravedad cósmica de la Isla del Paraíso"
+   ]
+  ],
+  "d": "Todas las formas de fuerza-energía, material, mental o espiritual, están igualmente sujetas a la atracción de esas presencias universales que llamamos gravedad. También la personalidad responde a la gravedad, al circuito exclusivo de personalidad del Padre. El documento 12 nombra cuatro circuitos de la gravedad absoluta en el universo maestro: la gravedad de personalidad del Padre, la gravedad espiritual del Hijo, la gravedad mental del Actor Conjunto y la gravedad cósmica de la Isla del Paraíso. El texto añade que no son circuitos de fuerza, de energía ni de poder, sino circuitos absolutos de presencia y, como Dios, son independientes del tiempo y el espacio. El Padre infinito no actúa solo en su propio circuito, sino sobre los cuatro. El rasgo distintivo de la lista es que la idea física de la gravedad se extiende a la personalidad, al espíritu y a la mente."
+ },
+ "L028": {
+  "t": "Tres sistemas de gravedad del universo maestro según las mediciones hechas en Uversa",
+  "cols": [
+   "",
+   "Gravedad",
+   "Porción que funciona en el gran universo"
+  ],
+  "rows": [
+   [
+    "1",
+    "Gravedad física",
+    "Aproximadamente un cinco por ciento de la atracción de la gravedad absoluta del Paraíso"
+   ],
+   [
+    "2",
+    "Gravedad espiritual",
+    "Prácticamente toda la gravedad espiritual del Hijo Eterno"
+   ],
+   [
+    "3",
+    "Gravedad mental",
+    "Alrededor del ochenta y cinco por ciento de la respuesta de la gravedad mental al Actor Conjunto"
+   ]
+  ],
+  "d": "Tras largos cálculos comparativos, el cuerpo de investigadores de la gravedad de Uversa llegó a conclusiones fascinantes sobre tres sistemas de gravedad del universo maestro. El gran universo utiliza solo alrededor del cinco por ciento de la gravedad absoluta del Paraíso; el otro noventa y cinco por ciento controla sistemas materiales en el espacio exterior. En cambio, prácticamente toda la gravedad espiritual del Hijo Eterno funciona en el gran universo, por lo que se deduce que los universos del espacio exterior son en este momento completamente no espirituales. Alrededor del ochenta y cinco por ciento de la gravedad mental se origina en el gran universo, lo cual concuerda con la creencia de que en el espacio exterior actúan organizadores de la fuerza inteligentes. El texto califica modestamente estas cifras de cálculos basados en leyes presuntas, y añade que la gravedad de personalidad no es calculable."
+ },
+ "L029": {
+  "t": "Tres opiniones sobre el origen del movimiento",
+  "cols": [
+   "",
+   "Opinión"
+  ],
+  "rows": [
+   [
+    "1",
+    "Pensamos que el Actor Conjunto da inicio al movimiento en el espacio"
+   ],
+   [
+    "2",
+    "Si el Actor Conjunto produce los movimientos del espacio, no podemos probarlo"
+   ],
+   [
+    "3",
+    "El Absoluto Universal no origina el movimiento inicial, pero sí equilibra y controla todas las tensiones originadas por el movimiento"
+   ]
+  ],
+  "d": "¿Es el movimiento inherente al espacio? Los reveladores saben que no lo es, pero confiesan que no están tan seguros acerca de la relación del Absoluto No Cualificado con el movimiento. Por eso presentan el origen del movimiento no como un hecho establecido, sino como tres opiniones. Piensan que el Actor Conjunto da inicio al movimiento, pero no pueden probarlo, y sostienen que el Absoluto Universal no origina el movimiento inicial, sino que equilibra las tensiones que el movimiento produce. Lo que más destaca en esta lista es que incluso seres excelsos dicen con claridad lo que no saben. Recuerda al lector que la revelación no es un libro con respuesta para cada pregunta, sino un ejemplo de búsqueda honesta de la verdad."
+ },
+ "L030": {
+  "t": "Cuatro clases de movimientos del espacio",
+  "cols": [
+   "",
+   "Movimiento",
+   "Descripción"
+  ],
+  "rows": [
+   [
+    "1",
+    "Movimiento primario",
+    "Respiración espacial, el movimiento del espacio mismo"
+   ],
+   [
+    "2",
+    "Movimiento secundario",
+    "Las oscilaciones direccionales alternativas de los sucesivos niveles espaciales"
+   ],
+   [
+    "3",
+    "Movimientos relativos",
+    "No se los evalúa tomando como base el Paraíso"
+   ],
+   [
+    "4",
+    "Movimiento compensatorio o correlativo",
+    "Destinado a coordinar todos los otros movimientos"
+   ]
+  ],
+  "d": "Desde el punto de vista humano, el espacio parece no ser nada, y sin embargo es real: contiene y condiciona el movimiento, e incluso se mueve. El documento 12 clasifica a grandes rasgos los movimientos del espacio en cuatro clases. El movimiento primario es la respiración espacial, la expansión y contracción del espacio mismo; el movimiento secundario son las oscilaciones direccionales alternativas de los sucesivos niveles espaciales. Estos dos son absolutos, medidos en relación con el Paraíso inmóvil; los movimientos relativos no se evalúan así, y el movimiento compensatorio coordina todos los demás. El texto añade que nuestra propia creación local participa en los ciclos de respiración espacial de dos mil millones de años, lo que explica la aparente huida hacia afuera de los conjuntos estelares circundantes."
+ },
+ "L031": {
+  "t": "Tres niveles de conocimiento del tiempo",
+  "cols": [
+   "",
+   "Nivel",
+   "Contenido"
+  ],
+  "rows": [
+   [
+    "1",
+    "Tiempo percibido por la mente",
+    "Conciencia de secuencia, movimiento, y sentido de duración"
+   ],
+   [
+    "2",
+    "Tiempo percibido por el espíritu",
+    "Discernimiento del movimiento hacia Dios y conciencia de la ascensión hacia niveles de divinidad en aumento"
+   ],
+   [
+    "3",
+    "El singular sentido del tiempo de la personalidad",
+    "Discernimiento de la Realidad, más una conciencia de presencia y la noción de duración"
+   ]
+  ],
+  "d": "El tiempo no se experimenta de una sola manera. El documento 12 distingue tres niveles de conocimiento del tiempo. La mente es consciente de la secuencia, el movimiento y la duración; el espíritu percibe el movimiento hacia Dios y la ascensión hacia niveles de divinidad en aumento; y la personalidad crea un singular sentido del tiempo mediante el discernimiento de la Realidad, junto con una conciencia de presencia y la noción de duración. El texto añade que los animales solo conocen el pasado y viven en el presente, mientras que el hombre habitado por el espíritu puede visualizar el futuro. Por eso solo las actitudes progresistas y que miran hacia adelante son personalmente reales, y la ética se hace verdaderamente humana solo cuando es dinámica. La conciencia del tiempo se convierte en una medida del crecimiento espiritual."
+ },
+ "L032": {
+  "t": "Cuatro que atienden las necesidades fundamentales del universo maestro",
+  "cols": [
+   "",
+   "Agente",
+   "Ámbito"
+  ],
+  "rows": [
+   [
+    "1",
+    "Los Absolutos",
+    "En potencial"
+   ],
+   [
+    "2",
+    "El Último",
+    "En dirección"
+   ],
+   [
+    "3",
+    "El Supremo",
+    "En coordinación evolutiva"
+   ],
+   [
+    "4",
+    "Los Arquitectos del Universo Maestro",
+    "En administración, antes de la aparición de los soberanos específicos"
+   ]
+  ],
+  "d": "Los individuos tienen sus guardianes del destino, y cada dominio, desde el planeta hasta el superuniverso, tiene sus soberanos. Pero ¿quién fomenta y atiende las necesidades fundamentales del universo maestro como un todo, desde el Paraíso hasta el nivel espacial más exterior? Existencialmente, tal sobreprotección es probablemente atribuible a la Trinidad del Paraíso, pero experiencialmente la aparición de los universos post-Havona depende de cuatro: los Absolutos en potencial, el Último en dirección, el Supremo en coordinación evolutiva y los Arquitectos del Universo Maestro en administración allí donde aún no han aparecido soberanos específicos. El texto añade que el Último estará presente en el espacio hasta las fronteras exteriores del cuarto nivel espacial, integrando progresivamente los potenciales de los tres Absolutos. Lo tranquilizador de la lista es que ninguna región del espacio, por remota que sea, queda desatendida."
+ }
+}

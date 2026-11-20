@@ -1,0 +1,4495 @@
+{
+ "ui": {
+  "title": "376 Key Lists in The Urantia Book",
+  "meta_desc": "The 376 numbered lists found in the text of The Urantia Book, arranged as tables with commentary. Choose a list on the left to view it.",
+  "burger": "☰ Lists",
+  "h1": "376 Key Lists in The Urantia Book",
+  "sub": "Numbered lists from the text, as tables with commentary — choose a list on the left",
+  "placeholder": "Search by number, title, or content (e.g. seven, Adjuster)",
+  "loading": "Loading…",
+  "part1": "Part I  The Central and Superuniverses",
+  "part2": "Part II  The Local Universe",
+  "part3": "Part III  The History of Urantia",
+  "part4": "Part IV  The Life and Teachings of Jesus",
+  "count_all": "{n} lists",
+  "count_found": "{n} lists found",
+  "list_no": "List {n}",
+  "book": "The Urantia Book",
+  "commentary": "COMMENTARY",
+  "prev": "← Previous · List {n}",
+  "next": "List {n} · Next →",
+  "error": "The lists could not be loaded. Please try again in a moment."
+ },
+ "L001": {
+  "t": "Seven Levels of Total Deity Function and the Three Levels of Reality",
+  "cols": [
+   "",
+   "Level",
+   "Characteristic"
+  ],
+  "rows": [
+   [
+    "1",
+    "Static",
+    "Self-contained and self-existent Deity"
+   ],
+   [
+    "2",
+    "Potential",
+    "Self-willed and self-purposive Deity"
+   ],
+   [
+    "3",
+    "Associative",
+    "Self-personalized and divinely fraternal Deity"
+   ],
+   [
+    "4",
+    "Creative",
+    "Self-distributive and divinely revealed Deity"
+   ],
+   [
+    "5",
+    "Evolutional",
+    "Self-expansive and creature-identified Deity"
+   ],
+   [
+    "6",
+    "Supreme",
+    "Self-experiential and creature-Creator-unifying Deity"
+   ],
+   [
+    "7",
+    "Ultimate",
+    "Self-projected and time-space-transcending Deity"
+   ],
+   [
+    "",
+    "Finite",
+    "Creature life and time-space limitations; the Deity level of Supremacy"
+   ],
+   [
+    "",
+    "Absonite",
+    "Without beginnings or endings, transcending time and space; Ultimacy"
+   ],
+   [
+    "",
+    "Absolute",
+    "Beginningless, endless, timeless, and spaceless; Trinity attained"
+   ]
+  ],
+  "d": "The Foreword states that Deity functions on personal, prepersonal, and superpersonal levels, and then lists seven levels on which total Deity is functional. The static, potential, and associative levels describe Deity existing, purposing, and personalizing within itself; on the creative and evolutional levels Deity distributes itself and becomes identified with creatures. The Supreme and Ultimate levels are experiential Deity overcontrolling the grand universe and the master universe. The text then divides reality into finite, absonite, and absolute levels, matching them with the Supremacy of Deity, the Ultimacy of Deity, and the Trinity. Together these lists form the cosmological framework of the whole book and are the key to its later teachings about the Supreme and the Ultimate."
+ },
+ "L002": {
+  "t": "Seven Conceivable Types of Perfection",
+  "cols": [
+   "",
+   "Type"
+  ],
+  "rows": [
+   [
+    "1",
+    "Absolute perfection in all aspects"
+   ],
+   [
+    "2",
+    "Absolute perfection in some phases and relative perfection in all other aspects"
+   ],
+   [
+    "3",
+    "Absolute, relative, and imperfect aspects in varied association"
+   ],
+   [
+    "4",
+    "Absolute perfection in some respects, imperfection in all others"
+   ],
+   [
+    "5",
+    "Absolute perfection in no direction, relative perfection in all manifestations"
+   ],
+   [
+    "6",
+    "Absolute perfection in no phase, relative in some, imperfect in others"
+   ],
+   [
+    "7",
+    "Absolute perfection in no attribute, imperfection in all"
+   ]
+  ],
+  "d": "The Foreword explains that divinity may be perfect, as on Paradise, imperfect, as in time-space evolution, or relative, as on certain Havona levels, and then sets out seven conceivable types of perfection. The list begins with absolute perfection in all aspects and shifts the proportion of absolute, relative, and imperfect qualities step by step until it reaches imperfection in all. Notice that perfection is not presented as a simple matter of having it or lacking it but as a graded series of conditions. This distinction shows that even imperfect mortal creatures are not outside the scheme of divinity; they stand on a path that leads through relative perfection toward ever higher perfection."
+ },
+ "L003": {
+  "t": "Three Deity-Personality Levels of the Universal Father",
+  "cols": [
+   "",
+   "Level",
+   "Example"
+  ],
+  "rows": [
+   [
+    "1",
+    "Prepersonal",
+    "The ministry of the Father fragments, such as the Thought Adjusters"
+   ],
+   [
+    "2",
+    "Personal",
+    "The evolutionary experience of created and procreated beings"
+   ],
+   [
+    "3",
+    "Superpersonal",
+    "The eventuated existences of certain absonite and associated beings"
+   ]
+  ],
+  "d": "Cosmic consciousness implies the recognition of a First Cause, the one and only uncaused reality. The Foreword states that God, the Universal Father, functions on three Deity-personality levels of subinfinite value and relative divinity expression. On the prepersonal level he works through Father fragments such as the Thought Adjusters; on the personal level, in the evolutionary experience of creatures; on the superpersonal level, in the eventuated existences of absonite beings. The point of the list is that God is personal, yet not confined within the bounds of personality. This is why the text immediately adds that the word God requires a different definition on each level of Deity function."
+ },
+ "L004": {
+  "t": "Seven Meanings of the Word God",
+  "cols": [
+   "",
+   "Name",
+   "Meaning"
+  ],
+  "rows": [
+   [
+    "1",
+    "God the Father",
+    "Creator, Controller, and Upholder; the Universal Father, First Person of Deity"
+   ],
+   [
+    "2",
+    "God the Son",
+    "Co-ordinate Creator, Spirit Controller, Spiritual Administrator; the Eternal Son"
+   ],
+   [
+    "3",
+    "God the Spirit",
+    "Conjoint Actor, Universal Integrator, Mind Bestower; the Infinite Spirit"
+   ],
+   [
+    "4",
+    "God the Supreme",
+    "The actualizing or evolving God of time and space"
+   ],
+   [
+    "5",
+    "God the Sevenfold",
+    "Deity personality anywhere actually functioning in time and space"
+   ],
+   [
+    "6",
+    "God the Ultimate",
+    "The eventuating God of supertime and transcended space"
+   ],
+   [
+    "7",
+    "God the Absolute",
+    "The experientializing God of transcended superpersonal values and divinity meanings"
+   ]
+  ],
+  "d": "The Foreword announces at the outset that the word God is used in these papers with seven meanings. The first three are the persons of the Paradise Trinity, existential Deity from eternity. The last four are experiential Deity, growing or emerging together with the experience of creatures in time and space: God the Supreme, the Sevenfold, the Ultimate, and the Absolute. Knowing this distinction keeps the reader from confusing the levels to which the word God refers throughout the book. The list also condenses one of this revelation's distinctive ideas: God is not only perfect and complete, but also progressively reveals himself as the universes grow."
+ },
+ "L005": {
+  "t": "Seven Phases of Infinite Reality: The Seven Co-ordinate Absolutes",
+  "cols": [
+   "",
+   "Absolute"
+  ],
+  "rows": [
+   [
+    "1",
+    "The First Source and Center"
+   ],
+   [
+    "2",
+    "The Second Source and Center"
+   ],
+   [
+    "3",
+    "The Third Source and Center"
+   ],
+   [
+    "4",
+    "The Isle of Paradise"
+   ],
+   [
+    "5",
+    "The Deity Absolute"
+   ],
+   [
+    "6",
+    "The Universal Absolute"
+   ],
+   [
+    "7",
+    "The Unqualified Absolute"
+   ]
+  ],
+  "d": "The Foreword declares that total, infinite reality is existential in seven phases and as seven co-ordinate Absolutes. The first three are the Father, the Son, and the Spirit, the three persons of Deity; the fourth is the Isle of Paradise, nonpersonal and the source of matter. The last three are the Deity Absolute, holding the potentials of deified reality; the Unqualified Absolute, of undeified reality; and the Universal Absolute, which resolves and unifies the tension between them. Notice that the personal and the impersonal, the actual and the potential, are all embraced within these seven. Yet the root of all seven is the First Source and Center, so that God is primal in relation to total reality, unqualifiedly."
+ },
+ "L006": {
+  "t": "Seven Relations of the First Source and Center to the Universe",
+  "cols": [
+   "",
+   "Reality",
+   "Center of Convergence"
+  ],
+  "rows": [
+   [
+    "1",
+    "The gravity forces of the material universes",
+    "The gravity center of nether Paradise"
+   ],
+   [
+    "2",
+    "The mind forces",
+    "The Infinite Spirit; cosmic mind in the Seven Master Spirits; Majeston"
+   ],
+   [
+    "3",
+    "The universe spirit forces",
+    "The Eternal Son"
+   ],
+   [
+    "4",
+    "The unlimited capacity for deity action",
+    "The Deity Absolute"
+   ],
+   [
+    "5",
+    "The unlimited capacity for infinity response",
+    "The Unqualified Absolute"
+   ],
+   [
+    "6",
+    "The two Absolutes, Qualified and Unqualified",
+    "Co-ordinated and unified in the Universal Absolute"
+   ],
+   [
+    "7",
+    "The potential personality of a moral being",
+    "The personality of the Universal Father"
+   ]
+  ],
+  "d": "The First Source and Center is primal in all domains, and no thing or being exists except in relation to and dependence on him. The Foreword sums up that relation in seven lines. Material gravity converges in nether Paradise, mind in the Infinite Spirit, and spirit in the Eternal Son; the capacities for deity action and infinity response reside in two Absolutes, which are in turn unified in the Universal Absolute. It is significant that the last item centers the personality of every moral being in the personality of the Universal Father. Just as each universe force converges on its own center, the personality of a human being is linked directly with the Father."
+ },
+ "L007": {
+  "t": "Three Primal Phases in Which Reality Is Realizable",
+  "cols": [
+   "",
+   "Phase",
+   "Range"
+  ],
+  "rows": [
+   [
+    "1",
+    "Undeified reality",
+    "From the energy domains of the nonpersonal to the presence of the Unqualified Absolute"
+   ],
+   [
+    "2",
+    "Deified reality",
+    "From the lowest finite personality to the presence of the Deity Absolute"
+   ],
+   [
+    "3",
+    "Interassociated reality",
+    "A vast domain, potential and actualizing, embraced within the Universal Absolute"
+   ]
+  ],
+  "d": "Reality originates in the infinite volition of the Universal Father and is realizable in three primal phases on many universe levels. Undeified reality ranges from nonpersonal energy to the Unqualified Absolute; deified reality embraces all realms of personality up to the Deity Absolute. Between them lies a vast domain of interassociated reality, difficult of identification by subdeified beings, much of which is embraced within the Universal Absolute. The three phases correspond exactly to the three Absolutes: Deity, Unqualified, and Universal. Read together with the statement that follows, that the Father-initiated divinity-tension is resolved by the Universal Absolute, the list brings the primal structure of reality into clear view."
+ },
+ "L008": {
+  "t": "Four Divisions of Reality from the Viewpoint of Time and Space",
+  "cols": [
+   "",
+   "Division",
+   "Explanation"
+  ],
+  "rows": [
+   [
+    "1",
+    "Actual and Potential",
+    "The Eternal Son is absolute actuality; mortal man an unrealized potentiality"
+   ],
+   [
+    "2",
+    "Absolute and Subabsolute",
+    "Eternity existences; absonites and finites"
+   ],
+   [
+    "3",
+    "Existential and Experiential",
+    "Paradise Deity is existential; the Supreme and Ultimate experiential"
+   ],
+   [
+    "4",
+    "Personal and Impersonal",
+    "Meanings centering in the Eternal Son separated from things centering in Paradise"
+   ]
+  ],
+  "d": "After setting out the primal concept of original reality, the Foreword divides reality again, from the viewpoint of time and space, into four pairs: actual and potential, absolute and subabsolute, existential and experiential, personal and impersonal. Each pair comes with an illustration, and the contrast between the Eternal Son as an absolute spiritual actuality and mortal man as a largely unrealized spiritual potentiality is especially striking. The fourth division explains that the Father's freewill act forever separated the mind-spirit-personal values centering in the Eternal Son from the things that center in the Isle of Paradise. These paired concepts form a basic vocabulary used again and again in the theology and cosmology that follow."
+ },
+ "L009": {
+  "t": "Four Levels of Universal Reality in Urantian Human Experience",
+  "cols": [
+   "",
+   "Level",
+   "Description"
+  ],
+  "rows": [
+   [
+    "1",
+    "Body",
+    "The material or physical organism of man"
+   ],
+   [
+    "2",
+    "Mind",
+    "The thinking, perceiving, and feeling mechanism of the human organism"
+   ],
+   [
+    "3",
+    "Spirit",
+    "The divine spirit that indwells the mind of man, the Thought Adjuster"
+   ],
+   [
+    "4",
+    "Soul",
+    "An experiential acquirement; the emerging and immortal morontial soul"
+   ]
+  ],
+  "d": "The qualities of universal reality represented by the three persons of Deity and the Isle of Paradise are manifest in Urantian human experience on four levels: body, mind, spirit, and soul. The body is the living electrochemical mechanism of animal origin; the mind is the intelligence reaching upward through worship and wisdom toward the spirit level. The spirit is the indwelling Thought Adjuster, and the soul is a new morontial reality fathered by the Adjuster and mothered by the material mind. Immediately after the list the text adds that personality is none of these four but the one changeless reality that unifies them all. This is a far more precise picture of the human being than the old division into body and soul."
+ },
+ "L010": {
+  "t": "Three Physical-Energy Manifestations",
+  "cols": [
+   "",
+   "Term",
+   "Meaning"
+  ],
+  "rows": [
+   [
+    "1",
+    "Cosmic force",
+    "Energies deriving from the Unqualified Absolute, as yet unresponsive to Paradise gravity"
+   ],
+   [
+    "2",
+    "Emergent energy",
+    "Responsive to Paradise gravity but as yet unresponsive to local or linear gravity"
+   ],
+   [
+    "3",
+    "Universe power",
+    "Directly responsive to linear gravity; the electronic level of energy-matter"
+   ]
+  ],
+  "d": "The revelators explain that such is the paucity of language that they must assign multiple meanings to force, energy, and power, and then define three terms for physical-energy manifestations. The criterion is response to gravity. Cosmic force derives from the Unqualified Absolute but is as yet unresponsive to Paradise gravity; emergent energy responds to Paradise gravity but not yet to linear gravity, the pre-electronic level; universe power responds directly to linear gravity, the electronic level of energy-matter. These three stages form a compact map of how the matter we know emerges out of the potentials of space. They remain the standard reference when reading the later papers on physics and energy."
+ },
+ "L011": {
+  "t": "The Dual Presence of Deity",
+  "cols": [
+   "",
+   "Presence",
+   "Meaning"
+  ],
+  "rows": [
+   [
+    "1",
+    "Existential",
+    "Beings of eternal existence, past, present, and future"
+   ],
+   [
+    "2",
+    "Experiential",
+    "Beings actualizing in the post-Havona present but of unending existence throughout all future eternity"
+   ]
+  ],
+  "d": "The Deity mechanism of the master universe is twofold as concerns eternity relationships. God the Father, God the Son, and God the Spirit are existential, eternal in past, present, and future; God the Supreme, God the Ultimate, and God the Absolute are experiential, actualizing in the post-Havona epochs. It matters that the experiential Deities have an origin but are eternal in destiny. Having achieved existential expression in the Son and the Spirit, the Father is now achieving experiential expression on hitherto unrevealed deity levels. This short list sums up in two words the distinctive concept of this revelation: God is complete and perfect, yet there is also Deity that grows together with the universes."
+ },
+ "L012": {
+  "t": "The Evolutionary Creature's Sevenfold Approach to Deity",
+  "cols": [
+   "",
+   "Deity Personality"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Paradise Creator Sons"
+   ],
+   [
+    "2",
+    "The Ancients of Days"
+   ],
+   [
+    "3",
+    "The Seven Master Spirits"
+   ],
+   [
+    "4",
+    "The Supreme Being"
+   ],
+   [
+    "5",
+    "God the Spirit"
+   ],
+   [
+    "6",
+    "God the Son"
+   ],
+   [
+    "7",
+    "God the Father"
+   ]
+  ],
+  "d": "To atone for finity of status and to compensate for creature limitations of concept, the Universal Father has established a sevenfold approach to Deity for evolutionary creatures. The order of the list is the path of ascent. The experiential discovery of God begins with recognizing the divinity of the Creator Son of the local universe, ascends through the superuniverse Ancients of Days and one of the Seven Master Spirits, and finally reaches the discovery of the Universal Father on Paradise. These seven make up God the Sevenfold in time and space, sometime power-personalizing in the Supreme Being. The meaning of the list is that a ladder has been set up for mortals, who cannot reach the infinite Father directly, leading from the nearer Deity to the more remote."
+ },
+ "L013": {
+  "t": "The Combined Functions Designated the Action of the Universal Absolute",
+  "cols": [
+   "",
+   "Absolute",
+   "Function"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Deity Absolute",
+    "The all-powerful activator; the Qualified Absolute in which all divinity activities take place"
+   ],
+   [
+    "2",
+    "The Unqualified Absolute",
+    "The all-efficient mechanizer; nonpersonal, extradivine, undeified, yet a positive reality"
+   ],
+   [
+    "3",
+    "The Universal Absolute",
+    "Resolution of the tension between deified and undeified; associative co-ordinator"
+   ]
+  ],
+  "d": "When it is not possible fully to distinguish the Deity Absolute from the Unqualified Absolute, their combined function is designated the action of the Universal Absolute. The Foreword then describes the three in turn. The Deity Absolute is the all-powerful activator, whose every response is made in terms of the welfare of the whole creation and the possibilities of all future eternity. The Unqualified Absolute is devoid of personality and divinity, yet it is not a mere philosophic negativism but a positive reality pervading the grand universe, unlike either pantheism or the old ether hypothesis. The Universal Absolute resolves the tension created when the Father differentiated reality into deified and undeified. Their relationship shows how universe potentials unfold in order."
+ },
+ "L014": {
+  "t": "The Two Post-Havona Trinities",
+  "cols": [
+   "",
+   "Trinity",
+   "Composition"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Ultimate Trinity",
+    "The Supreme Being, the Supreme Creator Personalities, the absonite Architects of the Master Universe"
+   ],
+   [
+    "2",
+    "The Absolute Trinity",
+    "God the Supreme, God the Ultimate, and the unrevealed Consummator of Universe Destiny"
+   ]
+  ],
+  "d": "Beyond the eternal Paradise Trinity, the Foreword introduces two experiential Trinities that are not now fully manifest but are in process of universe realization. The Ultimate Trinity will consist of the Supreme Being, the Supreme Creator Personalities, and the absonite Architects of the Master Universe, who are neither creators nor creatures; from its unification God the Ultimate will powerize and personalize. The Absolute Trinity will consist of God the Supreme, God the Ultimate, and the unrevealed Consummator of Universe Destiny, and would experientialize Absolute Deity. The revelators frankly say that the Ultimate Trinity is unifying in completion, but they truly doubt the full unification of the Absolute Trinity. The list shows how experiential Deities emerge from the association of prior Deities."
+ },
+ "L015": {
+  "t": "Three Experiences That Disclose the Divine Adjuster",
+  "cols": [
+   "Phenomenon",
+   "Description"
+  ],
+  "rows": [
+   [
+    "God-consciousness",
+    "The intellectual capacity for knowing God"
+   ],
+   [
+    "God-seeking",
+    "The spiritual urge to find God"
+   ],
+   [
+    "Wholehearted desire to do the Father's will",
+    "The personality craving to be like God"
+   ]
+  ],
+  "d": "The existence of God can never be proved by experiment or logic, but it is demonstrated in human experience. Paper 1 finds that evidence in the Thought Adjuster indwelling the human mind. The capacity to know God, the urge to find him, and the craving to be like him are the signs of the Adjuster's presence. Notice that the three phenomena correspond to three dimensions of the human being: intellect, spirit, and personality. The comfort of this list is that the very heart that seeks God is already evidence that God is near."
+ },
+ "L016": {
+  "t": "Three Conditions That Limit the Power of God",
+  "cols": [
+   "",
+   "Condition",
+   "Content"
+  ],
+  "rows": [
+   [
+    "1",
+    "The nature of God",
+    "His infinite love, truth, beauty, and goodness"
+   ],
+   [
+    "2",
+    "The will of God",
+    "His mercy ministry and fatherly relationship with the personalities of the universe"
+   ],
+   [
+    "3",
+    "The law of God",
+    "The righteousness and justice of the eternal Paradise Trinity"
+   ]
+  ],
+  "d": "The divine omnipotence is perfectly co-ordinated with the other attributes of God's personality; it is not a power to do anything whatever. Paper 3 states that the power of God is ordinarily limited in its universe spiritual manifestation by three conditions. God does nothing contrary to his love and goodness; he acts in accordance with his fatherly will of mercy toward his creatures; and he upholds the law of Trinity righteousness and justice. The key is that nothing outside binds God; his own nature, will, and law determine how his power is used. Read alongside the preceding statement that many things on the evolutionary worlds are not the personal doings of the Universal Father, the list offers a clue to the problem of suffering."
+ },
+ "L017": {
+  "t": "Nine Inevitabilities of Evolutionary Creature Life",
+  "cols": [
+   "",
+   "Desirable Quality",
+   "Necessary Environment"
+  ],
+  "rows": [
+   [
+    "1",
+    "Courage, strength of character",
+    "Grappling with hardships and reacting to disappointments"
+   ],
+   [
+    "2",
+    "Altruism, service of one's fellows",
+    "Situations of social inequality"
+   ],
+   [
+    "3",
+    "Hope, the grandeur of trust",
+    "Insecurities and recurrent uncertainties"
+   ],
+   [
+    "4",
+    "Faith, the supreme assertion of human thought",
+    "A mind that ever knows less than it can believe"
+   ],
+   [
+    "5",
+    "The love of truth",
+    "A world where error is present and falsehood always possible"
+   ],
+   [
+    "6",
+    "Idealism, the approaching concept of the divine",
+    "An environment of relative goodness and beauty"
+   ],
+   [
+    "7",
+    "Loyalty, devotion to highest duty",
+    "The possibilities of betrayal and desertion"
+   ],
+   [
+    "8",
+    "Unselfishness, the spirit of self-forgetfulness",
+    "The incessant clamoring of an inescapable self for recognition and honor"
+   ],
+   [
+    "9",
+    "Pleasure, the satisfaction of happiness",
+    "The alternative of pain and the likelihood of suffering"
+   ]
+  ],
+  "d": "The uncertainties of life and the vicissitudes of existence do not contradict the universal sovereignty of God. Paper 3 shows why through nine questions. If courage is desirable, there must be hardships; if altruism, there must be inequality; if faith, the mind must know less than it can believe. Every item has the same form: a precious quality paired with the difficult environment needed to develop it. Hardship is therefore not evidence of divine indifference but a condition of the school in which character is formed. The text goes on to say that evolving man must be fallible if he is to be free, and it clearly distinguishes the possibility of evil from sin."
+ },
+ "L018": {
+  "t": "Three Separate Teachings Combined in the Christian Concept of God",
+  "cols": [
+   "",
+   "Concept",
+   "God"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Hebrew concept",
+    "God as a vindicator of moral values, a righteous God"
+   ],
+   [
+    "2",
+    "The Greek concept",
+    "God as a unifier, a God of wisdom"
+   ],
+   [
+    "3",
+    "Jesus' concept",
+    "God as a living friend, a loving Father, the divine presence"
+   ]
+  ],
+  "d": "Paper 5 diagnoses the Christian concept of God as an attempt to combine three separate teachings. The Hebrew tradition taught a righteous God, Greek philosophy a God of wisdom who unifies all things, and Jesus a God who is a living friend and loving Father. Because these were blended, composite Christian theology has difficulty attaining consistency, a difficulty aggravated by the fact that early doctrine rested on the personal religious experience of three persons: Philo, Jesus, and Paul. The list is not meant to belittle Christianity; it helps the reader distinguish Jesus' own concept of God within it. The text goes on to say that Jesus upstepped passive love into an active affection that reaches even the wrongdoer."
+ },
+ "L019": {
+  "t": "Three Great Satisfactions from Religious Experience",
+  "cols": [
+   "",
+   "Dimension",
+   "Satisfaction"
+  ],
+  "rows": [
+   [
+    "1",
+    "Intellectually",
+    "The satisfactions of a more unified human consciousness"
+   ],
+   [
+    "2",
+    "Philosophically",
+    "The substantiation of his ideals of moral values"
+   ],
+   [
+    "3",
+    "Spiritually",
+    "The experience of divine companionship, the spiritual satisfactions of true worship"
+   ]
+  ],
+  "d": "The fruits of religious experience are not reserved for the life after death. Paper 5 says that mortal man secures three great satisfactions from religious experience even in the days of his temporal sojourn on earth. Intellectually his consciousness becomes more unified; philosophically his ideals of moral value are substantiated as realities rather than dreams; spiritually he thrives in divine companionship and true worship. These three dimensions mesh with the three levels of God-consciousness described immediately afterward: mind consciousness, soul consciousness, and spirit consciousness. The point of the list is that religion is not one compartment of life but an experience that unifies the whole human being."
+ },
+ "L020": {
+  "t": "Three Enterprises of the Divine Plan of Perfection Attainment",
+  "cols": [
+   "",
+   "Plan",
+   "Content"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Plan of Progressive Attainment",
+    "The Universal Father's plan of evolutionary ascension; Adjusters and personality"
+   ],
+   [
+    "2",
+    "The Bestowal Plan",
+    "The Father-revelation enterprise of the Eternal Son; bestowal of the Sons of God"
+   ],
+   [
+    "3",
+    "The Plan of Mercy Ministry",
+    "Projected by the Infinite Spirit, alone and of himself"
+   ]
+  ],
+  "d": "The divine plan of perfection attainment embraces three marvelously correlated enterprises. The first, the Plan of Progressive Attainment, arises from the Father's proposal, \"⟦Q 7:4.4⟧Let us make mortal creatures in our own image⟦/Q⟧,\" and includes the bestowal of Thought Adjusters and of personality. The second, the Bestowal Plan, is the Eternal Son's enterprise in which the Sons incarnate the Father's love and the Son's mercy on the evolutionary worlds and act as retrievers when rebellion occurs. The third, the Plan of Mercy Ministry, was projected by the Infinite Spirit alone and makes the other two effective in practice. Notice that each person of Deity sponsors one plan in co-operation. On Urantia a Creator Son performed this very service of restoration."
+ },
+ "L021": {
+  "t": "Three Great Groups of the Functional Family of the Third Source and Center",
+  "cols": [
+   "",
+   "Group",
+   "Orders Included"
+  ],
+  "rows": [
+   [
+    "I",
+    "The Supreme Spirits",
+    "Seven Master Spirits, Reflective Spirits, Creative Spirits of the Local Universes"
+   ],
+   [
+    "II",
+    "The Power Directors",
+    "Control creatures and agencies that function throughout all organized space"
+   ],
+   [
+    "III",
+    "The Personalities of the Infinite Spirit",
+    "Higher Personalities, Messenger Hosts of Space, Ministering Spirits of Time"
+   ]
+  ],
+  "d": "At the close of its account of the Infinite Spirit's activities, Paper 9 sums up the functional family of the Third Source and Center in three great groups. The Supreme Spirits are a group of composite origin, including the Seven Master Spirits, the Reflective Spirits, and the Creative Spirits. The Power Directors are the control creatures and agencies that manage energy throughout organized space. The Personalities of the Infinite Spirit fall into three further classifications: the Higher Personalities, the Messenger Hosts of Space, and the Ministering Spirits of Time. The text carefully adds that this designation does not imply that all are Third Source personalities. The classification maps a vast spiritual family serving from Paradise to the planets, and later papers follow this order."
+ },
+ "L022": {
+  "t": "Seven Ways the First Source and Center Functions Outside of Havona",
+  "cols": [
+   "",
+   "Capacity",
+   "Channel"
+  ],
+  "rows": [
+   [
+    "1",
+    "As creator",
+    "Through the Creator Sons, his grandsons"
+   ],
+   [
+    "2",
+    "As controller",
+    "Through the gravity center of Paradise"
+   ],
+   [
+    "3",
+    "As spirit",
+    "Through the Eternal Son"
+   ],
+   [
+    "4",
+    "As mind",
+    "Through the Conjoint Creator"
+   ],
+   [
+    "5",
+    "As a Father",
+    "Parental contact with all creatures through his personality circuit"
+   ],
+   [
+    "6",
+    "As a person",
+    "His exclusive fragments; in mortal man the Thought Adjusters"
+   ],
+   [
+    "7",
+    "As total Deity",
+    "Only in the Paradise Trinity"
+   ]
+  ],
+  "d": "In the phenomenal universes outside of Havona the Universal Father does most of his work through others. Creation proceeds through the Creator Sons, material control through Paradise gravity, spirit through the Eternal Son, and mind through the Conjoint Creator. Yet two functions he keeps directly: as a Father he maintains contact with every creature through his personality circuit, and as a person he acts within mortal man by the Thought Adjusters. The text stresses that all these delegations are wholly voluntary and self-imposed. The heart of the list is that the Father has entrusted the administration of the universes to others, but has handed over to no one his personal relationship with each of his children."
+ },
+ "L023": {
+  "t": "Ten Personalities of the Stationary Sons of the Trinity",
+  "cols": [
+   "",
+   "Personality"
+  ],
+  "rows": [
+   [
+    "1",
+    "Trinitized Secrets of Supremacy"
+   ],
+   [
+    "2",
+    "Eternals of Days"
+   ],
+   [
+    "3",
+    "Ancients of Days"
+   ],
+   [
+    "4",
+    "Perfections of Days"
+   ],
+   [
+    "5",
+    "Recents of Days"
+   ],
+   [
+    "6",
+    "Unions of Days"
+   ],
+   [
+    "7",
+    "Faithfuls of Days"
+   ],
+   [
+    "8",
+    "Perfectors of Wisdom"
+   ],
+   [
+    "9",
+    "Divine Counselors"
+   ],
+   [
+    "10",
+    "Universal Censors"
+   ]
+  ],
+  "d": "The Stationary Sons of the Trinity, children of the three Paradise Deities functioning as the Trinity, consist of ten orders. The six orders bearing the name of Days carry on administration and judgment from Havona down to the local universes and constellations, while the Perfectors of Wisdom, Divine Counselors, and Universal Censors provide wisdom, counsel, and verdicts in the superuniverse governments. Interestingly, the author of this paper is himself a member of the tenth order, the Universal Censors. The text explains that these orders do not represent the attitude of the Trinity in a universal sense, but only in the domains of executive judgment, justice. The meaning of the list is that universe justice is executed not by personal opinion but through beings who come from the Trinity."
+ },
+ "L024": {
+  "t": "Three Domains of Activity on the Isle of Paradise",
+  "cols": [
+   "",
+   "Domain",
+   "Character"
+  ],
+  "rows": [
+   [
+    "1",
+    "Upper Paradise",
+    "The surface occupied with personality activities, dominated by the Trinity"
+   ],
+   [
+    "2",
+    "Peripheral Paradise",
+    "Activities that are not strictly personal or nonpersonal"
+   ],
+   [
+    "3",
+    "Nether Paradise",
+    "The impersonal plane, where the space presence of the Unqualified Absolute is focalized"
+   ]
+  ],
+  "d": "The eternal Isle of Paradise at the center of all things is geographically divided into three domains of activity. Upper Paradise, occupied with personality activities, seems to be dominated by the Trinity; nether Paradise, on the opposite side, is the impersonal plane on which the functional space presence of the Unqualified Absolute is focalized. Between them, peripheral Paradise provides for activities that are not strictly personal or nonpersonal. Paper 11 goes on to describe each domain in turn. This threefold division gives spatial form to the teaching of the Foreword that the personal and the impersonal were separated by the Father's will. It is remarkable that the spirit and the matter of the entire universe take their start on different sides of a single Isle."
+ },
+ "L025": {
+  "t": "Three Stages of Response to Paradise Gravity",
+  "cols": [
+   "",
+   "Stage",
+   "Characteristic"
+  ],
+  "rows": [
+   [
+    "1",
+    "Pregravity Stages (Force)",
+    "Individuation of space potency into pre-energy forms of cosmic force; segregata"
+   ],
+   [
+    "2",
+    "Gravity Stages (Energy)",
+    "Energy systems responsive to the pull of Paradise gravity; ultimata"
+   ],
+   [
+    "3",
+    "Postgravity Stages (Universe Power)",
+    "Response to linear gravity; triata in the central universe, gravita in the superuniverses"
+   ]
+  ],
+  "d": "Paradise is the absolute source of all energy-matter in the universe of universes. Paper 11 explains that the many forms of force and energy disclose three general stages according to their response to Paradise gravity. First comes segregata, the primordial force-charge of space; then, through the action of the force organizers, ultimata appear, responsive to Paradise gravity; finally comes universe power, responsive to linear gravity, organized as triata in the central universe and gravita in the superuniverses. The text cautiously notes that these stages are not perfectly clear-cut. The list restates in more concrete physical terms the Foreword's distinction among cosmic force, emergent energy, and universe power."
+ },
+ "L026": {
+  "t": "Six Space Levels Encircling the Central Isle",
+  "cols": [
+   "",
+   "Space Level"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Central Universe—Havona"
+   ],
+   [
+    "2",
+    "The Seven Superuniverses"
+   ],
+   [
+    "3",
+    "The First Outer Space Level"
+   ],
+   [
+    "4",
+    "The Second Outer Space Level"
+   ],
+   [
+    "5",
+    "The Third Outer Space Level"
+   ],
+   [
+    "6",
+    "The Fourth and Outermost Space Level"
+   ]
+  ],
+  "d": "Proceeding outward from Paradise, the master universe exists in six concentric ellipses encircling the central Isle. Innermost is Havona, the eternal central universe without beginning or ending; beyond it lie the seven superuniverses, the present organized and inhabited creations. Further out come four outer space levels, where enormous universes are even now in process of formation. This picture shows that our world is not at the edge of creation but relatively close to the center of a creation still destined for vast expansion. At the same time the outer levels, as the future arena of the finaliters and of God the Ultimate, suggest that the story of the universe is far from finished."
+ },
+ "L027": {
+  "t": "Four Absolute-Gravity Circuits in the Master Universe",
+  "cols": [
+   "",
+   "Circuit"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Personality Gravity of the Universal Father"
+   ],
+   [
+    "2",
+    "The Spirit Gravity of the Eternal Son"
+   ],
+   [
+    "3",
+    "The Mind Gravity of the Conjoint Actor"
+   ],
+   [
+    "4",
+    "The Cosmic Gravity of the Isle of Paradise"
+   ]
+  ],
+  "d": "All forms of force-energy, material, mindal, or spiritual, are alike subject to the grasp of those universal presences called gravity. Personality also responds to gravity, to the Father's exclusive personality circuit. Paper 12 names four absolute-gravity circuits in the master universe: the personality gravity of the Father, the spirit gravity of the Son, the mind gravity of the Conjoint Actor, and the cosmic gravity of the Isle of Paradise. The text adds that these are not force, energy, or power circuits but absolute presence circuits, and like God are independent of time and space. The infinite Father acts not only in his own circuit but over all four. The distinctive feature of the list is that the physical idea of gravity is extended to personality, spirit, and mind."
+ },
+ "L028": {
+  "t": "Three Gravity Systems of the Master Universe as Measured on Uversa",
+  "cols": [
+   "",
+   "Gravity",
+   "Portion Functioning in the Grand Universe"
+  ],
+  "rows": [
+   [
+    "1",
+    "Physical Gravity",
+    "About five per cent of the Paradise absolute-gravity grasp"
+   ],
+   [
+    "2",
+    "Spiritual Gravity",
+    "Practically the entire spirit gravity of the Eternal Son"
+   ],
+   [
+    "3",
+    "Mind Gravity",
+    "About eighty-five per cent of the mind-gravity response to the Conjoint Actor"
+   ]
+  ],
+  "d": "After long comparative calculations, the corps of gravity researchers on Uversa reached intriguing conclusions about three gravity systems of the master universe. The grand universe uses only about five per cent of Paradise absolute gravity; the other ninety-five per cent controls material systems in outer space. Practically the entire spirit gravity of the Eternal Son, however, functions in the grand universe, so the universes of outer space are inferred to be at present wholly nonspiritual. About eighty-five per cent of mind gravity originates in the grand universe, which accords with the belief that intelligent force organizers are at work in outer space. The text modestly calls these estimates based on assumed laws, and adds that personality gravity is noncomputable."
+ },
+ "L029": {
+  "t": "Three Opinions Concerning the Origin of Motion",
+  "cols": [
+   "",
+   "Opinion"
+  ],
+  "rows": [
+   [
+    "1",
+    "We think the Conjoint Actor initiates motion in space"
+   ],
+   [
+    "2",
+    "If the Conjoint Actor produces the motions of space, we cannot prove it"
+   ],
+   [
+    "3",
+    "The Universal Absolute does not originate initial motion but does equalize and control all the tensions originated by motion"
+   ]
+  ],
+  "d": "Is motion inherent in space? The revelators know that it is not, but they confess they are not so sure about the relation of the Unqualified Absolute to motion. They therefore present the origin of motion not as settled fact but as three opinions. They think the Conjoint Actor initiates motion but cannot prove it, and they hold that the Universal Absolute does not originate initial motion but equalizes the tensions motion produces. What stands out most in this list is that even exalted beings say plainly what they do not know. It reminds the reader that revelation is not a book with an answer for every question but an example of honest inquiry after truth."
+ },
+ "L030": {
+  "t": "Four Classes of Space Motion",
+  "cols": [
+   "",
+   "Motion",
+   "Description"
+  ],
+  "rows": [
+   [
+    "1",
+    "Primary motion",
+    "Space respiration, the motion of space itself"
+   ],
+   [
+    "2",
+    "Secondary motion",
+    "The alternate directional swings of the successive space levels"
+   ],
+   [
+    "3",
+    "Relative motions",
+    "Not evaluated with Paradise as a base point"
+   ],
+   [
+    "4",
+    "Compensatory or correlating movement",
+    "Designed to co-ordinate all other motions"
+   ]
+  ],
+  "d": "From the human viewpoint space seems to be nothing, yet it is real: it contains and conditions motion, and it even moves. Paper 12 roughly classifies space motions into four kinds. Primary motion is space respiration, the expansion and contraction of space itself; secondary motion is the alternate directional swings of the successive space levels. These two are absolute, measured in relation to unmoving Paradise; relative motions are not so evaluated, and compensatory movement co-ordinates all the others. The text goes on to say that our own local creation participates in the two-billion-year cycles of space respiration, which accounts for the apparent outward flight of the surrounding star clusters."
+ },
+ "L031": {
+  "t": "Three Levels of Time Cognizance",
+  "cols": [
+   "",
+   "Level",
+   "Content"
+  ],
+  "rows": [
+   [
+    "1",
+    "Mind-perceived time",
+    "Consciousness of sequence, motion, and a sense of duration"
+   ],
+   [
+    "2",
+    "Spirit-perceived time",
+    "Insight into motion Godward and awareness of ascent to increasing divinity"
+   ],
+   [
+    "3",
+    "Personality's unique time sense",
+    "Insight into Reality plus a consciousness of presence and an awareness of duration"
+   ]
+  ],
+  "d": "Time is not experienced in only one way. Paper 12 distinguishes three levels of time cognizance. The mind is conscious of sequence, motion, and duration; the spirit is aware of motion Godward and of ascent to levels of increasing divinity; and personality creates a unique time sense out of insight into Reality together with a consciousness of presence and an awareness of duration. The text goes on to say that animals know only the past and live in the present, whereas spirit-indwelt man may visualize the future. Therefore only forward-looking and progressive attitudes are personally real, and ethics become truly human only when they are dynamic. The awareness of time becomes a measure of spiritual growth."
+ },
+ "L032": {
+  "t": "Four Who Foster the Fundamental Needs of the Master Universe",
+  "cols": [
+   "",
+   "Agency",
+   "Sphere"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Absolutes",
+    "In potential"
+   ],
+   [
+    "2",
+    "The Ultimate",
+    "In direction"
+   ],
+   [
+    "3",
+    "The Supreme",
+    "In evolutionary co-ordination"
+   ],
+   [
+    "4",
+    "The Architects of the Master Universe",
+    "In administration prior to the appearance of specific rulers"
+   ]
+  ],
+  "d": "Individuals have their guardians of destiny, and every domain from planet to superuniverse has its rulers. But who fosters and cares for the fundamental needs of the master universe as a whole, from Paradise to the outermost space level? Existentially such overcare is probably attributable to the Paradise Trinity, but experientially the appearance of the post-Havona universes depends on four: the Absolutes in potential, the Ultimate in direction, the Supreme in evolutionary co-ordination, and the Architects of the Master Universe in administration where no specific rulers have yet appeared. The text adds that the Ultimate will be space present to the outer margins of the fourth space level, progressively integrating the potentials of the three Absolutes. The reassurance of the list is that no region of space, however remote, is left uncared for."
+ },
+ "L033": {
+  "t": "Three Functioning Levels of Finite Reality",
+  "cols": [
+   "",
+   "Level",
+   "Characteristic"
+  ],
+  "rows": [
+   [
+    "1",
+    "Matter",
+    "Organized energy subject to linear gravity"
+   ],
+   [
+    "2",
+    "Mind",
+    "Organized consciousness not wholly subject to material gravity; liberated by spirit"
+   ],
+   [
+    "3",
+    "Spirit",
+    "The highest personal reality; not subject to physical gravity"
+   ]
+  ],
+  "d": "Though the mortal mind can hardly comprehend the seven levels of relative cosmic reality, it should be able to grasp much of the meaning of three functioning levels of finite reality. Matter is organized energy subject to linear gravity except as modified by motion and conditioned by mind. Mind is organized consciousness not wholly subject to material gravity, which becomes truly liberated when modified by spirit. Spirit is the highest personal reality and eventually becomes the motivating influence of all evolving energy systems of personality dignity. The text goes on to say that the goal of existence of all personalities is spirit, with mind intervening between the universal opposites of matter and spirit. Because God is spirit, spirit is the fundamental reality of creature personality experience."
+ },
+ "L034": {
+  "t": "The Seven Sacred Worlds of the Father",
+  "cols": [
+   "",
+   "World",
+   "Bosom"
+  ],
+  "rows": [
+   [
+    "1",
+    "Divinington",
+    "Bosom of the Father; Paradise rendezvous of the Thought Adjusters"
+   ],
+   [
+    "2",
+    "Sonarington",
+    "Bosom of the Son; personal receiving world of the Eternal Son"
+   ],
+   [
+    "3",
+    "Spiritington",
+    "Bosom of the Spirit; home of beings representing the Infinite Spirit"
+   ],
+   [
+    "4",
+    "Vicegerington",
+    "Bosom of the Father and the Son"
+   ],
+   [
+    "5",
+    "Solitarington",
+    "Bosom of the Father and the Spirit"
+   ],
+   [
+    "6",
+    "Seraphington",
+    "Bosom of the Son and the Spirit; destiny sphere of the angelic hosts"
+   ],
+   [
+    "7",
+    "Ascendington",
+    "Bosom of the Father, Son, and Spirit; rendezvous of the ascendant creatures"
+   ]
+  ],
+  "d": "The innermost of the three circuits of Paradise satellites is the Father's circuit of seven sacred worlds. Each enjoys a specialized manifestation of the Deities and is directed by the Trinitized Secrets of Supremacy. The order of names and bosoms is strikingly symmetrical: the bosoms of Father, Son, and Spirit come first, then the paired bosoms, and finally Ascendington, the bosom of all three. Divinington holds the secret of the Thought Adjusters, Sonarington the secret of the incarnation of the divine Sons. The author confesses that he is somewhat familiar with six of these worlds but has never landed on Divinington. Nearest to mortals is the last, Ascendington, the actual home of ascending pilgrims during most of their Havona sojourn."
+ },
+ "L035": {
+  "t": "Seven Space Conditions and Motions from Paradise to the Superuniverses",
+  "cols": [
+   "",
+   "Space Condition and Motion"
+  ],
+  "rows": [
+   [
+    "1",
+    "The quiescent midspace zones impinging on Paradise"
+   ],
+   [
+    "2",
+    "The clockwise processional of the three Paradise and the seven Havona circuits"
+   ],
+   [
+    "3",
+    "The semiquiet space zone separating the Havona circuits from the dark gravity bodies"
+   ],
+   [
+    "4",
+    "The inner, counterclockwise-moving belt of the dark gravity bodies"
+   ],
+   [
+    "5",
+    "The second unique space zone dividing the two space paths of the dark gravity bodies"
+   ],
+   [
+    "6",
+    "The outer belt of dark gravity bodies, revolving clockwise around Paradise"
+   ],
+   [
+    "7",
+    "A third, semiquiet zone separating the outer belt from the innermost superuniverse circuits"
+   ]
+  ],
+  "d": "Paper 14 describes the physical structure of the central universe in seven layers, from the periphery of Paradise to the inner borders of the seven superuniverses. It begins with the quiescent midspace zones, then the clockwise processional of the Paradise satellites and Havona worlds, and beyond that the two belts of dark gravity bodies moving in opposite directions. Quiet or semiquiet space zones lie between them, dividing each layer from the next. The alternating directions of revolution echo the earlier teaching about the alternate directional swings of successive space levels. That the billion worlds of Havona are set within such exquisitely balanced belts gives a vivid picture of the order of the perfect universe."
+ },
+ "L036": {
+  "t": "Seven Basic Life Groups of the Central Universe",
+  "cols": [
+   "",
+   "Life Group"
+  ],
+  "rows": [
+   [
+    "1",
+    "Material"
+   ],
+   [
+    "2",
+    "Morontial"
+   ],
+   [
+    "3",
+    "Spiritual"
+   ],
+   [
+    "4",
+    "Absonite"
+   ],
+   [
+    "5",
+    "Ultimate"
+   ],
+   [
+    "6",
+    "Coabsolute"
+   ],
+   [
+    "7",
+    "Absolute"
+   ]
+  ],
+  "d": "There are seven basic forms of living things and beings on the Havona worlds. Each basic form exists in three phases, each phase in seventy major divisions, and each major division in one thousand minor divisions, with ever further subdivisions. The seven groups rise from the material through the morontial and spiritual to the absonite, ultimate, coabsolute, and absolute. In a sense, the stages that mortals pass through in their ascent are already present in the perfect universe as forms of life. The text goes on to say that decay and death are not a part of the cycle of life on the Havona worlds; even the lower living things change form without decay or cellular death. The list shows how abundant life is in a perfect creation."
+ },
+ "L037": {
+  "t": "Three Activities of Seven-Circuited Havona",
+  "cols": [
+   "",
+   "Activity"
+  ],
+  "rows": [
+   [
+    "1",
+    "Havonal"
+   ],
+   [
+    "2",
+    "Paradisiacal"
+   ],
+   [
+    "3",
+    "Ascendant-finite—Supreme-Ultimate evolutional"
+   ]
+  ],
+  "d": "The range of the activities of seven-circuited Havona is enormous, and Paper 14 describes them in general under three heads: activities proper to Havona itself, those related to Paradise, and those concerned with ascending finite creatures evolving toward the Supreme and the Ultimate. This short list shows that the perfect central universe is not merely a self-contained world but a bridge between Paradise and the evolutionary universes. The author modestly grants that the central universe may serve many purposes not revealed to him, functioning in ways beyond the comprehension of the created mind. He then proceeds at once to depict how this perfect creation ministers to the needs and satisfactions of seven orders of universe intelligence."
+ },
+ "L038": {
+  "t": "Seven Orders of Universe Intelligence and Their Satisfactions in Havona",
+  "cols": [
+   "",
+   "Intelligence",
+   "Satisfaction Afforded by Havona"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Universal Father",
+    "Supreme parental satisfaction from the perfection of the central creation"
+   ],
+   [
+    "2",
+    "The Eternal Son",
+    "Eternal proof of the partnership effectiveness of the divine family"
+   ],
+   [
+    "3",
+    "The Infinite Spirit",
+    "Proof of being the Conjoint Actor"
+   ],
+   [
+    "4",
+    "The Supreme Being",
+    "Eternal and perfect proof of the spiritual reality of the Supreme Being"
+   ],
+   [
+    "5",
+    "The Co-ordinate Creator Sons",
+    "The educational training ground for universe creation"
+   ],
+   [
+    "6",
+    "The Co-ordinate Ministering Daughters",
+    "Prepersonal training of the Universe Mother Spirits"
+   ],
+   [
+    "7",
+    "The Evolutionary Mortals of the Ascending Career",
+    "The home of the pattern personality of every mortal type"
+   ]
+  ],
+  "d": "For whom does the perfect central universe exist? The last section of Paper 14 explains what Havona affords to each of seven orders of universe intelligence. To the Father it gives the adoration of perfect creatures and love satiety; to the Son, proof of the partnership effectiveness of the divine family; to the Spirit, proof of being the Conjoint Actor. To the Supreme Being it is proof of spiritual reality; to the Creator Sons and the Universe Mother Spirits, a training ground; to mortals, the home of their pattern personalities. Notice that the same universe means something different to each, from Deity down to mortals. Especially telling is the Father's view of Havona as the alluring goal of his mortal grandchildren: the end of the ascension journey is already prepared."
+ },
+ "L039": {
+  "t": "Seven Constituents of the Superuniverses and Their Inhabitable Worlds",
+  "cols": [
+   "",
+   "Unit",
+   "Constitution and Rulers"
+  ],
+  "rows": [
+   [
+    "1",
+    "The System",
+    "About one thousand inhabited or inhabitable worlds; a System Sovereign"
+   ],
+   [
+    "2",
+    "The Constellation",
+    "One hundred systems (about 100,000 inhabitable planets); the Most Highs"
+   ],
+   [
+    "3",
+    "The Local Universe",
+    "One hundred constellations (about 10,000,000 inhabitable planets); a Creator Son"
+   ],
+   [
+    "4",
+    "The Minor Sector",
+    "One hundred local universes (about 1,000,000,000 inhabitable planets); Recents of Days"
+   ],
+   [
+    "5",
+    "The Major Sector",
+    "One hundred minor sectors (about 100,000,000,000 inhabitable worlds); Perfections of Days"
+   ],
+   [
+    "6",
+    "The Superuniverse",
+    "Ten major sectors (about 1,000,000,000,000 inhabitable planets); Ancients of Days"
+   ],
+   [
+    "7",
+    "The Grand Universe",
+    "Seven superuniverses (approximately seven trillion inhabitable worlds); Seven Master Spirits"
+   ]
+  ],
+  "d": "All seven superuniverses of the grand universe are organized on the same plan. About one thousand worlds adapted to support life make a system; these are grouped by hundreds into constellations, local universes, minor sectors, and major sectors, and ten major sectors constitute a superuniverse. Each unit has its headquarters world and its rulers, from the System Sovereign and the Most Highs through the Creator Son to the Recents, Perfections, and Ancients of Days. The number of inhabitable worlds multiplies a hundredfold at most steps, reaching approximately seven trillion in the grand universe. The list serves as a kind of cosmic address book, locating our planet precisely within the administrative structure of the whole."
+ },
+ "L040": {
+  "t": "Seven Multiple Revolutionary Movements Around Uversa",
+  "cols": [
+   "",
+   "Movement"
+  ],
+  "rows": [
+   [
+    "1",
+    "The revolution of Urantia around its sun"
+   ],
+   [
+    "2",
+    "The circuit of your solar system about the nucleus of the former Andronover nebula"
+   ],
+   [
+    "3",
+    "The rotation of the Andronover stellar family about the rotation-gravity center of the Nebadon star cloud"
+   ],
+   [
+    "4",
+    "The swing of the local star cloud of Nebadon around the Sagittarius center of its minor sector"
+   ],
+   [
+    "5",
+    "The rotation of the one hundred minor sectors, including Sagittarius, about their major sector"
+   ],
+   [
+    "6",
+    "The whirl of the ten major sectors, the so-called star drifts, about the Uversa headquarters"
+   ],
+   [
+    "7",
+    "The movement of Orvonton and six associated superuniverses around Paradise and Havona"
+   ]
+  ],
+  "d": "Some of the confusion of Urantian star observers arises from illusions produced by multiple, overlapping revolutionary movements. Paper 15 sets them out in seven layers. Urantia revolves around its sun; the solar system circles the nucleus of the former Andronover nebula; that stellar family rotates about the center of the Nebadon star cloud, and the star cloud swings around the Sagittarius center. The minor sectors in turn rotate about their major sector, the major sectors whirl about Uversa, and finally all Orvonton moves with the other superuniverses in the counterclockwise processional around Paradise and Havona. The text explains that the first and last motions are genetic, while the intervening ones are of composite origin, partly produced by the purposeful action of the force organizers."
+ },
+ "L041": {
+  "t": "Ten Groups of Origin for Suns, Planets, and Other Spheres",
+  "cols": [
+   "",
+   "Group",
+   "Origin"
+  ],
+  "rows": [
+   [
+    "1",
+    "Concentric Contraction Rings",
+    "Nebulae condensing by multiple-ring formation"
+   ],
+   [
+    "2",
+    "The Whirled Stars",
+    "Suns thrown off great mother wheels of highly heated gases"
+   ],
+   [
+    "3",
+    "Gravity-explosion Planets",
+    "Tidal convulsions and eruptions when passing near an enormous mass"
+   ],
+   [
+    "4",
+    "Centrifugal Planetary Daughters",
+    "Matter thrown off by enormous suns of accelerated revolution"
+   ],
+   [
+    "5",
+    "Gravity-deficiency Spheres",
+    "By-products of sun fission at the critical size limit"
+   ],
+   [
+    "6",
+    "Contractural Stars",
+    "The largest outer planet draws to itself its neighboring worlds"
+   ],
+   [
+    "7",
+    "Cumulative Spheres",
+    "Growth by meteoric accretion and minor collisions"
+   ],
+   [
+    "8",
+    "Burned-out Suns",
+    "Isolated suns with all available space-energy emitted"
+   ],
+   [
+    "9",
+    "Collisional Spheres",
+    "Collisional debris forming material nucleuses"
+   ],
+   [
+    "10",
+    "Architectural Worlds",
+    "Built according to plans and specifications for some special purpose"
+   ]
+  ],
+  "d": "Paper 15 classifies the majority of suns, planets, and other spheres into ten groups according to origin. It describes in turn nebulae condensing into rings, gaseous wheels throwing off suns, tidal convulsions producing explosive eruptions, rapidly revolving suns casting off matter, and then fission, contraction, accretion, and collision. There is even a concrete example of how our solar system might someday be reorganized around Jupiter. The first nine origins are evolutionary; only the last, the architectural worlds such as Salvington and Uversa, are built to specification. The text adds that there are almost one hundred different modes of formation, so this list presents only the principal ones. Behind it lies the conviction that even the birth of stars is part of an orderly universe plan."
+ },
+ "L042": {
+  "t": "Five Major Divisions of the Spheres of Space",
+  "cols": [
+   "",
+   "Division"
+  ],
+  "rows": [
+   [
+    "1",
+    "The suns—the stars of space"
+   ],
+   [
+    "2",
+    "The dark islands of space"
+   ],
+   [
+    "3",
+    "Minor space bodies—comets, meteors, and planetesimals"
+   ],
+   [
+    "4",
+    "The planets, including the inhabited worlds"
+   ],
+   [
+    "5",
+    "Architectural spheres—worlds made to order"
+   ]
+  ],
+  "d": "Where the preceding list classified spheres into ten groups by origin, this one sorts the spheres of space into five major divisions irrespective of origin: the luminous suns, the dark islands that emit no light, minor space bodies such as comets and meteors, the planets including the inhabited worlds, and the architectural spheres made to order. Paper 15 then goes on to describe each division in turn. The text states that, except for the architectural spheres, all space bodies have had an evolutionary origin, meaning that they were not brought into being by fiat of Deity, but that God's creative acts unfolded by a time-space technique through the operation of many created and eventuated intelligences. Here evolution and creation are not set against each other."
+ },
+ "L043": {
+  "t": "Six Headquarters Worlds from Jerusem to Uversa",
+  "cols": [
+   "",
+   "Headquarters",
+   "Domain and Training Spheres"
+  ],
+  "rows": [
+   [
+    "1",
+    "Jerusem",
+    "System of Satania; seven worlds of transition culture, including the mansion worlds"
+   ],
+   [
+    "2",
+    "Edentia",
+    "Constellation of Norlatiadek; seventy satellites of socializing culture and training"
+   ],
+   [
+    "3",
+    "Salvington",
+    "Local universe of Nebadon; ten university clusters of forty-nine spheres each"
+   ],
+   [
+    "4",
+    "Uminor the third",
+    "Minor sector of Ensa; seven spheres of the higher physical studies"
+   ],
+   [
+    "5",
+    "Umajor the fifth",
+    "Major sector of Splandon; seventy spheres of advancing intellectual training"
+   ],
+   [
+    "6",
+    "Uversa",
+    "Superuniverse of Orvonton; seven higher universities of advanced spiritual training"
+   ]
+  ],
+  "d": "The headquarters worlds of the universes are provided with every phase of material, morontial, and spiritual creation, and ascending mortals pass through their training spheres at each stage. Paper 15 introduces six headquarters in order, from Jerusem of our system to Uversa of our superuniverse. Postmortal life begins on the mansion worlds of Jerusem; on Edentia the ascender is socialized, and on Salvington spiritualized. Physical and intellectual studies follow on Uminor and Umajor, and in the seven higher universities of Uversa the pilgrim prepares for the long flight to Havona. The text notes that mortals never lose their appreciation for, and enjoyment of, their former levels of existence. The list itself is a map of the mortal ascension."
+ },
+ "L044": {
+  "t": "Seven Superuniverse Circuits of the Deities",
+  "cols": [
+   "",
+   "Circuit"
+  ],
+  "rows": [
+   [
+    "1",
+    "The unifying intelligence circuit of one of the Seven Master Spirits"
+   ],
+   [
+    "2",
+    "The reflective-service circuit of the seven Reflective Spirits"
+   ],
+   [
+    "3",
+    "The secret circuits of the Mystery Monitors"
+   ],
+   [
+    "4",
+    "The circuit of the intercommunion of the Eternal Son with his Paradise Sons"
+   ],
+   [
+    "5",
+    "The flash presence of the Infinite Spirit"
+   ],
+   [
+    "6",
+    "The broadcasts of Paradise, the space reports of Havona"
+   ],
+   [
+    "7",
+    "The energy circuits of the power centers and the physical controllers"
+   ]
+  ],
+  "d": "The universal circuits of Paradise, the four presence circuits of the Father, the Son, the Conjoint Actor, and the eternal Isle, do actually pervade the seven superuniverses. Beyond these, only two energy-circuit divisions function within the superuniverse space level: the superuniverse circuits and the local universe circuits. This list names the seven superuniverse circuits: the cosmic-mind circuit of a Master Spirit, the circuit of the Reflective Spirits, the secret circuits of the Mystery Monitors routed by Divinington to the Father, the intercommunion of the Son with his Sons, the flash presence of the Infinite Spirit, the broadcasts of Paradise, and the physical energy circuits. Because mind, spirit, communication, and energy are all linked by circuits, the superuniverse operates as one living network."
+ },
+ "L045": {
+  "t": "Three Local Universe Circuits of the Deities",
+  "cols": [
+   "",
+   "Circuit",
+   "Description"
+  ],
+  "rows": [
+   [
+    "1",
+    "The bestowal spirit of the Paradise Sons",
+    "The Comforter of the bestowal worlds; the Spirit of Truth, the spirit of Michael on Urantia"
+   ],
+   [
+    "2",
+    "The circuit of the Divine Ministers",
+    "The local universe Mother Spirits, the Holy Spirit of your world"
+   ],
+   [
+    "3",
+    "The intelligence-ministry circuit of a local universe",
+    "Including the presence of the adjutant mind-spirits"
+   ]
+  ],
+  "d": "Following the superuniverse circuits, Paper 15 names three circuits functioning in the local universe. The first is the bestowal spirit of the Paradise Sons, which on Urantia is the spirit of Michael, the Spirit of Truth. The second is the circuit of the Divine Ministers, the local universe Mother Spirits, the presence known on our world as the Holy Spirit. The third is the intelligence-ministry circuit, including the adjutant mind-spirits that minister to the minds of evolutionary creatures. These three are especially significant because they are the divine influences closest to everyday human experience. The text goes on to say that when the local universe circuits become indistinguishable from those of the superuniverse, that universe swings into the settled circuits of light and life."
+ },
+ "L046": {
+  "t": "Two Requisites for Admission to the Councils of the Ancients of Days",
+  "cols": [
+   "",
+   "Requisite",
+   "Content"
+  ],
+  "rows": [
+   [
+    "1",
+    "Physical Stability",
+    "Stars and planets in equilibrium; the orbit safely and finally settled"
+   ],
+   [
+    "2",
+    "Spiritual Loyalty",
+    "Universal recognition of, and loyalty to, the Sovereign Son; harmonious co-operation"
+   ]
+  ],
+  "d": "When such spiritual harmony develops in a local universe that its circuits become indistinguishable from those of the superuniverse, it swings into the settled circuits of light and life and becomes eligible for admission into the superuniverse confederation. There are two requisites. Physical stability means that stars and planets are in equilibrium and the orbit is finally settled; spiritual loyalty means universal recognition of the Sovereign Son who presides over the local universe, with harmonious co-operation among its planets, systems, and constellations. Notice that physical order and spiritual order must be achieved together. The text frankly states that Nebadon is not yet even reckoned as belonging to the settled physical order and has no representation on Uversa, while adding that the superuniverse government lends every possible assistance."
+ },
+ "L047": {
+  "t": "Seven Groups in the Executive Branch of the Superuniverse Government",
+  "cols": [
+   "",
+   "Group",
+   "Origin"
+  ],
+  "rows": [
+   [
+    "1",
+    "Ancients of Days",
+    "The joint chief executives of the supergovernment"
+   ],
+   [
+    "2",
+    "Perfectors of Wisdom",
+    "Co-ordinate Trinity Personalities"
+   ],
+   [
+    "3",
+    "Divine Counselors",
+    "Co-ordinate Trinity Personalities"
+   ],
+   [
+    "4",
+    "Universal Censors",
+    "Co-ordinate Trinity Personalities"
+   ],
+   [
+    "5",
+    "Mighty Messengers",
+    "Glorified ascendant mortals"
+   ],
+   [
+    "6",
+    "Those High in Authority",
+    "Glorified ascendant mortals"
+   ],
+   [
+    "7",
+    "Those without Name and Number",
+    "Glorified ascendant mortals"
+   ]
+  ],
+  "d": "Each superuniverse is presided over by three Ancients of Days, the joint chief executives, and the executive branch of the supergovernment consists of seven groups. The first four, the Ancients of Days, Perfectors of Wisdom, Divine Counselors, and Universal Censors, take origin directly in the Paradise Trinity. The last three, however, the Mighty Messengers, Those High in Authority, and Those without Name and Number, are, remarkably, glorified ascendant mortals. Having passed through Havona and attained Paradise, they were mustered into the Corps of the Finality, embraced by the Trinity, and assigned to the service of the Ancients of Days. That former mortals of animal origin share in the highest government of the superuniverse shows how great the possibilities of the ascension career are."
+ },
+ "L048": {
+  "t": "Seven Groups Added to the Co-ordinate Council of the Superuniverse",
+  "cols": [
+   "",
+   "Member",
+   "Role"
+  ],
+  "rows": [
+   [
+    "1",
+    "Perfections of Days",
+    "The rulers of the superuniverse major sectors"
+   ],
+   [
+    "2",
+    "Recents of Days",
+    "The directors of the superuniverse minor sectors"
+   ],
+   [
+    "3",
+    "Unions of Days",
+    "The Paradise advisers to the rulers of the local universes"
+   ],
+   [
+    "4",
+    "Faithfuls of Days",
+    "The Paradise counselors to the Most High rulers of the constellation governments"
+   ],
+   [
+    "5",
+    "Trinity Teacher Sons",
+    "Who may chance to be on duty at superuniverse headquarters"
+   ],
+   [
+    "6",
+    "Eternals of Days",
+    "Who may happen to be present at superuniverse headquarters"
+   ],
+   [
+    "7",
+    "The seven Reflective Image Aids",
+    "Spokesmen of the seven Reflective Spirits, representatives of the Master Spirits"
+   ]
+  ],
+  "d": "The co-ordinate council of a superuniverse is composed of the seven executive groups previously named together with the sector rulers and other regional overseers. The list moves from the rulers of the major and minor sectors to the Paradise advisers stationed with local universe and constellation governments, then to Trinity Teacher Sons and Eternals of Days who may happen to be present, and finally to the Reflective Image Aids. Superuniverse government thus appears not as a one-way chain of command but as a council in which many levels are represented together. The Reflective Image Aids deserve special notice, for they also represent groups not yet fully active in their individual capacities, including the evolving superuniverse personality manifestation of the Supreme Being."
+ },
+ "L049": {
+  "t": "The Seven Likenesses of the Seven Master Spirits",
+  "cols": [
+   "",
+   "Likeness"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Universal Father"
+   ],
+   [
+    "2",
+    "The Eternal Son"
+   ],
+   [
+    "3",
+    "The Infinite Spirit"
+   ],
+   [
+    "4",
+    "The Father and the Son"
+   ],
+   [
+    "5",
+    "The Father and the Spirit"
+   ],
+   [
+    "6",
+    "The Son and the Spirit"
+   ],
+   [
+    "7",
+    "The Father, Son, and Spirit"
+   ]
+  ],
+  "d": "The Seven Master Spirits are primary personalizations of the Infinite Spirit, yet each derives his individual characteristics from one of the seven possible associations of the three persons of Paradise Deity. Three resemble a single person, three resemble a pair, and the last resembles all three together. Since three Deity persons allow exactly seven such combinations, the number of the Master Spirits is no accident but an inevitability rooted in the nature of Deity. In spirit character they are as one, but in all other aspects of identity they are very unlike, and these differences condition the seven superuniverses. That the Spirit presiding over our own Orvonton equally portrays Father, Son, and Spirit follows directly from this list."
+ },
+ "L050": {
+  "t": "The Seven Master Spirits Described",
+  "cols": [
+   "",
+   "Master Spirit",
+   "Character"
+  ],
+  "rows": [
+   [
+    "1",
+    "Master Spirit Number One",
+    "The direct representation of the Paradise Father"
+   ],
+   [
+    "2",
+    "Master Spirit Number Two",
+    "Portrays the matchless nature and charming character of the Eternal Son"
+   ],
+   [
+    "3",
+    "Master Spirit Number Three",
+    "Especially resembles the Infinite Spirit"
+   ],
+   [
+    "4",
+    "Master Spirit Number Four",
+    "Partakes of the combined natures of the Father and the Son"
+   ],
+   [
+    "5",
+    "Master Spirit Number Five",
+    "Exquisitely blends the character of the Universal Father and the Infinite Spirit"
+   ],
+   [
+    "6",
+    "Master Spirit Number Six",
+    "Portrays the combined character of the Eternal Son and the Infinite Spirit"
+   ],
+   [
+    "7",
+    "Master Spirit Number Seven",
+    "A uniquely equal portrayal of the Father, the Son, and the Spirit"
+   ]
+  ],
+  "d": "The Seven Master Spirits are indescribable beings, yet distinctly personal. They have names, but the revelators introduce them by number. Each Spirit, according to the Deity person or association he resembles, advises a particular group of beings, speaks for that Deity in the councils of the Seven, and rules his superuniverse much as that Deity would. Each is always in liaison with the Reflective Spirits at his superuniverse headquarters. The Seventh Master Spirit receives the fullest treatment. He presides over Orvonton, our own superuniverse, and during the present age of the noncontactability of the person of the Supreme he functions in the place of the God of ascendant creatures. His administration therefore discloses a marvelous symmetry in the co-ordinate blending of the divine natures of Father, Son, and Spirit."
+ },
+ "L051": {
+  "t": "Seven Probable Influences of the Master Spirit of Orvonton",
+  "cols": [
+   "",
+   "Sphere of Activity"
+  ],
+  "rows": [
+   [
+    "1",
+    "The life-initiation procedures of the local universe Life Carriers"
+   ],
+   [
+    "2",
+    "The life activations of the adjutant mind-spirits"
+   ],
+   [
+    "3",
+    "The fluctuations in energy manifestations of linear-gravity-responding units of organized matter"
+   ],
+   [
+    "4",
+    "The behavior of emergent energy when fully liberated from the Unqualified Absolute"
+   ],
+   [
+    "5",
+    "The bestowal of the ministry spirit of a Creative Spirit, the Holy Spirit"
+   ],
+   [
+    "6",
+    "The bestowal of the spirit of the bestowal Sons, the Spirit of Truth"
+   ],
+   [
+    "7",
+    "The reflectivity mechanism of the local universes and the superuniverse"
+   ]
+  ],
+  "d": "The revelators admit that they cannot offer definite proof, yet they consider it highly probable that the Master Spirit of Orvonton exerts a decided influence in seven spheres. The list covers the initiation of life and the activation of the adjutant mind-spirits, fluctuations of physical energy and the behavior of emergent energy, the bestowals of the Holy Spirit and the Spirit of Truth, and the mechanism of reflectivity. Physical, mindal, and spiritual realms all appear, showing that the work of a Master Spirit is not confined to one dimension of reality. Immediately afterward the text marks the limits of this influence: the Master Spirits have nothing whatever to do with the bestowal of Thought Adjusters or with the functions of the Unqualified Absolute. The passage shows a careful distinction between conjecture and certainty."
+ },
+ "L052": {
+  "t": "Three Levels of Universe Reality to Which the Cosmic Mind Responds",
+  "cols": [
+   "",
+   "Level",
+   "Content"
+  ],
+  "rows": [
+   [
+    "1",
+    "Causation",
+    "The reality domain of the physical senses; the mathematical form of cosmic discrimination"
+   ],
+   [
+    "2",
+    "Duty",
+    "The reality domain of morals in the philosophic realm; the judicial form"
+   ],
+   [
+    "3",
+    "Worship",
+    "The spiritual domain of religious experience; the reverential and worshipful form"
+   ]
+  ],
+  "d": "The cosmic mind unfailingly responds on three levels of universe reality, and these responses are self-evident to clear-reasoning minds. The first is causation, the domain of the physical senses and the logical uniformity of science. The second is duty, the domain of morals, where reason recognizes relative right and wrong. The third is worship, the spiritual domain in which divine fellowship is personally realized and the soul ascends from the status of servants of God to the joy and liberty of the sons of God. These three correspond to science, philosophy, and religion, and they form the a priori assumptions that enable man to function as a rational, self-conscious personality. The revelators note that living experience always develops these intuitions, yet regret that so few cultivate courageous cosmic thinking."
+ },
+ "L053": {
+  "t": "Seven Areas of Man's Relative Free Will",
+  "cols": [
+   "",
+   "Area",
+   "Expression"
+  ],
+  "rows": [
+   [
+    "1",
+    "Moral decision",
+    "Highest wisdom"
+   ],
+   [
+    "2",
+    "Spiritual choice",
+    "Truth discernment"
+   ],
+   [
+    "3",
+    "Unselfish love",
+    "Brotherhood service"
+   ],
+   [
+    "4",
+    "Purposeful co-operation",
+    "Group loyalty"
+   ],
+   [
+    "5",
+    "Cosmic insight",
+    "The grasp of universe meanings"
+   ],
+   [
+    "6",
+    "Personality dedication",
+    "Wholehearted devotion to doing the Father's will"
+   ],
+   [
+    "7",
+    "Worship",
+    "The sincere pursuit of divine values and the wholehearted love of the divine Value-Giver"
+   ]
+  ],
+  "d": "Human free will is relative rather than absolute, yet it is precisely this freedom that characterizes the self-consciousness of human personality. Paper 16 names seven areas in which that freedom actually operates. The order rises from moral decision through spiritual choice, love and co-operation, and cosmic insight, to personality dedication and worship. Freedom begins in simple judgments and is completed in wholehearted love for God. That worship is the highest use of free will means that freedom is not a power to move away from God but the power to come to him of one's own choice."
+ },
+ "L054": {
+  "t": "Three Basic Mind Realities of the Cosmos",
+  "cols": [
+   "",
+   "Recognition"
+  ],
+  "rows": [
+   [
+    "1",
+    "The mathematical or logical recognition of the uniformity of physical causation"
+   ],
+   [
+    "2",
+    "The reasoned recognition of the obligation of moral conduct"
+   ],
+   [
+    "3",
+    "The faith-grasp of the fellowship worship of Deity, associated with the loving service of humanity"
+   ]
+  ],
+  "d": "When the divine gift of personality is bestowed upon a mind-endowed mortal mechanism, it confers the dignity of cosmic citizenship and enables the creature forthwith to recognize the three basic mind realities of the cosmos. The first is the mathematical or logical recognition of uniform physical causation; the second, the reasoned recognition of moral obligation; the third, the faith-grasp of fellowship with Deity, joined to loving service of humanity. This restates the earlier levels of causation, duty, and worship from the side of human personality. The text adds that the full function of such a personality endowment is the beginning realization of Deity kinship. Worth noting is that worship is not separated from the loving service of one's fellows."
+ },
+ "L055": {
+  "t": "Four Universe-Reality Realizations Latent in Human Self-Consciousness",
+  "cols": [
+   "",
+   "Quest",
+   "Content"
+  ],
+  "rows": [
+   [
+    "1",
+    "The quest for knowledge",
+    "The logic of science"
+   ],
+   [
+    "2",
+    "The quest for moral values",
+    "The sense of duty"
+   ],
+   [
+    "3",
+    "The quest for spiritual values",
+    "The religious experience"
+   ],
+   [
+    "4",
+    "The quest for personality values",
+    "Recognizing God as a personality and our fraternal relationship with fellow personalities"
+   ]
+  ],
+  "d": "Self-consciousness, the revelators say, is in essence a communal consciousness: God and man, Father and son, Creator and creature. True self-awareness arises only within such relationships. Four quests lie latent in human self-consciousness: the quest for knowledge, following the logic of science; the quest for moral values, felt as the sense of duty; the quest for spiritual values, issuing in religious experience; and the quest for personality values, the ability to recognize God as a personality together with the realization of our brotherhood with fellow personalities. The first three echo the earlier levels of science, morality, and worship, while the fourth is newly added. The following text explains that we become conscious of man as brother because we are already conscious of God as Creator Father, binding fatherhood and brotherhood together."
+ },
+ "L056": {
+  "t": "Three Groups Classified as Children of the Paradise Trinity",
+  "cols": [
+   "",
+   "Group"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Seven Master Spirits"
+   ],
+   [
+    "2",
+    "The Seven Supreme Executives"
+   ],
+   [
+    "3",
+    "The Reflective Spirits"
+   ]
+  ],
+  "d": "The seven Supreme Spirit groups are the universal co-ordinating directors of the seven-segmented administration of the grand universe. All are classed among the functional family of the Infinite Spirit, yet three of them, the Seven Master Spirits, the Seven Supreme Executives, and the Reflective Spirits, are usually classified as children of the Paradise Trinity. These groups stand on Paradise, its satellites, and the superuniverse headquarters, overseeing the whole grand universe from on high. The remaining four groups, which follow immediately, are brought into being by the Infinite Spirit or his creative associates, so the seven divide by origin into three and four. One family in function but different in origin, this distinction illustrates how the papers classify beings by origin and by function separately."
+ },
+ "L057": {
+  "t": "Four Groups Created by the Infinite Spirit or His Associates",
+  "cols": [
+   "",
+   "Group"
+  ],
+  "rows": [
+   [
+    "4",
+    "The Reflective Image Aids"
+   ],
+   [
+    "5",
+    "The Seven Spirits of the Circuits"
+   ],
+   [
+    "6",
+    "The Local Universe Creative Spirits"
+   ],
+   [
+    "7",
+    "The Adjutant Mind-Spirits"
+   ]
+  ],
+  "d": "Of the seven Supreme Spirit groups, the first three are classed as children of the Trinity, while the remaining four are brought into being by the creative acts of the Infinite Spirit or his associates of creative status. Hence their numbering runs from four to seven. The Reflective Image Aids serve at superuniverse headquarters, the Seven Spirits of the Circuits in the Havona circuits, the Creative Spirits in the local universes, and the adjutant mind-spirits within the minds of creatures on evolutionary worlds. Read in order, the list traces the functional domain of spirit from the periphery of the eternal Isle down to the lowly service of the worlds of time and space. It is notable that the ordinary workings of human mind are touched by the farthest ministry of this vast spirit family."
+ },
+ "L058": {
+  "t": "Seven Stages of Existence of a Local Universe Mother Spirit",
+  "cols": [
+   "",
+   "Stage",
+   "Feature"
+  ],
+  "rows": [
+   [
+    "1",
+    "Initial Paradise Differentiation",
+    "The supreme reaction of complement in the Infinite Spirit"
+   ],
+   [
+    "2",
+    "Preliminary Creatorship Training",
+    "The future consort becomes group conscious of destiny"
+   ],
+   [
+    "3",
+    "The Stage of Physical Creation",
+    "The prayer of identification; material organization of the universe"
+   ],
+   [
+    "4",
+    "The Life-Creation Era",
+    "The personalization ceremonies and the primary eruption"
+   ],
+   [
+    "5",
+    "The Postbestowal Ages",
+    "The Creator Son elevates the Mother Spirit to cosovereignty"
+   ],
+   [
+    "6",
+    "The Ages of Light and Life",
+    "The sixth phase of a Creative Spirit's career"
+   ],
+   [
+    "7",
+    "The Unrevealed Career",
+    "Speculation on a seventh career"
+   ]
+  ],
+  "d": "The Universe Mother Spirit, consort of a Creator Son, does not appear as a finished personality but grows through successive stages over long ages. Her career begins with the supreme reaction of complement in the Infinite Spirit when a Creator Son is personalized, then passes through preliminary training, physical creation, and life creation, during which an impersonal entity becomes manifestly personal. When the Creator Son completes his seventh bestowal and acquires full sovereignty, he elevates her to cosovereignty and acknowledges her as his equal. The ages of light and life follow, and the revelators cautiously conjecture a seventh, unrevealed career. The list teaches that even divine beings grow through experience, and that a Creator Son and a Creative Spirit work together as complements in the making of a universe."
+ },
+ "L059": {
+  "t": "Five Ways the Master Spirits Co-ordinate the Activities of God the Sevenfold",
+  "cols": [
+   "",
+   "Aspect"
+  ],
+  "rows": [
+   [
+    "1",
+    "Collectively they near-equivalate to the divinity level of the Trinity of Paradise Deities"
+   ],
+   [
+    "2",
+    "Individually they exhaust the primary associable possibilities of triune Deity"
+   ],
+   [
+    "3",
+    "Repositories of the spirit-mind-power sovereignty of the Supreme Being"
+   ],
+   [
+    "4",
+    "Through the Reflective Spirits they synchronize superuniverse governments with Majeston"
+   ],
+   [
+    "5",
+    "They contribute to the last level of God the Sevenfold, the Creator Son-Creative Spirit union"
+   ]
+  ],
+  "d": "The seven Supreme Spirit groups co-ordinate the inhabited creation, and the association of their directing heads, the Seven Master Spirits, appears to co-ordinate the far-flung activities of God the Sevenfold. The list names five aspects of this work. Collectively the Master Spirits approach the divinity level of the Trinity; individually they exhaust the possible associations of triune Deity. They hold in trust the sovereignty the Supreme Being does not yet personally exercise, link the superuniverse governments with Majeston through the Reflective Spirits, and share in the individualization of the local universe Divine Ministers. They thus bind together every level of God the Sevenfold, from Paradise Deity to the Creator Son-Creative Spirit union of the local universes. In the perfected future this functional unity will become inseparable from the experiential sovereignty of the Supreme."
+ },
+ "L060": {
+  "t": "The Seven Orders of Supreme Trinity Personalities",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "Trinitized Secrets of Supremacy"
+   ],
+   [
+    "2",
+    "Eternals of Days"
+   ],
+   [
+    "3",
+    "Ancients of Days"
+   ],
+   [
+    "4",
+    "Perfections of Days"
+   ],
+   [
+    "5",
+    "Recents of Days"
+   ],
+   [
+    "6",
+    "Unions of Days"
+   ],
+   [
+    "7",
+    "Faithfuls of Days"
+   ]
+  ],
+  "d": "Supreme Trinity Personalities are all created by the divine Trinity for specific service, qualified to serve with perfection of technique and finality of devotion. The list descends from the Trinitized Secrets of Supremacy, who serve near Paradise, through the Eternals of Days of the Havona worlds and the Ancients of Days who rule the superuniverses, to the rulers of the major and minor sectors, and finally to the Unions of Days and Faithfuls of Days stationed with local universes and constellations. Their numbers are definite and final; no more are being personalized. Throughout the grand universe they represent the administrative policies and the justice of the Paradise Trinity, forming an interrelated line of administrative perfection from the Father's spheres to the constellation capitals. There is never any risk of default or rebellion with Trinity-origin beings."
+ },
+ "L061": {
+  "t": "Seven Groups of Co-ordinate Trinity-Origin Beings",
+  "cols": [
+   "",
+   "Group"
+  ],
+  "rows": [
+   [
+    "1",
+    "Trinity Teacher Sons"
+   ],
+   [
+    "2",
+    "Perfectors of Wisdom"
+   ],
+   [
+    "3",
+    "Divine Counselors"
+   ],
+   [
+    "4",
+    "Universal Censors"
+   ],
+   [
+    "5",
+    "Inspired Trinity Spirits"
+   ],
+   [
+    "6",
+    "Havona Natives"
+   ],
+   [
+    "7",
+    "Paradise Citizens"
+   ]
+  ],
+  "d": "This Paradise group, designated the Co-ordinate Trinity-origin Beings, falls into seven classes: the Trinity Teacher Sons, also classed among the Paradise Sons of God; three groups of high superuniverse administrators, the Perfectors of Wisdom, Divine Counselors, and Universal Censors; the somewhat impersonal Inspired Trinity Spirits; and the Havona Natives and Paradise Citizens who inhabit the central universe and the eternal Isle. Whereas the Supreme Trinity Personalities chiefly govern, these beings serve in more varied ways: teaching, wisdom, counsel, judgment, and inspiration. Except for the Trinity Teacher Sons and possibly the Inspired Trinity Spirits, their numbers are definite and their creation is a finished event. The Trinity Teacher Sons are especially notable, for being of Trinity origin yet devoted to the services of sonship, they bridge the gulf between Trinity- and dual-origin personalities."
+ },
+ "L062": {
+  "t": "Four Errors of Reasoning in Approaching the Higher from the Lower",
+  "cols": [
+   "",
+   "Error"
+  ],
+  "rows": [
+   [
+    "1",
+    "Failing to perceive the final and completed evolutionary goal of personal attainment or cosmic destiny"
+   ],
+   [
+    "2",
+    "Oversimplifying cosmic evolutionary reality, distorting facts and perverting truth"
+   ],
+   [
+    "3",
+    "Taking how a being becomes for its present status and true character"
+   ],
+   [
+    "4",
+    "Expecting history alone to reveal future development—destiny"
+   ]
+  ],
+  "d": "Whether in biology or theology, the philosophic technique of starting from the lower to approach the higher is always in danger of four errors of reasoning. It may miss the final goal, oversimplify evolutionary reality, mistake the history of origins for the true character of the present, and try to read destiny from the past alone. Finite origins are helpful, the revelators say, but only divine causes reveal final effects, and the present can be truly interpreted only in the light of the correlated past and future. For these reasons the papers do not begin with man but embark on the time-space journey from the infinite, eternal, and divine Paradise Source and Center of all personality and existence. The list is a methodological confession explaining why the whole book moves from God toward man."
+ },
+ "L063": {
+  "t": "Three Possible Types of Creatures to Reside in Havona",
+  "cols": [
+   "",
+   "Type"
+  ],
+  "rows": [
+   [
+    "1",
+    "The univitatia, at present the permanent citizens of the local universe constellations"
+   ],
+   [
+    "2",
+    "Future types of mortals born in the flowering of the ages of light and life"
+   ],
+   [
+    "3",
+    "The incoming spiritual aristocracy of the successive outer universes"
+   ]
+  ],
+  "d": "Havona natives are constantly filtering into the Paradise Corps of the Finality, and no more are being created, so the number remaining in the central universe is steadily diminishing. The revelators do not believe Havona will ever be entirely depleted of its natives, and they cautiously suggest three types of beings who may come to reside there: the univitatia, now permanent citizens of the local universe constellations; future types of mortals born on the superuniverse worlds in the flowering of light and life; and the spiritual aristocracy arriving from the successive outer universes. They add that the Havona of the previous universe age differed from that of the present, and conclude that the universe is nonstatic; only God is changeless. Even the perfect central universe is slowly changing in anticipation of the ages to come."
+ },
+ "L064": {
+  "t": "Three General Classes of the Sons of God",
+  "cols": [
+   "",
+   "Class"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Descending Sons of God"
+   ],
+   [
+    "2",
+    "The Ascending Sons of God"
+   ],
+   [
+    "3",
+    "The Trinitized Sons of God"
+   ]
+  ],
+  "d": "As they function in the superuniverse of Orvonton, the Sons of God are classified under three general heads. Descending Sons are personalities of direct and divine creation who come down to serve the worlds of time and space. Ascending sons, such as mortal creatures, achieve their status by experiential participation in the creative technique known as evolution. Trinitized Sons are a group of composite origin, including all beings embraced by the Paradise Trinity even though not of direct Trinity origin. The classification shows that sonship is not fixed by birth alone but opens along three paths: descending in service, ascending through attainment, and being embraced by the Trinity. Its great significance for us is that mortal man, as an ascending son, belongs to the family of the Sons of God."
+ },
+ "L065": {
+  "t": "Three Orders of the Paradise Sons of God",
+  "cols": [
+   "",
+   "Order",
+   "Name"
+  ],
+  "rows": [
+   [
+    "1",
+    "Creator Sons",
+    "The Michaels"
+   ],
+   [
+    "2",
+    "Magisterial Sons",
+    "The Avonals"
+   ],
+   [
+    "3",
+    "Trinity Teacher Sons",
+    "The Daynals"
+   ]
+  ],
+  "d": "All descending Sons of God have high and divine origins and come down to the worlds of time and space to facilitate the Paradise climb of the lowly creatures of evolutionary origin. Of the seven orders depicted in these narratives, the three that come forth from the Deities on the central Isle of Light and Life are called the Paradise Sons of God: the Creator Sons, or Michaels; the Magisterial Sons, or Avonals; and the Trinity Teacher Sons, or Daynals. They create universes, judge and bestow themselves upon the worlds, and teach truth. The remaining four orders are known as the Local Universe Sons of God. Since Michael of Nebadon, who came to Urantia as Jesus, belongs to the first of these orders, the list also introduces the divine Son who stands closest to us."
+ },
+ "L066": {
+  "t": "The Threefold Function of Avonals on the Inhabited Worlds",
+  "cols": [
+   "",
+   "Function",
+   "Content"
+  ],
+  "rows": [
+   [
+    "1",
+    "Judicial Actions",
+    "Dispensation terminators, liberators of the sleeping survivors"
+   ],
+   [
+    "2",
+    "Magisterial Missions",
+    "Usually before a bestowal Son; appearing as an adult without mortal birth"
+   ],
+   [
+    "3",
+    "Bestowal Missions",
+    "Bestowal upon some mortal race; born of woman"
+   ]
+  ],
+  "d": "The Magisterial Sons, the Avonals, serve on higher administrative levels, but on the inhabited worlds they have a threefold function. In judicial actions they come at the close of the planetary dispensations as dispensation terminators and liberators of the sleeping survivors, and such missions may occur scores or hundreds of times on one world. On magisterial missions, usually before the arrival of a bestowal Son, they appear as adults of the realm by a technique of incarnation not involving mortal birth. On bestowal missions every Avonal at least once bestows himself upon some mortal race and is born of woman, as Michael of Nebadon was on Urantia. The list moves from the frequent to the singular: judicial visits are numerous, magisterial missions may be plural, but each planet receives only one bestowal Son."
+ },
+ "L067": {
+  "t": "Three Limitations on the Creator Prerogatives of a Local Universe Father",
+  "cols": [
+   "",
+   "Limitation"
+  ],
+  "rows": [
+   [
+    "1",
+    "Energy-matter is dominated by the Infinite Spirit"
+   ],
+   [
+    "2",
+    "Creature designs and types are controlled by the Eternal Son"
+   ],
+   [
+    "3",
+    "Personality is designed and bestowed by the Universal Father"
+   ]
+  ],
+  "d": "When a Michael Son departs from Paradise to organize his universe, his creator prerogatives are forever liberated from the Paradise Sources and Centers, yet certain limitations inherent in their pre-existence remain. Before any new forms of things may be created or energy-matter transformed, he must secure the consent and working co-operation of the Infinite Spirit; before creating any new type of being, he must secure the consent of the Eternal Son; and personality is designed and bestowed by the Universal Father alone. The text adds that mind is the endowment of the Third Source and Center, and that spiritual design is ultimately controlled by the Trinity. Even a Creator Son who seems all-powerful in his universe works in co-operation with the three persons of Deity, showing that universe creation is a partnership of the Gods rather than the act of one being."
+ },
+ "L068": {
+  "t": "Seven Stages of the Sovereignty of a Creator Son",
+  "cols": [
+   "",
+   "Stage",
+   "Content"
+  ],
+  "rows": [
+   [
+    "1",
+    "Initial vicegerent sovereignty",
+    "Solitary provisional authority before the Creative Spirit acquires personal qualities"
+   ],
+   [
+    "2",
+    "Conjoint vicegerent sovereignty",
+    "Joint rule of the Paradise pair after the Mother Spirit's personality achievement"
+   ],
+   [
+    "3",
+    "Augmenting vicegerent sovereignty",
+    "Advancing authority during the seven creature bestowals"
+   ],
+   [
+    "4",
+    "Supreme sovereignty",
+    "Settled authority following the completion of the seventh bestowal"
+   ],
+   [
+    "5",
+    "Augmenting supreme sovereignty",
+    "Advanced relationship as a majority of domains settle in light and life"
+   ],
+   [
+    "6",
+    "Trinitarian sovereignty",
+    "Exercised after the entire local universe is settled in light and life"
+   ],
+   [
+    "7",
+    "Unrevealed sovereignty",
+    "The unknown relationships of a future universe age"
+   ]
+  ],
+  "d": "The sovereignty of a Creator Son is not given complete at the outset but passes through six, perhaps seven, stages of experiential manifestation. At first he exercises solitary provisional authority; after the Creative Spirit attains personality the pair rule jointly; and his authority grows through the seven creature bestowals. Upon completion of the seventh bestowal supreme sovereignty is established. In Nebadon it dates from Michael's bestowal on Urantia and has existed just slightly over nineteen hundred years. Thereafter sovereignty is augmented as the worlds settle in light and life, becomes Trinitarian when the entire universe is settled, and beyond that remains unrevealed. Because the earth life of Jesus completed the establishment of our universe sovereignty, the list reminds us of Urantia's place in universe history."
+ },
+ "L069": {
+  "t": "Seven Experiential Steps to Supreme Sovereignty",
+  "cols": [
+   "",
+   "Step"
+  ],
+  "rows": [
+   [
+    "1",
+    "To penetrate seven creature levels of being through incarnated bestowal"
+   ],
+   [
+    "2",
+    "To make an experiential consecration to each phase of the sevenfold will of Paradise Deity"
+   ],
+   [
+    "3",
+    "To traverse each creature experience simultaneously with one of the seven consecrations"
+   ],
+   [
+    "4",
+    "On each creature level, to portray the acme of creature life to Paradise Deity"
+   ],
+   [
+    "5",
+    "On each creature level, to reveal one phase of the sevenfold will of Deity"
+   ],
+   [
+    "6",
+    "To unify the sevenfold creature experience with the sevenfold experience of consecration"
+   ],
+   [
+    "7",
+    "To achieve new and higher relationship with the Supreme Being"
+   ]
+  ],
+  "d": "To obtain supreme sovereignty over a local universe, a Creator Son must pass through seven experiential steps. Seven times he incarnates in the very likeness of his creatures, penetrating each level of being, and each time he consecrates himself to one phase of the sevenfold will of Deity as personified in the Seven Master Spirits. In each bestowal he portrays the acme of creature life upward to Deity and reveals the will of Deity downward to the universe. When these two strands of experience are unified, the repercussion augments the reality of God the Supreme and factualizes Michael's supreme sovereignty. The heart of the list is that the right to rule is not merely conferred from above but earned by living the lives of those who are ruled. The life of Jesus, the seventh bestowal, is thus seen in cosmic perspective."
+ },
+ "L070": {
+  "t": "Three Reasons the Sovereignty of a Sevenfold Creator Son Is Supreme",
+  "cols": [
+   "",
+   "Reason"
+  ],
+  "rows": [
+   [
+    "1",
+    "Embraces the sevenfold viewpoint of Paradise Deity"
+   ],
+   [
+    "2",
+    "Embodies a sevenfold attitude of time-space creatures"
+   ],
+   [
+    "3",
+    "Perfectly synthesizes Paradise attitude and creature viewpoint"
+   ]
+  ],
+  "d": "The power of a Master Michael is unlimited because it derives from experienced association with the Paradise Trinity, and unquestioned because it derives from actual experience as the very creatures subject to his authority. The supremacy of his sovereignty rests on three points: it embraces the sevenfold viewpoint of Deity, embodies the sevenfold attitude of creatures, and perfectly synthesizes the two. The view from above and the experience from below meet in one personality. The text adds that this experiential sovereignty is all-inclusive of the divinity of God the Sevenfold culminating in the Supreme Being, and resembles the future sovereignty of the sometime-to-be-completed Supreme. The idea of a ruler who knows both God's viewpoint and man's shows why Jesus is the rightful sovereign of our universe."
+ },
+ "L071": {
+  "t": "Three Primary Divisions of the Trinitized Sons of God",
+  "cols": [
+   "",
+   "Division"
+  ],
+  "rows": [
+   [
+    "1",
+    "Deity-trinitized Sons"
+   ],
+   [
+    "2",
+    "Trinity-embraced Sons"
+   ],
+   [
+    "3",
+    "Creature-trinitized Sons"
+   ]
+  ],
+  "d": "Besides the descending and ascending orders of sonship there is a third group, the Trinitized Sons of God, subdivided by the origins of its personalities into three primary divisions: Deity-trinitized Sons, Trinity-embraced Sons, and Creature-trinitized Sons. Whatever their origin, all have in common the experience of trinitization, either as part of their origin or as an experience of Trinity embrace subsequently attained. Since the Deity-trinitized Sons are unrevealed in these narratives, the presentation confines itself to the other two groups, more particularly the Trinity-embraced sons. Because ascendant mortals themselves may be embraced by the Trinity and enter this group, the classification offers an early glimpse of one of the distant possibilities of human ascension."
+ },
+ "L072": {
+  "t": "The Seven Orders of Trinity-Embraced Sons",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "Mighty Messengers"
+   ],
+   [
+    "2",
+    "Those High in Authority"
+   ],
+   [
+    "3",
+    "Those without Name and Number"
+   ],
+   [
+    "4",
+    "Trinitized Custodians"
+   ],
+   [
+    "5",
+    "Trinitized Ambassadors"
+   ],
+   [
+    "6",
+    "Celestial Guardians"
+   ],
+   [
+    "7",
+    "High Son Assistants"
+   ]
+  ],
+  "d": "All Trinity-embraced sons are originally of dual or single origin, but after the Trinity embrace they are forever devoted to Trinity service. Organized for superuniverse service, the corps embraces seven orders. The first three are Adjuster-fused mortals who have attained Paradise; the next two are recruited from evolutionary seraphim, translated midwayers, and Spirit-fused and Son-fused mortals; and the last two are unique twice-trinitized personalities. Whereas Trinity-origin associates are of stationary numbers, these sons are constantly increasing; they serve the seven superuniverses in exactly equal numbers, and not one has ever been lost. Since a mortal of Urantia may one day become a Mighty Messenger serving beside the Ancients of Days, the list opens a remarkable horizon of ascension."
+ },
+ "L073": {
+  "t": "Three Major Divisions of the Trinity-Embraced Sons",
+  "cols": [
+   "",
+   "Division",
+   "Orders"
+  ],
+  "rows": [
+   [
+    "1",
+    "Trinitized Sons of Attainment",
+    "Mighty Messengers, Those High in Authority, Those without Name and Number"
+   ],
+   [
+    "2",
+    "Trinitized Sons of Selection",
+    "Trinitized Custodians, Trinitized Ambassadors"
+   ],
+   [
+    "3",
+    "Trinitized Sons of Perfection",
+    "Celestial Guardians, High Son Assistants"
+   ]
+  ],
+  "d": "The seven orders of Trinity-embraced sons are further classified, according to origin, nature, and function, into three major divisions. The Sons of Attainment are Adjuster-fused ascendant mortals who have attained Paradise and the Corps of the Finality; when Trinity embraced, their names are removed from the finaliter roll call. The Sons of Selection are recruited from evolutionary seraphim and translated midway creatures who have traversed Havona, and from Spirit-fused and Son-fused mortals. The Sons of Perfection are the creature-trinitized sons of Paradise-Havona personalities or of long-distinguished ascendant mortals, a unique group of twice-trinitized personalities. Through the three names, attainment, selection, and perfection, the classification shows beings who came by very different paths gathered into the same Trinity service."
+ },
+ "L074": {
+  "t": "Three Orders of Creature-Trinitized Sons",
+  "cols": [
+   "",
+   "Order",
+   "Reality Trinitized"
+  ],
+  "rows": [
+   [
+    "1",
+    "Ascender-trinitized Sons",
+    "Conceptual realities of the Almighty Supreme acquired by finaliters"
+   ],
+   [
+    "2",
+    "Paradise-Havona-trinitized Sons",
+    "High spiritual aspects of the Supreme Being acquired by Paradise Citizens and Havoners"
+   ],
+   [
+    "3",
+    "Trinitized Sons of Destiny",
+    "Actualities of Supreme-Ultimate Deity from a finaliter and a Paradise-Havoner together"
+   ]
+  ],
+  "d": "The Supreme Being is the unification of three phases of Deity reality: God the Supreme, the spiritual unification of finite aspects of the Trinity; the Almighty Supreme, the power unification of the grand universe Creators; and the Supreme Mind, the contribution of the Third Source and Center. In their trinitization adventures the superb creatures of the central universe and Paradise take part in revealing this Deity of the Supreme. Finaliters trinitize conceptual realities of the Almighty Supreme gained in their ascent through time and space; Paradise Citizens and Havoners trinitize spiritual aspects of the Supreme acquired on a background bordering on the Ultimate. When the two trinitize together, the effort repercusses in the Supreme-Ultimate Mind, and supercreational Sons of Destiny result. The deeper meaning is that even creature creativity contributes to the growth of the Supreme."
+ },
+ "L075": {
+  "t": "Seven Divisions of Service of the Solitary Messengers",
+  "cols": [
+   "",
+   "Division"
+  ],
+  "rows": [
+   [
+    "1",
+    "Messengers of the Paradise Trinity"
+   ],
+   [
+    "2",
+    "Messengers of the Havona Circuits"
+   ],
+   [
+    "3",
+    "Messengers of the Superuniverses"
+   ],
+   [
+    "4",
+    "Messengers of the Local Universes"
+   ],
+   [
+    "5",
+    "Explorers of Undirected Assignment"
+   ],
+   [
+    "6",
+    "Ambassadors and Emissaries of Special Assignment"
+   ],
+   [
+    "7",
+    "Revelators of Truth"
+   ]
+  ],
+  "d": "Solitary Messengers are assigned by the Infinite Spirit to seven divisions of service. The list begins with the Paradise Trinity and descends through Havona, the superuniverses, and the local universes, then turns to explorers of undirected assignment, ambassadors and emissaries of special assignment, and finally the revelators of truth. Yet these are not separate orders. Solitary Messengers are spiritually alike and in every sense equal, and transfers from one service to another are constantly taking place. The Infinite Spirit knows each by a personal name, while others know them by the name or number of their current assignment. Messengers of the Trinity are the trusted and secret servants of the Deities and have never betrayed a confidence. That revelators of truth close the list suggests their connection with revelations such as this one."
+ },
+ "L076": {
+  "t": "Seven Divisions of the Higher Personalities of the Infinite Spirit",
+  "cols": [
+   "",
+   "Division"
+  ],
+  "rows": [
+   [
+    "1",
+    "Solitary Messengers"
+   ],
+   [
+    "2",
+    "Universe Circuit Supervisors"
+   ],
+   [
+    "3",
+    "Census Directors"
+   ],
+   [
+    "4",
+    "Personal Aids of the Infinite Spirit"
+   ],
+   [
+    "5",
+    "Associate Inspectors"
+   ],
+   [
+    "6",
+    "Assigned Sentinels"
+   ],
+   [
+    "7",
+    "Graduate Guides"
+   ]
+  ],
+  "d": "This list arranges the Higher Personalities of the Infinite Spirit who function throughout the grand universe into seven divisions. The first four, Solitary Messengers, Circuit Supervisors, Census Directors, and Personal Aids, are characterized by tremendous endowments of antigravity. Solitary Messengers roam the universe of universes without known headquarters; Circuit Supervisors and Census Directors are based on the superuniverse capitals; the Personal Aids are stationed on the central Isle of Light. Associate Inspectors and Assigned Sentinels serve in the local universes and systems, and Graduate Guides lead ascenders through Havona. Supervising circuits, counting beings, inspecting, guarding, and guiding are all part of the unseen administration that keeps the universe orderly. The list shows how variously the family of the Infinite Spirit cares for creation."
+ },
+ "L077": {
+  "t": "Four Orders of Universe Circuit Supervisors",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "Supreme Circuit Supervisors"
+   ],
+   [
+    "2",
+    "Associate Circuit Supervisors"
+   ],
+   [
+    "3",
+    "Secondary Circuit Supervisors"
+   ],
+   [
+    "4",
+    "Tertiary Circuit Supervisors"
+   ]
+  ],
+  "d": "Universe Circuit Supervisors are the exclusive creation of the Infinite Spirit, and they function solely as agents of the Conjoint Actor. They are personalized in four orders that follow the structure of the universes. The seven supreme supervisors are stationed on the pilot worlds of the seven Havona circuits; the seven associate supervisors keep headquarters on the seven Paradise spheres of the Infinite Spirit and have charge of the circuits of the seven superuniverses; secondary supervisors serve at superuniverse headquarters, and tertiary supervisors at local universe headquarters. The first two orders are of completed numbers. In liaison with the Supreme Power Centers, they co-ordinate all material and spiritual circuits passing out to the seven superuniverses. They are, in a sense, the overseers of the pathways along which spirit flows."
+ },
+ "L078": {
+  "t": "Seven Orders of the Messenger Hosts of Space",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "Havona Servitals"
+   ],
+   [
+    "2",
+    "Universal Conciliators"
+   ],
+   [
+    "3",
+    "Technical Advisers"
+   ],
+   [
+    "4",
+    "Custodians of Records on Paradise"
+   ],
+   [
+    "5",
+    "Celestial Recorders"
+   ],
+   [
+    "6",
+    "Morontia Companions"
+   ],
+   [
+    "7",
+    "Paradise Companions"
+   ]
+  ],
+  "d": "The Messenger Hosts of Space rank intermediately in the family of the Infinite Spirit and serve as versatile connecting links between the higher personalities and the ministering spirits. Of the seven groups only three, the servitals, the conciliators, and the Morontia Companions, are created as such; the remaining four, the Technical Advisers, Custodians of Records, Celestial Recorders, and Paradise Companions, represent attainment levels of the angelic orders. The list thus mixes offices given by creation with offices reached by attainment. According to nature and status, these beings serve throughout the universe of universes, always subject to the direction of those who rule their realms. Adjusting disputes, giving technical counsel, preserving records, and accompanying ascenders are careful services that make the ascension journey actually possible."
+ },
+ "L079": {
+  "t": "The Quartet of Universal Conciliators",
+  "cols": [
+   "",
+   "Member",
+   "Role"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Judge-Arbiter",
+    "Unanimously designated by the other three as judicial head of the group"
+   ],
+   [
+    "2",
+    "The Spirit-Advocate",
+    "Presents evidence and safeguards the rights of all personalities involved"
+   ],
+   [
+    "3",
+    "The Divine Executioner",
+    "Contacts material beings and executes the decisions of the commission"
+   ],
+   [
+    "4",
+    "The Recorder",
+    "The clerk of the tribunal, preparing all records"
+   ]
+  ],
+  "d": "In each superuniverse the Universal Conciliators find themselves strangely and innately segregated into groups of four, associations in which they continue to serve. Three are spirit personalities, and one is a semimaterial being. The judge-arbiter, unanimously chosen by the other three, heads the group; the spirit-advocate he appoints presents evidence and safeguards the rights of all concerned. The divine executioner, a fourth creature, contacts material beings and executes the decisions, being almost visible to mortal sight. The remaining member automatically becomes the recorder, preparing records for the superuniverse and the local universe. Because the advocate is detached during adjudication, these commissions are sometimes called referee trios. With judgment, advocacy, execution, and record all provided for, the quartet presents a heavenly pattern of fair adjudication."
+ },
+ "L080": {
+  "t": "Seven Levels of Universe Service by Conciliators",
+  "cols": [
+   "",
+   "Level"
+  ],
+  "rows": [
+   [
+    "1",
+    "Conciliators to the Worlds"
+   ],
+   [
+    "2",
+    "Conciliators to the System Headquarters"
+   ],
+   [
+    "3",
+    "The Constellation Conciliators"
+   ],
+   [
+    "4",
+    "Conciliators to the Local Universes"
+   ],
+   [
+    "5",
+    "Conciliators to the Superuniverse Minor Sectors"
+   ],
+   [
+    "6",
+    "Conciliators to the Superuniverse Major Sectors"
+   ],
+   [
+    "7",
+    "Conciliators to the Superuniverse"
+   ]
+  ],
+  "d": "The order of conciliators is wholly dependable; not one has ever gone astray. They take origin on a superuniverse headquarters, go out to the individual worlds, and return through seven levels of service. On the worlds they settle deadlocked matters among supervising personalities; in systems and constellations they adjust group contentions and misunderstandings between different orders of creatures; and as they advance through local universes and superuniverse sectors there is less misunderstanding to adjudicate and more mysterious phenomena to explain. The divine executioner gradually loses his material duties and becomes a mercy-justice interpreter. At the last level the four become co-ordinate arbiter-teachers. Behind the list lies a simple truth: wherever there are beings with the power of choice, misunderstandings arise, and provision must be made for their fair adjustment."
+ },
+ "L081": {
+  "t": "Seven Orders from Which Technical Advisers Are Recruited",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Supernaphim"
+   ],
+   [
+    "2",
+    "The Seconaphim"
+   ],
+   [
+    "3",
+    "The Tertiaphim"
+   ],
+   [
+    "4",
+    "The Omniaphim"
+   ],
+   [
+    "5",
+    "The Seraphim"
+   ],
+   [
+    "6",
+    "Certain Types of Ascending Mortals"
+   ],
+   [
+    "7",
+    "Certain Types of Ascending Midwayers"
+   ]
+  ],
+  "d": "Technical Advisers are not created as such; they are recruited from the ranks of several personality orders. The list begins with the supernaphim of the central universe, passes through the seconaphim, tertiaphim, and omniaphim of the superuniverses, descends to the seraphim of the local universes, and finally includes certain types of ascending mortals and ascending midwayers. It is notable that not only angels but also creatures risen from the evolutionary worlds share in this work of legal and technical counsel. The text reports that, not counting mortals and midwayers of transient attachment, the Technical Advisers operating in Orvonton number slightly in excess of sixty-one trillion. Universe administration is thus aided by countless advisers versed in rules and procedures, and mortals may take part in that work during their ascent."
+ },
+ "L082": {
+  "t": "Seven Classifications of the Ministering Spirits of the Grand Universe",
+  "cols": [
+   "",
+   "Classification"
+  ],
+  "rows": [
+   [
+    "1",
+    "Supernaphim"
+   ],
+   [
+    "2",
+    "Seconaphim"
+   ],
+   [
+    "3",
+    "Tertiaphim"
+   ],
+   [
+    "4",
+    "Omniaphim"
+   ],
+   [
+    "5",
+    "Seraphim"
+   ],
+   [
+    "6",
+    "Cherubim and Sanobim"
+   ],
+   [
+    "7",
+    "Midway Creatures"
+   ]
+  ],
+  "d": "The ministering spirits of the grand universe fall into seven classifications: the supernaphim of the central universe; the seconaphim, tertiaphim, and omniaphim of the superuniverses; the seraphim of the local universes with their assistants, the cherubim and sanobim; and the midway creatures born on the inhabited worlds. The order runs from Paradise down to the worlds where mortals live. The text adds that individual members of the angelic orders are not altogether stationary as to personal status. Some become Paradise Companions for a season, others Celestial Recorders or Technical Advisers; certain cherubim may aspire to seraphic status, and evolutionary seraphim can achieve the spiritual levels of the ascending Sons of God. The quiet message of the list is that angels, too, grow and ascend."
+ },
+ "L083": {
+  "t": "Three Groupings of Ministering Spirits by Importance to Ascenders",
+  "cols": [
+   "",
+   "Grouping",
+   "Orders"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Ministering Spirits of the Central Universe",
+    "The three orders of supernaphim"
+   ],
+   [
+    "2",
+    "The Ministering Spirits of the Superuniverses",
+    "The seconaphim, the tertiaphim, and the omniaphim"
+   ],
+   [
+    "3",
+    "The Ministering Spirits of the Local Universes",
+    "The seraphim and their assistants, the cherubim"
+   ]
+  ],
+  "d": "The seven orders of ministering spirits are grouped for presentation according to their functions of greatest importance to ascending creatures. In the central universe the three orders of supernaphim serve the Paradise-Havona system; in the superuniverses the seconaphim, tertiaphim, and omniaphim minister; in the local universes the seraphim and cherubim serve. Mortal ascenders have initial contact with the seraphim, offspring of a Universe Mother Spirit. The midway creatures, native to the inhabited worlds, are functionally grouped with these spirits but are not really of the angelic orders proper. The text notes that it is especially the supernaphim, seconaphim, and seraphim who, in large numbers, further the ascending scheme for the children of time, forming an unbroken chain of spirit ministers from the evolutionary worlds to Paradise."
+ },
+ "L084": {
+  "t": "Seven Assignments of the Corps of Tertiary Supernaphim",
+  "cols": [
+   "",
+   "Assignment",
+   "Role"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Harmony Supervisors",
+    "To maintain system and to insure harmony"
+   ],
+   [
+    "2",
+    "The Chief Recorders",
+    "Record in triplicate"
+   ],
+   [
+    "3",
+    "The Broadcasters",
+    "The broadcast receivers and senders of the central creation"
+   ],
+   [
+    "4",
+    "The Messengers",
+    "Bearers of all messages requiring personal transmission"
+   ],
+   [
+    "5",
+    "The Intelligence Co-ordinators",
+    "Promoters of fraternal association between ascending and descending pilgrims"
+   ],
+   [
+    "6",
+    "The Transport Personalities",
+    "Take away the disappointed candidates who transiently fail"
+   ],
+   [
+    "7",
+    "The Reserve Corps",
+    "Reserves of supernaphim on the pilot world of the seventh circle"
+   ]
+  ],
+  "d": "The tertiary supernaphim are the angels chiefly assigned in Havona to the service of the pilgrims of time, and they work in seven groups, each taking origin from one of the Spirits of the Havona circuits. Harmony supervisors provide the co-ordination required even in perfect Havona; chief recorders write in triplicate for Havona, for their order, and for Paradise. Broadcasters receive and send the news of the central creation, messengers carry all communications requiring personal transmission, and intelligence co-ordinators foster fraternal association between ascending and descending pilgrims. Transport personalities take away candidates who transiently fail in the Deity adventure, and the reserve corps stands ready for any assignment. It is touching that provision is made even for the pilgrims who temporarily fail."
+ },
+ "L085": {
+  "t": "Seven Working Groups of Secondary Supernaphim",
+  "cols": [
+   "",
+   "Group"
+  ],
+  "rows": [
+   [
+    "1",
+    "Pilgrim Helpers"
+   ],
+   [
+    "2",
+    "Supremacy Guides"
+   ],
+   [
+    "3",
+    "Trinity Guides"
+   ],
+   [
+    "4",
+    "Son Finders"
+   ],
+   [
+    "5",
+    "Father Guides"
+   ],
+   [
+    "6",
+    "Counselors and Advisers"
+   ],
+   [
+    "7",
+    "Complements of Rest"
+   ]
+  ],
+  "d": "Secondary supernaphim minister to the seven planetary circuits of the central universe, and in serving the ascending pilgrims they work in seven groups. Their order traces the pilgrim's path from the outer to the inner circuit of Havona. Pilgrim helpers receive the newcomers, Supremacy guides help them comprehend God the Supreme, and Trinity guides lead them to the concept of the Trinity. Son finders and Father guides then assist in the discovery of the Eternal Son and the Universal Father, while counselors and advisers and the complements of rest attend to the final preparation. Each group contains angels of all seven created types, and a pilgrim is always tutored by supernaphim of origin in the Master Spirit who presides over his superuniverse of nativity. Mortals of Urantia will thus be piloted by angels reflecting the Seventh Master Spirit."
+ },
+ "L086": {
+  "t": "Seven Orders of Service of the Primary Supernaphim",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "Conductors of Worship"
+   ],
+   [
+    "2",
+    "Masters of Philosophy"
+   ],
+   [
+    "3",
+    "Custodians of Knowledge"
+   ],
+   [
+    "4",
+    "Directors of Conduct"
+   ],
+   [
+    "5",
+    "Interpreters of Ethics"
+   ],
+   [
+    "6",
+    "Chiefs of Assignment"
+   ],
+   [
+    "7",
+    "Instigators of Rest"
+   ]
+  ],
+  "d": "The primary supernaphim have served on the Isle of Light from eternity, but they have functioned as now classified only since the arrival on Paradise of the Havona pilgrims of time. These high angels minister in seven orders of service. Notably, ascending pilgrims pass through their training under these angels in the reverse order of the naming once they actually attain Paradise residence. They begin their Paradise career under the instigators of rest and advance through the chiefs of assignment, interpreters of ethics, directors of conduct, custodians of knowledge, and masters of philosophy, coming at last to the conductors of worship. This sequence, beginning with rest and ending with worship, shows that the summit of Paradise life is not knowledge or philosophy but the worship of God."
+ },
+ "L087": {
+  "t": "Three Orders of Ministering Spirits of the Superuniverses",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Seconaphim"
+   ],
+   [
+    "2",
+    "The Tertiaphim"
+   ],
+   [
+    "3",
+    "The Omniaphim"
+   ]
+  ],
+  "d": "The ministering spirits of the superuniverses, as presented in these narratives, embrace the seconaphim, the tertiaphim, and the omniaphim. Yet the text notes that, technically, neither tertiaphim nor omniaphim are ministering spirits of the superuniverses, though both serve as spirit ministers in these domains. Tertiaphim, children of the Infinite Spirit, serve the liaison between Creator Sons and Ancients of Days, while omniaphim serve the Supreme Executives exclusively. Since these two orders are not so directly concerned with the ascendant scheme of mortal progression, they are treated briefly, and the main attention falls on the seconaphim, offspring of the Reflective Spirits. Seconaphim serve as living reflective mechanisms in nearly every affair of the supergovernments and are closely related to ascending mortals. The short list illustrates how the revelation gives weight to what matters most for ascenders."
+ },
+ "L088": {
+  "t": "Seven Types of Service of the Primary Seconaphim",
+  "cols": [
+   "",
+   "Type"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Voice of the Conjoint Actor"
+   ],
+   [
+    "2",
+    "The Voice of the Seven Master Spirits"
+   ],
+   [
+    "3",
+    "The Voice of the Creator Sons"
+   ],
+   [
+    "4",
+    "The Voice of the Angelic Hosts"
+   ],
+   [
+    "5",
+    "Broadcast Receivers"
+   ],
+   [
+    "6",
+    "Transport Personalities"
+   ],
+   [
+    "7",
+    "The Reserve Corps"
+   ]
+  ],
+  "d": "The primary seconaphim incline by inherent nature toward seven types of service, and they are created serially, so that the first and every seventh one thereafter share the same type. The first four are voices: they reflect to the Ancients of Days the mind of the Infinite Spirit, the collective natures of the Seven Master Spirits, the minds of the Creator Sons, and the sentiments of all orders of angels. Thus the superuniverse rulers, though apparently deprived of the personal presence of the Master Spirits above and the Michaels below, can know their attitudes at once and deduce the Father's will by equating the voices from above and below. The other three receive special broadcasts, carry pilgrims to Havona, and stand in reserve for emergencies. The revelators admit they do not fully understand how this works, but testify that it unfailingly does."
+ },
+ "L089": {
+  "t": "Seven Reflective Types of Secondary Seconaphim",
+  "cols": [
+   "",
+   "Type",
+   "Assignment"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Voice of Wisdom",
+    "Perfectors of Wisdom"
+   ],
+   [
+    "2",
+    "The Soul of Philosophy",
+    "Perfectors of Wisdom"
+   ],
+   [
+    "3",
+    "The Union of Souls",
+    "Perfectors of Wisdom"
+   ],
+   [
+    "4",
+    "The Heart of Counsel",
+    "Divine Counselors"
+   ],
+   [
+    "5",
+    "The Joy of Existence",
+    "Divine Counselors"
+   ],
+   [
+    "6",
+    "The Satisfaction of Service",
+    "Divine Counselors"
+   ],
+   [
+    "7",
+    "The Discerner of Spirits",
+    "Universal Censors"
+   ]
+  ],
+  "d": "The seven reflective types of secondary seconaphim are assigned to the three co-ordinate Trinity-origin associates of the Ancients of Days. To the Perfectors of Wisdom go the Voices of Wisdom, the Souls of Philosophy, and the Unions of Souls; to the Divine Counselors, the Hearts of Counsel, the Joys of Existence, and the Satisfactions of Service; and to the Universal Censors, the Discerners of Spirits. The Voices of Wisdom are in perpetual liaison with the living libraries of Paradise and reflect the co-ordinated wisdom of the universes, while the Discerners of Spirits help the Censors judge the authenticity of what comes from realms where rebellion has been rife. Their very names carry virtues: wisdom, philosophy, ethical union, counsel, joy, satisfaction, and discernment. The list shows that superuniverse government runs not by law and power alone but in a spirit of wisdom, joy, and service."
+ },
+ "L090": {
+  "t": "Seven Types of Tertiary Seconaphim",
+  "cols": [
+   "",
+   "Type"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Significance of Origins"
+   ],
+   [
+    "2",
+    "The Memory of Mercy"
+   ],
+   [
+    "3",
+    "The Import of Time"
+   ],
+   [
+    "4",
+    "The Solemnity of Trust"
+   ],
+   [
+    "5",
+    "The Sanctity of Service"
+   ],
+   [
+    "6",
+    "The Secret of Greatness"
+   ],
+   [
+    "7",
+    "The Soul of Goodness"
+   ]
+  ],
+  "d": "Tertiary seconaphim are likewise created serially in seven reflective types, but they are not assigned individually; all are collectively assigned to the Trinitized Sons of Attainment. Their names read like a sequence of lessons for ascending creatures. The Significances of Origins are living genealogies of all beings; the Memory of Mercy is the living record of mercy extended to each individual, read into testimony when one's right to unending life is adjudicated. The Import of Time reminds that time is the one talent intrusted to all will creatures, and the Solemnity of Trust declares trustworthiness the true measure of character. Once trustworthiness is discovered, the privilege of service follows, and finally the Secret of Greatness and the Soul of Goodness teach that greatness and goodness are inseparable in God. To be great is to be Godlike."
+ },
+ "L091": {
+  "t": "Three Groups of Living Beings Having to Do with Force Control and Energy Regulation",
+  "cols": [
+   "",
+   "Group"
+  ],
+  "rows": [
+   [
+    "1",
+    "Primary Eventuated Master Force Organizers"
+   ],
+   [
+    "2",
+    "Associate Transcendental Master Force Organizers"
+   ],
+   [
+    "3",
+    "Universe Power Directors"
+   ]
+  ],
+  "d": "Mankind has long known of angels, but little information concerning the controllers and regulators of the physical domain has ever been imparted. The revelator names three groups of living beings having to do with force control and energy regulation in the master universe, and is permitted fully to disclose only the last. The first two, the Master Force Organizers, deal with the primordial force of space, and their eventuated and transcendental origins place them beyond the categories of time and space. The third group, the Universe Power Directors, regulate energy intelligently throughout the grand universe and become the subject of the following narrative. The heart of the list is that even the physical order of the cosmos is under the intelligent supervision of living beings. Behind the laws of the material world stand mind and will."
+ },
+ "L092": {
+  "t": "Four Major Divisions of the Universe Power Directors",
+  "cols": [
+   "",
+   "Division"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Seven Supreme Power Directors"
+   ],
+   [
+    "2",
+    "The Supreme Power Centers"
+   ],
+   [
+    "3",
+    "The Master Physical Controllers"
+   ],
+   [
+    "4",
+    "The Morontia Power Supervisors"
+   ]
+  ],
+  "d": "The revelator deems it impossible to portray the individuality of the directors, centers, and controllers of universe power, but hopes to explain something of their domain. They are a unique group of living beings having to do with the intelligent regulation of energy throughout the grand universe, embracing four major divisions: the Seven Supreme Power Directors, personalized by the Seven Master Spirits; the Supreme Power Centers, produced by the directors together with the Master Spirits; the Master Physical Controllers, offspring of the centers; and the Morontia Power Supervisors. The supreme directors and centers have existed from the near times of eternity, and no more have been created. The list follows a lineage from spirit parents to semimaterial progeny, revealing an order of beings bridging spirit and matter. Hard as they are for mortals to envisage, every flow of universe energy passes through their hands."
+ },
+ "L093": {
+  "t": "Seven Groups of Supreme Power Centers",
+  "cols": [
+   "",
+   "Group"
+  ],
+  "rows": [
+   [
+    "1",
+    "Supreme Center Supervisors"
+   ],
+   [
+    "2",
+    "Havona Centers"
+   ],
+   [
+    "3",
+    "Superuniverse Centers"
+   ],
+   [
+    "4",
+    "Local Universe Centers"
+   ],
+   [
+    "5",
+    "Constellation Centers"
+   ],
+   [
+    "6",
+    "System Centers"
+   ],
+   [
+    "7",
+    "Unclassified Centers"
+   ]
+  ],
+  "d": "The Seven Supreme Power Directors cannot reproduce themselves individually, but collectively, and in association with the Seven Master Spirits, they create other beings like themselves. Such is the origin of the Supreme Power Centers, who function in seven groups. The list begins with the Supreme Center Supervisors, regulators of the master energy circuits of the grand universe, and descends through Havona, the superuniverses, the local universes, the constellations, and the systems, ending with unclassified centers of special assignment. The sequence matches the levels of universe administration. These centers are endowed with Third-Source personality, disclose high volitional capacity, and direct the energy system with exquisite intelligence. The list shows that even the flow of physical energy is watched and regulated by personal beings at every level of the universe."
+ },
+ "L094": {
+  "t": "Seven Orders of Master Physical Controllers, Offspring of the Supreme Power Centers",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "Associate Power Directors"
+   ],
+   [
+    "2",
+    "Mechanical Controllers"
+   ],
+   [
+    "3",
+    "Energy Transformers"
+   ],
+   [
+    "4",
+    "Energy Transmitters"
+   ],
+   [
+    "5",
+    "Primary Associators"
+   ],
+   [
+    "6",
+    "Secondary Dissociators"
+   ],
+   [
+    "7",
+    "The Frandalanks and Chronoldeks"
+   ]
+  ],
+  "d": "The Master Physical Controllers are the direct offspring of the Supreme Power Centers, and they form seven orders. The list moves from power direction and mechanical control to the transformation and transmission of energy, then to the association and dissociation of matter, ending with the Frandalanks and Chronoldeks, living instruments that register energy and time. The text notes that not all of these orders are persons in the sense of possessing individual powers of choice. The last four especially seem wholly automatic and mechanical in response to their superiors and to energy conditions, yet their response is not actually mechanistic. It adds that personality is not necessarily a concomitant of mind, for mind can think even when deprived of all power of choice. The list invites reflection on the subtle distinctions among personality, mind, and automatic response."
+ },
+ "L095": {
+  "t": "Two Grand Divisions of the Master Force Organizers",
+  "cols": [
+   "",
+   "Division",
+   "Work"
+  ],
+  "rows": [
+   [
+    "1",
+    "Primary Eventuated Master Force Organizers",
+    "Nebulae creators; transmute primordial force into primary or puissant energy"
+   ],
+   [
+    "2",
+    "Associate Transcendental Master Force Organizers",
+    "Continue energy transmutation through the secondary or gravity-energy stage"
+   ]
+  ],
+  "d": "The force organizers are resident on Paradise but function throughout the master universe, especially in the domains of unorganized space. They are neither creators nor creatures, and they work exclusively under the supervision of the Architects of the Master Universe. The two divisions share one continuous process. The primary organizers transmute primordial force, held only by the Unqualified Absolute, into energy responsive to Paradise gravity, instigating the energy cyclones of space; the associate organizers carry that energy on to the gravity-energy stage. When a Creator Son arrives and the plans for a local universe are complete, they give way to the power directors of the superuniverse. The list shows that a material universe is born not by chance but as the planned work of living beings."
+ },
+ "L096": {
+  "t": "The Paradise Classification of Living Beings",
+  "cols": [
+   "",
+   "Category",
+   "Groups Included"
+  ],
+  "rows": [
+   [
+    "1",
+    "Triune-origin Beings",
+    "The Supreme Spirits, the Stationary Sons of the Trinity, Trinity-origin and Trinitized Beings"
+   ],
+   [
+    "2",
+    "Dual-origin Beings",
+    "The Descending Orders, the Stationary Orders, the Ascending Orders"
+   ],
+   [
+    "3",
+    "Single-origin Beings",
+    "The Supreme Spirits, the Ascending Orders, the Family of the Infinite Spirit"
+   ],
+   [
+    "4",
+    "Eventuated Transcendental Beings",
+    "Architects of the Master Universe, Transcendental Recorders, other Transcendentalers, Master Force Organizers"
+   ],
+   [
+    "5",
+    "Fragmented Entities of Deity",
+    "Best typified by the Thought Adjusters, fragments of the First Source and Center"
+   ],
+   [
+    "6",
+    "Superpersonal Beings",
+    "Other-than-personal beings of divine origin and of manifold service"
+   ],
+   [
+    "7",
+    "Unclassified and Unrevealed Orders",
+    "The Consummator of Universe Destiny, Majeston of Paradise, the Midsonite Orders, and others"
+   ]
+  ],
+  "d": "Paper 30 presents the personalities of the grand universe in two ways, and the first is the Paradise classification. On Paradise, living beings are classified by their inherent and attained relationship to the Paradise Deities. Beings originating in all three Deities, in any two, or in any one form the first three categories, each subdivided into descending, stationary, ascending, and other orders, unfolding into more than thirty lists. Then follow the eventuated Transcendentalers, who are neither creators nor creatures, the fragmented entities of Deity typified by the Adjusters, superpersonal beings, and orders yet unclassified. The revelators state at the outset that not all groups are revealed, for overrevelation stifles imagination. The classification teaches us to understand every being by its relationship of origin to Deity."
+ },
+ "L097": {
+  "t": "Six Groups of Glorified Beings in the Primary Finaliter Corps",
+  "cols": [
+   "",
+   "Group"
+  ],
+  "rows": [
+   [
+    "1",
+    "Havona Natives"
+   ],
+   [
+    "2",
+    "Gravity Messengers"
+   ],
+   [
+    "3",
+    "Glorified Mortals"
+   ],
+   [
+    "4",
+    "Adopted Seraphim"
+   ],
+   [
+    "5",
+    "Glorified Material Sons"
+   ],
+   [
+    "6",
+    "Glorified Midway Creatures"
+   ]
+  ],
+  "d": "The Corps of Mortal Finaliters is the present known destination of the ascending Adjuster-fused mortals of time, yet mortals are not its only members. Havona natives, Gravity Messengers, glorified mortals, adopted seraphim, glorified Material Sons, and glorified midway creatures together compose this unique body of eternal destiny. All are received in equality, but this exalted equality in no way abrogates individuality or destroys personal identity. The finaliters are now a wholly self-governing body, choosing their own leaders, and their oath of allegiance is only to the Paradise Trinity. The list shows how beings of very different origins become one corps through the associative experience of the long and eventful ascendant career, and together await their unknown service in outer space."
+ },
+ "L098": {
+  "t": "Three Facts Pointing to One More Step in the Finaliter Career",
+  "cols": [
+   "",
+   "Fact"
+  ],
+  "rows": [
+   [
+    "1",
+    "Mortals attain the sixth stage of spirit existence upon taking the finaliter oath"
+   ],
+   [
+    "2",
+    "They have achieved the present limit of creature perfection but not finality of creature service"
+   ],
+   [
+    "3",
+    "They have been trained respecting every divine principle of the administration of all the universal creation"
+   ]
+  ],
+  "d": "Mortal finaliters attain Paradise, are mustered into the Corps of the Finality, and are sent back to assist in local and superuniverse affairs, yet they are of record as only sixth-stage spirits. The Uversa author frankly admits ignorance of the next step but calls attention to three facts. Spirit classification has always followed actual advancement from one realm of service to another; the finaliters have reached the present limit of perfection but not finality; and they have been thoroughly trained in every principle of universe administration. The author surmises that seventh-spirit classification will come with service on unrevealed spheres and the attainment of God the Supreme. He then shares with the reader the question: Why should the Gods so thoroughly train surviving mortals in the technique of universe management?"
+ },
+ "L099": {
+  "t": "Seven Levels of the Master Architects",
+  "cols": [
+   "",
+   "Level",
+   "Number and Work"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Paradise Level",
+    "The senior Architect; co-ordinator of Paradise and its twenty-one worlds"
+   ],
+   [
+    "2",
+    "The Havona Level",
+    "Three; co-ordination of the one billion perfect spheres of the central universe"
+   ],
+   [
+    "3",
+    "The Superuniverse Level",
+    "Seven; the superco-ordinators of the grand universe"
+   ],
+   [
+    "4",
+    "The Primary Space Level",
+    "Seventy; the first universe of outer space"
+   ],
+   [
+    "5",
+    "The Secondary Space Level",
+    "490; the second universe of outer space"
+   ],
+   [
+    "6",
+    "The Tertiary Space Level",
+    "3,430; the third universe of outer space"
+   ],
+   [
+    "7",
+    "The Quartan Space Level",
+    "24,010; the fourth and last universe of outer space"
+   ]
+  ],
+  "d": "The Architects of the Master Universe are the governing corps of the Paradise Transcendentalers, and their origin, nature, and destiny may not be fully revealed. Still, the revelators tell us that they exist in seven levels of the absonite. Their numbers grow from one, three, and seven to seventy, 490, 3,430, and 24,010, a total of 28,011. The upper three levels serve Paradise, Havona, and the grand universe; the lower four are conjectured to be concerned with the four universes now mobilizing in outer space. Numbers multiplying by seven suggest ever-increasing-sized universes to come. The Paradise tradition that the attempted 28,012th Architect experienced personality seizure by the Universal Absolute suggests that even absonity has its limit."
+ },
+ "L100": {
+  "t": "The Seven Corps of the Finality",
+  "cols": [
+   "",
+   "Corps"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Corps of Mortal Finaliters"
+   ],
+   [
+    "2",
+    "The Corps of Paradise Finaliters"
+   ],
+   [
+    "3",
+    "The Corps of Trinitized Finaliters"
+   ],
+   [
+    "4",
+    "The Corps of Conjoint Trinitized Finaliters"
+   ],
+   [
+    "5",
+    "The Corps of Havona Finaliters"
+   ],
+   [
+    "6",
+    "The Corps of Transcendental Finaliters"
+   ],
+   [
+    "7",
+    "The Corps of Unrevealed Sons of Destiny"
+   ]
+  ],
+  "d": "The senior Master Architect has the oversight of the seven Corps of the Finality. The list begins with the Corps of Mortal Finaliters, passes through the Paradise, Trinitized, Conjoint Trinitized, Havona, and Transcendental Finaliters, and ends with the Unrevealed Sons of Destiny. The seven presiding heads constitute the Supreme Council of Destiny on Paradise, and in the present universe age Grandfanda, the first mortal ascender, is its chief. The revelators see nothing like this mobilization since the Paradise Trinity commissioned the rulers of the seven superuniverses in the near times of eternity. The Ultimate Trinity is probably mustering the forces of the finite and the absonite for inconceivable developments in outer space. It is remarkable that mortals of animal origin stand first in this list."
+ },
+ "L101": {
+  "t": "Three Things Certain About the Outer Creations",
+  "cols": [
+   "",
+   "Certainty"
+  ],
+  "rows": [
+   [
+    "1",
+    "A vast and new system of universes is gradually organizing in the domains of outer space"
+   ],
+   [
+    "2",
+    "The mysterious Paradise mobilization of the perfected and ascendant beings continues, with the six other finaliter corps"
+   ],
+   [
+    "3",
+    "The Supreme Person of Deity is powerizing as the almighty sovereign of the supercreations"
+   ]
+  ],
+  "d": "The Uversa authors confess that they really know nothing about the plans of the Master Architects for the outer creations, yet of three things they are certain. The first concerns universes, the second creatures, and the third Deity. Gigantic universes are organizing in outer space and are visible through telescopes; the finaliter corps have been mobilizing on Paradise for ages upon ages; and the Supreme Being is powerizing as almighty sovereign. Viewing this triune development, the authors anticipate that something new and unrevealed is approaching culmination in the master universe. At least seventy thousand aggregations of matter have already been identified, each greater than any present superuniverse. The point of the list is that the destiny of ascending mortals is bound up with this vast future."
+ },
+ "L102": {
+  "t": "Three Distinct Spirit Circuits in the Local Universe",
+  "cols": [
+   "",
+   "Circuit"
+  ],
+  "rows": [
+   [
+    "1",
+    "The bestowal spirit of the Creator Son, the Comforter, the Spirit of Truth"
+   ],
+   [
+    "2",
+    "The spirit circuit of the Divine Minister, the Holy Spirit"
+   ],
+   [
+    "3",
+    "The intelligence-ministry circuit, including the seven adjutant mind-spirits"
+   ]
+  ],
+  "d": "There are three distinct spirit circuits in the local universe of Nebadon. The first is the Spirit of Truth, poured out upon a world by a bestowal Son after he receives spiritual title to that sphere; it draws all truth seekers towards him who is the personification of truth. The second is the Holy Spirit of the Divine Minister, the Universe Mother Spirit, and the third is the intelligence-ministry circuit of the seven adjutant mind-spirits she creates. Notice that the Creator Son may come and go while the Spirit of Truth functions undisturbed, for this presence, though derived from the Son, is functionally centered in the Divine Minister, who never leaves Salvington. Thus the spirit of the Son, the presence of the Mother Spirit, and the adjutants of mind all minister together to the human mind."
+ },
+ "L103": {
+  "t": "Four Orders of Local Universe Sonship",
+  "cols": [
+   "",
+   "Order of Sonship"
+  ],
+  "rows": [
+   [
+    "1",
+    "Melchizedek Sons"
+   ],
+   [
+    "2",
+    "Vorondadek Sons"
+   ],
+   [
+    "3",
+    "Lanonandek Sons"
+   ],
+   [
+    "4",
+    "Life Carrier Sons"
+   ]
+  ],
+  "d": "The Sons considered here are of local universe origin rather than Paradise origin. They are the offspring of a Paradise Creator Son in varied association with the complemental Universe Mother Spirit. As triune Paradise Deity creates three orders of sonship, the Michaels, the Avonals, and the Daynals, so dual Deity in the local universe, the Son and the Spirit, creates three high orders: the Melchizedeks, the Vorondadeks, and the Lanonandeks. Having achieved this threefold expression, they collaborate with the next level of God the Sevenfold to produce the versatile Life Carriers. These are classed as descending Sons of God, yet they are a unique and original form of universe life. The structure is striking: the threefold creation of Paradise is repeated on a lower level, and a fourth order devoted to life is added."
+ },
+ "L104": {
+  "t": "The Seven Melchizedek Worlds of the Salvington Circuit",
+  "cols": [
+   "",
+   "World"
+  ],
+  "rows": [
+   [
+    "1",
+    "The pilot world—the home world of the Melchizedek Sons"
+   ],
+   [
+    "2",
+    "The world of the physical-life schools and the laboratories of living energies"
+   ],
+   [
+    "3",
+    "The world of morontia life"
+   ],
+   [
+    "4",
+    "The sphere of initial spirit life"
+   ],
+   [
+    "5",
+    "The world of mid-spirit life"
+   ],
+   [
+    "6",
+    "The sphere of advancing spirit life"
+   ],
+   [
+    "7",
+    "The domain of co-ordinate and supreme self-realization"
+   ]
+  ],
+  "d": "The 490 spheres of the Salvington circuit are divided into ten groups, each with seven primary and forty-two tributary spheres. The first group is these seven worlds under the supervision of the Melchizedeks. Their order moves from physical life to morontia life, then through initial, mid-, and advancing spirit life to supreme self-realization, so that the whole course of the ascendant career is mirrored in their arrangement. The pilot world, the sphere Melchizedek, is the common meeting ground for all beings who educate and spiritualize ascending mortals, and every mortal who graduates from constellation training lands there. The author says that even after reaching Paradise you will never forget your first day on this unique world. The list shows universe education beginning systematically in the hands of the Melchizedeks."
+ },
+ "L105": {
+  "t": "Six Tributary Spheres of Study Around Melchizedek",
+  "cols": [
+   "",
+   "Phase of Study"
+  ],
+  "rows": [
+   [
+    "1",
+    "The review of the initial planetary life of the ascending mortals"
+   ],
+   [
+    "2",
+    "A similar review of the experiences on the mansion worlds"
+   ],
+   [
+    "3",
+    "Reviews of the sojourn on the capital of the local system"
+   ],
+   [
+    "4",
+    "A review of the experiences of the seventy tributary worlds of the constellation"
+   ],
+   [
+    "5",
+    "The review of the ascendant sojourn on the constellation headquarters world"
+   ],
+   [
+    "6",
+    "Correlating these five epochs to achieve co-ordination of experience"
+   ]
+  ],
+  "d": "On the six tributary worlds around the pilot world Melchizedek, ascending mortals look back on the road they have traveled before learning anything new. On the first sphere they review their planetary life in classes made up of those from the same world, and those from Urantia pursue this review together. They then review in turn the mansion worlds, the system capital, the seventy tributary worlds of the constellation, and the constellation headquarters. On the sixth sphere they correlate these five epochs into a co-ordinated whole, and only then enter the Melchizedek primary schools. The arrangement shows that universe education does not discard past experience but builds upon it and integrates it. Every stage traveled becomes the foundation of further progress."
+ },
+ "L106": {
+  "t": "Three Classes of Lanonandek Sons",
+  "cols": [
+   "",
+   "Class",
+   "Number and Assignment"
+  ],
+  "rows": [
+   [
+    "1",
+    "Primary Lanonandeks",
+    "709,841; System Sovereigns, assistants to constellation councils, counselors"
+   ],
+   [
+    "2",
+    "Secondary Lanonandeks",
+    "10,234,601; Planetary Princes and the reserves of that order"
+   ],
+   [
+    "3",
+    "Tertiary Lanonandeks",
+    "1,055,558; subordinate assistants, messengers, custodians, commissioners, observers"
+   ]
+  ],
+  "d": "The Lanonandeks, the third order of universe sonship born of the Creator Son and the Universe Mother Spirit, are best known as System Sovereigns and Planetary Princes. Nebadon began with exactly twelve million of them, and as the first students of the Melchizedek University they were divided by final tests into three classes according to ability, personality, and attainment. The highest, the primary, rule systems and assist in constellation administration; the most numerous, the secondary, become Planetary Princes of inhabited worlds; the tertiary carry the miscellaneous duties of a system. Unlike evolutionary beings, they cannot progress from one group to another, nor do they reproduce. Drawing nearer the lower creatures, they render greater service in the subordinate units of the universe but stand in greater danger of going astray, which is why this list matters for understanding the history of rebellion."
+ },
+ "L107": {
+  "t": "The Lanonandek Order as Classified on Salvington",
+  "cols": [
+   "Group",
+   "Round Number"
+  ],
+  "rows": [
+   [
+    "Universe Co-ordinators and Constellation Counselors",
+    "100,000"
+   ],
+   [
+    "System Sovereigns and Assistants",
+    "600,000"
+   ],
+   [
+    "Planetary Princes and Reserves",
+    "10,000,000"
+   ],
+   [
+    "Messenger Corps",
+    "400,000"
+   ],
+   [
+    "Custodians and Recorders",
+    "100,000"
+   ],
+   [
+    "Reserve Corps",
+    "800,000"
+   ]
+  ],
+  "d": "Unlike the three classes determined by the Melchizedek tests, this list gives the round numbers by which Salvington classifies the Lanonandeks according to actual service. Of the twelve million, ten million belong to the Planetary Princes and their reserves, for every inhabited world needs a prince and every vacancy must be filled. Universe Co-ordinators, Constellation Counselors, System Sovereigns, and assistants form the upper ranks; the Messenger Corps and the custodians and recorders handle liaison and preservation; and a Reserve Corps of eight hundred thousand stands behind them. When System Sovereigns or assistants are recalled, the supreme council of the constellation fills their places from the reserves, a group larger on Edentia than the average. These numbers show a local universe administration run with ample reserves, where system governments do not suddenly change unless tragedy occurs."
+ },
+ "L108": {
+  "t": "The Seven Worlds of the Life Carriers",
+  "cols": [
+   "",
+   "World"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Life Carrier headquarters"
+   ],
+   [
+    "2",
+    "The life-planning sphere"
+   ],
+   [
+    "3",
+    "The life-conservation sphere"
+   ],
+   [
+    "4",
+    "The sphere of life evolution"
+   ],
+   [
+    "5",
+    "The sphere of life associated with mind"
+   ],
+   [
+    "6",
+    "The sphere of mind and spirit in living beings"
+   ],
+   [
+    "7",
+    "The sphere of unrevealed life"
+   ]
+  ],
+  "d": "The fourth group of primary spheres in the Salvington circuit are the worlds of the Life Carriers, under the general oversight of the Melchizedeks. The seven begin with the headquarters and proceed through life planning, conservation, and evolution to life associated with mind and to mind and spirit in living beings, ending with the sphere of unrevealed life. The order traces how life is designed, conserved, and evolved until it finally harbors mind and spirit. Each primary sphere is surrounded by six satellites devoted to special phases of Life Carrier activity. On the headquarters world is the college of life planning, where teachers from Uversa, Havona, and even Paradise function, and there too are the central emplacements of the seven adjutant mind-spirits. Notice also that the domain of life is characterized not by ten but by three, seven, and twelve."
+ },
+ "L109": {
+  "t": "The Seven Adjutant Mind-Spirits",
+  "cols": [
+   "",
+   "Adjutant",
+   "Characteristic"
+  ],
+  "rows": [
+   [
+    "1",
+    "The spirit of intuition",
+    "Quick perception, the primitive physical and inherent reflex instincts"
+   ],
+   [
+    "2",
+    "The spirit of understanding",
+    "The impulse of co-ordination, the spontaneous association of ideas"
+   ],
+   [
+    "3",
+    "The spirit of courage",
+    "The fidelity endowment, the basis of character acquirement"
+   ],
+   [
+    "4",
+    "The spirit of knowledge",
+    "The curiosity-mother of adventure and discovery, the scientific spirit"
+   ],
+   [
+    "5",
+    "The spirit of counsel",
+    "The social urge, the endowment of species co-operation"
+   ],
+   [
+    "6",
+    "The spirit of worship",
+    "The religious impulse, the badge of spiritual-ascension candidacy"
+   ],
+   [
+    "7",
+    "The spirit of wisdom",
+    "The inherent tendency towards orderly and progressive evolutionary advancement"
+   ]
+  ],
+  "d": "The seven adjutant mind-spirits, created by the local universe Mother Spirit, are ministers of the lower levels of experiential mind. This list arranges them in the order of evolutionary attainment, rising from intuition through understanding, courage, knowledge, and counsel to worship and wisdom. The first five function also in the animal orders, and this animal relationship makes the adjutants more practically effective as human mind. The sixth, the spirit of worship, is the first differential urge separating mind creatures into the two basic classes of mortal existence, forever distinguishing its associated animal from the soulless creatures. The seventh, the spirit of wisdom, is the highest, co-ordinating the work of all the others. The adjutants grow experientially but never become personal. Human intellect, the list shows, is worship and wisdom added to a foundation shared with the animals."
+ },
+ "L110": {
+  "t": "Seven Orders of Universe Aids",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "Bright and Morning Stars"
+   ],
+   [
+    "2",
+    "Brilliant Evening Stars"
+   ],
+   [
+    "3",
+    "Archangels"
+   ],
+   [
+    "4",
+    "Most High Assistants"
+   ],
+   [
+    "5",
+    "High Commissioners"
+   ],
+   [
+    "6",
+    "Celestial Overseers"
+   ],
+   [
+    "7",
+    "Mansion World Teachers"
+   ]
+  ],
+  "d": "The Universe Aids assist in local universe administration, and many of the unique orders in this category are unrevealed. The seven presented here begin with the Bright and Morning Star and end with the Mansion World Teachers. There is just one Bright and Morning Star in each local universe, the first-born of all its native creatures; in ours he is Gabriel of Salvington, chief executive of all Nebadon, representing the Sovereign Son and speaking for his creative consort. The Brilliant Evening Stars, planned by the Melchizedeks, serve chiefly as Gabriel's liaison officers and represent him at the capital of every constellation and system. The remaining orders share various phases of universe administration and the education of ascending mortals. The list stretches from the summit of universe government to the ascender's first classroom."
+ },
+ "L111": {
+  "t": "Four Created Types of Permanent Local Universe Citizens",
+  "cols": [
+   "",
+   "Order",
+   "Residence"
+  ],
+  "rows": [
+   [
+    "1",
+    "Susatia",
+    "Salvington, the headquarters of the local universe"
+   ],
+   [
+    "2",
+    "Univitatia",
+    "The one hundred constellation headquarters worlds"
+   ],
+   [
+    "3",
+    "Material Sons",
+    "The system capitals; some commissioned as Planetary Adams"
+   ],
+   [
+    "4",
+    "Midway Creatures",
+    "The evolutionary worlds"
+   ]
+  ],
+  "d": "Like the super- and central universes, the local universe has its orders of permanent citizenship. The four in this list descend through the levels of local universe administration: the susatia live on Salvington, the univitatia on the constellation headquarters worlds, the Material Sons on the system capitals, and the midway creatures on the evolutionary worlds. Together with the Spirit-fused ascenders and the spironga, they form a relatively permanent citizenship, by and large neither ascending nor descending, whose enlarging experience remains available to the universe on their level of origin. The univitatia do for ascending mortals in the constellations what the Havona natives do for pilgrims in the central creation. The midwayers are the only group of intelligent beings remaining continuously on a planet from the Planetary Prince to light and life; on Urantia they are the real custodians of the planet."
+ },
+ "L112": {
+  "t": "Three Great Classes of Cherubim and Sanobim",
+  "cols": [
+   "",
+   "Class",
+   "Characteristic"
+  ],
+  "rows": [
+   [
+    "1",
+    "Ascension Candidates",
+    "By nature candidates for seraphic status"
+   ],
+   [
+    "2",
+    "Mid-phase Cherubim",
+    "The inherently limited beings of the angelic creations"
+   ],
+   [
+    "3",
+    "Morontia Cherubim",
+    "“Fourth creatures” who always retain quasi-material characteristics"
+   ]
+  ],
+  "d": "Cherubim and sanobim are the angelic helpers of the seraphim, and this list divides them into three classes according to evolutionary potential. The ascension candidates are not by inherent endowment equal to the seraphim, but by application and experience they may attain full seraphic standing. The mid-phase cherubim are inherently limited, and most will remain cherubim and sanobim; the morontia cherubim always retain their quasi-material characteristics and continue in their service pending the completed factualization of the Supreme Being. After long service as Mansion World Teachers, ascension candidates are re-embraced by the Universe Mother Spirit and emerge as full seraphim, and may then attain Seraphington, Paradise, and even the Corps of the Finality. Angels too have paths of growth, opened to each according to its potential."
+ },
+ "L113": {
+  "t": "Two Types of Midwayers",
+  "cols": [
+   "",
+   "Type",
+   "Origin and Number"
+  ],
+  "rows": [
+   [
+    "1",
+    "Primary Midwayers",
+    "Derived from the modified ascendant-mortal staffs of the Planetary Princes; always fifty thousand"
+   ],
+   [
+    "2",
+    "Secondary Midwayers",
+    "Derived from the Adams and Eves or their immediate progeny; average around fifty thousand"
+   ]
+  ],
+  "d": "Midway creatures appear on the majority of inhabited worlds and are always found on the decimal or life-experiment planets, such as Urantia. The primary midwayers, the more spiritual group, resemble angels more than mortals; the secondary midwayers, the more material group, are much more like human beings. The primary derive from the staff of the Planetary Prince, the secondary from the planetary biologic uplifters, the Adams and Eves, by no less than twenty-four diverse techniques. Neither group is an evolutionary accident; both are essential features in the predetermined plans of the universe architects. The gap between the material and spiritual worlds is perfectly bridged by the serial association of mortal man, secondary midwayer, primary midwayer, morontia cherubim, mid-phase cherubim, and seraphim. The two midwayer groups are vital links in that bridge."
+ },
+ "L114": {
+  "t": "Seven Groups of Seraphim",
+  "cols": [
+   "",
+   "Group"
+  ],
+  "rows": [
+   [
+    "1",
+    "Supreme Seraphim"
+   ],
+   [
+    "2",
+    "Superior Seraphim"
+   ],
+   [
+    "3",
+    "Supervisor Seraphim"
+   ],
+   [
+    "4",
+    "Administrator Seraphim"
+   ],
+   [
+    "5",
+    "Planetary Helpers"
+   ],
+   [
+    "6",
+    "Transition Ministers"
+   ],
+   [
+    "7",
+    "Seraphim of the Future"
+   ]
+  ],
+  "d": "The Infinite Spirit on the local universe headquarters intends to produce uniformly perfect seraphim, but for some unknown reason these seraphic offspring are very diverse. The revelator suggests this may result from the unknown interposition of evolving experiential Deity, yet cannot prove it. After educational tests and training, however, seraphim invariably fall into seven groups: supreme, superior, supervisor, and administrator seraphim, planetary helpers, transition ministers, and seraphim of the future. It would hardly be true to call any one group inferior to another, though every angel is at first service-limited to its original classification. Manotia, the supreme seraphim who helped prepare this paper, achieved all seven services one by one through effort and devoted service. The list shows that angels too are experiential creatures who can augment their inherent endowment."
+ },
+ "L115": {
+  "t": "Seven Groups of Supreme Seraphim",
+  "cols": [
+   "",
+   "Group",
+   "Service"
+  ],
+  "rows": [
+   [
+    "1",
+    "Son-Spirit Ministers",
+    "Serve the high Sons and Spirit-origin beings of the local universe"
+   ],
+   [
+    "2",
+    "Court Advisers",
+    "Attached to all orders of adjudication; defenders of mortals"
+   ],
+   [
+    "3",
+    "Universe Orientators",
+    "Postgraduate counselors of ascenders pausing for the last time on Salvington"
+   ],
+   [
+    "4",
+    "The Teaching Counselors",
+    "Secretaries to all orders of teachers"
+   ],
+   [
+    "5",
+    "Directors of Assignment",
+    "A body of 144 co-ordinating seraphic service and assignment"
+   ],
+   [
+    "6",
+    "The Recorders",
+    "The official recorders for the supreme seraphim"
+   ],
+   [
+    "7",
+    "Unattached Ministers",
+    "Self-directed servers; the general reserve corps of this order"
+   ]
+  ],
+  "d": "The supreme seraphim are the highest of the seven revealed orders of local universe angels, functioning in seven groups closely associated with the angelic ministers of the Seraphic Corps of Completion. The list begins with the Son-Spirit Ministers, who serve the high Sons; among them, 144 bestowal attendants always accompany Paradise Avonals on bestowal missions. Then come the court advisers, who defend mortals in the tribunals; the universe orientators, friends of ascenders leaving their native universe; the teaching counselors, secretaries to the teachers; the directors of assignment; the recorders; and the unattached ministers. The description of the court advisers is especially moving: justice demands the adjudication of every default, but mercy requires that every such miss be judged fairly in accordance with creature nature. The highest angels thus stand on the side of mortals."
+ },
+ "L116": {
+  "t": "Seven Groups of Superior Seraphim",
+  "cols": [
+   "",
+   "Group",
+   "Service"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Intelligence Corps",
+    "Gabriel's personal staff, gathering the information of the realms"
+   ],
+   [
+    "2",
+    "The Voice of Mercy",
+    "The real mercy ministers of the local universes"
+   ],
+   [
+    "3",
+    "Spirit Co-ordinators",
+    "Prepare the ascendant sojourners on Salvington for their last local universe transition"
+   ],
+   [
+    "4",
+    "Assistant Teachers",
+    "Helpers of the teaching counselors; connected with the mansion world training"
+   ],
+   [
+    "5",
+    "The Transporters",
+    "Space traversers to and from the local universe headquarters"
+   ],
+   [
+    "6",
+    "The Recorders",
+    "Reception, filing, and redispatch of the records of Salvington"
+   ],
+   [
+    "7",
+    "The Reserves",
+    "Held on Salvington, instantly available for dispatch to the farthermost worlds"
+   ]
+  ],
+  "d": "The superior seraphim, next below the supreme order, work for the whole local universe and are largely based on Salvington. The intelligence corps gather information for Gabriel; the Voice of Mercy fosters the higher impulses and holier emotions of men and angels. The spirit co-ordinators prepare ascenders on Salvington for the status of newly born spirit beings, and the assistant teachers aid the mansion world schools. Transporters, recorders, and reserves complete the list. The account of the transporters is of special interest: ascenders depend upon seraphic transport from world to world until the last sleep in Havona and the eternal awakening on Paradise, and being enseraphimed is not unlike the experience of death or sleep. The statement that mercy is the keynote of seraphic service runs through the whole list."
+ },
+ "L117": {
+  "t": "Seven Groups of Planetary Helpers",
+  "cols": [
+   "",
+   "Group",
+   "Ministry"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Voices of the Garden",
+    "The personal seraphim of the Planetary Adam and Eve"
+   ],
+   [
+    "2",
+    "The Spirits of Brotherhood",
+    "Foster racial harmony and social co-operation"
+   ],
+   [
+    "3",
+    "The Souls of Peace",
+    "Bring “⟦Q 39:5.5⟧peace on earth and good will among men⟦/Q⟧”"
+   ],
+   [
+    "4",
+    "The Spirits of Trust",
+    "Inculcate trust in the evolving human mind"
+   ],
+   [
+    "5",
+    "The Transporters",
+    "Serve the individual worlds"
+   ],
+   [
+    "6",
+    "The Recorders",
+    "Custodians of the major affairs of the planet"
+   ],
+   [
+    "7",
+    "The Reserves",
+    "Maintained on Jerusem; also personal message bearers of the local system"
+   ]
+  ],
+  "d": "The planetary helpers are seraphim headquartered on the system capitals and assigned primarily to the Planetary Adams, the biologic uplifters of the evolutionary worlds. The author notes that angelic ministry becomes more interesting as it nears the actual problems faced by the men and women of time. The first four groups deal with the inner life and society of man. The Voices of the Garden assist the Adamic plans; the Spirits of Brotherhood help races of different colors and natures toward harmony; the Souls of Peace bring peace to realms where peace is not the natural state; and the Spirits of Trust implant trust in primitive men whose inherent reaction is suspicion. Most were withdrawn from Urantia when the Adamic regime collapsed, yet these seraphim still labor here, and a civilization is now evolving which embodies much of their ideals of confidence and trust."
+ },
+ "L118": {
+  "t": "Seven Orders of Assignment of Transition Ministers",
+  "cols": [
+   "",
+   "Order"
+  ],
+  "rows": [
+   [
+    "1",
+    "Seraphic Evangels"
+   ],
+   [
+    "2",
+    "Racial Interpreters"
+   ],
+   [
+    "3",
+    "Mind Planners"
+   ],
+   [
+    "4",
+    "Morontia Counselors"
+   ],
+   [
+    "5",
+    "Technicians"
+   ],
+   [
+    "6",
+    "Recorder-Teachers"
+   ],
+   [
+    "7",
+    "Ministering Reserves"
+   ]
+  ],
+  "d": "Seraphim of transitional ministry, as their name suggests, serve wherever they can contribute to creature transition from the material to the spiritual estate. They serve from the inhabited worlds to the system capitals, but in Satania they now direct their greatest efforts toward educating surviving mortals on the seven mansion worlds. The list divides this ministry into seven orders of assignment, beginning with seraphic evangels and racial interpreters, continuing through mind planners, morontia counselors, technicians, and recorder-teachers, with the ministering reserves standing behind them all. The names alone suggest a sequence of tasks: announcing the new life, interpreting racial backgrounds, planning and counseling the new morontia mind, and attending to environment and records. The author promises more in the narratives of the mansion worlds. The comfort of this list is that angels accompany the first steps after death."
+ },
+ "L119": {
+  "t": "Three Most Important Ways Seraphim May Attain Paradise",
+  "cols": [
+   "",
+   "Way"
+  ],
+  "rows": [
+   [
+    "1",
+    "Perfection of specialized service as a celestial artisan, Technical Adviser, or Celestial Recorder"
+   ],
+   [
+    "2",
+    "To be summoned to Seraphington"
+   ],
+   [
+    "3",
+    "To attain Paradise by the evolutionary mortal technique, as guardian angels"
+   ]
+  ],
+  "d": "Seraphim may attain Paradise in scores, even hundreds, of ways, but the revelator names three as most important. The first is to gain admission to the Paradise seraphic abode in a personal capacity by achieving perfection of specialized service; the second is to be summoned to Seraphington from on high. Since no seraphic pair can initiate its own departure, these must patiently await the summons brought by tertiary supernaphim. The third is the evolutionary mortal technique, and the post of guardian angel is the supreme choice of seraphim in the career of time. Created a little higher than man, angels cannot start up from the very bottom, but they may go down to those who do and guide them, step by step and world by world, to the portals of Havona. It is beautiful that helping mortals determines the angels' own high destiny."
+ },
+ "L120": {
+  "t": "Seven General Classes of the Ascending Sons of God",
+  "cols": [
+   "",
+   "Class"
+  ],
+  "rows": [
+   [
+    "1",
+    "Father-fused Mortals"
+   ],
+   [
+    "2",
+    "Son-fused Mortals"
+   ],
+   [
+    "3",
+    "Spirit-fused Mortals"
+   ],
+   [
+    "4",
+    "Evolutionary Seraphim"
+   ],
+   [
+    "5",
+    "Ascending Material Sons"
+   ],
+   [
+    "6",
+    "Translated Midwayers"
+   ],
+   [
+    "7",
+    "Personalized Adjusters"
+   ]
+  ],
+  "d": "Paper 40 deals with the ascending Sons and opens with this list. The first three are mortals, distinguished by the divine spirit with which they fuse: Father-fused, Son-fused, and Spirit-fused. Then come evolutionary seraphim, ascending Material Sons, translated midwayers, and the Personalized Adjusters of the Universal Father. The revelator calls the story of these beings a glorious recital of the unstinted bestowal of divine love and gracious condescension throughout all time and in all universes. The narrative began with the Deities and has descended the universal scale of living beings to the lowest order of life endowed with the potential of immortality; now an author who was once a mortal unfolds the path of ascent. It is remarkable that lowly animal-origin mortals and fragments of the Father belong to the same ascending series."
+ },
+ "L121": {
+  "t": "Three Classifications of the Mortals of Time and Space",
+  "cols": [
+   "",
+   "Series"
+  ],
+  "rows": [
+   [
+    "1",
+    "Mortals of the transient or experiential Adjuster sojourn"
+   ],
+   [
+    "2",
+    "Mortals of the non-Adjuster-fusion types"
+   ],
+   [
+    "3",
+    "Mortals of Adjuster-fusion potential"
+   ]
+  ],
+  "d": "Spirit identification constitutes the secret of personal survival and determines the destiny of spiritual ascension. Since the Thought Adjusters are the only spirits of fusion potential to be identified with man during life in the flesh, the mortals of time and space are classified primarily by their relation to this indwelling Mystery Monitor. Series one are the primitive men of early epochs, as on pre-Adamic Urantia; an Adjuster remains throughout life but cannot form an eternal union, though it gains valuable experience and prepares its subject for later spirit fusion. Series two are specialized types, such as many nonbreathers, unable to unite with their Adjusters, and series three are mortals of Adjuster-fusion potential, like those of Urantia. Underlying the classification is the assurance that the Gods take note of man's status and needs at every stage and are always fair and merciful."
+ },
+ "L122": {
+  "t": "Five Reasons Urantia Mortals Are Sons of God",
+  "cols": [
+   "",
+   "Reason"
+  ],
+  "rows": [
+   [
+    "1",
+    "You are sons of spiritual promise, faith sons"
+   ],
+   [
+    "2",
+    "A Creator Son of God became one of you"
+   ],
+   [
+    "3",
+    "The spirit of a Son has been poured out upon you"
+   ],
+   [
+    "4",
+    "The Universal Father has given you your creature personalities"
+   ],
+   [
+    "5",
+    "There dwells within you a fragment of the Universal Father"
+   ]
+  ],
+  "d": "All evolutionary worlds harbor faith sons of God, sons of grace and mercy who belong to the divine family. This list gives five reasons Urantia mortals are entitled to regard themselves as sons of God. First, we have accepted the status of sonship and believe in its reality, and so our sonship becomes eternally real. Second, a Creator Son became one of us and is in fact our elder brother. Third, the spirit of that Son has been freely poured out upon all races. Fourth, the Father has given us personality, sharing with us a measure of the divine spontaneity of freewill action. Fifth, a fragment of the Father dwells within us. Faith, the bestowal of Jesus, the Spirit of Truth, personality, and the Adjuster are all gifts first given from God's side; that is the heart of this list."
+ },
+ "L123": {
+  "t": "Seven Sources of Solar Energy in Order of Importance",
+  "cols": [
+   "",
+   "Source"
+  ],
+  "rows": [
+   [
+    "1",
+    "Annihilation of atoms and, eventually, of electrons"
+   ],
+   [
+    "2",
+    "Transmutation of elements, including the radioactive group of energies"
+   ],
+   [
+    "3",
+    "The accumulation and transmission of certain universal space-energies"
+   ],
+   [
+    "4",
+    "Space matter and meteors incessantly diving into the blazing suns"
+   ],
+   [
+    "5",
+    "Solar contraction"
+   ],
+   [
+    "6",
+    "Gravity action at high temperatures"
+   ],
+   [
+    "7",
+    "Recaptive light and other matter, together with energies of extrasolar origin"
+   ]
+  ],
+  "d": "Paper 41 sets out, in order of importance, seven sources of the enormous energy that the suns pour forth. First comes the annihilation of atoms and eventually of electrons, followed by the transmutation of elements, the accumulation and transmission of space-energies, space matter and meteors diving into the suns, solar contraction, gravity action at high temperatures, and recaptive light together with energies of extrasolar origin. Underlying the whole list is the interchangeability of matter and energy. The text adds that only suns functioning in the direct channels of the main streams of universe energy can shine on forever; those far from such channels slowly cool and burn out, yet may be rejuvenated by collision or recharging. Suns too are pictured as blazing, cooling, and reviving within energy circuits, revealing the intricate cycles of the physical universe."
+ },
+ "L124": {
+  "t": "Seven Systems of Force, Energy, and Power",
+  "cols": [
+   "",
+   "Energy System",
+   "Uversa Name or Nature"
+  ],
+  "rows": [
+   [
+    "1",
+    "Space potency",
+    "ABSOLUTA; the free space presence of the Unqualified Absolute"
+   ],
+   [
+    "2",
+    "Primordial force",
+    "SEGREGATA; the first basic change in space potency"
+   ],
+   [
+    "3",
+    "Emergent energies (puissant and gravity)",
+    "ULTIMATA"
+   ],
+   [
+    "4",
+    "Universe power",
+    "GRAVITA; directed by the power directors"
+   ],
+   [
+    "5",
+    "Havona energy",
+    "TRIATA; the triune energy of the central universe"
+   ],
+   [
+    "6",
+    "Transcendental energy",
+    "TRANOSTA; connected with the absonite peoples"
+   ],
+   [
+    "7",
+    "Monota",
+    "The living, nonspirit energy of Paradise"
+   ]
+  ],
+  "d": "The author of Paper 42 proposes this classification of cosmic force, emergent energy, and universe power to lessen the conceptual confusion caused by loose use of the words force and energy. The list starts with space potency, the domain of the Unqualified Absolute, moves through primordial force, responsive to the presence of the primary force organizers, and the emergent energies, puissant and gravity, to universe power handled by the power directors. Thus far physical energy ripens in time and space. The narrative then continues Paradiseward to Havona energy, transcendental energy associated with the absonite peoples, and monota, the nonspiritual energy system of the Universal Father. The author confesses that Paradise spirit and Paradise monota cannot be differentiated in nature. Even physical energy, the list shows, has its source in the Father."
+ },
+ "L125": {
+  "t": "Ten Grand Divisions of Matter",
+  "cols": [
+   "",
+   "Division",
+   "Description"
+  ],
+  "rows": [
+   [
+    "1",
+    "Ultimatonic matter",
+    "The prime physical units of material existence"
+   ],
+   [
+    "2",
+    "Subelectronic matter",
+    "The explosive and repellent stage of the solar supergases"
+   ],
+   [
+    "3",
+    "Electronic matter",
+    "The electrical stage of material differentiation"
+   ],
+   [
+    "4",
+    "Subatomic matter",
+    "Matter existing extensively in the interior of the hot suns"
+   ],
+   [
+    "5",
+    "Shattered atoms",
+    "Found in the cooling suns and throughout space"
+   ],
+   [
+    "6",
+    "Ionized matter",
+    "Individual atoms stripped of their outer electrons"
+   ],
+   [
+    "7",
+    "Atomic matter",
+    "The chemical stage of elemental organization"
+   ],
+   [
+    "8",
+    "The molecular stage of matter",
+    "Matter as it exists on Urantia in relatively stable materialization"
+   ],
+   [
+    "9",
+    "Radioactive matter",
+    "The disorganizing tendency and activity of the heavier elements"
+   ],
+   [
+    "10",
+    "Collapsed matter",
+    "The relatively stationary matter in the interior of the cold or dead suns"
+   ]
+  ],
+  "d": "The matter of the varied suns, planets, and space bodies falls into ten grand divisions. The list begins with ultimatonic matter, the energy particles that make up electrons, proceeds through subelectronic, electronic, and subatomic matter to shattered atoms, ionized matter, atomic matter, and the molecular stage, and ends with radioactive matter and the collapsed matter of dead suns. The author explains that this classification pertains to the organization of matter rather than to its appearance to created beings. The matter we handle is only the eighth stage, relatively stable under ordinary conditions. Immediately afterward comes the declaration that light, heat, electricity, magnetism, chemism, energy, and matter are in origin, nature, and destiny one and the same thing. Matter is seen not as fixed substance but as successive stages of energy organization."
+ },
+ "L126": {
+  "t": "Ten Groups of Wavelike Energy Manifestations",
+  "cols": [
+   "",
+   "Group",
+   "Description"
+  ],
+  "rows": [
+   [
+    "1",
+    "Infraultimatonic rays",
+    "The borderland revolutions of ultimatons beginning to assume definite form"
+   ],
+   [
+    "2",
+    "Ultimatonic rays",
+    "Vibrations occasioned by the assembly of energy into ultimatons"
+   ],
+   [
+    "3",
+    "The short space rays",
+    "The shortest of all purely electronic vibrations"
+   ],
+   [
+    "4",
+    "The electronic stage",
+    "The basis of all materialization in the seven superuniverses"
+   ],
+   [
+    "5",
+    "Gamma rays",
+    "Emanations characterizing the spontaneous dissociation of atomic matter"
+   ],
+   [
+    "6",
+    "The X-ray group",
+    "Solar X rays together with artificially generated X rays"
+   ],
+   [
+    "7",
+    "The ultraviolet rays",
+    "The chemical rays of sunlight and various mechanical productions"
+   ],
+   [
+    "8",
+    "The white light",
+    "The whole visible light of the suns"
+   ],
+   [
+    "9",
+    "Infrared rays",
+    "The slowing down of electronic activity nearer the stage of appreciable heat"
+   ],
+   [
+    "10",
+    "Hertzian waves",
+    "Energies utilized on Urantia for broadcasting"
+   ]
+  ],
+  "d": "This list classifies wavelike energy manifestations into ten groups from the standpoint of twentieth-century Urantia scientific enlightenment. It begins with the borderland revolutions of ultimatons as they assume definite form and passes through ultimatonic rays, short space rays, the electronic stage, gamma rays, X rays, ultraviolet rays, white light, and infrared rays to the Hertzian waves used for broadcasting. The arrangement descends from the shortest and most powerful waves to longer and slower ones. The author predicts that physicists will detect the phenomena of ultimatonic rays long before they discover the ultimaton itself. He also notes that the human eye can react to just one octave of all ten, the whole light of ordinary sunlight. The so-called ether, we are told, is merely a collective name for force and energy activities in space."
+ },
+ "L127": {
+  "t": "Seven Reachings Out of Creative Mind",
+  "cols": [
+   "",
+   "Direction"
+  ],
+  "rows": [
+   [
+    "1",
+    "Creation of material mechanisms"
+   ],
+   [
+    "2",
+    "Discovery of hidden mysteries"
+   ],
+   [
+    "3",
+    "Exploration of remote situations"
+   ],
+   [
+    "4",
+    "Formulation of mental systems"
+   ],
+   [
+    "5",
+    "Attainment of wisdom goals"
+   ],
+   [
+    "6",
+    "Achievement of spirit levels"
+   ],
+   [
+    "7",
+    "The accomplishment of divine destinies—supreme, ultimate, and absolute"
+   ]
+  ],
+  "d": "The evolution of mechanisms implies and indicates the concealed presence and dominance of creative mind. The very ability of the mortal intellect to conceive, design, and create automatic mechanisms demonstrates the creative and purposive qualities of man's mind. This list names seven directions in which mind is always reaching out. It begins with the creation of material mechanisms and the discovery of hidden mysteries, proceeds through the exploration of remote situations, the formulation of mental systems, and the attainment of wisdom goals, and rises to the achievement of spirit levels and the accomplishment of divine destinies, supreme, ultimate, and absolute. The ascent runs from technology and science through philosophy and wisdom to spirituality and divine destiny. The text then affirms that mind is always creative, and summarizes: the spirit is the architect, the mind is the builder, the body is the material building."
+ },
+ "L128": {
+  "t": "Twelve Vorondadek Sons in the Norlatiadek Government",
+  "cols": [
+   "",
+   "Office",
+   "Duty"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Constellation Father",
+    "The Most High ruler of Norlatiadek, number 617,318 of the Vorondadek series"
+   ],
+   [
+    "2",
+    "The senior Most High associate",
+    "—"
+   ],
+   [
+    "3",
+    "The junior Most High associate",
+    "—"
+   ],
+   [
+    "4",
+    "The Most High adviser",
+    "The personal representative of Michael since he became a Master Son"
+   ],
+   [
+    "5",
+    "The Most High executive",
+    "The personal representative of Gabriel, on Edentia since the Lucifer rebellion"
+   ],
+   [
+    "6",
+    "The Most High chief of planetary observers",
+    "Director of the observers on the isolated worlds of Satania"
+   ],
+   [
+    "7",
+    "The Most High referee",
+    "Adjusts all difficulties consequential to rebellion within the constellation"
+   ],
+   [
+    "8",
+    "The Most High emergency administrator",
+    "Adapts emergency enactments to the rebellion-isolated worlds of Satania"
+   ],
+   [
+    "9",
+    "The Most High mediator",
+    "Harmonizes the special bestowal adjustments on Urantia with routine administration"
+   ],
+   [
+    "10",
+    "The Most High judge-advocate",
+    "Head of the emergency tribunal for problems of the Satania rebellion"
+   ],
+   [
+    "11",
+    "The Most High liaison",
+    "Special counselor with the Faithful of Days regarding rebellion"
+   ],
+   [
+    "12",
+    "The Most High director",
+    "President of the emergency council of Edentia"
+   ]
+  ],
+  "d": "The rotation of the Most Highs on Edentia was suspended at the time of the Lucifer rebellion, and the same rulers remain on duty. Moreover, the present government of our constellation, Norlatiadek, has been expanded to include twelve Sons of the Vorondadek order. Apart from the Constellation Father and his two associates, most of the remaining nine hold offices arising from the Satania rebellion and its aftermath. The chief of planetary observers, the referee, the emergency administrator, the judge-advocate, the liaison, and the director of the emergency council all deal with the confusion caused by rebellion, while the mediator harmonizes the special adjustments of the bestowal on Urantia with routine constellation administration. That one system's rebellion reshaped a constellation government shows how wide and lasting its consequences are, and also how carefully universe government deals with them."
+ },
+ "L129": {
+  "t": "Seven Lessons in the Socialization of the Morontia Personality",
+  "cols": [
+   "",
+   "Lesson"
+  ],
+  "rows": [
+   [
+    "1",
+    "Live happily and work effectively with ten diverse fellow morontians"
+   ],
+   [
+    "2",
+    "Abide joyfully and co-operate heartily with ten univitatia"
+   ],
+   [
+    "3",
+    "Achieve simultaneous adjustment to both fellow morontians and host univitatia"
+   ],
+   [
+    "4",
+    "Achieve intellectual harmony with, and vocational adjustment to, both groups"
+   ],
+   [
+    "5",
+    "Live in intimate contact with ever-lessening irritability and ever-diminishing resentment"
+   ],
+   [
+    "6",
+    "Adjust all socialization techniques to the furtherance of the Paradise-ascension career"
+   ],
+   [
+    "7",
+    "Climax multisocialization with the concurrent enhancement of spiritual insight"
+   ]
+  ],
+  "d": "On the mansion worlds the ascending mortal completes the unification of personality, and on the system capital gains the willingness to submit the self to the disciplines of group activities. Next, on the constellation training worlds, comes the real socialization of the evolving morontia personality. This list shows that process in seven steps. One lives and works with ten fellow morontians and with ten univitatia, similar intellectually but very different in every other way; adjusts to both groups at once; achieves intellectual harmony and vocational adjustment; and lessens irritability and resentment. Finally all of this is bound together with the goal of the ascension career and spiritual insight. The author notes that two moral creatures in partnership do not merely double but almost quadruple their possibilities of achievement. Learning to live with others is a serious educational task even in the universe."
+ },
+ "L130": {
+  "t": "Seven Major Divisions of the Celestial Artisans",
+  "cols": [
+   "",
+   "Division"
+  ],
+  "rows": [
+   [
+    "1",
+    "Celestial Musicians"
+   ],
+   [
+    "2",
+    "Heavenly Reproducers"
+   ],
+   [
+    "3",
+    "Divine Builders"
+   ],
+   [
+    "4",
+    "Thought Recorders"
+   ],
+   [
+    "5",
+    "Energy Manipulators"
+   ],
+   [
+    "6",
+    "Designers and Embellishers"
+   ],
+   [
+    "7",
+    "Harmony Workers"
+   ]
+  ],
+  "d": "The celestial artisans are registered on the superuniverse headquarters but directed by morontia supervisors on the local universe capitals, and they are commissioned in seven major divisions: musicians, reproducers, builders, thought recorders, energy manipulators, designers and embellishers, and harmony workers. The original teachers of all seven groups hailed from the perfect worlds of Havona, which contains the patterns for all phases and forms of spirit artistry. Transferring these arts of Havona to the worlds of space is a gigantic task, yet the artisans have improved in technique age by age. Ascenders first glimpse these arts on the mansion worlds, and their appreciation of beauty heightens until they stand in the spirit halls of Salvington. The author adds that all these morontia and spirit activities are real; to spirit beings the material world is the more unreal. Beauty is a substantial part of the ascending career."
+ }
+}
