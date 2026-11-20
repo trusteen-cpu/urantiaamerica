@@ -22,7 +22,7 @@ esc = html.escape
 HANGUL = re.compile(r"[가-힣ㄱ-ㅎㅏ-ㅣ]")
 SRC = json.load(open(os.path.join(H, "src", "c01.json"), encoding="utf-8"))
 REF = re.compile(r"\[(?:See )?(?:Paper (\d+)|(\d+)\s*[:.]\s*(\d+)(?:\s*[.:]\s*([\d\s,\-–]+))?)\]")
-HTML_LANG = {"es": "es", "fr": "fr", "pt": "pt-BR"}
+HTML_LANG = {"es": "es", "fr": "fr", "pt": "pt"}
 
 
 def strings(v):

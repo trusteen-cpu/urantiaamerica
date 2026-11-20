@@ -92,9 +92,9 @@ window.SITE = {
       jesus: "https://fareast.urantiareaders.com/en/jesus/", days365: "https://fareast.urantiareaders.com/en/365days/",
       edu: "https://cozy-dragon-4626f0.netlify.app/"
     },
-    es: { text: "es/book/", bilingual: "es/bilingual/", intro: "es/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
-    fr: { text: "fr/book/", bilingual: "fr/bilingual/", intro: "fr/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
-    pt: { text: "pt/book/", bilingual: "pt/bilingual/", intro: "pt/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" }
+    es: { text: "es/book/", overview: "es/overview/", bilingual: "es/bilingual/", intro: "es/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
+    fr: { text: "fr/book/", overview: "fr/overview/", bilingual: "fr/bilingual/", intro: "fr/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" },
+    pt: { text: "pt/book/", overview: "pt/overview/", bilingual: "pt/bilingual/", intro: "pt/intro/", edu: "https://cozy-dragon-4626f0.netlify.app/" }
   }
 };
 
