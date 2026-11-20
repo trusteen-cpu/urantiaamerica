@@ -1,0 +1,669 @@
+# A formação do universo e da Terra
+1|Há 987 bilhões de anos
+-|As condições espaciais de Andronover são declaradas favoráveis|57:1.3
+2|Há 900 bilhões de anos
+-|Os mestres organizadores primários de força são autorizados a ir para Andronover|57:1.4
+3|Há 875 bilhões de anos
+-|A nebulosa de Andronover é devidamente iniciada|57:1.6
+4|Há 800 bilhões de anos
+-|Andronover fica bem estabelecida como nebulosa primária|57:2.2
+5|Há 700 bilhões de anos
+-|Andronover começa a contrair-se|57:2.3
+6|Há 600 bilhões de anos
+-|Andronover atinge a sua massa máxima|57:2.4
+7|Há 500 bilhões de anos
+-|Nasce o primeiro sol de Andronover|57:3.6
+8|Há 400 bilhões de anos
+-|Começa o período de recaptura de Andronover|57:3.7
+-|São construídos os mundos arquitetônicos de Sálvington e as constelações e os sistemas locais de Nébadon|119:0.7
+9|Há 300 bilhões de anos
+-|Michael chega a Sálvington|57:3.9
+10|Há 200 bilhões de anos
+-|Começa o mais antigo planeta habitado de Nébadon|57:3.10
+11|Há 100 bilhões de anos
+-|A condensação da nebulosa atinge o seu auge|57:3.11
+12|Há 75 bilhões de anos
+-|Andronover atinge o auge do seu estágio de família solar|57:4.2
+13|Há 50 bilhões de anos
+-|O terceiro ciclo de Andronover|57:4.3
+14|Há 25 bilhões de anos
+-|Completa-se o terceiro ciclo de Andronover|57:4.4
+15|Há 10 bilhões de anos
+-|Andronover atinge a sua temperatura máxima de massa atômica|57:4.5
+16|Há 8 bilhões de anos
+-|Começam as erupções terminais de Andronover|57:4.6
+17|Há 7 bilhões de anos
+-|O clímax da desintegração terminal de Andronover|57:4.7
+18|Há 6 bilhões de anos
+-|O fim da desintegração terminal de Andronover|57:4.8
+19|Há 5 bilhões de anos
+-|Completa-se a construção dos sistemas locais de Nébadon|57:3.8
+-|O nosso sol atual fica relativamente isolado|57:5.1
+20|Há 4,5 bilhões de anos
+-|Criação de Monmátia (o sistema solar)|57:5.4
+21|Há 4 bilhões de anos
+-|Formam-se Júpiter e Saturno|57:6.6
+22|Há 3,5 bilhões de anos
+-|Os planetas de Monmátia são reunidos|57:6.7
+23|Há 3 bilhões de anos
+-|É dado o nome de Monmátia|57:6.8
+24|Há 2,5 bilhões de anos
+-|Urântia tem um décimo do seu tamanho atual|57:6.10
+25|Há 2 bilhões de anos
+-|Urântia tem um quinto do seu tamanho atual, maior que a Lua; o período meteórico|57:7.2
+26|Há 1,5 bilhão de anos
+-|Urântia tem dois terços do seu tamanho atual; o período vulcânico|57:7.4
+27|Há 1 bilhão de anos
+-|O nome Urântia é registrado|57:8.1
+28|Há 950 milhões de anos
+-|Urântia tem um continente e um oceano|57:8.5
+29|Há 900 milhões de anos
+-|Chega o primeiro grupo de exploração de Satânia|57:8.7
+30|Há 850 milhões de anos
+-|A superfície da Terra começa a estabilizar-se|57:8.16
+31|Há 800 milhões de anos
+-|Surge a primeira era continental|57:8.19
+32|Há 750 milhões de anos
+-|Começa a deriva continental|57:8.23
+33|Há 700 milhões de anos
+-|Formam-se baías rasas|57:8.24
+34|Há 650 milhões de anos
+-|Os mares atingem a salinidade necessária à vida|57:8.25
+# O início e a evolução da vida
+35|Há 600 milhões de anos
+-|Chegam os Portadores da Vida|57:1.1
+36|Há 550 milhões de anos
+-|Os Portadores da Vida implantam a vida|58:4.2
+37|Há 500 milhões de anos
+-|Estabelece-se a vida marinha primitiva|58:4.3
+38|Há 450 milhões de anos
+-|Transição da vida vegetal para a vida animal|58:6.1
+39|Há 400 milhões de anos
+-|A vida vegetal sobe para a terra firme|59:1.2
+40|Há 390 milhões de anos
+-|Elevação continental|59:1.6
+41|Há 380 milhões de anos
+-|Surge o Atlântico|59:1.8
+42|Há 370 milhões de anos
+-|As Américas ficam submersas|59:1.11
+43|Há 360 milhões de anos
+-|Elevação continental|59:1.13
+44|Há 350 milhões de anos
+-|Começa a grande inundação|59:2.2
+45|Há 340 milhões de anos
+-|A idade dos grandes depósitos de calcário|59:2.3
+46|Há 330 milhões de anos
+-|Grandes erupções vulcânicas nas Américas|59:2.5
+47|Há 320 milhões de anos
+-|A terceira grande inundação|59:2.6
+48|Há 310 milhões de anos
+-|Elevação continental|59:2.7
+49|Há 300 milhões de anos
+-|Os continentes ficam submersos|59:3.1
+50|Há 290 milhões de anos
+-|Os continentes emergem|59:3.3
+51|Há 280 milhões de anos
+-|Os continentes emergem|59:3.9
+52|Há 270 milhões de anos
+-|Os continentes emergem|59:4.4
+53|Há 260 milhões de anos
+-|Os continentes emergem|59:4.6
+54|Há 250 milhões de anos
+-|Surgem os peixes|59:4.9
+55|Há 240 milhões de anos
+-|Os continentes ficam submersos|59:4.15
+56|Há 230 milhões de anos
+-|Os continentes emergem; atividade vulcânica|59:4.16
+57|Há 220 milhões de anos
+-|A idade das samambaias|59:5.2
+58|Há 210 milhões de anos
+-|Surgem os animais terrestres; a idade das rãs|59:5.4
+59|Há 200 milhões de anos
+-|Começa o período de formação do carvão|59:5.13
+60|Há 190 milhões de anos
+-|Depósito de carvão|59:5.19
+61|Há 180 milhões de anos
+-|Termina o período de formação do carvão|59:5.20
+62|Há 170 milhões de anos
+-|Surgem as geleiras; surgem as plantas com sementes|59:6.4
+63|Há 160 milhões de anos
+-|Condições atmosféricas ideais para a respiração animal|59:6.10
+64|Há 150 milhões de anos
+-|Começa a era primitiva da vida terrestre|60:1.5
+65|Há 140 milhões de anos
+-|Surgem os anfíbios|60:1.9
+66|Há 130 milhões de anos
+-|O período triássico|60:1.13
+67|Há 120 milhões de anos
+-|A evolução e o declínio dos dinossauros|60:2.1
+68|Há 110 milhões de anos
+-|Desenvolvimento gradual da vida marinha|60:2.9
+69|Há 100 milhões de anos
+-|As cordilheiras atuais tomam forma|60:3.4
+70|Há 95 milhões de anos
+-|Os continentes ficam novamente submersos|60:3.5
+71|Há 90 milhões de anos
+-|Surgem as plantas com flores|60:3.7
+72|Há 85 milhões de anos
+-|Fecha-se o istmo de Bering|60:3.8
+73|Há 80 milhões de anos
+-|A costa do Pacífico se dobra|60:3.11
+74|Há 75 milhões de anos
+-|A deriva continental cessa|60:3.12
+75|Há 70 milhões de anos
+-|A era da formação da crosta e da atividade vulcânica|60:3.14
+76|Há 65 milhões de anos
+-|Grandes derramamentos de lava|60:3.16
+77|Há 60 milhões de anos
+-|A idade dominada pelos dinossauros ágeis|60:3.20
+78|Há 55 milhões de anos
+-|Surgem as verdadeiras aves|60:3.22
+79|Há 50 milhões de anos
+-|Surgem os mamíferos|61:1.1
+80|Há 45 milhões de anos
+-|Rápida evolução dos mamíferos|61:1.4
+81|Há 40 milhões de anos
+-|O período eoceno|61:1.6
+82|Há 35 milhões de anos
+-|A idade dominada pelos mamíferos placentários|61:2.3
+83|Há 30 milhões de anos
+-|Surgem os tipos modernos de mamíferos|61:2.8
+84|Há 25 milhões de anos
+-|Leve erosão dos continentes|61:3.3
+85|Há 20 milhões de anos
+-|A idade de ouro dos mamíferos|61:3.4
+86|Há 15 milhões de anos
+-|Elevam-se as montanhas da região eurasiana|61:3.7
+87|Há 10 milhões de anos
+-|O período plioceno|61:4.2
+88|Há 5 milhões de anos
+-|As migrações do plioceno|61:4.5
+89|Há 2 milhões de anos
+-|Começa a idade do gelo|61:5.5
+90|Há 1,5 milhão de anos
+-|A primeira geleira recua|61:5.6
+91|Há 1 milhão de anos
+-|Urântia é registrada como mundo de vida primata|61:6.2
+# O surgimento da humanidade
+92|Há 993 419 anos
+-|Nascimento de Andon e Fonta|61:5.1
+93|Há 993 408 anos
+-|Urântia é formalmente reconhecida como planeta habitado|61:7.7
+94|Há 983 323 anos
+-|Nasce Onagar|63:6.8
+95|Há 950 000 anos
+-|As migrações dos descendentes de Andon|64:1.6
+96|Há 900 000 anos
+-|O declínio da civilização andonita|64:2.1
+97|Há 850 000 anos
+-|A guerra de extermínio das tribos Badonan contra os povos inferiores|64:3.5
+98|Há 800 000 anos
+-|O predomínio dos homens de Neandertal|64:4.2
+99|Há 750 000 anos
+-|A quarta geleira avança|61:7.2
+-|Os homens de Neandertal no quarto período glacial|64:4.4
+100|Há 700 000 anos
+-|A quarta geleira recua|64:4.6
+101|Há 650 000 anos
+-|O gelo alpino derrete|64:4.8
+102|Há 600 000 anos
+-|A quarta geleira recua até o seu mínimo|64:4.9
+103|Há 550 000 anos
+-|A quinta geleira começa a avançar|64:4.10
+104|Há 500 000 anos
+-|A quinta geleira avança|61:7.4
+-|Surgem as seis raças coloridas e chega o Príncipe Planetário|64:5.1
+105|Há 350 000 anos
+-|Fantad lidera a raça verde|64:6.17
+106|Há 300 000 anos
+-|Porshunta lidera a raça alaranjada|64:6.12
+-|A raça amarela entra na China|79:5.3
+107|Há 250 000 anos
+-|A sexta e última geleira avança|61:7.6
+108|Há 200 000 anos
+-|A rebelião de Lúcifer|53:4.1
+-|Surgem os sumérios|77:4.7
+109|Há 199 500 anos
+-|Orlandof ensina a raça azul|64:6.23
+110|Há 150 000 anos
+-|A sexta geleira atinge o seu máximo|61:7.9
+111|Há 100 000 anos
+-|A sexta geleira recua|61:7.11
+-|A raça alaranjada desaparece|64:6.13
+-|Singlangton lidera a raça amarela|64:6.15
+112|Há 65 000 anos
+-|Onamonalonton lidera a raça vermelha|64:6.7
+113|Há 35 000 anos
+-|Termina a idade do gelo|61:7.18
+# A civilização depois de Adão (a.C.)
+114|35 915 a.C.
+-|Adão e Eva chegam a Urântia|61:7.18
+115|35 798 a.C.
+-|A falta de Adão e Eva|74:8.14
+116|35 000 a.C.
+-|Adamson estabelece um centro de civilização|77:4.13
+117|33 000 a.C.
+-|A raça azul mistura-se com as raças amarela e vermelha|80:3.2
+118|30 000 a.C.
+-|A idade da mistura racial (até 10 000 a.C.)|78:3.4
+119|25 000 a.C.
+-|Os povos chineses tornam-se o grupo cultural mais destacado|79:6.9
+120|20 000 a.C.
+-|Os povos do oeste da Índia conservam traços de sangue adâmico|79:2.3
+121|19 000 a.C.
+-|Os adamitas somam quatro milhões e meio|78:2.5
+122|18 000 a.C.
+-|Um poderoso centro cultural chinês|79:6.5
+123|16 000 a.C.
+-|Cem sacerdotes setitas entram na Índia|79:3.4
+124|15 000 a.C.
+-|Os adamitas misturam-se com os noditas e os sangiques (desde 35 000 a.C.)|78:0.2
+-|Os adamitas vão para a Europa; as raças vermelha e índigo ficam isoladas; as raças verde e alaranjada são exterminadas|78:3.5-9
+-|Amosad revive o sacerdócio setita|78:5.1
+-|A primeira expansão andita, rumo às regiões da Índia|79:2.4
+-|A China torna-se uma nação militarista agressiva de doze milhões de habitantes|79:6.9
+-|A civilização mundial chega a um beco sem saída|81:1.2
+125|13 000 a.C.
+-|Os anditas entram na China|79:7.1
+-|A civilização egípcia cai ao seu nível mais baixo|80:1.3
+-|A arte da raça azul atinge o seu auge|80:3.7
+-|As pradarias da Europa cobrem-se de florestas|80:3.8
+126|12 000 a.C.
+-|As migrações dos adamitas|78:5.4
+-|Os povos japoneses são expulsos pelos chineses do continente|79:6.3
+-|Os anditas migram para Creta|80:7.2
+-|Uma mudança climática destrói as pradarias do Turquestão|81:3.1
+127|10 000 a.C.
+-|Os anditas diluem-se racialmente na Índia|79:2.6
+-|Os chineses começam a construir cidades e a fabricar produtos|79:7.5
+-|Os adamsonitas estabelecem-se na Grécia|80:7.3-4
+-|Começa a idade das cidades independentes|81:3.3
+128|9000 a.C.
+-|A cultura do bronze do Turquestão|81:3.4
+129|8000 a.C.
+-|O clima árido expulsa os anditas da Ásia central; surgem o comércio e a vida urbana|79:1.3, 79:1.4
+130|8000–6000 a.C.
+-|A dispersão final dos povos anditas|78:5.8
+131|7000 a.C.
+-|Comércio terrestre e marítimo dos povos dravidianos|79:3.7
+132|7000–6000 a.C.
+-|A conquista andita da Europa|79:4.5
+133|6500 a.C.
+-|O declínio espiritual dos povos anditas|80:7.8
+134|6000 a.C.
+-|A maioria dos anditas retira-se da Mesopotâmia|78:6.7
+-|A maior parte dos povos anditas torna-se suméria|78:8.1
+135|5000 a.C.
+-|Os egípcios aperfeiçoam o calendário|77:2.12
+-|Inundações no vale do Eufrates|78:7.2
+-|A raça branca estende o seu domínio sobre todo o norte da Europa|80:5.8
+-|A idade das inundações na região mesopotâmica|80:6.2
+-|Os anditas concentram-se na Suméria, no norte da Europa e na Grécia|80:7.9
+-|Os povos anditas estabelecem-se na ilha de Chipre|80:7.10
+-|Começa a domesticação dos animais|81:2.8
+-|O uso do cavalo generaliza-se|81:3.6
+136|4500 a.C.
+-|A reunificação política da raça amarela|79:8.5
+137|3000 a.C.
+-|Casamentos entre tribos indígenas e esquimós|64:7.19
+-|Os andonitas retornam ao Turquestão|80:9.6
+-|A transição do neolítico para a Idade do Bronze|80:9.12
+138|2500 a.C.
+-|Os povos sumérios são absorvidos pelos semitas do norte|78:8.10
+-|A invasão ariana da Índia|79:4.1
+-|Andonitas incivilizados espalham-se pela Europa central|80:9.7
+-|Os anditas penetram nas costas do Mediterrâneo; desenvolve-se o comércio marítimo|80:9.9
+139|2500 a.C.
+-|Os nômades invadem tudo, do Atlântico ao Pacífico|78:8.11
+140|2000 a.C.
+-|São estabelecidas as escolas de administração provisória dos Melquisedeques|43:1.6
+-|Michael anuncia que escolheu Urântia como o mundo da sua auto-outorga|43:1.6
+-|Os povos anditas desaparecem da Mesopotâmia|78:0.2
+-|Os ensinamentos dos setitas perdem-se na Mesopotâmia|95:1.1
+-|Até essa época o vulcão do monte Sinai entra em erupção de modo intermitente|95:1.11
+141|1973 a.C.
+-|Melquisedeque outorga-se a Urântia à semelhança da carne mortal|93:2.1
+142|1886 a.C.
+-|Termina a outorga de Melquisedeque na carne|93:8.1
+143|1500 a.C.
+-|Os missionários de Salém chegam à China|94:5.1
+144|1000 a.C.
+-|O povo hebreu divide-se em dois reinos|97:2.1
+145|900 a.C.
+-|Os hebreus começam a usar a escrita|74:8.9
+146|700 a.C.
+-|Sargon leva cativos vinte e cinco mil judeus|143:4.1
+147|700–600 a.C.
+-|A idade do grande despertar religioso|92:5.9
+148|600 a.C.
+-|Um grande despertar na China|79:8.11
+149|600–500 a.C.
+-|Muitas apresentações e proclamações da verdade religiosa|94:6.1-2
+-|Gautama Sidarta nasce no Nepal|94:7.1
+-|Zoroastro surge na Pérsia|95:6.1
+# A época de Jesus
+150|75 a.C.
+-|Os gentios da Galiléia são convertidos à força ao judaísmo|139:0.2
+151|29 a.C.
+-|Nasce José, o pai de Jesus|122:2.2
+152|8 a.C.
+Março|José e Maria se casam|122:2.2
+-|Augusto decreta o recenseamento|122:2.2
+Junho|Gabriel aparece a Isabel|122:2.6
+Novembro|Gabriel aparece a Maria|
+153|7 a.C.
+-|Registro do recenseamento na Palestina|122:7.1
+25 de março|Nascimento de João Batista|122:2.7
+29 de maio|Conjunção de Júpiter e Saturno|122:8.7
+21 de agosto|Nascimento de Jesus|122:8.1
+29 de setembro|Conjunção de Júpiter e Saturno|122:8.7
+5 de dezembro|Conjunção de Júpiter e Saturno|122:8.7
+154|6 a.C.
+Fevereiro|Maria visita Isabel|122:2.4
+Outubro|O massacre dos meninos por Herodes|122:10.4
+155|4 a.C.
+-|Morte de Herodes, o idumeu; Antipas começa a governar|121:2.11
+Agosto|José e Maria retornam à Palestina|123:0.4
+Outubro|José e Maria partem para Nazaré|123:0.6
+156|3 a.C.
+-|José constrói a oficina de reparos de caravanas|123:1.6
+-|Jesus tem a sua primeira experiência rural na casa do seu tio|123:1.7
+2 de abril|Nascimento de Tiago, irmão de Jesus|123:1.5
+157|2 a.C.
+11 de fevereiro|Chegada do Ajustador do Pensamento de Jesus|123:2.1
+11 de julho|Nascimento de Míriam, irmã de Jesus|123:2.3
+158|1 a.C.
+Junho|João Batista visita Jesus com os seus pais|135:0.3
+159|1 d.C.
+16 de março|Nascimento de José, irmão de Jesus|123:4.9
+Julho|Jesus cai da escada|123:4.5
+160|2 d.C.
+-|Jesus começa a aprender a tocar harpa|123:6.5
+Janeiro|Jesus fica na fazenda do seu tio|123:6.2
+Fevereiro|Jesus recusa a oportunidade de estudar na escola de Salém|123:6.8-9
+14 de abril|Nascimento de Simão, irmão de Jesus|123:6.7
+Maio|A primeira pescaria de Jesus|123:6.2
+161|3 d.C.
+-|Jesus faz um desenho a carvão no chão|124:1.4-5
+13 de setembro|Nascimento de Marta, irmã de Jesus|124:1.7
+162|5 d.C.
+24 de junho|Nascimento de Judá, irmão de Jesus|124:3.4
+163|7 d.C.
+-|Arquelau é deposto|124:6.2
+9 de janeiro|Nascimento de Amós, irmão de Jesus|124:5.2
+20 de março|Jesus conclui os estudos na escola da sinagoga|124:5.4
+9 de abril|Jesus participa da sua primeira Páscoa em Jerusalém|124:6.1
+164|8 d.C.
+25 de setembro|José, o pai de Jesus, morre num acidente em Séforis|126:2.1
+165|9 d.C.
+-|Jesus luta com dificuldades financeiras|126:5.1
+-|Herodes decide que nada é devido pela morte de José|126:5.7
+-|A oficina de reparos de caravanas passa para o tio de Jesus|126:5.8
+-|Jesus arrenda um terreno para uma horta|126:5.10
+17 de abril|Nascimento de Rute, irmã de Jesus|126:3.2
+21 de agosto|Jesus oferece à sinagoga um exemplar das escrituras gregas|126:5.6
+166|11 d.C.
+-|Jesus recusa-se a unir-se aos zelotes|127:2.1
+Outubro|(Circulam moedas com o nome de Tibério)|136:2.8
+167|12 d.C.
+-|A oficina de reparos de caravanas é recomprada; os bens de José, exceto a casa, são vendidos|127:3.1
+Abril|Jesus vai à Páscoa com Tiago|127:3.2
+-|Morte de Simão, o pai de Lázaro|127:3.4
+Julho|Morte de Zacarias, o pai de João Batista|135:2.1
+Setembro|João Batista e Isabel visitam Jesus|135:2.2
+3 de dezembro|Morte do pequeno Amós, irmão de Jesus|127:3.13
+168|13 d.C.
+-|Rebeca ama Jesus|127:5.1
+-|Anás deixa o cargo de sumo sacerdote|129:1.5
+169|14 d.C.
+-|Jesus participa da Páscoa com Lázaro|127:6.3-7
+-|Morte da mãe de Lázaro|127:6.5
+-|João e Isabel mudam-se para Hebrom|135:2.3
+-|Morte de Augusto|136:2.8
+170|15 d.C.
+-|Jesus participa da Páscoa com o seu irmão José|128:1.14
+171|16 d.C.
+-|Jesus faz de Tiago o chefe da família; trabalha como ferreiro em Séforis|128:2.3-4
+172|17 d.C.
+-|Jesus participa da Páscoa com Simão e conhece Estêvão|128:3.1
+-|Jesus e o mercador de Damasco originário da Filadélfia|128:3.3
+Setembro|Jesus passa quatro meses em Damasco|128:4.1
+173|18 d.C.
+-|Jesus fica relativamente livre da responsabilidade familiar|128:5.1
+-|Jesus recusa o posto de assistente de pesquisa do chazam de Alexandria|128:5.2-5
+174|19 d.C.
+-|Jesus leva Judá à Páscoa; Judá é posto na prisão|128:6.3-8
+175|20 d.C.
+-|Judá foge e torna-se pescador|128:7.8
+Novembro|O casamento duplo de Tiago e Míriam|128:7.10
+-|Jesus entrega a oficina de reparos de caravanas a Tiago e renuncia à chefia da família|128:7.13
+176|21 d.C.
+Janeiro|Jesus deixa a sua família e trabalha com Zebedeu|129:1.1-2
+Outubro|Jesus participa do casamento da sua irmã Marta|129:1.6
+177|22 d.C.
+Março|Jesus vai da casa de Zebedeu para Jerusalém|129:2.1
+Abril|Jesus conhece Anás, Ganid e Gonod|129:2.7
+26 de abril|Jesus parte de Jerusalém para Roma|130:0.1
+17 de agosto|Morte de Isabel|135:4.1
+178|23 d.C.
+10 de dezembro|Jesus despede-se de Ganid em Charax|130:0.1
+179|24 d.C.
+Por volta de fevereiro|Jesus passa várias semanas em Nazaré|134:1.3
+Março|O casamento duplo de Simão e Judá|134:1.4
+1º de abril|Jesus parte de Nazaré para o mar Cáspio|134:2.1
+Por volta de setembro|Jesus passa três semanas em Jerusalém com João, o filho de Zebedeu|134:9.2
+180|25 d.C.
+-|O ano em que Jesus viaja sozinho|134:7.1
+Março|João Batista inicia a sua pregação pública|135:4.6, 135:6.1
+1º de abril|Jesus retorna a Cafarnaum|134:7.1
+Por volta de 15 de abril|Jesus parte de Nazaré para Tiro|134:7.1
+Maio|Os sacerdotes perguntam a João Batista se ele é o Messias|135:6.6
+Agosto–setembro|Jesus permanece no monte Hermom|134:8.1, 134:8.4
+Dezembro|João Batista chega a Pela|135:8.1
+181|26 d.C.
+-|Pôncio Pilatos torna-se procurador da Judéia|136:2.8
+Por volta de 11 de janeiro|Jesus deixa de lado as suas ferramentas|134:9.8
+14 de janeiro|Jesus é batizado por João|134:8.6
+23 de fevereiro|Após quarenta dias nas colinas, Jesus encontra-se com João|137:0.1
+24 de fevereiro|São escolhidos André, Pedro, e Tiago e João, os filhos de Zebedeu|137:1.1
+27 de fevereiro|São escolhidos Filipe e Natanael|137:2.1
+2 de março|Jesus separa-se de João em Pela|137:2.1
+3 de março|O casamento em Caná|137:3.1
+-|Jesus aparece na sinagoga de Cafarnaum|137:6.1
+-|João Batista viaja para o sul|135:10.1
+Março–junho|Quatro meses de treinamento|137:7.1
+12 de junho|Herodes prende João Batista|135:10.3
+18 de junho|O último trabalho de Jesus na sua bancada de carpinteiro|137:8.3
+22 de junho|O sermão sobre o Reino do Céu|137:8.1
+23 de junho|As instruções finais de Jesus aos seis apóstolos|138:1.1
+Julho|São chamados Mateus, Simão, os gêmeos Alfeus, Tomé e Judas|138:3-5
+Agosto|Os doze apóstolos começam o seu trabalho|138:8.1
+182|27 d.C.
+-|Jesus assume o trabalho de João Batista|141:1.5
+12 de janeiro|Os apóstolos são formalmente ordenados e abençoados|138:10.11
+19 de janeiro|Os apóstolos começam o seu trabalho público|141:0.1
+21 de janeiro–7 de fevereiro|Jesus e os apóstolos permanecem em Pela|141:1.2
+7–26 de fevereiro|Os apóstolos permanecem em Amatos|141:3.1
+26 de fevereiro|Viagem a Betânia, do outro lado do Jordão|141:7.1
+31 de março|Partida para Jerusalém|141:9.1
+Abril|Estada em Jerusalém|141:9.3
+Maio|Estada em Belém e Hebrom|142:8.1
+1º de junho|Estada em Jerusalém|142:8.4
+Por volta de 25 de junho|Conversão de Simão, membro do sinédrio|142:8.5
+28 de junho|Partida para a Samaria|143:0.1
+1º–15 de agosto|Estada em Arquelais e Fasaeles|143:1.1
+15–31 de agosto|Samaria: Nalda de Sicar e o monte Gerizim|143:3.8
+Setembro|Jesus passa algum tempo no monte Gilboa a sós com os apóstolos|144:0.1
+Outubro|Conferência com os apóstolos de João|144:6.1
+2 de novembro|Termina o acampamento de Gilboa|144:6.13
+20 de dezembro|Estada em Pela|144:8.1
+183|28 d.C.
+10 de janeiro|Execução de João Batista|144:9.1
+16 de janeiro|A pesca milagrosa|145:0.1
+17 de janeiro|A cura ao pôr do sol|145:3.1
+18 de janeiro|Começa a primeira viagem de pregação pela Galiléia|146:0.1
+17 de março|Termina a primeira viagem de pregação pela Galiléia|146:0.1
+17 de março|Chegada a Cafarnaum|147:0.1
+29 de março|É curado o servo do centurião|147:1.1
+2 de abril|Chegada a Jerusalém|147:2.1
+3 de maio|Retorno a Cafarnaum (Betsaida)|147:7.1
+3 de maio–3 de outubro|Treinamento de evangelistas em Betsaida|148:0.1
+1º de outubro|É curado o paralítico|148:9.1
+3 de outubro|Começa a segunda viagem de pregação pela Galiléia|149:0.1
+30 de dezembro|Termina a segunda viagem de pregação pela Galiléia|149:0.1
+184|29 d.C.
+16 de janeiro|Conferência com os discípulos de João|150:0.1
+18 de janeiro–4 de março|A terceira viagem de pregação pela Galiléia|150:0.3
+5 de março|A rejeição em Nazaré|150:6.3
+10 de março|Retorno a Betsaida|150:9.5
+Por volta de 15 de março|É curado o lunático de Queresa|151:6.1
+Por volta de 16 de março|São curadas Verônica e a filha de Jairo|152:0-1
+30 de março|A alimentação dos cinco mil; a percepção de Pedro|152:2-4
+6 de abril|Chegada a Betânia|152:7.1
+24 de abril|Partida de Jerusalém para Betsaida|152:7.3
+30 de abril|A crise em Cafarnaum|153:0.1
+-|O sinédrio reúne-se com Herodes|154:0.1
+8 de maio|O sinédrio fecha as sinagogas a Jesus|154:2.1
+-|Morte de Salomé|154:2.4
+16 de maio|A segunda conferência de Tiberíades|154:3.1
+21 de maio|Herodes consente que o sinédrio prenda Jesus|154:3.1
+22 de maio|Jesus escapa de Cafarnaum|154:5-7
+24 de maio|Jesus vai a Cesaréia-Filipe|155:2.1
+9 de junho|O discurso sobre a verdadeira religião|155:5-6
+10–24 de junho|Estada nas vizinhanças de Tiro e Sidom|156:0.1, 156:4.1
+11 de julho|É curada a filha de Norana|156:1.1
+24 de julho|Os apóstolos deixam Sidom|156:6.1
+7 de agosto|Pedro e o coletor do imposto do templo|157:0.1
+9 de agosto|A confissão de fé de Pedro|157:3.1
+15 de agosto|A transfiguração (monte Hermom)|158:1.1
+16 de agosto|É curado o filho de Tiago de Safed|158:4-5
+18 de agosto|Começa a viagem pela Decápolis|159:0.2
+16 de setembro|Termina a viagem pela Decápolis|159:6.2
+18–28 de setembro|Rodam no parque de Magadam|160:0.1
+26 de setembro|Os apóstolos partem para Jerusalém|164:0.1
+Por volta de 10 de outubro|A mulher apanhada em adultério|162:3.1
+Por volta de 30 de outubro|Os apóstolos deixam Jerusalém|162:0.4
+2–19 de novembro|Jesus permanece no parque de Magadam|162:9.6
+19 de novembro|São ordenados os setenta evangelistas|163:1.1
+6 de dezembro|A sede é transferida para Pela|163:5.1-2
+30 de dezembro|Os setenta retornam a Pela|163:1.6
+31 de dezembro|É curado Josias, o cego|164:3.8
+185|30 d.C.
+3 de janeiro|Abner envia os evangelistas|165:0.1
+28 de janeiro|O sermão sobre “A Confiança e a Prontidão Espiritual”|165:3.1
+11–20 de fevereiro|Viagem pelo norte da Peréia|166:0.1
+18 de fevereiro|Convite de Natanael, o fariseu|166:1.1
+19 de fevereiro|São curados os dez leprosos|166:2.1
+22 de fevereiro|Jesus chega à Filadélfia|167:0.3
+26 de fevereiro|Notícia da morte de Lázaro|167:4.1
+-|A ressurreição de Lázaro|168:2.1
+2 de março|Chegada a Pela|169:0.1
+6 de março|Ensinamentos sobre o Reino do Céu em Pela|170:0.1
+11 de março|Partida de Pela|171:1.1
+13 de março|É fechado o acampamento de visitantes em Pela|171:1.4
+15 de março|(qua.) Tendas armadas em Lívias|171:4.1
+29 de março|(qui.) É curado Bartimeu, o cego de Jericó|171:5.1
+30 de março|(sex.) Chegada a Betânia|172:0.1
+31 de março|(dom.) Entrada em Jerusalém montado num jumento|172:2-3
+2 de abril|(seg.) A purificação do templo|173:1.1
+3 de abril|(ter.) Anúncio de que uma dispensação está terminando|173:5.6
+4 de abril|O último discurso no templo|174:0.1
+-|O sinédrio decreta por unanimidade a morte de Jesus e de Lázaro|174:3.1
+-|Lua cheia|175:0.2
+-|Jesus prediz a destruição de Jerusalém|175:1.1
+5 de abril|(qua.) O dia de descanso|Documento 177
+6 de abril|(qui.) O último dia no acampamento do Getsêmani|Documento 178
+-|A Última Ceia|Documento 179
+7 de abril|(sex.) Jesus é crucificado|Documento 187
+8 de abril|(sáb.) O tempo no túmulo|Documento 188 (completo)
+9 de abril|(dom.) A ressurreição de Jesus|Documento 189
+-|Primeira aparição, no túmulo|189:4.10
+-|Segunda aparição, no túmulo|189:5.4
+-|Terceira aparição, em Betânia|190:2.3-4
+-|Quarta aparição, em Betânia|190:2.6
+-|Quinta aparição, em Jerusalém|190:3.1
+-|Sexta aparição, aos gregos|190:4.1
+-|Sétima aparição, aos dois no caminho de Emaús|190:5.1
+-|Oitava aparição, a Pedro|191:1.2-3
+-|Nona aparição, aos apóstolos|191:2.1
+10 de abril|(seg.) Passa ao segundo estágio moroncial|191:3.1
+11 de abril|(ter.) Décima aparição, na Filadélfia|191:4.1
+12 de abril|(qua.) Encontra-se com a delegação moroncial|191:4.7
+14 de abril|(sex.) Passa ao terceiro estágio moroncial|191:3.3
+15 de abril|(sáb.) Décima primeira aparição, aos apóstolos|191:5.1
+17 de abril|(seg.) Passa ao quarto estágio moroncial|191:3.3
+18 de abril|(ter.) Décima segunda aparição, em Alexandria|191:6.1
+21 de abril|(sex.) Décima terceira aparição, aos apóstolos em Betsaida|192:1.1
+22 de abril|(sáb.) Décima quarta aparição, aos apóstolos em Cafarnaum|192:3.1
+-|Passa ao quinto estágio moroncial|191:3.3
+27 de abril|(qui.) Passa ao sexto estágio moroncial|191:3.3
+29 de abril|(sáb.) Décima quinta aparição, em Betsaida|192:4.2
+2 de maio|(ter.) Passa ao sétimo estágio moroncial|191:3.3
+3 de maio|(qua.) Morte de Elias Marcos|192:4.5
+5 de maio|(sex.) Décima sexta aparição, em Jerusalém|193:0.1
+7 de maio|(dom.) É transferido para o status de cidadão de Jerusém|191:3.3
+13 de maio|(sáb.) Décima sétima aparição, em Sicar|193:1.1
+14 de maio|(dom.) Torna-se associado dos Altíssimos de Edêntia|191:3.3
+16 de maio|(ter.) Décima oitava aparição, em Tiro|193:2.1
+18 de maio|(qui.) A décima nona e última aparição (a ascensão)|193:3.1
+-|Deixa o status moroncial e torna-se governante supremo em Sálvington|193:5.4
+-|Pentecostes: é proclamada a outorga do Espírito da Verdade|Documento 194 (completo)
+Junho|Casamento de Davi Zebedeu e Rute, a irmã mais nova de Jesus|190:1.10
+# Depois de Jesus
+186|31 d.C.
+-|Morte de Maria, a mãe de Jesus|187:2.7
+187|39 d.C.
+-|Herodes Antipas governa a Galiléia e a Peréia até este ano|121:2.11
+188|40 d.C.
+-|Mateus registra por escrito uma coleção dos dizeres de Jesus|121:8.6
+189|67 d.C.
+-|Morte de Simão Pedro|121:8.3
+190|68 d.C.
+-|Completa-se o Evangelho de Marcos|121:8.3
+191|70 d.C.
+-|Os exércitos de Tito entram em Jerusalém|121:8.7
+192|71 d.C.
+-|Isador escreve um evangelho baseado nas notas de Mateus|121:8.7
+193|74 d.C.
+21 de novembro|Morte de Abner|166:5.7
+194|78 d.C.
+-|Cedes faz um registro da vida de Jesus|121:8.9
+195|80 d.C.
+-|A igreja cristã expande-se e organiza-se rapidamente|170:2.21
+196|82 d.C.
+-|Lucas escreve o seu Evangelho (Paulo morreu antes que qualquer Evangelho fosse escrito)|121:8.8
+197|90 d.C.
+-|Morte de Lucas|121:8.8
+198|101 d.C.
+-|Natam começa a escrever o Evangelho de João|121:8.10
+199|103 d.C.
+-|João, o filho de Zebedeu, morre em Éfeso|139:4.15
+200|200–300 d.C.
+-|O mitraísmo e a igreja cristã tornam-se muito semelhantes|98:6.3
+201|416 d.C.
+-|As notas originais de Mateus perdem-se num incêndio num mosteiro sírio|121:8.6
+202|500 d.C.
+-|Maomé funda a religião do islã|92:5.11
+203|1000 d.C.
+-|A raça branca desembarca na América|64:7.19
+204|1135 d.C.
+-|Explode a nebulosa de Câncer|41:8.4
+205|1200 d.C.
+-|Gengis Khan conquista a maior parte da Ásia|79:1.9
+206|1400–1500 d.C.
+-|A Reforma rompe a unidade do cristianismo|92:5.12
+-|Os seguidores de Nanak unem-se no sikismo|92:5.12
+207|1572 d.C.
+-|A luz da explosão de uma estrela dupla chega a Urântia|41:3.5
+208|1808 d.C.
+-|O eclipse predito por Tenskwatawa|90:2.8
+209|1880 d.C.
+-|Cai um meteorito em Bengala|85:1.2
+210|1885 d.C.
+-|Explode a nebulosa de Andrômeda|41:8.3
+211|1934–1935 d.C.
+-|A Parte I é registrada por escrito|31:10.15
+-|A Parte II é registrada por escrito|56:10.23
+-|A Parte III é registrada por escrito|119:8.9
+212|1955 d.C.
+-|O Livro de Urântia é publicado|

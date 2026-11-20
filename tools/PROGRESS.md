@@ -16,7 +16,7 @@
 | jesus | 극동판 연결 | | | | |
 | personalities | 극동판 연결 | | | | |
 | lists | 극동판 연결 | | | | |
-| chronology | 극동판 연결 | | | | |
+| chronology | 극동판 연결 | ✅ | ✅ | ✅ | 2026-11-20 |
 | maps | 극동판 연결 | | | | |
 | youth | 극동판 연결 | | | | |
 | abridged | 극동판 연결 | | | | |
