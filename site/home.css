@@ -1,0 +1,166 @@
+:root {
+  --bg: #f6f8f5;
+  --ink: #20242e;
+  --muted: #6b7180;
+  --line: #dfe6e0;
+  --card: #ffffff;
+  --gold: #e2a63b;
+  --navy: #0f5752;
+  --soon-bg: #fbf0dc;
+  --soon-ink: #8a7340;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Noto Sans", "Segoe UI", Roboto, "Helvetica Neue", Arial, system-ui, sans-serif;
+  line-height: 1.6;
+}
+:lang(ja) body, body:lang(ja) { font-family: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", "Meiryo", system-ui, sans-serif; }
+:lang(zh-Hans) body, body:lang(zh-Hans) { font-family: "Noto Sans SC", "Microsoft YaHei", "PingFang SC", system-ui, sans-serif; }
+a { color: inherit; }
+
+/* 머리 부분: 아메리카판은 깊은 청록(극동판 남색과 구별) */
+.hero {
+  position: relative;
+  background: linear-gradient(160deg, #082a2b 0%, #0f5752 48%, #2a7a6e 100%);
+  color: #fff;
+  text-align: center;
+  padding: 72px 16px 48px;
+  overflow: hidden;
+}
+.hero::before {
+  content: "";
+  position: absolute; inset: 0;
+  background-image:
+    radial-gradient(1px 1px at 12% 30%, #fff8 50%, transparent 51%),
+    radial-gradient(1px 1px at 28% 70%, #fff6 50%, transparent 51%),
+    radial-gradient(1.5px 1.5px at 46% 18%, #fff9 50%, transparent 51%),
+    radial-gradient(1px 1px at 63% 55%, #fff7 50%, transparent 51%),
+    radial-gradient(1.5px 1.5px at 81% 25%, #fff8 50%, transparent 51%),
+    radial-gradient(1px 1px at 90% 72%, #fff6 50%, transparent 51%);
+  pointer-events: none;
+}
+.badge {
+  display: inline-block;
+  border: 1px solid #c9a24a99;
+  color: #e9cf8e;
+  font-size: 12px;
+  letter-spacing: .22em;
+  padding: 4px 14px;
+  border-radius: 999px;
+  margin-bottom: 14px;
+}
+.hero h1 { margin: 0; font-size: clamp(28px, 6vw, 42px); font-weight: 800; letter-spacing: .01em; }
+.hero p { margin: 8px 0 0; color: #d3ece6; font-size: 16px; }
+
+/* 언어 고르기 단추 */
+.langbar {
+  position: absolute; top: 14px; right: 16px; left: 16px;
+  display: flex; justify-content: flex-end; gap: 6px; flex-wrap: wrap;
+  z-index: 1;
+}
+.langbar button {
+  font: inherit; font-size: 14px;
+  background: #ffffff14; color: #fff;
+  border: 1px solid #ffffff40;
+  border-radius: 999px;
+  padding: 5px 14px;
+  cursor: pointer;
+}
+.langbar button:hover { background: #ffffff2a; }
+.langbar button[aria-pressed="true"] { background: var(--gold); border-color: var(--gold); color: #1b1f2a; font-weight: 700; }
+/* 접히는 언어 고르기 */
+#langbar { flex-direction: column; align-items: flex-end; }
+.lang-toggle { display: inline-flex; align-items: center; gap: 6px; }
+.lang-toggle .arrow { font-size: 12px; transition: transform .15s; }
+.lang-toggle[aria-expanded="true"] .arrow { transform: rotate(180deg); }
+.lang-list { display: flex; flex-direction: column; gap: 6px; margin-top: 6px; padding: 8px; background: #0f5752f2; border: 1px solid #ffffff40; border-radius: 14px; box-shadow: 0 6px 18px #0005; }
+.lang-list[hidden] { display: none; }
+.lang-list button { text-align: left; min-width: 110px; }
+
+/* 메뉴 목록 */
+main { max-width: 760px; margin: 0 auto; padding: 32px 16px 56px; }
+main h2 {
+  font-size: 15px; color: var(--muted); font-weight: 600;
+  letter-spacing: .08em; margin: 0 0 12px;
+}
+.menu { list-style: none; margin: 0; padding: 0; border-top: 3px solid var(--navy); background: var(--card); border-radius: 0 0 10px 10px; box-shadow: 0 1px 3px #0000000d; }
+.menu li + li { border-top: 1px solid var(--line); }
+.menu a {
+  display: flex; align-items: center; gap: 14px;
+  padding: 15px 18px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.menu a:hover { background: #eef6f2; }
+.num {
+  flex: none;
+  width: 30px; height: 30px; border-radius: 50%;
+  display: grid; place-items: center;
+  background: var(--navy); color: #fff;
+  font-size: 13px; font-weight: 700;
+}
+.name { flex: 1; min-width: 0; }
+.tag {
+  flex: none;
+  font-size: 12px; color: var(--soon-ink); background: var(--soon-bg);
+  border-radius: 999px; padding: 2px 10px;
+}
+footer { text-align: center; color: var(--muted); font-size: 13px; padding: 0 16px 32px; }
+
+/* 준비 중 페이지 */
+.soon { text-align: center; padding: 64px 16px; }
+.soon h2 { font-size: 22px; color: var(--ink); letter-spacing: 0; margin-bottom: 6px; }
+.soon .item { color: var(--navy); font-weight: 700; font-size: 18px; margin: 0 0 18px; }
+.soon p { color: var(--muted); margin: 0 0 28px; }
+.btn {
+  display: inline-block; text-decoration: none;
+  background: var(--navy); color: #fff;
+  padding: 10px 22px; border-radius: 999px; font-size: 15px;
+}
+
+@media (max-width: 520px) {
+  .hero { padding-top: 84px; }
+  .langbar { justify-content: center; }
+  .menu a { padding: 13px 14px; font-size: 16px; }
+}
+
+/* 바로가기 공유 · 바탕화면 저장 */
+.actions { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 18px; position: relative; }
+.actions button {
+  font: inherit; font-size: 14.5px; cursor: pointer;
+  background: #ffffff1c; color: #fff; border: 1px solid #ffffff55;
+  border-radius: 999px; padding: 8px 16px;
+}
+.actions button:hover { background: #ffffff33; }
+#installBtn { background: var(--gold); border-color: var(--gold); color: #1b1f2a; font-weight: 700; }
+#installBtn:hover { background: #efb851; }
+.hero .help { position: relative; max-width: 460px; margin: 12px auto 0; font-size: 13.5px; line-height: 1.6;
+  background: #ffffff14; border: 1px solid #ffffff33; border-radius: 10px; padding: 8px 12px; color: #e6f3ef; }
+.toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); z-index: 50;
+  background: #1b1f2a; color: #fff; padding: 10px 18px; border-radius: 999px; font-size: 14px;
+  box-shadow: 0 6px 20px #0005; max-width: calc(100% - 32px); text-align: center; }
+
+/* 글쓴이 표시(아주 작게, 맨 위) · 한국어판 홈페이지 주소(띠 아래쪽) */
+.hero .byline { position: absolute; right: 16px; bottom: 8px; font-size: 11px; letter-spacing: .04em; color: #cfe6df; opacity: .85; }
+.hero .site { position: relative; display: inline-block; margin-top: 16px; font-size: 16px; font-weight: 700; letter-spacing: .02em;
+  color: #f3dfa6; text-decoration: none; border-bottom: 1px solid #f3dfa688; padding-bottom: 1px; }
+.hero .site:hover { color: #fff; border-bottom-color: #fff; }
+.hero .site[hidden] { display: none; }
+#brand { text-wrap: balance; word-break: keep-all; }
+
+/* 아메리카판: 언어 단추를 오른쪽 끝에서 조금 내려 가운데 쪽(본문 폭의 오른쪽 끝)으로 옮기고 크게 (2026-11-20 사용자 요청) */
+.hero { padding-top: 112px; }
+.langbar { top: 50px; right: max(16px, calc(50% - 370px)); left: auto; }
+.lang-toggle { font-size: 15.5px !important; font-weight: 700; padding: 8px 18px !important;
+  background: #ffffff24 !important; border: 2px solid var(--gold) !important; box-shadow: 0 2px 10px #0003; }
+.lang-toggle:hover { background: #ffffff38 !important; }
+.lang-toggle .globe { font-size: 17px; }
+.lang-list button { font-size: 15px !important; }
+@media (max-width: 520px) {
+  .hero { padding-top: 104px; }
+  .langbar { top: 40px; right: 50%; transform: translateX(50%); }
+  #langbar { align-items: center; }
+}

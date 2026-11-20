@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Urantia America</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;800&display=swap">
+<link rel="stylesheet" href="home.css?v=20261120a">
+<link rel="icon" href="/favicon.ico" sizes="any">
+</head>
+<body>
+<header class="hero">
+  <div class="badge">URANTIA AMERICA</div>
+  <h1 id="brand">Urantia America</h1>
+</header>
+
+<main class="soon">
+  <h2 id="soonTitle"></h2>
+  <p class="item" id="item"></p>
+  <p id="soonBody"></p>
+  <a class="btn" id="back" href="/"></a>
+</main>
+
+<script src="i18n.js?v=20261120a"></script>
+<script>
+var q = new URLSearchParams(location.search), id = q.get("p");
+var entry = SITE.menu.filter(function (m) { return m.id === id; })[0];
+var lang = pickLang();
+var ui = SITE.ui[lang];
+document.documentElement.lang = HTML_LANG[lang];
+document.getElementById("brand").textContent = ui.brand;
+document.getElementById("soonTitle").textContent = ui.soonTitle;
+document.getElementById("item").textContent = entry ? entry[lang] : "";
+document.getElementById("soonBody").textContent = ui.soonBody;
+var back = document.getElementById("back");
+back.textContent = ui.back;
+back.href = "/" + lang + "/";
+document.title = (entry ? entry[lang] + " — " : "") + ui.brand;
+</script>
+</body>
+</html>

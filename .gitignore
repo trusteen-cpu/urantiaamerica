@@ -1,0 +1,12 @@
+
+# secrets - never commit
+.env
+.env.*
+.dev.vars
+*.key
+*_key.txt
+*_keys.json
+eleven_key.txt
+r2_keys.json
+.wrangler/
+node_modules/
