@@ -1,0 +1,281 @@
+### ch08:label
+Chapter 8
+### ch08:title
+The Process of Materialization
+### ch08:sub
+From Spirit to Matter
+### ch08:0
+Chapters 5 through 7 examined the personalities who govern and serve the universe. This chapter asks about the stage on which those personalities work, the material universe itself. Where did the matter that makes up the stars, the planets, and our own bodies come from? The answer of The Urantia Book is clear: matter, too, came from God. It is not a rival principle set over against spirit but energy that has flowed out from Paradise and taken form through a series of stages.
+### ch08:1
+This doctrine matters because it sets the relationship between matter and spirit on a right footing. If matter is seen as having nothing to do with spirit, the universe becomes a machine running on without God; if matter is seen as evil or vain, the life of the body and of the world becomes a burden to be cast off. The Urantia Book rejects both of these paths. This chapter examines in turn the source of energy, the stages by which energy becomes matter, the beings who direct that process, the structure of matter, and the principle that mind and spirit dominate matter.
+### ch08:2
+1. All Energy Comes from Paradise
+### ch08:3
+In treating the material universe, Paper 42 first distinguishes its foundation from its essence. The universe is material in the sense that it rests on energy. But the one who upholds that material foundation is the Universal Father.
+### ch08:5
+The foundation is material, but the essence is spirit. Paper 42 sets the two side by side in a single sentence: “The foundation of the universe is material, but the essence of life is spirit” (42:1.1). And it goes on at once to say that the Father of spirits is also the ancestor of universes. The source of spirit and the source of matter are not two but one. This energy pours forth without ceasing, and through the hands of many personalities that stream becomes matter and life.
+### ch08:7
+Nor is the making of this energy the business of creatures. The revelators say that there is a boundary that human science, however far it advances, can never cross. Scientists will “forever will scientists be powerless to create one atom of matter or to originate one flash of energy or ever to add to matter that which we call life” (42:1.4). Man can handle and transform energy, but he can never be its source. And the energy that comes from Paradise never vanishes.
+### ch08:9
+However endlessly its forms may change, its reality is never extinguished, and in the end it returns to the place from which it came.
+### ch08:11
+Here the first link of the doctrine of materialization is forged. Energy comes forth from God and returns to God. Even the motion of matter is part of the great circuit of the whole universe, a purposeful stream that goes out from Paradise and returns to Paradise. Just as the structure of the universe we saw in Chapter 5 holds within it an ascent toward the center, so the energy of the universe holds within it a return to the center.
+### ch08:12
+2. From Space Potency to Universe Power
+### ch08:13
+The energy that comes from Paradise does not become matter at once. Paper 42 classifies the stages through which physical energy passes into seven levels. The revelators first acknowledge that human language is too poor to distinguish these levels: “There is such paucity of language that we must assign multiple meanings to these terms” (0:6.2). And so they also give the names used on Uversa.
+### ch08:14
+{
+ "cap": "Table 8.1  The Seven Levels of Force and Energy",
+ "rows": [
+  [
+   "Level",
+   "Nature",
+   "Uversa name",
+   "Source"
+  ],
+  [
+   "1. Space potency",
+   "The free space presence of the Unqualified Absolute; a prereality, responsive only to the personal grasp of the Universal Father",
+   "Absoluta",
+   "42:2.3, 42:2.5, 42:2.6"
+  ],
+  [
+   "2. Primordial force",
+   "The first basic change in space potency; sometimes called pure energy",
+   "Segregata",
+   "42:2.7, 42:2.9"
+  ],
+  [
+   "3. Emergent energies",
+   "Two phases, puissant energy (a) and gravity energy (b); the active ancestor of all universe matter",
+   "—",
+   "42:2.10~13"
+  ],
+  [
+   "4. Universe power",
+   "The energy of gravity control, directed into channels of power to serve the purposes of the Creators",
+   "Gravita",
+   "42:2.14, 42:2.15"
+  ],
+  [
+   "5. Havona energy",
+   "A pre-existent stage of energy characteristic of the central universe",
+   "Triata",
+   "42:2.16, 42:2.17"
+  ],
+  [
+   "6. Transcendental energy",
+   "Operates on the upper level of Paradise and only in connection with the absonite peoples",
+   "Tranosta",
+   "42:2.18"
+  ],
+  [
+   "7. Monota",
+   "The living, nonspirit energy of Paradise; the nonspiritual energy system of the Universal Father",
+   "Monota",
+   "42:2.19"
+  ]
+ ]
+}
+### ch08:15
+Of the seven levels, the one man deals with directly in the universes of time and space is the fourth, universe power. Only after space-force has been changed into space-energy, and then into the energy of gravity control, is physical energy at last ready for use.
+### ch08:17
+As the word ‘ripened’ suggests, materialization is a process of unhurried maturing. The top row of this table, space potency, the starting point of all physical energy, is a state that cannot yet even be called reality. And yet that most primal of states responds to the personal grasp of the Universal Father.
+### ch08:19
+The very bottom of the material universe rests not on impersonal law but on the personal grasp of the Father. This is the foundation of the doctrine of materialization. The bottom row of the table is also remarkable. Monota, the nonspiritual energy of Paradise, is paired with the living spirit energy of the Eternal Son. The revelators confess that they cannot distinguish the nature of the two.
+### ch08:21
+At their source the energies of spirit and of matter are apparently the same. They diverge only as they move away from Paradise. This is the second link of the doctrine of materialization. Matter does not spring from a root different from that of spirit; it unfolds along a different path from the same source. So the material world may be a veil that hides spiritual reality, but rightly seen it becomes a mirror that reflects that reality.
+### ch08:22
+3. The Living Beings Who Handle Energy
+### ch08:23
+Energy does not become matter of itself. At every stage there are living beings who direct its transmutation. In The Urantia Book materialization is not a blind natural process but a work guided by intelligent beings.
+### ch08:25
+The force organizers are unique beings, neither creators nor creatures, who dwell on Paradise and work in unorganized space. They are “nebulae originators” (15:4.4).
+### ch08:27
+The spiral nebulae brought into being in this way become the mother wheels of suns and their systems. Once energy becomes responsive to gravity, the power directors take over the work. Before they are technicians who handle energy, these directors are beings whose very presence moves energy.
+### ch08:29
+{
+ "cap": "Table 8.2  From Energy to Life: The Beings at Work at Each Stage",
+ "rows": [
+  [
+   "Stage",
+   "Beings responsible",
+   "What they do",
+   "Source"
+  ],
+  [
+   "Space potency → primordial force",
+   "Primary Master Force Organizers",
+   "Nebulae creators who manipulate the primordial space-forces; instigators of the energy cyclones",
+   "29:5.5, 15:4.4"
+  ],
+  [
+   "Primary energy → gravity energy",
+   "Associate Transcendental Master Force Organizers",
+   "Continue the transmutation of energy from the primary to the secondary stage",
+   "29:5.5"
+  ],
+  [
+   "Gravity energy → matter",
+   "Universe Power Directors (power centers and physical controllers)",
+   "Transmute energy into matter and establish the power circuits and energy channels",
+   "42:1.5, 15:4.2"
+  ],
+  [
+   "Matter → inhabited realms",
+   "The Creator Son",
+   "Materializes visible matter from pre-existent energy and establishes the inhabited realms",
+   "32:2.1"
+  ],
+  [
+   "Dead matter → material life",
+   "The Life Carriers",
+   "Initiate in dead matter the processes we call life",
+   "42:1.5"
+  ],
+  [
+   "Between matter and spirit",
+   "The Morontia Power Supervisors",
+   "Perform the same work in the transition realms between the material and spiritual worlds",
+   "42:1.5"
+  ]
+ ]
+}
+### ch08:30
+This table follows the sequence pictured in a single paragraph of Paper 42. The force organizers initiate the changes of space-force, the power directors transmute energy into matter, and thus the material worlds are born. Upon that matter the Life Carriers initiate life. The Creator Son we saw in Chapter 6 also stands in the middle of this sequence. He does not build a universe out of nothing.
+### ch08:32
+Materialization is a co-operation of many personalities. Beings who come from the line of the Third Source and Center, the Infinite Spirit, shape the energy; the Son builds worlds from it; and the ministers of the Infinite Spirit then care for life and mind on those worlds. The material universe is a house built together by many of God's children.
+### ch08:33
+4. From Ultimaton to Atom: The Structure of Matter
+### ch08:34
+When energy is organized into matter at the hands of the power directors, its first unit is the ultimaton, still unknown to the science of Urantia. Ultimatons combine to form electrons, and electrons and protons combine to form atoms. The relationship between the ultimaton and the electron is astonishingly exact.
+### ch08:36
+Matter thus rests upon an order of number. The revelators also say that matter in all universes except the central universe is identical. The properties of matter depend on the revolutionary rates, the number, and the size of its component members, and on their distance from the nucleus. And the matter found in suns, planets, and space bodies is divided into ten classes according to its state of organization.
+### ch08:38
+{
+ "cap": "Table 8.3  The Ten Grand Divisions of Matter",
+ "rows": [
+  [
+   "Division",
+   "Description",
+   "Source"
+  ],
+  [
+   "1. Ultimatonic matter",
+   "The prime physical units of material existence; the energy particles that make up electrons",
+   "42:3.3"
+  ],
+  [
+   "2. Subelectronic matter",
+   "The explosive and repellent stage of the solar supergases",
+   "42:3.4"
+  ],
+  [
+   "3. Electronic matter",
+   "The electric stage of material differentiation",
+   "42:3.5"
+  ],
+  [
+   "4. Subatomic matter",
+   "Existing extensively in the interior of the hot suns",
+   "42:3.6"
+  ],
+  [
+   "5. Shattered atoms",
+   "Found in the cooling suns and throughout space",
+   "42:3.7"
+  ],
+  [
+   "6. Ionized matter",
+   "Individual atoms stripped of their outer electrons",
+   "42:3.8"
+  ],
+  [
+   "7. Atomic matter",
+   "The chemical stage of elemental organization; the component units of molecular or visible matter",
+   "42:3.9"
+  ],
+  [
+   "8. The molecular stage of matter",
+   "A relatively stable state of materialization under ordinary conditions (the matter of Urantia)",
+   "42:3.10"
+  ],
+  [
+   "9. Radioactive matter",
+   "Matter in which the heavier elements show a tendency to disintegrate",
+   "42:3.11"
+  ],
+  [
+   "10. Collapsed matter",
+   "The relatively stationary matter found in the interior of cold or dead suns",
+   "42:3.12"
+  ]
+ ]
+}
+### ch08:39
+In this classification, the matter man touches with his hands is only the eighth stage. The world man feels to be solid is one station on the long journey that energy travels. The revelators add that this classification follows the stages of organization rather than the appearance of things to the eyes of creatures. Matter is not a fixed thing but a state of organized energy. The process by which suns arise from nebulae and planets from suns is an extension of this same organization. The origin of the solar system to which Urantia belongs is told in detail in Paper 57.
+### ch08:40
+5. Spirit the Architect, Mind the Builder
+### ch08:41
+The last link in the process of materialization is a question of direction. If energy is organized into matter, where does the pattern of that organization come from? The final section of Paper 42 finds the answer in mind and spirit. Man commonly supposes that the body comes first and that a spirit dwells within it. The revelators reverse that order.
+### ch08:43
+The architect designs, the builder constructs, and the building stands. This figure shows at a glance the relationship of spirit, mind, and matter. Matter does not make its own patterns. The revelators call the physical “the time-space reflection of the spirit reality, the physical repercussion of the creative action of spirit-mind” (42:12.14). And they sum up this relationship in a single principle.
+### ch08:45
+{
+ "cap": "Table 8.4  From Spirit to Matter: The Logical Chain of the Doctrine of Materialization",
+ "rows": [
+  [
+   "Link",
+   "What the text says",
+   "Source"
+  ],
+  [
+   "Source",
+   "Pure energy is controlled by the Universal Father, and the river of energy and life flows forth from the Deities",
+   "42:0.1, 42:1.5"
+  ],
+  [
+   "Return",
+   "That which is of Paradise Deity origin has a Paradise destination",
+   "42:1.8"
+  ],
+  [
+   "The same root",
+   "The nature of Paradise spirit and Paradise monota is apparently alike",
+   "42:2.20"
+  ],
+  [
+   "Personal organization",
+   "The force organizers and power directors transmute energy and organize it into matter",
+   "15:4.2, 42:2.22"
+  ],
+  [
+   "Order",
+   "Matter outside the central universe is identical and follows an exact order of number",
+   "42:3.1, 42:6.5"
+  ],
+  [
+   "Order of dominance",
+   "Spirit is the architect, mind the builder, the body the building; mind dominates matter, and spirit overcontrols mind",
+   "42:12.12, 42:12.15"
+  ]
+ ]
+}
+### ch08:46
+This principle applies directly to man. The human body, too, is a house built by mind.
+### ch08:48
+The body is the tabernacle in which mind dwells, and the morontia form after death is likewise individualized by that person's mind. Just as bodies differ from person to person, so do morontia forms. Through the passage from the material body to the morontia body and on to the spirit form, it is always the inner that shapes the outer. Within that body the mind grows, and when that mind follows the leading of spirit, a soul comes into being. The same section of Paper 42 adds that only the mind that freely submits itself to spirit direction can hope to survive beyond time-space existence. Mind is treated in Chapter 10, and the growth of the soul in Chapter 12.
+### ch08:49
+In Closing: Matter Is the Shadow and the Mirror of Spirit
+### ch08:50
+The doctrine of materialization is joined in a single chain. All energy comes from Paradise, and the Universal Father upholds it. That energy passes from space potency through primordial force and the emergent energies to become universe power, and it is organized into ultimatons, electrons, and atoms to become stars and planets. Every one of these stages is a work directed by living beings such as the force organizers, the power directors, the Creator Sons, and the Life Carriers, and its direction comes from mind and spirit. And the energy that went out from Paradise at last returns to Paradise. Matter, therefore, is not the enemy of spirit. Matter is the shadow that spirit casts upon time and space, and rightly seen, it is a mirror that reflects the reality of spirit. Man's body, and the ground on which he stands, are fragments of that mirror. With this, Part Two has examined how God governs the universe, through the order of administration, of the Sons, of the angels, and of matter. Part Three examines man himself, placed within this universe: his personality, mind, Adjuster, and soul.
+### ch08:51
+{
+ "title": "Questions for Reflection",
+ "items": [
+  "1. If it is not the body that has a spirit but the spirit that has a body (42:12.12), with what attitude should I regard my body and my material life?",
+  "2. If materialization is a work directed by intelligent beings such as the force organizers and power directors (15:4.2), how does that change the way I look at nature?",
+  "3. How is the principle that what came from Paradise returns to Paradise (42:1.8) connected with the conviction that the toil and effort of my life are not in vain?"
+ ]
+}

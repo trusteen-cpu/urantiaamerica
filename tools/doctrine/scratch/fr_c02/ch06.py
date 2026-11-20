@@ -10,7 +10,7 @@ T = {
  ["Catégorie", "Mode d’obtention de la filiation", "Ordres représentatifs", "Source"],
  ["Fils descendants", "De création directe et divine", "Fils Créateurs, Fils Magistraux, Fils Instructeurs de la Trinité, Melchizédeks, Vorondadeks, Lanonandeks, Porteurs de Vie", "20:0.5, 20:1.2~9"],
  ["Fils ascendants", "Atteinte par la participation expérientielle à l’évolution", "Mortels fusionnés avec le Père, avec le Fils et avec l’Esprit, séraphins évolutionnaires, Fils Matériels ascendants, médians transférés, Ajusteurs personnalisés", "20:0.5, 40:0.2~8"],
- ["Fils Trinitisés", "Embrassés par la Trinité et voués au service de la Trinité", "Puissants Messagers, Élevés en Autorité, Dépourvus de Nom et de Nombre, et autres", "20:0.5, 22:1.1, 15:10.12"]]},
+ ["Fils Trinitisés", "Embrassés par la Trinité et voués au service de la Trinité", "Puissants Messagers, Élevés en Autorité, Dépourvus de Nom et de Nombre, et autres", "20:0.5, 22:1.1 et 15:10.12"]]},
 "ch06:6": "Ces trois catégories ne sont pas coupées les unes des autres. Les Fils descendants descendent pour aider les fils ascendants, et certains fils ascendants, après avoir atteint le Paradis, sont embrassés par la Trinité et servent de nouveau l’univers. Les trois catégories de filiation forment un seul grand circuit.",
 "ch06:7": "2. Les Fils Paradisiaques : construire, juger et enseigner",
 "ch06:8": "Au sommet des Fils descendants se trouvent trois ordres issus directement des Déités du Paradis. Leur mission, en un mot, est d’aider ceux qui sont plus bas. Les Fils descendants sont là pour « faciliter le progrès ascensionnel, vers le Paradis, des humbles créatures d’origine évolutionnaire — les fils de Dieu ascendants » (20:1.1). Ces trois ordres diffèrent par leur origine, mais dans leur travail ils ne font qu’un.",
@@ -31,7 +31,7 @@ T = {
 "ch06:24": {"cap": "Tableau 6.3  Les sept ordres de Fils descendants", "rows": [
  ["Ordre", "Origine", "Fonction la plus connue", "Source"],
  ["Fils Créateurs (Micaëls)", "Le Père Universel et le Fils Éternel", "Planificateurs, créateurs, constructeurs et administrateurs des univers locaux", "20:1.11, 21:2.1"],
- ["Fils Magistraux (Avonals)", "Le Fils Éternel et l’Esprit Infini", "Juges des dispensations ; missions magistrales et missions d’effusion", "20:1.11, 20:2.4~7, 20:3.1"],
+ ["Fils Magistraux (Avonals)", "Le Fils Éternel et l’Esprit Infini", "Juges des dispensations ; missions magistrales et missions d’effusion", "20:1.11, 20:2.4~7 et 20:3.1"],
  ["Fils Instructeurs de la Trinité (Daynals)", "Le Père, le Fils et l’Esprit", "Éducateurs voués à l’éveil spirituel et à la gouverne morale", "20:1.11, 20:7.3"],
  ["Fils Melchizédeks", "Le Fils Créateur, l’Esprit Créatif et le Père Melchizédek", "Premier ordre à servir les races évolutionnaires sans incarnation ; instructeurs et conseillers", "20:1.10, 35:2.1"],
  ["Fils Vorondadeks", "Le Fils Créateur et l’Esprit Créatif", "Pères des Constellations", "20:1.10, 35:5.1"],

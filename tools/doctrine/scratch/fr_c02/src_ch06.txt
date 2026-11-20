@@ -1,0 +1,268 @@
+### ch06:label
+Chapter 6
+### ch06:title
+The Sons of God
+### ch06:0
+The administration of the universe examined in Chapter 5 rests on a single fact: the Universal Father entrusts to his Sons everything that another can do. Who, then, are these Sons? In The Urantia Book, ‘Son of God’ is not the title of a single being but the name of many orders that fill the universe. There are Sons who build universes and Sons who judge the ages, Sons who teach, Sons who rule, and Sons who carry life. And at the very end of the line stands man, who becomes a son by faith.
+### ch06:1
+This chapter asks three questions. What is sonship, and into what orders is it divided? For what purpose do the Sons come down? And in what sense is man called a son of God? The answers come together in a single picture: the Sons who descend from above meeting the sons who ascend from below.
+### ch06:2
+1. The Three Categories of Sonship
+### ch06:3
+Paper 20 divides the Sons of God into three categories according to their origin and their path: descending Sons, ascending sons, and Trinitized Sons. The basis of this division is not higher or lower rank but the way in which their sonship was obtained.
+### ch06:5
+{
+ "cap": "Table 6.1  The Three Categories of the Sons of God",
+ "rows": [
+  [
+   "Category",
+   "How sonship is obtained",
+   "Representative orders",
+   "Source"
+  ],
+  [
+   "Descending Sons",
+   "Of direct and divine creation",
+   "Creator Sons, Magisterial Sons, Trinity Teacher Sons, Melchizedeks, Vorondadeks, Lanonandeks, Life Carriers",
+   "20:0.5, 20:1.2~9"
+  ],
+  [
+   "Ascending sons",
+   "Achieved by experiential participation in evolution",
+   "Father-, Son-, and Spirit-fused mortals, evolutionary seraphim, ascending Material Sons, translated midwayers, personalized Adjusters",
+   "20:0.5, 40:0.2~8"
+  ],
+  [
+   "Trinitized Sons",
+   "Embraced by the Trinity and devoted to Trinity service",
+   "Mighty Messengers, Those High in Authority, Those without Name and Number, and others",
+   "20:0.5, 22:1.1, 15:10.12"
+  ]
+ ]
+}
+### ch06:6
+These three categories are not cut off from one another. The descending Sons come down to help the ascending sons, and some of the ascending sons, after reaching Paradise, are embraced by the Trinity and serve the universe once more. The three categories of sonship form one great circuit.
+### ch06:7
+2. The Paradise Sons: Building, Judging, and Teaching
+### ch06:8
+At the top of the descending Sons are three orders that come directly from the Paradise Deities. Their mission, in a word, is to help those below. The descending Sons are there “to facilitate the progress in the Paradise climb of the lowly creatures of evolutionary origin—the ascending sons of God” (20:1.1). These three orders differ in origin, but in their work they are one.
+### ch06:10
+The first order, the Creator Sons, the Michaels, are the builders of the local universes.
+### ch06:12
+Yet the power of a Creator Son is not unlimited. In his own universe he is, for all practical purposes, God, but certain domains of creation remain in the hands of the Paradise sources. Above all, no Son can create personality. Paper 21 sets out these limits in three directions.
+### ch06:13
+{
+ "cap": "Table 6.2  The Creative Powers of a Creator Son and Their Limits",
+ "rows": [
+  [
+   "Domain",
+   "Who controls it",
+   "What the Creator Son must do",
+   "Source"
+  ],
+  [
+   "Energy-matter",
+   "The Infinite Spirit",
+   "Obtain the consent and co-operation of the Infinite Spirit before creating any new type of thing",
+   "21:2.4"
+  ],
+  [
+   "Creature designs and types",
+   "The Eternal Son",
+   "Obtain the consent of the Eternal Son before creating any new type of being",
+   "21:2.5"
+  ],
+  [
+   "Personality",
+   "The Universal Father (designs and bestows it)",
+   "Personality is bestowed by the Father alone",
+   "21:2.6, 33:2.2"
+  ],
+  [
+   "Final verdict of personality extinction",
+   "The Ancients of Days of the superuniverse",
+   "The local universe tribunals do not decide it",
+   "33:2.2, 33:7.4"
+  ]
+ ]
+}
+### ch06:14
+The second order, the Magisterial Sons, the Avonals, are the Sons who close one age and open the next. They are called Magisterial Sons “because they are the high magistrates of the realms, the adjudicators of the successive dispensations of the worlds of time” (20:3.1). They awaken the sleeping survivors, bring a dispensation to its end, and at times appear on a planet in the flesh.
+### ch06:16
+Even within the same order, every Son is unique. The universe of the Sons is not a bureaucracy of officials stamped from one mold but a family of distinct personalities serving the same will. The third order, the Trinity Teacher Sons, the Daynals, neither rule nor judge.
+### ch06:18
+Sons who build, Sons who judge, Sons who teach: the functions of the three Paradise Sons answer, in turn, three needs—creation, justice, and enlightenment. From the time a world comes into being, through its correction age by age, until at last it awakens spiritually, these three Sons visit that world one after another. Paper 20 groups them together as “creators, servers, bestowers, judges, teachers, and truth revealers” (20:1.12). But the work of the three Sons is more than a division of labor. Each of them reveals one of the Paradise Deities to man.
+### ch06:20
+This correspondence shows that the doctrine of the Sons follows from the doctrine of God. The Father, the Son, and the Spirit whom we examined in Part One do not remain far off on Paradise. The character of the three Deities reaches the worlds of time through the three orders of Sons. In the Creator Son man meets the character of the Father, in the Avonals the compassion of the Son, and in the Daynals the teaching of the Spirit.
+### ch06:21
+3. The Local Universe Sons: The Middle Links of the Descent
+### ch06:22
+Because the Paradise Sons come from a perfect source, they do not know the conditions of the evolving worlds firsthand from the beginning. So they learn through experience, and they are helped by beings who stand closer to man than they do. Paper 20 says that when the Magisterial Sons work on the inhabited worlds, they are assisted by the Melchizedeks and the archangels. Higher Sons and lower Sons need one another. The Paradise Sons alone cannot close the whole distance between the Father and evolving man. And so the Creator Son, together with the Universe Mother Spirit, brings into being the Sons of the local universe: the Melchizedeks, the Vorondadeks, the Lanonandeks, and the Life Carriers. Among these, the Melchizedeks stand at a special place on the ladder of descent.
+### ch06:24
+{
+ "cap": "Table 6.3  The Seven Orders of Descending Sons",
+ "rows": [
+  [
+   "Order",
+   "Origin",
+   "Best-known function",
+   "Source"
+  ],
+  [
+   "Creator Sons (Michaels)",
+   "The Universal Father and the Eternal Son",
+   "Designers, creators, builders, and administrators of the local universes",
+   "20:1.11, 21:2.1"
+  ],
+  [
+   "Magisterial Sons (Avonals)",
+   "The Eternal Son and the Infinite Spirit",
+   "Adjudicators of the dispensations; magisterial missions and bestowal missions",
+   "20:1.11, 20:2.4~7, 20:3.1"
+  ],
+  [
+   "Trinity Teacher Sons (Daynals)",
+   "The Father, the Son, and the Spirit",
+   "Educators dedicated to spiritual awakening and moral guidance",
+   "20:1.11, 20:7.3"
+  ],
+  [
+   "Melchizedek Sons",
+   "The Creator Son, the Creative Spirit, and the Father Melchizedek",
+   "The first order to serve the evolutionary races without incarnation; teachers and counselors",
+   "20:1.10, 35:2.1"
+  ],
+  [
+   "Vorondadek Sons",
+   "The Creator Son and the Creative Spirit",
+   "Constellation Fathers",
+   "20:1.10, 35:5.1"
+  ],
+  [
+   "Lanonandek Sons",
+   "The Creator Son and the Universe Mother Spirit",
+   "System Sovereigns and Planetary Princes",
+   "20:1.10, 35:8.1"
+  ],
+  [
+   "Life Carriers",
+   "The family of local universe Sons",
+   "Design creature life and carry it to the planets and plant it there",
+   "20:1.9, 36:0.1"
+  ]
+ ]
+}
+### ch06:25
+The Life Carriers, who occupy the lowest place among the local universe Sons, are entrusted with the most concrete task. They are responsible for the very life of a world.
+### ch06:27
+Reading these seven orders from top to bottom reveals a principle: the farther the Sons are from the source of divinity, the closer they come to man. The Creator Son embraces a whole universe, the Planetary Prince is responsible for a single world, and the Life Carriers plant life itself on that world. The path from the Father to man is not a broken cliff but a closely spaced stairway.
+### ch06:29
+The Lanonandeks are the Sons who rule closest to man. Being near to man, they understand the conditions of a planet well, but by the same token they are far from the Paradise source. The lower one descends, the greater the testing. Lucifer and Caligastia were Sons who fell on just this lower part of the stairway, in the Lanonandek order, and their story is told in Chapter 15.
+### ch06:30
+4. Bestowal: Why the Sons Come Down
+### ch06:31
+Among the Paradise Sons, the Michaels and the Avonals come down in person to the evolutionary worlds and live as creatures of those worlds. This is called bestowal. The Urantia Book first corrects a common misunderstanding about bestowal: it is not meant to change the Father's mind.
+### ch06:33
+Bestowal is, first of all, the Son's own experience. A ruler becomes a sympathetic ruler only by standing in the place of those he rules. And so a Creator Son must give himself seven times before he attains supreme sovereignty over his universe.
+### ch06:35
+But bestowal is not for the Son alone. A decisive change also comes to the people of the world on which the bestowal takes place. When a bestowal Son completes his mission and returns, the Spirit of Truth is poured out, and only after that do the Thought Adjusters come to all normal human beings.
+### ch06:37
+{
+ "cap": "Table 6.4  The Three Meanings of Bestowal",
+ "rows": [
+  [
+   "For whom",
+   "What bestowal accomplishes",
+   "Source"
+  ],
+  [
+   "For the bestowal Son",
+   "An experiential process that makes him a sympathetic magistrate and ruler",
+   "20:5.2"
+  ],
+  [
+   "For the Creator Son's universe",
+   "After seven bestowals he assumes settled and supreme jurisdiction",
+   "21:4.2, 21:4.4"
+  ],
+  [
+   "For the people of the bestowal world",
+   "The Spirit of Truth is poured out, and Thought Adjusters indwell all normal mortals",
+   "20:5.3"
+  ],
+  [
+   "For the Father's attitude",
+   "No change (the purpose of bestowal is not to appease the Father)",
+   "20:5.2, 20:6.7"
+  ]
+ ]
+}
+### ch06:38
+The revelators apply the same principle to the bestowal Son's passage through the portals of death. That death is not a price paid to appease wrath but a part of completing the bestowal.
+### ch06:40
+Michael of Nebadon completed his seventh and final bestowal on this world as Jesus of Nazareth. The meaning of that life is treated separately in Chapters 18 and 19. Here we note only that bestowal is the principle that runs through all the Sons of God. The higher the Son, the deeper he descends. The highest authority in the universe is given to the one who has personally lived in the lowest place.
+### ch06:41
+5. The Ascending Sons: Sonship Received by Faith
+### ch06:42
+The descending Sons come down in order to help the ascending sons. In what sense, then, is man a son of God now? Paper 40 frankly acknowledges that man is not yet by nature of the divine order. Yet it gives man a clear status of sonship.
+### ch06:44
+The status of faith son is not a vague consolation. Paper 40 gives five grounds on which man is called a son of God. These grounds bind together doctrines treated in other chapters of this book: faith, bestowal, the Spirit of Truth, personality, and the Adjuster.
+### ch06:45
+{
+ "cap": "Table 6.5  Five Reasons Mortals Are Called Sons of God",
+ "rows": [
+  [
+   "Reason",
+   "Content",
+   "Related doctrine",
+   "Source"
+  ],
+  [
+   "1. Faith",
+   "You accept the status of sonship and believe in its reality",
+   "Faith (Chapter 24)",
+   "40:6.4"
+  ],
+  [
+   "2. The elder brother",
+   "A Creator Son of God became one of you",
+   "Michael's bestowal (Chapter 18)",
+   "40:6.5"
+  ],
+  [
+   "3. The spirit of a Son",
+   "The spirit of a Son has been freely bestowed upon all races",
+   "The Spirit of Truth",
+   "40:6.6"
+  ],
+  [
+   "4. Personality",
+   "Of his free will the Universal Father has given you your creature personalities",
+   "Personality (Chapter 9)",
+   "40:6.7"
+  ],
+  [
+   "5. The Adjuster",
+   "A fragment of the Universal Father dwells within you",
+   "The Thought Adjuster (Chapter 11)",
+   "40:6.8"
+  ]
+ ]
+}
+### ch06:46
+Among the ascending sons there are also differences of destiny. Those who fuse with the Adjuster, those who fuse with the spirit of the Son, and those who fuse with the Spirit each follow a different path. But the revelators tell us not to read these differences as higher and lower.
+### ch06:48
+This fact is both a privilege and a responsibility for man. If the status of sonship has been given, what remains is to live in a manner worthy of it. The Mighty Messenger who closes Paper 40 says that mortals “can now recognize your place in the family of divine sonship” (40:10.14) and can begin to sense the obligation to avail themselves of the advantages the plan provides. Even though the descending Sons have prepared everything, receiving it and walking that path remains each person's own choice. Sonship is given as a gift, but that gift becomes real only when it is received by faith.
+### ch06:49
+In Closing: The Sons Who Descend and the Sons Who Ascend
+### ch06:50
+The doctrine of the Sons of God is joined in a single chain. Because the Father is one who gives himself away, he works through his Sons. These Sons form a closely spaced stairway from Paradise to the planets, and they build, judge, teach, rule, and plant life. The highest Sons come down in person to live in the lowest place; through that experience they become sympathetic rulers, and their return opens to man the way of the Spirit of Truth and the Adjuster. And all this descent is for the sake of the sons who ascend from below, the human beings who have become sons by faith. One sentence of the revelators sums it all up: sonship is “the supreme relationship of the creature to the Creator” (40:10.13). The next chapter examines the angels, who serve the universe alongside these Sons as the children of the Infinite Spirit.
+### ch06:51
+{
+ "title": "Questions for Reflection",
+ "items": [
+  "1. If the purpose of bestowal is not to appease the Father but to make the Son a sympathetic ruler (20:5.2), what does the experience of standing in another's place mean for those who lead others?",
+  "2. I am not yet divine by nature, yet I have the status of a faith son (40:6.1). How am I living between this ‘already’ and this ‘not yet’?",
+  "3. If God shows no partiality among ascendant destinies and loves each son alike (40:10.13), how can I let go of the habit of comparing and ranking the spiritual paths of others?"
+ ]
+}

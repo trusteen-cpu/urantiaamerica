@@ -57,37 +57,37 @@
     "Partie 1 : Dieu",
     "Chapitres 1–4",
     "Qui est Dieu, le point de départ de toute doctrine ?",
-    "07, 10, 14, 17"
+    "07, 10, 14 et 17"
    ],
    [
     "Partie 2 : L’univers et les êtres célestes",
     "Chapitres 5–8",
     "Comment Dieu constitue-t-il et gouverne-t-il l’univers ?",
-    "20, 29, 13, 26"
+    "20, 29, 13 et 26"
    ],
    [
     "Partie 3 : L’homme",
     "Chapitres 9–12",
     "Que sont la personnalité, le mental, l’Ajusteur et l’âme ?",
-    "06, 28, 08, 12"
+    "06, 28, 08 et 12"
    ],
    [
     "Partie 4 : L’histoire de l’humanité",
     "Chapitres 13–17",
     "Comment le plan de Dieu subit-il un revers sur cette planète, et comment est-il rétabli ?",
-    "22, 24, 27, 25, —"
+    "22, 24, 27, 25 et —"
    ],
    [
     "Partie 5 : Jésus",
     "Chapitres 18–22",
     "Qui est Jésus, et comment sa vie a-t-elle révélé Dieu ?",
-    "19, 09, —, 23, 21"
+    "19, 09, —, 23 et 21"
    ],
    [
     "Partie 6 : Le salut et la vie religieuse",
     "Chapitres 23–30",
     "Comment l’homme atteint-il Dieu ?",
-    "03, 02, 04, 01, 18, 15, 16, 05"
+    "03, 02, 04, 01, 18, 15, 16 et 05"
    ],
    [
     "Partie 7 : Le christianisme et le Livre d’Urantia",
@@ -99,5 +99,1206 @@
  },
  "ch00:8": "Chaque chapitre contient quatre ou cinq tableaux, parfois davantage. Les tableaux montrent d’un coup d’œil la structure, les classifications et les étapes d’une doctrine, et ils placent côte à côte les malentendus courants et les réponses du texte. Chaque case porte le numéro du passage sur lequel elle repose, de sorte qu’en suivant les seuls tableaux le lecteur peut retracer la logique du chapitre. À la fin de chaque chapitre figurent trois Questions pour la réflexion. En lecture personnelle, elles peuvent servir de points de départ à la méditation ; en étude de groupe, de sujets de discussion.",
  "ch00:9": "Ce livre est accompagné d’une série de livres audio, mais il n’en est pas la transcription. Alors qu’un livre audio déploie une doctrine sous forme de commentaire destiné à l’oreille, ce livre permet au lecteur de vérifier, par les yeux, la logique fondamentale de cette doctrine et ses fondements dans le texte. Les livres audio anglais sont disponibles sur urantiareaders.com et, partout où un livre audio anglais existe pour un chapitre, le chapitre se termine par un lien et un code QR. Dans le livre numérique, le lien fait directement entendre le livre audio ; dans le livre imprimé, scannez le code QR. Vous pouvez d’abord écouter un livre audio pour avoir une vue d’ensemble d’une doctrine, puis vous tourner vers le chapitre correspondant pour en vérifier la logique et le texte ; ou bien lire d’abord le chapitre, puis réécouter le livre audio pour y réfléchir. Aller et venir entre les deux permet à une doctrine de s’ancrer à la fois dans l’intelligence et dans l’oreille.",
- "ch00:10": "Ce que ce livre demande à ses lecteurs, ce n’est pas de mémoriser des conclusions, mais de revenir au texte : suivre les numéros des passages cités jusque dans le Livre d’Urantia, lire ce qui précède et ce qui suit, et comparer les passages apparentés d’autres fascicules. Lue de cette manière, une doctrine devient non pas un savoir reçu d’autrui, mais une vérité vérifiée par soi-même. Et cette vérité ne reste pas un simple savoir ; elle croît jusqu’à devenir l’expérience vivante de connaitre Dieu et de servir les hommes."
+ "ch00:10": "Ce que ce livre demande à ses lecteurs, ce n’est pas de mémoriser des conclusions, mais de revenir au texte : suivre les numéros des passages cités jusque dans le Livre d’Urantia, lire ce qui précède et ce qui suit, et comparer les passages apparentés d’autres fascicules. Lue de cette manière, une doctrine devient non pas un savoir reçu d’autrui, mais une vérité vérifiée par soi-même. Et cette vérité ne reste pas un simple savoir ; elle croît jusqu’à devenir l’expérience vivante de connaitre Dieu et de servir les hommes.",
+ "ch01:label": "Chapitre 1",
+ "ch01:title": "Le JE SUIS",
+ "ch01:sub": "La source de toute réalité",
+ "ch01:0": "Toute doctrine du Livre d’Urantia part de Dieu. La constitution de l’univers, les êtres célestes, la personnalité et l’âme de l’homme, le salut et l’ascension : tout cela remonte en fin de compte à une seule source. Pourtant, avant de parler de la personnalité du Père Universel, le Livre d’Urantia pose un concept philosophique plus vaste que cette personnalité. C’est le JE SUIS. Ce chapitre pose trois questions. Qu’est-ce que le JE SUIS ? Pourquoi le Livre d’Urantia a-t-il besoin de ce concept ? Et comment ce concept se rattache-t-il au Dieu que l’homme appelle Père ?",
+ "ch01:1": "1. Définition : l’unique cause sans cause",
+ "ch01:2": "Avant de présenter le JE SUIS comme un être, l’Introduction précise d’abord de quel genre de concept il s’agit. Ce concept nait des limites que rencontre un mental fini lorsqu’il essaie de penser l’éternité.",
+ "ch01:4": "L’expression « concession philosophique » est la première clé de cette doctrine. La pensée humaine se déplace le long de la chaine des causes et des effets ; elle ne peut donc penser la réalité comme un tout sans placer une réalité sans cause en tête de cette chaine. Les révélateurs respectent ce besoin et placent le JE SUIS avant toutes choses. Cette concession n’est pas une simple commodité. C’est un point d’appui qui permet à l’homme de penser, ne serait-ce qu’un peu, le commencement et la fin de la réalité.",
+ "ch01:6": "Ce n’est que lorsque nous avons une base pour penser les origines que nous pouvons penser la destinée, car si l’homme ne sait pas d’où il vient, il ne peut pas dire où il va. Le fascicule 105, « Déité et réalité », éclaire davantage le contenu de ce concept.",
+ "ch01:8": "Le JE SUIS n’est donc enfermé dans aucune catégorie. Il n’est ni déifié ni non déifié, ni personnel ni impersonnel. « Aucune qualification ne peut être appliquée à l’Infini, si ce n’est que l’on peut affirmer que le JE SUIS est. » (105:1.4) Le nom lui-même est la définition : il est. À côté de ce concept, l’Introduction en emploie deux autres. Distinguer les trois évitera que la discussion qui suit ne devienne confuse.",
+ "ch01:9": {
+  "cap": "Tableau 1.1  Trois concepts qui désignent la Source-Centre Première",
+  "rows": [
+   [
+    "Concept",
+    "Caractère tel que le texte l’énonce",
+    "Source"
+   ],
+   [
+    "JE SUIS",
+    "Une extension philosophique, pour la créature, de « l’infinité de la volonté » ; une concession philosophique aux créatures qui ne peuvent comprendre les réalités sans commencement",
+    "0:3.23, 0:3.24"
+   ],
+   [
+    "L’Infini (Infini-Père)",
+    "Un niveau de valeur actuel représentant la véritable infinité du libre arbitre absolu et sans entrave du Père Universel",
+    "0:3.24"
+   ],
+   [
+    "Père Universel",
+    "Cette phase de l’Infini que nous percevons dans notre personnalité comme une réalité expérientielle actuelle",
+    "105:1.6"
+   ],
+   [
+    "Source-Centre Première",
+    "Primordiale dans tous les domaines ; infinie aussi bien qu’éternelle, et limitée seulement par volition",
+    "0:3.9, 0:3.11"
+   ]
+  ]
+ },
+ "ch01:10": "2. Fondements : pourquoi il faut supposer un commencement",
+ "ch01:11": "La doctrine du JE SUIS commence avec un mental qui vit dans le temps et tente de comprendre l’éternité. Les révélateurs ne le cachent pas. Comme ils doivent dépeindre l’origine de l’univers pour des mentaux finis, ils expliquent : « C’est pourquoi il nous faut présenter beaucoup d’évènements simultanés de l’éternité comme étant des opérations séquentielles. » (0:3.20) Le fascicule 105 dépeint ainsi le moment hypothétique qui sert de point de départ.",
+ "ch01:13": "En ce moment statique hypothétique, il n’y a aucune différenciation. Les actuels sont encore inclus dans leurs potentiels, et les potentiels ne sont pas encore apparus. Pourtant, c’est précisément à ce point que les révélateurs disent qu’une chose doit être admise : « Toutefois, même dans cette situation hypothétique, il nous faut admettre que la possibilité de volonté autonome existe. » (105:1.5) Ce qui se tient au tout commencement de la réalité n’est pas une nécessité mécanique, mais une volonté. L’Introduction décrit ainsi le premier acte de cette volonté.",
+ "ch01:15": "Cette libération ne s’accomplit pas dans la solitude. Dans cette première opération, le JE SUIS devint le Père Éternel du Fils Originel et en même temps l’Éternelle Source de l’Ile du Paradis, et, en présence du Père et du Fils, apparut l’Esprit Infini (0:3.22). L’Introduction ajoute ce que cette coexistence signifia pour le Père.",
+ "ch01:17": "Si l’infinité était seule, la personnalité se disperserait dans l’infinité. Parce que le Père coexiste avec le Fils et l’Esprit, il demeure une personnalité. C’est pourquoi la doctrine du JE SUIS conduit directement à la doctrine de la Trinité. Mais cette séquence, racontée dans le langage du temps, ne doit pas être prise à la lettre. Chaque fois que les révélateurs parlent d’une séquence, ils ajoutent aussitôt qu’elle diffère des faits de l’éternité. Le tableau suivant rassemble ces paires.",
+ "ch01:18": {
+  "cap": "Tableau 1.2  Le langage du temps et les faits de l’éternité",
+  "rows": [
+   [
+    "Énoncé dans le langage du temps",
+    "Le fait d’éternité que le texte ajoute",
+    "Source"
+   ],
+   [
+    "Le JE SUIS fut d’abord seul",
+    "Il n’y a jamais eu d’époque où le JE SUIS n’était pas le Père du Fils ; le Fils et l’Esprit sont coéternels avec le JE SUIS",
+    "0:3.23"
+   ],
+   [
+    "Les sept Absolus apparurent l’un après l’autre",
+    "Les sept Absolus n’ont pas eu de commencement ; ils sont éternels et l’ont toujours été",
+    "105:3.1"
+   ],
+   [
+    "La Source-Centre Première est antérieure à tous les absolus",
+    "Ce postulat est invalidé par la coexistence dans l’éternité du Fils, de l’Esprit, des trois Absolus et de l’Ile du Paradis",
+    "105:3.9"
+   ],
+   [
+    "Il y eut une « première » expression volitive",
+    "C’est un instant théorique supposé afin de dépeindre les origines de la réalité",
+    "105:2.2"
+   ]
+  ]
+ },
+ "ch01:19": "3. Structure : sept relations et sept Absolus",
+ "ch01:20": "Le JE SUIS ne demeure pas solitaire, mais se différencie. Le fascicule 105 déploie cette différenciation par étapes : le JE SUIS solitaire, le JE SUIS trin et enfin le JE SUIS septuple (105:2.4). Cette autométamorphose donne naissance à toutes les branches de la réalité.",
+ "ch01:22": "Chacune de ces sept phases est une relation fondamentale. Dans la première relation, le JE SUIS devient père du Fils Éternel ; dans la deuxième, cause de l’éternel Paradis. Les révélateurs résument en une phrase la différence entre les deux : « Le Père Universel est Dieu-amour ; le Contrôleur Universel est Dieu-archétype. » (105:2.6) Que la première des sept phases soit une relation de personnalité a une signification profonde pour toutes les doctrines de ce livre.",
+ "ch01:24": "Si la toute première relation de la réalité est celle du Père et du Fils, alors, pour l’homme, appeler Dieu Père n’est pas une figure de style, mais quelque chose qui s’accorde avec la structure la plus profonde de la réalité. La filiation de toute personnalité a déjà été établie comme une possibilité au sein de cette relation primordiale. Le même paragraphe ajoute que, « même les mortels, bien que dans la chair, peuvent expérimenter, sur des niveaux spirituels, cette phase du JE SUIS, s’ils adorent notre Père » (105:2.5). Les six autres phases sont les suivantes.",
+ "ch01:25": {
+  "cap": "Tableau 1.3  Les sept phases du JE SUIS",
+  "rows": [
+   [
+    "Phase",
+    "Le JE SUIS est…",
+    "Réalité par laquelle elle se comprend le mieux",
+    "Source"
+   ],
+   [
+    "1. Le Père Universel",
+    "Père du Fils Éternel",
+    "La relation de personnalité primordiale des actualités",
+    "105:2.5"
+   ],
+   [
+    "2. Le Contrôleur Universel",
+    "Cause de l’éternel Paradis",
+    "La relation impersonnelle primordiale ; Dieu-archétype",
+    "105:2.6"
+   ],
+   [
+    "3. Le Créateur Universel",
+    "Un avec le Fils Éternel",
+    "L’apparition de la personnalité conjointe et de l’univers éternel (Havona)",
+    "105:2.7"
+   ],
+   [
+    "4. Le Soutien Infini",
+    "Associable à lui-même",
+    "L’Absolu Universel",
+    "105:2.8"
+   ],
+   [
+    "5. Le Potentiel Infini",
+    "Qualifié par lui-même",
+    "L’Absolu de Déité",
+    "105:2.9"
+   ],
+   [
+    "6. La Capacité Infinie",
+    "Statique-réactif",
+    "L’Absolu Non Qualifié",
+    "105:2.10"
+   ],
+   [
+    "7. L’Un Universel de l’Infinité",
+    "JE SUIS ce que JE SUIS",
+    "La relation avec soi-même révélée dans le divin Père de toute personnalité",
+    "105:2.11"
+   ]
+  ]
+ },
+ "ch01:26": "Ces sept relations s’éternisent sous l’aspect des sept Absolus. Les révélateurs disent : « Les sept Absolus sont les prémices de la réalité. » (105:3.1) Les sept Absolus se répartissent à leur tour en trois groupes : l’Originel, origine de toutes choses ; les trois Absolus d’actualité ; et les trois Absolus de potentialité.",
+ "ch01:27": {
+  "cap": "Tableau 1.4  Les trois groupements des sept Absolus",
+  "rows": [
+   [
+    "Groupe",
+    "Absolus inclus",
+    "Description dans le texte",
+    "Source"
+   ],
+   [
+    "L’Originel",
+    "La Source-Centre Première",
+    "La manifestation initiale du JE SUIS dont toute réalité tire son origine",
+    "115:3.6"
+   ],
+   [
+    "L’Actuel",
+    "Le Fils Éternel, l’Esprit Infini, l’Ile du Paradis",
+    "La révélation actuelle de l’originalité de la Source-Centre Première",
+    "115:3.7"
+   ],
+   [
+    "Le Potentiel",
+    "L’Absolu de Déité, l’Absolu Non Qualifié et l’Absolu Universel",
+    "La révélation potentielle de l’originalité de la Source-Centre Première",
+    "115:3.8"
+   ]
+  ]
+ },
+ "ch01:29": "Ce qui mérite l’attention dans cette structure, c’est que la diversité de l’univers n’est pas une division de la source. Les sept Absolus ne sont pas sept dieux différents ; ils sont les formes éternisées de sept relations que l’unique JE SUIS entretient avec lui-même. La réalité est donc à la fois multiple et une. Ce principe du multiple dans l’un reparaitra, sous d’autres formes, dans la Trinité du chapitre suivant et dans l’Être Suprême du chapitre 4.",
+ "ch01:30": "4. Le personnel et l’impersonnel",
+ "ch01:31": "Parmi les sept phases, celle qui pèse le plus sur les doctrines de tout ce livre est la première division. Le libre arbitre du JE SUIS a divisé la réalité en personnalisable et non personnalisable. L’Absolu Universel, nous dit-on, « était inévitable » (0:11.10) dans cet acte même. Le personnel conduit au Père, au Fils et à l’Esprit ; l’impersonnel conduit au Paradis et aux potentiels de l’espace. Pourtant, ni l’un ni l’autre ne se trouve en dehors de la Source-Centre Première.",
+ "ch01:33": "L’Introduction montre en sept branches comment cette dépendance apparait dans l’univers. La matière, le mental, l’esprit et la personnalité convergent chacun vers un centre différent, mais tous ces centres se sont détachés de la même source.",
+ "ch01:34": {
+  "cap": "Tableau 1.5  Les branches de la réalité et les centres où elles convergent",
+  "rows": [
+   [
+    "Branche de la réalité",
+    "Centre de convergence",
+    "Source"
+   ],
+   [
+    "Les forces de gravité des univers matériels",
+    "Le centre de gravité du bas Paradis",
+    "0:3.13"
+   ],
+   [
+    "Les forces mentales",
+    "L’Esprit Infini (le mental cosmique dans les Sept Maitres Esprits)",
+    "0:3.14"
+   ],
+   [
+    "Les forces d’esprit de l’univers",
+    "Le Fils Éternel",
+    "0:3.15"
+   ],
+   [
+    "La capacité illimitée d’action de déité",
+    "L’Absolu de Déité",
+    "0:3.16"
+   ],
+   [
+    "La capacité illimitée de réaction d’infinité",
+    "L’Absolu Non Qualifié (les deux Absolus sont unifiés dans l’Absolu Universel)",
+    "0:3.17, 0:3.18"
+   ],
+   [
+    "La personnalité potentielle d’un être moral évolutionnaire",
+    "La personnalité du Père Universel",
+    "0:3.19"
+   ]
+  ]
+ },
+ "ch01:35": "Entre les réalités ainsi différenciées, il y a une tension. L’infini et le fini, l’éternité et le temps, le potentiel et l’actuel semblent s’opposer. L’Introduction trouve la raison pour laquelle l’univers fini existe néanmoins sans s’effondrer en présence de l’Absolu Universel.",
+ "ch01:37": "C’est grâce à cet équilibre que l’homme peut se tenir devant Dieu en tant que personnalité sans être anéanti. Un être fini n’est pas une ombre de l’infini, mais une réalité à laquelle a été donnée sa place au sein de l’infini.",
+ "ch01:38": "5. Conséquences : la face du Père que tourne l’Infini",
+ "ch01:39": "Que signifie cette doctrine pour la foi humaine ? Les révélateurs avertissent que le concept du JE SUIS peut être dangereux, parce qu’il est si éloigné de l’expérience qu’il « implique de sérieuses déformations des significations et des erreurs de conception sur les valeurs » (105:1.2). Ils distinguent donc clairement ce concept philosophique du Père que l’homme adore.",
+ "ch01:41": "Cette distinction appelle l’humilité. Les révélateurs disent que connaitre le Père en tant qu’infinité n’est pas facile, même pour des êtres élevés.",
+ "ch01:43": "Penser le JE SUIS relève davantage de la foi que de la connaissance. Si vaste que soit l’univers, il n’est rien de plus qu’une révélation partielle de l’Infini (105:1.7), et devant lui l’homme ne peut que reconnaitre qu’il ne peut tout connaitre. Mais ne pas pouvoir tout connaitre ne signifie pas que Dieu soit lointain. L’homme ne peut comprendre l’infinité, mais l’infinité peut se limiter elle-même et s’approcher de l’homme. La logique de ce chapitre aboutit enfin à la phrase suivante.",
+ "ch01:45": "Trois conséquences en découlent. Premièrement, puisque toute réalité est issue d’une seule source, l’univers est fondamentalement un. Bien que la matière, le mental et l’esprit semblent suivre des lois différentes, leurs racines ne sont pas divisées. Deuxièmement, puisque le premier acte de cette source fut une volonté, il y a un dessein au fondement de l’univers. Ce dessein devient le thème du chapitre 3, sur la volonté de Dieu. Troisièmement, tout ce qui est rattaché au JE SUIS ne connait jamais de fin : « Tout ce qui est identifié avec le JE SUIS ne peut jamais cesser de progresser » (115:3.16). Là se trouve le fondement sur lequel l’ascension de l’homme devient une aventure sans fin. Parlant de la septième phase, le fascicule 105 témoigne que cette source embrasse tous les êtres.",
+ "ch01:47": "De la plus petite particule au plus grand univers, du passé à l’avenir, tout se trouve dans la même source. Où que l’homme se tienne, il n’a donc pas été rejeté hors de la réalité. Telle est la sécurité fondamentale que la doctrine du JE SUIS donne à l’homme.",
+ "ch01:48": "Pour conclure : connaitre la source",
+ "ch01:49": "Le JE SUIS est l’unique cause sans cause, le premier postulat qu’un mental fini établit pour penser l’éternité. Ce qui se tenait en ce premier moment était une volonté ; de l’autodifférenciation de cette volonté, les sept phases et les sept Absolus se sont éternisés, et toute réalité repose sur ces relations. Pourtant, cette infinité ne reste pas pour l’homme une froide abstraction ; elle tourne vers lui la face d’un Père. Dans cette première relation, le JE SUIS devint le Père du Fils et, avec le Fils, la source de l’Esprit. Le chapitre suivant examine comment ces trois Déités constituent l’unique Trinité du Paradis.",
+ "ch01:50": {
+  "title": "Questions pour la réflexion",
+  "items": [
+   "1. Si le JE SUIS est une concession philosophique au mental fini (0:3.23), en quoi mon attitude diffère-t-elle selon que j’accepte ce concept ou que j’adore le Père Universel ?",
+   "2. Qu’est-ce que change, dans ma manière de voir l’univers et ma propre vie, l’enseignement selon lequel c’est le libre arbitre, et non une nécessité mécanique, qui se tient au tout commencement de la réalité (0:3.21) ?",
+   "3. Si la face que l’Infini tourne vers toutes les personnalités est celle d’un Père (105:1.8), que choisis-je devant l’inconnaissable : la peur ou la confiance ?"
+  ]
+ },
+ "ch02:label": "Chapitre 2",
+ "ch02:title": "La Trinité",
+ "ch02:sub": "Pourquoi Dieu est trois et pourtant un",
+ "ch02:0": "Comme nous l’avons vu au chapitre 1, la première relation du JE SUIS fut celle du Père et du Fils, et, en présence du Père et du Fils, apparut l’Esprit Infini. Comment ces trois sont-ils un ? Le Livre d’Urantia répond à cette question par la doctrine de la Trinité du Paradis. Ce chapitre définit ce qu’est la Trinité, examine pourquoi les révélateurs appellent la Trinité la seule inévitabilité de l’univers, demande comment les trois personnes se distinguent de l’unique Trinité, et considère enfin ce que cette doctrine signifie pour la foi et la vie humaines.",
+ "ch02:1": "1. Définition : la Déité indivise de trois personnes",
+ "ch02:2": "Dès son ouverture, le fascicule 10, « La Trinité du Paradis », définit la Trinité en une seule phrase. Dieu n’est pas divisé en trois, et les trois personnes ne se dissolvent pas pour disparaitre dans l’un.",
+ "ch02:4": "Cette définition a deux axes. L’un est que les trois personnes sont toutes originelles, coordonnées et coexistantes ; l’autre est que les trois forment une unicité divine. Les trois personnes ne sont pas des copies les unes des autres : « aucune n’est une copie, chacune est originale, toutes les trois sont unies » (10:2.6). La relation des trois personnes est décrite selon une séquence, mais cette séquence n’est pas un avant et un après dans le temps ; c’est une structure de relation. Le Père donne au Fils la plénitude de lui-même, et le Père et le Fils constituent ensemble la troisième personne.",
+ "ch02:6": "Le Fils procède de l’effusion de soi du Père, et l’Esprit de l’effusion conjointe du Père et du Fils, et pourtant aucun des deux n’est venu à l’existence plus tard. Tous trois sont éternels, et c’est précisément cette relation d’effusion qui détermine la place unique de chacun. L’Introduction distingue au moyen de titres qui est chacune des trois personnes.",
+ "ch02:7": {
+  "cap": "Tableau 2.1  Les titres et la place unique des trois Déités",
+  "rows": [
+   [
+    "Déité",
+    "Titre dans l’Introduction",
+    "Description dans le fascicule 10",
+    "Source"
+   ],
+   [
+    "Dieu le Père",
+    "Créateur, Contrôleur et Soutien ; la Première Personne de la Déité",
+    "L’infinie personnalité-père, la source illimitée de personnalité",
+    "0:2.12, 10:2.4"
+   ],
+   [
+    "Dieu le Fils",
+    "Créateur Coordonné, Contrôleur d’Esprit et Administrateur Spirituel ; la Deuxième Personne de la Déité",
+    "L’absolu de personnalité non qualifié, la parfaite révélation de la nature personnelle de Dieu",
+    "0:2.13, 10:2.4"
+   ],
+   [
+    "Dieu l’Esprit",
+    "Acteur Conjoint, Intégrateur Universel, Dispensateur du Mental ; la Troisième Personne de la Déité",
+    "La personnalité conjointe, l’unique conséquence personnelle de l’union perpétuelle du Père-Fils",
+    "0:2.14, 10:2.4"
+   ]
+  ]
+ },
+ "ch02:8": "La Trinité elle-même est-elle alors une quatrième personne ? Le fascicule 104, « Croissance du concept de Trinité », répond clairement que non. La Trinité est une réalité de Déité unique, réelle bien que n’étant pas une personnalité.",
+ "ch02:10": "2. Fondements : pourquoi il doit y en avoir trois",
+ "ch02:11": "Les révélateurs ne considèrent pas la Trinité comme une possibilité parmi d’autres. Tout le reste dans l’univers, disent-ils, aurait pu être autrement, mais non la Trinité.",
+ "ch02:13": "Pourquoi est-elle inévitable ? Le premier fondement se trouve dans la paternité elle-même. Une Source-Centre Première dépourvue d’un Fils « ne pouvait en aucun sens du terme être considérée comme le Père Universel » (10:3.5). Le même paragraphe le dit brièvement : « la paternité n’est pas réelle sans filiation » (10:3.5). Pour que Dieu soit Père, il doit éternellement y avoir un Fils. Et, de fait, il n’y a jamais eu de moment où le Père était seul.",
+ "ch02:15": "Le deuxième fondement se trouve dans la nature de la personnalité divine. La personnalité n’est pas enfermée en elle-même ; elle se partage.",
+ "ch02:17": "Le partage n’est pas un défaut de la personnalité divine, mais sa nature même. Le fait que le Père partage la réalité de l’être avec le Fils et l’Esprit est la première expression de cette nature, et toute délégation et toute effusion qui ont lieu dans l’univers en sont le prolongement. Le troisième fondement est la libération des limites de l’absoluité. Si le Père avait existé seul en tant que personnalité absolue, cette absoluité serait devenue une entrave. L’ouverture du fascicule 10 décrit ainsi cette libération.",
+ "ch02:19": "Ce qui est absolu n’a pas de marge de mouvement, et une volonté infinie doit trouver un lieu où s’exprimer. La Trinité sauvegarde les deux à la fois. L’absoluité de la Déité est pleinement préservée dans la Trinité, et la volonté personnelle du Père s’exprime sans limite par le Fils et l’Esprit et par leurs enfants. En conférant l’absoluité de personnalité au Fils, le Père échappe à cette entrave.",
+ "ch02:21": "Quatrièmement, les révélateurs notent aussi qu’il faut un minimum de trois personnes pour former un groupe social, mais ils ajoutent que « c’est la moindre des raisons pour croire à l’inévitabilité de l’Acteur Conjoint » (10:2.3). Le cinquième fondement vient du côté de la philosophie. Dans la pensée humaine, un Dieu solitaire finit par être réduit à un Absolu impersonnel. « La personnalité chez la Déité exige que cette Déité existe en relation avec d’autres Déités personnelles égales. » (104:2.2) Rassemblés, ces fondements sont les suivants.",
+ "ch02:22": {
+  "cap": "Tableau 2.2  Cinq fondements de l’inévitabilité de la Trinité",
+  "rows": [
+   [
+    "Fondement",
+    "Logique",
+    "Source"
+   ],
+   [
+    "La paternité",
+    "Une source sans Fils n’est pas un Père ; la paternité n’est pas réelle sans filiation",
+    "10:3.5"
+   ],
+   [
+    "La nature de la personnalité",
+    "La personnalité divine n’est pas centrée sur elle-même, mais se partage",
+    "10:1.3"
+   ],
+   [
+    "La libération de l’absoluité",
+    "En conférant l’absoluité de personnalité au Fils, le Père échappe aux entraves de l’absolutisme de personnalité",
+    "10:0.1, 10:3.7"
+   ],
+   [
+    "Le groupe social minimal",
+    "Trois personnes forment un groupe social minimal (la moindre des raisons)",
+    "10:2.3"
+   ],
+   [
+    "La préservation du concept de personnalité",
+    "Sans relation avec d’autres personnalités égales, Dieu est réduit à un Absolu panthéiste",
+    "104:2.2"
+   ]
+  ]
+ },
+ "ch02:23": "3. Structure : trois personnes et une union",
+ "ch02:24": "Comment les trois personnes et l’unique Trinité existent-elles ensemble ? Tout en admettant que ce mystère ne peut être entièrement résolu, les révélateurs offrent une comparaison grossière que l’homme peut saisir.",
+ "ch02:26": "Le sens de cette comparaison est que les trois personnes travaillant ensemble en tant qu’individus diffèrent de leur action en tant que Trinité. Les révélateurs disent : « En tant que personnes, ils peuvent collaborer comme ils le veulent, mais cela n’est pas la Trinité. » (10:4.4) Et les fonctions de la Trinité sont davantage que la somme des attributs des trois. De même qu’une famille ou une communauté humaine est davantage que la somme de ses membres, « Le potentiel du groupe dépasse toujours de beaucoup la simple somme des attributs des individus qui le composent. » (10:5.2) Cette distinction devient plus claire lorsqu’on compare les Déités personnelles avec la Trinité.",
+ "ch02:27": {
+  "cap": "Tableau 2.3  Les Déités personnelles comparées à la Trinité",
+  "rows": [
+   [
+    "Point de comparaison",
+    "Le Père, le Fils et l’Esprit (en tant que personnes)",
+    "La Trinité du Paradis",
+    "Source"
+   ],
+   [
+    "Ce qu’ils possèdent",
+    "Ils ont des attributs",
+    "Des fonctions plutôt que des attributs (administration de la justice, attitudes de totalité, action coordonnée, supercontrôle cosmique)",
+    "10:5.1"
+   ],
+   [
+    "La justice",
+    "La justice n’est l’attitude personnelle d’aucun d’entre eux",
+    "La justice est l’attitude trinitaire de ces trois personnalités d’amour, de miséricorde et de ministère",
+    "10:6.2"
+   ],
+   [
+    "Objet d’intérêt",
+    "Le Père manifeste l’attitude personnelle d’amour dans tous ses actes",
+    "S’intéresse à la planète totale, à l’univers total, au grand univers total",
+    "10:7.6, 10:7.2"
+   ],
+   [
+    "Manière de collaborer",
+    "En tant que personnes, ils peuvent collaborer comme ils le veulent",
+    "En tant que trois Déités, ils ne peuvent collaborer d’une manière non trinitaire",
+    "10:4.4"
+   ]
+  ]
+ },
+ "ch02:28": "Cette structure apparait aussi dans la manière dont le Père agit dans l’univers. Le Père fait beaucoup de choses par les Fils et par l’Esprit, mais ce qu’il fait en tant que Déité totale, il ne le fait que dans la Trinité. Le fascicule 10, section 3, expose ainsi ces sept manières.",
+ "ch02:29": {
+  "cap": "Tableau 2.4  Comment la Source-Centre Première fonctionne hors de Havona",
+  "rows": [
+   [
+    "Fonction",
+    "Canal",
+    "Source"
+   ],
+   [
+    "Comme créateur",
+    "Par les Fils Créateurs, ses petits-fils",
+    "10:3.10"
+   ],
+   [
+    "Comme contrôleur",
+    "Par le centre de gravité du Paradis",
+    "10:3.11"
+   ],
+   [
+    "Comme esprit",
+    "Par le Fils Éternel",
+    "10:3.12"
+   ],
+   [
+    "Comme mental",
+    "Par le Créateur Conjoint",
+    "10:3.13"
+   ],
+   [
+    "Comme Père",
+    "Contact parental avec toutes les créatures par son circuit de personnalité",
+    "10:3.14"
+   ],
+   [
+    "Comme personne",
+    "Par ses fragments exclusifs ; chez les hommes, par les Ajusteurs de Pensée",
+    "10:3.15"
+   ],
+   [
+    "Comme Déité totale",
+    "Seulement dans la Trinité du Paradis",
+    "10:3.16"
+   ]
+  ]
+ },
+ "ch02:30": "4. L’œuvre de la Trinité : la justice et le total",
+ "ch02:31": "La fonction représentative de la Trinité dans l’univers est la justice. C’est là que la doctrine de la Trinité touche la vie morale de l’homme. L’origine de la loi, son administration, sa révélation et son application ont chacune une place différente, et l’application de la loi, la justice, appartient à la Trinité (10:6.1).",
+ "ch02:33": "Cet enseignement dit deux choses à l’homme. Premièrement, lorsque l’homme rencontre Dieu en tant que personne, il rencontre toujours l’amour et la miséricorde. Deuxièmement, la justice n’est pas l’humeur ou la représaille d’une seule personne, mais un jugement collectif et total. L’enseignement de Jésus selon lequel la justice n’est jamais un acte personnel, mais toujours une fonction de groupe, repose sur ce principe (104:2.5). Les révélateurs disent que la justice et la miséricorde ne sont pas finalement en conflit : « Quand l’équité de la Trinité et l’amour miséricordieux du Père Universel sont complètement perçus et pleinement compris, ils coïncident. » (10:6.18)",
+ "ch02:34": "Pourtant, l’homme dans le temps ne voit pas toujours cette coïncidence, car la Trinité s’occupe du tout, tandis que l’homme vit à l’intérieur d’une partie. Les révélateurs reconnaissent franchement cet écart.",
+ "ch02:36": "Cet aveu établit un ordre important pour la foi. L’homme peut être certain de l’amour personnel du Père. Mais les actes de la Trinité dirigés vers le tout ne sont pas maintenant pleinement compris ; cette compréhension est donnée dans le progrès de l’éternité. Même devant ce qu’il ne comprend pas, l’homme n’a donc aucune raison de douter de l’amour.",
+ "ch02:37": "5. Les malentendus sur la Trinité et les réponses du texte",
+ "ch02:38": "Dans la pensée humaine, la Trinité a souvent été confondue avec d’autres idées. Revenant sur la manière dont ce concept a grandi sur Urantia, le fascicule 104 distingue la Trinité révélée des croyances aux triades de la religion évolutionnaire (104:0.1). Les triades de la religion évolutionnaire sont nées d’associations d’expérience, comme les trois phalanges des doigts ou les trois pieds d’un siège, mais la Trinité révélée est une vérité sur la réalité de Dieu. Le texte donne des réponses claires à plusieurs malentendus.",
+ "ch02:39": {
+  "cap": "Tableau 2.5  Les malentendus sur la Trinité et les réponses du texte",
+  "rows": [
+   [
+    "Malentendu",
+    "La réponse du texte",
+    "Source"
+   ],
+   [
+    "La Trinité est un assemblage de trois dieux",
+    "« Une vraie conception trinitaire ne consiste pas simplement à grouper ensemble trois dieux séparés. » (104:1.7)",
+    "104:1.7"
+   ],
+   [
+    "La Trinité est le produit d’un mental qui aime les triades",
+    "Il ne faut pas confondre le concept de Trinité de la religion révélée avec les croyances aux triades des religions évolutionnaires",
+    "104:0.1"
+   ],
+   [
+    "La Trinité est une quatrième personne",
+    "Elle n’est pas une personnalité, mais une réalité véritable et absolue, compatible avec les trois personnes",
+    "104:2.4"
+   ],
+   [
+    "La Trinité n’est qu’une union fonctionnelle",
+    "La Trinité n’est pas une triunité ; elle est une Déité indivise et indivisible",
+    "104:3.15"
+   ],
+   [
+    "Celui qui vint sur Urantia était la Deuxième Personne de la Déité elle-même",
+    "C’est vrai en esprit, mais ce n’est pas exact en fait ; les Micaëls Créateurs ne sont pas la personnalité absolue",
+    "104:1.13"
+   ]
+  ]
+ },
+ "ch02:40": "Beaucoup de ces malentendus proviennent d’une histoire où la vérité de la Trinité n’a jamais été pleinement transmise à l’homme. Cette vérité a été révélée bien des fois et obscurcie bien des fois. Jésus lui-même l’enseigna, mais ses disciples ne la reçurent pas correctement.",
+ "ch02:42": "Mais les révélateurs ajoutent que la compréhension d’aucune époque n’atteint la Trinité telle qu’elle est. La Trinité fonctionne à tous les niveaux, tandis que l’homme demeure au niveau fini.",
+ "ch02:44": "Le dernier point concerne la compréhension chrétienne de la Trinité. Les révélateurs jugent que, bien que ce concept « fût erroné en fait, il était pratiquement vrai sous le rapport des relations spirituelles » (104:1.13). Cette question est reprise aux chapitres 19 et 32.",
+ "ch02:45": "6. Conséquences : l’amour et la loi, et la Trinité qui grandit",
+ "ch02:46": "Qu’ajoute la doctrine de la Trinité à la foi humaine ? Par la foi, l’homme réalise l’amour de Dieu, et pourtant l’univers se meut selon des lois ordonnées. Comment comprendre l’écart entre un Père aimant et des lois apparemment impassibles ?",
+ "ch02:48": "Si l’homme ne connait que l’amour du Père et non la souveraineté de la Trinité, sa foi est ébranlée devant les lois de l’univers. Inversement, s’il ne voit que la loi et ne connait pas le Père, l’univers devient une froide machine. La Trinité révèle que les deux sont un dans la même Déité. La Trinité n’est pas non plus enfermée dans l’éternité. L’Introduction dit que la Trinité originelle est existentielle et qu’elle était inévitable (0:12.1), et elle ajoute que les Déités expérientielles qui étaient potentielles en elle apparaissent dans le temps.",
+ "ch02:50": "La Trinité originelle est complète, mais la manifestation de cette Trinité dans les univers du temps et de l’espace est encore en cours. Son premier fruit est Dieu le Suprême, et l’homme prend part à cette manifestation par sa propre expérience. La Trinité n’est donc pas la doctrine d’une éternité lointaine, mais une doctrine liée aux choix que l’homme fait aujourd’hui. Le chapitre 4 examine ce lien en détail.",
+ "ch02:51": "Pour conclure : Dieu qui est trois et un",
+ "ch02:52": "Dieu est trois, parce que la paternité n’est pas réelle sans filiation, parce que la personnalité divine se partage, et parce que le Père, en conférant l’absoluité de personnalité au Fils, échappe aux entraves de l’absoluité. Dieu est un, parce que les trois personnes constituent une seule Déité indivisible, la Trinité du Paradis, qui est réelle bien que n’étant pas une personnalité et qui gouverne la justice et le total. Dans les personnes, l’homme rencontre l’amour du Père ; dans la Trinité, il rencontre l’ordre de l’univers. Le dessein que ce Dieu nourrit envers l’univers, la volonté de Dieu, est le thème du chapitre suivant.",
+ "ch02:53": {
+  "title": "Questions pour la réflexion",
+  "items": [
+   "1. Quel fondement l’affirmation « la paternité n’est pas réelle sans filiation » (10:3.5) donne-t-elle à ma foi lorsque j’appelle Dieu Père ?",
+   "2. Que demande, à ma manière de juger les autres, l’enseignement selon lequel la justice n’est pas une attitude personnelle, mais une fonction de la Trinité (10:6.2) ?",
+   "3. Rappelez-vous un moment où votre foi a été ébranlée entre un Père aimant et les lois ordonnées de l’univers. Comment le concept de Trinité (104:2.3) vous aide-t-il à voir cette expérience d’un œil nouveau ?"
+  ]
+ },
+ "ch03:label": "Chapitre 3",
+ "ch03:title": "La volonté de Dieu",
+ "ch03:sub": "Le dessein divin qui meut l’univers",
+ "ch03:0": "Au chapitre 1, nous avons vu que la volonté se tient au tout commencement de toute réalité, et au chapitre 2, comment cette volonté s’exprime dans la Trinité du Père, du Fils et de l’Esprit. La question porte maintenant sur ce vers quoi cette volonté est dirigée. Dans le Livre d’Urantia, la volonté de Dieu n’est pas une pieuse figure de style, mais une doctrine qui relie la création de l’univers, la providence et le salut de l’homme. Ce chapitre demande successivement ce qu’est la volonté de Dieu, comment elle s’accomplit dans l’univers, comment elle rencontre les choix des créatures libres, et ce que signifie pour l’homme faire cette volonté.",
+ "ch03:1": "1. Définition : le dessein éternel de Dieu",
+ "ch03:2": "Dès sa première phrase, le fascicule 4, « Relations de Dieu avec l’univers », parle du dessein de Dieu. L’univers n’est pas le produit du hasard, mais d’une volonté.",
+ "ch03:4": "Ce passage contient trois éléments. Le dessein embrasse tous les phénomènes matériels, intellectuels et spirituels. Ce dessein est éternel, et il est dès maintenant mis à exécution dans le temps. Et la création est issue d’une volonté libre et souveraine. Où ce dessein réside-t-il donc en Dieu ? Le fascicule 117, « Dieu le Suprême », définit la volonté de Dieu à travers tous les niveaux de la Déité.",
+ "ch03:6": {
+  "cap": "Tableau 3.1  Où réside la volonté de Dieu",
+  "rows": [
+   [
+    "Lieu",
+    "La volonté de Dieu y est…",
+    "Source"
+   ],
+   [
+    "La Source-Centre Première",
+    "Présente en tant que dessein",
+    "117:0.1"
+   ],
+   [
+    "Les trois Absolus",
+    "Potentialisée",
+    "117:0.1"
+   ],
+   [
+    "Le Fils Éternel",
+    "Personnalisée",
+    "117:0.1"
+   ],
+   [
+    "L’Esprit Infini",
+    "Conjointe pour une action universelle",
+    "117:0.1"
+   ],
+   [
+    "Les archétypes du Paradis",
+    "Éternisée",
+    "117:0.1"
+   ],
+   [
+    "Dieu le Suprême",
+    "En train de devenir la plus haute manifestation finie de la volonté totale de Dieu",
+    "117:0.1"
+   ]
+  ]
+ },
+ "ch03:7": "Comme le montre le tableau, la volonté de Dieu n’est confinée en aucun lieu particulier. Elle est présente dans les possibilités non encore réalisées, dans la personnalité du Fils, dans l’activité de l’Esprit et dans les archétypes du Paradis. Connaitre la volonté de Dieu, ce n’est donc pas connaitre une liste de règles, mais connaitre la direction d’un dessein unique qui traverse tous ces niveaux. Un être fini, toutefois, ne peut voir ce dessein dans sa totalité.",
+ "ch03:9": "Ce passage nous dit aussi où l’homme entrevoit le dessein de Dieu : dans le plan d’ascension des créatures, le plan qui conduit l’homme au Paradis. Le fascicule 4 dit de même que ce plan pour perfectionner les mortels évolutionnaires semble être ce qui intéresse le plus les superunivers (4:0.3).",
+ "ch03:10": "2. Fondements : ce que le Père n’a pas abandonné",
+ "ch03:11": "Pourquoi l’univers se meut-il par une volonté ? Les fondements se trouvent dans les doctrines des deux chapitres précédents. Le Père a délégué tout ce qui peut être délégué au Fils et à l’Esprit, ainsi qu’aux nombreux Fils. Pourtant, les révélateurs disent qu’il y a une chose dont le Père ne s’est jamais séparé. Ils observent que le Père « s’est dépouillé de toute manifestation directe d’absoluité, sauf de la paternité absolue et de la volition absolue » (10:3.6). On ne peut savoir si la volition est un attribut inaliénable du Père, mais il est clair que le Père ne s’en est pas dépouillé. Le Père qui a tout donné a gardé sa volonté.",
+ "ch03:12": "Ce fait explique d’où vient toute volonté dans l’univers. Le fascicule 118, « Le Suprême et l’Ultime — temps et espace », dit que toute volition est relative : « Au sens initial, seul le Père-JE SUIS possède la finalité de volition » (118:6.4), et le libre arbitre de l’homme n’est que relativement final sur le niveau fini. Il y a beaucoup de volontés dans l’univers, mais toutes se sont détachées d’une seule volonté originelle. Pour la volonté d’une créature, devenir une avec la volonté de Dieu n’est donc pas se soumettre à quelque chose d’étranger, mais revenir à la source de sa propre volonté.",
+ "ch03:13": "3. Structure : les voies par lesquelles la volonté s’accomplit dans l’univers",
+ "ch03:14": "Comment la volonté de Dieu s’accomplit-elle effectivement ? Les révélateurs rejettent clairement l’idée que Dieu fait tout personnellement.",
+ "ch03:16": "Cette distinction — Dieu est omnipotent, mais non omnificient — est un pilier qui soutient la doctrine de la volonté de Dieu. Les révélateurs avertissent qu’accepter l’omnificience, « c’est embrasser la colossale erreur du panthéisme » (118:6.8). Si Dieu faisait tout directement, la volonté de la créature n’aurait aucune place, et l’œuvre des Fils Créateurs et de leurs innombrables aides perdrait son sens. Dieu gouverne par ses Fils (3:5.2), et sa providence s’accomplit par la coopération d’une multitude d’êtres.",
+ "ch03:18": "Cela ne signifie pas que le Père a remis l’univers à ses Fils et s’est retiré au loin. Déléguer n’est pas être absent. Le fascicule 4 souligne au contraire que Dieu soutient toutes choses en ce moment même.",
+ "ch03:20": "L’univers n’est pas une horloge qui marche aussi longtemps qu’on l’a remontée, puis s’arrête. La volonté de Dieu n’est pas un ordre donné une fois pour toutes au moment de la création, mais un dessein vivant qui maintient l’univers à chaque instant. Le Père, de plus, peut à tout moment « interposer une main paternelle dans le courant des évènements cosmiques » (118:10.6). Et, à l’intérieur de l’homme, il agit personnellement par l’Ajusteur de Pensée. Les canaux par lesquels s’accomplit la volonté de Dieu peuvent se résumer comme suit.",
+ "ch03:21": {
+  "cap": "Tableau 3.2  Les canaux par lesquels s’accomplit la volonté de Dieu",
+  "rows": [
+   [
+    "Canal",
+    "Description dans le texte",
+    "Source"
+   ],
+   [
+    "Le gouvernement par les Fils",
+    "Le Père gouverne par ses Fils, en une chaine ininterrompue de souverains se terminant par les Princes Planétaires",
+    "3:5.2"
+   ],
+   [
+    "La providence",
+    "Les activités combinées des êtres célestes et des esprits divins",
+    "4:1.1"
+   ],
+   [
+    "Le supercontrôle du Suprême",
+    "La providence est en partie le supercontrôle du Suprême inachevé, manifesté dans les univers inachevés",
+    "118:10.20"
+   ],
+   [
+    "L’action directe du Père",
+    "Lorsque les personnalités déléguées échouent, ou à tout moment, selon que l’amour du Père l’y pousse",
+    "3:5.1, 118:10.6"
+   ],
+   [
+    "L’Ajusteur intérieur",
+    "En tant que personne, il agit directement chez l’homme mortel par les Ajusteurs de Pensée",
+    "10:3.15"
+   ]
+  ]
+ },
+ "ch03:22": "4. La liberté et la volonté : la partie et le tout",
+ "ch03:23": "Si la volonté de Dieu est éternelle et souveraine, pourquoi y a-t-il dans le monde tant de choses qui lui sont contraires ? Les révélateurs n’éludent pas cette question. La réponse se trouve dans la distinction entre la partie et le tout.",
+ "ch03:25": "Le fascicule 115, « L’Être Suprême », énonce le même principe à une plus grande échelle. Le potentiel peut ne pas réussir à s’actualiser pour une partie, sur un certain niveau, mais jamais dans l’ensemble. « La volonté de Dieu prévaut finalement, elle ne prévaut pas toujours au niveau individuel, mais elle prévaut invariablement en ce qui concerne l’ensemble. » (115:3.13) Le choix d’un individu peut effectivement aller contre la volonté de Dieu. Mais une telle opposition ne peut renverser le dessein de l’univers dans son ensemble.",
+ "ch03:26": {
+  "cap": "Tableau 3.3  La volonté de Dieu dans la partie et dans le tout",
+  "rows": [
+   [
+    "Portée",
+    "La volonté de Dieu…",
+    "Source"
+   ],
+   [
+    "Le cœur d’une personne",
+    "Peut ne pas toujours être suivie",
+    "3:5.3"
+   ],
+   [
+    "La destinée d’une planète",
+    "Le plan divin prévaut",
+    "3:5.3"
+   ],
+   [
+    "L’individu et l’ensemble",
+    "Prévaut, pas toujours au niveau individuel, mais invariablement en ce qui concerne l’ensemble",
+    "115:3.13"
+   ],
+   [
+    "Ce dont s’occupe la providence",
+    "Agit selon la relation de la fonction de la créature avec le total, et non selon l’importance de la créature en tant que personne",
+    "118:10.5"
+   ],
+   [
+    "L’amour du Père",
+    "Agit directement dans le cœur de l’individu, indépendamment de tous les autres individus",
+    "118:10.11"
+   ]
+  ]
+ },
+ "ch03:27": "Pourquoi donc Dieu n’a-t-il pas fait dès le commencement un monde où rien ne pourrait mal tourner ? La réponse des révélateurs se trouve dans la liberté. La possibilité de l’erreur est le prix de la liberté.",
+ "ch03:29": "Le fascicule 3 développe ce principe à travers neuf vertus. Pour chaque vertu que l’homme doit acquérir, il y a un environnement qu’il doit affronter afin de l’acquérir. Les incertitudes de la vie ne sont pas un échec de la volonté de Dieu, mais la scène de croissance que cette volonté a préparée (3:5.5).",
+ "ch03:30": {
+  "cap": "Tableau 3.4  Les vertus et les conditions de vie qu’elles exigent",
+  "rows": [
+   [
+    "Vertu désirable",
+    "Condition que l’homme doit affronter",
+    "Source"
+   ],
+   [
+    "Le courage",
+    "Un environnement qui oblige à s’attaquer à de dures épreuves et à réagir aux désappointements",
+    "3:5.6"
+   ],
+   [
+    "L’altruisme",
+    "Des situations d’inégalité sociale",
+    "3:5.7"
+   ],
+   [
+    "L’espoir",
+    "Des insécurités constantes et des incertitudes renouvelées",
+    "3:5.8"
+   ],
+   [
+    "La foi",
+    "La situation embarrassante d’en savoir toujours moins que ce que l’on peut croire",
+    "3:5.9"
+   ],
+   [
+    "L’amour de la vérité",
+    "Un monde où l’erreur est présente et la fausseté toujours possible",
+    "3:5.10"
+   ],
+   [
+    "L’idéalisme",
+    "Un environnement de bonté et de beauté relatives",
+    "3:5.11"
+   ],
+   [
+    "La loyauté",
+    "Les possibilités de trahison et de désertion",
+    "3:5.12"
+   ],
+   [
+    "Le désintéressement",
+    "Les clameurs incessantes du moi qui demande reconnaissance et honneur",
+    "3:5.13"
+   ],
+   [
+    "Le plaisir",
+    "L’alternative de la douleur et la probabilité de la souffrance",
+    "3:5.14"
+   ]
+  ]
+ },
+ "ch03:31": "5. Faire la volonté de Dieu",
+ "ch03:32": "La doctrine descend maintenant dans la vie humaine. Que signifie faire la volonté de Dieu ? Le fascicule 111, « L’Ajusteur et l’âme », la définit avec une simplicité frappante.",
+ "ch03:34": "Faire la volonté de Dieu est ici défini comme un partage. Cette définition s’accorde exactement avec la doctrine du chapitre 2. La personnalité divine se partage, et le Père partage toutes choses avec le Fils et l’Esprit. Quand l’homme partage sa vie intérieure avec Dieu, il fait cela même que Dieu fait. C’est pourquoi le même paragraphe dit : « Partager, c’est être semblable à Dieu — divin. » (111:5.1) Ce choix n’est pas non plus une simple condition pour quelque récompense future. Les révélateurs disent que ses fruits sont donnés au moment même où l’on choisit.",
+ "ch03:36": "Le même paragraphe ajoute que ce consentement est précédé d’un consentement du côté de Dieu. Le Père a déjà choisi de subordonner un fragment de lui-même à la volonté de la personnalité de la créature (111:5.4). Avant que l’homme ne se confie à Dieu, Dieu s’est d’abord confié à l’homme. Et ce choix n’est pas un abandon de la volonté.",
+ "ch03:38": "Les révélateurs font ressortir le caractère de ce choix au moyen d’une paire de déclarations. C’est une déclaration d’affirmation plutôt que de résignation.",
+ "ch03:40": "Ce choix diffère par son caractère de tous les autres choix humains. La volonté de l’homme est à tous égards contenue dans des limites finies, à une exception près : le choix de trouver Dieu et d’être semblable à lui. Ce choix est « superfini » (118:6.7). Et ce choix portera surement du fruit. L’homme peut décider de devenir plus qu’un homme, et, lorsqu’il choisit d’entreprendre l’ascension de l’univers, le choix humain et la volonté divine coïncident : « Ce qu’un fils désire et que le Père veut arrivera en toute certitude. » (118:6.5) C’est donc ce choix qui fait la grandeur de l’homme.",
+ "ch03:42": "L’exemple le plus parfait de ce choix est Jésus. Sa vie terrestre « fut consacrée à un seul grand dessein — faire la volonté du Père, vivre la vie humaine religieusement et par la foi » (196:0.14). Au terme de ce choix se trouve l’unité avec le Dieu qui habite en l’homme. L’Ajusteur de Pensée est la volonté de Dieu résidant en l’homme, et le but de l’ascension est que cette volonté et la volonté de l’homme deviennent complètement une.",
+ "ch03:44": "Mais cette harmonisation ne s’accomplit pas du jour au lendemain. La volonté de Dieu ne se voit pas d’un seul coup, et pourtant, lorsque l’on considère la vie dans son ensemble, elle devient de plus en plus claire.",
+ "ch03:46": "Il en va de même pour la providence. Les hommes essaient de trouver la providence dans les miracles ou la bonne fortune, mais les révélateurs disent que la providence n’est ni capricieuse ni magique. Elle est la marche sure de l’univers vers les buts de l’éternité.",
+ "ch03:48": "Placer à côté du texte les idées que l’on se fait couramment de la volonté de Dieu fait apparaitre clairement la différence.",
+ "ch03:49": {
+  "cap": "Tableau 3.5  Les malentendus sur la volonté de Dieu et les réponses du texte",
+  "rows": [
+   [
+    "Malentendu",
+    "La réponse du texte",
+    "Source"
+   ],
+   [
+    "La providence signifie que Dieu a tout décidé d’avance",
+    "Dieu nous aime trop pour faire cela, car ce serait une tyrannie cosmique",
+    "118:10.1"
+   ],
+   [
+    "Dieu fait tout personnellement",
+    "Dieu est omnipotent, mais non omnificient ; le sophisme de l’omnificience est l’erreur du panthéisme",
+    "118:6.1, 118:6.8"
+   ],
+   [
+    "La bonne fortune est un signe de la volonté de Dieu",
+    "Bien des circonstances qu’un homme appellerait bonnes chances pourraient en réalité être des malchances",
+    "118:10.9"
+   ],
+   [
+    "Suivre la volonté de Dieu, c’est renoncer à sa volonté",
+    "Ce n’est pas un abandon de la volonté, mais une consécration, une expansion et un perfectionnement de la volonté",
+    "111:5.5"
+   ],
+   [
+    "La prière est un moyen de changer la volonté de Dieu",
+    "Bien souvent, la réponse à la prière pour une intervention providentielle est notre propre changement d’attitude envers la vie",
+    "118:10.23"
+   ]
+  ]
+ },
+ "ch03:50": "Pour conclure : là où le dessein et le choix se rencontrent",
+ "ch03:51": "La volonté de Dieu est le dessein éternel de la Source-Centre Première. Le Père a tout partagé, mais il a gardé sa volonté, et toute volonté dans l’univers s’est détachée de cette volonté originelle. Cette volonté s’accomplit par le gouvernement des Fils, par la providence et par l’Ajusteur intérieur, et pourtant Dieu ne fait pas tout personnellement. Dans le cœur d’une seule personne, cette volonté peut être refusée, mais dans le tout elle s’accomplit surement. Et lorsque l’homme consacre sa propre volonté à cette volonté, son choix transcende le fini et arrivera en toute certitude. Les révélateurs disent que, dans la mesure où nous faisons la volonté de Dieu, quel que soit le lieu de l’univers où nous ayons notre existence, le potentiel du Suprême devient actuel (117:0.1). Le chapitre suivant examine le Dieu de cette actualisation, l’Être Suprême qui croît par l’expérience.",
+ "ch03:52": {
+  "title": "Questions pour la réflexion",
+  "items": [
+   "1. Si faire la volonté de Dieu, c’est partager ma vie intérieure avec Dieu (111:5.1), qu’est-ce que je n’ai pas encore partagé ?",
+   "2. En quoi l’enseignement selon lequel la volonté de Dieu ne prévaut pas toujours dans un seul cœur, mais prévaut surement dans le tout (3:5.3), m’aide-t-il à considérer mes propres échecs et la confusion du monde ?",
+   "3. Parmi les incertitudes de ma vie actuelle, lesquelles deviennent des conditions pour faire croitre le courage, l’espoir ou la foi (3:5.5–3:5.14) ?"
+  ]
+ },
+ "ch04:label": "Chapitre 4",
+ "ch04:title": "L’Être Suprême",
+ "ch04:sub": "Le Dieu qui croît par l’expérience",
+ "ch04:0": "Les trois chapitres précédents ont traité du Dieu éternel. Le JE SUIS n’a pas de commencement, la Trinité du Paradis est éternellement parfaite, et la volonté de Dieu est un dessein éternel. Mais le Livre d’Urantia y ajoute une doctrine remarquable : un Dieu qui croît dans le temps, l’Être Suprême. Ce chapitre, le dernier de la première partie, demande qui est l’Être Suprême, pourquoi il doit y avoir un Dieu qui croît en plus du Dieu éternel, comment il est constitué, et comment la vie humaine est liée à sa croissance.",
+ "ch04:1": "1. Définition : le Dieu du temps et de l’espace",
+ "ch04:2": "Parmi les sept significations du mot Dieu, l’Introduction cite Dieu le Suprême en quatrième lieu. Les mots qui reviennent dans cette définition sont évolution et expérience.",
+ "ch04:4": "L’Être Suprême n’est pas quelqu’un qui est complet de toute éternité, mais quelqu’un qui est en train de s’actualiser. Et cette actualisation a lieu dans ce que le Créateur et la créature expérimentent ensemble. Le fascicule 117, « Dieu le Suprême », dépeint ce Dieu dans le langage des valeurs que l’homme connait déjà.",
+ "ch04:6": "Quand l’homme expérimente la vérité, la beauté et la bonté, il est déjà en contact avec la substance de l’Être Suprême. L’Être Suprême n’est pas une abstraction lointaine, mais le maximum de divinité qu’un être fini puisse expérimenter. Il est aussi profondément lié au temps lui-même.",
+ "ch04:8": "Toute la croissance que l’homme connait dans le temps est préservée dans l’Être Suprême. Le temps n’est donc pas quelque chose qui s’écoule dans le néant, mais un courant qui trouve son sens dans le Suprême. Les révélateurs disent que le Suprême n’est pas infini, mais qu’« il englobe probablement toute la fraction d’infinité qu’une créature finie pourra jamais réellement saisir » (117:6.19).",
+ "ch04:9": "2. Fondements : pourquoi un Dieu qui croît est nécessaire",
+ "ch04:10": "S’il y a un Dieu éternel et parfait, pourquoi faut-il aussi un Dieu qui croît ? La première clé pour répondre à cette question est la distinction que l’Introduction établit entre la Déité existentielle et la Déité expérientielle (0:7.2–0:7.4).",
+ "ch04:11": {
+  "cap": "Tableau 4.1  La Déité existentielle et la Déité expérientielle",
+  "rows": [
+   [
+    "Distinction",
+    "Déité existentielle",
+    "Déité expérientielle",
+    "Source"
+   ],
+   [
+    "Les Déités concernées",
+    "Le Père, le Fils et l’Esprit",
+    "Dieu le Suprême, Dieu l’Ultime et Dieu l’Absolu",
+    "0:7.1"
+   ],
+   [
+    "Mode d’existence",
+    "D’existence éternelle, passée, présente et future",
+    "S’actualisant dans le présent posthavonien, mais d’une existence sans fin au cours de toute l’éternité future",
+    "0:7.3, 0:7.4"
+   ],
+   [
+    "Origine et destinée",
+    "Éternelles sans qualification",
+    "Ont une origine, mais leur destinée est éternelle",
+    "0:7.5"
+   ],
+   [
+    "Statut présent",
+    "Existentielles en actualité",
+    "Pas entièrement existantes présentement ; en voie d’actualisation",
+    "0:7.5, 0:7.6"
+   ]
+  ]
+ },
+ "ch04:12": "Le Père a déjà accompli l’expression de Déité existentielle dans le Fils et l’Esprit. Il accomplit maintenant l’expression expérientielle sur des niveaux de déité jusqu’ici non révélés (0:7.6). La deuxième clé vient de l’aspect même de l’univers. Les révélateurs placent côte à côte Havona et Urantia et suivent les conclusions de la raison.",
+ "ch04:14": "Cette conclusion n’ébranle pas la foi ; elle la redresse plutôt. Si les imperfections du monde sont considérées comme l’œuvre directe d’un Dieu infini et parfait, l’homme ne peut qu’en vouloir à Dieu ou se résigner devant la souffrance et l’injustice. Mais si le Dieu du temps et de l’espace est un Dieu qui croît, l’imperfection n’est pas un échec, mais le lieu de la croissance. Les révélateurs disent que cette compréhension libère la religion d’être un instrument de résignation sociale (116:0.1). Et la croissance n’est pas une entreprise solitaire.",
+ "ch04:16": "Havona ne croît pas, parce qu’il est parfait dès le commencement. Le grand univers croît, parce qu’il est imparfait. La somme de cette croissance est l’Être Suprême. Et le fondement de l’existence de l’univers fini se trouve en fin de compte dans la volonté de Dieu : « Les domaines du fini existent en vertu du dessein éternel de Dieu. » (115:1.4) La volonté de Dieu, que nous avons vue au chapitre 3, conduit ainsi à la doctrine de l’Être Suprême.",
+ "ch04:17": "3. Structure : issu de la Trinité, croissant par l’expérience",
+ "ch04:18": "D’où vient l’Être Suprême ? Le fascicule 115, « L’Être Suprême », distingue deux sources de la Suprématie. Sa personnalité vient d’en haut ; sa croissance vient de la tension entre l’actuel et le potentiel.",
+ "ch04:20": "Sa personnalité spirituelle vient de la Trinité, mais son pouvoir s’accumule dans l’œuvre accomplie par les Créateurs du temps et de l’espace. Dieu le Suprême « actualise son pouvoir » (116:2.2) dans les agissements des Fils Créateurs, des Anciens des Jours et des Maitres Esprits. Et ce qui unit en un seul cette personnalité spirituelle et ce pouvoir, c’est le Mental Suprême. Les révélateurs disent qu’il n’y aura pas de Tout-Puissant en dehors du Suprême, ni de Suprême en dehors du Tout-Puissant (116:1.2). Les trois phases de l’Être Suprême sont résumées ci-dessous. En fin de compte, les trois phases convergent en une seule expérience. Dans la procession universelle des Créateurs descendants qui révèlent Dieu et des créatures ascendantes qui cherchent Dieu, les descendeurs et les ascendeurs en viennent à se comprendre mutuellement et découvrent la fraternité (117:1.2).",
+ "ch04:22": "L’Être Suprême n’est ni le Dieu du seul Créateur, ni le Dieu de la seule créature. Il croît à l’endroit même où se rencontrent le Dieu qui descend et l’homme qui monte.",
+ "ch04:23": {
+  "cap": "Tableau 4.2  Les trois phases de l’Être Suprême",
+  "rows": [
+   [
+    "Phase",
+    "Description dans le texte",
+    "Statut présent",
+    "Source"
+   ],
+   [
+    "Dieu le Suprême (personnalité spirituelle)",
+    "Une personne-esprit issue de la Trinité ; exerce ses fonctions premièrement dans l’univers central",
+    "Réel en tant que personnalité",
+    "115:4.2, 116:0.5"
+   ],
+   [
+    "Le Tout-Puissant Suprême (pouvoir)",
+    "Exerce ses fonctions deuxièmement dans le grand univers en tant que personnalité de pouvoir",
+    "Devient maintenant un fait grâce aux activités des Personnalités Créatrices Suprêmes",
+    "116:0.5, 116:2.14"
+   ],
+   [
+    "Le Mental Suprême",
+    "La fonction qui unit les attributs de pouvoir et de personnalité",
+    "En voie d’actualisation dans la coordination du grand univers",
+    "116:1.2, 116:1.3"
+   ]
+  ]
+ },
+ "ch04:24": "La voie par laquelle l’homme rencontre l’Être Suprême est Dieu le Septuple. Parce que l’homme ne peut comprendre la Déité du Paradis, la divinité se limite elle-même, amenant à l’existence les Créateurs Suprêmes et transportant par eux la lumière de la vie jusqu’aux mondes évolutionnaires (116:2.3). Les mortels rencontrent les niveaux de Dieu le Septuple l’un après l’autre, en commençant par le bas.",
+ "ch04:25": {
+  "cap": "Tableau 4.3  L’ordre dans lequel les mortels rencontrent Dieu le Septuple",
+  "rows": [
+   [
+    "Ordre",
+    "Niveau",
+    "Classification",
+    "Source"
+   ],
+   [
+    "1",
+    "Les Fils Créateurs (et les Esprits Créatifs)",
+    "Créateurs Suprêmes",
+    "116:2.5"
+   ],
+   [
+    "2",
+    "Les Anciens des Jours",
+    "Créateurs Suprêmes",
+    "116:2.6"
+   ],
+   [
+    "3",
+    "Les Sept Maitres Esprits",
+    "Créateurs Suprêmes",
+    "116:2.7"
+   ],
+   [
+    "4",
+    "L’Être Suprême",
+    "Personnalisation spirituelle-expérientielle et foyer du pouvoir tout-puissant",
+    "116:2.8, 116:2.12"
+   ],
+   [
+    "5",
+    "L’Acteur Conjoint",
+    "Déité du Paradis",
+    "116:2.9"
+   ],
+   [
+    "6",
+    "Le Fils Éternel",
+    "Déité du Paradis",
+    "116:2.10"
+   ],
+   [
+    "7",
+    "Le Père Universel",
+    "Déité du Paradis",
+    "116:2.11"
+   ]
+  ]
+ },
+ "ch04:26": "Dans cet ordre, l’Être Suprême se tient exactement au milieu. Au-dessus de lui se trouvent les Déités du Paradis ; au-dessous, les Créateurs Suprêmes du temps et de l’espace. L’Être Suprême est le lieu où l’éternité et le temps se rencontrent et, selon les mots des révélateurs, « L’Être Suprême est la révélation maximum de la Déité aux sept superunivers pour le présent âge de l’univers. » (116:2.12)",
+ "ch04:27": "4. L’homme et l’Être Suprême : une croissance interdépendante",
+ "ch04:28": "C’est ici que la doctrine touche l’homme le plus directement. La croissance de l’Être Suprême n’est pas séparée de la croissance des créatures. Quand l’homme grandit, le Suprême grandit.",
+ "ch04:30": "Dire que Dieu dépend des choix de l’homme est audacieux. Pourtant, ce n’est pas une faiblesse en Dieu, mais une expression de confiance. Les révélateurs expliquent cette dépendance en termes de confiance et d’amour.",
+ "ch04:32": "Ce qui a été remis entre les mains de l’homme est une part de Dieu lui-même. La croissance de l’homme n’est donc pas une simple culture privée de soi ; elle devient une responsabilité cosmique de réaliser la divinité qui lui a été confiée. Et cette croissance ne se produit pas d’elle-même.",
+ "ch04:34": "Que l’effort soit nécessaire est à la fois un fardeau et un réconfort, car la lutte de l’homme n’est pas une lutte menée seul.",
+ "ch04:36": "Les révélateurs expliquent que la croissance de l’homme et la croissance de l’Être Suprême ont la même structure. Ce que la Trinité est pour Dieu le Suprême, l’Ajusteur l’est pour l’homme (117:3.10). Le parallèle peut se résumer comme suit.",
+ "ch04:37": {
+  "cap": "Tableau 4.4  La croissance de l’homme et la croissance de l’Être Suprême",
+  "rows": [
+   [
+    "Comparaison",
+    "L’homme",
+    "L’Être Suprême",
+    "Source"
+   ],
+   [
+    "Source divine",
+    "L’Ajusteur de Pensée intérieur",
+    "La Trinité du Paradis",
+    "117:3.10"
+   ],
+   [
+    "Mode de croissance",
+    "Grandit consciemment du matériel vers le spirituel par la force et la persistance de ses propres décisions",
+    "Sa souveraineté croît dans et par les actes et les accomplissements des Personnalités Créatrices Suprêmes",
+    "117:3.6, 117:3.7"
+   ],
+   [
+    "Résultat de la croissance",
+    "L’évolution de l’âme immortelle",
+    "La réalisation de la souveraineté et de la divinité expérientielles",
+    "117:3.10, 117:4.2"
+   ],
+   [
+    "En cas de rejet",
+    "Le moi peut être détruit, mais ce qui était valable persiste dans le Suprême",
+    "La fraction qui dépendait de ce choix subit un retard",
+    "117:4.3, 117:4.2"
+   ]
+  ]
+ },
+ "ch04:38": "La relation entre l’homme et l’Être Suprême est moins une relation de création qu’une relation de fondement. Les révélateurs tracent cette distinction avec précision.",
+ "ch04:40": "Rejeter la survie n’est donc pas seulement une perte individuelle. La personnalité qui ne monte pas « retourne au Suprême comme une goutte d’eau retourne à la mer » (117:4.4). La part que cette personnalité aurait pu apporter n’est pas comblée de la même manière par la contribution de quelqu’un d’autre. Les révélateurs présentent cela comme le défi posé à l’homme (117:4.10). Même si une autre créature apporte un jour une contribution, « ce sera sa contribution au Suprême, et non la vôtre » (117:4.10).",
+ "ch04:41": "5. La voie pour trouver l’Être Suprême",
+ "ch04:42": "L’homme peut découvrir le Père dans son propre cœur, parce que l’Ajusteur s’y trouve. Mais l’Être Suprême ne se trouve pas de cette manière individuelle. Parce que l’Être Suprême est la somme de la croissance de toutes les créatures, la voie pour le trouver passe aussi par les autres.",
+ "ch04:44": "Cet enseignement relie directement la doctrine de l’Être Suprême à la fraternité des hommes. Le Père traite chaque personne comme un individu cosmique, tandis que le Suprême traite ses enfants expérientiels comme un seul total cosmique (117:6.22). Les révélateurs disent que, de même que Dieu est le Père divin de l’homme, de même le Suprême est sa Mère divine, en qui il est nourri (117:6.2). Cette découverte n’a rien de spectaculaire. Les hommes trouvent le Suprême « lentement et patiemment, comme une rivière qui érode doucement le sol où elle coule » (117:6.25). La substance du Suprême que l’homme peut expérimenter dès maintenant, ce sont les fruits de l’esprit (117:6.17). Même le petit choix de l’homme de faire la volonté de Dieu se reflète immédiatement dans cette croissance cosmique.",
+ "ch04:46": "Et celui qui suit cette voie n’est pas seul.",
+ "ch04:48": {
+  "cap": "Tableau 4.5  Les malentendus sur l’Être Suprême et les réponses du texte",
+  "rows": [
+   [
+    "Malentendu",
+    "La réponse du texte",
+    "Source"
+   ],
+   [
+    "L’Être Suprême est la même chose que la Trinité",
+    "Dieu le Suprême n’est pas la Trinité du Paradis ; il n’est pas non plus l’un ou l’ensemble des Créateurs des superunivers",
+    "116:2.14"
+   ],
+   [
+    "L’Être Suprême a créé l’homme",
+    "L’homme n’a pas été créé par l’Être Suprême, mais à partir de la potentialité du Suprême",
+    "117:3.12"
+   ],
+   [
+    "L’Être Suprême est déjà complet",
+    "Les Déités expérientielles ne sont pas entièrement existantes présentement ; elles sont en voie d’actualisation",
+    "0:7.6"
+   ],
+   [
+    "L’homme peut dès maintenant trouver personnellement l’Être Suprême",
+    "Nul ascendeur isolé ne trouvera le Suprême avant que tous les ascendeurs aient atteint la maturité universelle maximum qui les qualifiera pour participer à cette découverte",
+    "117:6.21"
+   ],
+   [
+    "L’Être Suprême est infini",
+    "Le Suprême n’est pas infini, mais il englobe probablement toute la fraction d’infinité qu’une créature finie peut saisir",
+    "117:6.19"
+   ]
+  ]
+ },
+ "ch04:49": "6. Conséquences : la vertu de l’inachèvement",
+ "ch04:50": "La doctrine de l’Être Suprême nous permet de voir l’imperfection de l’univers sous un jour nouveau. Parce que l’Être Suprême n’est pas encore complet, il y a place pour que les créatures prennent part à son parachèvement. Les révélateurs appellent cet inachèvement une vertu.",
+ "ch04:52": "C’est aussi pourquoi l’homme peut aspirer au Paradis et à la destinée de finalitaire. Cette destinée est possible parce que l’homme est dans le Suprême et participe à son cycle de croissance (117:2.5). Et cette croissance a un terme. Lorsque tous les potentiels finis seront réalisés, l’Être Suprême émergera comme souverain expérientiel du grand univers, et les univers seront ancrés dans la lumière et la vie (117:2.7, 117:6.24). Alors, les choix que l’homme fait aujourd’hui demeureront pour toujours dans ce Dieu parachevé.",
+ "ch04:53": "Pour conclure : l’homme grandissant avec le Dieu qui grandit",
+ "ch04:54": "L’Être Suprême est le Dieu du temps et de l’espace, la Déité personnelle en qui l’expérience du Créateur et de la créature devient une. Sa personnalité spirituelle vient de la Trinité, son pouvoir s’accumule dans l’œuvre des Créateurs du temps, et le Mental Suprême unit les deux. Et sa croissance et la croissance de toutes les créatures dépendent l’une de l’autre. C’est pourquoi un seul petit choix humain porte une signification cosmique. Avec ceci, la première partie achève les quatre doctrines fondamentales concernant Dieu. Le JE SUIS est la source de toute réalité ; la Trinité est l’unicité personnelle de cette source ; la volonté de Dieu est le dessein éternel de ce Dieu ; et l’Être Suprême est le Dieu en qui ce dessein se réalise dans le temps. La deuxième partie examine comment ce Dieu constitue et gouverne l’univers.",
+ "ch04:55": {
+  "title": "Questions pour la réflexion",
+  "items": [
+   "1. En quoi la conclusion selon laquelle les imperfections d’Urantia révèlent la direction de Créateurs autres-que-parfaits (116:0.2) change-t-elle ma foi devant la souffrance et l’injustice du monde ?",
+   "2. Si la Déité Suprême dépend, dans un certain sens, du choix de la volonté des mortels (117:4.9), quel poids ont les décisions que je prends aujourd’hui ?",
+   "3. Que demande, à ma manière de traiter mon prochain, l’affirmation selon laquelle je peux trouver le Père dans mon propre cœur, mais dois rechercher le Suprême dans le cœur de tous les autres hommes (117:6.23) ?"
+  ]
+ },
+ "ch05:label": "Chapitre 5",
+ "ch05:title": "La constitution et l’administration de l’univers",
+ "ch05:0": "La première partie demandait qui est Dieu. La deuxième partie demande comment ce Dieu gouverne sa création. Le Livre d’Urantia consacre tant de pages à la structure et à l’administration de l’univers, non pour satisfaire une curiosité astronomique, mais parce qu’en apprenant comment l’univers est organisé et à qui est confié le soin de le gouverner, nous en venons à voir à quel genre d’ordre appartient notre petit monde, et à quelle volonté cet ordre obéit. Dès ses toutes premières pages, l’Introduction situe la place de l’homme dans ce grand ordre.",
+ "ch05:2": "Ce chapitre pose quatre questions. Comment l’univers est-il organisé ? Qui gouverne chacune de ses unités ? Pourquoi le Père Universel gouverne-t-il par ses Fils et ses associés plutôt que directement ? Et que signifie cet ordre administratif pour la vie d’une seule personne ?",
+ "ch05:3": "1. Un seul centre, six niveaux d’espace concentriques",
+ "ch05:4": "La cosmologie du Livre d’Urantia commence au centre. Au cœur de toute la création se tient l’Ile immobile du Paradis, et autour d’elle se trouve l’univers central parfait de Havona. Ces deux réalités sont éternelles, sans commencement ni fin, et tous les autres univers tournent autour d’elles.",
+ "ch05:6": "Au-delà se trouvent les sept superunivers et, au-delà de ceux-ci, quatre niveaux d’espace extérieur qui sont encore en cours d’organisation. Les révélateurs distinguent ces six ellipses concentriques par trois temps : l’éternité, le temps et l’avenir.",
+ "ch05:8": {
+  "cap": "Tableau 5.1  Les six niveaux d’espace du maitre univers",
+  "rows": [
+   [
+    "Niveau",
+    "Nature",
+    "Source"
+   ],
+   [
+    "Le Paradis (centre)",
+    "L’Ile stationnaire et absolument stabilisée, au centre de Havona",
+    "12:1.10"
+   ],
+   [
+    "1. L’univers central, Havona",
+    "Une existence éternelle, sans commencement ni fin ; un milliard de sphères parfaites",
+    "12:1.10"
+   ],
+   [
+    "2. Les sept superunivers",
+    "Créations du temps ; la partie extérieure du grand univers, maintenant organisée et habitée",
+    "12:1.12, 12:1.16"
+   ],
+   [
+    "3–6. Les quatre niveaux d’espace extérieur",
+    "Créations futures, où se rassemblent des circuits de force et des énergies en cours de matérialisation",
+    "12:1.14, 12:1.16"
+   ]
+  ]
+ },
+ "ch05:9": "La création du temps n’est pas encore achevée. Observant la limite extérieure du grand univers, les révélateurs n’y voient pas un édifice terminé, mais un chantier encore en construction.",
+ "ch05:11": "Un principe apparait ici : le parfait vient en premier, et l’imparfait grandit autour de lui. Havona est le modèle sur lequel les univers en évolution doivent fixer leur regard, et les univers du temps ont été faits pour croitre vers ce modèle. Même les Fils Créateurs qui construisent les univers locaux font leur apprentissage dans Havona.",
+ "ch05:13": "La structure même de l’univers contient déjà une direction : l’ascension vers le centre. Le centre parfait devient le but de la périphérie, et la périphérie inachevée croît en venant à ressembler au centre. La géographie de l’univers est une carte de son dessein.",
+ "ch05:14": "2. Les unités administratives des sept superunivers",
+ "ch05:15": "Les univers du temps ne sont pas dispersés au hasard. Le fascicule 15 expose pas à pas l’organisation du grand univers, de la planète au superunivers. Ces divisions servent toutefois l’administration ; elles ne suivent pas simplement des limites astronomiques. L’unité créative de base de l’administration est l’univers local.",
+ "ch05:17": {
+  "cap": "Tableau 5.2  Les unités d’organisation d’un superunivers et leurs dirigeants",
+  "rows": [
+   [
+    "Unité",
+    "Composition",
+    "Mondes habitables (environ)",
+    "Dirigeants",
+    "Source"
+   ],
+   [
+    "Système",
+    "Environ mille mondes habitables",
+    "1 000",
+    "Un Souverain de Système ; un Prince Planétaire sur chaque planète",
+    "15:2.3, 45:2.1"
+   ],
+   [
+    "Constellation",
+    "Cent systèmes",
+    "100 000",
+    "Trois Fils Vorondadeks (les Pères de la Constellation)",
+    "15:2.4, 35:6.2"
+   ],
+   [
+    "Univers local",
+    "Cent constellations",
+    "10 millions",
+    "Un Fils Créateur de l’ordre des Micaëls",
+    "15:2.5"
+   ],
+   [
+    "Secteur mineur",
+    "Cent univers locaux",
+    "1 milliard",
+    "Trois Récents des Jours",
+    "15:2.6"
+   ],
+   [
+    "Secteur majeur",
+    "Cent secteurs mineurs",
+    "100 milliards",
+    "Trois Perfections des Jours",
+    "15:2.7"
+   ],
+   [
+    "Superunivers",
+    "Dix secteurs majeurs",
+    "1 000 milliards",
+    "Trois Anciens des Jours",
+    "15:2.8"
+   ],
+   [
+    "Grand univers",
+    "Sept superunivers",
+    "7 000 milliards",
+    "Les Sept Maitres Esprits (indirectement et réflectivement depuis le Paradis)",
+    "15:2.9"
+   ]
+  ]
+ },
+ "ch05:18": "Ce tableau contient une ligne de partage nette. Les systèmes, les constellations et les univers locaux sont gouvernés par le Fils Créateur et ses enfants. Les secteurs mineurs, les secteurs majeurs et les superunivers sont gouvernés par des Personnalités Suprêmes de la Trinité, les êtres « des Jours ». L’administration du grand univers est une structure double dans laquelle deux lignes d’autorité s’imbriquent. Et, au-dessus de tout cela, le Paradis gouverne les sept superunivers, non en posant directement la main sur eux, mais en réfléchissant son gouvernement à travers les Maitres Esprits.",
+ "ch05:20": "Les gouvernements intermédiaires ont chacun leur propre sphère. Les gouvernements des secteurs majeurs s’occupent principalement du statut intellectuel et de l’éducation, les gouvernements des secteurs mineurs de la stabilité physique.",
+ "ch05:22": "3. Le gouvernement de la Trinité et le gouvernement du Fils",
+ "ch05:23": "Le gouvernement du superunivers dérive de la Trinité du Paradis. À côté des trois Anciens des Jours qui gouvernent conjointement un superunivers se trouvent les Perfecteurs de Sagesse, les Conseillers Divins et les Censeurs Universels, et le fascicule 15 dit que « Les membres de ces trois groupes sont des Personnalités Trinitaires Coordonnées prenant directement et divinement leur origine dans la Trinité du Paradis » (15:10.11). Pourtant, les autres groupes de ce même gouvernement sont, chose surprenante, des êtres qui se sont élevés du milieu des hommes.",
+ "ch05:25": "Des êtres parfaits issus de la Trinité travaillent ensemble, dans un seul gouvernement, avec des êtres qui se sont élevés des mondes du temps et ont atteint la perfection. Le superunivers est le lieu de rencontre de la perfection divine et de la perfection expérientielle. L’univers local, par contraste, est le domaine qu’un seul Fils Créateur construit et gouverne personnellement. Si le gouvernement du superunivers s’occupe principalement de jugement, d’éducation intellectuelle et de stabilité physique, le gouvernement de l’univers local s’occupe de création et de ministère.",
+ "ch05:26": {
+  "cap": "Tableau 5.3  Le gouvernement du superunivers et le gouvernement de l’univers local",
+  "rows": [
+   [
+    "Aspect",
+    "Gouvernement du superunivers",
+    "Gouvernement de l’univers local",
+    "Source"
+   ],
+   [
+    "Origine",
+    "La Trinité du Paradis (personnalités d’origine trinitaire et mortels ascendants)",
+    "Le Fils Créateur et l’Esprit-Mère de l’Univers",
+    "15:10.11~12, 33:0.1"
+   ],
+   [
+    "Dirigeants",
+    "Trois Anciens des Jours (chefs exécutifs conjoints)",
+    "Micaël, le Fils Créateur (souverain), et l’Esprit de l’Univers (codirectrice)",
+    "15:10.3, 33:3.3"
+   ],
+   [
+    "Préoccupations principales",
+    "Jugement, éducation intellectuelle, contrôle et stabilité physiques",
+    "Création, entretien et ministère",
+    "15:13.2, 15:13.4 et 33:7.1"
+   ],
+   [
+    "Vie éternelle et extinction",
+    "Rend le verdict final",
+    "N’a pas le droit de décider ; s’en remet aux tribunaux d’Orvonton",
+    "33:2.2, 33:7.4"
+   ],
+   [
+    "Relations mutuelles",
+    "Les superunivers sont isolés les uns des autres et ne se connaissent que par le Paradis",
+    "Gabriel est le chef exécutif commun pour les deux gouvernements",
+    "15:10.23, 33:4.6"
+   ]
+  ]
+ },
+ "ch05:27": "Le point où les deux gouvernements se séparent est significatif. L’univers local édifie et nourrit la vie, mais le verdict qui mettrait fin à la survie éternelle d’une personnalité est laissé au gouvernement de la Trinité. Le fascicule 33 en trouve la raison dans la nature même de l’administration de l’univers local. Parce que cette administration s’occupe de la création, de l’évolution, de l’entretien et du ministère, « Les tribunaux de l’univers n’ont donc pas le droit de juger les cas impliquant les questions de la vie et de la mort éternelles » (33:7.4). La création et le jugement sont placés en des mains différentes, afin que celui qui a donné la vie ne devienne pas le juge qui la retire.",
+ "ch05:28": "Une autre chose digne d’attention est la relation entre les superunivers. Les sept superunivers n’échangent pas d’ambassadeurs ; ils ne connaissent les affaires les uns des autres que par la chambre de compensation du Paradis. Les révélateurs disent que cet isolement n’est pas une condition permanente.",
+ "ch05:30": "La structure administrative actuelle n’est pas un système achevé, mais un système en croissance. Les sept superunivers, maintenant tenus à l’écart les uns des autres, seront un jour coordonnés en un seul sous la souveraineté de l’Être Suprême. L’histoire de l’administration de l’univers suit le même chemin que la croissance de l’Être Suprême, que nous avons examinée au chapitre 4.",
+ "ch05:31": "4. Le principe de délégation : le Père gouverne dans ses Fils",
+ "ch05:32": "Pourquoi donc une administration aussi complexe est-elle nécessaire ? Le Père Universel tout-puissant ne pourrait-il pas simplement gouverner lui-même chaque monde ? Le Livre d’Urantia répond à cette question à partir de la nature même du Père. Le Père n’est pas égocentrique ; il donne tout ce qui peut être donné.",
+ "ch05:34": "Cette délégation ne signifie pas que le Père s’est retiré. Les révélateurs disent clairement que nous ne devons pas supposer qu’il est « un membre silencieux ou inactif » (32:4.1). Le Père garde entre ses mains le don de la personnalité et le don des Ajusteurs, et, par le circuit de personnalité, il reste directement relié à chaque personnalité. Ce n’est que dans l’administration courante d’un univers local qu’il agit par un Fils.",
+ "ch05:36": "La délégation n’est pas l’absence de Dieu, mais un autre mode de sa présence. Même là où il s’est mis en retrait, le Père agit par ceux qui ont pris cette place.",
+ "ch05:38": "La logique de la délégation peut se résumer en trois points. Premièrement, l’amour du Père est un partage, et le partage fait place à d’autres pour qu’ils accomplissent un travail réel. Deuxièmement, les créatures ne grandissent qu’en fonctionnant et en faisant l’expérience. Si Dieu faisait tout lui-même, ni les Fils, ni les anges, ni les hommes n’auraient aucune part d’expérience. Troisièmement, même au sein d’une administration déléguée, la présence du Père atteint directement chaque personne par le circuit de personnalité et par l’Ajusteur intérieur. Ainsi, l’administration est déléguée, mais la relation entre le Père et ses enfants ne l’est pas.",
+ "ch05:39": "5. L’administration d’un univers local : le Fils Créateur et ses associés",
+ "ch05:40": "Au centre d’un univers local se trouve le Fils Créateur. Il n’est pas le même que le Fils Éternel, et il n’est pas non plus membre de la Trinité, et pourtant il révèle à son propre univers à la fois le Père et le Fils.",
+ "ch05:42": "Mais Micaël ne gouverne pas seul. L’Esprit-Mère de l’Univers, la manifestation de l’Esprit Infini dans l’univers local, construit et gouverne l’univers avec lui dès le tout commencement.",
+ "ch05:44": "Gabriel, la Radieuse Étoile du Matin, le premier-né du Fils et de l’Esprit, est le chef exécutif de l’univers. Il ne crée pas, mais il prend part à toute décision importante autre que la création.",
+ "ch05:46": "Les tribunaux, les conseils et les organes exécutifs sont répartis entre le siège de l’univers, les constellations et les systèmes. Et, tout au bout de la chaine, sur une seule planète habitée, se tient le Prince Planétaire. Le fascicule 50 le présente comme le dernier maillon par lequel les Fils de Dieu s’approchent de l’homme.",
+ "ch05:48": "Micaël lui-même, au sommet de cette administration, ne siège pas comme juge.",
+ "ch05:50": {
+  "cap": "Tableau 5.4  La répartition des fonctions dans l’administration de l’univers local",
+  "rows": [
+   [
+    "Organe ou personnalité",
+    "Responsabilité",
+    "Source"
+   ],
+   [
+    "Micaël, le Fils Créateur",
+    "Création, entretien et ministère (ne participe pas personnellement au travail judiciaire)",
+    "33:7.1"
+   ],
+   [
+    "L’Esprit-Mère de l’Univers",
+    "Codirectrice dans tous les détails de la direction ; amène à l’existence les ordres de personnalités spirituelles",
+    "33:3.3, 33:3.8"
+   ],
+   [
+    "Gabriel (la Radieuse Étoile du Matin)",
+    "Chef exécutif, arbitre des appels exécutifs, superviseur de tout le mécanisme judiciaire",
+    "33:4.5, 33:7.2"
+   ],
+   [
+    "Les tribunaux de Salvington",
+    "Statuent sur les problèmes d’importance universelle et sur les appels venant des tribunaux systémiques",
+    "33:7.2"
+   ],
+   [
+    "Les constellations",
+    "Les assemblées législatives de l’univers local",
+    "33:8.1"
+   ],
+   [
+    "Les systèmes",
+    "Unités exécutives et administratives qui mettent en vigueur les ordres législatifs de la constellation et les décisions des cours de l’univers",
+    "33:8.1"
+   ],
+   [
+    "Le Prince Planétaire",
+    "Préside à une seule planète habitée",
+    "15:2.3"
+   ]
+  ]
+ },
+ "ch05:51": "Ce qui ressort, c’est que la création, le jugement, la législation et l’exécution sont placés en des mains différentes. Le Créateur ne juge pas ; le jugement est confié à ceux qui ont acquis de l’expérience. La législation a lieu dans les constellations, l’exécution dans les systèmes. Cette répartition est une sagesse qui empêche le pouvoir de se concentrer en un seul lieu, et elle donne en même temps aux êtres de chaque ordre leur propre part de responsabilité et de croissance. Les révélateurs disent brièvement ce que cet ordre signifie pour l’homme : « Vous vivez dans un univers bien ordonné, et tôt ou tard vous pouvez être surs d’être traités avec justice, et même avec miséricorde » (33:7.8). Les Fils de Dieu qui œuvrent dans ce grand cadre administratif sont traités au chapitre 6, et les anges qui exercent leur ministère au chapitre 7.",
+ "ch05:52": "L’ordre administratif n’est pas une fin en soi. Les tribunaux, les conseils et les organes exécutifs servent tous un seul grand plan. Le Puissant Messager qui clôt le fascicule 32 le dit ainsi : « Nous sommes tous une fraction d’un projet éternel que les Dieux supervisent et mettent à exécution » (32:5.1). Le Souverain du Système, les Pères de la Constellation, Gabriel et la personne qui vit une seule journée sur une planète font tous partie de cette entreprise. La hiérarchie administrative n’est pas une chaine dans laquelle les supérieurs commandent les inférieurs, mais un réseau de coopération dans lequel chacun, à sa propre place, sert le même dessein. L’homme commence tout en bas de ce réseau, mais il est appelé à en traverser toutes les étapes, une à une, sur le chemin de l’ascension, jusqu’à ce qu’il atteigne le Paradis.",
+ "ch05:53": {
+  "cap": "Tableau 5.5  La place d’Urantia dans l’administration de l’univers",
+  "rows": [
+   [
+    "Unité",
+    "Nom",
+    "Siège",
+    "Position",
+    "Source"
+   ],
+   [
+    "Planète",
+    "Urantia",
+    "—",
+    "Numéro 606 dans le système de Satania",
+    "15:14.5"
+   ],
+   [
+    "Système",
+    "Satania",
+    "Jérusem",
+    "Numéro 24 dans la constellation de Norlatiadek",
+    "15:14.6"
+   ],
+   [
+    "Constellation",
+    "Norlatiadek",
+    "Édentia",
+    "Numéro 70 dans l’univers de Nébadon",
+    "15:14.6"
+   ],
+   [
+    "Univers local",
+    "Nébadon",
+    "Salvington",
+    "Numéro 84 dans le secteur mineur d’Ensa",
+    "15:14.6"
+   ],
+   [
+    "Secteur mineur",
+    "Ensa",
+    "Uminor la troisième",
+    "Numéro 3 dans le secteur majeur de Splandon",
+    "15:14.7"
+   ],
+   [
+    "Secteur majeur",
+    "Splandon",
+    "Umajor la cinquième",
+    "Le cinquième dans le superunivers d’Orvonton",
+    "15:14.7"
+   ],
+   [
+    "Superunivers",
+    "Orvonton",
+    "Uversa",
+    "Le septième segment du grand univers",
+    "15:14.7, 0:0.5"
+   ]
+  ]
+ },
+ "ch05:54": "Pour conclure : un univers ordonné, un monde aimé",
+ "ch05:55": "La constitution et l’administration de l’univers sont réunies en une seule chaine. Le Paradis-Havona éternel et parfait se trouve au centre, et les sept superunivers du temps grandissent autour de lui. Les superunivers sont jugés et gardés par le gouvernement de la Trinité, et, en leur sein, les univers locaux sont construits et entretenus par les Fils Créateurs. Cette administration double découle de la nature d’un Père qui se donne lui-même, et, même dans cette délégation, le Père reste directement relié à chaque personne par le circuit de personnalité et par l’Ajusteur. Ainsi, cette petite planète, une parmi sept mille milliards de mondes, n’est pas un avant-poste abandonné. « votre sphère est administrée avec tout autant de précision et entretenue avec tout autant d’amour que si elle était le seul monde habité existant » (15:14.9). Le chapitre suivant examine les Fils de Dieu qui accomplissent effectivement cette administration, qui construisent les univers, les gouvernent et descendent personnellement sur les mondes.",
+ "ch05:56": {
+  "title": "Questions pour la réflexion",
+  "items": [
+   "1. Qu’enseigne le principe selon lequel les Créateurs ne siègent jamais pour juger leurs créatures (33:7.1) sur la séparation entre la création et le jugement ?",
+   "2. Le Père s’est dépouillé de toute fonction qu’un autre être est susceptible de remplir (32:4.10). Quelle question cela soulève-t-il sur la manière dont je confie du travail aux autres et dont je travaille à leurs côtés ?",
+   "3. Si cette planète, une parmi sept mille milliards de mondes, est entretenue avec autant d’amour que si elle était la seule (15:14.9), en quoi cela change-t-il ma manière de considérer ma propre petitesse ?"
+  ]
+ }
 }

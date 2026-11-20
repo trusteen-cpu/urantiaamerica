@@ -1,0 +1,284 @@
+### ch09:label
+Chapter 9
+### ch09:title
+Personality
+### ch09:sub
+The Gift of the Father
+### ch09:0
+Part One began with God, and Part Two looked at how God governs the universe. Part Three turns to the individual human being who lives under that government. The Urantia Book does not regard man as a single undifferentiated whole. The Foreword says that human experience on Urantia contains distinct levels of reality: body, mind, spirit, soul, and personality (0:5.6–0:5.11). Four of these five each perform a work of their own, but what binds the four into one is the fifth.
+### ch09:2
+Part Three therefore begins with personality. This chapter asks three questions. What is personality? Why does personality come only from the Universal Father? And what does the fact of personality mean for human life and destiny? Mind will be treated in Chapter 10, the Thought Adjuster in Chapter 11, and the soul in Chapter 12.
+### ch09:3
+{
+ "cap": "Table 9.1  The Five Realities That Make Up Man",
+ "rows": [
+  [
+   "Reality",
+   "Definition in the text",
+   "Where it comes from"
+  ],
+  [
+   "Body",
+   "The material organism, the living electrochemical mechanism (0:5.7)",
+   "The life mechanism prepared by material evolution (111:1.4)"
+  ],
+  [
+   "Mind",
+   "The thinking, perceiving, and feeling mechanism (0:5.8)",
+   "The Third Source and Center, the bestower of mind (9:5.2)"
+  ],
+  [
+   "Spirit",
+   "The Thought Adjuster indwelling the mind, prepersonal in status (0:5.9)",
+   "Directly from the Universal Father (107:1.2)"
+  ],
+  [
+   "Soul",
+   "An experiential acquirement, a morontia reality (0:5.10)",
+   "The Adjuster as father, the mind as mother (0:5.10)"
+  ],
+  [
+   "Personality",
+   "The one changeless reality, the unifier of all other factors (0:5.11)",
+   "The unique bestowal of the Universal Father (0:5.11)"
+  ]
+ ]
+}
+### ch09:4
+1. Definition: Either There Is Personality or There Is None
+### ch09:5
+The Urantia Book does not undertake to define personality. The revelator first concedes that “Personality is one of the unsolved mysteries of the universes” (5:6.2). Instead, the text makes clear what personality is not and how it is given. The most important distinction lies between mind and personality.
+### ch09:7
+Three lines of reasoning emerge from this passage. First, personality is something added to mind. However highly mind may develop, it never becomes personality by itself. Second, personality is not a matter of degree. A person does not accumulate personality little by little but receives it whole from the start. Third, the road upward from below is closed. The Foreword says the same: “Personality is never spontaneous; it is the gift of the Paradise Father” (0:5.4). Evolution can prepare a body and a mind, but it cannot produce personality.
+### ch09:8
+This does not mean that personality is something abstract, unrelated to the body. Personality is given from above, but the place where it functions is material life here and now. Paper 5 likens the moment personality actually begins to operate to the launching of a ship.
+### ch09:10
+The key word here is ‘liberating.’ The Father's touch does not load anything more onto the material life vehicle; it frees that vehicle from the chain of cause and effect so that it can sail on its own. And the material self thus launched is already fully personal. A person does not become a personality only after death; while living in this body and with this mind, he already chooses, loves, and bears responsibility as a personality.
+### ch09:11
+2. The Ground: Why Only the Father Bestows Personality
+### ch09:12
+Why, then, does personality come only from the Father? The ground lies in the Father's own nature. The Universal Father is neither a force nor a law. Paper 12 speaks of him in these words: “He is a freewill and primal personality” (12:7.6). Since the original of all personality exists, creature personality can only be an image derived from that original.
+### ch09:14
+To study human personality in man alone is to look only at the shadow. The true meaning of personality must be read in the One who gives it. Paper 5 therefore calls the bestowal of personality the exclusive function of the Father and binds the relationship in both directions.
+### ch09:16
+Personality comes from the Father and moves toward the Father. When Paper 112 describes personality as the quality “bestowed by the Universal Father himself or by the Conjoint Actor, acting for the Father” (112:0.3), the Conjoint Actor merely acts on the Father's behalf; the source of the bestowal remains the Father. The opening of Paper 5, section 6, gathers this whole relationship into one sentence: “God the Father is the bestower and the conservator of every personality” (5:6.1). The Father gives personality, preserves it, and becomes its destiny when that personality chooses his will.
+### ch09:17
+This ground also determines the method for studying personality. To begin with human personality and infer the personality of God from it has its limits. The revelator reminds us that the direction is in fact the reverse.
+### ch09:19
+The same section adds that better concepts of the divine personality therefore had to await the bestowal life of Michael (1:6.3). Because human and divine personality were revealed together in the life of Jesus, man obtained a clue for tracing his way back from the shadow to the substance. The relation between Jesus and personality is taken up again in Chapters 18 and 19.
+### ch09:20
+3. Structure: Self-Consciousness and Relative Free Will
+### ch09:21
+How does personality show itself in a human being? Paper 16, section 8, “Urantia Personality,” names two marks.
+### ch09:23
+Self-consciousness is more than knowing oneself. The next sentences of the same section widen its scope.
+### ch09:25
+The ability to know oneself and the ability to know another spring from the same root. Free will is qualified by the word ‘relative.’ A person lives within the limits of body, heredity, and environment, yet the bestowal of personality “confers relative liberation from slavish response to antecedent causation” (5:6.9), and it is in precisely that opening that choice takes place. The revelator lists seven domains in which this freedom operates.
+### ch09:26
+{
+ "cap": "Table 9.2  The Seven Domains of Relative Free Will",
+ "rows": [
+  [
+   "Order",
+   "Domain",
+   "The text's explanation"
+  ],
+  [
+   "1",
+   "Moral decision",
+   "Highest wisdom (16:8.8)"
+  ],
+  [
+   "2",
+   "Spiritual choice",
+   "Truth discernment (16:8.9)"
+  ],
+  [
+   "3",
+   "Unselfish love",
+   "Brotherhood service (16:8.10)"
+  ],
+  [
+   "4",
+   "Purposeful co-operation",
+   "Group loyalty (16:8.11)"
+  ],
+  [
+   "5",
+   "Cosmic insight",
+   "The grasp of universe meanings (16:8.12)"
+  ],
+  [
+   "6",
+   "Personality dedication",
+   "Wholehearted devotion to doing the Father's will (16:8.13)"
+  ],
+  [
+   "7",
+   "Worship",
+   "The sincere pursuit of divine values and the wholehearted love of the divine Value-Giver (16:8.14)"
+  ]
+ ]
+}
+### ch09:27
+The seven domains begin with morality and end with worship. The freedom of personality is not a freedom to pick anything at all; it is a freedom to advance toward higher values. At its summit, freedom arrives at the point of giving the self to the Father.
+### ch09:28
+The very fact of self-consciousness and free will is evidence that man cannot be explained by matter alone. Paper 112 offers this point as an answer to materialism.
+### ch09:30
+Matter does not know itself, nor can it stand above itself and evaluate itself. That a person can look back on his life, weigh right and wrong, and choose the better shows that something given from above matter dwells within him. Paper 16 calls the full function of such a personality endowment “the beginning realization of Deity kinship” (16:8.19).
+### ch09:31
+4. Uniqueness and the Personality Circuit
+### ch09:32
+Another attribute of personality is uniqueness: “Personalities may be similar, but they are never the same” (16:8.4). This is not an accidental difference but a difference born of the Father's love.
+### ch09:34
+To be unique is to be irreplaceable. Paper 112 therefore says that personalities “are associable but nontotalable” (112:0.12). Yet this uniqueness does not end in isolation. Paper 12 says that God's love for the individual is the very source of brotherhood: “This very love of God for the individual brings into being the divine family of all individuals, the universal brotherhood of the freewill children of the Paradise Father” (12:7.10). The fatherhood of God and the brotherhood of man rest upon the uniqueness of personality.
+### ch09:35
+If the Father deals with each personality in this way, how are those personalities connected with the Father? The Urantia Book answers by describing four circuits of attraction in the universe and placing the personality circuit among them.
+### ch09:37
+{
+ "cap": "Table 9.3  The Four Universe Circuits and the Place of Personality",
+ "rows": [
+  [
+   "Circuit",
+   "Center",
+   "What it draws",
+   "Source"
+  ],
+  [
+   "Material gravity",
+   "The Isle of Paradise",
+   "All matter",
+   "5:6.11"
+  ],
+  [
+   "Mind gravity",
+   "The Conjoint Actor",
+   "All mind, true intellectual values",
+   "5:6.11, 9:6.2"
+  ],
+  [
+   "Spirit gravity",
+   "The Eternal Son",
+   "All spirit realities",
+   "5:6.11, 9:6.2"
+  ],
+  [
+   "Personality circuit",
+   "The Universal Father",
+   "All personalities, transmitting their worship to the Father",
+   "5:6.11, 5:6.10"
+  ]
+ ]
+}
+### ch09:38
+The personality circuit does not depend on the other three. The Father is personally conscious of, and in personal touch with, all personalities, and this personality consciousness “exists independently of the mission of the Thought Adjusters” (5:6.10). A being not indwelt by an Adjuster is still within this circuit if it has personality. Personality and the Adjuster both come from the Father, but they are different gifts. How the two work together in man is the subject of Chapters 11 and 12.
+### ch09:39
+{
+ "cap": "Table 9.4  Personality and the Thought Adjuster Distinguished",
+ "rows": [
+  [
+   "Item",
+   "Personality",
+   "Thought Adjuster"
+  ],
+  [
+   "Origin",
+   "Bestowed by the Universal Father (5:6.4)",
+   "Proceeds directly from the Universal Father (107:1.2)"
+  ],
+  [
+   "Nature",
+   "Diverse, original, and exclusive (16:8.3)",
+   "Identical in nature as it goes forth from the Father (16:8.3)"
+  ],
+  [
+   "Is it a personality?",
+   "Personality itself",
+   "Not a personality, yet a real entity (107:7.1)"
+  ],
+  [
+   "Sequence",
+   "Independent of and antecedent to the Adjuster bestowal (16:8.3)",
+   "Assigned after the first moral decision (108:2.1)"
+  ],
+  [
+   "Link with the Father",
+   "The personality circuit (5:6.11)",
+   "Indwelling the mind (107:0.1)"
+  ]
+ ]
+}
+### ch09:40
+5. Personality as the Unifier
+### ch09:41
+When the Foreword says that personality “unifies all other associated factors of individuality” (0:5.11), it points to the function of personality. Paper 9 says the same: “The personality is the unifier of these components of experiential individuality” (9:4.6). If body, mind, and spirit moved separately, a human being could not be a single subject. What binds these elements into one ‘who’ is personality.
+### ch09:43
+Thinking, feeling, and wishing can each point in a different direction. What gathers them into action in a single direction is not a part but the whole personality. Here Paper 112 distinguishes between the self and personality. The summation of the parts constitutes selfhood, that is, individuality, but such a process “has nothing whatever to do with personality, which is the unifier of all these factors as related to cosmic realities” (112:1.18). The self is what is gathered; personality is what gathers.
+### ch09:44
+6. Consequences: Fellowship, Choice, and Survival
+### ch09:45
+Three consequences follow from the doctrine that personality is the Father's gift. The first is fellowship. Because God and man are both persons, a communion beyond mere interaction is possible between them.
+### ch09:47
+This fellowship is not achieved by man's dissolving into God. Because personality is unique, the way to union with God must also be a way between person and person.
+### ch09:49
+The second is the sovereignty of choice. Once the Father has given personality, he does not force the eternal destiny of that personality. Paper 5 settles this with the word ‘decree.’
+### ch09:51
+This sovereignty is a limit the Father has set for himself. Having given personality and provided for the growth of the soul, the Father “stands aside” (5:6.8). A coerced eternity is not what the Father desires.
+### ch09:53
+The third is a conditioned eternity. Because personality comes from the Father, it carries the potential of eternity, but man must decide for himself whether he will take part in that eternity.
+### ch09:55
+A person's choice, then, does not end as one person's affair. Paper 112 says that upon the fidelity of the mortal will the Adjuster depends for eternal personality, the Universal Father for the realization of a new ascending son, and the Supreme Being for the actuality of experiential evolution (112:5.5). The choice of one personality is interlocked with the whole plan of God.
+### ch09:56
+{
+ "cap": "Table 9.5  The Chain of Logic in the Doctrine of Personality",
+ "rows": [
+  [
+   "Link",
+   "Content",
+   "Source"
+  ],
+  [
+   "Definition",
+   "A quality that is neither mind nor spirit; either there is personality or there is none",
+   "5:6.3, 0:5.11"
+  ],
+  [
+   "Ground",
+   "Only the Father, the primal personality, bestows personality",
+   "12:7.6, 5:6.4, 1:6.1"
+  ],
+  [
+   "Structure",
+   "Self-consciousness, relative free will, absolute uniqueness",
+   "16:8.5, 12:7.9"
+  ],
+  [
+   "Function",
+   "Unifies body, mind, and spirit into one subject",
+   "0:5.11, 9:4.6, 112:2.7"
+  ],
+  [
+   "Connection",
+   "Every personality is within the Father's personality circuit",
+   "5:6.10, 5:6.11"
+  ],
+  [
+   "Consequence",
+   "Fellowship with God, the sovereignty of the will, a conditioned eternity",
+   "1:7.1, 5:6.8, 112:5.2"
+  ]
+ ]
+}
+### ch09:57
+In Closing: The Place of One Who Has Received a Gift
+### ch09:58
+The doctrine of personality can be summed up in a short chain. Personality is neither mind nor spirit; it cannot be built up through evolution; it is given only by the Universal Father, the primal personality. The personality so received shows itself in self-consciousness and relative free will; each one is irreplaceably unique; and all are within the Father's personality circuit. As a result, man can have fellowship with God, chooses his own destiny, and by that choice takes part in eternity. Yet the place where personality functions is mind. Choice, fellowship, and self-consciousness all take place through the medium of mind. The next chapter examines where this mind, which lies between matter and spirit, comes from and what structure it has.
+### ch09:59
+{
+ "title": "Questions for Reflection",
+ "items": [
+  "1. If personality is not “a progressive achievement” (5:6.3), then what actually grows when we say that a person grows and changes throughout life?",
+  "2. How does the fact that every personality is within the Father's personality circuit (5:6.11) give ground for the way I treat other people?",
+  "3. If God has made the sovereignty of the mortal will an absolute decree (5:6.8), how far does the responsibility entrusted to my choice extend?"
+ ]
+}

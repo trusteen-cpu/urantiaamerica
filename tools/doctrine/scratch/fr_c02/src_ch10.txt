@@ -1,0 +1,273 @@
+### ch10:label
+Chapter 10
+### ch10:title
+Mind
+### ch10:sub
+Between Matter and Spirit
+### ch10:0
+The previous chapter said that personality is a gift given from above. Yet personality does not function in a vacuum. Choosing, loving, and worshiping all take place in the setting of mind. In The Urantia Book, mind is a reality that lies between matter and spirit. Below, it touches the energies of the body; above, it touches the values of spirit. Paper 9 sums up the relation among these three realities in three words.
+### ch10:2
+If energy is thing and spirit is value, mind is the meaning that links the two. This chapter asks four questions. What is mind? Where does mind come from? What levels and structure does mind have? And what part does mind play in human destiny?
+### ch10:3
+1. Definition: Superimposed upon Energy
+### ch10:4
+The Foreword defines mind as “The thinking, perceiving, and feeling mechanism of the human organism” (0:5.8). But this mechanism does not spring up of itself from the matter of the brain. Paper 9, section 4, “The Absolute Mind,” draws a clear line between mind and energy.
+### ch10:6
+This is the first principle of the doctrine of mind. Mind is not a product of matter but a ministry added on top of matter. The brain is a vessel that receives mind; mind itself comes from above. Paper 112 puts this principle forward as an argument against materialism.
+### ch10:8
+There are two gulfs here. One is the gulf between matter and thought; the other is the still greater gulf between material mind and spiritual love. The first gulf is bridged by the mind ministry of the Infinite Spirit; the second is bridged by the ministry of spirit and by human choice. Mind stands precisely between these two gulfs. Paper 42 applies this principle to mind on every level.
+### ch10:10
+Mind is ‘the presence-activity of living ministry.’ That is, some being is rendering living service upon an energy system. From the reflexes of the lowest animal to the highest worship, wherever there is mind, there is always someone's ministry. Who that someone is becomes the next question.
+### ch10:11
+2. Source: The Infinite Spirit and His Ministers
+### ch10:12
+Just as the bestower of personality is the Universal Father, the bestower of mind is the Third Source and Center, the Infinite Spirit. Paper 9 stresses this point repeatedly.
+### ch10:14
+The last sentence is important. The Thought Adjuster does not indwell just any mind. The mind ministry of the Infinite Spirit must first prepare the way. Mind, then, is the reality that prepares the ground on which personality and the Adjuster meet. The mind of the Infinite Spirit does not come to man all at once; it descends through ministers on several levels. The Seven Master Spirits, as the cosmic mind, distribute mind to the grand universe (9:4.3); in the local universe the Universe Mother Spirit takes up that mind; and the seven adjutant mind-spirits minister to the minds of men and animals (9:5.3, 36:5.1).
+### ch10:15
+{
+ "cap": "Table 10.1  The Path by Which Mind Reaches Man",
+ "rows": [
+  [
+   "Stage",
+   "Minister",
+   "Text"
+  ],
+  [
+   "Source",
+   "The Third Source and Center (the Infinite Spirit): the bestower of mind",
+   "9:5.2"
+  ],
+  [
+   "Grand universe",
+   "The Seven Master Spirits: the sevenfold source of the cosmic mind",
+   "9:4.3, 16:6.1"
+  ],
+  [
+   "Local universe",
+   "The Universe Mother Spirit (Creative Spirit): the Nebadon modification of the cosmic mind",
+   "9:4.3, 9:5.4"
+  ],
+  [
+   "Human mind",
+   "The seven adjutant mind-spirits: the personal ministry of the Mother Spirit",
+   "36:5.1, 9:5.3"
+  ],
+  [
+   "Attraction",
+   "All mind is within the mind-gravity circuit of the Conjoint Actor",
+   "9:6.1, 9:6.2"
+  ]
+ ]
+}
+### ch10:16
+Along this path mind and personality arrive by different lines. Mind comes from the Infinite Spirit through his ministers; personality comes directly from the Father. Mind can therefore be given even to beings who have no personality.
+### ch10:18
+Animals have mind and are conscious, but they have no personality. Man has received personality on top of mind. Here the principle seen in the previous chapter is confirmed once more: the endowment of mind alone does not make personality. Paper 9 therefore calls the human mind a strand of the cosmic mind: the mind of man is “an individualized circuit, an impersonal portion, of that cosmic mind” (9:5.4). Is the human mind, then, divine? Here the revelator at once draws a boundary line.
+### ch10:20
+The source of mind is divine, but the human mind is not yet divine. The same section puts it plainly: “The Conjoint Creator is the source of mind, but mind is not the Conjoint Creator” (9:5.5). In the very next section Paper 9 calls this a compromise between the essence of thought perfection and the immature human nature (9:5.6).
+### ch10:22
+Its origin and destiny are divine, but its present state is not. This distinction among three tenses sets the right attitude toward mind. Man has no reason either to worship his mind or to despise it. The revelator laments that men mar their minds by insincerity and unrighteousness and distort them by useless anxiety, and says that the contemplation of the immature human intellect “should lead only to reactions of humility” (9:5.7). But that humility is not resignation. Because the destiny of mind is divine, the direction in which it is turned remains man's own responsibility.
+### ch10:23
+3. Structure: The Levels of Mind and the Seven Adjutant Mind-Spirits
+### ch10:24
+Paper 42, section 10, classifies the noncreator minds by level. This classification shows where the human mind stands on the universe ladder of mind.
+### ch10:25
+{
+ "cap": "Table 10.2  The Levels of Mind",
+ "rows": [
+  [
+   "Level",
+   "Minister",
+   "Characteristic",
+   "Text"
+  ],
+  [
+   "Preadjutant-spirit minds",
+   "The Master Physical Controllers",
+   "Nonexperiencing, mechanical mind; nonteachable",
+   "42:10.3"
+  ],
+  [
+   "Adjutant-spirit minds",
+   "The seven adjutant mind-spirits of the Mother Spirit",
+   "Experiencing mind; five in animals, seven in man",
+   "42:10.4"
+  ],
+  [
+   "Evolving morontia minds",
+   "The Mother Spirit and the Creator Son",
+   "Expanding consciousness in the ascending career",
+   "42:10.5"
+  ],
+  [
+   "Cosmic mind",
+   "The Seven Master Spirits",
+   "Embraces all finite levels of mind",
+   "42:10.6"
+  ]
+ ]
+}
+### ch10:26
+The ministry of the adjutant mind-spirits begins long before man appears. Paper 36 says that they set the direction of evolution.
+### ch10:28
+Evolution has a purpose because the ministry of mind has been present in life from the beginning. The human mind belongs to the second level, the adjutant-spirit mind. Animals also receive the ministry of the first five adjutant mind-spirits, but man receives all seven. The seven adjutant mind-spirits are listed in the order of their evolutionary attainment.
+### ch10:29
+{
+ "cap": "Table 10.3  The Seven Adjutant Mind-Spirits",
+ "rows": [
+  [
+   "Order",
+   "Name",
+   "The text's explanation"
+  ],
+  [
+   "1",
+   "The spirit of intuition",
+   "Quick perception, the primitive physical and inherent reflex instincts, the self-preservative endowment (36:5.6)"
+  ],
+  [
+   "2",
+   "The spirit of understanding",
+   "The impulse of co-ordination, the association of ideas, quick reasoning (36:5.7)"
+  ],
+  [
+   "3",
+   "The spirit of courage",
+   "The fidelity endowment, the basis of character acquirement (36:5.8)"
+  ],
+  [
+   "4",
+   "The spirit of knowledge",
+   "The curiosity-mother of adventure and discovery, the scientific spirit (36:5.9)"
+  ],
+  [
+   "5",
+   "The spirit of counsel",
+   "The social urge, the endowment of species co-operation (36:5.10)"
+  ],
+  [
+   "6",
+   "The spirit of worship",
+   "The religious impulse, the first differential urge (36:5.11)"
+  ],
+  [
+   "7",
+   "The spirit of wisdom",
+   "The inherent tendency toward orderly and progressive advancement, co-ordinating the other adjutants (36:5.12)"
+  ]
+ ]
+}
+### ch10:30
+Of these, the sixth is the threshold that separates man from the animals. The revelator speaks of the spirit of worship in these words.
+### ch10:32
+It is not the degree of intelligence that separates man from the animal. What separates them is the impulse to lift one's head toward something higher than oneself, which is worship. And the moment this threshold is crossed, mind enters another domain of ministry.
+### ch10:34
+The adjutant mind-spirits are not themselves personalities; they grow experientially but never become personal (36:5.13). They prepare the ground on which the ministry of spirit begins in man. That is also why the indwelling of the Thought Adjuster requires the functioning of all seven adjutant spirits (108:2.2).
+### ch10:35
+4. The Three Insights of the Cosmic Mind
+### ch10:36
+The human mind does not consist solely of the ministry of the adjutant mind-spirits. Above it is the cosmic mind. Paper 16, section 6, “The Cosmic Mind,” says that the cosmic mind responds unerringly to three levels of reality (16:6.5). This response is not something man learns and acquires; it is a foundation laid in the mind from the beginning.
+### ch10:37
+{
+ "cap": "Table 10.4  The Three Insights of the Cosmic Mind",
+ "rows": [
+  [
+   "Level of reality",
+   "The text's explanation",
+   "Form of discrimination",
+   "Human activity"
+  ],
+  [
+   "Causation",
+   "The reality domain of the physical senses, logical uniformity (16:6.6)",
+   "Mathematical form",
+   "Science (16:6.10)"
+  ],
+  [
+   "Duty",
+   "The reality domain of morals, the recognition of right and wrong (16:6.7)",
+   "Judicial form",
+   "Philosophy (16:6.10)"
+  ],
+  [
+   "Worship",
+   "The reality domain of religious experience, divine fellowship (16:6.8)",
+   "Reverential and worshipful form",
+   "Religion (16:6.10)"
+  ]
+ ]
+}
+### ch10:38
+Because of these three insights, man is able to pursue science, philosophy, and religion. The reason he can trust facts, the reason he can weigh what is right, and the reason he can seek God all lie deep within the mind. The revelator explains what this foundation protects man from.
+### ch10:40
+Man does not begin to think from nothing. The foundation for trusting causation, sensing duty, and desiring to worship is already present in the mind. Without it, science, philosophy, and religion would all be buildings standing on groundless assumptions. Yet this foundation does not grow of itself. The revelator regrets that so few mortals on Urantia take delight in cultivating these qualities (16:6.9). He therefore links this innate foundation to the goal of every human endeavor.
+### ch10:42
+The last phrase connects with the previous chapter. Mind possesses the three insights, but what binds them into one is personality. Mind is the material; personality is the unifier.
+### ch10:43
+5. Mind as the Arena of Choice
+### ch10:44
+What, then, does this mind do in human destiny? Paper 111, section 1, “The Mind Arena of Choice,” defines mind as the place where every decision is made.
+### ch10:46
+Evolution provided the body, and the Father gave the Adjuster. But mind is different.
+### ch10:48
+To say that life and death hang on mind does not mean that mind decides life and death, but that the decisions made within mind decide them. The same paper compares the roles of these three factors to a ship.
+### ch10:50
+In this figure mind is the ship. The ship is neither the captain nor the pilot. A ship can go in either direction. Thus the evolving mind lies between the mechanical and the spiritual, and the minds in between are those “whose stability and tranquillity are dependent upon personality choice and spirit identification” (111:1.7). In his conversation with Ganid on Cyprus, Jesus described what happens when the mind is divided.
+### ch10:52
+Unity of mind is not obtained by avoiding conflict. The same section adds that such peace is “attained by the stalwart assertion of the triumph of that which is true” (133:7.12). Depending on what it is dedicated to, the mind either scatters or becomes one.
+### ch10:53
+6. Consequence: The Destiny of Mind
+### ch10:54
+Mind is a bestowal of divinity, but it is not eternal in itself. This is the weightiest consequence of the doctrine of mind.
+### ch10:56
+Paper 111 says the same thing. Mortal mind is “a temporary intellect system loaned to human beings for use during a material lifetime” (111:1.5). What is borrowed must be returned. But the fruit of the decisions made with the borrowed mind remains. To the extent that mind identifies with spirit, that fruit is gathered into the newborn soul, and mind itself gains the way to pass over into morontia mind. The birth of this soul is treated in Chapter 12. As Paper 9 says, in the time universes mind “seems to function in a mid-zone between energy and spirit” (9:6.7). The destiny of mind is not to remain in that mid-zone but to cross over, through choice, to the side of spirit.
+### ch10:57
+{
+ "cap": "Table 10.5  The Chain of Logic in the Doctrine of Mind",
+ "rows": [
+  [
+   "Link",
+   "Content",
+   "Source"
+  ],
+  [
+   "Definition",
+   "A living ministry superimposed upon energy, the reality of meaning",
+   "9:4.2, 9:4.5, 42:10.7"
+  ],
+  [
+   "Ground",
+   "The Infinite Spirit is the bestower of mind and ministers through the Master Spirits and the Mother Spirit",
+   "9:5.2, 9:4.3, 36:5.1"
+  ],
+  [
+   "Structure",
+   "The seven adjutant mind-spirits and the three insights of the cosmic mind",
+   "36:5.6–36:5.12, 16:6.5–16:6.8"
+  ],
+  [
+   "Function",
+   "The arena of choice in which personality chooses God or forsakes him",
+   "111:1.3, 111:1.9"
+  ],
+  [
+   "Consequence",
+   "Not immortal apart from spirit identification; a temporary system on loan",
+   "36:5.17, 111:1.5"
+  ]
+ ]
+}
+### ch10:58
+In Closing: The Place of Meaning
+### ch10:59
+To thread the doctrine of mind together once more: energy is thing, spirit is value, and mind creates meaning between the two. Mind does not spring from matter but is superimposed upon energy, and its source is the Infinite Spirit. The human mind receives the ministry of the seven adjutant mind-spirits and the three insights of the cosmic mind, and so becomes able to pursue science, philosophy, and religion. Yet that mind is not yet divine, and unless it identifies with spirit, it is not eternal either. Mind is the arena in which personality chooses God or forsakes him. Into that very arena the Father himself has come down to dwell. The next chapter examines God indwelling the mind, the Thought Adjuster.
+### ch10:60
+{
+ "title": "Questions for Reflection",
+ "items": [
+  "1. How does the distinction “Energy is thing, mind is meaning, spirit is value” (9:4.5) shed light on the way I spend my day?",
+  "2. If the spirit of worship distinguishes man from the animal (36:5.11), what does it mean to say that worship, not intelligence, is the threshold of being human?",
+  "3. If mind is the ship and the will is the captain (111:1.9), what conflicts are now unsettling the ship of my mind?"
+ ]
+}

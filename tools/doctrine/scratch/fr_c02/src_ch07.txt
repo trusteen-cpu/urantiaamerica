@@ -1,0 +1,340 @@
+### ch07:label
+Chapter 7
+### ch07:title
+Angelology
+### ch07:sub
+The Ministering Spirits
+### ch07:0
+The Sons of God in Chapter 6 build, rule, judge, and teach the universe. But the work of the universe is not accomplished by governing alone. Alongside governing there must always be care. In The Urantia Book those entrusted with that care are the angels, the ministering spirits. If the Sons chiefly reveal the will of the Father and the Eternal Son, the angels personally carry the ministry of the Third Source and Center, the Infinite Spirit.
+### ch07:1
+The doctrine of angels is often overlaid with imagination and legend. This chapter asks what The Urantia Book actually says about angels. Where do angels come from, and what is their nature? What do they do for man, and what do they not do? And how far does the relationship between angels and men extend?
+### ch07:2
+1. The Family of Ministering Spirits
+### ch07:3
+The Urantia Book does not lump the angels together into a single throng. The angels are divided into seven orders spread across the three levels of the universe: the central universe, the superuniverses, and the local universes. What all of them share is service.
+### ch07:5
+{
+ "cap": "Table 7.1  The Seven Orders of Ministering Spirits and Their Spheres of Service",
+ "rows": [
+  [
+   "Order",
+   "Sphere of service",
+   "Origin",
+   "Source"
+  ],
+  [
+   "Supernaphim",
+   "The central universe (Paradise-Havona)",
+   "Primary: the Infinite Spirit; secondary and tertiary: the Master Spirits and the Spirits of the Circuits",
+   "26:1.3, 26:1.12"
+  ],
+  [
+   "Seconaphim",
+   "The superuniverses",
+   "The Reflective Spirits",
+   "26:1.4, 26:1.13"
+  ],
+  [
+   "Tertiaphim",
+   "The superuniverses (liaison service for the Creator Sons and the Ancients of Days)",
+   "The Infinite Spirit",
+   "26:1.5, 26:1.13"
+  ],
+  [
+   "Omniaphim",
+   "The superuniverses",
+   "—",
+   "26:1.6, 26:1.13"
+  ],
+  [
+   "Seraphim",
+   "The local universes",
+   "The Universe Mother Spirit",
+   "26:1.7, 26:1.14, 38:1.1"
+  ],
+  [
+   "Cherubim and sanobim",
+   "The local universes (aids to the seraphim)",
+   "The Universe Mother Spirit",
+   "26:1.8, 26:1.14, 38:7.1"
+  ],
+  [
+   "Midway creatures",
+   "The inhabited worlds (grouped functionally with the ministering spirits)",
+   "Born on the mortal-inhabited worlds",
+   "26:1.9, 26:1.14"
+  ]
+ ]
+}
+### ch07:6
+The first angels man meets are the seraphim and cherubim of the local universe. They are the children of the Universe Mother Spirit. And the time of their creation is significant. The seraphim were not made as ornaments of the universe but as a provision for man.
+### ch07:8
+When the plan for the evolution of will creatures is laid, the angels who will serve them are created along with it. From the beginning, the reason for the angels' existence is bound up with man's ascent. So angelology is at once a part of cosmology and a part of the doctrine of salvation. Moreover, the seraphim do not differ greatly in form from universe to universe. They are standard workers who can be trusted and relied upon in any universe.
+### ch07:10
+2. The Nature of Angels: Companions a Little Ahead of Man
+### ch07:11
+Angels have no bodies, but that does not mean they are unreal. They are distinct individuals, and they understand human life from within.
+### ch07:13
+The distance between angels and men is closer than we might think. Paper 38 says that in personal status angels are “not so far removed from human beings, in certain functional performances seraphim far transcend them” (38:2.3).
+### ch07:15
+The statement that angels are ‘a trifle’ ahead of man is important. Angels are not divine beings of an entirely different dimension from man but companions walking a little ahead on the same road. When man lays aside the body and reaches the mansion worlds, he becomes very much like the angels. From this nearness comes the right attitude toward angels: they are companions to be loved, but not objects of worship.
+### ch07:17
+{
+ "cap": "Table 7.2  Angels and Men: Likenesses and Differences",
+ "rows": [
+  [
+   "Aspect",
+   "Angels (seraphim)",
+   "Men",
+   "Source"
+  ],
+  [
+   "Body",
+   "No material body; invisible to man",
+   "Have material bodies",
+   "38:2.1"
+  ],
+  [
+   "Perception",
+   "Perceive man as he is in the flesh without transformers",
+   "In the first life usually unaware of angels",
+   "38:2.1, 113:4.2"
+  ],
+  [
+   "Personal status",
+   "A trifle ahead of man",
+   "Created a little lower than the simpler types of angels",
+   "38:2.6, 113:7.3"
+  ],
+  [
+   "Powers",
+   "Far transcend man in certain functions",
+   "—",
+   "38:2.3"
+  ],
+  [
+   "Relationship",
+   "Companions to be loved, but not objects of worship",
+   "All are enjoined to worship God",
+   "38:2.5"
+  ]
+ ]
+}
+### ch07:18
+3. The Seven Orders of Seraphim
+### ch07:19
+The seraphim of the local universe are in turn divided into seven orders. The Infinite Spirit seeks to produce uniform seraphim, but her children appear in great variety. The differences between the orders are not differences of merit but of assignment. Paper 39 explains that even the superior seraphim receive their name not because they are qualitatively superior but “because they are in charge of the higher activities of a local universe” (39:2.1).
+### ch07:21
+{
+ "cap": "Table 7.3  The Seven Orders of Local Universe Seraphim",
+ "rows": [
+  [
+   "Order",
+   "Chief service",
+   "Source"
+  ],
+  [
+   "1. Supreme seraphim",
+   "The highest of the revealed local universe angels; associated with the Seraphic Corps of Completion",
+   "39:1.1"
+  ],
+  [
+   "2. Superior seraphim",
+   "In charge of the higher activities of a local universe",
+   "39:2.1"
+  ],
+  [
+   "3. Supervisor seraphim",
+   "Devoted to the service of the constellations",
+   "39:3.1"
+  ],
+  [
+   "4. Administrator seraphim",
+   "The administrative duties of the local systems",
+   "39:4.1"
+  ],
+  [
+   "5. Planetary helpers",
+   "Serve the Planetary Adams of the evolutionary worlds",
+   "39:5.1"
+  ],
+  [
+   "6. Transition ministers",
+   "Help in the transition from the material to the spiritual state; education on the mansion worlds",
+   "39:6.1"
+  ],
+  [
+   "7. Seraphim of the future",
+   "Held in reserve in preparation for the age of light and life",
+   "39:7.1"
+  ]
+ ]
+}
+### ch07:22
+Beside the seraphim are the cherubim and sanobim who assist them. They share the seraphim's origin and resemble them in their essential endowments, but they are the lowest order of angels, and for that very reason they are man's nearest kin. Paper 38 describes them as “touchingly affectionate, and almost human” (38:7.1). In the world of angels, too, the lowly place is the near place. Following these seven orders from top to bottom, we can see that the work of the angels is arranged along a path that runs from the headquarters of the local universe through the constellations and systems to a single planet, and from that planet on to the mansion worlds. The revelators say that the farther along that path one goes, the more interesting the angels' work becomes. The ministry of angels “becomes of increasing interest as it nears the inhabited worlds, as it nears the actual problems faced by the men and women of time who are preparing themselves for the attempt to attain the goal of eternity” (39:5.1). The angelic hierarchy is a ladder of service reaching down toward man.
+### ch07:23
+4. The Guardians of Destiny: Angels at Man's Side
+### ch07:24
+The relationship between angels and men is closest in the ministry of the guardian angels. Paper 113 declares that this teaching is no fancy, and it explains in concrete terms how guardian angels are assigned to human beings. The basis of assignment is not race or social standing but a person's growth in intellect and spirituality, that is, the circle he has attained. At first one angel cares for many people together.
+### ch07:26
+As a person advances to the inner circles, the care becomes more personal. And when he reaches the third circle, a pair of seraphim is devoted to that one person alone.
+### ch07:28
+{
+ "cap": "Table 7.4  The Assignment of Guardian Angels According to Circle Growth",
+ "rows": [
+  [
+   "Circle attained",
+   "Assignment of guardian angels",
+   "Source"
+  ],
+  [
+   "Seventh (initial) circle",
+   "One guardian angel with one company of cherubim for one thousand people",
+   "113:1.7"
+  ],
+  [
+   "Sixth circle",
+   "A seraphic pair with one company of cherubim for five hundred",
+   "113:1.7"
+  ],
+  [
+   "Fifth circle",
+   "A pair of guardian seraphim with a group of cherubim for about one hundred",
+   "113:1.7"
+  ],
+  [
+   "Fourth circle",
+   "A pair of seraphim, assisted by one company of cherubim, for ten",
+   "113:1.7"
+  ],
+  [
+   "Third circle and beyond",
+   "A personal angel (in reality two) wholly devoted to one person",
+   "113:1.8"
+  ],
+  [
+   "Conditions for being called a guardian of destiny",
+   "One or more of: a supreme decision to become Godlike, entry into the third circle, or mustering into a reserve corps of destiny",
+   "113:2.1"
+  ]
+ ]
+}
+### ch07:29
+The task of guardianship is not forced upon the angels. They volunteer for this work, and assignments are made by weighing both the needs of the human being and the experience of the angel.
+### ch07:31
+Nor is this relationship mere official management. The revelators say that the angels “develop an abiding affection for their human associates” (113:2.5). The guardian angel loves the person in her charge. There is a logic to this way of assignment: angelic care responds to human decision. The more a person resolves to become like God and advances to the inner circles, the more the universe answers him with personal care. The ministry of angels does not substitute for man's growth; it follows that growth and supports it.
+### ch07:32
+5. What Angels Do and Do Not Do
+### ch07:33
+Angels help man, but there are clear limits to that help. Those limits exist to safeguard man's personality and free will.
+### ch07:35
+Nor do angels act according to man's moods or requests. They follow the mandates they receive from their superiors.
+### ch07:37
+How, then, do angels work? If the Adjuster works within, the angel works from without.
+### ch07:39
+The situations, the people, and the opportunities a person meets, the environment that calls for decisions, are the angel's place of work. That is why angelic guidance does not promise a comfortable life. Paper 113 says that to accept the guidance of a seraphim “rarely means attaining a life of ease” (113:4.3). It is man who chooses the road; the angel helps him make the best use of it.
+### ch07:42
+{
+ "cap": "Table 7.5  The Indwelling Adjuster and the Guardian Seraphim",
+ "rows": [
+  [
+   "Aspect",
+   "Thought Adjuster",
+   "Guardian seraphim",
+   "Source"
+  ],
+  [
+   "Whose presence",
+   "The presence of the Father",
+   "The personal agency of the ministry of the Infinite Spirit",
+   "113:3.3, 113:4.1"
+  ],
+  [
+   "Mode of operation",
+   "From within, through the soul",
+   "From the outside inward, through the social, ethical, and moral environment",
+   "113:4.1"
+  ],
+  [
+   "Responsibility",
+   "The essence of man's eternal nature",
+   "The teacher of man's evolving nature",
+   "113:4.2"
+  ],
+  [
+   "Rhythm of activity",
+   "—",
+   "Most active when the Adjuster is least active",
+   "113:4.5"
+  ],
+  [
+   "After death",
+   "The absent Adjuster holds the identity of the immortal being",
+   "Custodial trustee of the survival values of the sleeping soul",
+   "113:6.5"
+  ]
+ ]
+}
+### ch07:43
+To say that angels work from without does not mean that their work is shallow. The guardian seraphim weave into one the countless influences that reach a person. On the spiritual level, they make personal many ministries of the universe that would otherwise be impersonal and prepersonal. Paper 113 describes the functions of the seraphim on three levels, spiritual, intellectual, and physical, and of these, the work on the intellectual and physical levels is as follows.
+### ch07:45
+The working of the adjutant mind-spirits, the circuits of the Holy Spirit, the Spirit of Truth, and the work of the physical controllers do not in themselves wear the face of a personality. The angel weaves those impersonal ministries together to fit the life of a person. When the vast care of the universe reaches a single human being, it comes wearing the personal face of an angel. The Adjuster and the angel seem not to communicate with each other directly, yet they work together in perfect harmony. The presence of God guides a person from within, and the ministry of the Infinite Spirit shapes his environment from without. Between the two, man makes his own choices and grows his soul. The Adjuster is treated in detail in Chapter 11, and the soul in Chapter 12.
+### ch07:46
+6. A Companionship That Continues Beyond Death
+### ch07:47
+The ministry of angels does not end at death. When a person dies, the guardian seraphim take charge of and safeguard the survival values his soul has accumulated. Resurrection on the mansion worlds is accomplished through the co-operation of the Adjuster and the seraphim. Paper 113 pictures the scene briefly: “The Adjuster will identify you; the guardian seraphim will repersonalize you and then re-present you to the faithful Monitor of your earth days” (113:6.6).
+### ch07:48
+Upon awakening on the mansion worlds, a person sees these companions with his own eyes for the first time. And the companionship of the angels does not end there; it continues through the whole long journey of ascension. The stages of universe administration examined in Chapter 5 become the very path walked together with the angels.
+### ch07:50
+{
+ "cap": "Table 7.6  The Companionship of Seraphic Guardians on the Ascension Journey",
+ "rows": [
+  [
+   "Stage",
+   "What the seraphic guardians do",
+   "Source"
+  ],
+  [
+   "The mansion worlds",
+   "Become permanent seraphic associates; witness and certify the decrees of eternal union with the Adjuster",
+   "113:7.4"
+  ],
+  [
+   "Jerusem and the worlds of the system",
+   "Accompany the person who has attained the mature morontia estate",
+   "113:7.4"
+  ],
+  [
+   "Edentia and its seventy spheres of socialization",
+   "Go along and pilot the person to the Melchizedeks",
+   "113:7.4"
+  ],
+  [
+   "Salvington",
+   "Bring the person to stand face to face with the Sovereign of Nebadon",
+   "113:7.4"
+  ],
+  [
+   "The minor and major sectors and Uversa",
+   "Remain with the person to the receiving worlds, and hand him over to the seconaphim for the flight to Havona",
+   "113:7.4"
+  ]
+ ]
+}
+### ch07:51
+And this companionship is bound up with the angels' own destiny. Angels too ascend. Angels cannot start from the very lowest place, as man does, but they can reach Paradise through the work of leading men upward.
+### ch07:53
+Here service and ascension become one. The angel advances toward God by serving man, and man advances toward God by receiving the angel's service. The destinies of the two orders are fulfilled through each other. Of the angels who have attained Paradise, Paper 39 concludes:
+### ch07:55
+In Closing: A Universe Joined by Service
+### ch07:56
+The doctrine of angels can be summed up in a single chain. The angels are the children of the Infinite Spirit and the Universe Mother Spirit, created to serve will creatures when the evolution of such creatures is planned. They have no bodies, yet they are distinct personalities, companions a little ahead of man, to be loved but not worshiped. Their orders form a ladder of service from the headquarters of the local universe down to a single planet, and the care of the guardian angels becomes ever more personal in response to man's spiritual growth. They do not invade man's mind or will but work through his outward environment; beyond death they stand by him in the resurrection; and through that service they themselves attain Paradise. The universe ruled by the Sons is warmed by the service of the angels. In the next chapter we turn our gaze to examine how the material universe, the stage on which all these beings work, comes into being, from spirit through energy to matter.
+### ch07:57
+{
+ "title": "Questions for Reflection",
+ "items": [
+  "1. If angels do not invade the sanctity of the mind or manipulate the will (113:5.1), what should I hope for, and what should I not hope for, when I look for God's guidance?",
+  "2. If angels work through my social, ethical, and moral environment (113:4.1), what meaning do the situations in my life that call for decisions now carry?",
+  "3. If seraphim advance toward God by guiding a soul to the portals of Paradise (113:7.7), how is helping others connected with my own spiritual growth?"
+ ]
+}

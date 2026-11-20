@@ -39,8 +39,8 @@ T = {
  'ch12:35': "Le déplacement graduel de ce qu’une personne considère comme elle-même, du corps et du mental matériel vers l’âme, est la face intérieure de la croissance spirituelle. La progression à travers les sept cercles psychiques vue au chapitre 11 désigne aussi ce processus. Le révélateur dit que l’émergence de l’âme morontielle indique l’étendue et la profondeur de la maitrise des cercles (110:6.9).",
  'ch12:36': {"cap": "Tableau 12.3  Les quatre réalités en l’homme et leur relation à l’âme", "rows": [
    ["Réalité", "Relation à l’âme", "Source"],
-   ["Mental matériel", "Mère de l’âme ; le métier qui porte le tissu morontiel ; partiellement conscient de l’âme", "0:5.10, 111:2.2, 111:3.4"],
-   ["Ajusteur de Pensée", "Père de l’âme ; brode les modèles spirituels ; pleinement conscient de l’âme", "0:5.10, 111:2.2, 111:3.4"],
+   ["Mental matériel", "Mère de l’âme ; le métier qui porte le tissu morontiel ; partiellement conscient de l’âme", "0:5.10, 111:2.2 et 111:3.4"],
+   ["Ajusteur de Pensée", "Père de l’âme ; brode les modèles spirituels ; pleinement conscient de l’âme", "0:5.10, 111:2.2 et 111:3.4"],
    ["Personnalité", "Le pouvoir de choix, qui réside dans le mental matériel durant la vie, s’identifie de plus en plus avec l’âme", "111:3.2"],
    ["Âme", "L’embryon du futur véhicule morontiel de l’identité de la personnalité", "111:3.2"]]},
  'ch12:37': "5. L’âme peut-elle être perdue ?",
@@ -61,10 +61,10 @@ T = {
  'ch12:52': "Le voyage de l’âme ne s’achève pas sur les mondes des maisons. L’âme est d’abord entièrement morontielle, mais elle s’élève jusqu’au vrai niveau spirituel (111:3.3) et fusionne enfin avec l’Ajusteur. Cette fusion dénote que le mortel ascendant « a éternellement et irrévocablement choisi de faire la volonté du Père » (111:3.1). L’ascension après la mort est reprise au chapitre 26.",
  'ch12:53': {"cap": "Tableau 12.5  La chaine logique de la doctrine de l’âme", "rows": [
    ["Maillon", "Contenu", "Source"],
-   ["Définition", "Une réalité morontielle, ni matérielle ni spirituelle, née de la relation entre le mental et l’esprit", "0:5.10, 111:2.3, 111:2.7"],
+   ["Définition", "Une réalité morontielle, ni matérielle ni spirituelle, née de la relation entre le mental et l’esprit", "0:5.10, 111:2.3 et 111:2.7"],
    ["Fondement", "Une relation croissante est nécessaire entre la personnalité invariante et l’Ajusteur invariant", "112:0.15"],
    ["Naissance", "Quand l’Ajusteur arrive avec la première activité morale", "133:6.5"],
-   ["Croissance", "Grandit par les valeurs de vérité, de beauté et de bonté ; un processus d’éducation", "111:3.5, 111:3.6, 111:3.7"],
+   ["Croissance", "Grandit par les valeurs de vérité, de beauté et de bonté ; un processus d’éducation", "111:3.5, 111:3.6 et 111:3.7"],
    ["Condition", "Les erreurs ne font que retarder, mais la volonté peut rejeter la survie", "111:3.1, 16:9.3"],
    ["Destinée", "Le véhicule morontiel de la personnalité qui survit à la mort ; la fusion avec l’Ajusteur", "112:5.12, 111:3.2"]]},
  'ch12:54': "En conclusion : la seule chose que l’homme acquiert lui-même",
