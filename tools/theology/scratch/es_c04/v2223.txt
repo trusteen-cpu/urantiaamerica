@@ -1,0 +1,256 @@
+﻿ch22.t = Marriage and the Home
+ch22.sub = Evolution's Supreme Glory, the First School of Love
+ch22.sum = Marriage arose from mankind's adjustment to the two sexes, and its fruit, the home, is the supreme glory of the whole long and arduous evolutionary struggle. The Urantia Book does not sanctify marriage as a sacrament; it regards it as an essentially human institution, yet it says that the ideal mortal marriage is humanly sacred. Man and woman never fully understand each other, yet they need each other forever. The home is the founder of true morality and the place where the child first learns of God the Father. This chapter considers the nature of marriage, the complementarity of the sexes, the home as a school of morality, and the threats and hopes facing the home today.
+ch22.s1 = The Origin and Nature of Marriage
+ch22.s1.u1.k = The home is the supreme glory of the whole evolutionary struggle and the chief civilizing agency.
+ch22.s1.u1.p = Marriage cannot be explained by biological instinct alone. It is a social achievement, the fruit of mankind's long adjustment to the fact of two sexes, and from it the home arose. School, church, and state are all needed, but the child learns the essentials of living above all from home and neighborhood. Civilization depends less on the size of its institutions than on how soundly its homes function.
+ch22.s1.u2.k = Marriage is man's most exalted institution, but it is essentially human.
+ch22.s1.u2.p = Many religious traditions have regarded marriage as a sacrament joined by God. The Urantia Book corrects this view: the union of husband and wife is a material function of mortals on the evolutionary worlds and is not to be compared with the relation between God and man. Yet this does not make marriage a light matter. Sincere effort within marriage, like every other earnest endeavor, can yield much spiritual progress.
+ch22.s1.u3.k = The ideal mortal marriage is humanly sacred, a glorious ideal that lures mankind toward greater happiness.
+ch22.s1.u3.p = Seeing marriage as a human institution does not diminish its ideal. On the system capitals the Material Sons and Daughters actually embody that ideal, and earthly marriage grows toward it. Though that dream is seldom fully realized, marriage remains man's supreme dream of temporal ideality, ever luring mankind on to greater strivings for happiness.
+ch22.s2 = Man and Woman
+ch22.s2.u1.k = Man and woman never fully understand each other, yet they need and complement each other forever.
+ch22.s2.u1.p = The difference between the sexes is a gift to mankind before it is a cause of quarrels. Remarkably, the text says this difference does not end with mortal life but continues through the morontia and spirit careers, into Havona and even the Corps of the Finality. Two differing outlooks intrigue, stimulate, and help each other. Marriage is not an institution for erasing this difference but for adjusting it into co-operation.
+ch22.s2.u2.k = The real test of marriage is the continuous intimacy that is inescapable in family life.
+ch22.s2.u2.p = Courtship may begin in imagination and romance, but marriage is tested in the daily intimacy of living face to face. Two people raised to expect only self-gratification will find it hard to build a lifelong partnership of self-effacement, compromise, and devotion to children. The text points to the contradiction of a modern society that exalts love yet does little to prepare for marriage. Marriage is a matter of character more than of feeling.
+ch22.s2.u3.k = Marriage is not an individualistic ideal but the evolving social partnership of a man and a woman.
+ch22.s2.u3.p = As women's rights have grown, marriage is developing into an equal partnership founded on sexual fidelity, and this is a great advance. But the text warns against another extreme: a marriage that seeks to monopolize each other's whole personality and individuality is not healthy. Marriage is not only a private ideal of two people; it is also a public partnership functioning within the mores and laws of society.
+ch22.s3 = The Home as a School of Morality
+ch22.s3.u1.k = Family life is the progenitor of true morality and the first revelation of the heavenly Parent's love.
+ch22.s3.u1.p = In the home people learn patience, altruism, tolerance, and forbearance. The enforced association of living with differing personalities stabilizes character and stimulates its growth. But the deepest meaning of the home lies beyond this. Good parents come to understand the Creator's attitude toward his children, and to their children they become the first revelation of the love of the Paradise Parent. The brotherhood of man begins at home.
+ch22.s3.u2.k = A child's first concept of the heavenly Father depends wholly on the earthly father.
+ch22.s3.u2.p = Jesus' conversation with John Mark makes plain the spiritual weight of the home. The child gains his first impressions of the universe from his mother's care and forms his first picture of God through his father. The love and consistency of parents therefore shape a child's faith before any doctrinal instruction can. The first few years leave a deep mark on the whole of a life.
+ch22.s3.u3.k = Any attempt to shift parental responsibility to state or church will prove suicidal to civilization.
+ch22.s3.u3.p = In an industrial and urban age the cost of raising children rises, and children easily come to look like an economic burden. Yet the security of civilization depends on one generation's willingness to invest in the next, and that responsibility cannot be handed to other institutions. In place of patriarchal rule the text holds up the Andite family council, where every matter was discussed freely and frankly. A good home rests on brotherly co-operation.
+ch22.s4 = Threats and Hopes for the Home
+ch22.s4.u1.k = The greatest threat to family life is the rising tide of self-gratification, the modern pleasure mania.
+ch22.s4.u1.p = Marriage is the one institution that embraces all three motives of self-maintenance, self-perpetuation, and self-gratification. When the third swallows the other two, the home is shaken. The cravings of the soul cannot be satisfied by physical pleasure, and vanity and fashion have no power to build a home or rear children. This diagnosis speaks deeply to an age that sees marriage merely as a means to personal enjoyment.
+ch22.s4.u2.k = Man deserves to enjoy himself, but not at the cost of the home.
+ch22.s4.u2.p = The Urantia Book does not teach an asceticism that forbids pleasure; play, rest, and enjoyment are the rightful fruits of the long evolutionary struggle. But the goal of destiny must always be kept in view. If self-gratification destroys marriage and dissolves the home, the price paid is far too high, for the home is man's highest evolutionary achievement and the only hope for the survival of civilization.
+ch22.s4.u3.k = The family stood at the center of Jesus' philosophy of life, and true religion and a wise home ennoble each other.
+ch22.s4.u3.p = Jesus built his teaching about God in the language of the family: God is Father, men are his children and brothers to one another. He exalted family life as the highest human duty, yet he made it plain that family relationships must not interfere with religious obligations. And the love of a wise home and the devotion of true religion strengthen each other. The home is the first soil in which the gospel takes root.
+ch22.qs1 = How does seeing marriage not as a sacrament but as a humanly sacred institution change my view of marriage?
+ch22.qs2 = How has my concept of God been shaped by the home and parents I grew up with?
+ch22.qs3 = What could we change in our home today to nurture mutual devotion rather than self-gratification?
+ch23.t = The State
+ch23.sub = Government for the People and the Sovereignty of Mankind
+ch23.sum = The state is not an institution handed down from heaven but an evolutionary achievement that society has won from the ravages of war. The Urantia Book values what a government does above the form it takes, and it holds that no state can transcend the moral values of its citizens. The ideal state is moved by the loyalty of love, intelligent patriotism, and cosmic insight; it governs least and co-ordinates most. And if the world is to know lasting peace, it must pass beyond the illusion of unlimited national sovereignty to the sovereignty of mankind. This chapter considers the nature of the state, the ideal state, sovereignty and peace, and the twofold responsibility of being a son of the kingdom and a citizen of an earthly nation.
+ch23.s1 = The Origin and Nature of the State
+ch23.s1.u1.k = The state is not of divine origin; it is a purely evolutionary institution.
+ch23.s1.u1.p = Throughout history many states have presented themselves as sacred orders and demanded absolute loyalty from their citizens. The text strips away that myth. The state is an institution that survived the long struggle for group power, the net gain society has drawn from the sufferings of war. It is useful and necessary, but it is not divine. This recognition is the starting point of a balanced citizenship that neither worships nor despises the state.
+ch23.s1.u2.k = The only divine feature of human government is its division into executive, legislative, and judicial domains.
+ch23.s1.u2.p = The state itself is not divine, but one principle in it mirrors the way the universe is governed: the division of power into three branches that balance one another. After the long struggle over the concentration of power, it has become clear that evolutionary peoples are best governed by a balanced representative government. Beyond this, the form matters little so long as citizens grow toward self-control and service.
+ch23.s1.u3.k = What a state does matters more than what it is, and no state can transcend the morals of its citizens.
+ch23.s1.u3.p = Political debate often centers on the names of systems. The text shifts the focus: what matters is not what a state is but what it does. And in the end a government mirrors the leaders its citizens choose; ignorance and selfishness will bring down even the best institutions. A good state therefore begins with good citizens, and reform of the state cannot be separated from the moral growth of individuals.
+ch23.s2 = The Ideal State
+ch23.s2.u1.k = The ideal state is moved by three impulses: the loyalty of love, intelligent patriotism, and cosmic insight.
+ch23.s2.u1.p = The idea of a chosen people once bound tribes together and built nations, but intolerance is forever hostile to human progress. The ideal state rests not on exclusive patriotism but on a loyalty of love born of realizing the brotherhood of man. Patriotism is sound only when founded on wise ideals, and it must be guided by an insight that interprets the planet's needs from a cosmic viewpoint. Love of country finds its rightful place within the love of mankind.
+ch23.s2.u2.k = The best state governs the least and co-ordinates the most.
+ch23.s2.u2.p = A moral society aims to preserve the self-respect of its citizens and to give everyone an adequate opportunity for self-realization. This is achieved not by heavy control but by minimal regulation and broad co-ordination. Nor is the ideal state imposed from above; it comes as civic consciousness slowly grows. When people who once bore public office as a burden come to seek it as an honored privilege, civilization rises a level.
+ch23.s2.u3.k = In the advanced state, political service is esteemed as the highest devotion of citizens.
+ch23.s2.u3.p = Cynical contempt for politics ends by handing power to the incompetent and the selfish. The text paints a different picture: the wisest and noblest citizens make public office their highest ambition, and society gives its greatest honors to its public servants. People are free to form their own governments, and with that freedom comes the responsibility to choose those intellectually and morally fit to serve.
+ch23.s3 = Sovereignty and World Peace
+ch23.s3.u1.k = Citizens are not born for the government; government exists for the benefit of the people.
+ch23.s3.u1.p = The revelators restate in modern terms the principles of sovereignty Jesus taught at Urmia. True sovereignty exists on only two levels: the spiritual free will of the individual and the collective sovereignty of mankind as a whole. Every group in between, whether tribe, people, or nation, has value only insofar as it furthers the welfare of the individual and of mankind. When the state makes itself the end, the order is inverted.
+ch23.s3.u2.k = War is only a symptom; the real disease is the virus of unlimited national sovereignty.
+ch23.s3.u2.p = Many efforts for peace concentrate on reducing arms and signing treaties. The text says these do not touch the root. Even if every weapon were taken away, nations that cling to the absoluteness of their sovereignty would fight with fists and stones. The problem lies not in the instruments but in the idea. To end war, mankind's very concept of sovereignty must change.
+ch23.s3.u3.k = A world government of mankind does not surrender sovereignty but creates true sovereignty.
+ch23.s3.u3.p = The phrase world government often stirs fear of a vast power that would swallow individual liberty. The text says the opposite. Present nations have never possessed a true sovereignty able to protect them from world war. When local matters are handled locally, national matters nationally, and international matters by a world government, the individual will enjoy far more freedom than now.
+ch23.s3.u4.k = Liberty is a gift of civilization made possible by the enforcement of law.
+ch23.s3.u4.p = Absolute liberty for one means absolute bondage for another. Liberty is therefore always relative, and it can be shared only under laws that secure equal freedom for all. Religion makes the brotherhood of mankind spiritually possible, but for that brotherhood to be realized in social, economic, and political life, the vessel of government is needed. Faith and institutions do not replace each other; they complete each other.
+ch23.s4 = The Kingdom of God and the Earthly State
+ch23.s4.u1.k = The Most Highs rule in the kingdoms of men, and there is no chosen people.
+ch23.s4.u1.p = Earthly politics may look like a purely human affair, but the text says the rule of the Most Highs stands above it. That rule favors no particular people; it is designed to bring the greatest good to the greatest number for the longest time. No nation, then, can present itself as God's sole instrument. The spiritual sovereignty of God takes precedence over every intermediate loyalty.
+ch23.s4.u2.k = Because he is a son of the heavenly kingdom, the believer should be a better citizen of the earthly state.
+ch23.s4.u2.p = Jesus taught that there is no conflict between sonship in the kingdom of God and citizenship on earth. The believer bears duties to man and to God, and willingly takes on a third, the service of the brotherhood. Faith does not draw us out of the world; it makes us more honest and devoted citizens. Yet we must refuse to worship rulers or to use the power of the state for spiritual ends.
+ch23.qs1 = How does my loyalty to my own country harmonize with my love for all mankind?
+ch23.qs2 = What can I do as a citizen toward a state that governs least and co-ordinates most?
+ch23.qs3 = In what ways does being a son or daughter of the kingdom make me a better citizen?
+=== ch22.s1.u1.q1#0  [82:0.1]  auto
+EN quote : MARRIAGE—mating—grows out of bisexuality. Marriage is man's reactional adjustment to such bisexuality, while the family life is the sum total resulting from all such evolutionary and adaptative adjustments. … Marriage has given mankind the home, and the home is the crowning glory of the whole long and arduous evolutionary struggle.
+ES quote : EL MATRIMONIO —el apareamiento— surge de la bisexualidad. El matrimonio es el ajuste por reacción del hombre a dicha bisexualidad, mientras que la vida familiar es la suma que resulta de todos los ajustes evolucionarios y de adaptación. … El matrimonio ha otorgado a la humanidad el hogar, y el hogar es la gloria coronadora de toda la larga y ardua lucha evolucionaria.
+
+=== ch22.s1.u1.q2#0  [82:0.2]  auto  (whole verse)
+EN quote : While religious, social, and educational institutions are all essential to the survival of cultural civilization, the family is the master civilizer. A child learns most of the essentials of life from his family and the neighbors.
+ES quote : Aunque las instituciones religiosas, sociales y educacionales son esenciales para la supervivencia de la civilización cultural, la familia es el civilizador magistral. El niño aprende la mayor parte de la esencia de la vida de su familia y de los vecinos.
+
+=== ch22.s1.u2.q1#0  [83:8.1]  auto
+EN quote : Marriage which culminates in the home is indeed man's most exalted institution, but it is essentially human; it should never have been called a sacrament.
+ES quote : El matrimonio que culmina en el hogar es indudablemente la institución más excelsa del hombre, pero es esencialmente humana; no debería haber sido llamada nunca un sacramento.
+
+=== ch22.s1.u2.q2#0  [83:8.2]  auto
+EN quote : The union of husband and wife in the marriage-home relationship is a material function of the mortals of the evolutionary worlds. True, indeed, much spiritual progress may accrue consequent upon the sincere human efforts of husband and wife to progress, but this does not mean that marriage is necessarily sacred. Spiritual progress is attendant upon sincere application to other avenues of human endeavor.
+ES quote : La unión de marido y mujer en la relación matrimonio-hogar es una función material de los mortales de los mundos evolucionarios. En verdad es posible acumular gran cantidad de progreso espiritual mediante los sinceros esfuerzos humanos de marido y mujer por progresar, pero esto no significa que el matrimonio sea necesariamente sagrado. El progreso espiritual depende de la aplicación sincera a otras avenidas de la empresa humana.
+
+=== ch22.s1.u3.q1#0  [83:8.5]  auto  (whole verse)
+EN quote : Nevertheless, there is an ideal of marriage on the spheres on high. On the capital of each local system the Material Sons and Daughters of God do portray the height of the ideals of the union of man and woman in the bonds of marriage and for the purpose of procreating and rearing offspring. After all, the ideal mortal marriage is humanly sacred.
+ES quote : Sin embargo, existe un ideal matrimonial en las esferas de lo alto. En la capital de cada sistema local los Hijos e Hijas Materiales de Dios ilustran la elevación de los ideales de la unión del hombre y la mujer en los lazos del matrimonio y para el propósito de procrear y criar a los vástagos. Después de todo, el ideal mortal del matrimonio es humanamente sagrado.
+
+=== ch22.s1.u3.q2#0  [83:8.6]  auto
+EN quote : Marriage always has been and still is man's supreme dream of temporal ideality. Though this beautiful dream is seldom realized in its entirety, it endures as a glorious ideal, ever luring progressing mankind on to greater strivings for human happiness.
+ES quote : El matrimonio siempre ha sido y sigue siendo el supremo sueño de idealismo temporal del hombre. Aunque este hermoso sueño pocas veces se realiza en su plenitud, perdura como ideal glorioso, atrayendo para siempre a la humanidad en progreso hacia mayores esfuerzos para la felicidad humana.
+
+=== ch22.s2.u1.q1#0  [84:6.6]  auto
+EN quote : Men and women need each other in their morontial and spiritual as well as in their mortal careers. The differences in viewpoint between male and female persist even beyond the first life and throughout the local and superuniverse ascensions. And even in Havona, the pilgrims who were once men and women will still be aiding each other in the Paradise ascent.
+ES quote : Los hombres y las mujeres se necesitan mutuamente en sus carreras morontiales y espirituales así como también en sus carreras mortales. Las diferencias de puntos de vista entre hombres y mujeres persisten aun más allá de la primera vida y a lo largo de las ascensiones en el universo local y en el superuniverso. Aun en Havona, los peregrinos que otrora fueran hombres y mujeres seguirán ayudándose mutuamente en el ascenso al Paraíso.
+
+=== ch22.s2.u1.q2#0  [84:6.7]  auto  (whole verse)
+EN quote : While the sexes never can hope fully to understand each other, they are effectively complementary, and though co-operation is often more or less personally antagonistic, it is capable of maintaining and reproducing society. Marriage is an institution designed to compose sex differences, meanwhile effecting the continuation of civilization and insuring the reproduction of the race.
+ES quote : Aunque los sexos no podrán esperar jamás comprenderse plenamente, son efectivamente complementarios, y aunque frecuentemente haya mayor o menor antagonismo personal entre ellos, su cooperación es capaz de mantener y reproducir la sociedad. El matrimonio es una institución concebida para componer las diferencias sexuales, contribuyendo a la vez a la continuación de la civilización y asegurando la reproducción de la raza.
+
+=== ch22.s2.u2.q1#0  [83:7.6]  auto  (whole verse)
+EN quote : The real test of marriage, all down through the ages, has been that continuous intimacy which is inescapable in all family life. Two pampered and spoiled youths, educated to expect every indulgence and full gratification of vanity and ego, can hardly hope to make a great success of marriage and home building—a lifelong partnership of self-effacement, compromise, devotion, and unselfish dedication to child culture.
+ES quote : La verdadera prueba del matrimonio, a lo largo de las edades, ha sido esa intimidad continua que es inescapable en toda vida familiar. Dos jóvenes mimados y sobreprotegidos, educados a esperar toda indulgencia y plena gratificación de su vanidad y ego, no tendrán gran éxito en el matrimonio y la construcción del hogar —una asociación vitalicia que implica autosacrificio, compromiso, devoción y dedicación altruista a la puericultura.
+
+=== ch22.s2.u2.q2#0  [83:7.9]  auto
+EN quote : The great inconsistency of modern society is to exalt love and to idealize marriage while disapproving of the fullest examination of both.
+ES quote : La gran contradicción de la sociedad moderna consiste en exaltar el amor e idealizar el matrimonio mientras que desaprueba al mismo tiempo el examen pleno de ambos.
+
+=== ch22.s2.u3.q1#0  [83:8.8]  auto
+EN quote : In concept, at least, the family is becoming a loyal partnership for rearing offspring, accompanied by sexual fidelity. But even this newer version of marriage need not presume to swing so far to the extreme as to confer mutual monopoly of all personality and individuality. Marriage is not just an individualistic ideal; it is the evolving social partnership of a man and a woman, existing and functioning under the current mores, restricted by the taboos, and enforced by the laws and regulations of society.
+ES quote : Por lo menos en teoría, la familia se está volviendo una asociación leal para la crianza de la prole, acompañada de fidelidad sexual. Pero aun esta versión más reciente del matrimonio no debe llegar a tal extremo de conferir monopolio mutuo de entera personalidad e individualidad. Matrimonio no es tan sólo un ideal individualista; es la asociación social evolutiva de un hombre y una mujer, establecida por las costumbres actuales, restringida por los tabúes y regida por las leyes y reglamentaciones de la sociedad.
+
+=== ch22.s3.u1.q1#0  [84:7.28]  auto
+EN quote : The family is the fundamental unit of fraternity in which parents and children learn those lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men.
+ES quote : La familia es la unidad fundamental de la fraternidad en la que padres e hijos aprenden esas lecciones de paciencia, altruismo, tolerancia e indulgencia que son tan esenciales para la realización de la hermandad entre los hombres.
+
+=== ch22.s3.u1.q2#0  [84:7.30]  auto
+EN quote : Family life is the progenitor of true morality, the ancestor of the consciousness of loyalty to duty. … But even more, a true family—a good family—reveals to the parental procreators the attitude of the Creator to his children, while at the same time such true parents portray to their children the first of a long series of ascending disclosures of the love of the Paradise parent of all universe children.
+ES quote : La vida familiar es el progenitor de la verdadera moralidad, el antepasado de la conciencia de la lealtad al deber. … Pero aún más, la verdadera familia —una buena familia— revela a los procreadores paternos la actitud del Creador hacia sus hijos, mientras que al mismo tiempo estos verdaderos padres ilustran para sus hijos la primera de una larga serie de revelaciones en el ascenso del amor del Padre Paradisiaco por todos sus hijos universales.
+
+=== ch22.s3.u2.q1#0  [177:2.5]  auto
+EN quote : The child must derive his first impressions of the universe from the mother's care; he is wholly dependent on the earthly father for his first ideas of the heavenly Father. … A human being's entire afterlife is enormously influenced by what happens during the first few years of existence.
+ES quote : El niño deriva sus primeras impresiones del universo, de los cuidados de su madre; depende completamente del padre terrenal para sus primeras ideas sobre el Padre celestial. … La vida entera de un ser humano está enormemente influida por lo que sucede durante los primeros pocos años de su existencia.
+
+=== ch22.s3.u3.q1#0  [84:7.27]  auto
+EN quote : Family life has become more and more costly, while children, who used to be an asset, have become economic liabilities. But the security of civilization itself still rests on the growing willingness of one generation to invest in the welfare of the next and future generations. And any attempt to shift parental responsibility to state or church will prove suicidal to the welfare and advancement of civilization.
+ES quote : La vida familiar se ha vuelto más y más costosa, mientras que los hijos, que solían ser un activo, se han vuelto un pasivo económico. Pero la seguridad de la civilización misma aún descansa en el desarrollo de la disposición de una generación en invertir en el bienestar de las generaciones próximas y futuras. Todo intento de transferir la responsabilidad paterna al estado o a la iglesia tendrá resultados suicidas sobre el bienestar y avance de la civilización.
+
+=== ch22.s3.u3.q2#0  [84:7.29]  auto
+EN quote : Human society would be greatly improved if the civilized races would more generally return to the family-council practices of the Andites. They did not maintain the patriarchal or autocratic form of family government. They were very brotherly and associative, freely and frankly discussing every proposal and regulation of a family nature.
+ES quote : La sociedad humana mejorará mucho si las razas civilizadas revierten más ampliamente al hábito de los consejos de familias practicado por los anditas. Éstos no mantenían una forma patriarcal o autocrática de gobierno familiar. Eran muy fraternales y asociativos, discutían libre y francamente toda propuesta y reglamentación de naturaleza familiar.
+
+=== ch22.s4.u1.q1#0  [84:8.1]  auto
+EN quote : The great threat against family life is the menacing rising tide of self-gratification, the modern pleasure mania. … Marriage, founded on self-maintenance, led to self-perpetuation and concomitantly provided one of the most desirable forms of self-gratification. It is the only institution of human society which embraces all three of the great incentives for living.
+ES quote : La gran amenaza de la vida familiar es la marejada de autogratificación en peligroso aumento, la manía moderna por el placer. … El matrimonio, cimentado en el automantenimiento, conducía a la autoperpetuación y paralelamente proveía una de las formas más deseables de autogratificación. Es la única institución de la sociedad humana que comprende los tres grandes incentivos de la vida.
+
+=== ch22.s4.u1.q2#0  [84:8.4]  auto
+EN quote : The hunger of the soul cannot be satisfied with physical pleasures; the love of home and children is not augmented by the unwise pursuit of pleasure. … Vanity and fashion cannot minister to home building and child culture; pride and rivalry are powerless to enhance the survival qualities of succeeding generations.
+ES quote : El hambre del alma no puede ser satisfecha por los placeres físicos; el amor del hogar y de los hijos no se aumenta con la búsqueda tonta del placer. … La vanidad y la moda no pueden ministrar al establecimiento del hogar y a la puericultura; el orgullo y la rivalidad no tienen poder alguno para elevar las calidades de sobrevivencia de las generaciones venideras.
+
+=== ch22.s4.u2.q1#0  [84:8.6]  auto
+EN quote : Man has well earned some of his present-day joys and pleasures. But look you well to the goal of destiny! Pleasures are indeed suicidal if they succeed in destroying property, which has become the institution of self-maintenance; and self-gratifications have indeed cost a fatal price if they bring about the collapse of marriage, the decadence of family life, and the destruction of the home—man's supreme evolutionary acquirement and civilization's only hope of survival.
+ES quote : El hombre bien ha ganado algunas de sus felicidades y placeres de hoy en día. ¡Pero no olvidéis el objetivo del destino! Los placeres son en verdad un suicidio si destruyen la propiedad privada, que se ha tornado la institución del automantenimiento; y las autogratificaciones por cierto han costado un precio fatal si traen aparejado el colapso del matrimonio, la decadencia de la vida familiar y la destrucción del hogar —la adquisición evolucionaria suprema del hombre y la única esperanza de la civilización por la supervivencia.
+
+=== ch22.s4.u3.q1#0  [140:8.14]  auto
+EN quote : The family occupied the very center of Jesus' philosophy of life—here and hereafter. He based his teachings about God on the family, while he sought to correct the Jewish tendency to overhonor ancestors. He exalted family life as the highest human duty but made it plain that family relationships must not interfere with religious obligations.
+ES quote : La familia ocupaba el centro mismo de la filosofía de la vida de Jesús —aquí y en lo sucesivo. Las enseñanzas sobre Dios las basaba en la familia, tratando al mismo tiempo de corregir la tendencia judía de honrar excesivamente a los antepasados. Exaltaba la vida familiar como el deber más alto de la humanidad, pero decía claramente que las relaciones familiares no deben interferir con las obligaciones religiosas.
+
+=== ch22.s4.u3.q2#0  [177:2.6]  auto
+EN quote : The love life of a wise home and the loyal devotion of true religion exert a profound reciprocal influence upon each other. Such a home life enhances religion, and genuine religion always glorifies the home.
+ES quote : La vida amorosa de un hogar sabio y la devoción leal de la verdadera religión ejercen una profunda influencia recíproca. Tal vida hogareña eleva la religión, y la religión genuina siempre glorifica el hogar.
+
+=== ch23.s1.u1.q1#0  [71:0.1]  auto  (whole verse)
+EN quote : THE state is a useful evolution of civilization; it represents society's net gain from the ravages and sufferings of war. Even statecraft is merely the accumulated technique for adjusting the competitive contest of force between the struggling tribes and nations.
+ES quote : EL ESTADO es una evolución beneficiosa de la civilización; representa la ganancia neta de la sociedad tras los estragos y sufrimientos de la guerra. Incluso la habilidad del estadista no es sino la acumulación de técnicas para ajustar la enconada contienda de fuerza entre las tribus y naciones en conflicto.
+
+=== ch23.s1.u1.q2#0  [71:0.2]  auto
+EN quote : The modern state is the institution which survived in the long struggle for group power. … But the state is not of divine genesis; it was not even produced by volitionally intelligent human action; it is purely an evolutionary institution and was wholly automatic in origin.
+ES quote : El estado moderno es la institución que sobrevivió a la prolongada lucha por el poder del grupo. … Mas el estado no es de génesis divina; ni siquiera fue producido por la acción humana volitivamente inteligente; es una institución puramente evolucionaria y tuvo un origen totalmente automático.
+
+=== ch23.s1.u2.q1#0  [71:8.1]  auto
+EN quote : The only sacred feature of any human government is the division of statehood into the three domains of executive, legislative, and judicial functions. The universe is administered in accordance with such a plan of segregation of functions and authority.
+ES quote : El único rasgo sagrado de todo gobierno humano es la división del estado en tres dominios de funciones ejecutivas, legislativas y judiciales. El universo se administra de acuerdo con este esquema de segregación de las funciones y la autoridad.
+
+=== ch23.s1.u2.q2#0  [70:12.1]  auto  (whole verse)
+EN quote : The great struggle in the evolution of government has concerned the concentration of power. The universe administrators have learned from experience that the evolutionary peoples on the inhabited worlds are best regulated by the representative type of civil government when there is maintained proper balance of power between the well-co-ordinated executive, legislative, and judicial branches.
+ES quote : La gran lucha en la evolución del gobierno se ha relacionado con la concentración del poder. Los administradores del universo sabían por experiencia propia que se regulan mejor los pueblos evolutivos en los mundos habitados mediante el tipo representativo de gobierno civil, cuando se mantiene el debido equilibrio del poder entre las ramas ejecutiva, legislativa y judicial bien coordinadas.
+
+=== ch23.s1.u3.q1#0  [71:3.1]  auto
+EN quote : It is not what a state is but what it does that determines the course of social evolution. And after all, no state can transcend the moral values of its citizenry as exemplified in their chosen leaders. Ignorance and selfishness will insure the downfall of even the highest type of government.
+ES quote : El curso de la evolución social está determinado por lo que hace un estado, no por lo que es un estado. A pesar de todo, ningún estado puede trascender los valores morales de su ciudadanía según se ejemplifican en sus mandatarios elegidos. La ignorancia y el egoísmo garantizan la caída hasta del tipo de gobierno más sobresaliente.
+
+=== ch23.s2.u1.q1#0  [71:3.2]  auto
+EN quote : The chosen people doctrine has been a prime factor in tribal welding and nation building right on down to modern times. But no state can attain ideal levels of functioning until every form of intolerance is mastered; it is everlastingly inimical to human progress.
+ES quote : La doctrina del pueblo elegido ha sido un factor primordial para unir las tribus y edificar las naciones hasta los tiempos modernos. Pero ningún estado puede alcanzar niveles ideales de funcionamiento hasta tanto no domine todas las formas de la intolerancia; ésta es perennemente adversa al progreso humano.
+
+=== ch23.s2.u1.q2#0  [71:3.3]  auto  (whole verse)
+EN quote : The ideal state functions under the impulse of three mighty and co-ordinated drives:
+ES quote : El estado ideal funciona bajo el impulso de tres fuerzas coordinadas y poderosas:
+
+=== ch23.s2.u1.q2#1  [71:3.4]  auto  (whole verse)
+EN quote : 1. Love loyalty derived from the realization of human brotherhood.
+ES quote : 1. La lealtad del amor que se deriva de la realización de la hermandad humana.
+
+=== ch23.s2.u1.q2#2  [71:3.5]  auto  (whole verse)
+EN quote : 2. Intelligent patriotism based on wise ideals.
+ES quote : 2. El patriotismo inteligente que se basa en ideales sabios.
+
+=== ch23.s2.u1.q2#3  [71:3.6]  auto  (whole verse)
+EN quote : 3. Cosmic insight interpreted in terms of planetary facts, needs, and goals.
+ES quote : 3. La compenetración cósmica que se interpreta en función de los hechos, necesidades y metas del planeta.
+
+=== ch23.s2.u2.q1#0  [71:3.9]  auto
+EN quote : A moral society should aim to preserve the self-respect of its citizenry and afford every normal individual adequate opportunity for self-realization. … Social evolution should be encouraged by governmental supervision which exercises a minimum of regulative control. That state is best which co-ordinates most while governing least.
+ES quote : Una sociedad moral debe proponerse preservar la dignidad de su ciudadanía y brindar a todo individuo normal una oportunidad adecuada para su autorrealización. … La evolución social debe ser fomentada por una supervisión gubernamental que ejerza un mínimo de control regulador. El mejor estado es aquél que coordina más y gobierna menos.
+
+=== ch23.s2.u2.q2#0  [71:3.10]  auto
+EN quote : The ideals of statehood must be attained by evolution, by the slow growth of civic consciousness, the recognition of the obligation and privilege of social service. At first men assume the burdens of government as a duty, following the end of the administration of political spoilsmen, but later on they seek such ministry as a privilege, as the greatest honor.
+ES quote : Los ideales de la existencia estatal se deben lograr mediante la evolución, el desarrollo lento de la conciencia cívica, el reconocimiento de la obligación y privilegio del servicio social. Después de una administración de oportunistas políticos, los hombres primero asumen las cargas del gobierno como deber, para más tarde ir en pos de este servicio porque lo consideran un privilegio, el honor máximo.
+
+=== ch23.s2.u3.q1#0  [71:3.12]  auto
+EN quote : In advanced states, political service is esteemed as the highest devotion of the citizenry. The greatest ambition of the wisest and noblest of citizens is to gain civil recognition, to be elected or appointed to some position of governmental trust, and such governments confer their highest honors of recognition for service upon their civil and social servants.
+ES quote : En los estados avanzados, el servicio político se considera la devoción máxima de la ciudadanía. La ambición suprema de los ciudadanos más sabios y nobles es ganar el reconocimiento civil, ser elegido o nombrado para alguna posición de confianza gubernamental, y que estos gobiernos confieran a sus funcionarios civiles y sociales sus honores máximos de reconocimiento por el servicio prestado.
+
+=== ch23.s2.u3.q2#0  [70:12.5]  auto
+EN quote : Urantia mortals are entitled to liberty; they should create their systems of government; they should adopt their constitutions or other charters of civil authority and administrative procedure. … For representatives in the legislative branch they should elect only those who are qualified intellectually and morally to fulfill such sacred responsibilities.
+ES quote : Los mortales de Urantia tienen derecho a la libertad; deben crear sus sistemas de gobierno; deben adoptar sus constituciones u otras cartas constitutivas de autoridad civil y procedimiento administrativo. … Como representantes de la rama legislativa deben elegirse únicamente a los que son intelectual y moralmente aptos para desempeñar estas sagradas responsabilidades.
+
+=== ch23.s3.u1.q1#0  [134:5.16]  auto
+EN quote : Citizens are not born for the benefit of governments; governments are organizations created and devised for the benefit of men.
+ES quote : Los ciudadanos no nacen para el beneficio de los gobiernos; los gobiernos son organizaciones creadas y concebidas para el beneficio de los hombres.
+
+=== ch23.s3.u1.q2#0  [134:5.2]  auto
+EN quote : There are only two levels of relative sovereignty on an inhabited world: the spiritual free will of the individual mortal and the collective sovereignty of mankind as a whole. Between the level of the individual human being and the level of the total of mankind, all groupings and associations are relative, transitory, and of value only in so far as they enhance the welfare, well-being, and progress of the individual and the planetary grand total—man and mankind.
+ES quote : Tan sólo hay dos niveles de soberanía relativa en un mundo habitado: el libre albedrío espiritual del mortal como individuo y la soberanía colectiva de toda la humanidad. Entre el nivel del ser humano individual y el nivel de la humanidad total, todas las agrupaciones y asociaciones son relativas, transitorias y de valor, únicamente si mejoran el bienestar y el progreso del individuo y de la humanidad en conjunto —el hombre y la humanidad.
+
+=== ch23.s3.u2.q1#0  [134:6.6]  auto  (whole verse)
+EN quote : It is not a question of armaments or disarmament. Neither does the question of conscription or voluntary military service enter into these problems of maintaining world-wide peace. If you take every form of modern mechanical armaments and all types of explosives away from strong nations, they will fight with fists, stones, and clubs as long as they cling to their delusions of the divine right of national sovereignty.
+ES quote : No se trata de armamento o de desarme. Tampoco influyen sobre el problema del mantenimiento de la paz mundial, los factores correspondientes al servicio militar obligatorio o voluntario. Si le quitáis a las naciones poderosas todas las armas mecánicas modernas y todos los tipos de explosivos, pelearán con los puños, piedras y palos, mientras que persistan en la ilusión de su derecho divino a la soberanía nacional.
+
+=== ch23.s3.u2.q1#1  [134:6.7]  auto  (whole verse)
+EN quote : War is not man's great and terrible disease; war is a symptom, a result. The real disease is the virus of national sovereignty.
+ES quote : La guerra no es la gran y terrible enfermedad del hombre; la guerra es un síntoma, un resultado. La verdadera enfermedad es el virus de la soberanía nacional.
+
+=== ch23.s3.u3.q1#0  [134:6.8]  auto
+EN quote : In the creation of the global government of mankind, the nations are not giving up sovereignty so much as they are actually creating a real, bona fide, and lasting world sovereignty which will henceforth be fully able to protect them from all war. Local affairs will be handled by local governments; national affairs, by national governments; international affairs will be administered by global government.
+ES quote : Al crear un gobierno mundial de la humanidad, las distintas naciones no dejan su soberanía como tal, sino que crean en realidad una soberanía mundial verdadera y permanente, que de ahí en adelante podrá protegerlas de todas las guerras. Los asuntos locales serán manejados por los gobiernos locales; los asuntos nacionales, por los gobiernos nacionales; los asuntos internacionales serán administrados por el gobierno mundial.
+
+=== ch23.s3.u3.q2#0  [134:6.10]  auto  (whole verse)
+EN quote : The individual will enjoy far more liberty under world government. Today, the citizens of the great powers are taxed, regulated, and controlled almost oppressively, and much of this present interference with individual liberties will vanish when the national governments are willing to trustee their sovereignty as regards international affairs into the hands of global government.
+ES quote : Con el gobierno mundial, el individuo gozará de una libertad mucho mayor. Hoy en día, los ciudadanos de las grandes potencias están gravados, regulados y controlados casi opresivamente, y gran parte de esta interferencia corriente con la libertad individual se desvanecerá cuando los gobiernos nacionales estén dispuestos a depositar su soberanía, en lo que se refiera a los asuntos internacionales, en las manos del gobierno mundial.
+
+=== ch23.s3.u4.q1#0  [134:6.1]  auto
+EN quote : If one man is to be absolutely free, then another must become an absolute slave. And the relative nature of freedom is true socially, economically, and politically. Freedom is the gift of civilization made possible by the enforcement of LAW.
+ES quote : Si un hombre es absolutamente libre, entonces otro habrá de ser un esclavo absoluto. La relativa naturaleza de la libertad es verdadera, social, económica y políticamente. La libertad es el don de la civilización, hecho posible por el vigor de la LEY.
+
+=== ch23.s3.u4.q2#0  [134:6.2]  auto  (whole verse)
+EN quote : Religion makes it spiritually possible to realize the brotherhood of men, but it will require mankind government to regulate the social, economic, and political problems associated with such a goal of human happiness and efficiency.
+ES quote : La religión permite la realización espiritual de la fraternidad de los hombres, pero hace falta un gobierno humano que regule los problemas sociales, económicos y políticos, relacionados con ese objetivo de felicidad y eficiencia humanas.
+
+=== ch23.s4.u1.q1#0  [134:5.3]  auto  (whole verse)
+EN quote : Religious teachers must always remember that the spiritual sovereignty of God overrides all intervening and intermediate spiritual loyalties. Someday civil rulers will learn that the Most Highs rule in the kingdoms of men.
+ES quote : Los maestros religiosos deben recordar siempre que la soberanía espiritual de Dios está por encima de todas las lealtades espirituales interpuestas e intermedias. Algún día aprenderán los gobernantes civiles que los Altísimos son quienes gobiernan en los reinos de los hombres.
+
+=== ch23.s4.u1.q2#0  [134:5.4]  auto
+EN quote : There is no such thing as a "chosen people." The rule of the Most Highs, the overcontrollers of political evolution, is a rule designed to foster the greatest good to the greatest number of all men and for the greatest length of time.
+ES quote : No existe tal cosa como un «pueblo elegido». El reinado de los Altísimos, los supercontroladores de la evolución política, es un régimen formado con el objeto de fomentar el máximo bien, para el máximo número de hombres, y durante un tiempo de la máxima longitud.
+
+=== ch23.s4.u2.q1#0  [178:1.5]  auto  (whole verse)
+EN quote : As mortal and material men, you are indeed citizens of the earthly kingdoms, and you should be good citizens, all the better for having become reborn spirit sons of the heavenly kingdom. As faith-enlightened and spirit-liberated sons of the kingdom of heaven, you face a double responsibility of duty to man and duty to God while you voluntarily assume a third and sacred obligation: service to the brotherhood of God-knowing believers.
+ES quote : Como hombres mortales y materiales, vosotros sois efectivamente ciudadanos de los reinos terrestres, y deberíais ser buenos ciudadanos, mejores aun por haber renacido como hijos espirituales del reino celestial. Como hijos esclarecidos por la fe y liberados por el espíritu del reino del cielo, os enfrentáis con una doble responsabilidad de deber hacia el hombre y deber hacia Dios, mientras que voluntariamente asumís una tercera y sagrada obligación: el servicio a la hermandad de los creyentes conocedores de Dios.
+
+=== ch23.s4.u2.q2#0  [178:1.8]  auto
+EN quote : You should be made all the better citizens of the secular government as a result of becoming enlightened sons of the kingdom; so should the rulers of earthly governments become all the better rulers in civil affairs as a result of believing this gospel of the heavenly kingdom.
+ES quote : Deberíais volveros ciudadanos mucho mejores del estado secular como resultado de volveros hijos esclarecidos del reino; del mismo modo los gobernantes de los estados terrestres deberían tornarse mejores gobernantes en los asuntos civiles como resultado de la fe en este evangelio del reino celestial.
+

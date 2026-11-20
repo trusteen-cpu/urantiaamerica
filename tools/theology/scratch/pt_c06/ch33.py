@@ -1,0 +1,41 @@
+# -*- coding: utf-8 -*-
+from common import save_units
+
+T = {
+"ch33.t": "A experiência religiosa",
+"ch33.sub": "A experiência viva de conhecer a Deus",
+"ch33.sum": "A religião, tal como O Livro de Urântia a apresenta, não é um sistema de doutrinas nem um êxtase místico. É a experiência viva de uma pessoa que conhece a Deus como Pai e ao homem como irmão. O espírito divino encontra o homem menos nos sentimentos do que no seu pensamento mais elevado, e esse encontro torna-se discernimento espiritual. A experiência religiosa não pode ser outorgada nem emprestada; amplia-se na proporção da busca de valores finais, e a sua força motriz é uma fé viva que governa o modo de viver. Este capítulo considera sucessivamente a natureza da experiência religiosa, o seu crescimento, o caráter da fé e os frutos que a experiência produz no serviço e na paz. A realidade da religião mostra-se mais no viver do que na explicação, e quem encontrou Deus vive como se já estivesse em presença do Eterno.",
+"ch33.s1": "A natureza da experiência religiosa",
+"ch33.s1.u1.k": "A verdadeira religião é conhecer a Deus como Pai e ao homem como irmão.",
+"ch33.s1.u1.p": "A definição de religião é simples: a experiência pessoal de conhecer a Deus como Pai e a compreensão que daí decorre naturalmente, a de conhecer o homem como irmão. A primeira é inteiramente interior, mas a segunda requer um ajustamento social do eu a outros eus. A religião, portanto, começa no interior e move-se para fora. Uma crença que se apoia em ameaças de punição ou em promessas de recompensas místicas está longe dessa definição.",
+"ch33.s1.u2.k": "A religião não é produto da razão, mas, vista do seu interior, é plenamente racional.",
+"ch33.s1.u2.p": "A religião rejeita dois equívocos opostos. Um a vê como um sistema filosófico a ser deduzido pela razão e comprovado por evidências; o outro a vê como um êxtase indescritível desfrutado apenas por alguns místicos. A religião não é produto da razão, mas, vista do seu interior, é plenamente racional; não é um assentimento intelectual a uma doutrina, mas um vislumbrar da realidade.",
+"ch33.s1.u3.k": "São os nossos pensamentos, não os nossos sentimentos, que nos conduzem a Deus.",
+"ch33.s1.u3.p": "Contrariamente à opinião comum de que a religião pertence ao domínio da emoção, o texto diz que o espírito divino faz contato com o homem no seu pensamento mais elevado e mais espiritualizado. Isso não diminui o sentimento. Significa que o olho que discerne Deus é o olho da mente, e que essa mente deve ser pura.",
+"ch33.s2": "O crescimento da experiência religiosa",
+"ch33.s2.u1.k": "A religião não pode ser outorgada nem emprestada; ela cresce à medida que cresce a busca de valores finais.",
+"ch33.s2.u1.p": "A religião não é uma posse que se possa herdar ou transmitir por instrução. Como todo crescimento do corpo, da mente e do espírito, o crescimento religioso acontece inconscientemente, e ninguém pode forçá-lo. Mas pode-se gerar condições favoráveis. A única contribuição do homem para o crescimento é a mobilização de todos os poderes da sua personalidade, que é a fé viva.",
+"ch33.s2.u2.k": "O crescimento espiritual vai do despertar para as necessidades ao discernimento dos significados e à descoberta dos valores.",
+"ch33.s2.u2.p": "O crescimento espiritual tem uma ordem. Primeiro desperta-se para aquilo que falta; depois discernem-se os significados das coisas; e, por fim, descobre-se o que é verdadeiramente valioso. A evidência desse crescimento não é a quantidade de conhecimento teológico, mas motivações nascidas do amor, a ministração não-egoísta e a adoração sincera dos ideais da divindade. A espiritualidade torna-se assim a medida tanto da proximidade de alguém em relação a Deus quanto da sua capacidade de servir aos outros.",
+"ch33.s2.u3.k": "A emoção, por si só, é uma conversão falsa, e os estados místicos não devem ser confundidos com a comunhão espiritual.",
+"ch33.s2.u3.p": "As experiências dramáticas de conversão e os êxtases místicos são facilmente tomados como o ápice da religião. O texto observa serenamente que os próprios fatores que induzem tais estados denotam o seu perigo. Os estados produzidos pela fadiga, pelo jejum, pelo medo e pela emoção violenta podem ser perigosos. Ao sentimento deve juntar-se a fé. A comunhão de Jesus com o seu Ajustador era algo bem diferente desses estados místicos.",
+"ch33.s3": "A fé viva",
+"ch33.s3.u1.k": "A crença fixa, a fé liberta.",
+"ch33.s3.u1.p": "Aceitar um ensinamento como verdadeiro ainda é apenas crença. Torna-se fé quando move a vida e de fato governa o modo de viver. As crenças podem ser compartilhadas por um grupo, mas a fé só cresce no coração do indivíduo. E a fé honra a verdade, a beleza e a bondade sem adorá-las; volta-se apenas para Deus, que as personifica todas.",
+"ch33.s3.u2.k": "A fé espiritual genuína comprova-se pelo modo como reage em meio à provação e à adversidade.",
+"ch33.s3.u2.p": "A realidade da fé mostra-se menos nos dias calmos do que nos difíceis. O texto enumera as reações de uma alma que possui fé: faz a moral progredir contra as tendências animais, confia na bondade de Deus no desapontamento amargo, encontra coragem diante da calamidade e mantém o seu equilíbrio em meio à doença e à dor. Essas reações, que surgem onde a vida parece uma derrota, revelam a divindade potencial da alma emergente.",
+"ch33.s3.u3.k": "Os religiosos vivem como se já estivessem em presença do Eterno.",
+"ch33.s3.u3.p": "Os elementos da experiência religiosa são difíceis de analisar, mas os seus resultados não são difíceis de observar. Os crentes vivem hoje como se a imortalidade já estivesse nas suas mãos. A religião não remove os problemas humanos, mas dissolve-os, ilumina-os e transcende-os. E a fé lança uma ponte sobre o abismo entre a lógica do intelecto, que reconhece a Primeira Causa como um Isso, e a afirmação da alma de que a Primeira Causa é Ele, o Pai celeste.",
+"ch33.s4": "Os frutos da experiência religiosa",
+"ch33.s4.u1.k": "A religião não é uma técnica para a paz mental, mas um impulso que organiza a alma para o serviço.",
+"ch33.s4.u1.p": "Tratar a religião apenas como um refúgio privado é perder a sua essência. A verdadeira religião alista toda a individualidade no serviço leal de amar a Deus e servir ao homem. Nada tira à vida, mas acrescenta um novo sentido a tudo e gera novo entusiasmo e nova coragem. Contudo, se esse zelo não for governado pelo discernimento espiritual e pela fidelidade às obrigações sociais comuns, pode transformar-se num perigoso espírito de cruzada.",
+"ch33.s4.u2.k": "Quem encontra Deus é levado ao serviço amoroso, para refrescar os seus semelhantes.",
+"ch33.s4.u2.p": "O desejo religioso é fome da realidade divina, e a experiência religiosa é a consciência de haver encontrado Deus. Quem encontrou Deus não procura vangloriar-se disso. Busca simplesmente o contato amoroso com os outros, para que a bondade que brota na sua alma transborde e os refresque. Esse interesse não-egoísta pelos outros surge porque o mesmo fragmento de Deus reside em cada pessoa. A uniformidade filosófica está fora de alcance, mas a unidade espiritual é possível.",
+"ch33.s4.u3.k": "Um sinal notável da vida religiosa é uma paz dinâmica que está além de todo entendimento.",
+"ch33.s4.u3.p": "A paz que a religião concede não é uma calma imóvel. É um equilíbrio cósmico mantido em meio ao serviço e à aventura, uma estabilidade que se instala onde a dúvida e o tumulto se foram. Essa paz é imune ao desapontamento. Quem compreendeu a realidade do Supremo e persegue a meta do Último desfruta tanto da glória do triunfo quanto de um profundo senso de segurança.",
+"ch33.qs1": "A minha fé continua sendo uma crença que me foi transmitida, ou é uma fé que de fato transforma o meu modo de viver?",
+"ch33.qs2": "Quando sofro desapontamento ou injustiça, como a minha fé se mostra na minha reação?",
+"ch33.qs3": "Se alguma vez a experiência de conhecer a Deus me levou a servir aos outros, como isso se deu?",
+}
+
+save_units(T)

@@ -1,0 +1,41 @@
+# -*- coding: utf-8 -*-
+from common import save_units
+
+T = {
+"ch34.t": "A prece e a adoração",
+"ch34.sub": "Dois modos de comunhão com o Pai",
+"ch34.sum": "A prece e a adoração são dois modos pelos quais o homem comunga pessoalmente com Deus. A prece não é uma magia que tenta ajustar Deus aos desejos do homem, mas um processo de ajustar a vontade humana à vontade divina, e Deus responde à prece concedendo uma compreensão mais ampla da verdade, da beleza e da bondade. A prece de quem está inteiramente dedicado a fazer a vontade do Pai não pode permanecer sem resposta. A adoração vai um passo além: nada pede e é oferecida a Deus simplesmente por aquilo que Ele é, numa adoração que esquece o eu. Este capítulo considera a natureza e as condições da prece, o caráter da adoração e o modo como a prece cresce até tornar-se adoração. A prece enriquece a vida, enquanto a adoração ilumina o destino e nos torna cada vez mais semelhantes Àquele que adoramos.",
+"ch34.s1": "A natureza da prece",
+"ch34.s1.u1.k": "A prece é o olhar sincero e ardente do filho para o seu Pai espiritual.",
+"ch34.s1.u1.p": "Jesus ensinou a prece não como uma fórmula fixa, mas como uma atitude da alma. A prece é a expressão espontânea da alma em direção ao espírito, a comunhão entre um filho e o seu Pai. É a atitude sincera de estender a mão na direção do céu para alcançar os próprios ideais, um processo psicológico de substituir a vontade humana pela vontade divina. A prece tem, assim, o seu lugar no plano de Deus para transformar aquilo que é naquilo que deveria ser.",
+"ch34.s1.u2.k": "A magia tenta ajustar a Deidade às circunstâncias; a prece ajusta a personalidade à vontade da Deidade.",
+"ch34.s1.u2.p": "A prece e a magia podem parecer semelhantes, mas apontam em direções opostas. A magia procura mover o poder sobrenatural para obter um resultado desejado; a prece procura colocar a si mesmo em harmonia com a vontade de Deus. Por isso a prece não muda Deus, mas muda aquele que ora. Naqueles que oraram com fé e expectativa confiante cresceram a paz mental, a alegria, a coragem, a mestria sobre si próprio e a equanimidade.",
+"ch34.s1.u3.k": "A prece não é uma fuga do conflito, mas um estímulo ao crescimento em face do conflito.",
+"ch34.s1.u3.p": "A prece não substitui a ação. Uma prece que entrega a Deus o problema que a própria pessoa deveria resolver pode tornar-se uma forma de ociosidade. Mas uma prece que pede sabedoria e força para iluminar e sustentar o próprio caminho enquanto se enfrenta o problema é sempre correta. Por isso o texto aconselha-nos a orar pelos valores e não pelas coisas, pelo crescimento e não pela gratificação. A prece não é um modo de contornar a dificuldade, mas um modo de crescer através dela.",
+"ch34.s2": "A prece que é respondida",
+"ch34.s2.u1.k": "Deus responde à prece com uma compreensão ampliada da verdade, da beleza e da bondade.",
+"ch34.s2.u1.p": "A resposta à prece não é o mesmo que receber exatamente aquilo que se pediu. Assim como um pai sábio não atende a um pedido tolo, mas dá ao filho aquilo de que ele de fato necessita, assim também o Pai celeste dá o espírito e muitas outras bênçãos àqueles que pedem. A resposta de Deus vem como uma revelação mais ampla da verdade, uma apreciação mais profunda da beleza e uma concepção mais elevada da bondade. É por isso que a prece é o estímulo mais potente para o crescimento espiritual.",
+"ch34.s2.u2.k": "A prece de quem está inteiramente dedicado a fazer a vontade do Pai não pode permanecer sem resposta.",
+"ch34.s2.u2.p": "Há apenas um modo de toda prece ser respondida: que aquilo que pedimos esteja inteiramente de acordo com a vontade do Pai. Quando aquilo que o verdadeiro filho deseja e aquilo que o Pai infinito quer se tornam uma só coisa, isso já é. As cinco condições da prece eficiente que Jesus ensinou, ser não-egoísta, crente, sincera, inteligente e confiante na vontade totalmente sábia do Pai, apontam todas para essa harmonia.",
+"ch34.s2.u3.k": "Sede equânimes na prece; não espereis que Deus vos ame mais do que aos Seus outros filhos.",
+"ch34.s2.u3.p": "A prece exige equanimidade. Uma prece que pede a Deus um favoritismo, que Ele me ame mais do que aos meus amigos, vizinhos ou inimigos, não é ética. A prece torna-se mais ética quando busca o perdão e a sabedoria para o domínio de si. Além disso, abrigar deliberadamente a iniqüidade no coração interrompe gradualmente a comunhão pessoal com Deus.",
+"ch34.s2.u4.k": "A prece começa com o pedido material e cresce até tornar-se prece pelos semelhantes.",
+"ch34.s2.u4.p": "As preces da infância, seja de um indivíduo, seja de uma raça, são egoístas e materiais. Mesmo essas preces têm valor na medida em que suscitam esforço; por isso os maduros devem ter cuidado para não desencorajar as preces dos imaturos. Mas a prece deve crescer. A prece de Jesus era um antídoto para a introspecção perniciosa, e ele em geral orava no plural, pelos seus semelhantes e não por si mesmo.",
+"ch34.s3": "O caráter da adoração",
+"ch34.s3.u1.k": "A adoração existe por si mesma; nada pede e nada espera.",
+"ch34.s3.u1.p": "A grande diferença entre a prece e a adoração está na presença ou na ausência do interesse próprio. A prece contém um elemento de pedido, mas a verdadeira adoração não contém nenhum. A verdadeira adoração nada pede para o adorador e nada espera em troca. A adoração é a resposta espontânea do coração diante Daquele que é amado.",
+"ch34.s3.u2.k": "A prece é um pensamento que lembra o eu; a adoração é um pensamento que esquece o eu.",
+"ch34.s3.u2.p": "Na prece, a pessoa ainda está consciente de si mesma e das suas necessidades; na adoração, ela esquece a si mesma. A adoração é, portanto, atenção sem esforço, uma forma repousante de exercício espiritual. Na adoração, a parte identifica-se com o todo, o finito com o Infinito, o filho com o Pai, o tempo com a eternidade. A adoração é a comunhão pessoal do filho com o Pai, e ela reanima a alma e torna-a criativa.",
+"ch34.s3.u3.k": "A experiência da adoração é o esforço do Ajustador de comunicar ao Pai os anseios inefáveis da alma.",
+"ch34.s3.u3.p": "A adoração não é algo que a pessoa faz sozinha. O Ajustador residente procura comunicar ao Pai os anseios inexprimíveis da alma, e essa alma é a criação conjunta da mente humana e do Ajustador. É por isso que uma mente de limitações materiais não pode estar plenamente cônscia do significado profundo da adoração. O quanto alguém compreende a realidade da experiência da adoração depende não do nível intelectual, mas do crescimento da alma imortal em evolução.",
+"ch34.s4": "Da prece à adoração",
+"ch34.s4.u1.k": "A prece pode enriquecer a vida, mas a adoração ilumina o destino.",
+"ch34.s4.u1.p": "O texto observa que as religiões modernas enfatizaram em excesso a prece e negligenciaram a comunhão da adoração, que é mais essencial. A prece não deve ser abandonada; é uma escada que conduz à adoração. A prece conduziu a alma de Jesus a uma comunhão profunda com os Dirigentes Supremos do universo, e conduzirá os mortais à comunhão da verdadeira adoração. A quantidade de bênçãos celestes que uma pessoa recebe depende da capacidade espiritual de receptividade da alma.",
+"ch34.s4.u2.k": "A adoração torna-nos cada vez mais semelhantes Àquele que é adorado; volta-se para o Um a fim de servir a muitos.",
+"ch34.s4.u2.p": "O espírito residente fala melhor quando a mente humana está numa atitude de verdadeira adoração. A adoração é uma experiência de transformação que nos torna cada vez mais semelhantes Àquele que adoramos, o caminho pelo qual o finito se aproxima gradualmente da presença do Infinito. Contudo, a adoração não é uma fuga do mundo. Voltamo-nos para o Um a fim de receber a inspiração para servir a muitos.",
+"ch34.qs1": "A minha prece está mais próxima de ajustar Deus à minha vontade, ou de ajustar a minha vontade à de Deus?",
+"ch34.qs2": "Já vivi uma adoração que nada pede e que é oferecida a Deus simplesmente por aquilo que Ele é?",
+"ch34.qs3": "Como posso abrir espaço, na minha vida diária, para um tempo de espera silenciosa depois da prece?",
+}
+
+save_units(T)

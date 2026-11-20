@@ -1,0 +1,47 @@
+# -*- coding: utf-8 -*-
+from lib import save_units, save_quotes, cut
+
+T = {
+"ch36.t": "La vie morontielle",
+"ch36.sub": "Des mondes des maisons au seuil de l’esprit",
+"ch36.sum": "La mort n’est pas une fin, mais une porte de transition. Le survivant qui a laissé la chair reprend la vie sur les mondes des maisons exactement là où la mort l’a surpris, et il s’éveille comme la même personne avec tous ses souvenirs valables. La vie morontielle est la carrière de transition qui se situe entre la matière et l’esprit, un processus qui consiste à apprendre ce qui n’a pas été appris sur terre, à corriger les défauts de caractère et à grandir jusqu’à acquérir une mentalité universelle. Les Dieux ne transforment pas l’homme en un esprit rendu parfait par un unique acte de magie ; ils le conduisent à travers de nombreux stades de changement graduel. Ce chapitre examine la continuité au-delà de la mort, l’éducation des mondes des maisons, la méthode divine du changement graduel et le voyage vers le seuil de l’esprit.",
+"ch36.s1": "La mort, une porte de transition",
+"ch36.s1.u1.k": "La mort est une technique pour échapper à la vie dans la chair et l’entrée dans la carrière morontielle.",
+"ch36.s1.u1.p": "Le Livre d’Urantia ne dépeint pas la mort comme une terrible séparation, mais comme une technique : un moyen d’échapper à la vie dans la chair matérielle, au-delà duquel attendent sept mondes d’entrainement correctif et d’éducation culturelle. Un survivant qui s’éveille sur les mondes des maisons peut ne remarquer guère de différence, sauf qu’il possède un autre corps. Le tabernacle de chair et de sang a été laissé en arrière sur le monde de nativité, mais la vie elle-même se poursuit sans interruption.",
+"ch36.s1.u2.k": "Le survivant commence là-bas exactement au point où il en était en partant d’ici.",
+"ch36.s1.u2.p": "Entre la mort et la résurrection, une personne ne gagne rien, à part le fait de la survie. L’entrainement intellectuel et le développement spirituel reprennent exactement au niveau où ils ont été interrompus. Autrement dit, la mort ne rend personne soudainement sage ou saint. Pourtant, les mondes des maisons sont aussi le lieu où, comme le papillon émerge de la chenille, la vraie personnalité autrefois cachée dans la chair matérielle se révèle pour la première fois.",
+"ch36.s1.u3.k": "Tout souvenir ayant une valeur de survie est conservé par l’Ajusteur tout au long de la carrière ascendante.",
+"ch36.s1.u3.p": "À la question de savoir si le survivant est vraiment la même personne, le texte répond par la mémoire. Les associations purement animales et matérielles périssent avec le cerveau, mais tout ce qui est valable et a une valeur de survie a sa contrepartie établie et conservée par l’Ajusteur. La persistance de la mémoire est la preuve que le « moi » originel a été préservé. Ainsi, ce qui était valable reste une partie de la mémoire personnelle tout au long de la carrière ascendante.",
+"ch36.s2": "Correction et éducation sur les mondes des maisons",
+"ch36.s2.u1.k": "Presque toute l’expérience du premier monde des maisons concerne les soins apportés aux déficiences.",
+"ch36.s2.u1.p": "Avant d’être un quelconque paradis de récompense, les mondes des maisons sont une école de guérison et de correction. Les survivants venant de mondes comme Urantia arrivent avec de nombreux défauts de caractère et déficiences d’expérience ; c’est pourquoi les activités majeures du premier monde sont consacrées à corriger ces héritages de la vie incarnée. Sur le deuxième monde, les conflits intellectuels et les disharmonies mentales sont guéris. Le plan de Dieu accueille la personne telle qu’elle est et l’élève patiemment à partir de là.",
+"ch36.s2.u2.k": "La destinée de l’éternité se détermine d’instant en instant par les accomplissements de la vie quotidienne.",
+"ch36.s2.u2.p": "Sur le premier monde des maisons, l’instructeur morontiel utilise de brèves maximes de la philosophie humaine pour aider les nouveaux arrivants à saisir le sens de la mota. Plusieurs d’entre elles nous rappellent qu’il n’y a pas de raccourcis sur le chemin de l’ascension. L’âme n’est pas rendue divine par ce qu’elle fait, mais par ce qu’elle s’efforce de faire, et la mort n’ajoute rien à l’intellect ni à la dotation spirituelle. Puisque les actes d’aujourd’hui forment la destinée de demain, remettre à plus tard ne peut jamais être une manière d’éviter.",
+"ch36.s2.u3.k": "Une véritable naissance de la conscience cosmique a lieu sur le cinquième monde des maisons.",
+"ch36.s2.u3.p": "L’éducation des mondes des maisons ne s’arrête pas à la correction des défauts. Sur le cinquième monde des maisons a lieu une véritable naissance de la conscience cosmique. Désormais, l’étude devient volontaire plutôt qu’obligatoire, le service désintéressé devient naturel et l’adoration devient spontanée. Quand la bonté autrefois pratiquée avec effort devient une seconde nature, un vrai caractère morontiel commence à éclore.",
+"ch36.s2.u4.k": "Les ascendeurs apprennent à être fidèles, sérieux et allègres sous la pression.",
+"ch36.s2.u4.p": "Le chemin de l’ascension est une lutte sérieuse, mais non une lutte sans joie. Les ministres des mondes des maisons enseignent à laisser la pression produire la stabilité, à accepter les défis sans se plaindre et à faire face sans crainte aux difficultés. Ils demandent : si vous échouez, vous relèverez-vous pour essayer de nouveau ? Et les êtres qui luttent pour s’élever sous une tension continue ont le plus grand besoin d’humour et de détente.",
+"ch36.s3": "Le changement graduel, méthode divine",
+"ch36.s3.u1.k": "Les Dieux ne transforment pas une créature de nature animale en un esprit rendu parfait par un unique acte de magie.",
+"ch36.s3.u1.p": "Beaucoup de traditions religieuses imaginent qu’une personne devient un esprit rendu parfait au moment de la mort. Le texte qualifie fermement ces idées de fables plaisantes. Il ne peut y avoir aucune magie dans la dissolution du corps matériel qui transformerait instantanément un mental humain en un esprit immortel. Quand Dieu veut des êtres parfaits, il les crée ainsi dès le commencement. Mais il n’entreprend jamais de convertir en une seule étape des êtres d’origine animale en êtres de perfection.",
+"ch36.s3.u2.k": "La vie morontielle commence déjà sur terre, au moment où l’âme est conçue.",
+"ch36.s3.u2.p": "La vie morontielle ne commence pas seulement après la mort. L’âme est conçue au moment où l’Ajusteur vient habiter un mental capable de choix moraux, et dès lors la carrière morontielle a déjà commencé. Aux jours de l’incarnation, l’esprit divin habite l’homme presque comme un corps étranger, mais, dans la vie morontielle, cet esprit devient partie intégrante de la personnalité. À travers des centaines de transformations graduelles, la personne s’élève de la matière à l’esprit.",
+"ch36.s3.u3.k": "La fusion avec l’Ajusteur suit un choix définitif et irrévocable en faveur de la carrière éternelle.",
+"ch36.s3.u3.p": "L’évènement le plus brillant de la carrière morontielle est la fusion du mental humain avec l’Ajusteur divin, habituellement réalisée effectivement sur le cinquième ou le sixième monde des maisons. La fusion n’a lieu que lorsqu’il a été confirmé que la nature humaine a porté son choix d’une manière définitive et irrévocable sur la carrière éternelle. Dieu ne devance pas le choix humain. Il attend que le libre choix ait muri, puis il réalise l’union éternelle.",
+"ch36.s4": "Vers le seuil de l’esprit",
+"ch36.s4.u1.k": "Sur le septième monde des maisons, les différences d’origine disparaissent et les dernières traces de la marque de la bête sont extirpées.",
+"ch36.s4.u1.p": "Sur le septième monde des maisons, les différences entre ceux qui viennent de mondes isolés et retardés et ceux qui viennent de mondes avancés sont pratiquement effacées. Les traces d’une hérédité malheureuse, d’un environnement malsain et des tendances non spirituelles sont toutes purgées. Un point de départ défavorisé ne devient pas un handicap éternel. Et, lorsque l’ascendeur quitte le siège du système pour Édentia, la personnalité amorcée dans la chair est enfin pleinement unifiée et proclamée véritable enfant des Très Hauts.",
+"ch36.s4.u2.k": "Le but du plan de survie n’est pas un bienêtre perpétuel, mais un service transcendant.",
+"ch36.s4.u2.p": "La carrière morontielle est la porte évolutionnaire vers la vie spirituelle ; elle conduit au but du temps, trouver Dieu au Paradis. Pourtant, le dessein de tout ce travail et de tout cet entrainement n’est pas simplement que l’homme survive pour jouir d’une félicité perpétuelle. Le dessein de Dieu, lorsqu’il fait de l’univers entier une immense école d’éducation, est de préparer l’homme à un service transcendant caché au-delà de l’horizon du présent âge de l’univers.",
+"ch36.qs1": "Si, après la mort, je recommence exactement au point où j’en étais, où en suis-je maintenant ?",
+"ch36.qs2": "Comment pourrais-je corriger ici et maintenant des habitudes comme la procrastination et la fuite, qui devraient sinon être extirpées sur les mondes des maisons ?",
+"ch36.qs3": "En quoi le fait de savoir que la méthode de Dieu est la croissance graduelle, et non le changement soudain, m’aide-t-il à considérer mes propres progrès lents ?",
+}
+
+Q = {
+"ch36.s3.u3.q2#0": cut("112:7.5", "La fusion avec l’Ajusteur", "la carrière éternelle."),
+"ch36.s4.u2.q2#0": cut("48:8.3", "Le plan de survie", "présent âge de l’univers."),
+}
+
+save_units(T)
+save_quotes(Q)

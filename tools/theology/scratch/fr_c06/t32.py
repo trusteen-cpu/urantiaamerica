@@ -1,0 +1,50 @@
+# -*- coding: utf-8 -*-
+from lib import save_units, save_quotes, cut
+
+T = {
+"ch32.t": "Le christianisme",
+"ch32.sub": "La religion à propos de Jésus et la religion de Jésus",
+"ch32.sum": "Le christianisme est né de la vie et des enseignements de Jésus, mais après la Pentecôte l’évangile du royaume fut changé en un évangile à propos du Christ ressuscité. Pierre fonda l’Église, Paul façonna sa théologie, le monde grec l’accueillit et l’hellénisa, et le monde romain la paganisa et l’institutionnalisa. Au cours de ce processus, beaucoup d’idéaux de Jésus furent compromis, mais ils ne furent pas perdus, et le christianisme devint l’une des plus grandes puissances bénéfiques sur terre. Ce chapitre retrace la formation et la transformation du christianisme, ses apports et ses handicaps, et aboutit à la conclusion que ce dont le monde a maintenant le plus besoin, c’est, une fois de plus, de Jésus vivant lui-même. On peut prêcher une religion à propos de Jésus, mais on doit vivre la religion de Jésus.",
+"ch32.s1": "De l’évangile du royaume à l’évangile à propos du Christ",
+"ch32.s1.u1.k": "Après la Pentecôte, le message de Jésus devint l’évangile du Seigneur Jésus-Christ.",
+"ch32.s1.u1.p": "Ce que Jésus avait confié à ses apôtres, c’était l’évangile de la paternité de Dieu et de la fraternité des hommes. Mais le mental des disciples qui avaient fait l’expérience de la résurrection était rempli de Jésus lui-même, et le centre de leur proclamation se déplaça vers sa vie, sa mort et sa résurrection, ainsi que vers l’espoir de son prompt retour. L’amour fraternel des premières communautés était vraiment merveilleux, mais il provenait de la communion entre croyants en Jésus plus que de la reconnaissance que tous les hommes sont frères. Ce glissement fut une erreur, et en même temps le commencement de la plus grande religion que l’humanité eût jamais connue.",
+"ch32.s1.u2.k": "Pierre fonda l’Église, et Paul transforma le nouvel évangile en christianisme.",
+"ch32.s1.u2.p": "La formation du christianisme porte des noms bien précis. Dans l’enthousiasme de la Pentecôte, Pierre inaugura la religion du Christ ressuscité et glorifié, et Paul la systématisa à partir de son expérience sur la route de Damas et de sa propre théologie, en la portant au monde des Gentils. Ainsi, l’évangile du royaume s’enracine dans l’expérience religieuse de Jésus de Galilée, tandis que le christianisme repose principalement sur l’expérience religieuse de Paul.",
+"ch32.s1.u3.k": "À mesure que le christianisme s’occidentalisait, il commença à perdre son attrait universel pour toutes les races.",
+"ch32.s1.u3.p": "Le christianisme s’est développé sur le fondement de la théologie juive, en assimilant en chemin des enseignements de Zoroastre et la philosophie grecque. Au cours de ce processus, il s’est si complètement occidentalisé qu’aux yeux des peuples non européens il a paru être l’étrange révélation d’un étrange Dieu. Le christianisme a glorifié Jésus en tant que Christ, mais il a grandement oublié son évangile personnel : la paternité de Dieu et la fraternité de tous les hommes.",
+"ch32.s2": "Hellénisation et paganisation",
+"ch32.s2.u1.k": "Le monde occidental possédait une grande culture, mais avait faim d’une religion satisfaisante pour l’âme.",
+"ch32.s2.u1.p": "Le christianisme se répandit rapidement dans le monde romain en raison du vide spirituel de ce monde. Des peuples qui avaient hérité de grands accomplissements en philosophie, en art et en politique étaient devenus sceptiques envers toutes les religions et philosophies existantes, et la popularité des cultes à mystères révélait un profond désir de survie et de droiture personnelle. Les mystères ne purent satisfaire ce désir, mais ils préparèrent le chemin à l’accueil de Jésus, qui apporta le pain et l’eau de vie.",
+"ch32.s2.u2.k": "La philosophie grecque et les enseignements de Jésus avaient pour but commun l’émergence de l’individu.",
+"ch32.s2.u2.p": "L’hellénisation du christianisme ne fut pas seulement une corruption. Les Grecs enseignaient la liberté intellectuelle et Jésus la liberté spirituelle, et la rencontre des deux devint une nouvelle charte de la liberté humaine. Puis Rome, qui avait un empire mais pas de Dieu, et les chrétiens, qui avaient un Dieu mais pas d’empire, s’embrassèrent mutuellement. Rome donna au monde occidental une unité de gouvernement politique, la Grèce une unité de culture, et le christianisme une unité de pensée religieuse.",
+"ch32.s2.u3.k": "Les premiers dirigeants compromirent les idéaux de Jésus, mais ces idéaux restent latents dans son évangile.",
+"ch32.s2.u3.p": "Le compromis avec le monde païen introduisit dans le christianisme le rituel et l’apparat. Pourtant, ce qui fut gagné en échange fut considérable : un niveau plus élevé de la morale humaine, un concept élargi de Dieu, l’espoir de l’immortalité intégré à une religion reconnue et, par-dessus tout, Jésus de Nazareth offert aux âmes affamées. Les idéaux compromis ne furent pas rejetés ; ils sommeillent seulement, et un jour ils affirmeront leurs pleins pouvoirs sur le monde.",
+"ch32.s3": "Apports et handicaps",
+"ch32.s3.u1.k": "Le christianisme est une religion improvisée, mais il contient suffisamment d’enseignements de Jésus pour être immortel.",
+"ch32.s3.u1.p": "Il est facile de relever les défauts du christianisme, mais le texte demande d’abord qu’on ne le considère pas à la légère. Le christianisme est le produit du génie moral d’hommes connaissant Dieu, issus de nombreuses races et de nombreux âges. Les enseignements lancés par les simples disciples d’un charpentier crucifié conquirent le monde romain, puis, plus tard, se réveillèrent d’eux-mêmes d’un coma de mille ans. La source de cette vitalité est l’enseignement de Jésus qu’il contient encore.",
+"ch32.s3.u2.k": "Le christianisme est handicapé par son identification au système social de la civilisation occidentale.",
+"ch32.s3.u2.p": "La plus grande difficulté à laquelle le christianisme fait face ne vient pas d’ennemis extérieurs, mais d’alliances qu’il a lui-même nouées. Le monde voit le christianisme comme une partie de la vie industrielle et des critères moraux de l’Occident, le parrain apparent d’une société qui a toléré la science sans idéalisme et le pouvoir sans conscience. L’implication de l’Église dans le commerce et la politique, ainsi que l’étouffement de la foi nouvellement née et la persécution des porteurs de vérité vêtus de manière non orthodoxe, restent dans les mémoires comme une trahison du Maitre.",
+"ch32.s3.u3.k": "L’histoire tourmentée du christianisme montre qu’il possède de profondes facultés de récupération.",
+"ch32.s3.u3.p": "Hellénisation, paganisation, sécularisation, institutionnalisation, décadence et hibernation, menace d’extinction, puis régénérescence et fragmentation : l’histoire du christianisme se lit comme un catalogue de déclins, et pourtant le texte lit dans cette histoire même une vitalité inhérente. Aujourd’hui, le christianisme affronte une épreuve plus grande, un âge dominé par la mentalité scientifique et les tendances matérialistes. Mais le texte affirme que, dans le conflit entre le temporel et le spirituel, la religion de Jésus finira par triompher.",
+"ch32.s4": "Retour à Jésus",
+"ch32.s4.u1.k": "La véritable Église est une fraternité spirituelle invisible, caractérisée par l’unité plutôt que par l’uniformité.",
+"ch32.s4.u1.p": "Jésus n’a pas fondé ladite Église chrétienne, mais il l’a entretenue comme le meilleur porte-parole existant de son œuvre sur terre. Cependant, la véritable Église n’est pas une organisation visible, mais la fraternité invisible de ceux qui sont unis par la foi à Jésus vivant. L’espoir d’unité pour une chrétienté divisée ne réside pas dans l’uniformité doctrinale, mais en Jésus vivant. Les organisations sociales peuvent servir cette fraternité, mais elles ne doivent jamais la supplanter.",
+"ch32.s4.u2.k": "Le christianisme a rendu un grand service au monde, mais ce dont le monde a maintenant le plus besoin, c’est de Jésus.",
+"ch32.s4.u2.p": "Le renouveau du christianisme ne consiste pas à revenir à l’Église primitive ; il faut avancer en partant du point où l’on se trouve. Ce que le monde a besoin de voir, c’est Jésus vivant de nouveau dans la vie d’hommes et de femmes nés d’esprit. L’espoir du christianisme est de cesser de parrainer la civilisation occidentale, de s’incliner humblement devant la croix qu’il a si vaillamment exaltée, et d’y apprendre à nouveau l’évangile vivant de la paternité de Dieu et de la fraternité des hommes.",
+"ch32.s4.u3.k": "Le monde n’a pas besoin d’une religion de seconde main, mais d’une religion de première main.",
+"ch32.s4.u3.p": "Outre la limite d’être une religion à propos de Jésus, le christianisme en porte une autre : la plupart des gens tiennent leur foi de seconde main, telle qu’elle leur a été transmise par leurs instructeurs. De même que des mots décrivant une belle chose ne peuvent passionner autant que sa vue, de même les crédos ne peuvent remplacer l’expérience de connaitre la présence de Dieu.",
+"ch32.qs1": "Ma foi est-elle plus proche d’une religion à propos de Jésus ou de la religion de Jésus ?",
+"ch32.qs2": "Quelle attitude, dans ma vie, signifierait voir les défauts de l’Église sans la considérer à la légère ?",
+"ch32.qs3": "Que puis-je faire pour transformer une foi qui m’a été transmise en une foi dont je fais l’expérience de première main ?",
+}
+
+Q = {
+"ch32.s1.u1.q2#0": cut("194:4.6", "Il est vrai qu’une merveilleuse", "Père qui est aux cieux.") + " … " + cut("194:4.6", "Ils commirent la grande erreur", "jusqu’alors."),
+"ch32.s1.u2.q2#0": cut("196:2.1", "Dans l’enthousiasme de la Pentecôte", "l’apôtre Paul."),
+"ch32.s2.u2.q1#0": cut("195:1.1", "La philosophie grecque et nombre", "émergence de l’individu") + " … " + cut("195:1.1", "Les Grecs enseignaient le libéralisme"),
+"ch32.s3.u1.q1#0": cut("195:10.12", "Toutefois, le christianisme", "inhérents et acquis."),
+"ch32.s4.u1.q2#0": cut("195:10.11", "Jésus vivant représente", "par l’uniformité.") + " … " + cut("195:10.11", "Cette fraternité est destinée"),
+}
+
+save_units(T)
+save_quotes(Q)

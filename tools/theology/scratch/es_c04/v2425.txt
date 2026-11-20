@@ -1,0 +1,234 @@
+﻿ch24.t = Sin
+ch24.sub = Evil, Error, Sin, Iniquity, and the Price of Freedom
+ch24.sum = The Urantia Book defines sin not as a vague state of fallenness but as a personal choice knowingly made against the will of God. The Gods do not create evil. Potential evil exists in a universe of differential levels of perfection, and sin is potential wherever imperfect beings can choose between good and evil. Freedom cannot escape the possibility of error, and in that very risk grows the goodness won through experience. Man is by nature imperfect but not necessarily a sinner, and he is not condemned for being born a descendant of Adam. This chapter considers the distinctions among evil, sin, and iniquity, the relation of freedom to evil, the nature of man, and a new understanding of sin together with God's attitude toward it.
+ch24.s1 = Evil, Error, Sin, and Iniquity Distinguished
+ch24.s1.u1.k = The Gods do not create evil; the deliberate choice of evil constitutes sin.
+ch24.s1.u1.p = The first step in understanding sin is to distinguish the words. Potential evil exists in time within a universe of differing levels of perfection, and error arises where truth and falsehood coexist. But sin is not a circumstance; it is a choice. The deliberate choice of evil is sin, and the persistent pursuit of sin and error is iniquity. This distinction corrects both the idea that God is the cause of evil and the idea that every imperfection is sin.
+ch24.s1.u2.k = Evil is unconscious transgression, sin is knowing transgression, iniquity is persistent and determined transgression.
+ch24.s1.u2.p = When Thomas asked what evil is, Jesus answered in three steps. The standard throughout is the Father's will, and the difference lies in the degree of awareness and intent. Transgression without knowing is evil but not yet sin. Knowing and deliberate transgression is sin, and when that refusal hardens into a final rejection of the Father's loving plan, it becomes iniquity. Sin is less a list of deeds than the direction of the heart toward God.
+ch24.s1.u3.k = Sin is purposeful resistance to divine reality, a conscious choice to oppose spiritual progress.
+ch24.s1.u3.p = Defined from the viewpoint of cosmic philosophy, sin concerns one's relation to reality. Error is a misunderstanding of reality, and evil a partial maladjustment to it, but sin is resistance to reality one knows. When that resistance becomes open and persistent, personality itself disintegrates toward cosmic insanity. Sin is finally a path of self-destruction, a cutting of oneself off from reality.
+ch24.s2 = Freedom and the Possibility of Evil
+ch24.s2.u1.k = To be free, evolving man must be able to err.
+ch24.s2.u1.p = Why did God not make a world without the possibility of mistakes? The text replies that such a world would be one without free intelligence. Perfect beings dwell in Havona, but evolving man must gain wisdom through experience, and a free but inexperienced intellect cannot be uniformly wise from the start. The possibility of mistaken judgment is the price of freedom; in itself it is not sin.
+ch24.s2.u2.k = The power to choose good or evil is a universe reality, and God takes no one's freedom away.
+ch24.s2.u2.p = Why evil and sin are permitted is a question that troubles every age. The text finds the answer in the reality of freedom. If freedom of choice is real, the possibility of wrong choice must be real too. Had God instantly prevented every rebellion, freedom would be no more than a symbolic ideal. The rulers of the universe deprive no one of this divine gift. The possibility of sin shows how seriously God takes freedom.
+ch24.s2.u3.k = True liberty is the reward of progress; false liberty is a subtle deception of the error of time.
+ch24.s2.u3.p = The greatest confusion left by the Lucifer rebellion concerned liberty. The rebellion promised freedom without any restraint, but such freedom is a self-destructive technique of cosmic existence. True liberty presupposes intelligence, maturity, fraternity, and fairness, and only a freedom that regards one's duties to neighbor and universe endures. Liberty is not the power to do as I please; it is the capacity to be ever more deeply related to reality.
+ch24.s3 = Man Is Evil but Not Necessarily a Sinner
+ch24.s3.u1.k = Imperfection of natural endowment is not sin; sin is a conscious attitude of rebellion.
+ch24.s3.u1.p = Man is born with imperfect tendencies inherited from his animal origins, yet these are only the starting point of a long ascent, not grounds for condemnation. Jesus clearly distinguished between being exposed to evil and being a sinner. Evil is inherent in the natural order of this world, but sin is an attitude brought in by those who knew the spiritual light and chose darkness. This distinction gives man hope rather than shame.
+ch24.s3.u2.k = Man is not a being fallen from perfection but one ascending toward divine perfection.
+ch24.s3.u2.p = The idea that mankind began with perfect ancestors and fell through sin long dominated theology. Jesus reverses this picture: man begins low and rises toward God and divine perfection. Seen this way, salvation is not recovering a lost status but advancing toward a destiny not yet attained.
+ch24.s3.u3.k = Sin is wholly personal, and no one suffers spiritual loss because of another's sin.
+ch24.s3.u3.p = Caligastia's rebellion and Adam's default left deep wounds on this world: intellectual, social, and spiritual progress was retarded, and everyone born since has suffered temporal handicaps. Yet no one's eternal destiny has been jeopardized by them. The moral guilt and spiritual consequences of sin are wholly personal. This corrects the doctrine of original sin and at the same time reminds each person of responsibility for his own choices.
+ch24.s4 = Sin Redefined and the Attitude of God
+ch24.s4.u1.k = Sin must be redefined as deliberate disloyalty to Deity.
+ch24.s4.u1.p = The ancients could be sure of God's favor only through sacrifice, but modern man needs a new understanding. The text redefines sin not as the breaking of a taboo but as a matter of loyalty to God. Undecided partial loyalty, divided loyalty, loyalty dying through indifference, and loyalty given to godless ideals are its stages. A sense of guilt is not itself sin; without conscious disloyalty to Deity there is no real sin.
+ch24.s4.u2.k = The capacity to recognize guilt is a mark not of man's baseness but of his potential greatness.
+ch24.s4.u2.p = Guilt is often regarded only as a crushing burden. The text reads it differently: the ability to recognize wrong as wrong is a transcendent excellence given to man and not to animals. The feeling of unworthiness is meant not to cast us down but to be the first stimulus toward the conquests of faith. Honest confession does not erase consequences, but it opens the door to spiritual growth.
+ch24.s4.u3.k = The love of God saves the sinner; the law of God destroys the sin.
+ch24.s4.u3.p = God is a person, and so he loves persons. Sin is not a person, nor is it a spiritual reality; God therefore takes no personal attitude toward it but deals with its existence through justice alone. Thus divine love and divine justice do not collide: love holds fast to the sinner, who has eternal possibilities, while law does away with sin, which is unreal. Unless a person finally identifies himself with sin, love has the last word.
+ch24.qs1 = How have I distinguished between imperfection and sin, and how does this chapter's distinction change the way I see myself?
+ch24.qs2 = If sin is disloyalty to God, at what stage does my own loyalty stand today?
+ch24.qs3 = Have I known a time when guilt led me not into despair but into growth in faith?
+ch25.t = Adam and Eve
+ch25.sub = The Mission and Default of the Biologic Uplifters
+ch25.sum = The Adam and Eve of the Urantia Book are not the first human beings of myth but a Material Son and Daughter sent from Jerusem, the system capital, to uplift the evolutionary races biologically and to quicken their culture. They undertook an almost hopeless task on a world wounded and isolated by rebellion, and in loneliness and impatience they fell into default by trying to outrun the divine plan through a short cut. Yet there was no "fall of man." Mankind was in fact uplifted by their contribution, and their transgression was an error of judgment, not deliberate rebellion. This chapter considers the mission of the biologic uplifters, the course of the default, a reinterpretation of the doctrine of the fall, and the story of repentance and restoration.
+ch25.s1 = The Biologic Uplifters
+ch25.s1.u1.k = Adam and Eve are a Material Son and Daughter sent to uplift the evolutionary races, the material gift of the Creator Son.
+ch25.s1.u1.p = The Urantia Book presents Adam and Eve not as the first ancestors of mankind but as an order of sonship that comes according to a set universe plan. When primitive man reaches the limit of natural evolutionary development, the System Sovereign sends a pair of biologic uplifters. With the Planetary Prince they remain on that world throughout its evolution, upstepping the races and quickening culture. They are the material gift of the Creator Son to the inhabited worlds.
+ch25.s1.u2.k = On normal worlds the Garden of Eden functions for ages as the pattern and center of world culture.
+ch25.s1.u2.p = On worlds where the mission of Adam and Eve succeeds, the Garden of Eden remains for ages a cultural center and the social pattern of planetary life. Even in early times, while the violet people live relatively apart, their schools receive suitable students from the world races, and the industries of the Garden open new channels of commerce. This is the original shape of the divine plan. Only by keeping this normal picture in mind can we see, in reading Urantia's story, what was lost and what remained.
+ch25.s1.u3.k = Adam and Eve took up an almost hopeless task on a planet isolated by rebellion.
+ch25.s1.u3.p = Urantia was a world placed in spiritual isolation by the rebellion of its Planetary Prince, Caligastia. Adam and Eve arrived where nothing was ready for the proclamation of the brotherhood of man, a world groping in spiritual darkness, its confusion worse confounded. The text says no Adam was ever assigned to a more difficult world. In judging their failure we must remember these conditions first.
+ch25.s2 = The Default
+ch25.s2.u1.k = The default began not in evil intent but in a wish to hasten the good, born of loneliness and impatience.
+ch25.s2.u1.p = Isolated, with no way to consult their superiors, Adam and Eve gradually lost heart. Then Serapatatia, a Nodite leader, urged a plan: if a leader of part violet descent could be born to the Nodites, those peoples would be bound more closely to the Garden. The idea was soberly and honestly considered to be for the good of the world. The tragedy came not from malice but from good intentions, from choosing a short cut instead of waiting.
+ch25.s2.u2.k = The warning against mixing good and evil meant not to mingle the divine plan with human devising.
+ch25.s2.u2.p = The story of the tree of knowledge of good and evil gains new meaning here. Good is carrying out the divine plan, sin is deliberate transgression of the divine will, and evil is the misapplication of plans that produces disharmony. Adam and Eve were warned again and again: on the day they mingled good and evil, they would become as the mortals of the realm. Even a good purpose, mixed with wrong methods, breeds confusion.
+ch25.s2.u3.k = On the way to Paradise nothing is gained by trying to circumvent the divine plan through short cuts.
+ch25.s2.u3.p = The text says that had Adam and Eve been a little more patient, they would eventually have succeeded. But Eve listened to the subtle propaganda of personal liberty. The lesson applies to every ascender: the divine plan may seem slow, yet it is the surest way, and impatient devising ends in a longer detour. Patience is a central virtue of spiritual maturity.
+ch25.s3 = There Was No Fall of Man
+ch25.s3.u1.k = There was no fall of man; mankind was in fact uplifted by Adam's bestowal.
+ch25.s3.u1.p = The doctrine that mankind fell through Adam's transgression and inherited a sinful nature has been a great pillar of Christian theology. The Urantia Book plainly denies it. Adam and Eve fell from the high estate of Material Sonship to the status of mortals, but that was not the fall of man. Human history is a story of progressive evolution, and the Adamic bestowal left the peoples of the world greatly improved over their former biologic condition.
+ch25.s3.u2.k = Adam should not be regarded as the cause of a curse on the human race.
+ch25.s3.u2.p = Adam and Eve have long been blamed as the authors of every human misfortune. The text assesses them more fairly. They broke their covenant and lost their status, yet their contribution did much to advance the civilization of Urantia, and the high councils do not regard their mission as a total loss. Heaven's way of seeing is to recognize the good that the failed have left behind rather than to condemn them.
+ch25.s3.u3.k = Perfection is not our origin but our eternal goal, and a personal, progressive universe is glorious.
+ch25.s3.u3.p = The revelator who recounts the tragedy of Eden does not see the very possibility of mistakes as a flaw in the universe. The universe was not created perfect; perfection is not the starting point but the goal to be reached. That disagreement and misunderstanding are possible is evidence that personality is alive in the universe. This confession, that a personal and progressive universe is more glorious than a mechanically perfect one, places failure within the context of growth.
+ch25.s4 = Repentance and Restoration
+ch25.s4.u1.k = The transgression of Adam and Eve was an error of judgment, and their repentance was accepted.
+ch25.s4.u1.p = Adam and Eve did not stage a conscious and deliberate rebellion. Their wrong was an error of judgment, and they sincerely repented. Remarkably, after being reduced to mortal status they experienced the indwelling of a Thought Adjuster, which they had never had before. Human status coupled with sincere repentance had made it possible for an Adjuster to indwell them. A new path began at the very place of failure.
+ch25.s4.u2.k = Michael remembered the loyal hearts of those who defaulted and promised to call them forth.
+ch25.s4.u2.p = The only personal message Adam and Eve ever received from Michael is the warmest passage in this story. The sovereign of the universe remembered not only their failure but the desire of their hearts to be loyal to the Father's will. God does not judge people by outcomes alone; he looks at motives and longings. This promise tells everyone who has failed that hope remains so long as the heart is turned toward God.
+ch25.s4.u3.k = Raised in a special resurrection, Adam and Eve became ascending citizens and still serve Urantia.
+ch25.s4.u3.p = The story of Adam and Eve does not end in failure. They fell asleep trusting the promise of resurrection and awoke on the mansion worlds in a special resurrection. They passed quickly through the worlds of progressive ascension, attained citizenship on Jerusem, and returned to their home planet as members of a different order of universe personalities. Today they are among the twenty-four counselors who serve Urantia. This story of restoration is a vivid testimony that salvation is open to all.
+ch25.qs1 = If I have ever taken a short cut instead of the appointed way in order to reach a good goal, what came of it?
+ch25.qs2 = How does the teaching that there was no fall of man change my thinking about human nature and salvation?
+ch25.qs3 = How does the fact that God looks at the desire of the heart more than at outcomes help me view my own failures?
+=== ch24.s1.u1.q1#0  [54:0.1]  auto
+EN quote : EVOLUTIONARY man finds it difficult fully to comprehend the significance and to grasp the meanings of evil, error, sin, and iniquity.
+ES quote : EL HOMBRE evolucionario encuentra difícil comprender plenamente el significado y entender los sentidos del mal, el error, el pecado y la iniquidad.
+
+=== ch24.s1.u1.q2#0  [54:0.2]  auto
+EN quote : The Gods neither create evil nor permit sin and rebellion. Potential evil is time-existent in a universe embracing differential levels of perfection meanings and values. … The deliberate choice of evil constitutes sin; the willful rejection of truth is error; the persistent pursuit of sin and error is iniquity.
+ES quote : Los Dioses no crean el mal ni permiten el pecado y la rebelión. El potencial del mal es temporo-existente en un universo que comprende niveles diferenciales de sentidos y valores de perfección. … La elección deliberada del mal constituye el pecado; el rechazo volitivo de la verdad es error; la búsqueda persistente del pecado y del error es iniquidad.
+
+=== ch24.s1.u2.q1#0  [148:4.3]  auto  (whole verse)
+EN quote : "Evil is the unconscious or unintended transgression of the divine law, the Father's will. Evil is likewise the measure of the imperfectness of obedience to the Father's will.
+ES quote : «El mal es la transgresión inconsciente o sin intención de la ley divina, la voluntad del Padre. El mal es, del mismo modo, la medida de la imperfección de la obediencia a la voluntad del Padre.
+
+=== ch24.s1.u2.q1#1  [148:4.4]  auto  (whole verse)
+EN quote : "Sin is the conscious, knowing, and deliberate transgression of the divine law, the Father's will. Sin is the measure of unwillingness to be divinely led and spiritually directed.
+ES quote : «El pecado es la transgresión consciente, conocedora y deliberada de la ley divina, la voluntad del Padre. El pecado es la medida de la renuencia a la guía divina y a la dirección espiritual.
+
+=== ch24.s1.u2.q1#2  [148:4.5]  auto  (whole verse)
+EN quote : "Iniquity is the willful, determined, and persistent transgression of the divine law, the Father's will. Iniquity is the measure of the continued rejection of the Father's loving plan of personality survival and the Sons' merciful ministry of salvation.
+ES quote : «La iniquidad es la transgresión voluntaria, decidida y persistente de la ley divina, la voluntad del Padre. La iniquidad es la medida del rechazo constante del plan amante del Padre para la supervivencia de la personalidad y del ministerio misericordioso de los Hijos para la salvación.
+
+=== ch24.s1.u3.q1#0  [67:1.4]  auto
+EN quote : There are many ways of looking at sin, but from the universe philosophic viewpoint sin is the attitude of a personality who is knowingly resisting cosmic reality. … But sin is a purposeful resistance to divine reality—a conscious choosing to oppose spiritual progress—while iniquity consists in an open and persistent defiance of recognized reality and signifies such a degree of personality disintegration as to border on cosmic insanity.
+ES quote : Hay muchas maneras de considerar el pecado; pero desde el punto de vista filosófico del universo, el pecado es la actitud de una personalidad que deliberadamente resiste la realidad cósmica. … Pero el pecado es una resistencia intencional a la realidad divina —el optar conscientemente oponerse al progreso espiritual— en tanto que la iniquidad consiste en desafiar abierta y persistentemente la realidad reconocida y supone tal grado de desintegración de la personalidad que raya en la locura cósmica.
+
+=== ch24.s2.u1.q1#0  [3:5.15]  auto
+EN quote : The only evolutionary world without error (the possibility of unwise judgment) would be a world without free intelligence. In the Havona universe there are a billion perfect worlds with their perfect inhabitants, but evolving man must be fallible if he is to be free. … The possibility of mistaken judgment (evil) becomes sin only when the human will consciously endorses and knowingly embraces a deliberate immoral judgment.
+ES quote : El único mundo evolutivo sin error (la posibilidad de un juicio necio) sería un mundo sin inteligencia libre. En el universo de Havona hay mil millones de mundos perfectos con sus habitantes perfectos, pero el hombre evolutivo debe ser falible si ha de ser libre. … La posibilidad de un juicio erróneo (el mal) se convierte en pecado sólo cuando la voluntad humana apoya conscientemente y adopta a sabiendas un juicio deliberadamente inmoral.
+
+=== ch24.s2.u2.q1#0  [54:3.1]  auto
+EN quote : The moral will creatures of the evolutionary worlds are always bothered with the unthinking question as to why the all-wise Creators permit evil and sin. They fail to comprehend that both are inevitable if the creature is to be truly free. The free will of evolving man or exquisite angel is not a mere philosophic concept, a symbolic ideal. Man's ability to choose good or evil is a universe reality.
+ES quote : Las criaturas volitivas morales de los mundos evolucionarios siempre se han preocupado por la pregunta irreflexiva de por qué los Creadores omnisapientes permiten el mal y el pecado. No comprenden que ambos son inevitables si la criatura ha de ser verdaderamente libre. El libre albedrío del hombre en evolución o del ángel exquisito no es un mero concepto filosófico, un ideal simbólico. La habilidad del hombre para elegir el bien y el mal es una realidad del universo.
+
+=== ch24.s2.u3.q1#0  [54:1.2]  auto  (whole verse)
+EN quote : True liberty is the quest of the ages and the reward of evolutionary progress. False liberty is the subtle deception of the error of time and the evil of space. Enduring liberty is predicated on the reality of justice—intelligence, maturity, fraternity, and equity.
+ES quote : La libertad verdadera es la búsqueda de las edades y la recompensa del progreso evolucionario. La libertad falsa es la decepción sutil del error del tiempo y del mal del espacio. La libertad duradera se basa en la realidad de la justicia —inteligencia, madurez, fraternidad y equidad.
+
+=== ch24.s2.u3.q2#0  [54:1.3]  auto  (whole verse)
+EN quote : Liberty is a self-destroying technique of cosmic existence when its motivation is unintelligent, unconditioned, and uncontrolled. True liberty is progressively related to reality and is ever regardful of social equity, cosmic fairness, universe fraternity, and divine obligations.
+ES quote : La libertad es una técnica autodestructora de la existencia cósmica cuando su motivación no es inteligente, es incondicionada, e incontrolada. La verdadera libertad está progresivamente relacionada con la realidad y es por siempre respetuosa de la equidad social, la justicia cósmica, la fraternidad universal, y las obligaciones divinas.
+
+=== ch24.s3.u1.q1#0  [148:4.6]  auto
+EN quote : To be imperfect or partial in natural endowment is not sinful. Man is indeed subject to evil, but he is in no sense the child of the evil one unless he has knowingly and deliberately chosen the paths of sin and the life of iniquity. Evil is inherent in the natural order of this world, but sin is an attitude of conscious rebellion which was brought to this world by those who fell from spiritual light into gross darkness.
+ES quote : El que uno es imperfecto o parcial en lo que la naturaleza le otorgó, no es pecaminoso. El hombre está en verdad sujeto al mal, pero no es en ningún sentido hijo del diablo, a menos que escoja a sabiendas y deliberadamente los caminos del pecado y una vida de iniquidad. El mal es inherente al orden natural de este mundo, pero el pecado es una actitud de rebelión consciente que fue traída a este mundo por los que cayeron de la luz espiritual a las profundísimas tinieblas.
+
+=== ch24.s3.u2.q1#0  [148:4.9]  TO CUT BY YOU
+EN quote : "The Greeks and others have taught you that man is descending from godly perfection steadily down toward oblivion or destruction; I have come to show that man, by entrance into the kingdom, is ascending certainly and surely up to God and divine perfection.
+EN verse : "The Greeks and others have taught you that man is descending from godly perfection steadily down toward oblivion or destruction; I have come to show that man, by entrance into the kingdom, is ascending certainly and surely up to God and divine perfection. Any being who in any manner falls short of the divine and spiritual ideals of the eternal Father's will is potentially evil, but such beings are in no sense sinful, much less iniquitous.
+ES verse : «Los griegos y otros os enseñaron que el hombre va descendiendo gradualmente de la perfección divina, al olvido o la destrucción; yo he venido para mostrar que el hombre, mediante su entrada en el reino, asciende a Dios y a la perfección divina en forma segura y certera. Todo ser que de alguna manera no alcance a los ideales divinos y espirituales de la voluntad del Padre eterno es potencialmente perverso, pero no es en ningún sentido un pecador, ni mucho menos, inicuo.
+
+=== ch24.s3.u3.q1#0  [67:7.5]  auto
+EN quote : Eternal survival can be jeopardized only by the decisions of the mind and the choice of the soul of the individual himself.
+ES quote : La supervivencia eterna puede peligrar sólo por las decisiones de la mente y la elección del alma del individuo mismo.
+
+=== ch24.s3.u3.q2#0  [67:7.7]  auto
+EN quote : Caligastia rebelled, Adam and Eve did default, but no mortal subsequently born on Urantia has suffered in his personal spiritual experience because of these blunders. … No person is ever made to suffer vital spiritual deprivation because of the sin of another. Sin is wholly personal as to moral guilt or spiritual consequences, notwithstanding its far-flung repercussions in administrative, intellectual, and social domains.
+ES quote : Caligastia se rebeló, Adán y Eva incumplieron, pero ningún mortal nacido posteriormente en Urantia ha sufrido en su experiencia espiritual personal debido a estos desaciertos. … A ninguna persona jamás se le obliga a sufrir la privación espiritual vital debido al pecado ajeno. El pecado es enteramente personal con relación al cargo de conciencia moral o consecuencias espirituales, a despecho de sus repercusiones remotas en los dominios administrativos, intelectuales y sociales.
+
+=== ch24.s4.u1.q1#0  [89:10.2]  auto  (whole verse)
+EN quote : Sin must be redefined as deliberate disloyalty to Deity. There are degrees of disloyalty: the partial loyalty of indecision; the divided loyalty of confliction; the dying loyalty of indifference; and the death of loyalty exhibited in devotion to godless ideals.
+ES quote : El pecado ha de redefinirse como deslealtad deliberada a la Deidad. Existen grados de deslealtad: la lealtad parcial de la indecisión; la lealtad ambivalente del conflicto; la lealtad moribunda de la indiferencia; y la muerte de la lealtad manifestada por la devoción a ideales impíos.
+
+=== ch24.s4.u1.q2#0  [89:10.3]  auto  (whole verse)
+EN quote : The sense or feeling of guilt is the consciousness of the violation of the mores; it is not necessarily sin. There is no real sin in the absence of conscious disloyalty to Deity.
+ES quote : El sentido o sentimiento de culpa es la conciencia de la violación de las costumbres normativas; no es necesariamente pecado. No hay pecado auténtico a menos que haya deslealtad consciente a la Deidad.
+
+=== ch24.s4.u2.q1#0  [89:10.4]  auto
+EN quote : The possibility of the recognition of the sense of guilt is a badge of transcendent distinction for mankind. It does not mark man as mean but rather sets him apart as a creature of potential greatness and ever-ascending glory.
+ES quote : La posibilidad de reconocer el sentimiento de culpa es marca de la distinción trascendente de la humanidad. No señala al hombre como malvado sino más bien le separa como criatura potencialmente capaz de grandeza y de gloria cada vez más elevada.
+
+=== ch24.s4.u2.q2#0  [89:10.5]  auto  (whole verse)
+EN quote : The confession of sin is a manful repudiation of disloyalty, but it in no wise mitigates the time-space consequences of such disloyalty. But confession—sincere recognition of the nature of sin—is essential to religious growth and spiritual progress.
+ES quote : La confesión del pecado es el repudio viril de la deslealtad, pero no mitiga de ninguna manera las consecuencias espacio-temporales de dicha deslealtad. Pero la confesión —el reconocimiento sincero de la naturaleza del pecado— es esencial para el crecimiento religioso y el progreso espiritual.
+
+=== ch24.s4.u3.q1#0  [2:6.8]  auto
+EN quote : God loves the sinner and hates the sin: such a statement is true philosophically, but God is a transcendent personality, and persons can only love and hate other persons. Sin is not a person. … The love of God saves the sinner; the law of God destroys the sin.
+ES quote : Dios ama al pecador y odia el pecado: esta declaración es filosóficamente cierta, pero Dios es una personalidad trascendente, y las personas tan sólo pueden amar y odiar a otras personas. El pecado no es una persona. … El amor de Dios salva al pecador; la ley de Dios destruye el pecado.
+
+=== ch25.s1.u1.q1#0  [51:0.1]  auto
+EN quote : DURING the dispensation of a Planetary Prince, primitive man reaches the limit of natural evolutionary development, and this biologic attainment signals the System Sovereign to dispatch to such a world the second order of sonship, the biologic uplifters. These Sons, for there are two of them—the Material Son and Daughter—are usually known on a planet as Adam and Eve.
+ES quote : DURANTE la dispensación de un Príncipe Planetario, el hombre primitivo alcanza los límites del desarrollo evolucionario natural, y este logro biológico señala al Soberano del Sistema el momento en que corresponde despachar a dicho mundo la segunda orden de filiación, los elevadores biológicos. Estos Hijos, pues hay dos de ellos —el Hijo Material y la Hija Material— generalmente se conocen en un planeta como Adán y Eva.
+
+=== ch25.s1.u1.q2#0  [51:0.2]  auto
+EN quote : These Sons are the material gift of the Creator Son to the inhabited worlds. Together with the Planetary Prince, they remain on their planet of assignment throughout the evolutionary course of such a sphere.
+ES quote : Estos Hijos son el don material del Hijo Creador a los mundos habitados. Juntamente con el Príncipe Planetario, permanecen en su planeta de asignación a lo largo de todo el curso evolucionario de dicha esfera.
+
+=== ch25.s1.u2.q1#0  [51:6.1]  auto
+EN quote : On most of the inhabited worlds the Gardens of Eden remain as superb cultural centers and continue to function as the social patterns of planetary conduct and usage age after age. Even in early times when the violet peoples are relatively segregated, their schools receive suitable candidates from among the world races, while the industrial developments of the garden open up new channels of commercial intercourse.
+ES quote : En la mayoría de los mundos habitados los Jardines de Edén permanecen como centros culturales y siguen funcionando como modelos sociales de conducta y usanza planetaria época tras época. Aun en los tiempos primitivos, cuando los pueblos violetas están relativamente segregados, sus escuelas aceptan candidatos apropiados provenientes de las razas mundiales, mientras que los desarrollos industriales del jardín abren nuevos canales de intercambio comercial.
+
+=== ch25.s1.u3.q1#0  [73:0.3]  auto  (whole verse)
+EN quote : Tabamantia, sovereign supervisor of the series of decimal or experimental worlds, came to inspect the planet and, after his survey of racial progress, duly recommended that Urantia be granted Material Sons. In a little less than one hundred years from the time of this inspection, Adam and Eve, a Material Son and Daughter of the local system, arrived and began the difficult task of attempting to untangle the confused affairs of a planet retarded by rebellion and resting under the ban of spiritual isolation.
+ES quote : Tabamantia, supervisor soberano para la serie de mundos decimales o experimentales, vino a inspeccionar el planeta y, después de haber realizado su estudio de progreso racial, recomendó debidamente que a Urantia se le otorgaran Hijos Materiales. Un poco menos de cien años después de esta inspección, Adán y Eva, un Hijo y una Hija Material del sistema local, llegaron y emprendieron la difícil tarea de intentar desenmarañar los asuntos confusos de un planeta que se había atrasado por la rebelión y que, en virtud de una proscripción, había quedado en aislamiento espiritual.
+
+=== ch25.s1.u3.q2#0  [75:1.3]  auto
+EN quote : Adam and Eve found themselves on a sphere wholly unprepared for the proclamation of the brotherhood of man, a world groping about in abject spiritual darkness and cursed with confusion worse confounded by the miscarriage of the mission of the preceding administration. … No Adam of the planetary service was ever set down on a more difficult world; the obstacles seemed insuperable and the problems beyond creature solution.
+ES quote : Adán y Eva se encontraban en una esfera totalmente carente de preparación para la proclamación de la hermandad del hombre, un mundo que andaba a tientas en total oscuridad espiritual y afligido con una confusión exacerbada por la malograda misión de la administración anterior. … Jamás a ningún Adán del servicio planetario le había tocado un mundo más difícil; parecían los obstáculos insuperables y los problemas, fuera del alcance de las posibilidades de solución de un ser creado.
+
+=== ch25.s2.u1.q1#0  [75:1.4]  auto  (whole verse)
+EN quote : They were isolated, and the tremendous sense of loneliness which bore down upon them was all the more heightened by the early departure of the Melchizedek receivers. Only indirectly, by means of the angelic orders, could they communicate with any being off the planet. Slowly their courage weakened, their spirits drooped, and sometimes their faith almost faltered.
+ES quote : Estaban aislados, y el tremendo sentimiento de soledad que los agobiaba fue aumentado más aún por la partida temprana de los síndicos Melquisedek. No podían comunicarse sino indirectamente, mediante las órdenes angélicas, con entes ajenos al planeta. Poco a poco se les enervaba la valentía, se les iban cayendo los ánimos por los suelos, y a veces, casi les fallaba la fe.
+
+=== ch25.s2.u1.q2#0  [75:3.5]  auto
+EN quote : Serapatatia contended that, if the Nodites, as the most progressive and co-operative race, could have a leader born to them of part origin in the violet stock, it would constitute a powerful tie binding these peoples more closely to the Garden. And all of this was soberly and honestly considered to be for the good of the world since this child, to be reared and educated in the Garden, would exert a great influence for good over his father's people.
+ES quote : Serapatatia alegó que, si los noditas, en su calidad de raza más progresiva y cooperativa, pudieran contar con un dirigente con origen parcial en la raza violeta, constituiría un fuerte vínculo que uniría estos pueblos más estrechamente al Jardín. Juiciosa y honestamente, se consideró que todo lo antedicho beneficiaría al mundo, ya que este hijo, que habría de ser criado y educado en el Jardín, ejercería gran influencia benéfica sobre el pueblo de su padre.
+
+=== ch25.s2.u2.q1#0  [75:4.3]  auto  (whole verse)
+EN quote : Eve had consented to participate in the practice of good and evil. Good is the carrying out of the divine plans; sin is a deliberate transgression of the divine will; evil is the misadaptation of plans and the maladjustment of techniques resulting in universe disharmony and planetary confusion.
+ES quote : Eva había accedido a participar en la práctica del bien y el mal. El bien es la ejecución del designio divino; el pecado es una transgresión deliberada de la voluntad divina; el mal es la mala adaptación de los designios y el mal ajuste de las técnicas que resultan en la discordia universal y la confusión planetaria.
+
+=== ch25.s2.u2.q2#0  [75:4.4]  auto  (whole verse)
+EN quote : Every time the Garden pair had partaken of the fruit of the tree of life, they had been warned by the archangel custodian to refrain from yielding to the suggestions of Caligastia to combine good and evil. They had been thus admonished: "In the day that you commingle good and evil, you shall surely become as the mortals of the realm; you shall surely die."
+ES quote : Cada vez que la pareja del Jardín había tomado del fruto del árbol de la vida, les había advertido el arcángel custodio que se abstuvieran de sucumbir a las sugerencias de Caligastia en el sentido de combinar el bien y el mal. Se les había amonestado con lo siguiente: «El día que mezcléis el bien y el mal, indudablemente os convertiréis en mortales del reino; seguramente moriréis».
+
+=== ch25.s2.u3.q1#0  [75:8.4]  auto
+EN quote : Adam was confronted with a well-nigh hopeless task when, with his beautiful mate, he was transported from Jerusem to this dark and confused planet. But had they been guided by the counsel of the Melchizedeks and their associates, and had they been more patient, they would have eventually met with success. But Eve listened to the insidious propaganda of personal liberty and planetary freedom of action.
+ES quote : Adán afrontaba una labor casi imposible cuando, con su bella consorte, fue transportado de Jerusem a este oscuro y confuso planeta. Pero habían sido guiados por la asesoría de los Melquisedek y sus asociados, y de haber sido más pacientes, habrían triunfado a la larga. Pero Eva escuchó la insidiosa propaganda de la libertad personal y la libertad de acción planetaria.
+
+=== ch25.s2.u3.q2#0  [75:8.5]  auto  (whole verse)
+EN quote : Never, in all your ascent to Paradise, will you gain anything by impatiently attempting to circumvent the established and divine plan by short cuts, personal inventions, or other devices for improving on the way of perfection, to perfection, and for eternal perfection.
+ES quote : Jamás en tu ascenso al Paraíso, te ganarás nada intentando impacientemente eludir el designio divino establecido mediante atajos, invenciones personales u otros artificios para facilitar el avance en el camino de la perfección, para la perfección y hacia la perfección eterna.
+
+=== ch25.s3.u1.q1#0  [75:8.1]  auto
+EN quote : Adam and Eve did fall from their high estate of material sonship down to the lowly status of mortal man. But that was not the fall of man. The human race has been uplifted despite the immediate consequences of the Adamic default.
+ES quote : En efecto cayeron Adán y Eva de su estado superior de filiación material hasta el estado inferior de hombre mortal. Pero esto no constituyó la caída del hombre. La raza humana ha sido mejorada a pesar de las consecuencias inmediatas de la falta adánica.
+
+=== ch25.s3.u1.q2#0  [75:8.2]  TO CUT BY YOU
+EN quote : There has been no "fall of man." The history of the human race is one of progressive evolution, and the Adamic bestowal left the world peoples greatly improved over their previous biologic condition.
+EN verse : There has been no "fall of man." The history of the human race is one of progressive evolution, and the Adamic bestowal left the world peoples greatly improved over their previous biologic condition. The more superior stocks of Urantia now contain inheritance factors derived from as many as four separate sources: Andonite, Sangik, Nodite, and Adamic.
+ES verse : No ha habido ninguna «caída del hombre». La historia de la raza humana consiste en la evolución progresiva, y el autootorgamiento adánico dejó a los pueblos del mundo bastante mejor que en su previa condición biológica. Las razas superiores de Urantia ahora entrañan factores hereditarios derivados de tantas como cuatro fuentes diferentes: la andonita, sangik, nodita y adánica.
+
+=== ch25.s3.u2.q1#0  [75:8.3]  auto  (whole verse)
+EN quote : Adam should not be regarded as the cause of a curse on the human race. While he did fail in carrying forward the divine plan, while he did transgress his covenant with Deity, while he and his mate were most certainly degraded in creature status, notwithstanding all this, their contribution to the human race did much to advance civilization on Urantia.
+ES quote : A Adán no se le debe considerar como la causa de la aflicción de la raza humana. Bien que falló en proseguir con el designio divino, bien que, en efecto, transgredió su pacto con la Deidad, bien que él y su consorte sí, y sin duda, fueron degradados en su estado de criatura, a pesar de todo esto, efectivamente le sirvió mucho su contribución a la raza humana para hacer progresar la civilización en Urantia.
+
+=== ch25.s3.u2.q2#0  [51:0.3]  auto
+EN quote : While there was a miscarriage of the ideal plans for improving your native races, still, Adam's mission was not in vain; Urantia has profited immeasurably from the gift of Adam and Eve, and among their fellows and in the councils on high their work is not reckoned as a total loss.
+ES quote : Aunque ocurrió un fracaso de los planes ideales para el mejoramiento de vuestras razas nativas, sin embargo, la misión de Adán no fue en vano; Urantia se ha beneficiado inmensurablemente del don de Adán y Eva, y entre sus semejantes y en los concilios en lo alto, su contribución no se considera una pérdida total.
+
+=== ch25.s3.u3.q1#0  [75:8.6]  auto
+EN quote : We are a part of a gigantic creation, and it is not strange that everything does not work in perfection; our universe was not created in perfection. Perfection is our eternal goal, not our origin.
+ES quote : Formamos parte de una gigantesca creación, por tanto no es extraño que no funcione todo a la perfección; nuestro universo no fue creado en perfección. La perfección es nuestra meta eterna, no nuestro origen.
+
+=== ch25.s3.u3.q2#0  [75:8.7]  auto
+EN quote : But in our evolving universe of relative perfection and imperfection we rejoice that disagreement and misunderstanding are possible, for thereby is evidenced the fact and the act of personality in the universe. … What a glorious universe, in that it is personal and progressive, not merely mechanical or even passively perfect!
+ES quote : Pero en nuestro universo evolutivo de perfección e imperfección relativas, nos alegramos de que sean posibles el desacuerdo y los malentendidos, pues, por este medio se ponen de manifiesto la realidad y las acciones de la personalidad en el universo. … ¡Qué universo más glorioso, por cuanto es personal y progresivo, no meramente mecánico, o aún, pasivamente perfecto!
+
+=== ch25.s4.u1.q1#0  [76:5.1]  auto
+EN quote : Not long after the establishment of the second Eden, Adam and Eve were duly informed that their repentance was acceptable, and that, while they were doomed to suffer the fate of the mortals of their world, they should certainly become eligible for admission to the ranks of the sleeping survivors of Urantia. … Their transgression had been an error of judgment and not the sin of conscious and deliberate rebellion.
+ES quote : Al poco tiempo de establecerse el segundo Edén, a Adán y Eva se les informó debidamente que su arrepentimiento era aceptable y que, aunque estaban condenados a sufrir el destino de los mortales de su mundo, indudablemente llegarían a ser aptos para ser admitidos al rango de los supervivientes durmientes de Urantia. … Su transgresión había sido un error de juicio y no un pecado de rebelión consciente y deliberada.
+
+=== ch25.s4.u1.q2#0  [76:5.2]  auto
+EN quote : Adam and Eve did not, as citizens of Jerusem, have Thought Adjusters, nor were they Adjuster indwelt when they functioned on Urantia in the first garden. But shortly after their reduction to mortal status they became conscious of a new presence within them and awakened to the realization that human status coupled with sincere repentance had made it possible for Adjusters to indwell them.
+ES quote : Adán y Eva, como ciudadanos de Jerusem, no tuvieron Ajustadores del Pensamiento, tampoco moró en ellos un Ajustador cuando funcionaban en Urantia en el primer jardín. Pero poco después de su reducción al estado de mortales, se volvieron conscientes de una nueva presencia dentro de ellos, y se dieron cuenta de que la condición humana, juntamente con el arrepentimiento sincero, habían hecho posible que un Ajustador morara dentro de ellos.
+
+=== ch25.s4.u2.q1#0  [76:5.3]  auto
+EN quote : This message, among other expressions of friendship and comfort, said: "I have given consideration to the circumstances of your default, I have remembered the desire of your hearts ever to be loyal to my Father's will, and you will be called from the embrace of mortal slumber when I come to Urantia if the subordinate Sons of my realm do not send for you before that time."
+ES quote : Este mensaje, entre otras expresiones de amistad y consuelo, decía: «He considerado las circunstancias de vuestra falta, y he recordado que el deseo de vuestro corazón siempre fue leal a la voluntad de mi Padre, y seréis llamados del abrazo del sueño mortal, al llegar yo a Urantia, si los Hijos subordinados de mi reino no os llaman antes de este momento».
+
+=== ch25.s4.u3.q1#0  [76:6.1]  auto  (whole verse)
+EN quote : Adam and Eve went to their mortal rest with strong faith in the promises made to them by the Melchizedeks that they would sometime awake from the sleep of death to resume life on the mansion worlds, worlds all so familiar to them in the days preceding their mission in the material flesh of the violet race on Urantia.
+ES quote : Adán y Eva fueron a su descanso mortal con fuerte fe en las promesas que les habían hecho los Melquisedek en el sentido de que, en algún momento, despertarían del sueño de la muerte para reanudar la vida en los mundos de estancia, mundos que conocían muy bien de sus días anteriores a su misión en la carne material de la raza violeta sobre Urantia.
+
+=== ch25.s4.u3.q2#0  [76:6.3]  auto
+EN quote : Adam and Eve quickly passed through the worlds of progressive ascension until they attained citizenship on Jerusem, once again to be residents of the planet of their origin but this time as members of a different order of universe personalities. … They were immediately attached to the Urantia service on the system capital, later being assigned membership among the four and twenty counselors who constitute the present advisory-control body of Urantia.
+ES quote : Pasaron de prisa Adán y Eva por los mundos del ascenso progresivo hasta que alcanzaron la ciudadanía en Jerusem, convirtiéndose nuevamente en residentes del planeta de su origen, pero esta vez como miembros de diferente orden de personalidades del universo. … Inmediatamente fueron agregados al servicio de Urantia en la capital del sistema, y posteriormente se les asignó calidad de socio en el órgano de asesoría y control de Urantia junto con los veinticuatro consejeros que lo constituyen.
+

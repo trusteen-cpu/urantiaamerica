@@ -1,0 +1,49 @@
+# -*- coding: utf-8 -*-
+from save import save, saveq
+
+T = {
+"ch04.t": "La Déité expérientielle",
+"ch04.sub": "L’Être Suprême et l’Ultime",
+"ch04.sum": "Le Père, le Fils et l’Esprit sont la Déité existentielle, éternelle depuis le commencement. Pourtant, le Livre d’Urantia révèle aussi une Déité qui croît dans le temps : la Déité expérientielle. Dieu le Suprême est dès maintenant en voie d’actualisation en tant que synthèse de l’expérience de tous les Créateurs et de toutes les créatures du grand univers, et Dieu l’Ultime émerge sur les niveaux du maitre univers qui transcendent le temps. Cette vérité jette une lumière nouvelle sur la souffrance et l’inégalité, et elle comporte cette signification étonnante que le choix et l’effort humains prennent effectivement part à la croissance de Dieu. Ce chapitre examine l’idée de la Déité expérientielle, la nature de l’Être Suprême, la relation du Suprême avec l’homme, et la recherche sans fin au-delà de l’Ultime.",
+"ch04.s1": "Déité existentielle et Déité expérientielle",
+"ch04.s1.u1.k": "Le Père, le Fils et l’Esprit sont existentiels ; le Suprême, l’Ultime et l’Absolu sont une Déité expérientielle en voie d’actualisation.",
+"ch04.s1.u1.p": "L’enseignement du Livre d’Urantia sur la Déité suit deux lignes. D’un côté se tiennent les Dieux éternels, qui ont été, sont et seront toujours inchangés. De l’autre se tiennent les Déités qui s’actualisent par l’expérience à mesure que l’univers croît. Dieu le Suprême, Dieu l’Ultime et Dieu l’Absolu sont de telles personnalités de Déité en voie d’actualisation. Le temps devient une scène pleine de sens, même pour Dieu.",
+"ch04.s1.u2.k": "La croissance est la marque distinctive de la Déité expérientielle et implique un partenariat entre Dieu et l’homme.",
+"ch04.s1.u2.p": "Havona ne croît pas, car il était parfait dès le commencement. Mais les univers du temps croissent, et dans cette croissance le Créateur et la créature travaillent ensemble. Dès que nous voyons que nos Créateurs immédiats sont divins et pourtant finis, l’inégalité et la souffrance n’apparaissent plus comme l’indifférence de l’Infini, mais comme les signes d’une œuvre commune inachevée. La foi ne sert alors plus à conseiller la résignation.",
+"ch04.s2": "L’Être Suprême, Dieu dans le temps",
+"ch04.s2.u1.k": "Le Suprême est Dieu-dans-le-temps, et le secret de la croissance des créatures réside en lui.",
+"ch04.s2.u1.p": "Pour l’homme, exister, c’est croitre. Le texte dit que cette croissance n’est pas un accident, mais une fonction de l’Être Suprême. La conquête du présent incomplet, la consommation du futur en voie de perfectionnement et l’avènement du pouvoir contrôlé par l’esprit au moyen du mental ont tous lieu dans le Suprême. Notre expérience quotidienne de croissance fait partie de l’histoire plus vaste d’un univers qui croît.",
+"ch04.s2.u2.k": "Dieu le Suprême est la vérité, la beauté et la bonté, la surâme du cosmos fini.",
+"ch04.s2.u2.p": "Lorsqu’une personne saisit ce qui est vrai, est émue par ce qui est beau et choisit ce qui est bon, elle touche la réalité de Dieu le Suprême. La vérité, la beauté et la bonté sont les maxima finis de divinité dont une créature peut faire l’expérience. Le Suprême n’est pas une abstraction lointaine, mais la douceur du véritable succès et la joie de l’accomplissement perpétuel. Chaque bon moment de la vie est orienté vers lui.",
+"ch04.s2.u3.k": "Dans l’Être Suprême, le Créateur et la créature sont unis en une seule Déité.",
+"ch04.s2.u3.p": "La volonté du Créateur et la volonté de la créature sont qualitativement différentes, mais elles sont apparentées en ce qu’elles peuvent travailler ensemble. L’homme collabore avec Dieu pour cocréer un finalitaire éternel, et Dieu œuvre humainement dans les incarnations de ses Fils. De même que la volonté de Micaël, qui joint la divinité et l’humanité, est plus que la somme des deux, la volonté du Suprême est une réalité nouvelle qui dépasse celle du Créateur comme celle de la créature.",
+"ch04.s3": "Le Suprême et le choix humain",
+"ch04.s3.u1.k": "Dans la mesure où nous faisons la volonté de Dieu, le potentiel tout-puissant du Suprême devient d’autant plus actuel.",
+"ch04.s3.u1.p": "Faire la volonté de Dieu ne reste pas une affaire de piété privée. C’est un pas ajouté à l’actualisation de la Déité dans l’univers. Le Père a prévu que le progrès fini reposerait sur l’effort, l’accomplissement sur la persévérance et la croissance de la personnalité sur la foi. Ainsi, aucun petit acte d’obéissance n’est perdu ; il est enregistré pour toujours dans la croissance du Suprême.",
+"ch04.s3.u2.k": "Dieu fait assez confiance à l’homme pour remettre une fraction de sa nature divine entre les mains humaines.",
+"ch04.s3.u2.p": "La nature du Père, présente en tant qu’Ajusteur de Pensée, ne peut être détruite, quel que soit le choix de l’homme. Mais le moi en évolution, l’enfant du Suprême, peut être perdu. Dieu connait ce risque et se confie pourtant à l’homme. Tandis que nous nous efforçons de réaliser notre moi, le Suprême s’efforce en nous et avec nous. La croissance humaine et la croissance divine ne sont pas séparées.",
+"ch04.s3.u3.k": "Devant chacun se trouve la décision de faire ou non défaut au Dieu du temps, qui dépend de chaque créature.",
+"ch04.s3.u3.p": "Ce passage est l’un des appels les plus pressants de toute la révélation. Le Suprême est le grand frère de toutes les créatures et dépend de la décision de chacune d’elles. Faire ou non défaut au Dieu du temps et à la personnalité Suprême des univers par la paresse d’une régression animale, cela dépend de chacun. Le révélateur avoue avoir jadis fait face à la même décision.",
+"ch04.s3.u4.k": "L’homme trouve le Père dans son propre cœur, mais il doit chercher le Suprême dans le cœur de tous les autres hommes.",
+"ch04.s3.u4.p": "La rencontre avec le Père se fait au-dedans de l’individu, mais la rencontre avec le Suprême se fait dans la relation et la communauté. Lorsque toutes les créatures révèleront pleinement l’amour du Suprême, il deviendra une actualité de l’univers. Et cette découverte n’est pas spectaculaire, mais lente et constante, comme une rivière qui érode le sol. Aimer son prochain, c’est aussi chercher Dieu le Suprême.",
+"ch04.s4": "L’Ultime et la recherche sans fin",
+"ch04.s4.u1.k": "Dieu l’Ultime est une Déité supersuprême fonctionnant sur des niveaux qui transcendent le temps et l’espace.",
+"ch04.s4.u1.p": "Si le Suprême est l’unification de la Trinité comprise par les êtres finis, l’Ultime est l’unification comprise par les êtres absonites, au-delà du temps et de l’espace. Pour l’homme, cela est lointain ; pourtant, le texte dit que toute personnalité ayant participé à l’actualisation de ce niveau de Déité fera l’expérience des valeurs de sa divinité transcendantale. Le chemin qui dépasse le fini mène à atteindre l’ultime.",
+"ch04.s4.u2.k": "L’infinité de Dieu n’est pas un motif de découragement, mais l’assurance suprême d’une croissance sans fin.",
+"ch04.s4.u2.p": "Que nous ne puissions jamais atteindre Dieu pleinement sonne d’abord comme une défaite, mais le texte le lit en sens inverse. L’infinité de Dieu est l’assurance suprême que, devant la personnalité ascendante, s’ouvrent des possibilités de développement de la personnalité et d’association de Déité que l’éternité elle-même n’épuisera pas. Ce qui est sans fin n’est pas monotonie, mais la promesse qu’une découverte nouvelle attend toujours.",
+"ch04.s4.u3.k": "Une vie fondée sur le fait de vivre la volonté du Père conduit directement à l’obtention de la suprématie de l’esprit.",
+"ch04.s4.u3.p": "La haute philosophie de la Déité expérientielle revient finalement à une vie très concrète : une vie fondée sur la vérité, sensible à la beauté et dominée par la bonté. Une telle vie selon la volonté du Père est elle-même le chemin de la suprématie de l’esprit, un pas de plus vers la compréhension du Père-Infini.",
+"ch04.qs1": "En quoi l’enseignement selon lequel Dieu croît dans le temps change-t-il ma manière de voir ma propre imperfection et ma souffrance ?",
+"ch04.qs2": "Si un petit acte accompli aujourd’hui selon la volonté de Dieu a été ajouté à la croissance du Suprême, quel était-il ?",
+"ch04.qs3": "Que signifierait, dans mes relations, chercher Dieu le Suprême dans le cœur des autres ?",
+}
+
+E = " … "
+Q = {
+"ch04.s1.u1.q1#0": "Dieu le Père, Dieu le Fils et Dieu l’Esprit sont éternels — sont des êtres existentiels — tandis que Dieu le Suprême, Dieu l’Ultime et Dieu l’Absolu sont des personnalités de Déité en voie d’actualisation. Elles sont d’une époque postérieure à Havona dans les sphères de l’espace-temps et de l’espace-temps transcendé du maitre univers en expansion évolutionnaire.",
+"ch04.s3.u3.q1#0": "Chacun de vous doit donc se décider comme nous avons dû le faire jadis : Ferez-vous défaut au Dieu du temps, qui dépend tellement des décisions du mental fini ? Ferez-vous défaut à la personnalité Suprême des univers en vous adonnant paresseusement à une régression animale ? Ferez-vous défaut au grand frère de toutes les créatures, qui dépend tellement de chaque créature ?",
+"ch04.s4.u2.q1#0": "Loin d’accabler les créatures, l’infinité de Dieu devrait être l’assurance suprême que, durant tout le futur sans fin, une personnalité ascendante aura, devant elle, ces possibilités de développement de la personnalité et d’association de Déité que l’éternité elle-même ne saurait épuiser ou limiter.",
+"ch04.s4.u3.q1#0": "Pour les créatures finies, matérielles et évolutionnaires, une vie basée sur le fait de vivre la volonté du Père conduit directement à l’obtention de la suprématie de l’esprit dans le cadre de la personnalité et rapproche un peu plus ces créatures de la compréhension du Père-Infini. La vie ainsi centrée sur le Père est fondée sur la vérité, sensible à la beauté et dominée par la bonté.",
+}
+save(T)
+saveq(Q)
