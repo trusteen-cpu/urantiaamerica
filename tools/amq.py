@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Urantia America 공용 인용 도구 — 스페인어·프랑스어·포르투갈어 공식 번역에서 인용을 글자 그대로 잘라 오고 검사한다.
+r"""Urantia America 공용 인용 도구 — 스페인어·프랑스어·포르투갈어 공식 번역에서 인용을 글자 그대로 잘라 오고 검사한다.
    import sys; sys.path.insert(0, r"E:\OneDrive\내 문서\유란시아\urantiaamerica 홈페이지\tools"); import amq
    amq.text("es", "1:0.1")                       → 그 절 전체
    amq.cut("es", "1:0.1", "El Padre", "seres.")  → 시작 문구부터 끝 문구까지(끝 문구 포함) 글자 그대로
