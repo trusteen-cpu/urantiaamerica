@@ -40,6 +40,14 @@ def refs_of(s):
 
 def build(l):
     T = json.load(open(os.path.join(H, f"src_{l}.json"), encoding="utf-8"))
+    if l == "fr":  # 프랑스어 문장부호: ; : ! ? 앞과 « » 안쪽 공백을 줄바꿈 없는 공백으로 (인용문은 공식 번역 그대로)
+        def nb(v):
+            if isinstance(v, str):
+                v = re.sub(r" ([;:!?»])", " \\1", v)
+                return re.sub(r"« ", "« ", v)
+            if isinstance(v, dict): return {k: (x if k in ("n", "cit") else nb(x)) for k, x in v.items()}
+            return v
+        T = {k: (v if k.startswith("ui.") and k not in ("ui.src_note", "ui.lead") else nb(v)) for k, v in T.items()}
     err = []
     # 인용 채우기
     D, nq = {}, 0
