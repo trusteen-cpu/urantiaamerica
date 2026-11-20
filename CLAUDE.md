@@ -10,5 +10,6 @@ site/ 가 배포본, tools/ 는 빌드 도구·번역 원고. 번역 규칙은 t
 - 본문 리더·대조본(es/fr/pt book, bilingual)은 `E:\OneDrive\유란시아 작업\america-site\build_reader.py` 로 만든다.
 
 ## 작업 규칙
+0. 작업을 마칠 때마다 커밋하고 GitHub(trusteen-cpu/urantiaamerica)에 푸시한다.
 1. 50MB가 넘는 파일, mp3·mp4 같은 큰 미디어 파일은 site/ 에 넣지 말고 Cloudflare R2에 올린 뒤 주소로 연결한다.
 2. API 키, 비밀번호, 관리자 열쇠가 든 파일은 절대 커밋하지 않는다. 커밋 전에 .gitignore를 확인한다.
