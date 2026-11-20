@@ -17,14 +17,14 @@
 ## 인용 (가장 중요)
 - 유란시아서 인용은 **번역하지 않는다.** `<l>.json[절번호]` 에서 영어 인용과 같은 부분을 **글자 그대로** 잘라 온다.
   줄인 곳은 ` … `. 검사 도구가 인용이 그 절에 글자 그대로 있는지(공백만 무시) 확인한다.
-- 공식 번역의 용어를 쓴다(예: es Padre Universal, Ajustador del Pensamiento, morontial, Hijo Creador, Miguel de Nebadon;
+- 공식 번역의 용어를 쓴다(예: es Padre Universal, Ajustador del Pensamiento, morontial, Hijo Creador, Micael de Nebadon (공식 스페인어판은 Miguel이 아니라 Micael);
   fr Père Universel, Ajusteur de Pensée, morontiel, Fils Créateur, Micaël de Nébadon;
   pt Pai Universal, Ajustador do Pensamento, moroncial, Filho Criador, Michael de Nébadon).
   용어가 헷갈리면 `<l>.json` 에서 영어 절과 같은 절을 찾아 공식 번역어를 확인한다.
 
 ## 문체
 - 각 언어의 표준 문어. 스페인어는 중립적 스페인어(남미 독자도 읽기 쉽게), 포르투갈어는 브라질식 철자(공식 번역 PDF와 같게).
-  프랑스어는 프랑스식 문장부호(« », ; : 앞 띄움).
+  프랑스어는 프랑스식 문장부호(« », ; : 앞 띄움). 공식 프랑스어판은 1990 개정 철자(connaitre, aout)를 쓰므로 우리 글도 그 철자를 따른다.
 - 영어판에 없는 사실을 더하지 않는다. 설교조·과장 없이 원문의 어조.
 - 사람 이름(Jay Han 등)·책 제목 원어는 처음에 (English) 로 병기.
 
