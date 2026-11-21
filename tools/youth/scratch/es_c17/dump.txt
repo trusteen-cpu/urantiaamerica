@@ -1,0 +1,897 @@
+=== p185.001
+Introduction
+  H: []
+=== p185.002
+A little after six o'clock on the morning of Friday, April 7, A.D. 30, Jesus was brought with his hands bound before Pilate, the Roman governor. About fifty accusers went along, including Caiaphas, members of the Sanhedrin, and Judas Iscariot, and so did the apostle John. The Jewish leaders believed that entering a gentile's building on the day of preparation for the Passover would make them unclean, so they would not go inside the governor's residence, and the trial was held on the steps outside the gate. The Urantia Book points out that while they were trying to kill an innocent man, they were carefully keeping their rules of purity, and it says they are not the only people who cling to small formalities and miss the duties that truly matter.
+=== p185.003
+1. Pontius Pilate
+  H: ['1: Poncio Pilato']
+=== p185.004
+Pilate was a capable administrator, but morally he was a coward. He did not understand the faith the Jews were willing to die for, so he clashed with them badly several times, as when he tried to bring military standards bearing Caesar's image into Jerusalem, or to build an aqueduct with money from the temple treasury. Each time he backed down in the end, so the Jewish leaders learned that they could shake him just by threatening a revolt or threatening to report him to the emperor.
+=== p185.005
+Pilate was later removed as governor for massacring Samaritans, and he never escaped the guilt of having agreed to Jesus' crucifixion. His wife, Claudia, on the other hand, heard about Jesus and later devoted herself to spreading the gospel. The Urantia Book says that if Rome had sent a better governor, this tragedy would not have happened.
+=== p185.006
+2. Jesus Appears Before Pilate
+  H: ['2: Jesús Comparece Ante Pilato']
+=== p185.007
+When Pilate asked what crime they were charging him with, the leaders at first did not even name a specific charge, saying, “⟦Q 185:2.1⟧If this man were not an evildoer, we should not have delivered him up to you⟦/Q⟧”. When Pilate said he would not put anyone to death without a trial, only then did they hand him a written charge: that Jesus had corrupted the nation and stirred up rebellion, that he taught people not to pay taxes to Caesar, and that he called himself king of the Jews.
+  Q#0 185:2.1 how=sentence
+   EN: If this man were not an evildoer, we should not have delivered him up to you
+   AUTO: Si éste hombre no fuera malhechor, no te lo habríamos traído
+   VERSE: Cuando Jesús y sus acusadores se reunieron frente a la sala de juicio de Pilato, el gobernador romano salió y, dirigiéndose a la compañía reunida, preguntó: «¿Qué acusación traéis contra este tipo?» Los saduceos y los consejeros que habían decidido ocuparse de eliminar a Jesús tenían decidido presentarse ante Pilato y pedirle la confirmación de la sentencia de muerte pronunciada contra él, sin voluntariamente mencionar ningún cargo definido. Por lo tanto, el portavoz del tribunal de los sanedristas contestó a Pilato: «Si éste hombre no fuera malhechor, no te lo habríamos traído».
+=== p185.008
+Jesus had never been tried on these charges, yet he gave no answer at all. He did not look at his accusers with scorn, but with deep pity and sad affection. Pilate was deeply impressed by his dignified, quiet manner, so he decided to take Jesus inside and question him privately.
+=== p185.009
+3. The Private Examination by Pilate
+  H: ['3: El Interrogatorio Privado de Pilato']
+=== p185.010
+Pilate had Jesus sit down and asked him about the taxes, and John testified that Jesus and the apostles had always paid their taxes to Caesar and to the temple. When asked whether he was a king, Jesus answered, “⟦Q 185:3.3⟧Do you not perceive that my kingdom is not of this world?⟦/Q⟧” Jesus' kingdom, he explained, is the brotherhood of people who have become sons and daughters of God through faith and by love, and it is open to both Jews and gentiles. Jesus said he had come into this world to show the Father to all people and to bear witness to the truth, and Pilate, half mocking, asked back, “⟦Q 185:3.5⟧what is truth⟦/Q⟧”.
+  Q#0 185:3.3 how=None
+   EN: Do you not perceive that my kingdom is not of this world?
+   AUTO: None
+   VERSE: Entonces le dijo Jesús a Pilato: «¿Acaso no percibes que mi reino no es de este mundo? Si mi reino fuera de este mundo, con toda seguridad mis discípulos lucharían para que yo no fuera entregado a los judíos. Mi presencia aquí ante ti en estas ataduras es suficiente para mostrar a todos los hombres que mi reino es de un dominio espiritual, aun la hermandad de los hombres que, a través de la fe y por el amor, se han vuelto hijos de Dios. Y esta salvación es tanto para los gentiles como para los judíos».
+  Q#1 185:3.5 how=None
+   EN: what is truth
+   AUTO: None
+   VERSE: Entonces dijo Pilato, medio en broma y medio sinceramente: «La verdad, ¿qué es la verdad —quién lo sabe?»
+=== p185.011
+Pilate was convinced that Jesus was not a dangerous revolutionary, so he went outside and declared that he found no fault in him. But when the leaders protested fiercely, saying that Jesus had been stirring up the people ever since Galilee, Pilate tried to escape responsibility by sending Jesus to Herod, the ruler of Galilee.
+=== p185.012
+4. Jesus Before Herod
+  H: ['4: Jesús Ante Herodes']
+=== p185.013
+Herod Antipas wanted to see Jesus perform a miracle with his own eyes. He did not remember that Jesus was the boy who, as a youth, had stood before him in Sepphoris to ask for the wages owed to his father, who had died there unjustly. Herod questioned him for about fifteen minutes and mocked him, telling him to show a miracle, but Jesus did not answer a single word. In the end Herod sneered at Jesus, put an old purple royal robe on him, and sent him back to Pilate. Herod, who had been tormented by fear ever since he killed John the Baptist, was freed from that fear only when he saw that Jesus was a completely different man from John.
+=== p185.014
+5. Jesus Returns to Pilate
+  H: ['5: Jesús Vuelve Ante Pilato']
+=== p185.015
+Pilate again said that Jesus was innocent and offered to have him whipped and then release him. Just then a crowd came streaming in, following the custom of releasing one prisoner at the Passover, so Pilate tried to use this chance to free Jesus and asked them whom he should release, the murderer and robber Barabbas or Jesus. But when the chief priests led the way shouting, “⟦Q 185:5.4⟧Barabbas, Barabbas!⟦/Q⟧” the crowd joined in. The people who had followed Jesus like a hero only a few days before no longer respected Jesus as he stood bound and unresisting.
+  Q#0 185:5.4 how=None
+   EN: Barabbas, Barabbas!
+   AUTO: None
+   VERSE: Pilato se puso de pie y explicó a la multitud que Jesús había sido traído ante él por los altos sacerdotes, quienes querían condenarlo a muerte por ciertas acusaciones, y que él no pensaba que el hombre fuera reo de muerte. Dijo Pilato: «¿A quién pues preferís que yo os suelte, a este Barrabás, el asesino, o a este Jesús de Galilea?» Cuando Pilato hubo hablado así, los altos sacerdotes y los consejeros del sanedrín gritaron a voz en cuello: «¡Barrabás, Barrabás!» Y cuando la gente vio que los altos sacerdotes estaban decididos a poner Jesús a muerte, en seguida se unieron al clamor vociferando que soltaran a Barrabás.
+=== p185.016
+At that moment his wife, Claudia, sent him a letter: “⟦Q 185:5.8⟧I pray you have nothing to do with this innocent and just man⟦/Q⟧”. While Pilate hesitated, the leaders stirred up the crowd even more, and no matter how many times Pilate asked, the crowd only shouted, “⟦Q 185:5.9⟧Crucify him! Crucify him!⟦/Q⟧” Pilate knew Jesus was innocent, but he did not have the courage to go against the angry people.
+  Q#0 185:5.8 how=None
+   EN: I pray you have nothing to do with this innocent and just man
+   AUTO: None
+   VERSE: Pilato indicó a los que estaban congregados ante él que deseaba leer esta comunicación que acababa de recibir antes de proceder con el asunto ante a él. Cuando Pilato abrió la carta de su mujer, leyó: «Te ruego que nada tengas que ver con este hombre justo e inocente a quien llaman Jesús. Mucho he padecido esta noche en sueños por causa de él». Esta nota de Claudia no sólo preocupó grandemente a Pilato por lo que postergó así la adjudicación de este asunto, sino que desafortunadamente proporcionó tiempo suficiente para que los líderes judíos circularan libremente entre la multitud y urgieran al pueblo a que pidiese que soltaran a Barrabás y que crucificaran a Jesús.
+  Q#1 185:5.9 how=None
+   EN: Crucify him! Crucify him!
+   AUTO: None
+   VERSE: Finalmente, Pilato se dirigió nuevamente a solucionar el problema que enfrentaba, preguntando al grupo mezclado de potentados judíos y multitud buscadora de perdón: «¿Qué he de hacer con el que se llama rey de los judíos?». Y todos ellos gritaron al unísono: «¡Crucifícalo! ¡Crucifícalo!». La unanimidad de esta demanda de la multitud mezclada sorprendió y alarmó a Pilato, el juez injusto y temeroso.
+=== p185.017
+6. Pilate’s Last Appeal
+  H: ['6: El Último Llamado de Pilato']
+=== p185.018
+Jesus' friends either had not yet heard of his arrest or were hiding in fear, and the only people there were Jesus' enemies and a crowd that was easily swayed. To appeal to their pity, Pilate had Jesus whipped, which was against Roman law as well. The soldiers put a crown of thorns on him, put a reed in his hand, and mocked him, saying, “⟦Q 185:6.2⟧Hail, king of the Jews!⟦/Q⟧”
+  Q#0 185:6.2 how=None
+   EN: Hail, king of the Jews!
+   AUTO: None
+   VERSE: Pilato quería hacer un último llamado a la piedad de ellos. Pero como teme desafiar el clamor de esta plebe enardecida que quiere la sangre de Jesús, ordena a los guardianes judíos y a los soldados romanos que se lleven a Jesús y lo azoten. Éste fue un acto de procedimiento injusto e ilegal, ya que la ley romana permitía que únicamente aquellos condenados a muerte por crucifixión fueran azotados. Los guardianes llevaron a Jesús al patio abierto del pretorio para este castigo. Aunque sus enemigos no presenciaron los azotes, Pilato sí los presenció, y antes de que ellos terminaran su abuso malvado, ordenó a los azotadores que desistiesen e indicó que Jesús debía ser traído ante él. Antes de que los azotadores golpearan a Jesús con sus cuerdas anudadas, atándole a un poste, nuevamente le pusieron el manto de púrpura, y trenzando una corona de espinas, se la colocaron en la frente. Después de ponerle en la mano una caña como cetro, hincando la rodilla lo escarnecían, diciendo: «¡Salud, rey de los judíos!» Y lo escupieron y le dieron de bofetadas en la cara. Y uno de ellos, antes de devolverlo a Pilato, le quitó la caña de la mano y lo golpeó con ésta en la cabeza.
+=== p185.019
+Pilate brought out Jesus, covered in blood, and cried, “⟦Q 185:6.3⟧Behold the man!⟦/Q⟧” But the hearts of the people, gripped by hatred and prejudice, were not moved; instead they shouted even louder for crucifixion. When the high priest said Jesus must die because he had called himself the Son of God, Pilate began to tremble with fear that Jesus might really be a divine being.
+  Q#0 185:6.3 how=None
+   EN: Behold the man!
+   AUTO: None
+   VERSE: Entonces Pilato condujo a este prisionero sangrante y lacerado y, presentándoselo a la multitud mezclada, dijo: «¡He aquí el hombre! Nuevamente os digo que no hallo delito en él, y habiéndolo azotado, quiero soltarlo».
+=== p185.020
+7. Pilate’s Last Interview
+  H: ['7: La Última Entrevista con Pilato']
+=== p185.021
+Pilate asked Jesus, “⟦Q 185:7.1⟧Where do you come from?⟦/Q⟧” but Jesus was silent. When Pilate said he had the power to release him or to crucify him, Jesus said that he would have no such power unless it were given from above, and that the sin of those who had betrayed and handed him over was greater than Pilate's. When Pilate again tried to set Jesus free, Caiaphas threatened him: “⟦Q 185:7.5⟧If you release this man, you are not Caesar's friend⟦/Q⟧”. The leaders even shouted, “⟦Q 185:7.5⟧We have no king but Caesar⟦/Q⟧”, and Pilate completely gave way out of fear of losing his position.
+  Q#0 185:7.1 how=None
+   EN: Where do you come from?
+   AUTO: None
+   VERSE: Pilato, temblando de emoción temerosa, se sentó al lado de Jesús, y le preguntó: «¿De dónde vienes? Realmente, ¿quién eres tú? ¿Qué es esto que dicen ellos, que tú eres el Hijo de Dios?»
+  Q#1 185:7.5 how=None
+   EN: If you release this man, you are not Caesar's friend
+   AUTO: None
+   VERSE: Pilato estaba casi listo para soltar a Jesús cuando Caifás, el sumo sacerdote, se acercó al cobarde juez romano y, sacudiendo un dedo vengativo en la cara de Pilato, dijo con palabras airadas que toda la multitud podía oír: «Si sueltas a este hombre, no eres amigo del César, y yo me aseguraré de que el emperador se entere de todo». Esta amenaza pública fue demasiado para Pilato, el temor por su fortuna individual eclipsó en ese momento toda otra consideración, y el cobarde gobernador ordenó que Jesús fuera traído ante el asiento del juez. Mientras el Maestro estaba allí frente a ellos, Pilato lo señaló con el dedo y dijo burlonamente: «He aquí vuestro rey». Y los judíos respondieron: «¡Crucifícalo! ¡Crucifícalo!» Y entonces Pilato dijo, con mucha ironía y sarcasmo: «¿Es que debo crucificar a vuestro rey?» Y los judíos respondieron: «Sí, ¡crucifícalo! No tenemos más rey que al César». Entonces Pilato se dio cuenta de que no había esperanza alguna de salvar a Jesús, puesto que no estaba dispuesto él a desafiar a los judíos.
+  Q#2 185:7.5 how=None
+   EN: We have no king but Caesar
+   AUTO: None
+   VERSE: Pilato estaba casi listo para soltar a Jesús cuando Caifás, el sumo sacerdote, se acercó al cobarde juez romano y, sacudiendo un dedo vengativo en la cara de Pilato, dijo con palabras airadas que toda la multitud podía oír: «Si sueltas a este hombre, no eres amigo del César, y yo me aseguraré de que el emperador se entere de todo». Esta amenaza pública fue demasiado para Pilato, el temor por su fortuna individual eclipsó en ese momento toda otra consideración, y el cobarde gobernador ordenó que Jesús fuera traído ante el asiento del juez. Mientras el Maestro estaba allí frente a ellos, Pilato lo señaló con el dedo y dijo burlonamente: «He aquí vuestro rey». Y los judíos respondieron: «¡Crucifícalo! ¡Crucifícalo!» Y entonces Pilato dijo, con mucha ironía y sarcasmo: «¿Es que debo crucificar a vuestro rey?» Y los judíos respondieron: «Sí, ¡crucifícalo! No tenemos más rey que al César». Entonces Pilato se dio cuenta de que no había esperanza alguna de salvar a Jesús, puesto que no estaba dispuesto él a desafiar a los judíos.
+=== p185.022
+8. Pilate’s Tragic Surrender
+  H: ['8: La Trágica Derrota de Pilato']
+=== p185.023
+Jesus was about to be handed over to death with no formal charge, no evidence, no witnesses, and no verdict. Afraid of a riot, Pilate released Barabbas, washed his hands with water, and said, “⟦Q 185:8.2⟧I am innocent of the blood of this man⟦/Q⟧”. But washing your hands does not make your responsibility disappear. Pilate, who knew what was right but backed away out of fear, reminds us how important it is to have the courage to stand on the side of what is right.
+  Q#0 185:8.2 how=positional
+   EN: I am innocent of the blood of this man
+   AUTO: Yo soy inocente de la sangre de este hombre
+   VERSE: Pilato temía un tumulto o una revuelta. No se atrevía a arriesgar disturbios durante la semana de Pascua en Jerusalén. Recientemente había sido censurado por el César, y no quería arriesgar otra censura. La plebe aplaudió cuando ordenó que soltaran a Barrabás. Luego mandó que le trajeran un cántaro y agua, y allí ante la multitud se lavó las manos, diciendo: «Yo soy inocente de la sangre de este hombre. Vosotros habéis decidido que debe morir, pero yo no hallé delito en él. Allá vosotros. Los soldados se lo llevarán». Y la plebe aplaudió y replicó: «Que su sangre se derrame sobre nosotros, y sobre nuestros hijos».
+=== p186.001
+Introduction
+  H: []
+=== p186.002
+Before Jesus was taken to Herod, he asked John, “⟦Q 186:0.1⟧Go to my mother and bring her to see me ere I die⟦/Q⟧”. John did not want to leave his Master alone, but he hurried straight to the home of Lazarus in Bethany, where Jesus' family had gathered. When she heard the news, his mother, Mary, set out with John, and his sister Ruth and his brother Jude went along too. The rest of the family stayed in Bethany, waiting for the news David Zebedee would send. By the time Mary reached the city, Jesus had already arrived at Golgotha (the place of crucifixion).
+  Q#0 186:0.1 how=sentence
+   EN: Go to my mother and bring her to see me ere I die
+   AUTO: Vete adonde mi madre y tráela para que me vea antes de morir
+   VERSE: CUANDO Jesús y sus acusadores salieron para ver a Herodes, el Maestro se volvió al apóstol Juan y dijo: «Juan, ya no puedes hacer nada más por mí. Vete adonde mi madre y tráela para que me vea antes de morir». Cuando Juan oyó la petición del Maestro, aunque no quería dejarle solo entre sus enemigos, se apresuró a Betania, donde estaba reunida toda la familia de Jesús aguardando en la casa de Marta y María, las hermanas de Lázaro a quien Jesús había resucitado de entre los muertos.
+=== p186.003
+1. The End of Judas Iscariot
+  H: ['1: El Fin de Judas Iscariote']
+=== p186.004
+Around half past eight in the morning, when Pilate's trial was over, Judas Iscariot appeared before the Sanhedrin and asked for his reward. He expected to be praised and honored for doing a great service for the nation, but the high priest's servant only called him out of the council chamber and handed him a bag with thirty pieces of silver. That was the price of a slave at the time. Judas felt deeply humiliated and disappointed.
+=== p186.005
+When Judas saw from a distance the cross being raised with Jesus nailed to it, he rushed back to the Sanhedrin and cried out, “⟦Q 186:1.4⟧I have sinned in that I have betrayed innocent blood⟦/Q⟧”, but the leaders mocked him and told him that was his own problem. He threw the silver onto the temple floor and left. The Urantia Book says that at this moment Judas understood what sin really is. Sin is attractive while you are doing it, but afterward only its cold, naked results are left. In despair, Judas finally went alone to a ravine outside the city and took his own life.
+  Q#0 186:1.4 how=sentence
+   EN: I have sinned in that I have betrayed innocent blood
+   AUTO: He pecado entregando sangre inocente
+   VERSE: A cierta distancia vio Judas que levantaban el travesaño con Jesús clavado en él; al ver esto, volvió corriendo al templo y, forcejeando con el centinela consiguió entrar y pararse ante el sanedrín, que aún estaba reunido. El traidor estaba casi sin aliento y altamente conmovido, pero consiguió balbucear estas palabras: «He pecado entregando sangre inocente. Vosotros me habéis insultado. Me habéis ofrecido dinero como recompensa de mis servicios —el precio de un esclavo. Me arrepiento de haber hecho esto; he aquí vuestro dinero. Quiero liberarme de la culpa de esta acción».
+=== p186.006
+2. The Master’s Attitude
+  H: ['2: La Actitud del Maestro']
+=== p186.007
+When Jesus was arrested, he already knew that his work on earth was finished, and he did not care about the details of the trials. He did not answer the false testimony, and he kept silent before Herod, who was only curious. But he always answered clearly when asked whether he was the Son of God, and he spoke to Pilate only when it might help Pilate understand a little more of the truth. Jesus did not try to change the outcome by clever words; he believed it was the Father's will for him to go along with the natural course of human events, like everyone else.
+=== p186.008
+Jesus did not lose his calm and dignity even in the face of insults and threats, and he did not grow angry even at the soldiers who mocked and beat him. Instead, he felt sorry for Pilate and tried to shed light into his darkened mind. The Urantia Book says that the trial was really a scene of “⟦Q 186:2.6⟧Pilate on trial before Jesus⟦/Q⟧”. When Pilate cried, “⟦Q 186:2.11⟧Behold the man!⟦/Q⟧” the cry “⟦Q 186:2.11⟧Behold God and man!⟦/Q⟧” echoed throughout the whole universe. All his life Jesus had shown God to people, and now he gave a new revelation of man to God.
+  Q#0 186:2.6 how=None
+   EN: Pilate on trial before Jesus
+   AUTO: None
+   VERSE: Desde el principio hasta el fin, durante el así llamado juicio ante Pilato, las huestes celestiales que presenciaban los hechos no pudieron contenerse de transmitir al universo la descripción del espectáculo de «Pilato enjuiciado ante Jesús».
+  Q#1 186:2.11 how=None
+   EN: Behold the man!
+   AUTO: None
+   VERSE: Pilato dijo más verdad de la que él sabía cuando, después de haber hecho azotar a Jesús, lo presentó ante la multitud exclamando: «¡He aquí el hombre!» En efecto, el temeroso gobernador romano no se imaginaba que precisamente en ese momento el universo estaba atento, contemplando este espectáculo único de su amado Soberano sometido así a la humillación de las burlas y los golpes de sus súbditos mortales oscurecidos y degradados. Y al hablar Pilato, se transmitió un eco por todo Nebadon: «¡He aquí a Dios y al Hombre!» Por todo un universo, millones incalculables desde ese día han seguido contemplando a ese hombre, mientras que el Dios de Havona, el gobernante supremo del universo de universos, accepta al hombre de Nazaret como satisfacción del ideal de las criaturas mortales de este universo local en el tiempo y el espacio. En su vida incomparable, él nunca dejó de revelar Dios al hombre. Ahora, en estos episodios finales de su carrera mortal y su muerte subsiguiente, hizo una nueva y conmovedora revelación del hombre a Dios.
+  Q#2 186:2.11 how=None
+   EN: Behold God and man!
+   AUTO: None
+   VERSE: Pilato dijo más verdad de la que él sabía cuando, después de haber hecho azotar a Jesús, lo presentó ante la multitud exclamando: «¡He aquí el hombre!» En efecto, el temeroso gobernador romano no se imaginaba que precisamente en ese momento el universo estaba atento, contemplando este espectáculo único de su amado Soberano sometido así a la humillación de las burlas y los golpes de sus súbditos mortales oscurecidos y degradados. Y al hablar Pilato, se transmitió un eco por todo Nebadon: «¡He aquí a Dios y al Hombre!» Por todo un universo, millones incalculables desde ese día han seguido contemplando a ese hombre, mientras que el Dios de Havona, el gobernante supremo del universo de universos, accepta al hombre de Nazaret como satisfacción del ideal de las criaturas mortales de este universo local en el tiempo y el espacio. En su vida incomparable, él nunca dejó de revelar Dios al hombre. Ahora, en estos episodios finales de su carrera mortal y su muerte subsiguiente, hizo una nueva y conmovedora revelación del hombre a Dios.
+=== p186.009
+3. The Dependable David Zebedee
+  H: ['3: El Confiable David Zebedeo']
+=== p186.010
+After Jesus was handed over to the Roman soldiers, the temple guards went to Gethsemane to arrest his followers, but they had all scattered already. The guards burned the empty camp and went back, and the Sanhedrin relaxed, thinking that Jesus' followers were too frightened to do anything. David Zebedee had moved his tent ahead of time and, hidden away, kept up his headquarters for passing on news. Within five minutes he sent messengers off to many places, including Bethsaida, Alexandria, and Damascus, and all that day he sent news every half hour to the apostles and to Jesus' family.
+=== p186.011
+David was almost the only follower who took Jesus literally when he said he would “⟦Q 186:3.4⟧rise again on the third day⟦/Q⟧”. When he found that the others did not expect a resurrection so soon, he kept quiet about it, but he arranged for his messengers to gather early Sunday morning at the home of Nicodemus. His simple but dependable preparations would play a big part two days later.
+  Q#0 186:3.4 how=None
+   EN: rise again on the third day
+   AUTO: None
+   VERSE: Este David Zebedeo de mente tan peculiar fue el único de los principales discípulos de Jesús que tomó literalmente y como cosa normal la declaración del Maestro de que él moriría y «resucitaría al tercer día». David le había escuchado una vez esta predicción y, siendo de mente literal, se proponía reunir a sus mensajeros el domingo por la mañana temprano en la casa de Nicodemo, para que estuvieran disponibles para difundir la noticia, en caso de que Jesús se levantara de los muertos. Pronto descubrió David que ninguno de los seguidores de Jesús esperaba que él volviese tan pronto de la tumba; por lo tanto, poco dijo de su creencia, y nada sobre la movilización de sus mensajeros para el domingo por la mañana temprano, excepto a los corredores que habían sido enviados en la mañana del viernes a ciudades y centros de creyentes distantes.
+=== p186.012
+4. Preparation for the Crucifixion
+  H: ['4: La Preparación para la Crucifixión']
+=== p186.013
+After Pilate washed his hands, Jesus was handed over to the Roman soldiers. The soldiers took off the robe Herod had put on him and dressed him in his own clothes again. His friends were in hiding and his enemies had left; even John was not with him, and Jesus was alone with the soldiers. During the half hour they waited to set out, Jesus did not say a word, and The Urantia Book says that at this time the work of the whole universe nearly stopped as everyone watched Urantia. Even the soldiers began to be impressed by Jesus' calm and dignity. The Roman captain decided to execute two thieves who had been sentenced to death along with him, and one of them had heard Jesus teach several times.
+=== p186.014
+5. Jesus’ Death in Relation to the Passover
+  H: ['5: La Muerte de Jesús en Relación con la Pascua']
+=== p186.015
+Jesus died around the time the Passover lambs were being offered in the temple, but The Urantia Book explains that Jesus' death had nothing to do with the Jewish system of sacrifices. It was people, not God, who planned and carried out the crucifixion. The Father simply did not interfere in human affairs; he did not require that his Son die in such a way. According to The Urantia Book, by the time of his baptism Jesus had already finished the experience he needed to have on earth, and his life and death after that were all his personal ministry of love, meant to help and lift people up.
+=== p186.016
+The Urantia Book also says that Jesus did not die as a sacrifice paying for sin in our place, and that humanity carries no inherited guilt before God. God loved people just as much before Jesus came, and even if Jesus had not died in that way, salvation would have been just as certain. The gospel was revealed far more brightly by his life than by his death. The only thing we need to truly experience that we are children of God is faith that comes from the heart.
+=== p187.001
+Introduction
+  H: []
+=== p187.002
+When the two robbers were ready, twelve soldiers set out for the place of crucifixion under the command of a centurion (a Roman army officer in charge of a hundred soldiers). The two thieves to be executed with Jesus were companions of Barabbas, so Jesus was, in a sense, hanging on the cross in place of Barabbas, who had been set free. The Urantia Book stresses that Jesus accepted this death of his own free will. Jesus had once said, “⟦Q 187:0.3⟧No one takes my life away from me—I lay it down of myself⟦/Q⟧”. Just before nine in the morning, more than two hundred people followed the procession. Some secretly sympathized with Jesus, but most were enemies or onlookers.
+  Q#0 187:0.3 how=sentence
+   EN: No one takes my life away from me—I lay it down of myself
+   AUTO: Nadie me quita la vida, —por mí mismo la ofrendo
+   VERSE: Lo que Jesús está a punto a hacer, sometiéndose a la muerte en la cruz, lo hace él por su libre albedrío. Al pronosticar esta experiencia, él dijo: «El Padre me ama y me sostiene porque estoy dispuesto a ofrendar mi vida. Pero tomaré posesión de ella de nuevo. Nadie me quita la vida, —por mí mismo la ofrendo. Tengo poder para ofrendarla, y tengo poder para tomar posesión de ella. Este mandamiento recibí de mi Padre».
+=== p187.003
+1. On the Way to Golgotha
+  H: ['1: En Camino al Gólgota']
+=== p187.004
+Jesus walked carrying the crossbeam of the cross on his shoulders. At the front of the procession, a board was carried that Pilate had written in Latin, Greek, and Aramaic: “⟦Q 187:1.2⟧Jesus of Nazareth—the King of the Jews⟦/Q⟧”. The Jewish leaders asked him to change it, but Pilate refused, saying, “⟦Q 187:1.3⟧What I have written, I have written⟦/Q⟧”. To the women weeping by the roadside, Jesus said, “⟦Q 187:1.6⟧weep not for me, but rather weep for yourselves and for your children⟦/Q⟧”, because he was worried about the troubles that would come upon Jerusalem. Showing sympathy to a condemned man was against the law, so these women were truly brave.
+  Q#0 187:1.2 how=sentence
+   EN: Jesus of Nazareth—the King of the Jews
+   AUTO: Jesús de Nazaret —rey de los judíos
+   VERSE: De acuerdo con la costumbre, el capitán conducía la procesión, llevando pequeñas tablillas blancas en las que se había escrito con carbón el nombre de los criminales y la naturaleza de los crímenes por los cuales habían sido condenados. Para los dos ladrones, el centurión tenía leyendas con su nombre, y debajo del nombre había una sola palabra, «bandido». Era costumbre, después de clavar la víctima al travesaño e izarla hasta su lugar sobre la viga vertical, clavar esta leyenda en el extremo superior de la cruz, justo encima de la cabeza del criminal, para que todos los espectadores pudieran enterarse por cuál crimen se crucificaba al condenado. La leyenda que llevaba el centurión para colocar en la cruz de Jesús había sido escrita por Pilato mismo en latín, griego y aramaico, y decía: «Jesús de Nazaret —rey de los judíos».
+  Q#1 187:1.3 how=None
+   EN: What I have written, I have written
+   AUTO: None
+   VERSE: Algunas de las autoridades judías que aún estaban presentes cuando Pilato escribió esta leyenda protestaron vigorosamente, porque no querían que se llamara a Jesús «rey de los judíos». Pero Pilato les recordó que esa acusación era parte de los cargos que llevaron a su condena. Cuando los judíos vieron que no podían convencer a Pilato de que cambiara de idea, le rogaron que por lo menos modificara la leyenda como sigue: «Él dijo: ‘yo soy el rey de los judíos’». Pero Pilato se mantuvo firme; no quiso modificar su leyenda. Ante todas las súplicas él tan sólo contestó: «Lo que he escrito, he escrito».
+  Q#2 187:1.6 how=None
+   EN: weep not for me, but rather weep for yourselves and for your children
+   AUTO: None
+   VERSE: A medida que pasaba la procesión de muerte por las angostas calles de Jerusalén, muchas judías de corazón tierno que habían oído las palabras de buen ánimo y compasión de Jesús, y que conocían su vida de ministerio amante, no pudieron contener el llanto al verlo conducido a una muerte tan innoble. A su paso pues, muchas de estas mujeres lloraban y se lamentaban. Cuando algunas de ellas se atrevieron a caminar a su lado, el Maestro volvió hacia ellas la cabeza y dijo: «Hijas de Jerusalén, no lloréis por mí, sino más bien por vosotras y por vuestros hijos. Mi obra está casi terminada —pronto iré a mi Padre— pero los tiempos de tribulaciones tremendas recién empiezan para Jerusalén. He aquí que vendrán días en que diréis: Bienaventuradas las estériles y las de pechos que no amamantaron jamás a sus pequeños. En aquellos días, imploraréis que caigan sobre vosotras las rocas de las colinas para libraros de los terrores de vuestras tribulaciones».
+=== p187.005
+Jesus had not eaten, drunk, or slept since the Last Supper, and he was worn out by the whipping and the questioning. After passing through the city gate, he finally fell under the weight of the crossbeam, and the centurion made Simon of Cyrene, who was passing by, carry it for him. After watching everything that day, Simon came to believe the gospel, and he went back home to Africa and led his family into the heavenly kingdom. His two sons, Alexander and Rufus, became fine teachers of the gospel.
+=== p187.006
+2. The Crucifixion
+  H: ['2: La Crucifixión']
+=== p187.007
+Arriving at Golgotha a little after nine, the soldiers nailed Jesus to the cross. The cross was not high, so Jesus could hear every word of those who mocked him and could see their faces. He was offered drugged wine that the women had prepared to ease his pain, but Jesus did not drink it, because he wanted to keep a clear mind to the very end. The only words Jesus spoke as he was nailed to the cross were, “⟦Q 187:2.4⟧Father, forgive them, for they know not what they do⟦/Q⟧”. The Urantia Book says that the thoughts and motives a person has held all his life are revealed in a moment of crisis.
+  Q#0 187:2.4 how=None
+   EN: Father, forgive them, for they know not what they do
+   AUTO: None
+   VERSE: Antes de que Jesús fuera colocado en la cruz, ya se habían colocado en las cruces los dos bandidos, que no dejaban de insultar y escupir a sus verdugos. Las únicas palabras de Jesús, al clavarlo ellos al travensaño, fueron «Padre, perdónalos porque no saben qué están haciendo». No podría haber intercedido tan misericordiosa y amantemente en favor de sus verdugos si estos pensamientos de devoción afectuosa no hubiesen sido el manantial mismo de su vida de servicio altruista. Las ideas, motivos y anhelos de toda una vida se revelan abiertamente en una crisis.
+=== p187.008
+John arrived with Jesus' mother, Mary, his sister Ruth, and his brother Jude, and when Jesus saw them, he smiled. The soldiers divided Jesus' clothes among themselves, and they cast lots for his seamless robe. The Urantia Book says this was actually a good thing. If his followers had kept those clothes, they would have been tempted to worship relics, but Jesus wanted to leave behind not things, but only the memory of a life lived doing the Father's will.
+=== p187.009
+3. Those Who Saw the Crucifixion
+  H: ['3: Los Que Vieron la Crucifixión']
+=== p187.010
+Around half past nine, more than a thousand people gathered to see Jesus on the cross. People passing by sneered, “⟦Q 187:3.3⟧If you are the Son of God, why do you not come down from your cross?⟦/Q⟧” and the leaders mocked, “⟦Q 187:3.3⟧He saved others, but himself he cannot save⟦/Q⟧”. When Jesus gave no answer, most of them left as noon drew near, and fewer than fifty remained. Meanwhile, his mother and the women believers quietly stayed near him. When Jesus said, “⟦Q 187:3.5⟧I thirst⟦/Q⟧”, the captain of the guard moistened his lips with a sponge soaked in wine. Jesus chose not to lean on supernatural power, but to die as an ordinary man doing the Father's will.
+  Q#0 187:3.3 how=positional
+   EN: If you are the Son of God, why do you not come down from your cross?
+   AUTO: Si eres el Hijo de Dios, ¿por qué no te bajas de tu cruz?
+   VERSE: Muchos de los que pasaban por ahí meneaban la cabeza y, burlándose de él, decían: «Tú que destruirías el templo y lo volverías a edificar en tres días, sálvate. Si eres el Hijo de Dios, ¿por qué no te bajas de tu cruz?» De la misma manera algunos de los líderes de los judíos se mofaban de él diciendo: «Salvó a otros, pero no se puede salvar a sí mismo». Otros decían: «Si eres el rey de los judíos, bájate de la cruz, y entonces creeremos en ti». Y más tarde se burlaron aun más, diciendo: «El confió en que Dios le libraría. Aun afirmó ser el Hijo de Dios —miradlo ahora— crucificado entre dos ladrones». Hasta los dos ladrones también se burlaban de él y lo reprochaban.
+  Q#1 187:3.3 how=None
+   EN: He saved others, but himself he cannot save
+   AUTO: None
+   VERSE: Muchos de los que pasaban por ahí meneaban la cabeza y, burlándose de él, decían: «Tú que destruirías el templo y lo volverías a edificar en tres días, sálvate. Si eres el Hijo de Dios, ¿por qué no te bajas de tu cruz?» De la misma manera algunos de los líderes de los judíos se mofaban de él diciendo: «Salvó a otros, pero no se puede salvar a sí mismo». Otros decían: «Si eres el rey de los judíos, bájate de la cruz, y entonces creeremos en ti». Y más tarde se burlaron aun más, diciendo: «El confió en que Dios le libraría. Aun afirmó ser el Hijo de Dios —miradlo ahora— crucificado entre dos ladrones». Hasta los dos ladrones también se burlaban de él y lo reprochaban.
+  Q#2 187:3.5 how=None
+   EN: I thirst
+   AUTO: None
+   VERSE: Cuando Jesús los vio comer y beber, bajó la mirada hacia ellos y dijo: «Tengo sed». Al oír el capitán de los guardias a Jesús decir «tengo sed», le llevó un poco del vino de su botella y, colocando una esponja saturada en el extremo de una jabalina, la levantó hasta Jesús para que se pudiese humedecer los labios resecos.
+=== p187.011
+4. The Thief on the Cross
+  H: ['4: El Ladrón en la Cruz']
+=== p187.012
+When one robber railed at Jesus, the other robber, who had heard Jesus teach many times, rebuked him. We deserve our punishment, he said, but this man is suffering unjustly. Then he gathered his courage and asked, “⟦Q 187:4.1⟧Lord, remember me when you come into your kingdom⟦/Q⟧”. Jesus promised him, “⟦Q 187:4.1⟧you shall sometime be with me in Paradise⟦/Q⟧”. This young man, who had looked up to Barabbas as a hero, found the true hero on the cross right next to him. The Urantia Book says that if anyone in the crowd had appealed to Jesus in faith, they would have been received with the same love.
+  Q#0 187:4.1 how=None
+   EN: Lord, remember me when you come into your kingdom
+   AUTO: None
+   VERSE: Uno de los bandidos vituperó a Jesús diciendo: «Si eres el Hijo de Dios, ¿por qué no te salvas a ti mismo y nos salvas a nosotros?» Pero cuando terminó de reprochar así a Jesús, el otro ladrón, que muchas veces había oído las enseñanzas del Maestro, dijo: «¿Acaso no temes ni siquiera a Dios? ¿No ves que sufrimos con justicia por nuestras acciones, pero este hombre sufre injustamente? Mejor sería que buscásemos el perdón de nuestros pecados y la salvación de nuestra alma». Cuando Jesús oyó al ladrón hablar así, volvió la cara hacia él y sonrió con aprobación. Al ver el malhechor el rostro de Jesús vuelto hacia él, se llenó de valor, ventiló la pobre llamita de fe, y dijo: «Señor, acuérdate de mí cuando llegues a tu reino». Entonces Jesús dijo: «De cierto, de cierto hoy te digo que tú algún día estarás conmigo en el Paraíso».
+  Q#1 187:4.1 how=None
+   EN: you shall sometime be with me in Paradise
+   AUTO: None
+   VERSE: Uno de los bandidos vituperó a Jesús diciendo: «Si eres el Hijo de Dios, ¿por qué no te salvas a ti mismo y nos salvas a nosotros?» Pero cuando terminó de reprochar así a Jesús, el otro ladrón, que muchas veces había oído las enseñanzas del Maestro, dijo: «¿Acaso no temes ni siquiera a Dios? ¿No ves que sufrimos con justicia por nuestras acciones, pero este hombre sufre injustamente? Mejor sería que buscásemos el perdón de nuestros pecados y la salvación de nuestra alma». Cuando Jesús oyó al ladrón hablar así, volvió la cara hacia él y sonrió con aprobación. Al ver el malhechor el rostro de Jesús vuelto hacia él, se llenó de valor, ventiló la pobre llamita de fe, y dijo: «Señor, acuérdate de mí cuando llegues a tu reino». Entonces Jesús dijo: «De cierto, de cierto hoy te digo que tú algún día estarás conmigo en el Paraíso».
+=== p187.013
+Around noon, Jesus looked down at his mother and John and said, “⟦Q 187:4.7⟧Woman, behold your son!⟦/Q⟧” and “⟦Q 187:4.7⟧My son, behold your mother!⟦/Q⟧” Then he told the two of them to leave that place. After this, Mary lived at John's home in Bethsaida, and she died less than a year later.
+  Q#0 187:4.7 how=None
+   EN: Woman, behold your son!
+   AUTO: None
+   VERSE: Instantes después de prometer el Maestro al ladrón arrepentido que se encontrarían alguna vez en el Paraíso, retornó Juan de la ciudad, acompañado de su madre y un grupo de casi doce mujeres creyentes. Juan estuvo junto a María la madre de Jesús, confortándola. Su hijo Judá estaba de pie del otro lado. Al mirar la escena Jesús, era ya el mediodía, y dijo a su madre: «Mujer, he aquí a tu hijo» y hablando a Juan, le dijo: «¡Hijo mío, he aquí a tu madre!» Luego se dirigió a ambos, diciendo: «Deseo que os vayáis de este lugar». Así pues, Juan y Judá se llevaron a María del Gólgota. Juan llevó a la madre de Jesús al lugar donde él paraba en Jerusalén, y luego volvió de prisa a la escena de la crucifixión. Después de la Pascua, María volvió a Betsaida, donde vivió en la casa de Juan por el resto de su vida natural. María no llegó a vivir un año entero después de la muerte de Jesús.
+  Q#1 187:4.7 how=None
+   EN: My son, behold your mother!
+   AUTO: None
+   VERSE: Instantes después de prometer el Maestro al ladrón arrepentido que se encontrarían alguna vez en el Paraíso, retornó Juan de la ciudad, acompañado de su madre y un grupo de casi doce mujeres creyentes. Juan estuvo junto a María la madre de Jesús, confortándola. Su hijo Judá estaba de pie del otro lado. Al mirar la escena Jesús, era ya el mediodía, y dijo a su madre: «Mujer, he aquí a tu hijo» y hablando a Juan, le dijo: «¡Hijo mío, he aquí a tu madre!» Luego se dirigió a ambos, diciendo: «Deseo que os vayáis de este lugar». Así pues, Juan y Judá se llevaron a María del Gólgota. Juan llevó a la madre de Jesús al lugar donde él paraba en Jerusalén, y luego volvió de prisa a la escena de la crucifixión. Después de la Pascua, María volvió a Betsaida, donde vivió en la casa de Juan por el resto de su vida natural. María no llegó a vivir un año entero después de la muerte de Jesús.
+=== p187.014
+5. Last Hour on the Cross
+  H: ['5: La Última Hora en la Cruz']
+=== p187.015
+After noon, a sandstorm blowing in from the desert darkened the sky, and most of the people who were left went back to the city. As his consciousness faded, Jesus recited verses from the Psalms in his mind, and those standing nearby caught a few words, such as “⟦Q 187:5.2⟧My God, my God, why have you forsaken me?⟦/Q⟧” The Urantia Book explains that Jesus did not feel abandoned by the Father; he was only reciting the twenty-second Psalm, which he knew well.
+  Q#0 187:5.2 how=None
+   EN: My God, my God, why have you forsaken me?
+   AUTO: None
+   VERSE: Poco después de la una, en medio de las tinieblas en aumento por la tormenta de arena, Jesús comenzó a perder su conciencia humana. Ya había dicho sus últimas palabras de misericordia, perdón y admonición. Había expresado su último deseo —sobre el cuidado de su madre. Durante esta hora de muerte inminente, la mente humana de Jesús recurrió a la repetición de muchos pasajes de las escrituras hebreas, particularmente los salmos. La última actividad consciente del Jesús humano consistió en la repetición mental de una porción del libro de salmos, que se conoce ahora como salmos veinte, veintiuno y veintidós. Aunque sus labios se movían a menudo, estaba demasiado débil para pronunciar las palabras a medida que estos pasajes, que tan bien conocía de memoria, le cruzaban por la mente. Sólo de cuando en cuando los que estaban cerca lograron captar algunas palabras, como por ejemplo: «Conozco que el Señor salvará a su ungido», «Alcanzará tu mano a todos mis enemigos», y «Dios mío, Dios mío, ¿por qué me has desamparado?» Jesús no tuvo en ningún momento la menor duda de que había vivido de acuerdo con la voluntad del Padre; y nunca dudó que en ese momento él estaba ofreciendo su vida en la carne, de acuerdo con la voluntad del Padre. El no creía que el Padre le había desamparado o abandonado; estaba meramente recitando muchas escrituras en el momento de perder la conciencia, entre éstas este salmo veintidós, que comienza con «Dios mío, Dios mío, ¿por qué me has desamparado?» Y ocurrió que ésta fue una de las tres estrofas dichas con claridad suficiente como para que las oyeran los que estaban cerca.
+=== p187.016
+Just before three o'clock, Jesus cried out with a loud voice, “⟦Q 187:5.5⟧It is finished! Father, into your hands I commend my spirit⟦/Q⟧”, and then he breathed his last. When the Roman centurion saw this, he confessed, “⟦Q 187:5.5⟧truly he must have been a Son of God⟦/Q⟧”, and from then on he began to believe in Jesus. The Urantia Book says that Jesus died like a king, just as he had lived, and that he was master of the situation all that day. When the soldiers came to break the legs, Jesus was already dead. Because of his deep anguish of heart, his life ended in less than five and a half hours.
+  Q#0 187:5.5 how=None
+   EN: It is finished! Father, into your hands I commend my spirit
+   AUTO: None
+   VERSE: Era poco antes de las tres cuando Jesús clamó a gran voz: «¡Consumado es! Padre, en tus manos encomiendo mi espíritu». Después de hablar así, bajó la cabeza y abandonó la lucha por la vida. Cuando el centurión romano vio como Jesús había muerto, se golpeó el pecho y dijo: «Éste era realmente un hombre justo; de cierto debe haber sido un Hijo de Dios». Desde ese momento empezó a creer en Jesús.
+  Q#1 187:5.5 how=None
+   EN: truly he must have been a Son of God
+   AUTO: None
+   VERSE: Era poco antes de las tres cuando Jesús clamó a gran voz: «¡Consumado es! Padre, en tus manos encomiendo mi espíritu». Después de hablar así, bajó la cabeza y abandonó la lucha por la vida. Cuando el centurión romano vio como Jesús había muerto, se golpeó el pecho y dijo: «Éste era realmente un hombre justo; de cierto debe haber sido un Hijo de Dios». Desde ese momento empezó a creer en Jesús.
+=== p187.017
+6. After the Crucifixion
+  H: ['6: Después de la Crucifixión']
+=== p187.018
+At about half past three, David Zebedee sent out his last messengers to announce Jesus' death. John sent the women to the home of Elijah Mark and kept watch at Golgotha until Joseph and Nicodemus, with Pilate's permission, came to take the body. The Urantia Book says that countless beings throughout the universe, watching their beloved Sovereign being crucified, were shocked at how unfeeling people were. Jesus' last moments, forgiving his enemies to the end, welcoming the repentant robber, and caring for his mother, show us that we can choose love even in our hardest moments.
+=== p188.001
+Introduction
+  H: []
+=== p188.002
+The roughly thirty-six hours from three o'clock Friday afternoon to three o'clock Sunday morning, while Jesus' body lay in the tomb, are a time The Urantia Book admits it does not know much about. The Jewish leaders wanted to throw Jesus' body into the common burial pit, as was done with others who were crucified. So Joseph of Arimathea and Nicodemus went to Pilate and asked him to give them the body. Joseph brought a large sum of money just in case, but Pilate would not take the money and signed the permit right away.
+=== p188.003
+1. The Burial of Jesus
+  H: ['1: El Entierro de Jesús']
+=== p188.004
+When Joseph and Nicodemus reached Golgotha, representatives of the Sanhedrin raised an uproar and tried to take the body. The centurion had his soldiers draw their swords and guard the body, drove the crowd back, and then said to Joseph, “⟦Q 188:1.1⟧This body is yours⟦/Q⟧”. The two men decided to lay Jesus in Joseph's new family tomb, carved out of rock. From that day on, these two former members of the Sanhedrin, who had secretly believed in Jesus, became the boldest followers of Jesus in Jerusalem.
+  Q#0 188:1.1 how=None
+   EN: This body is yours
+   AUTO: None
+   VERSE: Cuando José y Nicodemo llegaron al Gólgota, encontraron que los soldados estaban bajando a Jesús de la cruz y los representantes del sanedrín estaban de pie cerca para asegurarse de que ninguno de los seguidores de Jesús impidiera que su cadáver fuera llevado a las fosas comunes de los criminales. Al presentar José al centurión la orden de Pilato de que le entregara el cadáver del Maestro, los judíos levantaron un tumulto y clamaron por su posesión. En su ira intentaron apoderarse del cuerpo por la fuerza; ante esta acción, el centurión llamó junto a él a cuatro de sus soldados que, desenvainando las espadas, protegieron el cuerpo del Maestro que yacía sobre el suelo. El centurión ordenó que los otros soldados dejaran a los dos ladrones y controlaran a la multitud airada de judíos enfurecidos. Cuando se hubo restaurado el orden, el centurión leyó a los judíos el permiso de Pilato y, haciéndose a un lado, dijo a José: «Este cuerpo es tuyo para que hagas lo que creas conveniente. Yo y mis soldados permaneceremos aquí para asegurarnos de que nadie interfiera».
+=== p188.005
+At about half past four in the afternoon, Joseph, Nicodemus, John, and the Roman centurion carried the body, wrapped in a linen sheet, to the tomb. They wrapped the body in bandages soaked in myrrh and aloes, laid it on a shelf, and closed the entrance with a stone. Because the Sabbath was coming, everything was done in a hurry, so the Galilean women who had been watching from hiding decided to come back on Sunday morning with spices they would prepare. At this time, about the only followers who truly believed Jesus would rise on the third day were David Zebedee and Joseph.
+=== p188.006
+2. Safeguarding the Tomb
+  H: ['2: La Vigilancia de la Tumba']
+=== p188.007
+Jesus' followers had forgotten his words that he would rise again on the third day, but his enemies had not. Afraid that the followers would steal the body and spread the word that Jesus had risen, the Jewish leaders asked Pilate to guard the tomb. Pilate gave them ten Roman soldiers, and ten temple guards were added to them. They rolled another stone in front of the tomb and stamped it with Pilate's seal, and twenty guards watched the tomb right up to the moment of the resurrection.
+=== p188.008
+3. During the Sabbath Day
+  H: ['3: Durante el Sábado']
+=== p188.009
+During the Sabbath, the followers stayed in hiding, and the nearly one and a half million pilgrims gathered in Jerusalem talked about Jesus' death. Soon they would hear the news of the resurrection and carry it back home. On Saturday night, the eleven apostles gathered again in the upper room of John Mark's home, and his mother, Mary, went back to the family in Bethany.
+=== p188.010
+The Urantia Book honestly says it cannot fully explain what happened to Jesus during this time. But it carefully suggests a few things. Jesus' human consciousness probably did not feel time passing, as if he were asleep, so the sleep of death and the resurrection would have followed one another for him like a single moment. It also says that the Thought Adjuster (the divine spirit God sends to live in the human mind) who had lived in Jesus was already personalized and was directing the heavenly hosts on earth. The Urantia Book adds that there is much evidence that, even during this period, the whole of Jesus' personality was not simply asleep without awareness. The Urantia Book also tells us that on the first mansion world (the first world where people wake up after death), a “⟦Q 188:3.11⟧Michael Memorial⟦/Q⟧” has been built in memory of Jesus' life and death on Urantia.
+  Q#0 188:3.11 how=None
+   EN: Michael Memorial
+   AUTO: None
+   VERSE: En el gran patio de las salas de resurrección del primer mundo de estancia de Satania, se puede observar actualmente una magnífica estructura material-morontial conocida con el nombre de «Monumento conmemorativo de Micael», que ahora lleva el sello de Gabriel. Este monumento fue creado poco después de la partida de Micael de este mundo, y lleva esta inscripción: «En memoria del paso mortal de Jesús de Nazaret de Urantia».
+=== p188.011
+4. Meaning of the Death on the Cross
+  H: ['4: El Significado de la Muerte en la Cruz']
+=== p188.012
+The Urantia Book says clearly that Jesus did not pay for humanity's sins in our place or become a sacrifice to calm an angry God. God is not one who punishes people for their ancestors' wrongdoing, and sin is not something inherited from parents; it is each person's knowing act of going against God's will. Where Moses taught the justice of God, Jesus showed the love and mercy of the Father in heaven.
+=== p188.013
+So The Urantia Book says it is better to call Jesus a savior than one who paid a ransom. He showed the way of salvation more clearly and more surely, and he gave the assurance that life continues after death. What matters is not so much the fact that he died, but the way he met death and the spirit in which he did it. A believer's concern should not be just getting saved himself, but loving and serving his neighbors as Jesus did. A true believer worries less about future punishment and more about drifting away from God right now. It is like a wise father who, even when he scolds his child, is trying to set things right with love, not taking out his anger.
+=== p188.014
+5. Lessons from the Cross
+  H: ['5: Las Lecciones de la Cruz']
+=== p188.015
+The cross shows that the relationship between God and people is not that of a king and his subjects, but that of a father and his children. Jesus' love does not stop at simply covering over wrongdoing; it melts away sin and weakness and makes people new. Jesus taught us to overcome evil with good rather than fight against it, and by praying for his enemies, “⟦Q 188:5.6⟧Father, forgive them⟦/Q⟧”, he made the cross a symbol of the victory of love over hate. Stephen, the first martyr, prayed the same kind of prayer as he was being stoned.
+  Q#0 188:5.6 how=None
+   EN: Father, forgive them
+   AUTO: None
+   VERSE: El triunfo de la muerte en la cruz queda resumido en el espíritu de la actitud de Jesús hacia los que lo atormentaban. Convirtió la cruz en el símbolo eterno del triunfo del amor sobre el odio y de la victoria de la verdad sobre el mal al orar: «Padre, perdónalos, porque no saben qué están haciendo». Esa devoción de amor fue contagiosa en todo un vasto universo; los discípulos se contagiaron de su Maestro. El primer maestro de este evangelio que tuvo que poner su vida al servicio del evangelio, dijo, mientras lo apedreaban a muerte: «No cargues este pecado a su cuenta».
+=== p188.016
+Jesus did not suffer only on the cross. For more than twenty-five years he had carried the cross of a hard human life. The Urantia Book says there is no greater love than to lay down your life for your friends, but Jesus laid down his life even for his enemies. So no one needs to fear that the Creator does not understand his pain. As we look at the cross, we put down our small complaints and come to want to live for others the way he did.
+=== p189.001
+Introduction
+  H: []
+=== p189.002
+After Jesus was buried, the archangels in charge of resurrection discussed how they might bring Jesus back to life. But they came to the conclusion that a creature cannot help the Creator rise again. Gabriel told them that since Michael (the Son of God who created this universe and was born as the man Jesus) had “⟦Q 189:0.1⟧laid down his life of his own free will, he also had power to take it up again in accordance with his own determination⟦/Q⟧”. The Thought Adjuster (the divine spirit God sends to live in the human mind) who had lived in Jesus also explained to the heavenly hosts that although Jesus had died as a man, he was still alive as the sovereign of the universe, and that he was personally going through every step that human beings go through. Everyone waited breathlessly for that moment.
+  Q#0 189:0.1 how=None
+   EN: laid down his life of his own free will, he also had power to take it up again in accordance with his own determination
+   AUTO: None
+   VERSE: EL VIERNES por la tarde, poco después del entierro de Jesús, el jefe de los arcángeles de Nebadon, a la sazón presente en Urantia, convocó su concilio para la resurrección de las criaturas volitivas durmientes y empezó a considerar las posibles técnicas de restitución de Jesús. Estos hijos del universo local, las criaturas de Micael, reunidos tomaron esta decisión por sí solos; Gabriel no los había convocado. A medianoche ya habían llegado a la conclusión de que la criatura nada podía hacer para facilitar la resurrección del Creador. Estaban dispuestos a aceptar el consejo de Gabriel, quien les instruyó que, puesto que Micael había «dado su vida por su propio y libre albedrío, tiene también el poder de volver a tomar posesión de ésta según su propia decisión». Poco después de que se levantara este concilio de arcángeles, los Portadores de Vida, y sus varios asociados en la tarea de rehabilitación de la criatura y de creación morontial, el Ajustador Personalizado de Jesús, personalmente a cargo de las huestes celestiales reunidas en ese momento en Urantia, dijo estas palabras a los espectadores en ansiosa espera:
+=== p189.003
+1. The Morontia Transit
+  H: ['1: El Tránsito Morontial']
+=== p189.004
+At two minutes past three on Sunday morning, April 9, A.D. 30, the risen Jesus came out of Joseph's tomb in morontia form (the in-between stage of being, between material and spirit). Yet Jesus' physical body was still lying in the tomb, wrapped in linen, and the stone at the entrance and Pilate's seal were untouched. The guards noticed nothing at all. Jesus rose again by the power within himself, without help from anyone. The Urantia Book says that people think matter is everything, but in fact matter is like a shadow of a higher spiritual reality.
+=== p189.005
+The Urantia Book sums up the resurrection clearly like this: Jesus' physical body was not part of his risen personality, and he came forth not as a spirit or in the form of the Creator, but in the same morontia form people have when they wake up on the first mansion world after death. The risen Jesus greeted Gabriel and left the affairs of the universe in his hands, and then he told the beings gathered there that he would stay a while in this form to show more of the Father's will.
+=== p189.006
+2. The Material Body of Jesus
+  H: ['2: El Cuerpo Material de Jesús']
+=== p189.007
+The chief of the archangels said he did not want to watch the body of his beloved Sovereign slowly decay, so he asked permission to return Jesus' physical body to dust at once, and permission was given. To prepare for this, the midwayers (invisible beings between humans and angels) rolled away the great stone from the tomb's entrance, and when the guards saw the stone move by itself, they ran away terrified. The Jewish leaders paid them money to say that the followers had stolen the body while they slept.
+=== p189.008
+The Urantia Book explains that the tomb was empty not because Jesus' physical body had come back to life, but because the body went through the natural process of breaking down almost instantly. The empty tomb is a fact, but it is not itself the truth of the resurrection. The real evidence of the resurrection is spiritual, and close to a thousand people met and recognized the risen Jesus in person.
+=== p189.009
+3. The Dispensational Resurrection
+  H: ['3: La Resurrección Dispensacional']
+=== p189.010
+Around half past four in the morning, Gabriel gathered the archangels and prepared for the great resurrection that would close an age on Urantia. The risen Jesus gave the command, “⟦Q 189:3.1⟧let the roll call of the planetary resurrection begin⟦/Q⟧”, and as Gabriel's voice rang out, countless people who had been sleeping since the time of Adam woke up in the resurrection halls of the first mansion world. This was the third dispensational resurrection to take place on Urantia. After that, Jesus' Adjuster sent the heavenly hosts back to their posts and departed, and only Gabriel stayed with Jesus.
+  Q#0 189:3.1 how=None
+   EN: let the roll call of the planetary resurrection begin
+   AUTO: None
+   VERSE: Poco después de las cuatro y media de este domingo por la madrugada, Gabriel convocó a su lado a los arcángeles y se preparó para inaugurar la resurrección general del fin de la dispensación adánica en Urantia. Cuando las vastas huestes de serafines y de querubines que participaban en este gran acontecimiento se organizaron en formación apropiada, apareció ante Gabriel, el Micael morontial diciendo: «Así como mi Padre tiene vida en sí mismo, también ha dado al Hijo el poder de tener vida en sí mismo. Aunque todavía no he vuelto a tomar plenamente el ejercicio de la jurisdicción universal, esta limitación autoimpuesta no restringe de ninguna manera el don de la vida sobre mis hijos dormidos; que se comience a pasar lista para la resurrección planetaria».
+=== p189.011
+4. Discovery of the Empty Tomb
+  H: ['4: El Descubrimiento de la Tumba Vacía']
+=== p189.012
+At that hour, the apostles were asleep in the upper room of Mark's home, full of sorrow, fear, and shame, and Thomas had gone somewhere else to grieve alone. A little before three in the morning, five women, including Mary Magdalene, set out for the tomb to anoint Jesus' body with ointment. They worried about who would roll the stone away for them, but when they arrived, the stone had already been moved. Mary bravely went inside, and when she saw that the body was gone and only the bandages and the napkin lay neatly in place, she screamed. The women fled in alarm and then came back.
+=== p189.013
+As the women sat there, not knowing what to make of it, a stranger asked, “⟦Q 189:4.10⟧Whom do you seek?⟦/Q⟧” He looked so different that they did not recognize him, but when he called her in a familiar voice, “⟦Q 189:4.10⟧Mary⟦/Q⟧”, she knelt down, exclaiming, “⟦Q 189:4.10⟧My Lord, and my Master⟦/Q⟧”. The Urantia Book explains that human eyes were able to see the morontia form only because of special help from invisible beings. When Mary tried to hold his feet, Jesus said, “⟦Q 189:4.12⟧Touch me not⟦/Q⟧”, and told her that he was no longer as she had known him in the flesh. Then he told them to tell the apostles, and especially Peter, that he had risen. At first the apostles did not believe it, but when Peter heard that his own name had been mentioned, he ran to the tomb with John.
+  Q#0 189:4.10 how=None
+   EN: Whom do you seek?
+   AUTO: None
+   VERSE: Mientras estas mujeres estaban allí sentadas en las horas tempranas del amanecer de este nuevo día, miraron hacia un lado y observaron a un extraño silencioso e inmóvil. Nuevamente se asustaron por un instante, pero María Magdalena, corriendo hacia él y dirigiéndosele como si pensara que tal vez fuera el jardinero, dijo: «¿Dónde habéis llevado al Maestro? ¿Dónde lo han enterrado? Dínoslo para que podamos ir y buscarlo». Como el extraño no le contestó a María, ella se puso a llorar. Entonces les habló Jesús, diciendo: «¿A quién buscáis?» María dijo: «Buscamos a Jesús, quien fue enterrado para reposar en el sepulcro de José, pero se ha ido. ¿Sabes tú adónde le han llevado?» Entonces dijo Jesús: «¿Acaso no os dijo este Jesús, aun en Galilea, que moriría, pero que volvería a resucitar?» Estas palabras asombraron a las mujeres, pero el Maestro tanto había cambiado, que ellas no le reconocieron cuando él se encontraba allí, de espaldas ante la escasa luz. Mientras ellas reflexionaban sobre sus palabras, él se dirigió a Magdalena con voz conocida, diciendo: «María». Cuando ella oyó esa palabra bien conocida de misericordia y salutación afectuosa, supo que era la voz del Maestro, y se arrojó de rodillas a sus pies exclamando: «¡Mi Señor, y mi Maestro!» Y todas las demás mujeres reconocieron que era el Maestro quien estaba de pie ante ellas en forma glorificada, y rápidamente se arrodillaron ante él.
+  Q#1 189:4.10 how=None
+   EN: Mary
+   AUTO: None
+   VERSE: Mientras estas mujeres estaban allí sentadas en las horas tempranas del amanecer de este nuevo día, miraron hacia un lado y observaron a un extraño silencioso e inmóvil. Nuevamente se asustaron por un instante, pero María Magdalena, corriendo hacia él y dirigiéndosele como si pensara que tal vez fuera el jardinero, dijo: «¿Dónde habéis llevado al Maestro? ¿Dónde lo han enterrado? Dínoslo para que podamos ir y buscarlo». Como el extraño no le contestó a María, ella se puso a llorar. Entonces les habló Jesús, diciendo: «¿A quién buscáis?» María dijo: «Buscamos a Jesús, quien fue enterrado para reposar en el sepulcro de José, pero se ha ido. ¿Sabes tú adónde le han llevado?» Entonces dijo Jesús: «¿Acaso no os dijo este Jesús, aun en Galilea, que moriría, pero que volvería a resucitar?» Estas palabras asombraron a las mujeres, pero el Maestro tanto había cambiado, que ellas no le reconocieron cuando él se encontraba allí, de espaldas ante la escasa luz. Mientras ellas reflexionaban sobre sus palabras, él se dirigió a Magdalena con voz conocida, diciendo: «María». Cuando ella oyó esa palabra bien conocida de misericordia y salutación afectuosa, supo que era la voz del Maestro, y se arrojó de rodillas a sus pies exclamando: «¡Mi Señor, y mi Maestro!» Y todas las demás mujeres reconocieron que era el Maestro quien estaba de pie ante ellas en forma glorificada, y rápidamente se arrodillaron ante él.
+  Q#2 189:4.10 how=None
+   EN: My Lord, and my Master
+   AUTO: None
+   VERSE: Mientras estas mujeres estaban allí sentadas en las horas tempranas del amanecer de este nuevo día, miraron hacia un lado y observaron a un extraño silencioso e inmóvil. Nuevamente se asustaron por un instante, pero María Magdalena, corriendo hacia él y dirigiéndosele como si pensara que tal vez fuera el jardinero, dijo: «¿Dónde habéis llevado al Maestro? ¿Dónde lo han enterrado? Dínoslo para que podamos ir y buscarlo». Como el extraño no le contestó a María, ella se puso a llorar. Entonces les habló Jesús, diciendo: «¿A quién buscáis?» María dijo: «Buscamos a Jesús, quien fue enterrado para reposar en el sepulcro de José, pero se ha ido. ¿Sabes tú adónde le han llevado?» Entonces dijo Jesús: «¿Acaso no os dijo este Jesús, aun en Galilea, que moriría, pero que volvería a resucitar?» Estas palabras asombraron a las mujeres, pero el Maestro tanto había cambiado, que ellas no le reconocieron cuando él se encontraba allí, de espaldas ante la escasa luz. Mientras ellas reflexionaban sobre sus palabras, él se dirigió a Magdalena con voz conocida, diciendo: «María». Cuando ella oyó esa palabra bien conocida de misericordia y salutación afectuosa, supo que era la voz del Maestro, y se arrojó de rodillas a sus pies exclamando: «¡Mi Señor, y mi Maestro!» Y todas las demás mujeres reconocieron que era el Maestro quien estaba de pie ante ellas en forma glorificada, y rápidamente se arrodillaron ante él.
+  Q#3 189:4.12 how=None
+   EN: Touch me not
+   AUTO: None
+   VERSE: Al intentar María abrazar sus pies, Jesús dijo: «No me toques, María, porque no soy como me conociste en la carne. En esta forma permaneceré con vosotros por una temporada antes de ascender al Padre. Pero id, todas vosotras, ahora y decid a mis apóstoles, y a Pedro, que yo he resucitado, y que habéis hablado conmigo».
+=== p189.014
+5. Peter and John at the Tomb
+  H: ['5: Pedro y Juan Junto a la Tumba']
+=== p189.015
+Peter was afraid to meet the Master, yet he felt hope at the news that a special message had been sent to him. John, being younger, reached the tomb first, and the two of them went in one after the other and saw the grave clothes lying neatly in place. Peter thought someone had stolen the body, but John said that thieves would not have left things so orderly.
+=== p189.016
+Meanwhile Mary, discouraged because the apostles would not believe her, came back to the tomb and was weeping, when Jesus appeared to her again and said, “⟦Q 189:5.4⟧Be not doubting; have the courage to believe what you have seen and heard⟦/Q⟧”. When Mary told them again, Peter and John had returned, so the apostles could no longer laugh at her. The fact that the first news of the resurrection went first to someone who grieved the most and stayed close to the very end shows how precious a heart is that never lets go of faith and love.
+  Q#0 189:5.4 how=sentence
+   EN: Be not doubting; have the courage to believe what you have seen and heard
+   AUTO: No dudes; ten el valor de creer en lo que has visto y oído
+   VERSE: Mientras María permanecía allí después de la partida de Pedro y Juan, el Maestro se le apareció nuevamente, diciendo: «No dudes; ten el valor de creer en lo que has visto y oído. Vuelve adonde mis apóstoles y nuevamente diles que yo he resucitado, que apareceré ante ellos, y que finalmente caminaré delante de ellos a Galilea como lo prometí».
+=== p190.001
+Introduction
+  H: []
+=== p190.002
+The risen Jesus stayed on this earth for a while and personally experienced the morontia life that people go through on the mansion worlds (the worlds where people wake up after death and grow step by step). The Urantia Book says that believers, too, will rise on the resurrection morning in a morontia body like Jesus' (a body at the in-between stage, between material and spirit). Blood does not flow in this body and it does not eat ordinary food, but it is truly real. So the people who saw the risen Jesus were not fooled by a vision. All the early teachers of the gospel were united by a firm faith in Jesus' resurrection. The Urantia Book also tells us that Mary Magdalene was the spokeswoman for the women believers, just as Peter was the spokesman for the apostles.
+=== p190.003
+1. Heralds of the Resurrection
+  H: ['1: Los Heraldos de la Resurrección']
+=== p190.004
+Because the apostles did not want Jesus to leave, they had taken the promise of resurrection lightly, and they did not believe the women. Joseph of Arimathea and David Zebedee went to the tomb themselves and saw that it was empty. To the apostles, who still doubted, David said, “⟦Q 190:1.3⟧I heard the Master say that, after he should die, he would rise on the third day, and I believe him⟦/Q⟧”, and left. As he went, he put the apostles' money bag, which Judas used to carry, in Matthew's lap.
+  Q#0 190:1.3 how=sentence
+   EN: I heard the Master say that, after he should die, he would rise on the third day, and I believe him
+   AUTO: Yo le oí al Maestro decir que, después de su muerte, se levantaría al tercer día, y le creo
+   VERSE: Desde la tumba, David y José fueron inmediatamente a la casa de Elías Marcos, donde conferenciaron con los diez apóstoles en el aposento superior. Sólo Juan Zebedeo estaba dispuesto a creer, aunque vagamente, que Jesús se había levantado de entre los muertos. Pedro lo había creído al principio pero, cuando no encontró al Maestro, comenzó a dudar seriamente. Estaban todos dispuestos a creer que los judíos se habían llevado el cadáver. David no quiso discutir con ellos, pero cuando se fue, dijo: «Vosotros sois los apóstoles y deberíais comprender estas cosas. Yo no voy a argüir con vosotros; sin embargo, ahora vuelvo a la casa de Nicodemo, donde, según nuestro acuerdo, me encontraré con los mensajeros esta mañana, y cuando se hayan reunido, los enviaré en su última misión, como heraldos de la resurrección del Maestro. Yo le oí al Maestro decir que, después de su muerte, se levantaría al tercer día, y le creo». Hablando así a los deprimidos y abandonados embajadores del reino, este autonombrado jefe de comunicaciones e inteligencia se despidió de los apóstoles. Camino del aposento superior dejó caer en el regazo de Mateo Leví la bolsa de Judas, que contenía todos los fondos apostólicos.
+=== p190.005
+At half past nine in the morning, David gathered his twenty-six messengers, gave them their last assignment, and disbanded the messenger corps. The news they were to carry was, “⟦Q 190:1.5⟧Jesus has risen from the dead; the tomb is empty⟦/Q⟧”. While the apostles stayed in the upper room trembling with fear, these ordinary believers who trusted David became the very first to announce the resurrection, running from Beersheba to Damascus and Alexandria. Afterward David went to Bethany and stayed with Jesus' family, and a few months later he married Ruth, Jesus' youngest sister.
+  Q#0 190:1.5 how=None
+   EN: Jesus has risen from the dead; the tomb is empty
+   AUTO: None
+   VERSE: «Hombres y hermanos, todo este tiempo me habéis servido de acuerdo con vuestro juramento ante mí y ante vosotros mismos, y os llamo a testimonio de que no he enviado nunca falsa información por medio de vosotros. Estoy a punto de enviaros en vuestra última misión como mensajeros voluntarios del reino, y al hacer así os libero de vuestro juramento y por ello estoy disolviendo este cuerpo de mensajeros. Hombres, yo os declaro que hemos terminado nuestra obra. El Maestro ya no necesita de mensajeros mortales; él se ha levantado de entre los muertos. Él nos dijo antes de que lo arrestaran que moriría, y que se levantará al tercer día. Yo he visto el sepulcro: está vacío. He hablado con María Magdalena y otras cuatro mujeres, quienes hablaron con Jesús. Ahora yo disuelvo este grupo, me despido de vosotros, y os envío en vuestra tarea respectiva, y el mensaje que llevaréis a los creyentes es: ‘Jesús se ha levantado de entre los muertos; la tumba está vacía’».
+=== p190.006
+2. Jesus’ Appearance at Bethany
+  H: ['2: La Aparición de Jesús en Betania']
+=== p190.007
+After his resurrection, Jesus appeared to believers nineteen times in all, and he did not appear to enemies or to people who could not receive such a meeting spiritually. The third appearance took place around noon on Sunday in Bethany. Jesus' brother James wanted to believe in his brother's mission, but he had long been caught in doubt. As he stood by the empty tomb of Lazarus, he felt as if someone had touched him on the shoulder and turned around. When a strange form said, “⟦Q 190:2.3⟧James, I come to call you to the service of the kingdom⟦/Q⟧”, James recognized his brother Jesus by his voice.
+  Q#0 190:2.3 how=sentence
+   EN: James, I come to call you to the service of the kingdom
+   AUTO: Santiago, he venido para llamarte al servicio del reino
+   VERSE: En el ínterin, mientras ellos buscaban a Santiago y antes de que lo encontraran, y mientras él estaba allí en el jardín cerca de la tumba, se apercibió de una presencia cercana, como si alguien le hubiera tocado el hombro; y cuando se volvió para mirar, contempló la aparición gradual de una forma extraña a su lado. Estaba demasiado asombrado para poder hablar y demasiado asustado para huir. Entonces, la extraña forma habló diciendo: «Santiago, he venido para llamarte al servicio del reino. Reúnete sinceramente con tus hermanos y sigue mis pasos». Cuando Santiago escuchó su nombre, supo que era su hermano mayor, Jesús, quien así le había hablado. Todos tenían mayores o menores dificultades en reconocer la forma morontial del Maestro, pero pocos de ellos tenían problema alguno en reconocer su voz o en identificar de otra manera su encantadora personalidad cuando él se comunicaba con ellos.
+=== p190.008
+A little before two in the afternoon, Jesus appeared before twenty of his family and friends and greeted them, “⟦Q 190:2.6⟧Peace be upon you⟦/Q⟧”, and he asked them tenderly why they had hesitated so long. When they tried to come closer to him, Jesus vanished. David rejoiced, saying, “⟦Q 190:2.5⟧even stronghearted men have begun to see him⟦/Q⟧”.
+  Q#0 190:2.6 how=sentence
+   EN: Peace be upon you
+   AUTO: Que la paz sea con vosotros
+   VERSE: David no tuvo que esperar mucho, porque la cuarta aparición de Jesús ante una presencia mortal ocurrió poco antes de las dos de la tarde en esta misma casa de Marta y María, cuando él apareció visiblemente ante su familia terrenal y sus amigos, veinte en total. El Maestro apareció junto a la puerta de atrás, que estaba abierta, diciendo: «Que la paz sea con vosotros. Salutaciones para los que estuvieron junto a mí en la carne, y hermandad para mis hermanas y hermanos en el reino del cielo. ¿Cómo pudisteis dudar? ¿Por qué habéis titubeado tanto antes de elegir seguir de todo corazón la luz de la verdad? Venid, por tanto, todos vosotros a la hermandad del Espíritu de la Verdad en el reino del Padre». Cuando ellos se recuperaron de la primera impresión y del asombro y se le acercaron con la intención de abrazarlo, él desapareció de su vista.
+  Q#1 190:2.5 how=None
+   EN: even stronghearted men have begun to see him
+   AUTO: None
+   VERSE: Santiago entró corriendo a la casa, mientras ellos lo buscaban en Betfagé, exclamando: «Acabo de ver a Jesús, y de hablar con él; yo conversé con él. No está muerto; ¡ha resucitado! Se desapareció de ante mí, diciendo, ‘Adiós, hasta que os reciba a todos juntos’». Apenas acababa de hablar cuando retornó Judá, y volvió a relatar la experiencia de encontrar a Jesús en el jardín, para que la escuchara Judá. Todos ellos comenzaron a creer en la resurrección de Jesús. Santiago anunció seguidamente que no volvería a Galilea, y David exclamó: «Ya no sólo las emotivas mujeres lo ven; aún hombres de corazón fuerte han empezado a verlo. Espero verlo yo también».
+=== p190.009
+3. At the Home of Joseph
+  H: ['3: En la Casa de José']
+=== p190.010
+At about a quarter past four in the afternoon, as Mary Magdalene was telling the story of Bethany to twenty-five women believers gathered at Joseph's home, Jesus appeared in their midst. Jesus said that in the kingdom there is no difference between Jew and gentile, rich and poor, man and woman, and he urged the women to spread the gospel to the whole world as well, and to strengthen those who were weak and afraid. And he promised, “⟦Q 190:3.1⟧I will be with you always, even to the ends of the earth⟦/Q⟧”. Of the five appearances up to that day, Mary Magdalene saw four herself.
+  Q#0 190:3.1 how=None
+   EN: I will be with you always, even to the ends of the earth
+   AUTO: None
+   VERSE: La quinta manifestación morontial de Jesús ante ojos mortales ocurrió en presencia de unas veinticinco mujeres creyentes reunidas en la casa de José de Arimatea, aproximadamente quince minutos después de las cuatro de este mismo domingo por la tarde. María Magdalena había vuelto de la casa de José unos pocos minutos antes de esta aparición. Santiago, el hermano de Jesús, había solicitado que nada se dijera a los apóstoles sobre la aparición del Maestro en Betania. No le había pedido a María que no informara a sus hermanas creyentes de este hecho. Por lo tanto, una vez que María hizo prometer a todas las mujeres que mantendrían el secreto, procedió a relatar lo que tan recientemente había sucedido mientras ella estaba con la familia de Jesús en Betania. Estaban precisamente en el medio de este relato apasionante, cuando cayó sobre ellas un silencio súbito y solemne; contemplaron entonces en su medio, la forma enteramente visible del Jesús resucitado. Él las saludó diciendo: «Que la paz sea con vosotras. En la comunidad del reino no habrá judíos ni gentiles, ricos ni pobres, libres ni esclavos, hombres ni mujeres. También sois llamadas a difundir la buena nueva de la liberación de la humanidad mediante el evangelio de la filiación con Dios en el reino del cielo. Id a todo el mundo proclamando este evangelio y confirmando a los creyentes en la fe del mismo. Mientras hacéis esto, no olvidéis ministrar a los enfermos y fortalecer a los que son de corazón débil y que se dejan dominar por el temor. Y estaré con vosotras siempre, aun hasta los confines de la tierra». Y cuando hubo hablado así, desapareció de su vista, mientras las mujeres caían de bruces y adoraban en silencio.
+=== p190.011
+By evening, the rumor that Jesus had risen had spread throughout the whole city. The frightened Sanhedrin hurriedly held a meeting and decided to throw out of the synagogue anyone who spoke of the resurrection. They thought they were finished with Jesus, but The Urantia Book says that the real trouble was only just beginning.
+=== p190.012
+4. Appearance to the Greeks
+  H: ['4: La Aparición a los Griegos']
+=== p190.013
+At about half past four in the afternoon, Jesus appeared to about forty Greek believers gathered at the home of Flavius. Even though the doors were securely locked, Jesus stood among them and said that the Son of Man had been born among the Jews but had come for all people, and that in the Father's kingdom all are brothers. And he told them to go to the whole world and proclaim the gospel of salvation. The Greeks were filled with awe and stayed awake all night talking about it. Jesus thought a great deal about the apostles, but he waited a little longer so they would have time to look deeply into their own hearts.
+=== p190.014
+5. The Walk with Two Brothers
+  H: ['5: La Caminata con los Dos Hermanos']
+=== p190.015
+At about five o'clock that afternoon, Cleopas and Jacob, two shepherd brothers who lived in Emmaus, were arguing on their way home about the rumors of Jesus' empty tomb. The older brother half believed it, and the younger thought it was a trick. Just then Jesus came up and walked with them, but the two did not recognize him. Jesus said, “⟦Q 190:5.4⟧How slow you are to comprehend the truth!⟦/Q⟧” and he explained to them that Jesus' kingdom is not a kingdom of this world but a kingdom of brothers serving one another in the love of God, and that the salvation the Scriptures spoke of means binding up broken hearts and setting free those who are trapped by fear.
+  Q#0 190:5.4 how=None
+   EN: How slow you are to comprehend the truth!
+   AUTO: None
+   VERSE: Mientras seguían caminando, Jesús les dijo: «¡Cuán lentos sois en comprender la verdad! Cuando me decís que estáis discutiendo las enseñanzas y las obras de este hombre, tal vez yo os pueda esclarecer, puesto que estoy más que familiarizado con estas enseñanzas. ¿Acaso no recordáis que este Jesús siempre enseñó que su reino no era de este mundo, y que todos los hombres, siendo hijos de Dios, debían encontrar la libertad y la emancipación en el regocijo espiritual de ser miembros de la hermandad del servicio amante en este nuevo reino de la verdad del amor del Padre celestial? ¿Acaso no recordáis cómo este Hijo del Hombre proclamó la salvación de Dios para todos los hombres, ministrando a los enfermos y afligidos y liberando a los que estaban encadenados por el temor y esclavisados por el mal? ¿Acaso no sabéis que este hombre de Nazaret dijo a sus discípulos que él debía ir a Jerusalén, ser entregado a sus enemigos, quienes lo pondrían a muerte, y que luego resucitaría al tercer día? ¿Acaso no habéis escuchado esto? ¿Y no habéis leído nunca en las Escrituras sobre este día de salvación de judíos y gentiles, donde dice que en él todas las familias de la tierra serán benditas; que él oirá el llanto de los necesitados y salvará el alma de los pobres que lo busquen; que todas las naciones lo llamarán bendito? Que ese Libertador será como la sombra de una gran roca sobre una tierra cansada. Que alimentará al rebaño como un buen pastor, juntando a las ovejas en sus brazos y llevándolas tiernamente en su regazo. Que abrirá los ojos de los que son ciegos espiritualmente y que traerá a los prisioneros de la desesperación a la plena libertad y luz; que todos los que están sentados en las tinieblas, verán la gran luz de la salvación eterna. Que él vendará a los quebrantados de corazón, publicará libertad a los cautivos del pecado, y abrirá la prisión de los que están esclavizados por el temor y encadenados por el mal. Que confortará a los que están de luto y les otorgará el regocijo de la salvación en lugar de la pena y de la pesadumbre. Que será el deseo de todas las naciones y la felicidad eterna de los que buscan la rectitud. Que este hijo de la verdad y de la rectitud se elevará en el mundo con luz curativa y poder salvador; incluso que salvará a su pueblo de sus pecados; que realmente buscará y salvará a los que se han descarriado. Que no destruirá a los débiles sino que ministrará salvación a todos los que tienen hambre y sed de rectitud. Que los que crean en él tendrán vida eterna. Que él derramará su espíritu sobre toda la carne, y que este Espíritu de la Verdad será en cada creyente un manantial de agua, que llegará hasta la vida eterna. ¿Acaso no comprendisteis cuán grande era el evangelio del reino que os entregó este hombre? ¿No percibís acaso cuán grande es la salvación que os ha llegado?».
+=== p190.016
+When they reached their home, the two urged him to stay with them, since it was getting dark. At the table, the moment Jesus broke the bread and handed it to them, their eyes were opened, and just as one said, “⟦Q 190:5.5⟧It is the Master⟦/Q⟧”, Jesus vanished. They said, “⟦Q 190:5.6⟧No wonder our hearts burned within us as he spoke to us while we walked along the road!⟦/Q⟧” and without even eating, they hurried to Jerusalem to tell the apostles the news. This story warmly reminds us that even when we are full of doubt and sorrow, Jesus is quietly walking beside us.
+  Q#0 190:5.5 how=None
+   EN: It is the Master
+   AUTO: None
+   VERSE: A estas alturas, habían llegado cerca de la aldea donde vivían los dos hermanos. Los dos hombres no habían hablado palabra alguna desde que Jesús empezó a enseñarles mientras caminaban por el camino. Pronto llegaron frente a su humilde morada, y Jesús estaba a punto de despedirse de ellos, para proseguir su camino, pero lo instaron a que entrara y morara con ellos. Insistieron que era casi de noche y que se quedara con ellos. Finalmente Jesús consistió, y muy poco después entraron en la casa, y se sentaron a comer. Le dieron el pan para que lo bendijera, y al empezar él a romperlo para compartirlo con ellos, se les abrieron los ojos y Cleofas reconoció que su huésped era el Maestro mismo. Y cuando dijo, «es el Maestro—», el Jesús morontial desapareció de su vista.
+  Q#1 190:5.6 how=None
+   EN: No wonder our hearts burned within us as he spoke to us while we walked along the road!
+   AUTO: None
+   VERSE: Entonces se dijeron uno al otro: «¡Con razón nuestro corazón nos ardía en el pecho mientras él nos hablaba al caminar por la carretera. Y mientras abría para nosotros la puerta de la comprensión de las enseñanzas de las Escrituras!
+=== p191.001
+Introduction
+  H: []
+=== p191.002
+Resurrection Sunday was a terrible day for the apostles. Ten of them were hiding in the upper room behind locked doors, afraid of being arrested by the Sanhedrin, and Thomas was alone in Bethpage, lost in his troubles. Each apostle spent that day in his own way. John remembered one by one the words Jesus had spoken about rising again and firmly believed in the resurrection, while Peter swung back and forth between faith and doubt, tormented by the thought that Jesus might not come because Peter had denied him. Nathaniel held the group together with his calm advice, Simon Zelotes was so disappointed that he lay facing the wall, and Philip kept asking whether the marks of the cross would remain on a risen body. The Alpheus twins said simply, “⟦Q 191:0.11⟧our mother says she talked with the Master, and we believe her⟦/Q⟧”.
+  Q#0 191:0.11 how=None
+   EN: our mother says she talked with the Master, and we believe her
+   AUTO: None
+   VERSE: Los gemelos Alfeo poco participaron en estas discusiones serias; estaban bastante ocupados en sus ministraciones habituales. Uno de ellos expresó la actitud de ambos al decir, respondiendo a una pregunta de Felipe: «No entendemos esto de la resurrección, pero nuestra madre dice que habló con el Maestro, y nosotros le creemos».
+=== p191.003
+Jesus delayed appearing to the apostles for several reasons. He wanted to give them time to think over the words about death and resurrection he had told them before, to give Peter time to wrestle with his own problems, and he wanted Thomas to be there too at the first appearance. But Thomas was too proud to come back first, and the apostles waited for him. In the end, it was not until the next Saturday evening that Peter and John went to bring him.
+=== p191.004
+1. The Appearance to Peter
+  H: ['1: La Aparición a Pedro']
+=== p191.005
+Around half past eight on Sunday evening, Jesus appeared to Peter as he walked in the garden of Mark's home. This was the eighth morontia manifestation. Morontia means the in-between stage of life, between material and spirit, that mortals pass through after death until they become spirit beings. At the very moment Peter cried out, “⟦Q 191:1.2⟧I believe he has risen from the dead⟦/Q⟧”, Jesus appeared and told him that because he knew Peter had not denied him from the heart, he had already forgiven him even before he asked. And he encouraged him to stop thinking only about himself and his past troubles, and to care less about what he might get from the kingdom and more about what he could give to those who are spiritually poor.
+  Q#0 191:1.2 how=None
+   EN: I believe he has risen from the dead
+   AUTO: None
+   VERSE: Cuando Pedro pensó en la mirada amante del Maestro al pasar junto a Pedro en el portal de Anás, y al discurrir en el maravilloso mensaje traído, temprano por la mañana, por las mujeres que vinieron de la tumba vacía, «id y contadles a mis apóstoles —y a Pedro», al contemplar él estas muestras de misericordia, su fe empezó a superar sus dudas, y él se detuvo apretando los puños, mientras decía en voz alta: «Yo creo que ha resucitado de entre los muertos; iré y así les diré a mis hermanos». Al pronunciar él estas palabras, repentinamente apareció ante él la forma de un hombre, que le habló en un tono de voz familiar diciendo: «Pedro, el enemigo quería llevarte, pero yo no te abandonaré. Yo sabía que tu negación no provenía del corazón; por lo tanto, te perdoné aun antes de que me lo pidieras; pero ahora debes dejar de pensar en ti mismo y en los problemas del presente mientras te preparas para llevar la nueva buena del evangelio a los que están sentados en las tinieblas. Ya no debes preocuparte de lo que puedas obtener del reino, sino más bien debes ejercitarte en lo que tú puedes dar a los que viven en la más extrema pobreza espiritual. Prepárate, Simón, para la lucha del nuevo día, la batalla contra la obscuridad espiritual y las dudas malignas que habitan la mente natural de los hombres».
+=== p191.006
+Peter ran to the upper room and cried out, “⟦Q 191:1.4⟧I have seen the Master⟦/Q⟧”, and he told them the Master had forgiven him. But when his brother Andrew hinted that Peter had seen things that were not there before, Peter was hurt and fell silent. The Alpheus twins came over and comforted him, saying they believed him.
+  Q#0 191:1.4 how=None
+   EN: I have seen the Master
+   AUTO: None
+   VERSE: Por un momento, Pedro fue sobrecogido por la comprensión de que había hablado con el Maestro resucitado, y de que podía tener la certeza de seguir siendo un embajador del reino. Acababa de oír al glorificado Maestro exhortarle a que fuera a predicar el evangelio. Con todo esto llenándole el corazón, corrió al aposento superior, adonde sus hermanos apóstoles, exclamando casi sin aliento: «Yo he visto al Maestro; estuvo en el jardín. Hablé con él, y me ha perdonado».
+=== p191.007
+2. First Appearance to the Apostles
+  H: ['2: La Primera Aparición Ante los Apóstoles']
+=== p191.008
+A little after nine that night, while the ten apostles were gathered with all the doors locked, Jesus suddenly appeared in their midst. Greeting them with “⟦Q 191:2.1⟧Peace be upon you⟦/Q⟧”, Jesus gently scolded them for their doubts and arguments, asking whether he had not told them in advance that he would die and rise on the third day. Then he told them that once they were all together again and knew for certain about the resurrection, they should go to Galilee, and he urged them to have faith in God and faith in one another. When Jesus vanished, the apostles fell with their faces to the ground and praised God. This was the ninth appearance.
+  Q#0 191:2.1 how=sentence
+   EN: Peace be upon you
+   AUTO: Que la paz sea con vosotros
+   VERSE: Poco después de las nueve de esa noche, después de la partida de Cleofas y Jacobo, mientras los gemelos Alfeo consolaban a Pedro y Natanael discutía con Andrés, los diez apóstoles estaban reunidos en el aposento superior, con todas las puertas cerradas con seguro por temor de que los arrestaran, el Maestro, en forma morontial, apareció de pronto en su medio, diciendo: «Que la paz sea con vosotros. ¿Por qué tanto os aterrorizáis cuando yo aparezco, como si vierais a un espíritu? ¿Acaso no os hablé yo de estas cosas cuando estaba presente entre vosotros en la carne? ¿Acaso no os dije que los altos sacerdotes y los líderes me entregarían para que sea matado; que uno de entre vosotros mismos me traicionaría, y que al tercer día resucitaría? ¿De dónde pues vienen todas vuestras incertidumbres y toda esta discusión sobre el relato de las mujeres, de Cleofas y Jacobo, y aun de Pedro? ¿Por cuánto tiempo seguiréis dudando de mis palabras y negándoos a creer en mis promesas? Ahora bien, ya que realmente me veis, ¿creeréis? Aun ahora uno de vosotros está ausente. Cuando estéis juntos nuevamente, y después que todos vosotros sepáis con certeza que el Hijo del Hombre se ha levantado de la tumba, id a Galilea. Tened fe en Dios; teneos fe mutuamente; así pues entraréis al nuevo servicio del reino del cielo. Yo me quedaré en Jerusalén con vosotros, hasta que estéis listos para ir a Galilea. Mi paz os dejo».
+=== p191.009
+3. With the Morontia Creatures
+  H: ['3: Con las Seres Morontiales']
+=== p191.010
+The next day, Monday, Jesus spent the whole day with the morontia creatures who had come to Urantia. Urantia is the name for the earth we live on. More than a million morontia beings had come, along with transition mortals from the mansion worlds; the mansion worlds are the worlds where people first wake up after death to learn and grow. Jesus stayed with them for forty days, sometimes teaching them and sometimes learning about the morontia life that mortals pass through.
+=== p191.011
+After that, Jesus' morontia form went up one stage at a time, and in May, after passing through citizenship on Jerusem, he entered the embrace of the Most Highs of Edentia. In this way Michael of Nebadon, Jesus, the Creator Son who made our universe, truly completed his seventh and final bestowal by personally experiencing the life of an ascending mortal.
+=== p191.012
+4. The Tenth Appearance (At Philadelphia)
+  H: ['4: La Décima Aparición (En Filadelfia)']
+=== p191.013
+On Tuesday evening, April 11, Jesus appeared before Abner, Lazarus, and about one hundred and fifty believers gathered in the synagogue at Philadelphia. Jesus said that we all have one Father in heaven and that there is only one gospel, the gift of eternal life received by faith. And he told them to fellowship in love with all their brothers who preach the gospel, whether Jew or gentile, Greek or Roman. “⟦Q 191:4.3⟧as you love one another, all men will know that you are my disciples⟦/Q⟧”. Jesus told them to proclaim the fatherhood of God and the brotherhood of men to the whole world, and he promised that he would always be with them, even to the end of the ages.
+  Q#0 191:4.3 how=None
+   EN: as you love one another, all men will know that you are my disciples
+   AUTO: None
+   VERSE: «Que la paz sea con vosotros. Todos vosotros sabéis que tenemos un Padre en el cielo y que hay un solo evangelio en el reino: la buena nueva del don de la vida eterna que reciben los hombres mediante la fe. Al regocijaros en vuestra lealtad al evangelio, orad al Padre de la verdad para que os otorgue en vuestro corazón un amor nuevo y más grande por vuestros hermanos. Debéis amar a todos los hombres, así como yo os he amado; debéis servir a todos los hombres, así como yo os he servido. Con compasiva comprensión y afecto fraterno, recibid en la comunión de hermandad a todos vuestros hermanos que se dedican a la proclamación de la buena nueva, sean ellos judíos o gentiles, griegos o romanos, persas o etíopes. Juan proclamó el reino por adelantado; vosotros habéis predicado el evangelio en poder; los griegos ya enseñan la buena nueva; y yo pronto enviaré el Espíritu de la Verdad al alma de todos estos, mis hermanos, que tan altruísticamente han dedicado su vida al esclarecimiento de sus semejantes que están sentados en las tinieblas espirituales. Todos vosotros sois los hijos de la luz; por eso, no tropecéis en marañas de malentendido causadas por sospechas mortales y la intolerancia humana. Si os ennoblecéis, por la gracia de la fe, para amar a los descreídos, ¿no debéis acaso igualmente amar a los que son vuestros concreyentes en la extensa familia de la fe? Recordad que, así como os amáis unos a otros, todos los hombres sabrán que sois mis discípulos.
+=== p191.014
+Except for one time in Galilee when more than five hundred saw him, this group was the largest number of people who saw Jesus all at once. The next morning these believers immediately set out to proclaim the resurrection.
+=== p191.015
+5. Second Appearance to the Apostles
+  H: ['5: La Segunda Aparición Ante los Apóstoles']
+=== p191.016
+Thomas had wandered alone in the hills for a week, and on Saturday night he came back to his companions. But even after hearing that they had seen the Master, he stubbornly refused to believe, saying, “⟦Q 191:5.2⟧I will not believe unless I see the Master with my own eyes and put my finger in the mark of the nails⟦/Q⟧”. Right then, in the room with the doors shut, Jesus appeared in front of Thomas. Jesus said that just as the Father had sent him, so he was sending them, and he told them to show God's love not only with words but in their daily lives. They were to love not just people's souls but people themselves, and to love and serve people the way he had loved and served them. Jesus said, “⟦Q 191:5.3⟧I require of my disciples life⟦/Q⟧”.
+  Q#0 191:5.2 how=sentence
+   EN: I will not believe unless I see the Master with my own eyes and put my finger in the mark of the nails
+   AUTO: No voy a creer a menos que vea el Maestro con mis propios ojos y pueda poner el dedo en la llaga de los clavos
+   VERSE: Estaban compartiendo la cena poco después de las seis, con Pedro sentado a un lado y Natanael al otro lado de Tomás, cuando el apóstol incrédulo dijo: «No voy a creer a menos que vea el Maestro con mis propios ojos y pueda poner el dedo en la llaga de los clavos». Mientras estaban así sentados cenando, con las puertas cerradas con llave y con barras, el Maestro morontial apareció repentinamente dentro a la curvatura de la mesa, y deteniéndose directamente ante Tomás, dijo:
+  Q#1 191:5.3 how=None
+   EN: I require of my disciples life
+   AUTO: None
+   VERSE: «Que la paz sea con vosotros. Durante una semana entera he permanecido aquí con la esperanza de poder aparecer nuevamente cuando estuvierais todos vosotros presentes, para que escuchéis una vez más la misión de ir al mundo y predicar este evangelio del reino. Nuevamente os digo: Así como el Padre me envió al mundo, así os envío yo. Así como yo he revelado al Padre, así revelaréis vosotros el amor divino, no sólo con palabras, sino en vuestra vida diaria. Os envío, no para que améis las almas de los hombres, sino más bien para que améis a los hombres. No debéis proclamar simplemente las felicidades del cielo, sino también mostrar en vuestra experiencia diaria esas realidades espirituales de la vida divina, puesto que vosotros ya tenéis vida eterna, como don de Dios, por medio de la fe. Cuando tengáis fe, cuando el poder de lo alto, el Espíritu de la Verdad, venga sobre vosotros, no ocultaréis vuestra luz aquí tras puertas cerradas. Haréis que toda la humanidad conozca el amor y la misericordia de Dios. Por el temor huís ahora de los hechos de una experiencia desagradable, pero cuando hayáis sido bautizados con el Espíritu de la Verdad, iréis hacia adelante, gallarda y jubilosamente para encontrar las nuevas experiencias de proclamar la buena nueva de la vida eterna en el reino de Dios. Podréis quedaros aquí y en Galilea por una corta temporada mientras os recobráis del golpe de la transición de la falsa seguridad de la autoridad del tradicionalismo, al nuevo orden de la autoridad de los hechos, de la verdad y la fe en las realidades supremas de la experiencia viva. Vuestra misión en el mundo se basa en el hecho de que yo viví una vida reveladora de Dios entre vosotros; en la verdad de que vosotros y todos los demás hombres, son hijos de Dios; y consistirá en la vida que vosotros viviréis entre los hombres —la experiencia real y viviente de amar a los hombres y servirlos, aun como yo os he amado y servido a vosotros. Dejad que la fe revele al mundo vuestra luz; dejad que la revelación de la verdad abra los ojos cegados por la tradición; dejad que vuestro servicio amante destruya efectivamente el prejuicio engendrado por la ignorancia. Acercándoos así a vuestros semejantes en compasiva comprensión y con devoción altruista, los conduciréis al conocimiento salvador del amor del Padre. Los judíos alabaron la bondad; los griegos exaltaron la belleza; los hindúes predican la devoción; los lejanos ascetas predican la reverencia; los romanos exigen lealtad; pero yo requiero de mis discípulos vida, aun una vida de servicio amante para vuestros hermanos en la carne».
+=== p191.017
+Then Jesus told Thomas that his doubts were most stubborn just before they crumbled, and that he should be not faithless but believing. Thomas fell to his knees and cried, “⟦Q 191:5.5⟧My Lord and my Master!⟦/Q⟧” Jesus said that blessed are those in the ages to come who will believe without having seen. Now the eleven apostles were fully sure of the resurrection, and they left for Galilee before dawn the next day.
+  Q#0 191:5.5 how=sentence
+   EN: My Lord and my Master!
+   AUTO: ¡Señor mío y Maestro mío!
+   VERSE: Cuando Tomás escuchó estás palabras, cayó de rodillas ante el Maestro morontial y exclamó: «¡Yo creo! ¡Señor mío y Maestro mío!» Entonces le dijo Jesús a Tomás: «Tomás, tú has creído porque realmente me viste y me oíste. Benditos son los en las edades por venir que creerán aunque no me hayan visto con los ojos de la carne, ni me hayan oído con el oído mortal».
+=== p191.018
+6. The Alexandrian Appearance
+  H: ['6: La Aparición en Alejandría']
+=== p191.019
+On the evening of April 18, Jesus also appeared far away in Alexandria, Egypt, to Rodan and about eighty believers. It was the moment when Nathan, David's messenger, was finishing his report of the crucifixion by saying that the Master had promised to rise again. Jesus said that the gospel of the kingdom does not belong to one race, one nation, or a special group of teachers, but to everyone: Jew and gentile, rich and poor, man and woman, and even little children. And he said that if they loved one another and served humankind, people would see the Spirit of Truth in their lives and follow.
+=== p191.020
+Two days later, when a messenger came to bring news of the resurrection, the believers there answered, “⟦Q 191:6.4⟧Yes, we know, for we have seen him⟦/Q⟧”. The risen Jesus went to doubting Peter and Thomas one by one and lifted them back up. When we stumble and waver, it is good to remember that love which forgives us first and waits for us.
+  Q#0 191:6.4 how=sentence
+   EN: Yes, we know, for we have seen him
+   AUTO: Sí, lo sabemos, porque lo hemos visto
+   VERSE: Cuando el Maestro hubo hablado así, desapareció de su vista. Durante toda esa noche, estos creyentes permanecieron allí juntos, recordando las experiencias como creyentes del reino y escuchando las muchas palabras de Rodán y de sus asociados. Todos ellos creyeron que Jesús había resucitado de entre los muertos. Imaginad la sorpresa del heraldo de la resurrección enviado por David, que llegó al segundo día después de este acontecimiento, cuando contestaron a su anuncio diciendo: «Sí, lo sabemos, porque lo hemos visto. Él apareció ante nosotros anteayer».
+=== p192.001
+Introduction
+  H: []
+=== p192.002
+By the time the apostles left for Galilee, the Jewish leaders had grown fairly quiet. Jesus had appeared only to believers, and the apostles were in hiding, so the leaders thought this movement was finished. The spreading rumors of the resurrection made them uneasy, but they trusted that the guards they had bribed would say the followers had carried off the body.
+=== p192.003
+From this time on, Peter naturally became the head of the apostles. Jesus had not given him that authority, nor had the apostles elected him, but everyone accepted it because he was the chief preacher. When the apostles left for Galilee early Monday morning, young John Mark secretly followed them, and when they were well past Bethany, he boldly joined them. The apostles stopped many times along the way to tell about the risen Master, so they did not reach Bethsaida until late Wednesday night.
+=== p192.004
+1. Appearance by the Lake
+  H: ['1: La Aparición Junto al Lago']
+=== p192.005
+At dawn on Friday, April 21, the apostles were coming back to Bethsaida after fishing all night without catching a single fish. Someone standing by a fire on the beach asked, “⟦Q 192:1.3⟧Lads, have you caught anything?⟦/Q⟧” When they said no, he told them to cast the net on the right side of the boat, and when they did, the net was filled. John Zebedee recognized him first and whispered, “⟦Q 192:1.3⟧It is the Master⟦/Q⟧”, and impulsive Peter jumped straight into the water. John Mark ran down the beach and knelt at the Master's feet, and Jesus, unlike in Jerusalem, said in a very ordinary way, “⟦Q 192:1.4⟧Well, John, I am glad to see you again⟦/Q⟧”.
+  Q#0 192:1.3 how=None
+   EN: Lads, have you caught anything?
+   AUTO: None
+   VERSE: Cuando echaron el ancla y se prepararon para trasladarse al bote pequeño que los llevaría hasta la orilla, el hombre en la playa les gritó: «Muchachos, ¿habéis pescado algo?» Al responderle ellos que no, volvió a hablar. «Echad la red a la derecha de la barca, encontraréis allí peces». Aunque no sabían que era Jesús quien les estaba hablando, al unísono echaron la red como se les había instruido, e inmediatamente estuvo llena, tanto que casi no podían cargarla de vuelta en la barca. Juan Zebedeo era de percepción rápida, y al ver la red llena de peces, percibió que era el Maestro quien les había hablado. Cuando ese pensamiento cruzó su mente, se inclinó y le susurró a Pedro: «Es el Maestro». Pedro fue siempre hombre de acción impensada y devoción impetuosa, de modo que, en cuanto Juan le susurró eso al oído, se levantó de golpe y se echó al agua para llegar más rápido junto al Maestro. Sus hermanos llegaron poco después de él, habiendo alcanzado la orilla en la barca pequeña, arrastrando la red llena de peces.
+  Q#1 192:1.3 how=None
+   EN: It is the Master
+   AUTO: None
+   VERSE: Cuando echaron el ancla y se prepararon para trasladarse al bote pequeño que los llevaría hasta la orilla, el hombre en la playa les gritó: «Muchachos, ¿habéis pescado algo?» Al responderle ellos que no, volvió a hablar. «Echad la red a la derecha de la barca, encontraréis allí peces». Aunque no sabían que era Jesús quien les estaba hablando, al unísono echaron la red como se les había instruido, e inmediatamente estuvo llena, tanto que casi no podían cargarla de vuelta en la barca. Juan Zebedeo era de percepción rápida, y al ver la red llena de peces, percibió que era el Maestro quien les había hablado. Cuando ese pensamiento cruzó su mente, se inclinó y le susurró a Pedro: «Es el Maestro». Pedro fue siempre hombre de acción impensada y devoción impetuosa, de modo que, en cuanto Juan le susurró eso al oído, se levantó de golpe y se echó al agua para llegar más rápido junto al Maestro. Sus hermanos llegaron poco después de él, habiendo alcanzado la orilla en la barca pequeña, arrastrando la red llena de peces.
+  Q#2 192:1.4 how=None
+   EN: Well, John, I am glad to see you again
+   AUTO: None
+   VERSE: A esta altura ya se había levantado Juan Marcos y, viendo a los apóstoles que llegaban a la orilla con su red cargada, corrió a la playa para saludarlos; y cuando vio a once hombres en vez de diez, supuso que a quien no reconocía sería Jesús resucitado, y ante el asombro callado de los diez, el joven corrió junto al Maestro, e hincando la rodilla a sus pies, dijo: «Señor mío y Maestro mío». Y Jesús habló, no como lo había hecho en Jerusalén al saludarlos diciendo «que la paz sea con vosotros», sino en tono familiar, dirigiéndose a Juan Marcos: «Bien, Juan, me alegro de verte nuevamente, en la despreocupada Galilea, donde podemos tener una buena visita. Quédate con nosotros Juan, y desayuna».
+=== p192.006
+Peter hesitated for a moment when he saw the charcoal fire on the beach. It reminded him of the charcoal fire he had warmed himself by in the courtyard of Annas on the night he denied the Master. But he soon pulled himself together and knelt down. They had caught 153 large fish, and The Urantia Book explains that this was not a miracle but the foreknowledge of the Master, who knew ahead of time where the fish were. Jesus cooked the fish himself, broke the bread and handed it out, and talked about old memories.
+=== p192.007
+Meanwhile, Simon Zelotes was so discouraged that when they reached Bethsaida he left his companions and went home. Jesus told them to send two men to bring him back, and Peter and Andrew took on that task.
+=== p192.008
+2. Visiting with the Apostles Two and Two
+  H: ['2: Las Conversaciones con los Apóstoles de Dos en Dos']
+=== p192.009
+After breakfast, Jesus walked along the beach and talked with the apostles two at a time. He asked John, “⟦Q 192:2.1⟧do you love me?⟦/Q⟧” and then told him to give up his narrow-mindedness and show with his life that love is the greatest thing in the world. He asked Peter the same question three times. When Peter, feeling hurt, said, “⟦Q 192:2.4⟧Lord, you know all things⟦/Q⟧”, and so he knew Peter truly loved him, Jesus said, “⟦Q 192:2.4⟧Feed my sheep⟦/Q⟧”, and told him to care for the weak, the poor, and the young and to follow him to the end. When Peter asked what would happen to John, Jesus told him not to worry about his brothers' affairs but only to make sure that he himself followed him.
+  Q#0 192:2.1 how=None
+   EN: do you love me?
+   AUTO: None
+   VERSE: Cuando terminaron el desayuno y mientras los demás estaban sentados junto al fuego, Jesús señaló a Pedro y a Juan que le acompañaran caminando por la playa. Mientras iban caminando, Jesús le dijo a Juan: «Juan, ¿me amas?» Cuando Juan contestó: «Sí, Maestro, con todo mi corazón», el Maestro dijo: «Entonces, Juan, abandona tu intolerancia y aprende a amar a los hombres así como yo te he amado a ti. Dedica tu vida a la demostración de que el amor es la cosa más grande del mundo. Es el amor de Dios el que impulsa a los hombres a buscar la salvación. El amor es el antecesor de toda bondad espiritual, la esencia de lo verdadero y de lo bello».
+  Q#1 192:2.4 how=None
+   EN: Lord, you know all things
+   AUTO: None
+   VERSE: Después de caminar unos pasos más, Jesús se dirigió a Pedro por tercera vez y preguntó: «Pedro, ¿me amas verdaderamente?» Entonces Pedro, levemente herido por la aparente desconfianza del Maestro, dijo con gran emoción: «Señor, tú lo sabes todo, y por lo tanto, tú sabes que yo realmente y verdaderamente te amo». Entonces dijo Jesús: «Apacienta mis ovejas. No abandones el redil. Sé un ejemplo e inspiración para todos los demás pastores. Ama el redil así como yo te he amado a ti y dedícate a su bienestar así como yo he dedicado mi vida a tu bienestar. Y sigue mis pasos aun hasta el fin».
+  Q#2 192:2.4 how=positional
+   EN: Feed my sheep
+   AUTO: Apacienta mis ovejas
+   VERSE: Después de caminar unos pasos más, Jesús se dirigió a Pedro por tercera vez y preguntó: «Pedro, ¿me amas verdaderamente?» Entonces Pedro, levemente herido por la aparente desconfianza del Maestro, dijo con gran emoción: «Señor, tú lo sabes todo, y por lo tanto, tú sabes que yo realmente y verdaderamente te amo». Entonces dijo Jesús: «Apacienta mis ovejas. No abandones el redil. Sé un ejemplo e inspiración para todos los demás pastores. Ama el redil así como yo te he amado a ti y dedícate a su bienestar así como yo he dedicado mi vida a tu bienestar. Y sigue mis pasos aun hasta el fin».
+=== p192.010
+He asked Andrew and James, “⟦Q 192:2.7⟧do you trust me?⟦/Q⟧” He told Andrew to trust his brothers more, including Peter, and to be a wise counselor to Jesus' brother James, who would later be put in charge of the church. He told James that if he trusted the Master more, he would be less impatient with his brothers, and that he should cultivate patience. He asked Thomas and Nathaniel, “⟦Q 192:2.9⟧do you serve me?⟦/Q⟧” He told Thomas to stop doubting and believe in God like a child, and he told Nathaniel to add friendship to his advice and love to his philosophy, and to be less critical.
+  Q#0 192:2.7 how=None
+   EN: do you trust me?
+   AUTO: None
+   VERSE: Cuando volvieron adonde estaban los demás, Jesús se fue a caminar y hablar con Andrés y Santiago. Después de caminar una corta distancia, Jesús dijo a Andrés: «Andrés, ¿confías en mí?» Y cuando el ex jefe de los apóstoles oyó la pregunta que le hacía Jesús, se detuvo y contestó: «Sí, Maestro, por cierto confío en ti, y tú sabes que es así». Entonces dijo Jesús: «Andrés, si tú confías en mí, confía aun más en tus hermanos —aun en Pedro. En el pasado yo te confié el liderazgo de tus hermanos. Ahora al dejarte yo para ir al Padre debes tú confiar en otros. Cuando tus hermanos comiencen a dispersarse por causa de las amargas persecuciones, sé un consejero comprensivo y sabio con Santiago mi hermano en la carne, cuando le pongan pesadas cargas sobre sus hombros, a los que él no está capacitado para sobrellevar por falta de experiencia. Sigue confiando, porque yo no te fallaré. Cuando hayas terminado tu tarea en la tierra, vendrás a mí».
+  Q#1 192:2.9 how=None
+   EN: do you serve me?
+   AUTO: None
+   VERSE: Luego habló Jesús con Tomás y Natanael. Le dijo a Tomás: «Tomás, ¿me sirves?» Tomás contestó: «Sí, Señor, yo te sirvo ahora y siempre». Entonces dijo Jesús: «Si quieres servirme, sirve a mis hermanos en la carne aun como yo te he servido a ti. Y no te canses en esta obra de bien, sino que persevera como el que ha sido ordenado por Dios para este servicio de amor. Cuando hayas terminado tu servicio conmigo en la tierra, servirás conmigo en gloria. Tomás, debes dejar de dudar; debes crecer en la fe y en el conocimiento de la verdad. Cree en Dios como un niño, pero deja de actuar tan infantilmente. Ten coraje; sé fuerte en la fe y poderoso en el reino de Dios».
+=== p192.011
+He asked Philip and Matthew, “⟦Q 192:2.11⟧do you obey me?⟦/Q⟧” To these two, who had been in charge of supplies and money, he said that they were now free of that work and should preach the gospel without fear. To the Alpheus twins he said that even if they went back to their old work, they should keep their faith, saying, “⟦Q 192:2.13⟧Nothing which a son of God does can be common⟦/Q⟧”. Jesus told them to meet him at noon the next day on the mount of ordination, and then he vanished.
+  Q#0 192:2.11 how=None
+   EN: do you obey me?
+   AUTO: None
+   VERSE: Después de esto el Maestro habló con Mateo y Felipe. A Felipe le dijo: «Felipe, ¿Me obedeces?» Felipe respondió: «Sí, Señor, te obedeceré aun con mi vida». Entonces dijo Jesús: «Si quieres obedecerme, ve pues a las tierras de los gentiles y proclama este evangelio. Los profetas te han dicho que obedecer es mejor que sacrificar. Por la fe has llegado a ser un hijo del reino, que conoce a Dios. Tan sólo existe una ley que se ha de obedecer —y ésa es, el mandamiento de salir a proclamar el evangelio del reino. Deja de temer a los hombres; no tengas temor de predicar la buena nueva de la vida eterna a tus semejantes que languidecen en las tinieblas y tienen hambre de la luz de la verdad. Felipe, ya no tendrás que ocuparte de dinero ni de bienes; ya eres libre de predicar la buena nueva, como tus hermanos. Yo iré delante de ti y estaré contigo aun hasta el fin».
+  Q#1 192:2.13 how=positional
+   EN: Nothing which a son of God does can be common
+   AUTO: Nada de lo que haga un hijo de Dios es ordinario
+   VERSE: Después caminó y habló con los gemelos Alfeo, Jacobo y Judas, y dirigiéndose a ambos preguntó: «Jacobo y Judas, ¿creéis vosotros en mí?» Y cuando ambos respondieron: «Sí, Maestro, creemos», él dijo: «Pronto os dejaré. Veis que ya os he dejado en forma material. Permaneceré sólo un corto período en esta forma antes de ir al Padre. Creéis en mí —sois mis apóstoles y siempre lo seréis. Continuad creyendo y recordando vuestra asociación conmigo, cuando yo ya no esté, cuando acaso hayáis retornado al trabajo que hacíais antes de venir a vivir conmigo. No permitáis nunca que el ocuparos de una tarea exterior distinta influya sobre vuestra lealtad. Tened fe en Dios hasta el fin de vuestros días en la tierra. No olvidéis jamás que, una vez que seas un hijo de fe de Dios, todo trabajo honesto del reino es sagrado. Nada de lo que haga un hijo de Dios es ordinario. Haced pues vuestro trabajo, de aquí en adelante, como si fuera para Dios. Y cuando hayáis terminado en este mundo, yo tengo otros mundos mejores, donde igualmente trabajaréis para mí. En todo este trabajo, en este mundo y en los otros mundos, yo trabajaré con vosotros, y mi espíritu vivirá dentro de vosotros».
+=== p192.012
+3. On the Mount of Ordination
+  H: ['3: En el Monte de la Ordenación']
+=== p192.013
+At noon on Saturday, April 22, the eleven apostles gathered near Capernaum on the very mountain where Jesus had first made them apostles. When Jesus appeared, the apostles knelt in a circle, and Jesus repeated the same charge and the same scene as at their first ordination. But this time his prayer was different; it was in the majestic voice of one who had received the power and authority of the whole universe, and the apostles never forgot this experience as long as they lived. For a week after that Jesus did not appear, and the apostles waited in Bethsaida, wondering whether the Master had already gone to the Father.
+=== p192.014
+4. The Lakeside Gathering
+  H: ['4: La Reunión Junto al Lago']
+=== p192.015
+On Saturday, April 29, more than five hundred believers gathered by the shore at Bethsaida to hear Peter's first public sermon after the resurrection. When Peter finished by saying, “⟦Q 192:4.3⟧we proclaim that we have seen him and talked with him⟦/Q⟧”, Jesus appeared right beside him in full view of everyone, said, “⟦Q 192:4.3⟧Peace be upon you⟦/Q⟧”, and vanished. This was the fifteenth appearance.
+  Q#0 192:4.3 how=None
+   EN: we proclaim that we have seen him and talked with him
+   AUTO: None
+   VERSE: Pedro terminó su sermón diciendo: «Afirmamos que Jesús de Nazaret no está muerto, declaramos que se ha levantado de la tumba; proclamamos que lo hemos visto y hemos hablado con él». En el momento en que terminaba de pronunciar esta declaración de fe, allí, a su lado, a plena vista de toda la gente, apareció el Maestro en forma morontial y, hablándoles con voz conocida, dijo: «Que la paz sea con vosotros, y mi paz os dejo». Después de aparecer así y decir estas palabras, desapareció de su vista. Fue ésta la decimoquinta manifestación morontial de Jesús resucitado.
+  Q#1 192:4.3 how=None
+   EN: Peace be upon you
+   AUTO: None
+   VERSE: Pedro terminó su sermón diciendo: «Afirmamos que Jesús de Nazaret no está muerto, declaramos que se ha levantado de la tumba; proclamamos que lo hemos visto y hemos hablado con él». En el momento en que terminaba de pronunciar esta declaración de fe, allí, a su lado, a plena vista de toda la gente, apareció el Maestro en forma morontial y, hablándoles con voz conocida, dijo: «Que la paz sea con vosotros, y mi paz os dejo». Después de aparecer así y decir estas palabras, desapareció de su vista. Fue ésta la decimoquinta manifestación morontial de Jesús resucitado.
+=== p192.016
+The apostles went back to Jerusalem, but a few hours before they arrived, John Mark's father, Elijah Mark, suddenly died. The apostles grieved the loss of a faithful friend, and they kept using the upper room of John Mark's home as their headquarters. And all of them except a few pledged to proclaim the risen Master publicly. The Urantia Book explains that from this time on, the gospel of sonship with God and the brotherhood of men began to shift toward proclaiming Jesus' resurrection. Nathaniel objected, but he could not hold back Peter's enthusiasm. In this way, “⟦Q 192:4.8⟧the religion of Jesus⟦/Q⟧” slowly turned into a “⟦Q 192:4.8⟧religion about Jesus⟦/Q⟧”. Just like the personal words Jesus gave to each apostle, each of us is called to know our own shortcomings and to grow little by little.
+  Q#0 192:4.8 how=None
+   EN: the religion of Jesus
+   AUTO: None
+   VERSE: Así pues, bajo el vigoroso liderazgo de Pedro y antes de que el Maestro ascendiera al Padre, sus bien intencionados representantes comenzaron el sutil proceso de una transformación paulatina y certera de la religión de Jesús a una nueva forma modificada de religión sobre Jesús.
+  Q#1 192:4.8 how=None
+   EN: religion about Jesus
+   AUTO: None
+   VERSE: Así pues, bajo el vigoroso liderazgo de Pedro y antes de que el Maestro ascendiera al Padre, sus bien intencionados representantes comenzaron el sutil proceso de una transformación paulatina y certera de la religión de Jesús a una nueva forma modificada de religión sobre Jesús.
+=== p193.001
+Introduction
+  H: []
+=== p193.002
+On Friday night, May 5, in the courtyard of Nicodemus in Jerusalem, the eleven apostles, the women's corps, and about fifty disciples gathered together for the first time since the resurrection. While they were talking, Jesus appeared before them all and began to teach. Jesus said that although he had told them in advance that he would die and rise again, they were surprised because they had heard the words without understanding what they meant. And he reminded them again that his only purpose had been to show the Father in heaven to his children.
+=== p193.003
+Jesus especially urged them: “⟦Q 193:0.4⟧Your message is not changed by my resurrection experience⟦/Q⟧”. What the apostles were to proclaim was not just the story of the resurrection, but the whole gospel: that God is our Father and all people are his sons. Jesus told them that just as he had shown God through love and service, they too should show God to people through loving service, and he told them to stay in Jerusalem until the Spirit of Truth came. The believers talked over these words until dawn.
+  Q#0 193:0.4 how=positional
+   EN: Your message is not changed by my resurrection experience
+   AUTO: Vuestro mensaje no ha de cambiar por mi experiencia de resurrección
+   VERSE: «Os advierto que recordéis siempre que vuestra misión entre los hombres es la proclamación del evangelio del reino —la realidad de la paternidad de Dios y la verdad de la filiación del hombre. Proclamad toda la verdad de la buena nueva, no tan sólo una parte del evangelio salvador. Vuestro mensaje no ha de cambiar por mi experiencia de resurrección. La filiación con Dios por la fe sigue siendo la verdad salvadora del evangelio del reino. Debéis salir predicando el amor de Dios y el servicio al hombre. Lo que el mundo necesita más que nada saber es: los hombres son hijos de Dios, y por la fe pueden en verdad realizar, y diariamente experimentar, esta verdad ennoblecedora. Mi autootorgamiento debe ayudar a todos los hombres a conocer que ellos son hijos de Dios, pero ese conocimiento no es suficiente si personalmente no captan por la fe la verdad salvadora de que ellos son los hijos de espíritu vivientes del Padre eterno. El evangelio del reino comprende el amor del Padre y el servicio de sus hijos en la tierra.
+=== p193.004
+1. The Appearance at Sychar
+  H: ['1: La Aparición en Sicar']
+=== p193.005
+On the Sabbath afternoon of May 13, Jesus appeared to about seventy-five Samaritan believers in Sychar in Samaria, near Jacob's well, where he had once told a woman named Nalda about the water of life. Jesus said that the time had come to worship God in spirit and in truth, not on some particular mountain or in a temple, but where you are, “⟦Q 193:1.2⟧as you are⟦/Q⟧”. He said that salvation is God's free gift received by faith, but that it must be followed by the experience of bearing fruit in your life. If you accept God as your Father, you also accept all people as your brothers, and since brothers are family, you must love and serve them like family. The Samaritans were amazed and spread the news to every nearby village.
+  Q#0 193:1.2 how=None
+   EN: as you are
+   AUTO: None
+   VERSE: «Que la paz sea con vosotros. Os regocijáis de saber que yo soy la resurrección y la vida, pero esto de nada os servirá a menos que primero nazcáis del espíritu eterno, llegando así a poseer por la fe, el don de la vida eterna. Si sois hijos de mi Padre por la fe, no moriréis jamás, no pereceréis. El evangelio del reino os enseñó que todos los hombres son hijos de Dios. Y esta buena nueva sobre el amor del Padre celestial por sus criaturas en la tierra, debe ser difundida por todo el mundo. El momento ha llegado en que ya no adoraréis a Dios ni en Gerizim ni en Jerusalén, sino donde estéis, como estéis, en espíritu y en verdad. Es vuestra fe la que salva vuestra alma. La salvación es el don de Dios, para todos los que creen que son sus hijos. Pero no os engañéis; aunque la salvación es un don gratuito de Dios y es otorgada a los que la aceptan por la fe, lo que sigue es la experiencia de rendir los frutos de esta vida espiritual tal como se la vive en la carne. La aceptación de la doctrina de la paternidad de Dios implica que también aceptéis libremente la verdad asociada de la hermandad del hombre. Si el hombre es tu hermano, él es aun más que tu prójimo, a quien el Padre exige que ames como a ti mismo. Tu hermano pertenece a tu familia; así pues, lo amarás no sólo con el afecto familiar sino que también lo servirás como te servirías a ti mismo. Y amaréis y serviréis a vuestro hermano de este modo porque vosotros, siendo mis hermanos, así habéis sido amados y servidos por mí. Id pues por todo el mundo, difundiendo la buena nueva a todas las criaturas de todas las razas, tribus y naciones. Mi espíritu irá delante de vosotros, y yo estaré siempre con vosotros».
+=== p193.006
+2. The Phoenician Appearance
+  H: ['2: La Aparición en Fenicia']
+=== p193.007
+On May 16, he appeared to believers in Tyre in Phoenicia. Jesus explained that the fact that the dead rise is not itself the gospel; it is only part of the result of believing the gospel. And he said that the life of a person born of the spirit bears fruit. That fruit includes loving service, unselfish devotion, courageous loyalty, honesty, undying hope, mercy, goodness, forgiveness, and lasting peace. Jesus said that we can enter the kingdom like little children, but the Father wants us to grow in grace and become spiritual adults. This news soon spread to Sidon, Antioch, and Damascus.
+=== p193.008
+3. Last Appearance in Jerusalem
+  H: ['3: La Última Aparición en Jerusalén']
+=== p193.009
+On Thursday morning, May 18, Jesus appeared for the last time to the eleven apostles as they were about to have breakfast in the upper room. When Simon Zelotes asked whether the kingdom would now be restored, Jesus said that he was still bound by the old idea of a material kingdom and that he would soon receive spiritual power. And he urged them again and again to love one another and to trust one another. Judas had fallen away, he said, because his love grew cold and he did not trust his brothers. Jesus said that even while he was in the flesh, he did not stay alone for long, and that he had sent his followers out two by two to guard them against the harm of loneliness and isolation. Then he silently led the apostles toward the Mount of Olives.
+=== p193.010
+4. Causes of Judas’s Downfall
+  H: ['4: Las Causas de la Caída de Judas']
+=== p193.011
+Here The Urantia Book looks back at why Judas fell. The biggest reason was that Judas had an isolated personality that did not share his heart with others, and he did not grow in love and in spiritual things. Thomas and Nathaniel were also full of doubts and very individualistic, but as time went on they came to love and trust Jesus and their companions more and more. Judas, on the other hand, when he was troubled, looked for comfort not from his friends but from people who were indifferent or hostile to the kingdom.
+=== p193.012
+The weaknesses of Judas that The Urantia Book points out are these: he chose to shut himself off; he had grown up too comfortably as a child and could not stand losing; and whenever he was disappointed, he always blamed others. He held grudges and thought about revenge, he would not face the facts honestly, and he did not share his troubles even with friends who truly loved him. In all the years they spent together, he never once went to Jesus with a personal problem. The Urantia Book says, “⟦Q 193:4.13⟧In life, he ignored those who loved him, and in death, he was friendless⟦/Q⟧”.
+  Q#0 193:4.13 how=positional
+   EN: In life, he ignored those who loved him, and in death, he was friendless
+   AUTO: En la vida ignoró a los que lo amaban y en la muerte, no tuvo amigo ninguno
+   VERSE: Aunque este apóstol egocéntrico y ultraindividualista tenía muchos problemas psíquicos, emocionales y espirituales, sus dificultades principales eran: en personalidad, él se aislaba. Mentalmente, era suspicaz y vengativo. En temperamento, era agrio y vindictivo. Emocionalmente, no tenía ni amor ni perdón. Socialmente, no confiaba en nadie, era casi completamente contenido en sí mismo. En espíritu, se volvió arrogante, ambicioso y egoísta. En la vida ignoró a los que lo amaban y en la muerte, no tuvo amigo ninguno.
+=== p193.013
+5. The Master’s Ascension
+  H: ['5: La Ascensión del Maestro']
+=== p193.014
+Around half past seven in the morning, Jesus and the eleven apostles reached the western slope of the Mount of Olives, overlooking Jerusalem and Gethsemane. Without being told to, the apostles knelt in a circle around Jesus. Jesus told them to wait in Jerusalem, because he would soon send the Spirit of Truth, and he urged them, “⟦Q 193:5.2⟧Love men with the love wherewith I have loved you⟦/Q⟧”, and to serve them. Then, with the word “⟦Q 193:5.2⟧Farewell⟦/Q⟧”, he vanished.
+  Q#0 193:5.2 how=None
+   EN: Love men with the love wherewith I have loved you
+   AUTO: None
+   VERSE: «Os exhorté que os quedarais en Jerusalén hasta que recibierais el poder de lo alto. Ahora estoy por despedirme de vosotros; estoy por ascender a mi Padre, y pronto, muy pronto, enviaremos a este mundo de mi estadía el Espíritu de la Verdad; y cuando él haya llegado, comenzaréis la nueva proclamación del evangelio del reino, primero en Jerusalén y luego en todos los rincones de la tierra. Amad a los hombres con el amor con el cual yo os he amado a vosotros y servid a vuestros semejantes mortales así como yo os he servido. Mediante los frutos espirituales de vuestra vida, incitad a las almas a creer en la verdad de que el hombre es hijo de Dios, y que todos los hombres son hermanos. Recordad todo lo que yo os he enseñado y la vida que he vivido entre vosotros. Mi amor os sobrecogerá, mi espíritu morará con vosotros, y mi paz velará sobre vosotros. Adiós».
+  Q#1 193:5.2 how=None
+   EN: Farewell
+   AUTO: None
+   VERSE: «Os exhorté que os quedarais en Jerusalén hasta que recibierais el poder de lo alto. Ahora estoy por despedirme de vosotros; estoy por ascender a mi Padre, y pronto, muy pronto, enviaremos a este mundo de mi estadía el Espíritu de la Verdad; y cuando él haya llegado, comenzaréis la nueva proclamación del evangelio del reino, primero en Jerusalén y luego en todos los rincones de la tierra. Amad a los hombres con el amor con el cual yo os he amado a vosotros y servid a vuestros semejantes mortales así como yo os he servido. Mediante los frutos espirituales de vuestra vida, incitad a las almas a creer en la verdad de que el hombre es hijo de Dios, y que todos los hombres son hermanos. Recordad todo lo que yo os he enseñado y la vida que he vivido entre vosotros. Mi amor os sobrecogerá, mi espíritu morará con vosotros, y mi paz velará sobre vosotros. Adiós».
+=== p193.015
+The Urantia Book explains that the so-called ascension was no different from the other times during those forty days when he had vanished from sight. Jesus passed through Jerusem and Edentia, was released from the morontia state, and on Salvington, the headquarters of our universe, took up again his full sovereignty as the Creator Son.
+=== p193.016
+6. Peter Calls a Meeting
+  H: ['6: Pedro Convoca Una Reunión']
+=== p193.017
+Peter soon called together one hundred and twenty of the leading disciples in Jerusalem at the home of Mary Mark. Jesus' mother, Mary, and his brother James were there as well. Peter told vividly about the Master's farewell and ascension, and the apostles cast lots and chose Matthias as a new apostle in Judas's place.
+=== p193.018
+After that, the apostles' paths slowly went different ways. The twins went back to their homes in Galilee, and Nathaniel, who disagreed with Peter's preaching about Jesus, went by way of Philadelphia to distant lands to preach the gospel as he understood it. The apostles who stayed in Jerusalem and first proclaimed the gospel were six: Peter, Andrew, James, John, Philip, and Matthew. Peter urged everyone to pray as they prepared to receive the spirit promised to all believers. Looking at the different paths of Judas and Thomas, it is good to think about how important it is, in hard times, to open your heart and walk alongside a trustworthy friend.
+=== p194.001
+Introduction
+  H: []
+=== p194.002
+At about one o'clock in the afternoon, the one hundred and twenty believers praying in the upper room sensed a strange presence in the room. At the same time, all of them felt a new and deep joy, security, and confidence, and a strong desire rose up in them to go out and tell the gospel. Peter declared that this was the Spirit of Truth the Master had promised, the spirit Jesus sends into people's hearts, and he said they should go to the temple and tell the good news.
+=== p194.003
+But here The Urantia Book points out something important. The gospel they had been taught to preach was that God is our Father and that all people are his sons and brothers of one another. Yet in this moment overflowing with joy, the greatest news they could think of was the fact that the Master had risen. So without realizing it, they slipped into the mistake of putting some of the facts connected with the gospel in the place of the gospel itself, and this trend continued from Peter all the way to Paul. The Urantia Book explains that while the gospel of the kingdom is “⟦Q 194:0.7⟧the fatherhood of God⟦/Q⟧” and “⟦Q 194:0.7⟧the brotherhood of men⟦/Q⟧”, the Christianity that developed afterward centered on the experience of fellowship between the believer and the risen Christ. Considering the situation, it is understandable that they came to preach a new gospel about Jesus.
+  Q#0 194:0.7 how=None
+   EN: the fatherhood of God
+   AUTO: None
+   VERSE: Cuando se toma todo esto en consideración, no es difícil comprender como estos hombres llegaron a predicar un nuevo evangelio sobre Jesús en lugar de su mensaje anterior de la paternidad de Dios y de la fraternidad de los hombres.
+  Q#1 194:0.7 how=None
+   EN: the brotherhood of men
+   AUTO: None
+   VERSE: Cuando se toma todo esto en consideración, no es difícil comprender como estos hombres llegaron a predicar un nuevo evangelio sobre Jesús en lugar de su mensaje anterior de la paternidad de Dios y de la fraternidad de los hombres.
+=== p194.004
+1. The Pentecost Sermon
+  H: ['1: El Sermón de Pentecostés']
+=== p194.005
+This day happened to be the Jewish festival of Pentecost, so thousands of people from all over the world were in Jerusalem. The apostles, who had been hiding for forty days, appeared boldly in the temple, and Peter stood in the very spot where Jesus had last taught and made a passionate appeal. Six apostles spoke for more than an hour and a half in Greek, Hebrew, and Aramaic, and more than two thousand people came to believe. The Jewish leaders were astonished, but there were so many believers that they could not lay a hand on them. The new believers were baptized in the Master's name at the pool of Siloam. Even so, they had not yet left Judaism; they still lived as a group within it.
+=== p194.006
+2. The Significance of Pentecost
+  H: ['2: El Significado de Pentecostés']
+=== p194.007
+While Jesus was on earth, he taught a gospel that freed people from the superstition that they are evil by nature and helped them realize their dignity as sons of God. Now Jesus was gone, but in his place he sent the Spirit of Truth. This spirit lives within people and, in every generation, speaks Jesus' message anew in a way that fits that age. The work of the Spirit of Truth is to help people understand truth, to keep believers from feeling alone like orphans, and to help them remember and understand the Master's words. This spirit does not draw attention to itself but only makes us aware of Jesus, so you can tell whether you are with that spirit by the experience of a deepening fellowship with Jesus.
+=== p194.008
+The Urantia Book says that Jesus did not live as a model for everyone to copy word for word, but showed the life of a person submitted to the Father's will. Yet that life and death soon turned into a new gospel that he had rescued people by paying a ransom. Even so, this new message carried many of the truths of the original gospel, and in less than a month after receiving the spirit, the apostles grew spiritually more than they had in four years of living with Jesus.
+=== p194.009
+Since the Spirit of Truth came, people receive the help of three spirits: the Thought Adjuster, the spirit of the Father, a fragment of God who lives in our minds; the Spirit of Truth, the spirit of the Son; and the Holy Spirit. In this way, the Spirit of Truth brought to this world the last of the spirit gifts that help us on our journey upward in search of God.
+=== p194.010
+3. What Happened at Pentecost
+  H: ['3: Lo Que Ocurrió en Pentecostés']
+=== p194.011
+The Urantia Book says that Pentecost has been misunderstood as an event of overflowing, excited emotions. The main work of the Spirit of Truth is to teach the love of the Father and the mercy of the Son. Just as Jesus showed God in the flesh, the Spirit of Truth shows Jesus in our hearts. So after Pentecost, Jesus could live anew in the life of every believer. In the world there are many times when lies and injustice seem to win, but just as the resurrection morning and an even brighter Pentecost came after the dark day of the cross, faith wins in the end. The religion of Jesus is not a religion that helps you escape from life; it is a religion, built on faith, hope, and love, that lifts up this life right now.
+=== p194.012
+The Spirit of Truth was given not only to the apostles but to every man and woman in the upper room and to every honest person in the whole world. Jesus' mother and brother received no more than anyone else. In this way Pentecost erased all religious discrimination based on race, nation, culture, social rank, or sex, and it also overturned the idea that you can receive the spirit only through special priests, holy places, or set ceremonies. As the saying goes, “⟦Q 194:3.5⟧Where the spirit of the Lord is, there is liberty⟦/Q⟧”. Now true religion shows itself within each individual soul.
+  Q#0 194:3.5 how=None
+   EN: Where the spirit of the Lord is, there is liberty
+   AUTO: None
+   VERSE: El día de Pentecostés la religión de Jesús rompió todas las restricciones nacionales y las cadenas raciales. Es para siempre verdad que «donde se encuentra el espíritu del Señor, se encuentra la libertad». En este día, el Espíritu de la Verdad se tornó el don personal del Maestro para cada mortal. Este espíritu fue otorgado con el propósito de calificar a los creyentes para que prediquen más eficazmente el evangelio del reino, pero ellos confundieron la experiencia de recibir el espíritu derramado, con una parte del nuevo evangelio que inconscientemente estaban formulando.
+=== p194.013
+Pentecost also gave people the power to forgive hurts, the power to stay gentle even in the face of injustice, and the power to meet hate with love. The Urantia Book says that in all the destructive wars humankind has been through, the only victor was the gospel of Jesus, which overcomes evil with good. Before Pentecost, people searched for God; now the fact shone out that God also comes looking for people and sends his spirit into them. Prayer did not make the spirit come, but sincere prayer digs the channels for that gift to flow in wider and deeper.
+=== p194.014
+4. Beginnings of the Christian Church
+  H: ['4: Los Comienzos de la Iglesia Cristiana']
+=== p194.015
+When Jesus was crucified, the apostles completely fell apart, but through the resurrection and Pentecost they were changed into brave men following a living Lord. The early believers met together every day with one heart, broke bread, prayed, called one another brothers and sisters, and shared what they had. But their message shifted toward proclaiming the risen Christ and his soon return. The Urantia Book says this was more a fellowship of believers in Jesus than a fellowship of brothers in the family of the Father in heaven, but it also says that even this was the greatest religion humankind had ever known. However, selling all their property and sharing it, in the belief that the Master would return soon, eventually led to poverty and hardship.
+=== p194.016
+When the Sadducees put the leaders in prison, Rabbi Gamaliel advised leaving them alone, saying that if this work came from men it would fall apart, but if it came from God it could not be stopped. But Stephen, a Greek believer from Alexandria, who taught something closer to Jesus' teachings, was stoned and became the first martyr. Because of this, the believers separated from Judaism and founded the church in Jerusalem under Peter's leadership, and those who scattered to escape persecution carried the gospel by way of Antioch to Rome and to the ends of the empire. It is good to remember that the spirit of Pentecost is still quietly trying, for anyone and everywhere, to show Jesus to our hearts.
+=== p195.001
+Introduction
+  H: []
+=== p195.002
+After Pentecost, Peter became the real founder of the Christian church, Paul carried this message to the gentiles, and Greek believers spread it throughout the whole Roman Empire. The people of the Western world at that time had inherited the brilliant philosophy and art of Greece, but they had no religion to fill their hearts, so they were spiritually hungry. Christianity came to such people as a new way of life, and after clashing with the existing religions, it eventually moved toward compromise.
+=== p195.003
+The Urantia Book names the reasons Christianity spread so quickly: Paul's excellent organization, its taking in the good points of Greek philosophy, and above all the great ideals that rang out from the life of Jesus. The leaders compromised with other religions and even took on the splendor of their rituals, but in return they gave the world higher moral standards, a broader idea of God, the hope of living forever, and Jesus of Nazareth. The Urantia Book says that these compromised ideals of the Master “⟦Q 195:0.12⟧are still latent in his gospel⟦/Q⟧”, and that someday they will show their full power.
+  Q#0 195:0.12 how=None
+   EN: are still latent in his gospel
+   AUTO: None
+   VERSE: Sabia o insensatamente, estos primeros líderes del cristianismo comprometieron deliberadamente los ideales de Jesús en un esfuerzo por salvar y fomentar muchas de sus ideas; y tuvieron un éxito enorme. ¡Pero no os equivoquéis! Estos ideales del Maestro que fueron sacrificados en aquellas transigencias aún están latentes en su evangelio, y con el tiempo afirmarán su pleno poder ante el mundo.
+=== p195.004
+1. Influence of the Greeks
+  H: ['1: La Influencia de los Griegos']
+=== p195.005
+Christianity's meeting with Greek culture began on the day Paul spoke in Athens about “⟦Q 195:1.1⟧the Unknown God⟦/Q⟧”. The Greeks taught political freedom and Jesus taught spiritual freedom, and when these two ideas came together, they formed a mighty foundation for human freedom. The Greeks treasured beauty and the Jews treasured holiness, but both peoples loved truth. The Greeks were looking for one greater and better God, and wherever Greek culture had spread, Christianity took root. The Urantia Book adds that the Eastern stream, which was more faithful to Jesus' teachings, did not spread very widely.
+  Q#0 195:1.1 how=None
+   EN: the Unknown God
+   AUTO: None
+   VERSE: La helenización del cristianismo comenzó intensamente en ese día memorable en el que el apóstol Pablo se puso de pie ante el concilio del Areópago en Atenas y habló a los atenienses sobre el «Dios Desconocido». Ahí, a la sombra de la Acrópolis, este ciudadano romano proclamó a los griegos su versión de la nueva religión que se había originado en la tierra judía de Galilea. Y había cierta extraña similitud entre la filosofía griega y muchas de las enseñanzas de Jesús. Tenían una meta común: ambas buscaban el surgimiento del individuo. Los griegos, en lo referente a un surgimiento social y político; Jesús, en lo referente a un surgimiento moral y espiritual. Los griegos enseñaban ese liberalismo intelectual que conducía hacia una libertad política; Jesús enseñaba ese liberalismo espiritual que conducía hacia una libertad religiosa. Estas dos ideas juntas constituyeron un nuevo y poderoso código para la libertad humana; presagiaron la libertad social, política y espiritual del hombre.
+=== p195.006
+2. The Roman Influence
+  H: ['2: La Influencia Romana']
+=== p195.007
+Rome was tolerant of foreign languages, peoples, and religions. The early persecutions happened because Christians used the word “⟦Q 195:2.2⟧kingdom⟦/Q⟧”, and so were mistaken for political rivals. The Romans were honest and had strong self-control, but they had no religion worthy of the name, so they accepted Christianity as a moral philosophy. In many cases, however, it became the moral culture of society rather than personal spiritual growth. Even so, many people found, beneath that outward form, the real truth that feeds the soul.
+  Q#0 195:2.2 how=None
+   EN: kingdom
+   AUTO: None
+   VERSE: Muchas de las primeras persecuciones de los cristianos en Roma se debieron solamente a su uso desafortunado de la palabra «reino» en sus predicaciones. Los romanos toleraban todas las religiones, pero eran muy sensibles a todo lo que se asemejara a rivalidad política. Así pues, cuando amainaron estas primeras persecuciones, causadas principalmente por un malentendido, el campo de la propaganda religiosa estuvo plenamente abierto. Los romanos se interesaban por la administración política; el arte y la religión les importaban poco, pero eran inusitadamente tolerantes hacia los dos.
+=== p195.008
+3. Under the Roman Empire
+  H: ['3: Bajo el Imperio Romano']
+=== p195.009
+Rome gave political unity, Greece gave unity of culture and learning, and Christianity gave religious unity. To people who did not even have a word for “⟦Q 195:3.3⟧unselfishness⟦/Q⟧”, Christianity brought new comfort and freedom. Its greatest power came from the way believers, even under persecution, lived lives of service and died for their faith. The teaching that Christ loves children also put an end to the custom of abandoning unwanted babies. But The Urantia Book explains that this religion came too late to stop the decline of the empire that had already begun, and it did not save the empire spiritually.
+  Q#0 195:3.3 how=None
+   EN: unselfishness
+   AUTO: None
+   VERSE: El cristianismo fue favorecido en Roma en la época de grandes debates entre las vigorosas enseñanzas de los estoicos y las promesas de salvación de los cultos de misterio. El cristianismo llegó como una brisa de refrescante consuelo y una fuerza liberadora para un pueblo espiritualmente hambriento en cuyo idioma no existía el vocablo por «altruísmo».
+=== p195.010
+4. The European Dark Ages
+  H: ['4: La Edad de las Tinieblas en Europa']
+=== p195.011
+During Europe's so-called Dark Ages, the church declined along with society, because it was tied up with society and politics. Religion became a rigid, monastery-centered form, and individual people almost disappeared before the authority and traditions of the church. Even so, Christianity endured the long night and kept its moral influence, and after the Renaissance it came back to life in many denominations. The Urantia Book says this long history shows that Christianity has great power to recover, and that even in the face of the new challenge of an age of science and materialism, the religion of Jesus will win in the end.
+=== p195.012
+5. The Modern Problem
+  H: ['5: El Problema Moderno']
+=== p195.013
+The more civilization advances, the more we need the attitude to “⟦Q 195:5.1⟧seek first the realities of heaven⟦/Q⟧”. Religion is a personal spiritual experience, different from logic, from the sense of beauty, and even from ethics or morals, and it reaches its height in worship. The Urantia Book says that a society without morals based on spiritual reality cannot hold together, any more than a solar system without gravity.
+  Q#0 195:5.1 how=None
+   EN: seek first the realities of heaven
+   AUTO: None
+   VERSE: El siglo veinte ha traído nuevos problemas para que resuelvan el cristianismo y todas las otras religiones. Cuanto más elevada se torna una civilización, más es necesario el deber de «buscar primero las realidades del cielo» en todos los esfuerzos del hombre por estabilizar la sociedad y facilitar la solución de sus problemas materiales.
+=== p195.014
+The Urantia Book also gives us warm advice. Do not rush to satisfy all your curiosity and love of adventure in this one short life; be patient and wait for the endless adventures that lie ahead. It also says that the evil in the world is only a black spot on the white background of good, so rather than talking a lot about evil, we should share the good truth. The truest guide that leads us to insight into God is love.
+=== p195.015
+6. Materialism
+  H: ['6: El Materialismo']
+=== p195.016
+The Urantia Book says that science has unintentionally driven people into materialistic anxiety, but that humanity's spiritual resources can never run dry. True religion has no reason to fight with science. Science measures quantities and deals with phenomena, while religion deals with origins, values, and goals. All that science has destroyed are childish illusions; it has not touched the teachings of Jesus shown in the lives of believers.
+=== p195.017
+Truth, beauty, and goodness are not found inside physics or chemistry. A machine cannot know truth or treasure goodness. The Urantia Book points out that one of the great problems of modern people is that they think they are too busy to make time for spiritual meditation. And it says, “⟦Q 195:6.16⟧when you once start out to find God, that is the conclusive proof that God has already found you⟦/Q⟧”.
+  Q#0 195:6.16 how=None
+   EN: when you once start out to find God, that is the conclusive proof that God has already found you
+   AUTO: None
+   VERSE: La libertad, la iniciativa, en cualquier reino de la existencia, es directamente proporcional al grado de influencia espiritual y control de la mente cósmica; o sea, en la experiencia humana, el grado de actualidad de hacer «la voluntad del Padre». Así pues, una vez que comencéis a encontrar a Dios, ésa será la prueba conclusiva de que Dios ya os ha encontrado a vosotros.
+=== p195.018
+7. The Vulnerability of Materialism
+  H: ['7: La Vulnerabilidad del Materialismo']
+=== p195.019
+The Urantia Book explains the weakness of materialism like this: if people were really only machines, they could not even know that they are machines. A machine cannot measure or evaluate itself, and it does not dream, picture ideals, or thirst for truth. So the self-conscious person who claims, ‘I am a machine,’ is himself the best argument against that claim.
+=== p195.020
+Facts never clash with true faith, but theories can. Science should do on the material side what religion does: widen the horizons of life and help people grow bigger. It is not science but the scientist, not art but the artist, not religion but the religious person who shows a higher reality. The Urantia Book encourages us not to be swept along by the currents of material things, but to row hard and become people who change the current.
+=== p195.021
+8. Secular Totalitarianism
+  H: ['8: El Totalitarismo Secular']
+=== p195.022
+The Urantia Book explains that secularism, the movement that tries to live without God, was born out of atheistic science and as a reaction against the medieval church, which had controlled everything. Secularism freed people from the bonds of the church and bore good fruit, such as tolerance, democratic government, and civil liberties. The Urantia Book tells us not to throw away these benefits hastily. But as secularism turned its back even on God, the danger arose that it would hand people over once again to the bondage of a dictator state.
+=== p195.023
+The Urantia Book says that you cannot build the brotherhood of men while ignoring the fatherhood of God. Freedom or wealth without God does not bring peace, and it explains that the tragedy of the world war in the early twentieth century was a terrible harvest of materialism and secularism. We do not need to give up faith in God in order to enjoy tolerance and freedom.
+=== p195.024
+9. Christianity’s Problem
+  H: ['9: El Problema del Cristianismo']
+=== p195.025
+The Urantia Book tells us not to neglect the river of truth that has flowed down through the centuries, our spiritual heritage. Throw away superstition, it says, but hold on firmly to eternal truth. Christianity needs to meet the uncompromising teachings of Jesus anew, and religion needs new spiritual leaders who will depend only on Jesus and his teachings.
+=== p195.026
+The Urantia Book says that many people today avoid the religion of Jesus because they are afraid it will change them. In fact, the religion of Jesus asks us to devote our lives to knowing God's will and to serve people unselfishly. What the world needs is not a secondhand religion we hear about from others, but a religion we experience for ourselves. Just as words describing something beautiful cannot match the thrill of seeing it yourself, the experience of knowing God personally lifts the soul higher than doctrine does.
+=== p195.027
+10. The Future
+  H: ['10: El Futuro']
+=== p195.028
+The Urantia Book says that Christianity has made a great contribution to the world, but what the world needs most now is Jesus. The world needs to see Jesus living again in the lives of people born of the spirit. “⟦Q 195:10.4⟧The kingdom of God is within you⟦/Q⟧” is one of the greatest things Jesus ever said. What changes the world is not the first mile, walked out of duty or custom, but the second mile of freely serving in love, and The Urantia Book laments that far too few people actually walk that road.
+  Q#0 195:10.4 how=None
+   EN: The kingdom of God is within you
+   AUTO: None
+   VERSE: «El reino de Dios está dentro de vosotros» fue probablemente la declaración más magnífica que Jesús hiciera jamás, después de la afirmación de que su Padre es un espíritu vivo y amante.
+=== p195.029
+The Urantia Book says that although Jesus did not found the church, he has nurtured it as the best available representative of his work. And it says that even with its many faults, twentieth-century Christianity was one of the greatest forces for good, so it should not be taken lightly. The true church, the brotherhood of Jesus, is marked not by uniformity, where everyone becomes the same, but by spiritual unity, connected to the living Jesus.
+=== p195.030
+The Urantia Book says that if the church bravely follows the Master's plan, countless young people who seemed indifferent will rush forward to join this adventure. It also says that education should teach how to build character rather than self-satisfaction. The hope of Christianity lies in learning anew the living gospel of the fatherhood of God and the brotherhood of man. Each one of you can be a young person who walks that second mile.
+=== p196.001
+Introduction
+  H: []
+=== p196.002
+Jesus believed in God with his whole heart. He went through all the joys and sorrows that people go through, but he never once doubted that God was caring for him and leading him. His faith was not a matter of following tradition or understanding with the head alone; it was a very personal, living faith that grew out of his fellowship with the spirit of God living in his mind, the Thought Adjuster. To Jesus, God was holy and great, and at the same time “⟦Q 196:0.2⟧The living and loving Father in heaven⟦/Q⟧”.
+  Q#0 196:0.2 how=None
+   EN: The living and loving Father in heaven
+   AUTO: None
+   VERSE: El Jesús humano vio a Dios como santo, justo y grande, así como también verdadero, bello y bueno. Todos estos atributos de la divinidad él enfocó en su mente como «la voluntad del Padre en el cielo». El Dios de Jesús era al mismo tiempo «el Santo de Israel» y «el Padre vivo y amante en el cielo». El concepto de Dios como Padre no fue original de Jesús, sino que él exaltó y elevó la idea a una experiencia sublime al lograr una nueva revelación de Dios y al proclamar que toda criatura mortal es niño de este Padre del amor, es hijo de Dios.
+=== p196.003
+Jesus did not cling to faith in order to forget hard things. Even in the middle of difficulties he was at peace, because he trusted God deeply, and he enjoyed the joy of living with the Father. The Urantia Book says that Jesus' greatest gift to humanity was not so much teaching many new ideas about God as showing, with his life, a living faith in God. His faith was very strong, but it never turned into fanaticism, and it was always in harmony with his responsibilities to his family, his work, and his neighbors.
+=== p196.004
+For Jesus, prayer was not a duty. Prayer was a sincere conversation in which he expressed thanks, sorted out his thoughts, found courage, and gave himself over to the Father's will. Jesus trusted God the way a child trusts its parents, but his faith was not childish; it grew along with an adult's wise courage and rose so high that it had no fear. That is why Jesus does not simply ask his followers to believe in him; he invites them to “⟦Q 196:0.13⟧believe with him⟦/Q⟧”. This is the full meaning of the words “⟦Q 196:0.13⟧Follow me⟦/Q⟧”.
+  Q#0 196:0.13 how=None
+   EN: believe with him
+   AUTO: None
+   VERSE: Jesús no requiere que sus discípulos crean en él sino más bien que crean con él, que crean en la realidad del amor de Dios y acepten con plena confianza la certeza de la seguridad de la filiación con el Padre celestial. El Maestro desea que todos sus seguidores compartan plenamente su fe trascendental. Jesús desafió en forma enternecedora a sus seguidores, no sólo a que creyeran lo que él creía, sino también a que creyeran como creía él. Éste es el significado pleno de su requisito supremo: «sígueme».
+  Q#1 196:0.13 how=None
+   EN: Follow me
+   AUTO: None
+   VERSE: Jesús no requiere que sus discípulos crean en él sino más bien que crean con él, que crean en la realidad del amor de Dios y acepten con plena confianza la certeza de la seguridad de la filiación con el Padre celestial. El Maestro desea que todos sus seguidores compartan plenamente su fe trascendental. Jesús desafió en forma enternecedora a sus seguidores, no sólo a que creyeran lo que él creía, sino también a que creyeran como creía él. Éste es el significado pleno de su requisito supremo: «sígueme».
+=== p196.005
+1. Jesus—The Man
+  H: ['1: Jesús — El Hombre']
+=== p196.006
+The Urantia Book says that we must not look at Jesus only as the glorified Christ and lose sight of the man Jesus. Jesus was the most truly religious man in this world, a man who knew God's will by faith and did it. The greatest religious teacher in the world was not a priest but an ordinary man, and that is why people gladly listened to him.
+=== p196.007
+Following Jesus does not mean copying his outward ways exactly; it means believing in God as he believed in God and believing in people as he believed in people. Jesus did not argue or debate about the fatherhood of God and the brotherhood of men; he simply lived them and showed them. The Urantia Book says that Jesus, like us, climbed step by step from human consciousness to the realization of divinity, with the help of faith and the Thought Adjuster, and it describes these seven stages, from the arrival of the Adjuster, through his baptism, the Mount of Transfiguration, and the resurrection and ascension, to the final embrace of the Father.
+=== p196.008
+2. The Religion of Jesus
+  H: ['2: La Religión de Jesús']
+=== p196.009
+The Urantia Book says, “⟦Q 196:2.1⟧You may preach a religion about Jesus, but, perforce, you must live the religion of Jesus⟦/Q⟧”. The gospel of the kingdom was founded on Jesus' own religious experience, while Christianity was founded mainly on Paul's experience. People came to worship the divine Christ, but the man Jesus, who bravely walked the path of faith until he became one with God, was largely forgotten. The Urantia Book says that Jesus was truly man and truly God, and that his life is a living way that everyone can walk.
+  Q#0 196:2.1 how=positional
+   EN: You may preach a religion about Jesus, but, perforce, you must live the religion of Jesus
+   AUTO: Podéis predicar una religión sobre Jesús, pero, por fuerza, debéis vivir la religión de Jesús
+   VERSE: Tal vez algún día ocurra una Reforma de la iglesia cristiana tan profunda como para producir el regreso a las enseñanzas religiosas no modificadas de Jesús, el autor y acabador de nuestra fe. Podéis predicar una religión sobre Jesús, pero, por fuerza, debéis vivir la religión de Jesús. En el entusiasmo de Pentecostés, Pedro inintencionalmente inauguró una nueva religión, la religión del Cristo resucitado y glorificado. El apóstol Pablo más adelante transformó este nuevo evangelio en el cristianismo, una religión que abarca las opiniones teológicas de Pablo e ilustra su experiencia personal con el Jesús del camino a Damasco. El evangelio del reino está fundado en la experiencia religiosa personal de Jesús de Galilea; el cristianismo se basa casi exclusivamente en la experiencia religiosa personal del apóstol Pablo. Casi todo el Nuevo Testamento está dedicado, no a ilustrar la significativa e inspiradora vida religiosa de Jesús, sino más bien a exponer la experiencia religiosa de Pablo y a explicar sus convicciones religiosas personales. Las únicas excepciones notables a esta declaración, además de ciertas porciones de Mateo, Marcos y Lucas, son, el libro de los Hebreos y la Epístola de Santiago. Aun Pedro, en sus escritos, sólo una vez se refirió a la vida personal religiosa de su Maestro. El Nuevo Testamento es un extraordinario documento cristiano, pero es sólo ligeramente jesuístico.
+=== p196.010
+Jesus did not see the world as basically evil, and he helped people live comfortably in this world. He saw most people as weak rather than wicked, as confused rather than depraved, and whatever their situation, he regarded them all as children of God and his own brothers. Because Jesus valued people so highly, he was glad to pour himself out in serving them. Could anyone fail to be moved by the faith Jesus has in you?
+=== p196.011
+3. The Supremacy of Religion
+  H: ['3: La Supremacía de la Religión']
+=== p196.012
+The Urantia Book says that a living religious experience is a power that solves many of life's difficulties. Religion does not make problems disappear, but it shines light on them and helps us rise above them. People are educated by facts, ennobled by wisdom, and saved by faith. There are three proofs that God's spirit lives within us: that we can love others without expecting anything back, that we can realize the universe is friendly to us, and that we can worship God.
+=== p196.013
+Spiritual joy cannot be seen under a microscope, and love cannot be weighed on a scale, but they are real. The Urantia Book says that if the Hebrews had a religion of morality and the Greeks a religion of beauty, Jesus showed a religion of love: the security of living in the Father's love and the joy of sharing that love with our neighbors. The Urantia Book explains that morality is the soil in which religion grows, but morality alone cannot show the ultimate good; religion makes morality higher and more meaningful. It also says that while art seeks beauty, science seeks the mysteries of the universe, and philosophy seeks the meaning of life as a whole, religion is a person's highest reaching out to find God and to become like him. It adds that some people's lives are too great and noble to stop at merely being successful. And The Urantia Book tells us, “⟦Q 196:3.33⟧Be not discouraged⟦/Q⟧”. Humanity is still growing, and the revelation of God given through Jesus will not fail.
+  Q#0 196:3.33 how=None
+   EN: Be not discouraged
+   AUTO: None
+   VERSE: No os desalentéis; la evolución humana sigue progresando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará.
+=== p196.014
+We have now come to the last paper of The Urantia Book. The Urantia Book says that the greatest adventure of our lives is growing closer in friendship with the God who lives in our hearts, and it ends by saying that the idea of God as Father remains the highest concept of God that human beings have. You can begin this adventure too. As Jesus did, try believing in God as your Father and in the people beside you as your brothers and sisters. It is all right to make mistakes and to fall. God came looking for you first, is always with you, and is waiting for you to grow into your very best self.
