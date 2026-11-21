@@ -1,0 +1,217 @@
+### w01:174
+{
+ "cit": "92:4.9",
+ "en": "5. The Urantia Papers. The papers, of which this is one, constitute the most recent presentation of truth to the mortals of Urantia. These papers differ from all previous revelations, for they are not the work of a single universe personality but a composite presentation by many beings. But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements…",
+ "why": "partial sentence",
+ "verse": "5. Os Documentos de Urântia. Os documentos, dos quais este é um deles, constituem a mais recente apresentação da verdade aos mortais de Urântia. Esses documentos diferem de todas as revelações anteriores, pois não são trabalho de uma única personalidade do universo; são, sim, apresentações compostas, efetuadas por muitos seres. Nenhuma revelação, todavia, pode jamais ser completa, antes de se alcançar o Pai Universal. Todas as outras ministrações celestes não são mais do que parciais, transitórias e praticamente adaptadas às condições locais de tempo e de espaço. É possível que, ao admitir tudo isso, possamos esvaziar a força imediata e a autoridade de todas as revelações, mas é chegado o tempo em Urântia, em que é aconselhável fazer essa declaração franca, ainda que correndo o risco de enfraquecer a influência futura e a autoridade desta obra, que é a mais recente das revelações da verdade às raças mortais de Urântia."
+}
+### w01:182
+{
+ "cit": "101:4.1",
+ "en": "Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. Accordingly, future students of such a revelation are tempted to discard any element of genuine religious truth it may contain because they discover errors on the face of the associated cosmologies therein presented.",
+ "why": "sentence count differs in 101:4.1",
+ "verse": "Pelo fato de o vosso mundo geralmente ser ignorante das origens, e mesmo das origens físicas, pareceu sábio, de tempos em tempos, prover instrução sobre a cosmologia; mas isso sempre gera problemas no futuro. As leis da revelação impedem-nos grandemente, pela proscrição que fazem sobre transmitir conhecimento ainda imerecido ou prematuro. Qualquer cosmologia apresentada como uma parte da religião revelada destina-se a ser ultrapassada num tempo muito curto. Em conseqüência, os estudantes futuros dessa revelação serão tentados a descartar quaisquer elementos de verdade religiosa genuína que possa conter, porque descobrem erros nas cosmologias apresentadas conseqüentemente neles."
+}
+### w01:239
+{
+ "cit": "5:1.8",
+ "en": "To each of you and to all of us, God is approachable, the Father is attainable, the way is open…",
+ "why": "sentence count differs in 5:1.8",
+ "verse": "O Pai deseja que todas as Suas criaturas estejam em comunhão pessoal com Ele. Ele tem, no Paraíso, um lugar para receber todos aqueles cujo status de sobrevivência e cuja natureza espiritual tornem possível tal realização. Portanto, estabelecei na vossa filosofia, agora e para sempre, que, para cada um de vós e para todos nós, Deus é acessível; o Pai é alcançável, o caminho está aberto; as forças do amor divino, os modos e os meios da administração divina estão todos interligados no esforço de facilitar o avanço de cada inteligência merecedora, de todos os universos, até a presença do Pai Universal no Paraíso."
+}
+### w02:33
+{
+ "cit": "1:5.1",
+ "en": "Do not permit the magnitude of God, his infinity, either to obscure or eclipse his personality. \"He who planned the ear, shall he not hear? He who formed the eye, shall he not see?\" The Universal Father is the acme of divine personality.",
+ "why": "sentence count differs in 1:5.1",
+ "verse": "Não permitais que a magnitude e a infinitude de Deus obscureçam ou eclipsem a vossa visão da personalidade Dele. “Ele, que planejou o ouvido, não escutará? Ele, que formou o olho, não verá?” O Pai Universal é o auge da personalidade divina; Ele é a origem e o destino da personalidade, em toda a criação. Deus é tanto infinito, quanto pessoal; Ele é uma personalidade infinita. O Pai é verdadeiramente uma personalidade; se bem que a infinitude da Sua pessoa coloque-O sempre para além da compreensão plena dos seres materiais e finitos."
+}
+### w02:57
+{
+ "cit": "2:1.7",
+ "en": "First, in the personalities of the Paradise Sons of God, who, although perfect in divinity, also often partake of the nature of the very flesh and blood of the planetary races, becoming one of you and one with you; … And second, there are the personalities of the Infinite Spirit, the various orders of the seraphic hosts and other celestial intelligences who draw near to the material beings of lowly origin and in so many ways minister to them and serve them. And third, there are the impersonal Mystery Monitors, Thought Adjusters, the actual gift of the great God himself sent to indwell such as the humans of Urantia, sent without announcement and without explanation.",
+ "why": "partial sentence",
+ "verse": "E sendo assim, pois, tudo isso necessita de arranjos tais para os Seus contatos e a comunicação com as Suas múltiplas criaturas; e por isso ficou estabelecido, em primeiro lugar, o papel das personalidades dos Filhos de Deus no Paraíso, as quais, ainda que perfeitas em divindade, também participam, muitas vezes, da própria natureza do sangue e da carne das raças planetárias, tornando-se um de vós e um convosco; e desse modo Deus se faz homem, como ocorreu na outorga de Michael, que foi chamado intermitentemente de Filho de Deus e Filho do Homem. Em segundo lugar está a existência das personalidades do Espírito Infinito, as várias ordens de hostes seráficas e de outras inteligências celestes, que se aproximam dos seres materiais de origem inferior para ministrar-lhes ensinamentos e servir a eles, de tantas maneiras. E, em terceiro lugar, contamos com a existência dos Monitores Misteriosos impessoais, os Ajustadores do Pensamento, autênticas dádivas do grande Deus, Ele próprio, enviadas sem anunciação nem explicação, para residir em seres como os humanos de Urântia. Em profusão sem fim, eles descem das alturas da glória para conferir graças e residir nas mentes humildes daqueles mortais que apresentam capacidade de conhecer a Deus ou que têm potencialidade para realizar isso."
+}
+### w02:78
+{
+ "cit": "3:1.1",
+ "en": "The ability of the Universal Father to be everywhere present, and at the same time, constitutes his omnipresence. God alone can be in two places, in numberless places, at the same time.",
+ "why": "sentence count differs in 3:1.1",
+ "verse": "A capacidade do Pai Universal de estar presente em todas as partes, e ao mesmo tempo, constitui a Sua onipresença. Apenas Deus pode estar em dois, em inúmeros lugares, ao mesmo tempo. Deus está simultaneamente presente “nas alturas do céu e na Terra abaixo”; como exclamou o salmista: “Onde me esconderei do Teu espírito? Ou onde escaparei da Tua presença?”"
+}
+### w02:90
+{
+ "cit": "3:3.2",
+ "en": "And it should be a real comfort to every human being to understand that \"he knows your frame; he remembers that you are dust.\" Jesus, speaking of the living God, said, \"Your Father knows what you have need of even before you ask him.\"",
+ "why": "sentence count differs in 3:3.2",
+ "verse": "O Pai Universal é a única personalidade, em todo o universo, que de fato sabe o número de estrelas e planetas existentes do espaço. Todos os mundos de cada universo estão, constantemente, dentro da consciência de Deus. Ele também diz: “Tenho certamente visto a aflição do meu povo, tenho ouvido o seu pranto e conheço os seus pesares”. Pois “o Senhor olha do céu; Ele observa todos os filhos dos homens; do local da Sua morada, Ele olha por todos os habitantes da Terra”. Cada filho criado pode, em verdade, dizer: “Ele conhece o caminho que tomo e, depois que Ele me houver posto à prova, ressurgirei como ouro”. “Deus sabe quando nos sentamos e quando nos levantamos; Ele compreende os nossos pensamentos de longe e é conhecedor de todos os nossos caminhos.” “Todas as coisas estão a descoberto e abertas aos olhos Daquele com quem temos a ver”. E deveria ser um verdadeiro conforto para todos os seres humanos compreender que “Ele conhece a vossa estrutura; Ele lembra-se de que sois pó”. Jesus, falando do Deus vivo, disse: “O vosso Pai sabe das vossas necessidades, antes mesmo de irdes pedir a Ele”."
+}
+### w02:106
+{
+ "cit": "2:1.5",
+ "en": "No thing is new to God, and no cosmic event ever comes as a surprise; he inhabits the circle of eternity. He is without beginning or end of days. To God there is no past, present, or future; all time is present at any given moment.",
+ "why": "sentence count differs in 2:1.5",
+ "verse": "Nada é novo para Deus e nenhum evento cósmico jamais surge como uma surpresa; Ele habita o círculo da eternidade. Os Seus dias não têm princípio nem fim. Para Deus não há passado, presente ou futuro; todo tempo é presente, em qualquer instante. É Ele o grande e único EU SOU."
+}
+### w02:160
+{
+ "cit": "2:5.9",
+ "en": "As you ponder the loving nature of God, there is only one reasonable and natural personality reaction thereto: You will increasingly love your Maker; you will yield to God an affection analogous to that given by a child to an earthly parent.",
+ "why": "sentence count differs in 2:5.9",
+ "verse": "O amor do Pai acompanha-nos, agora e em todo o círculo interminável das idades eternas. Ao ponderardes sobre a natureza amorosa de Deus, apenas uma reação razoável e natural surge na personalidade: amareis cada vez mais o vosso Criador; ireis dedicar a Deus uma afeição análoga àquela dedicada por uma criança a um pai terreno; pois, como um pai, um pai real e verdadeiro ama aos seus filhos, do mesmo modo o Pai Universal ama e para sempre busca o bem-estar dos Seus filhos e filhas criadas."
+}
+### w02:196
+{
+ "cit": "2:6.6",
+ "en": "The affectionate heavenly Father, whose spirit indwells his children on earth, is not a divided personality—one of justice and one of mercy—neither does it require a mediator to secure the Father's favor or forgiveness. … God as a father transcends God as a judge.",
+ "why": "sentence count differs in 2:6.6",
+ "verse": "O Pai celeste afetuoso, cujo Espírito reside nos Seus filhos da Terra, não é uma personalidade dividida — uma, a da justiça, e outra, a da misericórdia. E também Ele não requer um mediador para assegurar o seu favorecimento ou o perdão de Pai. A retidão divina não é dominada pela estrita justiça de retribuição; Deus, enquanto um Pai, transcende Deus, enquanto juiz."
+}
+### w02:200
+{
+ "cit": "2:6.8",
+ "en": "God loves the sinner because he is a personality reality (potentially eternal) … The love of God saves the sinner; the law of God destroys the sin.",
+ "why": "partial sentence",
+ "verse": "Deus ama o pecador e odeia o pecado: tal afirmação é verdadeira filosoficamente; contudo, Deus é uma personalidade transcendental, e as pessoas apenas amam e odeiam às outras pessoas. O pecado não é uma pessoa. Deus ama o pecador porque ele é uma realidade de personalidade (potencialmente eterna), enquanto, em relação ao pecado, Deus não assume nenhuma atitude pessoal; pois o pecado não é uma realidade espiritual, não é pessoal; portanto, apenas a justiça de Deus toma conhecimento da existência dele. O amor de Deus salva o pecador; a lei de Deus destrói o pecado. Essa atitude da natureza divina mudaria, aparentemente, se o pecador afinal se identificasse completamente com o pecado, da mesma forma que a mente mortal pode também se identificar totalmente com o espírito Ajustador residente. Um mortal, assim identificado com o pecado, tornar-se-ia então inteiramente não-espiritual, na sua natureza (e, portanto, pessoalmente irreal), e por fim experimentaria a extinção do seu ser. A irrealidade, e mesmo a incompletude da natureza da criatura, não pode existir para sempre, em um universo progressivamente mais real e crescentemente mais espiritual."
+}
+### w02:223
+{
+ "cit": "1:5.3",
+ "en": "… it is true that \"the invisible things of God are partially understood by the things which are made.\"",
+ "why": "partial sentence",
+ "verse": "Deus não se está escondendo de nenhuma das suas criaturas. Ele é inabordável, para tantas ordens de seres, apenas porque ele “reside em uma luz da qual nenhuma criatura material pode aproximar-se”. A imensidão e a grandeza da personalidade divina estão muito além do entendimento da mente imperfeita dos mortais evolucionários. Ele “mede as águas no oco das suas mãos, avalia um universo com a palma da sua mão. É Ele quem se assenta no círculo da Terra, que estende os céus como uma cortina e que a abre, como um universo, para morar”. “Levantai alto os vossos olhos e contemplai Aquele que criou todas as coisas, que traz os Seus mundos contados e os chama a todos pelos seus nomes”; e também é verdade que “as coisas invisíveis de Deus apenas parcialmente são compreendidas pelas coisas que foram criadas”. Hoje em dia, e no estágio em que estais, deveis discernir o Criador invisível por meio das Suas diversas e múltiplas criações, bem como por intermédio da revelação e da ministração dos Seus Filhos e dos inúmeros subordinados destes."
+}
+### w02:245
+{
+ "cit": "4:4.7",
+ "en": "In science, God is the First Cause; in religion, the universal and loving Father; in philosophy, the one being who exists by himself … But it requires revelation to show that the First Cause of science and the self-existent Unity of philosophy are the God of religion, full of mercy and goodness and pledged to effect the eternal survival of his children on earth.",
+ "why": "partial sentence",
+ "verse": "Para a ciência, Deus é a Primeira Causa; para a religião, o Pai universal pleno de amor; para a filosofia, o único Ser que existe por Si próprio, não dependendo de nenhum outro ser para existir; no entanto, magnanimamente, Ele confere realidade de existência a todas as coisas e a todos os outros seres. Contudo, torna-se necessária a revelação, para mostrar que a Primeira Causa da ciência e a Unidade auto-existente da filosofia são o mesmo Deus da religião, pleno de misericórdia e bondade, e comprometido em efetivar a sobrevivência eterna dos Seus filhos da Terra."
+}
+### w02:299
+{
+ "cit": "5:1.2",
+ "en": "Our Father is not in hiding; he is not in arbitrary seclusion. He has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains.",
+ "why": "sentence count differs in 5:1.2",
+ "verse": "O nosso Pai não se esconde; Ele não se encontra em reclusão proposital. Ele mobilizou os recursos da sabedoria divina, em um esforço sem fim, para revelar a Si próprio aos filhos, nos Seus domínios dos universos. Uma grandeza infinita e uma generosidade inexprimível estão ligadas à majestade do Seu amor, que O leva a almejar a associação com todos os seres criadoscapazes de compreendê-Lo, amá-Lo, ou aproximar-se Dele; e, portanto, são as limitações inerentes a vós, e inseparáveis da vossa personalidade finita e da vossa existência material, que determinam o tempo, o lugar e as circunstâncias pelas quais podeis realizar a meta da jornada da ascensão mortal, para chegar à presença do Pai no centro de todas as coisas."
+}
+### w02:323
+{
+ "cit": "5:6.12",
+ "en": "God provides for the sovereign choice of all true personalities. No personal creature can be coerced into the eternal adventure; the portal of eternity opens only in response to the freewill choice of the freewill sons of the God of free will.",
+ "why": "sentence count differs in 5:6.12",
+ "verse": "No que diz respeito às personalidades que não são resididas pelo Ajustador: o atributo da escolha-liberdade é também outorgado pelo Pai Universal, e, da mesma forma, tais pessoas estão abrangidas pelo grande circuito do amor divino, o circuito da personalidade do Pai Universal. Deus dá a escolha soberana a todas as personalidades verdadeiras. Nenhuma criatura pessoal pode ser forçada à aventura eterna; o portal da eternidade abre-se apenas em resposta à escolha, feita em livre-arbítrio, pelos filhos, com livre-arbítrio do Deus do arbítrio livre."
+}
+### w02:335
+{
+ "cit": "4:4.9",
+ "en": "Even if I cannot do this, there lives in me one who can and will do it, a part of the Father-Absolute of the universe of universes. And that is \"the victory which overcomes the world, even your faith.\"",
+ "why": "sentence count differs in 4:4.9",
+ "verse": "A consciência de uma vida humana vitoriosa, na Terra, nasce daquela fé do ser criado a qual se atreve a desafiar cada episódio recorrente da existência, quando se defronta com o espetáculo pavoroso das limitações humanas, por meio da afirmação infalível: ainda que eu não possa fazer isso, em mim vive alguém que pode e que irá fazê-lo, uma parte do Pai-Absoluto do universo dos universos. E essa é “a vitória que conquista o mundo, é a vossa própria fé”."
+}
+### w03:52
+{
+ "cit": "6:5.7",
+ "en": "And as the spirit fragment of the Father dwells within you, so does the spirit presence of the Son envelop you, while these two forever work as one for your spiritual advancement.",
+ "why": "sentence count differs in 6:5.7",
+ "verse": "Embora o Filho Eterno não possa participar pessoalmente da outorga dos Ajustadores do Pensamento, em concílio com o Pai Universal, no eterno passado, Ele aprovou esse plano e prometeu cooperação interminável, quando o Pai, ao projetar a outorga dos Ajustadores do Pensamento, propôs ao Filho: “Façamos o homem mortal à Nossa própria imagem”. E, da mesma forma que o fragmento do espírito do Pai reside dentro de vós, a presença espiritual do Filho vos envolve, pois estes dois trabalham como um para o vosso avanço espiritual."
+}
+### w03:74
+{
+ "cit": "10:3.3",
+ "en": "The divine Sons are indeed the \"Word of God,\" but the children of the Spirit are truly the \"Act of God.\" God speaks through the Son and, with the Son, acts through the Infinite Spirit",
+ "why": "partial sentence",
+ "verse": "Os Filhos divinos são realmente a “Palavra de Deus”; mas os filhos do Espírito são verdadeiramente o “Ato de Deus”. Deus fala por intermédio do Filho e, com o Filho, atua por intermédio do Espírito Infinito; ao mesmo tempo em que, em todas as atividades no universo, o Filho e o Espírito são sutilmente fraternais, trabalhando como dois irmãos iguais, com admiração e amor pelo Pai comum, honrado e divinamente respeitado."
+}
+### w03:78
+{
+ "cit": "6:8.3",
+ "en": "In the administration of the universes they are so intertwined and interrelated that it is not always possible to distinguish between them. … merely recall that God is the initiating thought and the Son is the expressionful word.",
+ "why": "partial sentence",
+ "verse": "Enquanto Pessoas, vós podeis conceber o Pai Universal e o Filho Eterno como indivíduos separados, pois, na verdade, o são; mas, na administração dos universos, Eles ficam tão entrelaçados e inter-relacionados, que nem sempre é possível distinguir entre Eles. Quando, nos assuntos dos universos, o Pai e o Filho forem encontrados em interassociações intrincadas, nem sempre advém algum benefício quando se tenta separar as Suas atuações; meramente relembrai-vos de que Deus é o pensamento inicial e o Filho é a palavra plena de expressão. Em cada universo local essa inseparabilidade está personalizada na divindade do Filho Criador, que representa tanto o Pai quanto o Filho, para as criaturas de dez milhões de mundos habitados."
+}
+### w03:82
+{
+ "cit": "10:4.4",
+ "en": "The Paradise Trinity is real. It exists as the Deity union of Father, Son, and Spirit; … The Father, Son, and Spirit can collaborate in a non-Trinity manner, but not as three Deities. As persons they can collaborate as they choose, but that is not the Trinity.",
+ "why": "partial sentence",
+ "verse": "A Trindade do Paraíso é real. Ela existe como a união, na Deidade, do Pai, do Filho e do Espírito; e, do mesmo modo, ainda, o Pai, o Filho ou o Espírito, ou quaisquer dois Deles podem funcionar em relação a essa mesma Trindade do Paraíso. Pai, Filho e Espírito podem colaborar de um modo não trinitário, mas não como três Deidades. Enquanto pessoas, Eles podem colaborar conforme escolherem, mas então não estariam atuando como uma Trindade."
+}
+### w03:135
+{
+ "cit": "11:9.4",
+ "en": "Deity may cause much that is not Deity, and Paradise is not Deity",
+ "why": "partial sentence",
+ "verse": "Quando a realidade é diferenciada, em pessoal e não pessoal (o Filho Eterno; e o Paraíso), dificilmente é adequado chamar aquilo que é não pessoal de Deidade, a menos que de alguma forma seja qualificado assim. As repercussões materiais e de energia dos atos da Deidade dificilmente podem ser chamadas de Deidade. A Deidade pode causar muito daquilo que não é Deidade, e o Paraíso não é uma Deidade; nem é consciente do modo como um homem mortal poderia chegar a entender esse termo."
+}
+### w03:148
+{
+ "cit": "14:0.2",
+ "en": "This is the one and only settled, perfect, and established aggregation of worlds. This is a wholly created and perfect universe; it is not an evolutionary development. This is the eternal core of perfection, about which swirls that endless procession of universes which constitute the tremendous evolutionary experiment, the audacious adventure of the Creator Sons of God",
+ "why": "partial sentence",
+ "verse": "Esse é o único conjunto consolidado, perfeito e estabilizado de mundos. É um universo criado em plenitude e perfeição; não se trata de um desenvolvimento evolucionário. É o núcleo eterno da perfeição; e em torno dele gira a procissão interminável de universos que constituem os experimentos evolucionários formidáveis, a aventura audaciosa dos Filhos Criadores de Deus, os quais aspiram a duplicar, no tempo, e reproduzir, no espaço, o universo arquetípico, o ideal de plenitude divina, suprema finalidade, realidade última e perfeição eterna."
+}
+### w03:160
+{
+ "cit": "14:1.12",
+ "en": "Though their velocity is enormous, owing to their situation between the dark gravity bodies and gigantic Paradise, it requires almost one thousand years for these spheres to complete their circuit. You have unwittingly read the truth when your eyes rested on the statement \"A day is as a thousand years with God, as but a watch in the night.\"",
+ "why": "partial sentence",
+ "verse": "Além da hora do circuito de Havona, há o dia-padrão do Paraíso-Havona bem como outras designações de tempo, que são determinadas nos sete satélites do Espírito Infinito, no Paraíso, e dali transmitidas. O dia-padrão do Paraíso-Havona é baseado na duração de tempo que as moradas planetárias do primeiro circuito, ou o mais interno de Havona, requerem para completar uma volta em torno da Ilha do Paraíso; e, ainda que as suas velocidades sejam enormes, devido à sua posição entre os corpos escuros de gravidade e o gigantesco Paraíso, quase mil anos fazem-se necessários para que essas esferas completem a sua órbita. Inadvertidamente, vós lestes a verdade quando os vossos olhos pousaram sobre a afirmação de que “um dia é como mil anos para Deus, não mais que a vigília de uma noite”. Um dia do Paraíso-Havona é apenas sete minutos, três segundos e um oitavo menos do que mil anos do calendário bissexto atual de Urântia."
+}
+### w03:207
+{
+ "cit": "15:0.1",
+ "en": "The Seven Master Spirits radiate their influence out from the central Isle, thus constituting the vast creation one gigantic wheel, the hub being the eternal Isle of Paradise, the seven spokes the radiations of the Seven Master Spirits, the rim the outer regions of the grand universe.",
+ "why": "sentence count differs in 15:0.1",
+ "verse": "NO QUE concerne ao Pai Universal — enquanto Pai — , os universos são virtualmente não existentes; Ele trata com as personalidades; Ele é o Pai das personalidades. Naquilo que concerne ao Filho Eterno e ao Espírito Infinito —como parceiros criadores — , os universos têm localização e são individuais, estando sob o governo conjunto dos Filhos Criadores e Espíritos Criativos Maternos. No que diz respeito à Trindade do Paraíso, fora de Havona, há apenas sete universos habitados, os sete superuniversos os quais têm a sua jurisdição no círculo do primeiro nível espacial pós-Havona. Os Sete Espíritos Mestres irradiam a sua influência para fora, a partir da Ilha Central; e a vasta criação constituindo, assim, uma roda gigantesca, cujo núcleo é formado pela eterna Ilha do Paraíso e os sete raios, as irradiações dos Sete Espíritos Mestres, formando o perímetro, as regiões exteriores do grande universo."
+}
+### w03:223
+{
+ "cit": "15:2.1",
+ "en": "Only the Universal Father knows the location and actual number of inhabited worlds in space; he calls them all by name and number.",
+ "why": "sentence count differs in 15:2.1",
+ "verse": "Apenas o Pai Universal sabe a localização e o número atual dos mundos habitados no espaço; Ele os chama pelo nome e pelo número. Eu posso informar somente o número aproximado dos planetas habitados ou habitáveis, pois alguns dos superuniversos têm mais mundos adequados à vida inteligente do que outros. Nem todos os universos locais projetados, tampouco, foram já organizados. Portanto, a estimativa que ofereço serve apenas ao propósito de proporcionar uma idéia da imensidão da criação material."
+}
+### w03:266
+{
+ "cit": "12:3.1-5",
+ "en": "Personality also is responsive to gravity—to the Father's exclusive circuit; … the Universal Father is infinite and acts over all four absolute-gravity circuits in the master universe: 1. The Personality Gravity of the Universal Father. 2. The Spirit Gravity of the Eternal Son. 3. The Mind Gravity of the Conjoint Actor. 4. The Cosmic Gravity of the Isle of Paradise.",
+ "why": "sentence count differs in 12:3.1",
+ "verse": "Todas as formas de energia-força — material, mental e espiritual — estão, do mesmo modo, sujeitas a essas atrações, a essas presenças universais as quais chamamos gravidade. A personalidade é também sensível à gravidade — ao circuito exclusivo do Pai. Mas ainda que esse circuito seja exclusivo do Pai, Ele não Se exclui de outros circuitos; o Pai Universal é infinito e atua sobre todos os quatro circuitos de gravidade absoluta no universo-mestre: 1. O da Gravidade da Personalidade do Pai Universal. 2. O da Gravidade do Espírito do Filho Eterno. 3. O da Gravidade da Mente do Agente Conjunto. 4. O da Gravidade Cósmica da Ilha do Paraíso."
+}
+### w03:270
+{
+ "cit": "11:8.1",
+ "en": "Gravity is the all-powerful grasp of the physical presence of Paradise. Gravity is the omnipotent strand on which are strung the gleaming stars, blazing suns, and whirling spheres which constitute the universal physical adornment of the eternal God, who is all things, fills all things, and in whom all things consist.",
+ "why": "sentence count differs in 11:8.1",
+ "verse": "A atração inescapável da gravidade sustenta, efetivamente, todos os mundos de todos os universos de todo o espaço. A gravidade é a garra da atração todo-poderosa da presença física do Paraíso. A gravidade é como um colar onipotente, ao qual encontram-se atrelados as estrelas brilhantes, os sóis abrasadores, e as esferas rotativas que constituem o adorno físico universal do Deus eterno; O qual é todas as coisas, que preenche todas as coisas e em Quem todas as coisas consistem."
+}
+### w04:152
+{
+ "cit": "26:1.1",
+ "en": "Angels are the ministering-spirit associates of the evolutionary and ascending will creatures of all space; they are also the colleagues and working associates of the higher hosts of the divine personalities of the spheres. The angels of all orders are distinct personalities and are highly individualized. … they possess very social natures and have an associative capacity far transcending that of human beings.",
+ "why": "partial sentence",
+ "verse": "Os anjos são os espíritos ministradores que colaboram com as criaturas volitivas evolucionárias e ascendentes de todo o espaço; são também os companheiros e colaboradores de trabalho das mais elevadas hostes de personalidades divinas das esferas. Os anjos, de todas as ordens, são personalidades definidas e altamente individualizadas. Todos eles têm uma grande capacidade de valorar as ministrações dos diretores de retrospecção (ou lazer). Junto com as Hostes dos Mensageiros do Espaço, os espíritos ministradores desfrutam de temporadas de descanso e de transformação; eles possuem naturezas bastante sociáveis e têm uma capacidade de colaboração que em muito transcende a dos seres humanos."
+}
+### w04:170
+{
+ "cit": "26:1.15",
+ "en": "…it is the supernaphim, seconaphim, and seraphim who, in large numbers, are employed in the furtherance of the ascending scheme of progressive perfection for the children of time. Functioning in the central, super-, and local universes, they form that unbroken chain of spirit ministers which has been provided by the Infinite Spirit for the help and guidance of all who seek to attain the Universal Father through the Eternal Son.",
+ "why": "partial sentence",
+ "verse": "Todas as ordens de hostes angélicas devotam-se aos serviços vários do universo e servem, de um ou de outro modo, às ordens mais elevadas de seres celestes; mas são os supernafins, seconafins e serafins que, em números elevados, são empregados na execução do esquema ascendente de perfeccionamento progressivo dos filhos do tempo. Funcionando no universo central, nos superuniversos e nos universos locais, eles formam aquela corrente inquebrantável de espíritos ministradores, a qual tem sido provida pelo Espírito Infinito, para ajudar e guiar todos aqueles que procuram alcançar o Pai Universal por intermédio do Filho Eterno."
+}
+### w04:209
+{
+ "cit": "30:4.9",
+ "en": "The following narrative presents the universe career of an Adjuster-indwelt mortal. … we have elected to tell this story as it pertains to the Adjuster-fused mortals, for such a destiny may be anticipated by all of the human races of Urantia.",
+ "why": "partial sentence",
+ "verse": "A narrativa seguinte apresenta a carreira de um mortal residido por um Ajustador no universo. Os mortais fusionados ao Filho e ao Espírito compartilham de partes dessa carreira; mas escolhemos contar a história que é a do mortal fusionado ao Ajustador, pois é este destino o que se antecipa para todas as raças humanas de Urântia."
+}
+### w04:300
+{
+ "cit": "31:3.6",
+ "en": "The mortal finaliters have fully complied with the injunction of the ages, \"Be you perfect\"; they have ascended the universal path of mortal attainment; they have found God, and they have been duly inducted into the Corps of the Finality. Such beings have attained the present limit of spirit progression but not finality of ultimate spirit status.",
+ "why": "sentence count differs in 31:3.6",
+ "verse": "2. Os finalitores mortais cumpriram plenamente as exigências dos tempos: “Sede perfeitos”. Ascenderam pelo caminho universal da realização mortal; encontraram Deus, e foram devidamente aceitos no Corpo de Finalidade. Esses seres alcançaram o limite atual da progressão espiritual, mas não a finalidade do último status do espírito. Eles alcançaram o limite atual da perfeição da criatura, mas não a finalidade do serviço da criatura. Eles experienciaram a plenitude da adoração da Deidade, mas não a finalidade da realização da Deidade experiencial."
+}

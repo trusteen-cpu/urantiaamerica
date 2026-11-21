@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guide du nouveau lecteur du Livre d’Urantia</title>
+<style>
+:root{--ink:#24272f;--dim:#5f6470;--bg:#f7f5f0;--card:#fff;--line:#e3ddcf;--acc:#1f4e79;--gold:#a8833e;--qfill:#fff6d6}
+*{box-sizing:border-box}
+body{overflow-wrap:break-word;hyphens:auto;margin:0;background:var(--bg);color:var(--ink);font-family:Georgia,'Times New Roman',serif;line-height:1.8}
+a{color:inherit}
+header.top{background:linear-gradient(160deg,#0d1730 0%,#17365d 46%,#2b4a78 100%);color:#fff;text-align:center;padding:46px 16px 36px}
+header.top .eb{font-family:'Segoe UI',system-ui,sans-serif;font-size:12.5px;letter-spacing:.22em;color:#e9cf8e}
+header.top h1{margin:8px 0 6px;font-size:clamp(24px,5vw,34px);line-height:1.3}
+header.top p{margin:0;opacity:.85;font-size:15.5px}
+header.top .by{margin-top:10px;font-family:'Segoe UI',system-ui,sans-serif;font-size:13px;opacity:.75}
+.wrap{max-width:800px;margin:0 auto;padding:26px 18px 60px}
+.sans,h2,h3,.eyebrow,.toc a,.box h4,.pager a,figcaption,.tcap,th,.listen{font-family:'Segoe UI',system-ui,sans-serif}
+h2.sec{font-size:15px;letter-spacing:.15em;color:var(--dim);border-bottom:2px solid var(--line);padding-bottom:8px;margin:36px 0 10px}
+.part{margin:24px 0 4px;font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;font-size:14.5px;color:var(--acc);border-left:5px solid var(--gold);padding-left:10px}
+.part small{display:block;font-weight:400;color:var(--dim);font-size:13px}
+.toc a{display:flex;gap:12px;padding:9px 12px;text-decoration:none;border-bottom:1px solid var(--line);background:var(--card);font-size:15px}
+.toc a:hover{background:#f1ede3}.toc b{color:var(--gold);min-width:4.6em}
+.eyebrow{font-size:12.5px;font-weight:700;letter-spacing:.12em;color:var(--gold)}
+h1.ct{margin:6px 0 4px;font-size:clamp(24px,5vw,32px);line-height:1.35;border-bottom:3px solid var(--acc);padding-bottom:6px}
+.text{color:var(--dim);font-size:14px;margin:4px 0 18px;font-style:italic}
+h2{font-size:20px;margin:36px 0 10px;padding-bottom:5px;border-bottom:1.5px solid var(--acc)}
+h3{font-size:16.5px;margin:24px 0 6px;color:var(--acc)}
+p{margin:0 0 12px;font-size:16.5px}
+ul,ol{margin:0 0 12px;padding-left:1.4em}li{font-size:16px;margin-bottom:4px}
+blockquote{background:var(--qfill);border-left:4px solid var(--gold);margin:8px 0 14px;padding:10px 14px 8px;font-size:15.5px;line-height:1.75}
+blockquote a{display:block;text-align:right;font-family:'Segoe UI',system-ui,sans-serif;font-size:12.5px;font-weight:700;color:var(--gold);text-decoration:none;margin-top:3px}
+figure{margin:18px 0;text-align:center}figure img{max-width:100%;height:auto;background:#fff;border:1px solid var(--line);border-radius:8px}
+figcaption{font-size:13.5px;color:var(--dim);margin-top:6px}figcaption b,.tcap b{color:var(--acc)}
+.tw{overflow-x:auto;margin:6px 0 18px}.tcap{font-size:13.5px;color:var(--dim);margin:16px 0 4px}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.6;background:var(--card)}
+th{background:var(--acc);color:#fff;font-weight:700;text-align:left;padding:7px 10px}
+td{border-top:1px solid var(--line);padding:7px 10px;vertical-align:top}tr:nth-child(even) td{background:#faf8f3}
+.box{border-left:4px solid var(--c);background:var(--f);border-radius:0 10px 10px 0;padding:12px 16px 4px;margin:18px 0}
+.box h4{margin:0 0 6px;font-size:13px;letter-spacing:.08em;color:var(--c)}
+.box p,.box li{font-size:15.5px}
+.listen{display:block;background:#fbf3e4;border:1px solid #e9d4ad;border-radius:10px;padding:10px 14px;margin:0 0 20px;text-decoration:none;font-size:14.5px}
+.listen b{color:#8c5a1e}.listen:hover{border-color:var(--gold)}
+dl.terms dt{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;color:var(--acc);margin-top:10px}
+dl.terms dd{margin:2px 0 0 1.2em;font-size:15.5px}dl.terms small{color:var(--dim)}
+.colo{margin-top:40px;color:var(--dim);font-size:13px;border-top:1px solid var(--line);padding-top:14px}.colo p{font-size:13px}
+.pager{display:flex;justify-content:space-between;gap:10px;margin-top:36px;flex-wrap:wrap}
+.pager a{border:1px solid var(--line);background:var(--card);border-radius:10px;padding:9px 14px;text-decoration:none;font-size:14px;max-width:48%}
+.pager a:hover{border-color:var(--gold)}
+@media(max-width:600px){p{font-size:16px}blockquote{font-size:15px}}
+@media print{.pager,.ur-home-btn,.listen{display:none!important}body{background:#fff}}
+</style>
+<script src="/home-button.js" defer></script>
+</head>
+<body>
+<header class="top"><div class="eb">LE LIVRE D’URANTIA</div><h1>Guide du nouveau lecteur du Livre d’Urantia</h1><p>Douze semaines sur la grande route de la révélation</p><div class="by">Jay Han</div></header>
+<div class="wrap"><h2 class="sec">PRÉFACE</h2><p>La plupart des personnes qui prennent pour la première fois en main le Livre d’Urantia sont surprises deux fois : d’abord par sa taille, puis par le flot de noms inconnus qui commence dès la toute première page. Havona, Orvonton, Nébadon, Ajusteur de Pensée, morontia. Bien des lecteurs ont ouvert ce livre de plus de deux-mille pages pour le refermer quelque part dans l’Introduction. Ce guide a été écrit pour eux.</p>
+<p>En douze semaines, il parcourt l’ensemble du Livre d’Urantia. La première semaine demande ce qu’est ce livre, comment il est né et comment le lire. Viennent ensuite le Père Universel et la Trinité, le Paradis et Havona, et les êtres qui servent le grand univers (première partie). Nous visitons ensuite notre univers local de Nébadon, les mondes des maisons au-delà de la mort, les âges d’une planète et la rébellion de Lucifer (deuxième partie), puis la naissance d’Urantia, l’aube de l’humanité, Adam et Ève, et l’esprit de Dieu qui habite en nous (troisième partie). Les deux dernières semaines sont consacrées à la vie et aux enseignements de Jésus, à la croix et à la résurrection, et au matin de la Pentecôte (quatrième partie).</p>
+<p>Ce guide est né d’un cours de dix semaines pour nouveaux lecteurs que l’auteur a animé ; il a été remanié ici en douze semaines et entièrement réécrit. Chaque semaine compte environ vingt pages, où les citations du Livre d’Urantia et le commentaire occupent à peu près la même place. Entendre la voix du texte lui-même est ce qui compte le plus, mais un lecteur débutant a aussi besoin d’un guide patient qui l’aide à comprendre cette voix. Partout où les mots seuls rendraient une idée difficile à suivre, un tableau ou un schéma tente de la montrer.</p>
+<p>Ce guide ne remplace pas le Livre d’Urantia. Une carte peut montrer la route, mais c’est au lecteur de la parcourir. Si, au terme de ces douze semaines, le lecteur referme ce guide et ouvre le Livre d’Urantia avec le courage de continuer à lire seul, ce livre aura accompli sa tâche.</p><h2 class="sec">COMMENT UTILISER CE LIVRE</h2><p>Ce livre est conçu pour être lu à raison d’une semaine à la fois pendant douze semaines, seul ou en groupe d’étude. Chaque semaine est construite de la même manière.</p>
+<ul><li><strong>La carte de la semaine</strong> : un seul schéma montre ce que couvre la semaine et comment ses idées s’enchainent. Parcourez-le avant de commencer, et vous ne vous perdrez pas.</li><li><strong>Récit d’ouverture</strong> : une scène ou une image de la vie quotidienne introduit le thème de la semaine.</li><li><strong>Cinq sections</strong> : le commentaire et les citations du Livre d’Urantia alternent. Le texte sur fond teinté est cité de la traduction officielle du Livre d’Urantia ; une référence telle que (1:2.3) signifie fascicule 1, section 2, paragraphe 3.</li><li><strong>Encadrés</strong> : « Mots nouveaux » explique un terme nouveau en une ou deux phrases ; « Dissiper un malentendu » corrige une lecture erronée courante ; « En regard de la Bible » rapproche un passage d’un récit biblique familier.</li><li><strong>Points clés, questions et lecture de la semaine suivante</strong> : chaque semaine se termine par un résumé, des questions à méditer et les fascicules du Livre d’Urantia à lire pour la semaine suivante.</li></ul>
+<p>L’annexe « Mots nouveaux », à la fin, recense par ordre alphabétique tous les termes introduits dans ce livre.</p><h2 class="sec">SOMMAIRE</h2><div class="part">Première partie Premier contact avec la révélation<small>Ce qu’est ce livre, et qui est Dieu</small></div>
+<div class="toc"><a href="w01.html"><b>Semaine 1</b><span>Invitation à un monde nouveau</span></a></div>
+<div class="toc"><a href="w02.html"><b>Semaine 2</b><span>Le Père Universel — Qui est Dieu ?</span></a></div>
+<div class="toc"><a href="w03.html"><b>Semaine 3</b><span>Le centre de l’univers — Trinité, Paradis, Havona</span></a></div>
+<div class="toc"><a href="w04.html"><b>Semaine 4</b><span>La grande famille du grand univers</span></a></div>
+<div class="part">Deuxième partie Notre univers natal<small>Nébadon, les mondes des maisons et les âges d’une planète</small></div>
+<div class="toc"><a href="w05.html"><b>Semaine 5</b><span>Nébadon, notre univers natal</span></a></div>
+<div class="toc"><a href="w06.html"><b>Semaine 6</b><span>Au-delà de la mort, à l’école de l’univers</span></a></div>
+<div class="toc"><a href="w07.html"><b>Semaine 7</b><span>Les âges planétaires et la rébellion de Lucifer</span></a></div>
+<div class="part">Troisième partie L’histoire d’Urantia<small>De la naissance d’une planète à Dieu en nous</small></div>
+<div class="toc"><a href="w08.html"><b>Semaine 8</b><span>L’aube d’une planète, le matin de l’humanité</span></a></div>
+<div class="toc"><a href="w09.html"><b>Semaine 9</b><span>Le jardin perdu et le chemin du retour</span></a></div>
+<div class="toc"><a href="w10.html"><b>Semaine 10</b><span>Dieu en nous</span></a></div>
+<div class="part">Quatrième partie La vie et les enseignements de Jésus<small>Le Créateur devient un Fils de l’Homme</small></div>
+<div class="toc"><a href="w11.html"><b>Semaine 11</b><span>Le Créateur devient un Fils de l’Homme</span></a></div>
+<div class="toc"><a href="w12.html"><b>Semaine 12</b><span>Le matin au-delà de la croix, et aujourd’hui</span></a></div>
+<div class="part">Postface et annexes</div>
+<div class="toc"><a href="afterword.html"><b>·</b><span>Postface — Partir de là où nous sommes</span></a></div>
+<div class="toc"><a href="reading.html"><b>·</b><span>Annexe 2. Pour aller plus loin — Guide de lecture par fascicule</span></a></div>
+<div class="toc"><a href="words.html"><b>·</b><span>Annexe 1. Mots nouveaux</span></a></div><div class="colo"><p>Guide du nouveau lecteur du Livre d’Urantia — Douze semaines sur la grande route de la révélation Copyright © 2026 Jay Han. Tous droits réservés.</p>
+<p>Aucune partie du texte original de ce livre ne peut être reproduite sans l’autorisation écrite de l’auteur, sauf de brèves citations dans des comptes rendus et des articles.</p>
+<p>Les citations du Livre d’Urantia sont reproduites mot pour mot d’après la traduction française officielle publiée par la Fondation Urantia ; les nombres entre parenthèses après chaque citation indiquent le fascicule, la section et le paragraphe (fascicule:section.paragraphe). Les citations bibliques sont tirées de la Bible Louis Segond 1910 (domaine public).</p>
+<p>Ce livre est une étude indépendante. Il n’est affilié à aucune organisation Urantia et n’est approuvé par aucune d’elles. Publié à l’origine en coréen (2026) ; cette édition est traduite de l’édition anglaise.</p>
+<p>Lecteurs du Livre d’Urantia de Corée (Urantia Book Readers of Korea) · urantiareaders.com · Première édition française, 2026</p></div>
+</div>
+</body>
+</html>

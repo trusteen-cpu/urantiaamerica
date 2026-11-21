@@ -1,0 +1,1562 @@
+{
+ "ui:title": "A New Reader's Guide to The Urantia Book",
+ "ui:sub": "Twelve Weeks on the Great Road of the Revelation",
+ "ui:eyebrow_index": "THE URANTIA BOOK",
+ "ui:author": "Jay Han",
+ "ui:contents": "Contents",
+ "ui:sec_preface": "PREFACE",
+ "ui:sec_howto": "HOW TO USE THIS BOOK",
+ "ui:sec_contents": "CONTENTS",
+ "ui:week_label": "Week {n}",
+ "ui:week_eyebrow": "WEEK {n}",
+ "ui:text_label": "Text: {text}",
+ "ui:figure_label": "Figure {week}.{n}",
+ "ui:figure_label_nw": "Figure {n}",
+ "ui:table_label": "Table {week}.{n}",
+ "ui:table_label_nw": "Table {n}",
+ "ui:box_points": "Key Points This Week",
+ "ui:box_questions": "Questions to Consider",
+ "ui:box_next": "Read for Next Week",
+ "ui:part_after": "Afterword and Appendices",
+ "ui:appx1": "Appendix 1. New Words",
+ "ui:appx1_intro": "The terms introduced in this book, in alphabetical order. The week in parentheses is where the term first appears.",
+ "preface:1": "Most people who first pick up The Urantia Book are surprised twice: once by its size, and again by the flood of unfamiliar names that begins on the very first page. Havona, Orvonton, Nebadon, Thought Adjuster, morontia. More than a few readers have opened this book of over two thousand pages and closed it again somewhere in the Foreword. This guide was written for them.",
+ "preface:3": "Over twelve weeks, it walks through the whole of The Urantia Book. The first week asks what this book is, how it came to be, and how to read it. Then come the Universal Father and the Trinity, Paradise and Havona, and the beings who serve the grand universe (Part One). Next we visit our local universe of Nebadon, the mansion worlds beyond death, the ages of a planet and the Lucifer rebellion (Part Two), and then the birth of Urantia, the dawn of humankind, Adam and Eve, and the spirit of God who dwells within us (Part Three). The last two weeks are given to the life and teachings of Jesus, the cross and the resurrection, and the morning of Pentecost (Part Four).",
+ "preface:5": "The guide grew out of a ten-week course for new readers that the author has led, reshaped here into twelve weeks and written afresh. Each week runs to about twenty pages, with quotations from The Urantia Book and commentary in roughly equal measure. Hearing the voice of the text itself matters most, but a first-time reader also needs a patient guide to help that voice be understood. Wherever words alone would make a point hard to follow, a chart or diagram tries to show it instead.",
+ "preface:7": "This guide does not replace The Urantia Book. A map can show the road, but the reader must walk it. If, at the end of these twelve weeks, the reader closes this guide and opens The Urantia Book with the courage to keep reading alone, this book will have done its work.",
+ "howto:1": "This book is meant to be read one week at a time over twelve weeks, alone or with a study group. Each week is built the same way.",
+ "howto:2": "**This week's map**: a single diagram shows what the week covers and how its ideas connect. Look it over before you start, and you will not get lost.",
+ "howto:4": "**Opening story**: an everyday scene or image leads into the week's theme.",
+ "howto:5": "**Five sections**: commentary and quotations from The Urantia Book alternate. Text on a tinted background is quoted from The Urantia Book; a reference such as (1:2.3) means Paper 1, section 2, paragraph 3.",
+ "howto:6": "**Boxes**: \"New Words\" explains a new term in a sentence or two; \"Clearing Up a Misunderstanding\" corrects a common misreading; \"Alongside the Bible\" sets a passage beside a familiar Bible story.",
+ "howto:7": "**Key points, questions and next week's reading**: each week closes with a summary, questions to consider, and the papers of The Urantia Book to read for the following week.",
+ "howto:8": "The \"New Words\" appendix at the end lists every term introduced in this book in alphabetical order.",
+ "w01:1": [
+  "Part One First Encounter with the Revelation",
+  "What this book is, and who God is"
+ ],
+ "w01:2": "An Invitation to a New World",
+ "w01:3": "Foreword · Paper 1 · Paper 92:4 · Paper 101:2, 4",
+ "w01:4": "This week's map — from an old question, through the birth of the book, two kinds of religion, and five revelations, to a map of the 196 papers",
+ "w01:7": "The Urantia Book introduces itself as a revelation. If evolutionary religion is the long path by which humanity has groped its way upward toward truth, revelation is the answer handed down from above. The book says there have been five revelations of epochal significance in human history and that it is the fifth, yet it frankly admits that no revelation is complete and that its scientific statements in particular are not inspired. This week we take in hand a large map of what this book is and how it is put together.",
+ "w01:10": "Opening Story",
+ "w01:12": "Picture someone standing in a subway station in a city they have never visited. The wise first move is not to board whatever train arrives but to study the route map on the wall. Once you know where you are, where you are going, and where to change lines, the unfamiliar station names begin to fall into place one by one.",
+ "w01:14": "A person opening The Urantia Book for the first time is in much the same position. The original English edition runs to 2,097 pages: a Foreword and 196 papers. Words like Havona, Nebadon, Satania, and Thought Adjuster pour out from the very first page. Board without a map, and it is easy to get lost.",
+ "w01:16": "This guide hopes to serve as that route map. Over twelve weeks it travels once around the whole book, though it does not stop at every station. In the first week we look at the map itself.",
+ "w01:18": "1. Why We Opened This Book",
+ "w01:20": "People come to this book for many reasons, but underneath there is usually the same set of questions. Where did I come from? Why am I alive? What lies beyond death? Does God really exist, and if so, what is He like?",
+ "w01:22": "The Urantia Book does not treat these questions lightly. On the contrary, it says they are the starting point of a road walked together by every intelligent being in the universe. Paper 1, the first paper of the main text, introduces the search for God this way.",
+ "w01:24": {
+  "q": "The enlightened worlds all recognize and worship the Universal Father, the eternal maker and infinite upholder of all creation. The will creatures of universe upon universe have embarked upon the long, long Paradise journey, the fascinating struggle of the eternal adventure of attaining God the Father. The transcendent goal of the children of time is to find the eternal God, to comprehend the divine nature, to recognize the Universal Father. God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection of personality and in his universal sphere of righteous supremacy. From the Universal Father who inhabits eternity there has gone forth the supreme mandate, \"Be you perfect, even as I am perfect.\" In love and mercy the messengers of Paradise have carried this divine exhortation down through the ages and out through the universes, even to such lowly animal-origin creatures as the human races of Urantia.",
+  "cit": "1:0.3"
+ },
+ "w01:26": "\"Will creatures\" are beings who can make their own choices; the \"children of time\" are beings born in time who grow up within it. We human beings belong among them. Paper 1 calls this journey an \"adventure,\" and at the close of the same introduction it says so once more.",
+ "w01:28": {
+  "q": "This is the true meaning of that divine command, \"Be you perfect, even as I am perfect,\" which ever urges mortal man onward and beckons him inward in that long and fascinating struggle for the attainment of higher and higher levels of spiritual values and true universe meanings. This sublime search for the God of universes is the supreme adventure of the inhabitants of all the worlds of time and space.",
+  "cit": "1:0.6"
+ },
+ "w01:30": "Can someone with no training in theology read this book? The book answers that worry in advance.",
+ "w01:32": {
+  "q": "The realization of religion never has been, and never will be, dependent on great learning or clever logic. It is spiritual insight, and that is just the reason why some of the world's greatest religious teachers, even the prophets, have sometimes possessed so little of the wisdom of the world. Religious faith is available alike to the learned and the unlearned.",
+  "cit": "101:2.15"
+ },
+ "w01:34": "The book is full of unfamiliar cosmology and long names, but no one has to memorize them all to draw near to God. Knowledge is a lamp that lights the road; the strength to walk it comes from insight and faith.",
+ "w01:36": "New Words",
+ "w01:37": "**Urantia**: the name by which our planet, the earth, is known in the universe. The book takes its title from it.",
+ "w01:38": "**mortal**: a being who faces death, that is, a human being. The book often addresses its readers as \"you mortals.\"",
+ "w01:39": "**Paradise**: the eternal Isle at the center of all things, where the Universal Father dwells. We look at it closely in Week 3.",
+ "w01:42": "2. How the Book Came to Be",
+ "w01:44": "History Outside the Book",
+ "w01:46": "The first part of this section is not drawn from The Urantia Book itself; it is the author's summary of records left outside the book. As the story is usually told, it begins early in the twentieth century in Chicago. A physician, Dr. William Sadler, spent years observing the case of a man who spoke unusual words while asleep. He was never able to explain where those words came from.",
+ "w01:48": "From the mid-1920s a reading group called the Forum met at Dr. Sadler's home. Papers arrived one after another, as if in answer to questions the group had raised, and by about 1935 they reached all the way through the fourth part, on the life of Jesus. After long preparation they were published as a single book in 1955. The name of the person through whom the papers came has still not been made public. The book is weighed by its content, not by anyone's reputation.",
+ "w01:50": "How the book came to be — a timeline arranged by the author from records outside the book",
+ "w01:52": "What the Authors Say About Themselves",
+ "w01:54": "Now let us step inside the text. At the end of each paper of The Urantia Book, its author is named. The Foreword at the very front was written by a Divine Counselor from the superuniverse of Orvonton, who begins by explaining why he wrote it.",
+ "w01:56": {
+  "q": "IN THE MINDS of the mortals of Urantia—that being the name of your world—there exists great confusion respecting the meaning of such terms as God, divinity, and deity. Human beings are still more confused and uncertain about the relationships of the divine personalities designated by these numerous appellations. Because of this conceptual poverty associated with so much ideational confusion, I have been directed to formulate this introductory statement in explanation of the meanings which should be attached to certain word symbols as they may be hereinafter used in those papers which the Orvonton corps of truth revealers have been authorized to translate into the English language of Urantia.",
+  "cit": "0:0.1"
+ },
+ "w01:58": "The Foreword is a kind of glossary. Its author also explains why it feels difficult from the start.",
+ "w01:60": {
+  "q": "But in order to formulate this Foreword of definitions and limitations of terminology, it is necessary to anticipate the usage of these terms in the subsequent presentations. This Foreword is not, therefore, a finished statement within itself; it is only a definitive guide designed to assist those who shall read the accompanying papers dealing with Deity and the universe of universes which have been formulated by an Orvonton commission sent to Urantia for this purpose.",
+  "cit": "0:0.4"
+ },
+ "w01:62": "Since it is a guide written with the later papers already in view, it is natural for it to feel strange on a first reading. The author confesses how hard it is to carry heavenly concepts in human words.",
+ "w01:64": {
+  "q": "It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning.",
+  "cit": "0:0.2"
+ },
+ "w01:66": "This admission sets the tone for how to read the book. Its sentences pour heavenly meaning into the small vessel of human language. So rather than clinging to any single word, we read for the meaning the words point toward.",
+ "w01:68": "Built on More Than a Thousand Human Concepts",
+ "w01:70": "The Acknowledgment at the end of the Foreword contains an even more striking admission. The authors say they did not simply pour down heavenly knowledge from above.",
+ "w01:72": {
+  "q": "In formulating the succeeding presentations having to do with the portrayal of the character of the Universal Father and the nature of his Paradise associates, together with an attempted description of the perfect central universe and the encircling seven superuniverses, we are to be guided by the mandate of the superuniverse rulers which directs that we shall, in all our efforts to reveal truth and co-ordinate essential knowledge, give preference to the highest existing human concepts pertaining to the subjects to be presented. We may resort to pure revelation only when the concept of presentation has had no adequate previous expression by the human mind.",
+  "cit": "0:12.11"
+ },
+ "w01:74": {
+  "q": "Successive planetary revelations of divine truth invariably embrace the highest existing concepts of spiritual values as a part of the new and enhanced co-ordination of planetary knowledge. Accordingly, in making these presentations about God and his universe associates, we have selected as the basis of these papers more than one thousand human concepts representing the highest and most advanced planetary knowledge of spiritual values and universe meanings. Wherein these human concepts, assembled from the God-knowing mortals of the past and the present, are inadequate to portray the truth as we are directed to reveal it, we will unhesitatingly supplement them, for this purpose drawing upon our own superior knowledge of the reality and divinity of the Paradise Deities and their transcendent residential universe.",
+  "cit": "0:12.12"
+ },
+ "w01:76": "These two paragraphs are a key to the character of the whole book. The revelators first used the highest thoughts human beings had already reached, and supplied something new only where humans had not yet found words. Heaven made the labors of those who sought God into its foundation stones. The Foreword then names the One within us who makes this difficult work possible.",
+ "w01:78": {
+  "q": "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind. But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings.",
+  "cit": "0:12.13"
+ },
+ "w01:80": "The \"fragment of God\" is the Thought Adjuster who dwells within each person. However hard the sentences of the book may be, the One who helps us understand them already lives within the reader.",
+ "w01:82": "New Words",
+ "w01:83": "**Divine Counselor**: a high personality serving in the superuniverse government. Divine Counselors wrote the Foreword, Paper 1, and several other papers.",
+ "w01:84": "**midwayer**: a being between humans and angels who has lived on this planet for ages. The midwayers wrote the fourth part, on the life of Jesus.",
+ "w01:85": "**Thought Adjuster**: a fragment of the Father's spirit that God sends to dwell in the human mind. The Foreword calls it \"a fragment of God.\"",
+ "w01:88": "3. Evolutionary and Revelatory Religion",
+ "w01:90": "Two Reaching Hands",
+ "w01:92": "To read The Urantia Book, we first need to tell apart two kinds of religion. In the distant past, people trembled before thunder, sickness, and death. Sacrifices, spells, and taboos arose to appease unseen powers, and over long ages these were refined into religion. This is **evolutionary religion**. Quite different is truth handed down from above. This is called **revelation**, and religion born of revelation is called **revelatory religion**. Paper 92 sums up the difference.",
+ "w01:94": {
+  "q": "Evolutionary religion is sentimental, not logical. It is man's reaction to belief in a hypothetical ghost-spirit world—the human belief-reflex, excited by the realization and fear of the unknown. Revelatory religion is propounded by the real spiritual world; it is the response of the superintellectual cosmos to the mortal hunger to believe in, and depend upon, the universal Deities. Evolutionary religion pictures the circuitous gropings of humanity in quest of truth; revelatory religion is that very truth.",
+  "cit": "92:4.3"
+ },
+ "w01:96": "\"Circuitous gropings\" is exactly right. Evolutionary religion takes the long way around, yet it is still an honest struggle toward truth, and The Urantia Book does not belittle it. When humans reach up from below, heaven reaches down from above, and religion grows where the two hands meet. How, then, can revelatory religion be recognized?",
+ "w01:98": {
+  "q": "But regardless of apparent connection or derivation, the religions of revelation are always characterized by a belief in some Deity of final value and in some concept of the survival of personality identity after death.",
+  "cit": "92:4.2"
+ },
+ "w01:100": "Evolutionary and revelatory religion (arranged by the author from 92:4.1-3)",
+ "w01:101": [
+  "Point of comparison",
+  "Evolutionary religion",
+  "Revelatory religion"
+ ],
+ "w01:103": [
+  "Direction",
+  "From below upward: the human search",
+  "From above downward: heaven's answer"
+ ],
+ "w01:104": [
+  "Starting point",
+  "Fear of the unknown",
+  "Propounded by the real spiritual world"
+ ],
+ "w01:105": [
+  "Character",
+  "Sentimental, not logical",
+  "That very truth"
+ ],
+ "w01:106": [
+  "Mark",
+  "Rites to appease ghosts and spirits",
+  "A Deity of final value; survival after death"
+ ],
+ "w01:107": [
+  "Relationship",
+  "Uplifted and corrected by revelation",
+  "Stays in touch with evolution and leads it"
+ ],
+ "w01:109": "Revelation in Measured Portions",
+ "w01:111": "Revelation follows one important principle: it never gives everything at once.",
+ "w01:113": {
+  "q": "Revelation is evolutionary but always progressive. Down through the ages of a world's history, the revelations of religion are ever-expanding and successively more enlightening. It is the mission of revelation to sort and censor the successive religions of evolution. But if revelation is to exalt and upstep the religions of evolution, then must such divine visitations portray teachings which are not too far removed from the thought and reactions of the age in which they are presented. Thus must and does revelation always keep in touch with evolution. Always must the religion of revelation be limited by man's capacity of receptivity.",
+  "cit": "92:4.1"
+ },
+ "w01:115": "This principle is the key to the five revelations in the next section. Each age received as much as it could bear, and each new revelation added another layer on top of the last. Personal faith works the same way: a sentence that makes no sense today may open up brightly a few years from now.",
+ "w01:117": "Reason, Faith, and Revelation",
+ "w01:119": "Revelation does not ask us to abandon reason.",
+ "w01:121": {
+  "q": "Reason is the method of science; faith is the method of religion; logic is the attempted technique of philosophy. Revelation compensates for the absence of the morontia viewpoint by providing a technique for achieving unity in the comprehension of the reality and relationships of matter and spirit by the mediation of mind. And true revelation never renders science unnatural, religion unreasonable, or philosophy illogical.",
+  "cit": "101:2.2"
+ },
+ "w01:123": {
+  "q": "Reason is the proof of science, faith the proof of religion, logic the proof of philosophy, but revelation is validated only by human experience. Science yields knowledge; religion yields happiness; philosophy yields unity; revelation confirms the experiential harmony of this triune approach to universal reality.",
+  "cit": "101:2.8"
+ },
+ "w01:125": "The final test of a revelation is not authority but experience. Paper 101 ties the three together in a single sentence.",
+ "w01:127": {
+  "q": "Reason, through the study of science, may lead back through nature to a First Cause, but it requires religious faith to transform the First Cause of science into a God of salvation; and revelation is further required for the validation of such a faith, such spiritual insight.",
+  "cit": "101:2.3"
+ },
+ "w01:129": "Reason goes as far as it can, faith carries on beyond it, and revelation confirms that faith. Whether what this book says is true will show itself in the lives of those who try living by its teachings.",
+ "w01:131": "Alongside the Bible",
+ "w01:132": "On his last evening with the disciples, Jesus said, “I have yet many things to say unto you, but ye cannot bear them now” (John 16:12). The Letter to the Hebrews likewise says that God spoke “at sundry times and in divers manners” (Hebrews 1:1). The idea that God gives ever greater light in portions we can bear is one the Bible and The Urantia Book share.",
+ "w01:135": "4. The Five Epochal Revelations",
+ "w01:137": "Five Steps",
+ "w01:139": "Paper 92 says that, among the many revelations great and small, only five have carried \"epochal significance.\"",
+ "w01:141": {
+  "q": "There have been many events of religious revelation but only five of epochal significance. These were as follows:",
+  "cit": "92:4.4"
+ },
+ "w01:143": "The first came hundreds of thousands of years ago at Dalamatia. The staff brought by the Planetary Prince, the ruler sent by the local universe to oversee the planet, were the first to teach about God.",
+ "w01:145": {
+  "q": "1. The Dalamatian teachings. The true concept of the First Source and Center was first promulgated on Urantia by the one hundred corporeal members of Prince Caligastia's staff. This expanding revelation of Deity went on for more than three hundred thousand years until it was suddenly terminated by the planetary secession and the disruption of the teaching regime. Except for the work of Van, the influence of the Dalamatian revelation was practically lost to the whole world.",
+  "cit": "92:4.5"
+ },
+ "w01:147": "The second was Adam and Eve in the Garden of Eden. Their mission was cut short before it could flower, but seeds of truth remained.",
+ "w01:149": {
+  "q": "2. The Edenic teachings. Adam and Eve again portrayed the concept of the Father of all to the evolutionary peoples. The disruption of the first Eden halted the course of the Adamic revelation before it had ever fully started. But the aborted teachings of Adam were carried on by the Sethite priests, and some of these truths have never been entirely lost to the world. The entire trend of Levantine religious evolution was modified by the teachings of the Sethites. But by 2500 B.C. mankind had largely lost sight of the revelation sponsored in the days of Eden.",
+  "cit": "92:4.6"
+ },
+ "w01:151": "The third was Machiventa Melchizedek, who appeared at Salem about four thousand years ago. He taught Abraham, and his name appears in Genesis 14.",
+ "w01:153": {
+  "q": "3. Melchizedek of Salem. This emergency Son of Nebadon inaugurated the third revelation of truth on Urantia. The cardinal precepts of his teachings were trust and faith. He taught trust in the omnipotent beneficence of God and proclaimed that faith was the act by which men earned God's favor. His teachings gradually commingled with the beliefs and practices of various evolutionary religions and finally developed into those theologic systems present on Urantia at the opening of the first millennium after Christ.",
+  "cit": "92:4.7"
+ },
+ "w01:155": "The fourth was Jesus of Nazareth. The book presents Jesus as Michael, the Creator Son who made our local universe, born into the world as a human being.",
+ "w01:157": {
+  "q": "4. Jesus of Nazareth. Christ Michael presented for the fourth time to Urantia the concept of God as the Universal Father, and this teaching has generally persisted ever since. The essence of his teaching was love and service, the loving worship which a creature son voluntarily gives in recognition of, and response to, the loving ministry of God his Father; the freewill service which such creature sons bestow upon their brethren in the joyous realization that in this service they are likewise serving God the Father.",
+  "cit": "92:4.8"
+ },
+ "w01:159": "The five epochal revelations — step by step toward greater light (arranged by the author from 92:4.4-9)",
+ "w01:161": "The five epochal revelations at a glance (92:4.5-9)",
+ "w01:162": [
+  "No.",
+  "Revelation",
+  "Core teaching",
+  "What became of it"
+ ],
+ "w01:164": [
+  "1",
+  "Dalamatian teachings",
+  "God as the First Source and Center",
+  "Cut off by the rebellion; nearly lost"
+ ],
+ "w01:165": [
+  "2",
+  "Edenic teachings",
+  "The Father of all",
+  "Halted early; partly kept by the Sethite priests"
+ ],
+ "w01:166": [
+  "3",
+  "Melchizedek of Salem",
+  "Trust and faith",
+  "Blended into many religions"
+ ],
+ "w01:167": [
+  "4",
+  "Jesus of Nazareth",
+  "The Universal Father; love and service",
+  "Has generally persisted"
+ ],
+ "w01:168": [
+  "5",
+  "The Urantia Papers",
+  "Synthesis and expansion of earlier revelations",
+  "Now in our hands"
+ ],
+ "w01:170": "The Fifth Revelation and Its Limits",
+ "w01:172": "The fifth is the very book we are reading. It differs in kind from the first four: it is not the teaching of one personality who came in person, but writing produced by many beings together.",
+ "w01:174": {
+  "q": "5. The Urantia Papers. The papers, of which this is one, constitute the most recent presentation of truth to the mortals of Urantia. These papers differ from all previous revelations, for they are not the work of a single universe personality but a composite presentation by many beings. But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements…",
+  "cit": "92:4.9"
+ },
+ "w01:176": "A revelation that declares itself incomplete is rare. Paper 101 says in advance that its scientific statements will someday need correcting.",
+ "w01:178": {
+  "q": "Mankind should understand that we who participate in the revelation of truth are very rigorously limited by the instructions of our superiors. We are not at liberty to anticipate the scientific discoveries of a thousand years. … We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. … Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the co-ordination and sorting of present-day knowledge. While divine or spiritual insight is a gift, human wisdom must evolve.",
+  "cit": "101:4.2"
+ },
+ "w01:180": "Why set such a limit? The revelators were forbidden to hand over knowledge that humans had not yet discovered, so they stopped at organizing the science of the 1930s. They knew this limit might become a stumbling block for readers.",
+ "w01:182": {
+  "q": "Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. Accordingly, future students of such a revelation are tempted to discard any element of genuine religious truth it may contain because they discover errors on the face of the associated cosmologies therein presented.",
+  "cit": "101:4.1"
+ },
+ "w01:184": "The plea is simple: do not throw away the truth about God just because a scientific statement has grown old. Paper 101 offers this standard for judging religion.",
+ "w01:186": {
+  "q": "In the last analysis, religion is to be judged by its fruits, according to the manner and the extent to which it exhibits its own inherent and divine excellence.",
+  "cit": "101:4.4"
+ },
+ "w01:188": "Clearing Up a Misunderstanding",
+ "w01:189": "**A common misunderstanding**: A true revelation must be without a single error, and if even one thing in it is wrong, all of it is false.",
+ "w01:190": "**What The Urantia Book says**: The book states that it is not complete (92:4.9). Its cosmology and scientific statements are not inspired and are bound to the knowledge of their time (101:4.2). Historic facts and religious truths will endure, but scientific statements may be revised. Religion is to be judged by its fruits (101:4.4).",
+ "w01:193": "Epochal Revelation and the Revelation Within",
+ "w01:195": "The five revelations are great lights given to humanity as a whole. Yet The Urantia Book says revelation also happens every day, to each person.",
+ "w01:197": {
+  "q": "Truth is always a revelation: autorevelation when it emerges as a result of the work of the indwelling Adjuster; epochal revelation when it is presented by the function of some other celestial agency, group, or personality.",
+  "cit": "101:4.3"
+ },
+ "w01:199": "Paper 101 also names the channels through which this personal revelation continues.",
+ "w01:201": {
+  "q": "Revelation as an epochal phenomenon is periodic; as a personal human experience it is continuous. Divinity functions in mortal personality as the Adjuster gift of the Father, as the Spirit of Truth of the Son, and as the Holy Spirit of the Universe Spirit, while these three supermortal endowments are unified in human experiential evolution as the ministry of the Supreme.",
+  "cit": "101:2.12"
+ },
+ "w01:203": "Revelation given in a book and revelation that unfolds within the mind help each other. The book supplies the map, and the Adjuster within helps us recognize what the map means. We return to the Thought Adjuster in detail in Week 10.",
+ "w01:205": "Epochal revelation and autorevelation — light from without and light from within (arranged by the author from 101:2.12 and 101:4.3)",
+ "w01:207": "New Words",
+ "w01:208": "**epochal revelation**: a great revelation given by celestial beings for an entire age. Urantia has received five.",
+ "w01:209": "**autorevelation**: truth made clear in a person's mind through the Thought Adjuster who dwells within.",
+ "w01:210": "**Planetary Prince**: the being entrusted with the spiritual government of a planet. Caligastia, the Planetary Prince of Urantia, joined the rebellion (Week 7).",
+ "w01:213": "5. The Four Parts and How to Read Them",
+ "w01:215": "A Map of the 196 Papers",
+ "w01:217": "The Urantia Book consists of the Foreword and 196 papers, which are divided into four parts. They move from the large to the small, descending from the center of all things to our own planet, and finally gathering around the life of Jesus. The Foreword shows the whole picture at once, right at the start.",
+ "w01:219": {
+  "q": "Your world, Urantia, is one of many similar inhabited planets which comprise the local universe of Nebadon. This universe, together with similar creations, makes up the superuniverse of Orvonton, from whose capital, Uversa, our commission hails. Orvonton is one of the seven evolutionary superuniverses of time and space which circle the never-beginning, never-ending creation of divine perfection—the central universe of Havona.",
+  "cit": "0:0.5"
+ },
+ "w01:221": "The next paragraph gives the whole a name.",
+ "w01:223": {
+  "q": "The seven evolving superuniverses in association with the central and divine universe, we commonly refer to as the grand universe; these are the now organized and inhabited creations. They are all a part of the master universe, which also embraces the uninhabited but mobilizing universes of outer space.",
+  "cit": "0:0.6"
+ },
+ "w01:225": "These two paragraphs contain the first three parts of the book. Part I deals with Paradise, Havona, and the seven superuniverses. Part II comes down to our local universe, Nebadon. Part III is the history of a single planet, Urantia. And Part IV tells how the Creator of that universe came to this small planet and lived as a man.",
+ "w01:227": "A map of the 196 papers of The Urantia Book — the four parts and the twelve weeks of this guide",
+ "w01:229": "How to Read",
+ "w01:231": "There is no need to read straight through from the first page. The Foreword, being a glossary, is the hardest part at first. A first-time reader can skim it, move on to Paper 1, and come back to it later. Many people are drawn to the life of Jesus and begin with Part IV.",
+ "w01:233": "The spirit in which we read matters too. Paper 103 likens the relationship between faith and reason to a journey.",
+ "w01:235": {
+  "q": "Faith most willingly carries reason along as far as reason can go and then goes on with wisdom to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of TRUTH.",
+  "cit": "103:9.7"
+ },
+ "w01:237": "Read thoughtfully, mark what you do not yet understand, and carry into life whatever you do understand. And Paper 5 says plainly what lies at the end of this road.",
+ "w01:239": {
+  "q": "To each of you and to all of us, God is approachable, the Father is attainable, the way is open…",
+  "cit": "5:1.8"
+ },
+ "w01:241": "That the way is open applies to everyone. Paper 32 describes what is promised to those who walk it.",
+ "w01:243": {
+  "q": "There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life. And the infinite treasures of such a matchless career are yours for the striving!",
+  "cit": "32:5.7"
+ },
+ "w01:245": "Now that we have studied the route map, it is time to board the train. Next week we meet the Universal Father, the First Source of everything in this story.",
+ "w01:247": "Clearing Up a Misunderstanding",
+ "w01:248": "**A common misunderstanding**: To read The Urantia Book, one must give up one's present faith or church.",
+ "w01:249": "**What The Urantia Book says**: The book states that it was built on the highest thoughts of God-knowing men and women (0:12.12). It aims to carry forward and enlarge the earlier revelations, above all the teachings of Jesus, not to erase them.",
+ "w01:253": "The question of God is the \"supreme adventure\" shared by the will creatures of the whole universe.",
+ "w01:254": "The Urantia Book consists of a Foreword and 196 papers; it was received in Chicago in the first half of the twentieth century and published in 1955.",
+ "w01:255": "The authors built on more than a thousand of the highest human concepts and used pure revelation only where humans had found no words.",
+ "w01:256": "Evolutionary religion is humanity's circuitous search for truth; revelatory religion is heaven's answer to that search.",
+ "w01:257": "There have been five epochal revelations: Dalamatia, Eden, Melchizedek of Salem, Jesus of Nazareth, and the Urantia Papers.",
+ "w01:258": "No revelation is complete, and the book's cosmology and scientific statements are not inspired. Religion is judged by its fruits.",
+ "w01:259": "The four parts move from the center of all things to the local universe, the history of Urantia, and the life of Jesus.",
+ "w01:263": "What question led you to open this book? How does it connect with the \"supreme adventure\" Paper 1 describes?",
+ "w01:264": "Revelation is always measured to \"man's capacity of receptivity\" (92:4.1). What light does this principle shed on the growth of your own faith?",
+ "w01:265": "Is a revelation that admits it is incomplete more trustworthy or less? Why?",
+ "w01:269": "Papers 1–5 — The Universal Father: who God is, and how we come to know Him",
+ "w02:1": "The Universal Father — Who Is God?",
+ "w02:2": "Paper 1 · Paper 2 · Paper 3 · Paper 4 · Paper 5",
+ "w02:3": "This week's map — from God as a person, through His attributes, His love and the ways of knowing Him, to the Father who lives within",
+ "w02:6": "The first five papers of The Urantia Book introduce God as One who is infinite and yet a person who can enter into fellowship with us — a Father. God is everywhere present, knows all things and does not change, but love guides every one of these attributes, and there is no God of wrath to be appeased with sacrifices. This God is known through experience more than through proof, and He already lives in each person by the spirit He has sent.",
+ "w02:9": "Opening Story",
+ "w02:11": "Ask a five-year-old what her father is like. She has little idea what he does at work or how much he owns. Yet she answers without a moment's hesitation: \"My dad loves me.\" She does not understand her father fully, but she knows him.",
+ "w02:13": "A person standing before God is much like that child. Papers 1 to 5 are full of large words — infinite, eternal, absolute — and it is fine not to grasp them all. The Divine Counselor who wrote these five papers wants, in the end, to say one sentence: God is your Father.",
+ "w02:15": "This week we look, step by step, at what this Father is like and at how we can come to know Him.",
+ "w02:17": "1. The Infinite One Meets Us as a Person",
+ "w02:19": "The First Source and Center",
+ "w02:21": "The name The Urantia Book uses most often for God is \"the Universal Father,\" and the name most widely used across the universe is \"the First Source and Center.\" Everything comes from Him, and everything turns around Him.",
+ "w02:23": {
+  "q": "The Universal Father is the God of all creation, the First Source and Center of all things and beings. First think of God as a creator, then as a controller, and lastly as an infinite upholder.",
+  "cit": "1:0.1"
+ },
+ "w02:25": "Creator, controller, upholder: God made the universe, governs it, and holds it in being even now. Yet Paper 1 does not make much of the name itself.",
+ "w02:27": {
+  "q": "The name he is given is of little importance; the significant thing is that you should know him and aspire to be like him.",
+  "cit": "1:1.6"
+ },
+ "w02:29": "God Is a Person",
+ "w02:31": "To say that God is infinite can easily make Him feel like a cold force or a vast law. Paper 1 heads off that misunderstanding first.",
+ "w02:33": {
+  "q": "Do not permit the magnitude of God, his infinity, either to obscure or eclipse his personality. \"He who planned the ear, shall he not hear? He who formed the eye, shall he not see?\" The Universal Father is the acme of divine personality.",
+  "cit": "1:5.1"
+ },
+ "w02:35": "Personality is the key word of this week. Calling God a person does not mean He has a body like ours. It means He is self-aware, He wills and purposes, and He knows us and can share fellowship with us.",
+ "w02:37": {
+  "q": "Notwithstanding that God is an eternal power, a majestic presence, a transcendent ideal, and a glorious spirit, though he is all these and infinitely more, nonetheless, he is truly and everlastingly a perfect Creator personality, a person who can \"know and be known,\" who can \"love and be loved,\" and one who can befriend us; while you can be known, as other humans have been known, as the friend of God.",
+  "cit": "1:5.8"
+ },
+ "w02:39": "The sentence climbs through one lofty phrase after another, then turns on the word \"nonetheless\" and arrives at \"friend.\" Paper 1, section 7, explains why personality matters so much.",
+ "w02:41": {
+  "q": "The concept of the personality of Deity facilitates fellowship; it favors intelligent worship; it promotes refreshing trustfulness. Interactions can be had between nonpersonal things, but not fellowship. The fellowship relation of father and son, as between God and man, cannot be enjoyed unless both are persons.",
+  "cit": "1:7.1"
+ },
+ "w02:43": "The sun and the earth pull on each other, but they do not miss each other. Because both God and man are persons, something more than attraction is possible between them: fellowship. And that fellowship is not a path on which the self disappears.",
+ "w02:45": {
+  "q": "Man does not achieve union with God as a drop of water might find unity with the ocean. Man attains divine union by progressive reciprocal spiritual communion, by personality intercourse with the personal God, by increasingly attaining the divine nature through wholehearted and intelligent conformity to the divine will.",
+  "cit": "1:7.2"
+ },
+ "w02:47": "When a drop of water melts into the sea, the drop is gone. The oneness The Urantia Book describes is different. Each person remains himself to the end, growing more and more like the Father.",
+ "w02:49": "How the Infinite Draws Near",
+ "w02:51": "But how can the Infinite enter into fellowship with a finite human being? Paper 2 answers that God, out of love, steps down His own infinity.",
+ "w02:53": {
+  "q": "In these ways and in many others, in ways unknown to you and utterly beyond finite comprehension, does the Paradise Father lovingly and willingly downstep and otherwise modify, dilute, and attenuate his infinity in order that he may be able to draw nearer the finite minds of his creature children.",
+  "cit": "2:1.8"
+ },
+ "w02:55": "\"These ways\" are the three paths named in the paragraph just before.",
+ "w02:57": {
+  "q": "First, in the personalities of the Paradise Sons of God, who, although perfect in divinity, also often partake of the nature of the very flesh and blood of the planetary races, becoming one of you and one with you; … And second, there are the personalities of the Infinite Spirit, the various orders of the seraphic hosts and other celestial intelligences who draw near to the material beings of lowly origin and in so many ways minister to them and serve them. And third, there are the impersonal Mystery Monitors, Thought Adjusters, the actual gift of the great God himself sent to indwell such as the humans of Urantia, sent without announcement and without explanation.",
+  "cit": "2:1.7"
+ },
+ "w02:59": "Paper 5 adds one more: the personality circuit, which links every personality directly to the Father (5:6.10). The figure below gathers these paths into a single picture.",
+ "w02:61": "How the infinite Father draws near to us (the author's summary, based on 2:1.7-8 and 5:6.10)",
+ "w02:63": "New Words",
+ "w02:64": "**First Source and Center**: The name most commonly used for God throughout the universe. It means that all things come from Him and revolve around Him.",
+ "w02:65": "**Personality**: What makes a being self-conscious, able to choose, and able to share fellowship with others. Only the Universal Father bestows personality (5:6.4).",
+ "w02:66": "**Creator Son**: A Son of God who makes and rules a local universe. Michael of Nebadon, the Creator Son of our universe, came to this world as Jesus.",
+ "w02:67": "**Eternal Son and Infinite Spirit**: The two Persons who, with the Universal Father, form the Paradise Trinity. We meet them in Week 3.",
+ "w02:70": "2. The Attributes of God — Everywhere Present, All-Knowing, Unchanging",
+ "w02:72": "Papers 2 and 3 go through the attributes of God one by one — the traits that show what kind of Being God is. With each word, The Urantia Book also explains what it means for our relationship with Him.",
+ "w02:74": "The attributes of God at a glance — love stands at the center of them all (the author's summary, based on Papers 2–4)",
+ "w02:76": "Everywhere Present",
+ "w02:78": {
+  "q": "The ability of the Universal Father to be everywhere present, and at the same time, constitutes his omnipresence. God alone can be in two places, in numberless places, at the same time.",
+  "cit": "3:1.1"
+ },
+ "w02:80": "If God is everywhere, why do some people feel Him near and others feel Him far away? Paper 3 answers that the difference lies on our side, not His.",
+ "w02:82": {
+  "q": "The fluctuations of the Father's presence are not due to the changeableness of God. The Father does not retire in seclusion because he has been slighted; his affections are not alienated because of the creature's wrongdoing. Rather, having been endowed with the power of choice (concerning Himself), his children, in the exercise of that choice, directly determine the degree and limitations of the Father's divine influence in their own hearts and souls.",
+  "cit": "3:1.12"
+ },
+ "w02:84": "Sunlight falls evenly on every house, but how bright a room becomes depends on how wide its windows are opened. The presence of God is like that.",
+ "w02:86": "All-Knowing",
+ "w02:88": "That God knows everything can sound like an eye that watches and records. Paper 3 invites us to hear it as comfort instead.",
+ "w02:90": {
+  "q": "And it should be a real comfort to every human being to understand that \"he knows your frame; he remembers that you are dust.\" Jesus, speaking of the living God, said, \"Your Father knows what you have need of even before you ask him.\"",
+  "cit": "3:3.2"
+ },
+ "w02:92": "The One who knows us completely does not know us in order to condemn, but in order to remember our weakness. What, then, becomes of human freedom?",
+ "w02:94": {
+  "q": "But even if God should foreknow the freewill acts of his children, such foreknowledge does not in the least abrogate their freedom. One thing is certain: God is never subjected to surprise.",
+  "cit": "3:3.4"
+ },
+ "w02:96": "All-Powerful",
+ "w02:98": "Omnipotence means there is nothing God cannot do. Yet Paper 3 also makes clear what omnipotence does not mean.",
+ "w02:100": {
+  "q": "Omnipotence does not imply the power to do the nondoable, the ungodlike act. Neither does omniscience imply the knowing of the unknowable.",
+  "cit": "3:3.5"
+ },
+ "w02:102": "God's power is limited only by His own nature, His will, and His law (3:2.11-14). That He never acts against love is not weakness; it is simply God being God.",
+ "w02:104": "Unchanging",
+ "w02:106": {
+  "q": "No thing is new to God, and no cosmic event ever comes as a surprise; he inhabits the circle of eternity. He is without beginning or end of days. To God there is no past, present, or future; all time is present at any given moment.",
+  "cit": "2:1.5"
+ },
+ "w02:108": "Unchanging does not mean frozen. Paper 4 makes the point plainly.",
+ "w02:110": {
+  "q": "And God can thus modify the manifestations of his absoluteness because divine immutability does not imply immobility; God has will—he is will.",
+  "cit": "4:4.2"
+ },
+ "w02:112": "God's purposes never change, but the ways He carries them out are alive and responsive. A good parent's love stays the same, while the way that love is shown changes as the child grows.",
+ "w02:114": "The attributes of God and what they mean (the author's summary, based on Papers 2–4)",
+ "w02:115": [
+  "Attribute",
+  "Meaning",
+  "What it means for us",
+  "Basis"
+ ],
+ "w02:117": [
+  "Omnipresence",
+  "Present everywhere at once",
+  "How near He feels depends on my choice",
+  "3:1.1, 3:1.12"
+ ],
+ "w02:118": [
+  "Omniscience",
+  "Knows all things",
+  "Comfort: He remembers my weakness, and my freedom stays intact",
+  "3:3.2-4"
+ ],
+ "w02:119": [
+  "Omnipotence",
+  "Holds all power",
+  "Never does the ungodlike",
+  "3:2.11-14, 3:3.5"
+ ],
+ "w02:120": [
+  "Immutability",
+  "Purpose eternally the same",
+  "Not rigid, but a living will",
+  "2:1.5, 4:4.2"
+ ],
+ "w02:121": [
+  "Love",
+  "The nature that guides every attribute",
+  "He loves as a father",
+  "2:5.1, 2:6.4"
+ ],
+ "w02:123": "When the Infinite Is Beyond Us",
+ "w02:125": "Following the attributes one after another can leave the head heavy. For such a reader, Paper 3 leaves a single, freeing sentence.",
+ "w02:127": {
+  "q": "Mortal man cannot possibly know the infinitude of the heavenly Father. Finite mind cannot think through such an absolute truth or fact. But this same finite human being can actually feel—literally experience—the full and undiminished impact of such an infinite Father's LOVE.",
+  "cit": "3:4.6"
+ },
+ "w02:129": "Think again of the child in the opening story. Understanding everything about a father and being loved by him are two different things. The first would take a lifetime and still not be finished; the second can begin today.",
+ "w02:131": "Clearing Up a Misunderstanding",
+ "w02:132": "**A common misunderstanding**: Since God is all-powerful, every accident or misfortune that comes to me must have been sent by Him directly.",
+ "w02:133": "**What The Urantia Book says**: The Father rules the universe through His Sons and many other personalities (3:5.2), and on the evolutionary worlds much happens that is not the Father's own personal act (3:2.10).",
+ "w02:136": "New Words",
+ "w02:137": "**Omnipresence**: Being present everywhere at the same time — the word used in 3:1.1.",
+ "w02:138": "**Omniscience and omnipotence**: Knowing all things and holding all power. Both are understood within the nature of God.",
+ "w02:139": "**Immutability**: God's purpose and nature do not change. This is different from immobility, the inability to move or act.",
+ "w02:142": "3. God Is Love — There Is No God of Wrath",
+ "w02:144": "Love Guides Every Attribute",
+ "w02:146": "If only one item could remain on the list of God's attributes, The Urantia Book would keep love.",
+ "w02:148": {
+  "q": "\"God is love\"; therefore his only personal attitude towards the affairs of the universe is always a reaction of divine affection. The Father loves us sufficiently to bestow his life upon us.",
+  "cit": "2:5.1"
+ },
+ "w02:150": "No one had to persuade Him into this love.",
+ "w02:152": {
+  "q": "God is inherently kind, naturally compassionate, and everlastingly merciful. And never is it necessary that any influence be brought to bear upon the Father to call forth his loving-kindness. The creature's need is wholly sufficient to insure the full flow of the Father's tender mercies and his saving grace. Since God knows all about his children, it is easy for him to forgive.",
+  "cit": "2:4.2"
+ },
+ "w02:154": "A child with a fever does not have to offer anything to receive a mother's care. Being sick is reason enough. Paper 2 also tells us who revealed this love most clearly.",
+ "w02:156": {
+  "q": "The concept of God as a king-judge, although it fostered a high moral standard and created a law-respecting people as a group, left the individual believer in a sad position of insecurity respecting his status in time and in eternity. The later Hebrew prophets proclaimed God to be a Father to Israel; Jesus revealed God as the Father of each human being. … God loves not like a father, but as a father.",
+  "cit": "2:6.4"
+ },
+ "w02:158": "\"Like a father\" is a comparison; \"as a father\" is a fact. The name Father is not a figure of speech but the real relationship itself. How does a person respond on discovering this love?",
+ "w02:160": {
+  "q": "As you ponder the loving nature of God, there is only one reasonable and natural personality reaction thereto: You will increasingly love your Maker; you will yield to God an affection analogous to that given by a child to an earthly parent.",
+  "cit": "2:5.9"
+ },
+ "w02:162": "The experience of being loved comes before any command to love. Love grows as an answer to love.",
+ "w02:164": "Love Is Not Sentimentality",
+ "w02:166": "This does not mean that God's love simply gives in to every wish.",
+ "w02:168": {
+  "q": "But the love of God is an intelligent and farseeing parental affection. The divine love functions in unified association with divine wisdom and all other infinite characteristics of the perfect nature of the Universal Father. God is love, but love is not God.",
+  "cit": "2:5.10"
+ },
+ "w02:170": "Wisdom and justice stand alongside God's love. Paper 2 is clear that what is sown is reaped (2:3.2). And Paper 3 offers a way of seeing the hardships we pass through.",
+ "w02:172": {
+  "q": "We are all a part of the family of God, and we must therefore sometimes share in the family discipline.",
+  "cit": "3:2.9"
+ },
+ "w02:174": "Paper 3 goes a step further and explains, through nine questions, why this world holds difficulty and uncertainty at all. Here are two of them.",
+ "w02:176": {
+  "q": "1. Is courage—strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments.",
+  "cit": "3:5.6"
+ },
+ "w02:178": {
+  "q": "4. Is faith—the supreme assertion of human thought—desirable? Then must the mind of man find itself in that troublesome predicament where it ever knows less than it can believe.",
+  "cit": "3:5.9"
+ },
+ "w02:180": "Courage does not grow where there is no danger, nor faith where everything is already known. The beings of Havona, perfect from the start, never know this kind of courage and faith (3:5.17). The passage lets us see hardship not as punishment but as a place of growth.",
+ "w02:182": "There Is No God of Wrath",
+ "w02:184": "Now comes the most decisive sentence of the week.",
+ "w02:186": {
+  "q": "God is never wrathful, vengeful, or angry. It is true that wisdom does often restrain his love, while justice conditions his rejected mercy.",
+  "cit": "2:6.7"
+ },
+ "w02:188": "Where did the picture of a deity who must be soothed with offerings come from? Paper 4 calls it a relic of primitive religion, which read thunder and flood as the anger of the gods (4:5.3).",
+ "w02:190": {
+  "q": "The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. … It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath.",
+  "cit": "4:5.4"
+ },
+ "w02:192": "The figure below traces how human ideas of God grew from fear toward love. At the end of that road, Jesus showed God to be the Father of each person.",
+ "w02:194": "The growth of the idea of God — from a God of fear to a Father of love (the author's summary, based on 2:6.4, 4:5.3-5 and 5:4.1)",
+ "w02:196": {
+  "q": "The affectionate heavenly Father, whose spirit indwells his children on earth, is not a divided personality—one of justice and one of mercy—neither does it require a mediator to secure the Father's favor or forgiveness. … God as a father transcends God as a judge.",
+  "cit": "2:6.6"
+ },
+ "w02:198": "In God, justice and mercy do not quarrel. He is not One between whom and us someone must pay a price. Nor does He take sin lightly.",
+ "w02:200": {
+  "q": "God loves the sinner because he is a personality reality (potentially eternal) … The love of God saves the sinner; the law of God destroys the sin.",
+  "cit": "2:6.8"
+ },
+ "w02:202": "Love is directed toward the person, law toward the sin. The two do not stand against each other.",
+ "w02:204": "Clearing Up a Misunderstanding",
+ "w02:205": "**A common misunderstanding**: God was angered by sin, and He could forgive only after someone shed blood to pay the price.",
+ "w02:206": "**What The Urantia Book says**: God's love is not drawn out by the sacrifices of His Sons (2:5.2). Jesus' life on earth was not required to win God's favor, and the teaching that mercy was granted only after the death on Calvary distorts the character of God (4:5.6). We return to the meaning of Jesus' death in Week 12.",
+ "w02:209": "Alongside the Bible",
+ "w02:210": "The First Epistle of John confesses that \"God is love\" (1 John 4:8). Paper 2 cites Jesus' words that the Father \"maketh his sun to rise on the evil and on the good\" (Matthew 5:45) as evidence of God's love (2:5.1). In the parable of the prodigal son, the father \"ran, and fell on his neck, and kissed him\" (Luke 15:20). The son had paid nothing at all.",
+ "w02:213": "4. Ways of Knowing God — Nature, Reason, Revelation, and Experience",
+ "w02:215": "How can we come to know this God? Gathering the answers scattered through Papers 1 to 5 gives us four paths.",
+ "w02:217": "Four ways of knowing God — what each gives and where each falls short (the author's summary, based on Papers 1, 4 and 5)",
+ "w02:219": "Nature, the Footprints of God",
+ "w02:221": "It is natural to think of God when looking at the night sky or a field of wildflowers. Paper 1 affirms this path too.",
+ "w02:223": {
+  "q": "… it is true that \"the invisible things of God are partially understood by the things which are made.\"",
+  "cit": "1:5.3"
+ },
+ "w02:225": "But the word \"partially\" deserves attention. Nature carries both the incompleteness of evolution and the scars of rebellion, so it cannot mirror God perfectly.",
+ "w02:227": {
+  "q": "The apparent defects of the natural world are not indicative of any such corresponding defects in the character of God. Rather are such observed imperfections merely the inevitable stop-moments in the exhibition of the ever-moving reel of infinity picturization.",
+  "cit": "4:2.7"
+ },
+ "w02:229": {
+  "q": "No, nature is not God. Nature is not an object of worship.",
+  "cit": "4:2.8"
+ },
+ "w02:231": "Judging God by earthquakes and disease alone is like judging a whole film from a single frozen frame.",
+ "w02:233": "Reason, as Far as the First Cause",
+ "w02:235": "Reason can lead us to the door of God, but it cannot open the door.",
+ "w02:237": {
+  "q": "The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival.",
+  "cit": "1:2.7"
+ },
+ "w02:239": "That God cannot be proved does not make belief in Him unreasonable. It only means that reason alone cannot take us all the way.",
+ "w02:241": "Revelation, That the First Cause Is a Father",
+ "w02:243": "Science, philosophy and religion each give God a different name. Revelation is what joins those names into one.",
+ "w02:245": {
+  "q": "In science, God is the First Cause; in religion, the universal and loving Father; in philosophy, the one being who exists by himself … But it requires revelation to show that the First Cause of science and the self-existent Unity of philosophy are the God of religion, full of mercy and goodness and pledged to effect the eternal survival of his children on earth.",
+  "cit": "4:4.7"
+ },
+ "w02:247": "Three standpoints for viewing God (the author's summary, based on 1:6.2, 4:4.7 and 5:5.3)",
+ "w02:248": [
+  "Standpoint",
+  "God is",
+  "What it offers",
+  "What it cannot show by itself"
+ ],
+ "w02:250": [
+  "Science",
+  "The First Cause, the primal force",
+  "The order and laws of the universe",
+  "Whether that Cause loves me"
+ ],
+ "w02:251": [
+  "Philosophy",
+  "The idea of unity, the One who exists by Himself",
+  "A thought that binds all things together",
+  "Whether He is One we can know as a friend"
+ ],
+ "w02:252": [
+  "Religion",
+  "A person, the loving heavenly Father",
+  "Living spiritual experience",
+  "Confirmed through revelation and experience"
+ ],
+ "w02:254": "Experience: Those Who Know God Have Met Him",
+ "w02:256": "Of the four paths, the last and the surest is experience.",
+ "w02:258": {
+  "q": "Those who know God have experienced the fact of his presence; such God-knowing mortals hold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another.",
+  "cit": "1:2.8"
+ },
+ "w02:260": "This experience is not a vague feeling. Paper 1 names the signs that God's spirit is present within.",
+ "w02:262": {
+  "q": "The actuality of the existence of God is demonstrated in human experience by the indwelling of the divine presence, the spirit Monitor sent from Paradise to live in the mortal mind of man and there to assist in evolving the immortal soul of eternal survival. The presence of this divine Adjuster in the human mind is disclosed by three experiential phenomena:",
+  "cit": "1:2.3"
+ },
+ "w02:264": {
+  "q": "1. The intellectual capacity for knowing God—God-consciousness. 2. The spiritual urge to find God—God-seeking. 3. The personality craving to be like God—the wholehearted desire to do the Father's will.",
+  "cit": "1:2.4-6"
+ },
+ "w02:266": "Wherever there is already a wish to think about God, to seek Him, and to become like Him, that wish is itself evidence that God is near.",
+ "w02:268": {
+  "q": "You can argue over opinions about God, but experience with him and in him exists above and beyond all human controversy and mere intellectual logic.",
+  "cit": "1:6.6"
+ },
+ "w02:270": "New Words",
+ "w02:271": "**God-consciousness**: The mind's capacity to recognize God and think about Him. Paper 1 names it as the first sign of the indwelling Adjuster.",
+ "w02:272": "**Providence**: The interlocking work of celestial beings and divine spirits carrying out God's will. Paper 4 says that providence is not childish, arbitrary miracle-working (4:1.1).",
+ "w02:275": "5. The Father Within — God and the Individual",
+ "w02:277": "No Need to Search Far Away",
+ "w02:279": "Paper 5 turns to the relationship between God and each individual person.",
+ "w02:281": {
+  "q": "The indwelling Thought Adjusters are a part of the eternal Deity of the Paradise Father. Man does not have to go farther than his own inner experience of the soul's contemplation of this spiritual-reality presence to find God and attempt communion with him.",
+  "cit": "5:0.1"
+ },
+ "w02:283": "We meet God most surely in the \"fragment of God\" we saw in Week 1 — the Thought Adjuster.",
+ "w02:285": {
+  "q": "The divine presence cannot, however, be discovered anywhere in nature or even in the lives of God-knowing mortals so fully and so certainly as in your attempted communion with the indwelling Mystery Monitor, the Paradise Thought Adjuster. What a mistake to dream of God far off in the skies when the spirit of the Universal Father lives within your own mind!",
+  "cit": "5:2.3"
+ },
+ "w02:287": "Nature is precious, and so is the faith of others, but the nearest path is the one that leads inward. Paper 2 calls this indwelling gift the greatest evidence of God's love.",
+ "w02:289": {
+  "q": "After all, the greatest evidence of the goodness of God and the supreme reason for loving him is the indwelling gift of the Father—the Adjuster who so patiently awaits the hour when you both shall be eternally made one. Though you cannot find God by searching, if you will submit to the leading of the indwelling spirit, you will be unerringly guided, step by step, life by life, through universe upon universe, and age by age, until you finally stand in the presence of the Paradise personality of the Universal Father.",
+  "cit": "2:5.5"
+ },
+ "w02:291": "The way opens less through our own effort to find Him than through entrusting ourselves to the spirit within.",
+ "w02:293": "The Same for Everyone",
+ "w02:295": "Does this path favor the clever or the well-off? Paper 5 says no.",
+ "w02:297": {
+  "q": "However Urantia mortals may differ in their intellectual, social, economic, and even moral opportunities and endowments, forget not that their spiritual endowment is uniform and unique. They all enjoy the same divine presence of the gift from the Father, and they are all equally privileged to seek intimate personal communion with this indwelling spirit of divine origin, while they may all equally choose to accept the uniform spiritual leading of these Mystery Monitors.",
+  "cit": "5:1.5"
+ },
+ "w02:299": {
+  "q": "Our Father is not in hiding; he is not in arbitrary seclusion. He has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains.",
+  "cit": "5:1.2"
+ },
+ "w02:301": "The Father does not play hide-and-seek. The door stands open, equally, for everyone.",
+ "w02:303": "Worship and Prayer",
+ "w02:305": "How is this relationship lived out? Paper 5 distinguishes worship from prayer.",
+ "w02:307": {
+  "q": "Worship is for its own sake; prayer embodies a self- or creature-interest element; that is the great difference between worship and prayer. There is absolutely no self-request or other element of personal interest in true worship; we simply worship God for what we comprehend him to be.",
+  "cit": "5:3.3"
+ },
+ "w02:309": "Worship and prayer (the author's summary, based on 5:3.1-5)",
+ "w02:310": [
+  "Point of comparison",
+  "Worship",
+  "Prayer"
+ ],
+ "w02:312": [
+  "Character",
+  "For its own sake",
+  "Carries my needs and the needs of others"
+ ],
+ "w02:313": [
+  "What it seeks",
+  "Asks and expects nothing in return",
+  "Seeks help and guidance"
+ ],
+ "w02:314": [
+  "Directed to",
+  "The Universal Father",
+  "The Eternal Son or the Creator Son (may also be addressed to the Father)"
+ ],
+ "w02:315": [
+  "Motive",
+  "A response to the Father's personality and nature",
+  "The real problems of life"
+ ],
+ "w02:317": "Worship is less like going to a parent to ask for something and more like simply sitting beside a parent because we love being there. Prayer, too, may be offered to the Father as part of worship (5:3.4).",
+ "w02:319": "The Choice Is Ours",
+ "w02:321": "The Father has prepared everything, but one thing He will not do in our place: choose.",
+ "w02:323": {
+  "q": "God provides for the sovereign choice of all true personalities. No personal creature can be coerced into the eternal adventure; the portal of eternity opens only in response to the freewill choice of the freewill sons of the God of free will.",
+  "cit": "5:6.12"
+ },
+ "w02:325": "Love that is forced is not love. So the Father leaves the door open and waits. Paper 1 says that this very choice is what a person can give to God.",
+ "w02:327": {
+  "q": "The affectionate dedication of the human will to the doing of the Father's will is man's choicest gift to God; in fact, such a consecration of creature will constitutes man's only possible gift of true value to the Paradise Father.",
+  "cit": "1:1.2"
+ },
+ "w02:329": "The one gift we can offer to the One who has everything is our own will. And whoever walks this road does not walk alone.",
+ "w02:331": {
+  "q": "The great God makes direct contact with mortal man and gives a part of his infinite and eternal and incomprehensible self to live and dwell within him. God has embarked upon the eternal adventure with man.",
+  "cit": "5:1.12"
+ },
+ "w02:333": "There, too, is a place to lean when our own strength runs short.",
+ "w02:335": {
+  "q": "Even if I cannot do this, there lives in me one who can and will do it, a part of the Father-Absolute of the universe of universes. And that is \"the victory which overcomes the world, even your faith.\"",
+  "cit": "4:4.9"
+ },
+ "w02:337": "At the close of this long account spanning five papers, the Divine Counselor returns to the one sentence with which we began.",
+ "w02:339": {
+  "q": "And when all is said and done, I can do nothing more helpful than to reiterate that God is your universe Father, and that you are all his planetary children.",
+  "cit": "5:6.13"
+ },
+ "w02:341": "We are back with the child of the opening story: not understanding everything, yet knowing the Father. Next week we move on to the Eternal Son and the Infinite Spirit, who are with the Father, and to the center of the universe.",
+ "w02:343": "New Words",
+ "w02:344": "**Mystery Monitor**: Another name for the Thought Adjuster, which dwells within a person and helps the soul grow.",
+ "w02:345": "**Personality circuit**: The connection that links every personality directly to the Universal Father. The worship of all personalities reaches the Father through this circuit (5:6.11).",
+ "w02:346": "**Worship**: A response offered to God that asks for nothing and simply delights in Him as He is.",
+ "w02:350": "The Universal Father is the First Source and Center of all things — Creator, controller, and upholder.",
+ "w02:351": "God is infinite and yet a person, so we can share fellowship with Him and become His friends.",
+ "w02:352": "God draws near to us through His Sons, the angels, the indwelling Adjuster, and the personality circuit.",
+ "w02:353": "Omnipresence, omniscience, omnipotence and immutability are all to be understood within love.",
+ "w02:354": "God is never wrathful or vengeful. The idea of appeasing God with sacrifices belongs to primitive religion.",
+ "w02:355": "Nature and reason offer clues, but that the First Cause is a loving Father is known through revelation and experience.",
+ "w02:356": "The Father's spirit already lives within each person, and the choice to walk that path is ours.",
+ "w02:360": "Which stage in Figure 4 is closest to the picture of God you have held until now? What has changed after reading Papers 1 to 5?",
+ "w02:361": "What difference does the statement \"God loves not like a father, but as a father\" (2:6.4) make in your own life of faith?",
+ "w02:362": "Have you ever worshiped in the way 5:3.3 describes — asking for nothing and simply delighting in God as He is? If you set aside such a time today, how would you spend it?",
+ "w02:366": "Papers 6–15 — The Eternal Son and the Infinite Spirit, the Paradise Trinity, the eternal Isle of Paradise, Havona and the seven superuniverses",
+ "w03:1": "The Center of the Universe — Trinity, Paradise, Havona",
+ "w03:2": "Papers 6–15 (mainly Paper 6:2–3 · Paper 8:1, 4 · Paper 10:3–4 · Paper 11:1, 9 · Paper 12:1, 3 · Paper 14:0, 5 · Paper 15:2, 14)",
+ "w03:3": "This week's map — from the original family to Paradise, Havona and the seven superuniverses, and on to the four circuits that hold the universe together",
+ "w03:6": "The Universal Father we met last week is not alone. The Eternal Son and the Infinite Spirit have been with the Father from eternity, and the three are one as the Paradise Trinity. Their home, the eternal Isle of Paradise, is encircled by Havona, a billion perfect worlds, and beyond Havona the seven superuniverses swing around the center. Our own planet lies near the outer edge of the seventh. This week we draw this vast structure as a single map and look at the four circuits that hold it all together.",
+ "w03:9": "Opening Story",
+ "w03:11": "Many of us, as children, once wrote out our address on the first page of a notebook and kept on going. We started with the house number, then the street, the town, the country, and finally \"Asia, Earth, the Solar System, the Milky Way, the Universe.\" But that last line always felt vague. What lies beyond the universe? Does the universe even have a center?",
+ "w03:13": "Papers 6 to 15, in Part I of The Urantia Book, fill in that last line. The universe does have a center, and the center is not empty. There stands a home where the Father, the Son, and the Spirit dwell together.",
+ "w03:15": "Last week we saw who the Universal Father is. This week we follow, step by step, His family, His home, and the long address that runs from that home all the way out to our planet. There are many numbers and names, but none of them need to be memorized. It is enough to be able to sketch one large picture.",
+ "w03:17": "1. The Original Family — Father, Eternal Son, Infinite Spirit",
+ "w03:19": "The Son Who Shows Us the Father",
+ "w03:21": "The Urantia Book presents God as three persons: God the Father, God the Son, and God the Spirit. It also calls them, in order, the First, Second, and Third Source and Center. Paper 6 introduces the second of these, the Eternal Son, like this:",
+ "w03:23": {
+  "q": "The Eternal Son is the perfect and final expression of the \"first\" personal and absolute concept of the Universal Father. Accordingly, whenever and however the Father personally and absolutely expresses himself, he does so through his Eternal Son, who ever has been, now is, and ever will be, the living and divine Word.",
+  "cit": "6:0.1"
+ },
+ "w03:25": "Why is \"first\" in quotation marks? The very next paragraph explains.",
+ "w03:27": {
+  "q": "In the sequential sense the Universal Father never could have had a first thought, nor could the Eternal Son ever have had a beginning. But I was instructed to portray the realities of eternity to the time-limited minds of mortals by such symbols of thought and to designate the relationships of eternity by such time concepts of sequentiality.",
+  "cit": "6:0.2"
+ },
+ "w03:29": "Words like \"before\" and \"after\" are borrowed so that we, who live in time, can follow along. The Son is the Father's thought coming forth as a Word. That is why, looking at the Son, we see the Father.",
+ "w03:31": {
+  "q": "The Eternal Son is the eternal Word of God. He is wholly like the Father; in fact, the Eternal Son is God the Father personally manifest to the universe of universes. And thus it was and is and forever will be true of the Eternal Son and of all the co-ordinate Creator Sons: \"He who has seen the Son has seen the Father.\"",
+  "cit": "6:2.2"
+ },
+ "w03:33": "How, then, do the Father and the Son differ? Paper 6 answers with two words, love and mercy.",
+ "w03:35": {
+  "q": "God is love, the Son is mercy. Mercy is applied love, the Father's love in action in the person of his Eternal Son. The love of this universal Son is likewise universal. As love is comprehended on a sex planet, the love of God is more comparable to the love of a father, while the love of the Eternal Son is more like the affection of a mother.",
+  "cit": "6:3.5"
+ },
+ "w03:37": "Mercy is love reaching out its hand. The love of the two differs not in what it is but only in the way it is expressed.",
+ "w03:39": {
+  "q": "In divine goodness I discern no difference between the Father and the Son. The Father loves his universe children as a father; the Eternal Son looks upon all creatures both as father and as brother.",
+  "cit": "6:2.8"
+ },
+ "w03:41": "Does the Son, then, have to persuade the Father before mercy can be given? Paper 6 says a firm no.",
+ "w03:43": {
+  "q": "How wrong to envisage the Eternal Son as appealing to the Universal Father to show mercy to his lowly creatures on the material worlds of space! Such concepts of God are crude and grotesque. … The Father's love is the real and eternal source of the Son's mercy.",
+  "cit": "6:3.4"
+ },
+ "w03:45": "Clearing Up a Misunderstanding",
+ "w03:46": "**A common misunderstanding**: God judges sternly, and the Son stands between us and the Father, calming His anger and winning mercy for us.",
+ "w03:47": "**What The Urantia Book says**: The Son's mercy flows out of the Father's love (6:3.4). The picture of a Father who hesitates to be merciful and a Son who talks Him into it is called a \"crude and grotesque\" concept.",
+ "w03:50": "The Son does not live within us, yet He surrounds us at all times.",
+ "w03:52": {
+  "q": "And as the spirit fragment of the Father dwells within you, so does the spirit presence of the Son envelop you, while these two forever work as one for your spiritual advancement.",
+  "cit": "6:5.7"
+ },
+ "w03:54": "The Spirit Who Acts",
+ "w03:56": "The third person is the Infinite Spirit. When the Father and the Son together willed a single infinite action, the Infinite Spirit became personal. This is why he is also called the Conjoint Actor and the God of Action. Paper 8 paints that moment like a curtain rising on a great stage.",
+ "w03:58": {
+  "q": "In the eternity of the past, upon the personalization of the Infinite Spirit the divine personality cycle becomes perfect and complete. The God of Action is existent, and the vast stage of space is set for the stupendous drama of creation—the universal adventure—the divine panorama of the eternal ages.",
+  "cit": "8:1.1"
+ },
+ "w03:60": "Paper 8 then gathers the character of all three into one sentence. If only one sentence from this week is remembered, let it be this one.",
+ "w03:62": {
+  "q": "God is love, the Son is mercy, the Spirit is ministry—the ministry of divine love and endless mercy to all intelligent creation. The Spirit is the personification of the Father's love and the Son's mercy; in him are they eternally united for universal service.",
+  "cit": "8:4.2"
+ },
+ "w03:64": "Ministry means caring for and serving others at their side. Love becomes mercy, mercy becomes service, and so it reaches the creature. Yet the way this exalted Spirit comes to us is astonishingly humble.",
+ "w03:66": {
+  "q": "In these local creations the Spirit does not come down to the material races in the likeness of mortal flesh as do certain of the Sons of God, but the Infinite Spirit and his co-ordinate Spirits do downstep themselves, do joyfully undergo an amazing series of divinity attenuations, until they appear as angels to stand by your side and guide you through the lowly paths of earthly existence.",
+  "cit": "8:4.5"
+ },
+ "w03:68": "Children of the Son sometimes come in human flesh; children of the Spirit come as angels who stand at our side. Behind the countless angels we will meet in Weeks 4 and 5 stands the Infinite Spirit, who humbled himself in just this way.",
+ "w03:70": "Three, Yet One",
+ "w03:72": "Each of the three is a complete person, and yet they are one. The Urantia Book calls this oneness the Paradise Trinity. Paper 10 describes how the three work together in terms of word and act.",
+ "w03:74": {
+  "q": "The divine Sons are indeed the \"Word of God,\" but the children of the Spirit are truly the \"Act of God.\" God speaks through the Son and, with the Son, acts through the Infinite Spirit",
+  "cit": "10:3.3"
+ },
+ "w03:76": "Rather than straining to work out every detail of how the three relate, Paper 6 asks us to remember one simple thing.",
+ "w03:78": {
+  "q": "In the administration of the universes they are so intertwined and interrelated that it is not always possible to distinguish between them. … merely recall that God is the initiating thought and the Son is the expressionful word.",
+  "cit": "6:8.3"
+ },
+ "w03:80": "Add the Spirit, and the Spirit is the act that carries out that thought and word. Just as thought, word, and deed are one in a single person, so the three are one. This does not mean, however, that three Gods sit together and confer.",
+ "w03:82": {
+  "q": "The Paradise Trinity is real. It exists as the Deity union of Father, Son, and Spirit; … The Father, Son, and Spirit can collaborate in a non-Trinity manner, but not as three Deities. As persons they can collaborate as they choose, but that is not the Trinity.",
+  "cit": "10:4.4"
+ },
+ "w03:84": "The author of Paper 10 goes so far as to call the Trinity the only thing in the universe that had to be.",
+ "w03:86": {
+  "q": "From the present situation on the circle of eternity, looking backward into the endless past, we can discover only one inescapable inevitability in universe affairs, and that is the Paradise Trinity.",
+  "cit": "10:0.3"
+ },
+ "w03:88": "Because the Father shared Himself without reserve with the Son and the Spirit, the universe has had a family from the very beginning. It did not begin as the monologue of a lonely One, but as a conversation among three who love one another.",
+ "w03:90": "The original family — thought, word and act; love, mercy and ministry (the author's summary based on 6:0.1, 6:8.3, 8:1, 8:4.2)",
+ "w03:92": "The three divine persons at a glance (the author's summary based on Papers 6–10)",
+ "w03:93": [
+  "Point of comparison",
+  "Universal Father",
+  "Eternal Son",
+  "Infinite Spirit"
+ ],
+ "w03:95": [
+  "Other names",
+  "First Source and Center",
+  "Second Source and Center, the Word",
+  "Third Source and Center, Conjoint Actor"
+ ],
+ "w03:96": [
+  "Key word of character",
+  "Love",
+  "Mercy",
+  "Ministry"
+ ],
+ "w03:97": [
+  "Likeness",
+  "The initiating thought",
+  "The expressing word",
+  "The executing act"
+ ],
+ "w03:98": [
+  "How He comes to us",
+  "Thought Adjuster, the gift of personality",
+  "Creator Son (Michael)",
+  "Mother Spirit, angels"
+ ],
+ "w03:99": [
+  "Circuit He upholds",
+  "Personality gravity",
+  "Spirit gravity",
+  "Mind gravity"
+ ],
+ "w03:101": "New Words",
+ "w03:102": "**Eternal Son**: The second person of Deity, the \"living Word\" in whom the Father's thought is perfectly expressed. He is the source of mercy.",
+ "w03:103": "**Infinite Spirit**: The third person of Deity, who turns the will of the Father and the Son into action. Also called the Conjoint Actor, he is the source of all mind.",
+ "w03:104": "**Paradise Trinity**: The eternal Deity union of the three persons, Father, Son, and Spirit. It is not a gathering of three Gods but a single union of Deity.",
+ "w03:107": "Alongside the Bible",
+ "w03:108": "Paper 6 comments that the opening of John's Gospel, \"In the beginning was the Word\" (John 1:1–3), told the truth if it referred to the Eternal Son (6:1.3). It also says that \"he that hath seen me hath seen the Father\" (John 14:9) is true of the Eternal Son (6:2.2). The church has baptized \"in the name of the Father, and of the Son, and of the Holy Ghost\" (Matthew 28:19). In The Urantia Book, however, the Holy Spirit mostly refers to the ministry of the local universe Mother Spirit (Week 5), so it should not simply be equated with the Infinite Spirit.",
+ "w03:111": "2. The Eternal Isle of Paradise — the Center of All Things",
+ "w03:113": "In Week 1 we briefly described Paradise as \"the eternal Isle at the center of the universe.\" Paper 11 stresses that this Isle is not a symbol but a real place.",
+ "w03:115": {
+  "q": "Paradise is the eternal center of the universe of universes and the abiding place of the Universal Father, the Eternal Son, the Infinite Spirit, and their divine co-ordinates and associates. This central Isle is the most gigantic organized body of cosmic reality in all the master universe. Paradise is a material sphere as well as a spiritual abode.",
+  "cit": "11:0.1"
+ },
+ "w03:117": "The master universe is the whole of it: the universes organized now together with the outer universes still to be organized. The Isle at its center is not a round ball but a broad ellipse (11:2.2), and at the very center of its upper surface dwells the Father.",
+ "w03:119": {
+  "q": "Paradise serves many purposes in the administration of the universal realms, but to creature beings it exists primarily as the dwelling place of Deity. The personal presence of the Universal Father is resident at the very center of the upper surface of this well-nigh circular, but not spherical, abode of the Deities. This Paradise presence of the Universal Father is immediately surrounded by the personal presence of the Eternal Son, while they are both invested by the unspeakable glory of the Infinite Spirit.",
+  "cit": "11:1.1"
+ },
+ "w03:121": "If God is everywhere, why say that He dwells in one place? By His spirit God is present everywhere, but as a person He has a place where He can be found.",
+ "w03:123": {
+  "q": "God dwells, has dwelt, and everlastingly will dwell in this same central and eternal abode. We have always found him there and always will.",
+  "cit": "11:1.2"
+ },
+ "w03:125": "Paper 11 compares this to the cities of the earth.",
+ "w03:127": {
+  "q": "If you were an intelligent navigator, equipped with ship, maps, and compass, you could readily find these cities. Likewise, if you had the time and means of passage, were spiritually qualified, and had the necessary guidance, you could be piloted through universe upon universe and from circuit to circuit, ever journeying inward through the starry realms, until at last you would stand before the central shining of the spiritual glory of the Universal Father.",
+  "cit": "11:1.3"
+ },
+ "w03:129": "A city does not cease to exist because we have never visited it. Paradise is the center of universe administration and the source of all energy, but for us its greatest meaning lies elsewhere.",
+ "w03:131": {
+  "q": "After all, to mortals the most important thing about eternal Paradise is the fact that this perfect abode of the Universal Father is the real and far-distant destiny of the immortal souls of the mortal and material sons of God, the ascending creatures of the evolutionary worlds of time and space. Every God-knowing mortal who has espoused the career of doing the Father's will has already embarked upon the long, long Paradise trail of divinity pursuit and perfection attainment.",
+  "cit": "11:9.8"
+ },
+ "w03:133": "Paradise is not a distant heavenly scene but a destination we will actually reach. The journey does not begin after death; it has already begun on the day we chose to do the Father's will. Still, the place itself must not be mistaken for God.",
+ "w03:135": {
+  "q": "Deity may cause much that is not Deity, and Paradise is not Deity",
+  "cit": "11:9.4"
+ },
+ "w03:137": "Clearing Up a Misunderstanding",
+ "w03:138": "**A common misunderstanding**: Paradise is only a state of mind or a symbol, and there is no \"place\" where God dwells. Or, at the other extreme, Paradise itself is God.",
+ "w03:139": "**What The Urantia Book says**: Paradise is a real place, both a spiritual abode and a material sphere (11:0.1). Yet Paradise is not Deity, nor is it a conscious being (11:9.4).",
+ "w03:142": "3. Havona, a Billion Perfect Worlds",
+ "w03:144": "A Universe Perfect from the Start",
+ "w03:146": "Immediately around Paradise lies the central universe, Havona. It was not shaped over long ages of evolution; it was made perfect from the beginning.",
+ "w03:148": {
+  "q": "This is the one and only settled, perfect, and established aggregation of worlds. This is a wholly created and perfect universe; it is not an evolutionary development. This is the eternal core of perfection, about which swirls that endless procession of universes which constitute the tremendous evolutionary experiment, the audacious adventure of the Creator Sons of God",
+  "cit": "14:0.2"
+ },
+ "w03:150": "Havona is the pattern, the model, for the universes outside it. Its worlds are set out around Paradise in seven rings.",
+ "w03:152": {
+  "q": "The billion worlds of Havona are arranged in seven concentric circuits immediately surrounding the three circuits of Paradise satellites. … Each circuit differs, but all are perfectly balanced and exquisitely organized, and each is pervaded by a specialized representation of the Infinite Spirit, one of the Seven Spirits of the Circuits.",
+  "cit": "14:1.9"
+ },
+ "w03:154": "Paper 12 sums up Havona this way.",
+ "w03:156": {
+  "q": "Havona, the central universe, is not a time creation; it is an eternal existence. This never-beginning, never-ending universe consists of one billion spheres of sublime perfection and is surrounded by the enormous dark gravity bodies.",
+  "cit": "12:1.10"
+ },
+ "w03:158": "The dark gravity bodies neither reflect nor absorb light, and they form two belts that revolve in opposite directions (14:1.14–15). These belts screen the central universe and keep its gravity in balance. On the subject of time in Havona, a phrase familiar to Bible readers appears.",
+ "w03:160": {
+  "q": "Though their velocity is enormous, owing to their situation between the dark gravity bodies and gigantic Paradise, it requires almost one thousand years for these spheres to complete their circuit. You have unwittingly read the truth when your eyes rested on the statement \"A day is as a thousand years with God, as but a watch in the night.\"",
+  "cit": "14:1.12"
+ },
+ "w03:162": "Alongside the Bible",
+ "w03:163": "Psalm 90:4 sings, \"For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night,\" and 2 Peter 3:8 says, \"one day is with the Lord as a thousand years, and a thousand years as one day.\" Paper 14 adds that this saying matches the orbit time of the inner circuit of Havona.",
+ "w03:166": "The University of Surprises",
+ "w03:168": "Havona is the last school an ascending mortal attends before entering Paradise. Paper 14 sums up the road that leads there.",
+ "w03:170": {
+  "q": "On Urantia you pass through a short and intense test during your initial life of material existence. On the mansion worlds and up through your system, constellation, and local universe, you traverse the morontia phases of ascension. On the training worlds of the superuniverse you pass through the true spirit stages of progression and are prepared for eventual transit to Havona.",
+  "cit": "14:5.1"
+ },
+ "w03:172": "Morontia is the in-between stage that lies between the material and the spiritual (Week 6). The pilgrim arrives on the seventh circuit, the outermost ring of Havona, and moves inward one circuit at a time. Each circuit has its own task to be achieved.",
+ "w03:174": "The pilgrimage through the seven circuits of Havona (the author's summary based on 14:5.4)",
+ "w03:175": [
+  "Circuit",
+  "When the pilgrim moves on to it"
+ ],
+ "w03:177": [
+  "Seventh",
+  "On first arrival, welcomed on the pilot world"
+ ],
+ "w03:178": [
+  "Sixth",
+  "On grasping the identity of their superuniverse Master Spirit"
+ ],
+ "w03:179": [
+  "Fifth",
+  "On attaining a realization of Supremacy"
+ ],
+ "w03:180": [
+  "Fourth",
+  "On attaining the Infinite Spirit"
+ ],
+ "w03:181": [
+  "Third",
+  "On attaining the Eternal Son"
+ ],
+ "w03:182": [
+  "Second",
+  "On recognizing the Universal Father"
+ ],
+ "w03:183": [
+  "First",
+  "On being accepted into the service of Paradise"
+ ],
+ "w03:185": "To the worry that heaven might be a dull place, Paper 14 gives this answer.",
+ "w03:187": {
+  "q": "Not only will you find undreamed-of changes confronting you as you advance from circuit to circuit in Havona, but your astonishment will be inexpressible as you progress from planet to planet within each circuit. Each of these billion study worlds is a veritable university of surprises. Continuing astonishment, unending wonder, is the experience of those who traverse these circuits and tour these gigantic spheres. Monotony is not a part of the Havona career.",
+  "cit": "14:5.9"
+ },
+ "w03:189": "No two worlds of Havona are alike (14:5.6). So the curiosity and love of adventure we carry within us now are not in vain.",
+ "w03:191": {
+  "q": "Love of adventure, curiosity, and dread of monotony—these traits inherent in evolving human nature—were not put there just to aggravate and annoy you during your short sojourn on earth, but rather to suggest to you that death is only the beginning of an endless career of adventure, an everlasting life of anticipation, an eternal voyage of discovery.",
+  "cit": "14:5.10"
+ },
+ "w03:193": "Paper 14 calls this very urge a divine gift.",
+ "w03:195": {
+  "q": "Curiosity—the spirit of investigation, the urge of discovery, the drive of exploration—is a part of the inborn and divine endowment of evolutionary space creatures. These natural impulses were not given you merely to be frustrated and repressed.",
+  "cit": "14:5.11"
+ },
+ "w03:197": "The longing to learn something new is a preview of eternity. Paper 14 sums up what Havona will be for us.",
+ "w03:199": {
+  "q": "Havona is the pre-Paradise training goal of every ascending mortal. … Havona stands before every will creature as the portal to Paradise and God attainment. Paradise is the home, and Havona the workshop and playground, of the finaliters.",
+  "cit": "14:6.38-39"
+ },
+ "w03:201": "4. The Seven Superuniverses and Our Address",
+ "w03:203": "A Gigantic Wheel",
+ "w03:205": "Beyond Havona lie the seven superuniverses, which grow and develop in time. The central universe and the seven superuniverses together are called the grand universe. Beyond them are four outer space levels still being organized, and all of this taken together is the master universe. Paper 15 likens the grand universe to a wheel.",
+ "w03:207": {
+  "q": "The Seven Master Spirits radiate their influence out from the central Isle, thus constituting the vast creation one gigantic wheel, the hub being the eternal Isle of Paradise, the seven spokes the radiations of the Seven Master Spirits, the rim the outer regions of the grand universe.",
+  "cit": "15:0.1"
+ },
+ "w03:209": "The master universe in concentric rings — from Paradise outward (the author's summary based on Papers 11–15; sizes and distances not to scale)",
+ "w03:211": "This wheel turns around its center.",
+ "w03:213": {
+  "q": "Your solar system and other worlds of time are not plunging headlong, without chart and compass, into unmapped space. The local universe to which your system belongs is pursuing a definite and well-understood counterclockwise course around the vast swing that encircles the central universe.",
+  "cit": "15:1.2"
+ },
+ "w03:215": "Where on this wheel are we, then? Paper 12's answer is humbling.",
+ "w03:217": {
+  "q": "As we move from within, from the divine center outward in any one direction, we do, eventually, come to the outer limits of the organized and inhabited creation; we come to the outer limits of the grand universe. And it is near this outer border, in a far-off corner of such a magnificent creation, that your local universe has its eventful existence.",
+  "cit": "12:1.13"
+ },
+ "w03:219": "From One Planet to the Grand Universe",
+ "w03:221": "Paper 15 builds up a superuniverse in steps of about a hundred. Roughly a thousand inhabitable worlds make a system, a hundred systems make a constellation, and a hundred constellations make a local universe. Above that come the minor sector and the major sector, and finally the superuniverse, holding about a trillion worlds (15:2.3–8). Before setting out any numbers, though, the author says this:",
+ "w03:223": {
+  "q": "Only the Universal Father knows the location and actual number of inhabited worlds in space; he calls them all by name and number.",
+  "cit": "15:2.1"
+ },
+ "w03:225": "Place our planet in this framework, and a long address appears. Paper 15 spells it out from the inside outward.",
+ "w03:227": {
+  "q": "Your world is called Urantia, and it is number 606 in the planetary group, or system, of Satania. … Satania has a headquarters world called Jerusem, and it is system number twenty-four in the constellation of Norlatiadek. … The universe of Nebadon is number eighty-four in the minor sector of Ensa. … This minor sector is number three in the major sector of Splandon. … It is the fifth major sector of the superuniverse of Orvonton, the seventh segment of the grand universe. Thus you can locate your planet in the scheme of the organization and administration of the universe of universes.",
+  "cit": "15:14.5-7"
+ },
+ "w03:229": "Our cosmic address — from Urantia to the grand universe (the author's summary based on 15:2 and 15:14)",
+ "w03:231": "The units of the grand universe and our address (15:2.3–9, 15:14.5–7)",
+ "w03:232": [
+  "Unit",
+  "Made up of",
+  "Inhabitable worlds (approx.)",
+  "Our address"
+ ],
+ "w03:234": [
+  "System",
+  "about 1,000 worlds",
+  "1,000",
+  "Satania (headquarters Jerusem)"
+ ],
+ "w03:235": [
+  "Constellation",
+  "100 systems",
+  "100,000",
+  "Norlatiadek (headquarters Edentia)"
+ ],
+ "w03:236": [
+  "Local universe",
+  "100 constellations",
+  "10 million",
+  "Nebadon (headquarters Salvington)"
+ ],
+ "w03:237": [
+  "Minor sector",
+  "100 local universes",
+  "1 billion",
+  "Ensa"
+ ],
+ "w03:238": [
+  "Major sector",
+  "100 minor sectors",
+  "100 billion",
+  "Splandon"
+ ],
+ "w03:239": [
+  "Superuniverse",
+  "10 major sectors",
+  "1 trillion",
+  "Orvonton (headquarters Uversa)"
+ ],
+ "w03:240": [
+  "Grand universe",
+  "7 superuniverses + Havona",
+  "7 trillion",
+  "the one grand universe"
+ ],
+ "w03:242": "This address makes us small and great at the same time. One world among seven trillion looks insignificant. Yet once the author of Paper 15 has given the full address, he adds this:",
+ "w03:244": {
+  "q": "Your planet is a member of an enormous cosmos; you belong to a well-nigh infinite family of worlds, but your sphere is just as precisely administered and just as lovingly fostered as if it were the only inhabited world in all existence.",
+  "cit": "15:14.9"
+ },
+ "w03:246": "Our superuniverse, Orvonton, also has a character of its own.",
+ "w03:248": {
+  "q": "Orvonton, the seventh superuniverse, the one to which your local universe belongs, is known chiefly because of its tremendous and lavish bestowal of merciful ministry to the mortals of the realms. … Orvonton is a universe demonstration of love and mercy.",
+  "cit": "15:14.2"
+ },
+ "w03:250": "The Father's love, the Son's mercy, and the Spirit's ministry that we saw in section 1 are written into the very character of our superuniverse.",
+ "w03:252": "New Words",
+ "w03:253": "**Havona**: The central universe of a billion perfect worlds surrounding Paradise. It did not evolve; it was created perfect from the beginning.",
+ "w03:254": "**Grand universe**: The presently organized and inhabited creation, made up of Havona and the seven superuniverses. Add the outer space levels beyond it, and the whole is called the master universe.",
+ "w03:255": "**Superuniverse**: One of the seven great creations evolving in time and space. We belong to the seventh, Orvonton, whose headquarters is Uversa.",
+ "w03:256": "**Local universe**: A unit of about ten million worlds made and ruled by one Creator Son. Ours is Nebadon (Week 5).",
+ "w03:257": "**Ancients of Days**: Rulers of Trinity origin who govern the superuniverses, three for each superuniverse.",
+ "w03:260": "5. How the Universe Holds Together — the Four Gravity Circuits",
+ "w03:262": "Four Kinds of Pull",
+ "w03:264": "Why do trillions of worlds circle in good order instead of flying apart? Paper 12 speaks of four circuits that hold the whole universe together.",
+ "w03:266": {
+  "q": "Personality also is responsive to gravity—to the Father's exclusive circuit; … the Universal Father is infinite and acts over all four absolute-gravity circuits in the master universe: 1. The Personality Gravity of the Universal Father. 2. The Spirit Gravity of the Eternal Son. 3. The Mind Gravity of the Conjoint Actor. 4. The Cosmic Gravity of the Isle of Paradise.",
+  "cit": "12:3.1-5"
+ },
+ "w03:268": "The book uses the one word \"gravity\" for all four, but only the last of them pulls on matter. Physical gravity holds the stars and planets, and its center is the Isle of Paradise.",
+ "w03:270": {
+  "q": "Gravity is the all-powerful grasp of the physical presence of Paradise. Gravity is the omnipotent strand on which are strung the gleaming stars, blazing suns, and whirling spheres which constitute the universal physical adornment of the eternal God, who is all things, fills all things, and in whom all things consist.",
+  "cit": "11:8.1"
+ },
+ "w03:272": "The stars are like beads strung on an unseen cord. But the universe holds more than matter. Whatever is spiritual is drawn toward the Eternal Son.",
+ "w03:274": {
+  "q": "Spirit realities respond to the drawing power of the center of spiritual gravity in accordance with their qualitative value, their actual degree of spirit nature. Spirit substance (quality) is just as responsive to spirit gravity as the organized energy of physical matter (quantity) is responsive to physical gravity. Spiritual values and spirit forces are real.",
+  "cit": "7:1.3"
+ },
+ "w03:276": "Physical gravity pulls according to mass, that is, quantity; spirit gravity pulls according to spiritual value, that is, quality. Love, truth, and goodness are not vague feelings but realities that answer to an actual force in the universe. Nor does this pull weaken with distance.",
+ "w03:278": {
+  "q": "Spirit gravity never suffers time delays, nor does it undergo space diminution. It does not decrease in accordance with the square of the distance of its transmission; the circuits of pure spirit power are not retarded by the mass of the material creation.",
+  "cit": "7:1.2"
+ },
+ "w03:280": "This pull works between people too.",
+ "w03:282": {
+  "q": "There is a direct attractiveness of a spirit nature between spiritually minded persons of like tastes and longings. The term kindred spirits is not wholly a figure of speech.",
+  "cit": "7:1.6"
+ },
+ "w03:284": "Above all, spirit gravity has much to do with prayer.",
+ "w03:286": {
+  "q": "The spirit-gravity circuit is the basic channel for transmitting the genuine prayers of the believing human heart from the level of human consciousness to the actual consciousness of Deity. That which represents true spiritual value in your petitions will be seized by the universal circuit of spirit gravity and will pass immediately and simultaneously to all divine personalities concerned.",
+  "cit": "7:3.3"
+ },
+ "w03:288": "A prayer gets through not because its words are grand but because it carries true spiritual value. The third circuit holds the mind.",
+ "w03:290": {
+  "q": "Much as the Father draws all personality to himself, and as the Son attracts all spiritual reality, so does the Conjoint Actor exercise a drawing power on all minds; he unqualifiedly dominates and controls the universal mind circuit. All true and genuine intellectual values, all divine thoughts and perfect ideas, are unerringly drawn into this absolute circuit of mind.",
+  "cit": "9:6.2"
+ },
+ "w03:292": "The fourth, the Father's personality circuit, draws every person to the Father. The other three can be roughly estimated, but this one is different.",
+ "w03:294": {
+  "q": "Personality Gravity is noncomputable. We recognize the circuit, but we cannot measure either qualitative or quantitative realities responsive thereto.",
+  "cit": "12:3.12"
+ },
+ "w03:296": "The close personal bond between the Father and each individual that we saw last week runs along this very circuit.",
+ "w03:298": "The four circuits — four kinds of pull that draw all things to the center (the author's summary based on 12:3)",
+ "w03:300": "All Roads Lead to the Center",
+ "w03:302": "All four circuits lead back to Paradise. Trace any one of them upstream, and in the end it arrives at the same place.",
+ "w03:304": {
+  "q": "Here is God personally, literally, and actually present. And from his infinite being there flow the flood-streams of life, energy, and personality to all universes.",
+  "cit": "11:1.4"
+ },
+ "w03:306": "Not even rebellion can cut this pull.",
+ "w03:308": {
+  "q": "Sin and rebellion may interfere with the operation of local universe circuits, but nothing can suspend the spirit gravity of the Eternal Son.",
+  "cit": "7:1.7"
+ },
+ "w03:310": "Our planet was quarantined after the Lucifer rebellion (Week 7), yet the spirit gravity of the Eternal Son works here just as it does everywhere else. As the stars circle their center, so our souls were made from the start to turn toward the center.",
+ "w03:312": "New Words",
+ "w03:313": "**Spirit gravity**: The pull that draws all spiritual realities and values to the Eternal Son. Unlike physical gravity, it does not weaken with distance (7:1.2).",
+ "w03:314": "**Mind gravity**: The pull that draws all minds and all true intellectual values to the Infinite Spirit.",
+ "w03:315": "**Dark gravity bodies**: Enormous bodies that encircle Havona in two belts and balance the gravity of Paradise. They neither reflect nor absorb light.",
+ "w03:319": "The Universal Father, the Eternal Son, and the Infinite Spirit are the \"original family,\" together from eternity, and their union is the Paradise Trinity.",
+ "w03:320": "God is love, the Son is mercy, the Spirit is ministry (8:4.2). The Son's mercy flows from the Father's love.",
+ "w03:321": "Paradise is a real Isle at the center of the universe, the dwelling place of the Deities and the final destination of ascending mortals.",
+ "w03:322": "Havona is a billion perfect worlds surrounding Paradise, created perfect from the start, the pattern for all universes and a \"university of surprises.\"",
+ "w03:323": "Havona and the seven superuniverses make up the grand universe, and we live near the outer edge of the seventh superuniverse, Orvonton.",
+ "w03:324": "Urantia's address: world 606 of Satania, Norlatiadek, Nebadon, Ensa, Splandon, Orvonton.",
+ "w03:325": "Four circuits, personality gravity, spirit gravity, mind gravity, and cosmic gravity, draw all things toward Paradise.",
+ "w03:329": "If you carried the sentence \"God is love, the Son is mercy, the Spirit is ministry\" (8:4.2) into the relationships of your own life, what would each part look like?",
+ "w03:330": "You live on one world among seven trillion, yet it is \"lovingly fostered as if it were the only inhabited world\" (15:14.9). How does this change the way you see your own place?",
+ "w03:331": "If spirit gravity answers to quality rather than quantity (7:1.3), which of today's prayers and choices might that circuit take hold of?",
+ "w03:335": "Papers 16–31 — The great family of the grand universe: the Seven Master Spirits, the Sons of God, the angels, and the big picture of ascension from mortal to finaliter",
+ "w04:1": "The Great Family of the Grand Universe",
+ "w04:2": "Paper 15:10 · Paper 16 · Paper 18:3 · Papers 20–21 · Papers 24, 26 · Paper 30:4 · Paper 31",
+ "w04:3": "This week's map — from the rulers of the superuniverses, the Sons of God and the children of the Infinite Spirit to the seven stages of ascent and the Corps of the Finality",
+ "w04:6": "Papers 16 to 31 pour out the names of beings most readers have never heard of, yet every one of these orders is turned toward a single task: bringing the mortals of time to the perfection of Paradise. The Sons of God and the angelic family of the Infinite Spirit help along the way, while a human being travels from a creature of flesh and blood, through morontia and spirit, to Paradise and the Corps of the Finality. This week the aim is not to memorize names but to see how this great family fits together, and where we stand within it.",
+ "w04:9": "Opening Story",
+ "w04:11": "Picture someone newly married, arriving for the first big holiday gathering of their spouse's extended family. Every room is full of unfamiliar faces: uncles, great-aunts, second cousins, cousins' spouses. Trying to work out who is related to whom soon makes the head spin.",
+ "w04:13": "By the end of the day, though, something becomes clear. They all come from the same root, and they have gathered partly to welcome the newcomer. The names can be learned slowly. What matters first is knowing that one has been welcomed into the family.",
+ "w04:15": "Papers 16 to 31 of The Urantia Book are that crowded house. Master Spirits, Ancients of Days, Creator Sons, supernaphim, finaliters: the names arrive one after another. This week we take a family tree in hand and begin by asking why this great family has gathered at all.",
+ "w04:17": "1. The Seven Master Spirits and the Rulers of the Superuniverses",
+ "w04:19": "From Three to Seven",
+ "w04:21": "As we saw in Week 3, seven superuniverses circle around Havona. Watching over these seven divisions from the very top are the Seven Master Spirits of Paradise. Paper 16 opens by explaining why there are exactly seven.",
+ "w04:23": {
+  "q": "The Seven Master Spirits of Paradise are the primary personalities of the Infinite Spirit. In this sevenfold creative act of self-duplication the Infinite Spirit exhausted the associative possibilities mathematically inherent in the factual existence of the three persons of Deity. Had it been possible to produce a larger number of Master Spirits, they would have been created, but there are just seven associative possibilities, and only seven, inherent in three Deities. And this explains why the universe is operated in seven grand divisions, and why the number seven is basically fundamental in its organization and administration.",
+  "cit": "16:0.1"
+ },
+ "w04:25": "Take the Father, the Son, and the Spirit singly, in pairs, and all three together, and exactly seven combinations result. Each Master Spirit reflects one of these combinations and oversees one superuniverse. That is why the seven superuniverses all serve the same God and yet each carries a color of its own.",
+ "w04:27": "From three to seven — the seven associations of the three Deities and the Seven Master Spirits (compiled by the author from 16:0.2-9 and 16:3)",
+ "w04:29": "Our own superuniverse, Orvonton, the seventh, is in the care of Master Spirit Number Seven, who reflects all three persons equally.",
+ "w04:31": {
+  "q": "This Master Spirit is always in liaison with the Reflective Spirits of Uversa, the headquarters of the seventh superuniverse, our own segment of creation. His administration of Orvonton discloses the marvelous symmetry of the co-ordinate blending of the divine natures of Father, Son, and Spirit.",
+  "cit": "16:3.20"
+ },
+ "w04:33": "This is more than a distant organizational chart. Paper 16 says that creatures born in each superuniverse carry the character of its Master Spirit with them forever.",
+ "w04:35": {
+  "q": "Through this personal influence of the Seven Master Spirits every creature of every order of intelligent beings, outside of Paradise and Havona, must bear the characteristic stamp of individuality indicative of the ancestral nature of some one of these Seven Paradise Spirits. As concerns the seven superuniverses, each native creature, man or angel, will forever bear this badge of natal identification.",
+  "cit": "16:5.2"
+ },
+ "w04:37": {
+  "q": "The distinctive personality trends exhibited in the life experience of evolutionary mortals, which are characteristic in each superuniverse, and which are directly expressive of the nature of the dominating Master Spirit, are never fully effaced, not even after such ascenders are subjected to the long training and unifying discipline encountered on the one billion educational spheres of Havona. Even the subsequent intense Paradise culture does not suffice to eradicate the earmarks of superuniverse origin. Throughout all eternity an ascendant mortal will exhibit traits indicative of the presiding Spirit of his superuniverse of nativity.",
+  "cit": "16:5.5"
+ },
+ "w04:39": "Just as a hometown accent stays with a person for life, someone born in Orvonton remains an Orvonton native forever. Within us is the imprint of Master Spirit Number Seven, who resembles the Father, the Son, and the Spirit in equal measure.",
+ "w04:41": "The Ancients of Days",
+ "w04:43": "The Master Spirits remain on Paradise. The actual administration at the capital of each superuniverse belongs to others: the Ancients of Days, who rule together in groups of three. The capital of our superuniverse is Uversa. Paper 18 divides the work of the two groups like this.",
+ "w04:45": {
+  "q": "The Seven Master Spirits on high determine the nature of their respective superuniverses, but the Ancients of Days dictate the administration of these same superuniverses. They superimpose administrative uniformity on creative diversity and insure the harmony of the whole in the face of the underlying creational differences of the seven segmental groupings of the grand universe.",
+  "cit": "18:3.3"
+ },
+ "w04:47": "If the Master Spirits shape the character of each superuniverse, the Ancients of Days see that seven quite different superuniverses are governed by the same principles. Their authority is very great, but it is not meant to last unchanged forever.",
+ "w04:49": {
+  "q": "Aside from the Deities and their Paradise associates, the Ancients of Days are the most perfect, most versatile, and the most divinely endowed rulers in all time-space existence. Apparently they are the supreme rulers of the superuniverses; but they have not experientially earned this right to rule and are therefore destined sometime to be superseded by the Supreme Being, an experiential sovereign, whose vicegerents they will undoubtedly become.",
+  "cit": "18:3.8"
+ },
+ "w04:51": "We will meet the Supreme Being again in Week 10. Working alongside these three rulers are several groups of high beings.",
+ "w04:53": "The seven groups of the superuniverse government (compiled by the author from 15:10.3-12)",
+ "w04:54": [
+  "Group",
+  "Origin",
+  "In a word"
+ ],
+ "w04:56": [
+  "Ancients of Days",
+  "Trinity",
+  "Three rule each superuniverse together"
+ ],
+ "w04:57": [
+  "Perfectors of Wisdom",
+  "Trinity",
+  "One billion in each superuniverse"
+ ],
+ "w04:58": [
+  "Divine Counselors",
+  "Trinity",
+  "The order that wrote the Foreword and Paper 1"
+ ],
+ "w04:59": [
+  "Universal Censors",
+  "Trinity",
+  "One billion in each superuniverse"
+ ],
+ "w04:60": [
+  "Mighty Messengers",
+  "Ascendant mortals",
+  "Former mortals embraced by the Trinity"
+ ],
+ "w04:61": [
+  "Those High in Authority",
+  "Ascendant mortals",
+  "Former mortals embraced by the Trinity"
+ ],
+ "w04:62": [
+  "Those without Name and Number",
+  "Ascendant mortals",
+  "Former mortals embraced by the Trinity"
+ ],
+ "w04:64": "The last three rows are remarkable. Among the members of the highest government of the universe are beings who were once mortals, born on a planet just as we were.",
+ "w04:66": {
+  "q": "The remaining three orders, Mighty Messengers, Those High in Authority, and Those without Name and Number, are glorified ascendant mortals. The first of these orders came up through the ascendant regime and passed through Havona in the days of Grandfanda. Having attained Paradise, they were mustered into the Corps of the Finality, embraced by the Paradise Trinity, and subsequently assigned to the supernal service of the Ancients of Days. … Thus was the executive branch of the superuniverse government enlarged to include the glorified and perfected children of the evolutionary worlds.",
+  "cit": "15:10.12"
+ },
+ "w04:68": "Paper 30, which describes the seven stages of ascent we will look at later, was itself sponsored by a Mighty Messenger of Uversa. It is as though an elder who has walked the road in person is showing the way to those who come after.",
+ "w04:70": "A great many beings appear in these papers, but not everything has been revealed. Paper 16 explains how the selection was made.",
+ "w04:72": {
+  "q": "Much, very much, of the activity of the Seven Master Spirits remains hidden from human understanding because in no way does it directly pertain to your problem of Paradise ascent.",
+  "cit": "16:4.7"
+ },
+ "w04:74": "This sentence is the key to reading this week's papers. Most of the beings introduced in the book are connected with our ascent. When an unfamiliar name appears, a good question to ask is how this being relates to the road a mortal travels. Paper 16 also gives these seven Spirits a name familiar from the Bible.",
+ "w04:76": {
+  "q": "It is literally true that these Seven Spirits are the personalized physical power, cosmic mind, and spiritual presence of the triune Deity, \"the Seven Spirits of God sent forth to all the universe.\"",
+  "cit": "16:4.1"
+ },
+ "w04:78": "New Words",
+ "w04:79": "**Master Spirits**: The primary personalities of the Infinite Spirit; seven in number, they each oversee one of the seven superuniverses from Paradise.",
+ "w04:80": "**Ancients of Days**: Trinity-origin rulers of a superuniverse, three of whom govern each superuniverse together.",
+ "w04:81": "**Mighty Messenger**: A former mortal who reached Paradise, was embraced by the Trinity, and now serves in a superuniverse government.",
+ "w04:84": "Alongside the Bible",
+ "w04:85": "The Book of Revelation speaks of \"the seven Spirits which are before his throne\" (Revelation 1:4; see also 4:5). The phrase \"the Seven Spirits of God\" in 16:4.1 echoes this. Daniel's vision of \"the Ancient of days\" seated in judgment (Daniel 7:9) likewise comes to mind with the name Ancients of Days.",
+ "w04:88": "2. The Sons of God",
+ "w04:90": "Three Kinds of Sons",
+ "w04:92": "In this book \"Son of God\" does not refer to just one being. Many orders are called sons, and Paper 20 sorts them into three broad groups: descending Sons, ascending sons, and Trinitized Sons.",
+ "w04:94": {
+  "q": "Descending orders of sonship include personalities who are of direct and divine creation. Ascending sons, such as mortal creatures, achieve this status by experiential participation in the creative technique known as evolution. Trinitized Sons are a group of composite origin which includes all beings embraced by the Paradise Trinity even though not of direct Trinity origin.",
+  "cit": "20:0.5"
+ },
+ "w04:96": "Descending Sons are created perfect and come down to serve. Ascending sons are born below and grow upward. Human beings are ascending sons. The Mighty Messengers we met above, having ascended and then been embraced by the Trinity, belong to the third group.",
+ "w04:98": "The Sons of God — Sons who descend, sons who ascend, and Trinitized Sons (compiled by the author from 20:0-1 and 22:0)",
+ "w04:100": "Sons Who Come Down from Above",
+ "w04:102": "Among the descending Sons are three orders that come from Paradise: the Creator Sons (Michaels), the Magisterial Sons (Avonals), and the Trinity Teacher Sons (Daynals). Paper 20 sums up which face of Deity each one shows.",
+ "w04:104": {
+  "q": "As the Father of a local universe, a Creator Son portrays the infinite character of the Universal Father. As the bestowal Sons of mercy, the Avonals reveal the matchless nature of the Eternal Son of infinite compassion. As the true teachers of ascending personalities, the Trinity Daynal Sons disclose the teacher personality of the Infinite Spirit.",
+  "cit": "20:10.4"
+ },
+ "w04:106": "There are vast numbers of them, yet when one of them serves a world, he serves it as though it were the only world.",
+ "w04:108": {
+  "q": "All the Paradise Sons of God are divine in origin and in nature. The work of each Paradise Son in behalf of each world is just as if the Son of service were the first and only Son of God.",
+  "cit": "20:10.1"
+ },
+ "w04:110": "The Creator Son of Our Universe",
+ "w04:112": "A Creator Son makes and rules a single local universe. Paper 21 begins with his name.",
+ "w04:114": {
+  "q": "These primary Paradise Sons are personalized as Michaels. As they go forth from Paradise to found their universes, they are known as Creator Michaels. When settled in supreme authority, they are called Master Michaels. Sometimes we refer to the sovereign of your universe of Nebadon as Christ Michael.",
+  "cit": "21:0.3"
+ },
+ "w04:116": "The book teaches that Michael of Nebadon lived on this world as Jesus of Nazareth. Paper 21 compares his relationship with the Father to the love between parents and children.",
+ "w04:118": {
+  "q": "In the vast work of organizing, evolving, and perfecting a local universe, these high Sons always enjoy the sustaining approval of the Universal Father. The relationship of the Creator Sons with their Paradise Father is touching and superlative. No doubt the profound affection of the Deity parents for their divine progeny is the wellspring of that beautiful and well-nigh divine love which even mortal parents bear their children.",
+  "cit": "21:0.2"
+ },
+ "w04:120": "The tenderness parents feel for their children is a stream flowing from that spring. Nor is the order of Michael made up of beings who only issue commands from on high.",
+ "w04:122": {
+  "q": "The order of Michael knows the grand universe from one end to the other; there is no essential experience of any of the children of time and space in which the Michaels have not personally participated; they are in fact partakers not only of the divine nature but also of your nature, meaning all natures, from the highest to the lowest.",
+  "cit": "21:0.4"
+ },
+ "w04:124": "A Creator Son lives seven times in the likeness of the creatures he has made. This is called a bestowal. Why, then, did a Son of God come as a human being? Paper 20 addresses one widely held idea.",
+ "w04:126": {
+  "q": "On Urantia there is a widespread belief that the purpose of a Son's bestowal is, in some manner, to influence the attitude of the Universal Father. But your enlightenment should indicate that this is not true. The bestowals of the Avonal and the Michael Sons are a necessary part of the experiential process designed to make these Sons safe and sympathetic magistrates and rulers of the peoples and planets of time and space. The career of sevenfold bestowal is the supreme goal of all Paradise Creator Sons.",
+  "cit": "20:5.2"
+ },
+ "w04:128": "The Father is love from the beginning. A bestowal is not an attempt to change that love; it is the way a Son comes to know creature life from the inside and so becomes a sympathetic ruler. The way involves real risk, yet the Sons always come through.",
+ "w04:130": {
+  "q": "They indeed assume the risk, really become like the mortal creatures of flesh and blood and thereby gain the unique creature experience, but within the range of my observation they always succeed. They never fail to achieve the goal of the bestowal mission. The story of their bestowal and planetary service throughout Nebadon constitutes the most noble and fascinating chapter in the history of your local universe.",
+  "cit": "20:5.7"
+ },
+ "w04:132": "One of those noblest chapters was written on this very planet. We will return to that story in Weeks 11 and 12.",
+ "w04:134": "Clearing Up a Misunderstanding",
+ "w04:135": "**Common misunderstanding**: The Son of God came as a man to appease an angry Father and change His mind.",
+ "w04:136": "**What The Urantia Book says**: The purpose of a bestowal is not to alter the Father's attitude (20:5.2). The Son experiences creature life for himself, becomes a sympathetic ruler, and reveals the Father's love to His creatures.",
+ "w04:139": "New Words",
+ "w04:140": "**Creator Son**: A Paradise Son, born of the Father and the Eternal Son, who makes and rules a local universe; also called a Michael.",
+ "w04:141": "**Magisterial Son**: A Paradise Son of the Son and the Spirit, called an Avonal, who judges planets and sometimes bestows himself.",
+ "w04:142": "**Trinity Teacher Son**: A Daynal, born of the Father, Son, and Spirit, who teaches throughout the universes.",
+ "w04:143": "**bestowal**: The act of a descending Son who is born in the likeness of a creature and lives that life in person.",
+ "w04:146": "3. The Children of the Infinite Spirit — the Great Family of Angels",
+ "w04:148": "Three Groups",
+ "w04:150": "Beside the Sons of God stands another great family, the offspring of the Infinite Spirit. Paper 26 begins by saying what angels are.",
+ "w04:152": {
+  "q": "Angels are the ministering-spirit associates of the evolutionary and ascending will creatures of all space; they are also the colleagues and working associates of the higher hosts of the divine personalities of the spheres. The angels of all orders are distinct personalities and are highly individualized. … they possess very social natures and have an associative capacity far transcending that of human beings.",
+  "cit": "26:1.1"
+ },
+ "w04:154": "Angels are not winged errand-runners; each is a person with a character of his own. The authors on Uversa divide this whole family into three groups.",
+ "w04:156": {
+  "q": "On Uversa we divide all personalities and entities of the Conjoint Creator into three grand divisions: the Higher Personalities of the Infinite Spirit, the Messenger Hosts of Space, and the Ministering Spirits of Time, those spirit beings who are concerned with teaching and ministering to the will creatures of the ascendant scheme of mortal progression.",
+  "cit": "24:0.1"
+ },
+ "w04:158": "The highest group includes higher personalities such as the Solitary Messengers, who travel the universe alone. The Messenger Hosts in the middle link the other two. Closest to us is the third group, the ministering spirits: the angels.",
+ "w04:160": "The great family of the Infinite Spirit — three groups, and the angelic chain from Paradise down to the planets (compiled by the author from 24:0 and 26:1)",
+ "w04:162": "An Unbroken Chain",
+ "w04:164": "Angels are named according to where they serve. Paper 28 sets the three orders side by side in a single sentence.",
+ "w04:166": {
+  "q": "As the supernaphim are the angelic hosts of the central universe and the seraphim of the local universes, so are the seconaphim the ministering spirits of the superuniverses.",
+  "cit": "28:0.1"
+ },
+ "w04:168": "They are not separate crews working in isolation; together they form one chain.",
+ "w04:170": {
+  "q": "…it is the supernaphim, seconaphim, and seraphim who, in large numbers, are employed in the furtherance of the ascending scheme of progressive perfection for the children of time. Functioning in the central, super-, and local universes, they form that unbroken chain of spirit ministers which has been provided by the Infinite Spirit for the help and guidance of all who seek to attain the Universal Father through the Eternal Son.",
+  "cit": "26:1.15"
+ },
+ "w04:172": "It works much like a relay race. On the planet the seraphim care for us; in the superuniverse the seconaphim take the baton; in Havona and on Paradise the supernaphim run the final stretch beside us. On no leg of the journey is an ascender left alone. That is why the first thing a new arrival in Havona does is give thanks.",
+ "w04:174": {
+  "q": "The first act of your Havona career will be to recognize and thank your transport seconaphim for the long and safe journey. Then you are presented to those beings who will sponsor your early Havona activities. Next you go to register your arrival and prepare your message of thanksgiving and adoration for dispatch to the Creator Son of your local universe, the universe Father who made possible your sonship career.",
+  "cit": "30:4.28"
+ },
+ "w04:176": "Angels, too, are not fixed in place.",
+ "w04:178": {
+  "q": "The individual members of the angelic orders are not altogether stationary as to personal status in the universe. … Certain of the cherubim may aspire to seraphic status and destiny, while evolutionary seraphim can achieve the spiritual levels of the ascending Sons of God.",
+  "cit": "26:1.10"
+ },
+ "w04:180": "Some of the seraphim who once watched over mortals go on to enter the Corps of the Finality with them (31:0.5).",
+ "w04:182": "The high beings of this week at a glance (compiled by the author from Papers 16, 18, 20, 21, 24, 26)",
+ "w04:183": [
+  "Being",
+  "Origin",
+  "Chief place of service",
+  "Relation to our ascent"
+ ],
+ "w04:185": [
+  "Seven Master Spirits",
+  "Infinite Spirit (with all three Deities)",
+  "Paradise",
+  "Shape each superuniverse; leave the stamp of our birth"
+ ],
+ "w04:186": [
+  "Ancients of Days",
+  "Trinity",
+  "Superuniverse capital",
+  "Take us in as superuniverse wards"
+ ],
+ "w04:187": [
+  "Creator Son",
+  "Father and Eternal Son",
+  "Local universe capital",
+  "Father of our universe; pours out the Spirit of Truth"
+ ],
+ "w04:188": [
+  "Magisterial Son",
+  "Eternal Son and Infinite Spirit",
+  "Local universe",
+  "Judges planetary ages; wakes the sleeping survivors"
+ ],
+ "w04:189": [
+  "Trinity Teacher Son",
+  "All three Deities",
+  "Throughout the universes",
+  "Teachers of ascenders"
+ ],
+ "w04:190": [
+  "Seraphim",
+  "Local universe Mother Spirit",
+  "Local universe",
+  "Guardian angels of planetary and morontia life"
+ ],
+ "w04:191": [
+  "Seconaphim",
+  "Reflective Spirits",
+  "Superuniverse",
+  "Help in superuniverse life; carry us to Havona"
+ ],
+ "w04:192": [
+  "Supernaphim",
+  "Infinite Spirit and others",
+  "Havona and Paradise",
+  "Guide the Havona pilgrimage and Paradise worship"
+ ],
+ "w04:194": "Clearing Up a Misunderstanding",
+ "w04:195": "**Common misunderstanding**: When people die, they become angels.",
+ "w04:196": "**What The Urantia Book says**: Angels are children of the Infinite Spirit, an order distinct from human beings (24:0.1). After death a human being awakens as a morontia being and grows on toward spirit. The two are born differently, but they walk the same road together.",
+ "w04:199": "Alongside the Bible",
+ "w04:200": "The Letter to the Hebrews calls the angels \"ministering spirits, sent forth to minister for them who shall be heirs of salvation\" (Hebrews 1:14). This is the same idea as the book's ministering spirits, and The Urantia Book adds that this service reaches all the way to Paradise.",
+ "w04:203": "4. From Mortal to Finaliter — the Seven Stages of Ascent",
+ "w04:205": "A Road Open to All",
+ "w04:207": "Now we come to the one this great family exists to help: the human being. Paper 30 portrays the universe career of an ascending mortal in seven stages. The author first explains why the story is told this way.",
+ "w04:209": {
+  "q": "The following narrative presents the universe career of an Adjuster-indwelt mortal. … we have elected to tell this story as it pertains to the Adjuster-fused mortals, for such a destiny may be anticipated by all of the human races of Urantia.",
+  "cit": "30:4.9"
+ },
+ "w04:211": "The seven stages are planetary mortals, sleeping survivors, mansion world students, morontia progressors, superuniverse wards, Havona pilgrims, and Paradise arrivals. Mortals at the starting line may look different from planet to planet, but they all receive the same care.",
+ "w04:213": {
+  "q": "Mortals are all animal-origin evolutionary beings of ascendant potential. … The human races of each world receive the same ministry of the Sons of God and enjoy the presence of the ministering spirits of time. After natural death all types of ascenders fraternize as one morontia family on the mansion worlds.",
+  "cit": "30:4.10"
+ },
+ "w04:215": "Not everyone passes through the second stage. Many awaken directly on the mansion worlds, in the third. What carries a person across death? Paper 30 answers this way.",
+ "w04:217": {
+  "q": "The Adjuster is the custodian of the spirit transcript of the mind of the sleeping survivor. The assigned seraphim is the keeper of the surviving identity—the immortal soul—as far as it has evolved. And when these two, the Adjuster and the seraphim, reunite their personality trusts, the new individual constitutes the resurrection of the old personality, the survival of the evolving morontia identity of the soul.",
+  "cit": "30:4.15"
+ },
+ "w04:219": "We will look closely at the first steps after death, and at the mansion worlds, in Week 6.",
+ "w04:221": "The seven stages of ascent — from flesh and blood through morontia and spirit to Paradise (compiled by the author from 30:4.2-31)",
+ "w04:223": "A Changing Form",
+ "w04:225": "Paper 30 invites the Havona pilgrim to look back over the road traveled.",
+ "w04:227": {
+  "q": "On earth you were a creature of flesh and blood; through the local universe you were a morontia being; through the superuniverse you were an evolving spirit; with your arrival on the receiving worlds of Havona your spiritual education begins in reality and in earnest; your eventual appearance on Paradise will be as a perfected spirit.",
+  "cit": "30:4.26"
+ },
+ "w04:229": "\"Morontia\" names the intermediate reality between matter and spirit. A human being does not leap straight from a material body into spirit but crosses a long bridge in between. Even in the passage from morontia to spirit, only the form changes.",
+ "w04:231": {
+  "q": "The mind, personality, and character are unchanged by such an advance; only does the form undergo modification. But the spirit form is just as real as the morontia body, and it is equally discernible.",
+  "cit": "30:4.20"
+ },
+ "w04:233": "Around the time of leaving the local universe comes a decisive confirmation.",
+ "w04:235": {
+  "q": "From this point on, the status of the ascending mortal is forever settled. Superuniverse wards have never been known to go astray.",
+  "cit": "30:4.21"
+ },
+ "w04:237": "The One Perfection Carried into Havona",
+ "w04:239": "What does a pilgrim bring after the long ascent to Havona? Paper 26 gives a surprisingly modest answer.",
+ "w04:241": {
+  "q": "When, through and by the ministry of all the helper hosts of the universal scheme of survival, you are finally deposited on the receiving world of Havona, you arrive with only one sort of perfection—perfection of purpose. Your purpose has been thoroughly proved; your faith has been tested. You are known to be disappointment proof. Not even the failure to discern the Universal Father can shake the faith or seriously disturb the trust of an ascendant mortal who has passed through the experience that all must traverse in order to attain the perfect spheres of Havona. By the time you reach Havona, your sincerity has become sublime.",
+  "cit": "26:4.13"
+ },
+ "w04:243": "Even on reaching Havona, the ascender is not yet perfect in every way. Only one thing is perfect: the purpose of going to the Father. What is asked of us today is the seed of that purpose. And this is where the road leads.",
+ "w04:245": {
+  "q": "Your residence on Paradise signifies that you have found God, and that you are to be mustered into the Mortal Corps of the Finality.",
+  "cit": "30:4.31"
+ },
+ "w04:247": "The first thing learned on Paradise is worship. Paper 27 describes it like this.",
+ "w04:249": {
+  "q": "Worship is the highest joy of Paradise existence; it is the refreshing play of Paradise. What play does for your jaded minds on earth, worship will do for your perfected souls on Paradise.",
+  "cit": "27:7.5"
+ },
+ "w04:251": "Each great milestone of the ascent is also celebrated. Paper 27 lists seven jubilees.",
+ "w04:253": "The seven jubilees of the ascent (27:7.8)",
+ "w04:254": [
+  "Jubilee",
+  "What it celebrates"
+ ],
+ "w04:256": [
+  "First",
+  "The agreement with the Thought Adjuster, when the purpose to survive was sealed"
+ ],
+ "w04:257": [
+  "Second",
+  "The awakening in the morontia life"
+ ],
+ "w04:258": [
+  "Third",
+  "Fusion with the Thought Adjuster"
+ ],
+ "w04:259": [
+  "Fourth",
+  "The awakening in Havona"
+ ],
+ "w04:260": [
+  "Fifth",
+  "The finding of the Universal Father"
+ ],
+ "w04:261": [
+  "Sixth",
+  "The Paradise awakening from the final transit slumber"
+ ],
+ "w04:262": [
+  "Seventh",
+  "Entrance into the mortal finaliter corps and the start of eternal service"
+ ],
+ "w04:264": "New Words",
+ "w04:265": "**morontia**: The intermediate level of reality between matter and spirit; after death a person awakens in a morontia body.",
+ "w04:266": "**ascending pilgrim**: The name for a mortal survivor who has been cleared for the progressive ascent toward Paradise.",
+ "w04:267": "**Adjuster fusion**: The eternal union of a human soul with the indwelling Thought Adjuster; we will look at it closely in Week 10.",
+ "w04:270": "5. Made for Adventure — the Destiny of the Corps of the Finality",
+ "w04:272": "Not an Ending but a Beginning",
+ "w04:274": "Arrival on Paradise is not the end; it is a graduation and a fresh start. The ascenders enter the Corps of the Finality, and even there no one's individual face is erased.",
+ "w04:276": {
+  "q": "All the ascendant creatures admitted to this corps are received in equality, but this exalted equality in no way abrogates individuality or destroys personal identity.",
+  "cit": "31:0.9"
+ },
+ "w04:278": "Nor are the finaliters only in far-off places.",
+ "w04:280": {
+  "q": "One or more companies of the mortal finaliters are constantly in service on Urantia.",
+  "cit": "31:0.11"
+ },
+ "w04:282": "Elders who have completed the long ascent are at work on this very planet now. Paper 31 calls them the salt of the universe.",
+ "w04:284": {
+  "q": "They are indeed the accumulating tried and true souls of time and space—the evolutionary salt of the universe—and they are forever proof against evil and secure against sin.",
+  "cit": "31:0.13"
+ },
+ "w04:286": "Those who have climbed from below can give something that beings created perfect from the start cannot: the experience of wrestling with evil and choosing the good for themselves.",
+ "w04:288": "Why Such Long Training?",
+ "w04:290": "The final destiny of the finaliters has not yet been revealed. The authors say frankly that they do not know, and they invite the reader to wonder along with them.",
+ "w04:292": {
+  "q": "We deem that human beings are entitled to share our opinions, and that you are free to conjecture with us respecting the mystery of the ultimate destiny of the Paradise Corps of Finality. It seems evident to us that the present assignments of the perfected evolutionary creatures partake of the nature of postgraduate courses in universe understanding and superuniverse administration; and we all ask, \"Why should the Gods be so concerned in so thoroughly training surviving mortals in the technique of universe management?\"",
+  "cit": "31:3.8"
+ },
+ "w04:294": "The authors cautiously offer one guess.",
+ "w04:296": {
+  "q": "We think we know their future work, but we are not certain. While the Corps of the Mortal Finality is mobilizing on Paradise, and while they now so extensively minister to the universes of space and administer the worlds settled in light and life, their future destination must be the now-organizing universes of outer space. At least that is the conjecture of Uversa.",
+  "cit": "31:0.8"
+ },
+ "w04:298": "Since the authors themselves call this a conjecture, it should not be read as settled teaching. What is certain is that the ascent leads not to retirement but to preparation for greater service. The finaliters have achieved all that the road so far could give them, yet something lies beyond it still.",
+ "w04:300": {
+  "q": "The mortal finaliters have fully complied with the injunction of the ages, \"Be you perfect\"; they have ascended the universal path of mortal attainment; they have found God, and they have been duly inducted into the Corps of the Finality. Such beings have attained the present limit of spirit progression but not finality of ultimate spirit status.",
+  "cit": "31:3.6"
+ },
+ "w04:302": "Paper 31 gathers the whole long road into a single sentence and closes with a cry of wonder.",
+ "w04:304": {
+  "q": "Evolutionary mortals are born on the planets of space, pass through the morontia worlds, ascend the spirit universes, traverse the Havona spheres, find God, attain Paradise, and are mustered into the primary Corps of the Finality, therein to await the next assignment of universe service. … And as we view this sublime spectacle, we all exclaim: What a glorious destiny for the animal-origin children of time, the material sons of space!",
+  "cit": "31:10.20"
+ },
+ "w04:306": "The Spirit of Adventure Within Us",
+ "w04:308": "A restless mind that is always looking for something new and cannot stand boredom is often treated as a habit to be cured. The Urantia Book sees it differently.",
+ "w04:310": {
+  "q": "Love of adventure, curiosity, and dread of monotony—these traits inherent in evolving human nature—were not put there just to aggravate and annoy you during your short sojourn on earth, but rather to suggest to you that death is only the beginning of an endless career of adventure, an everlasting life of anticipation, an eternal voyage of discovery.",
+  "cit": "14:5.10"
+ },
+ "w04:312": "The unfamiliar relatives in that crowded house turned out to be people gathered to welcome the newcomer. The great family of the grand universe is the same. From the Master Spirits to the seraphim, all those names are helping hands, reaching out so that each person may come to the Father. Next week we descend from this large picture to the home closest to us: our local universe, Nebadon.",
+ "w04:314": "Alongside the Bible",
+ "w04:315": "\"Be you perfect\" in 31:3.6 is the same command as the Sermon on the Mount: \"Be ye therefore perfect, even as your Father which is in heaven is perfect\" (Matthew 5:48). Paul's words about what \"eye hath not seen, nor ear heard\" (1 Corinthians 2:9) also bring to mind the finaliters' destiny, which has not yet been revealed.",
+ "w04:319": "The Seven Master Spirits express the seven associations of the three Deities, and each oversees one superuniverse. Orvonton is in the care of Master Spirit Number Seven.",
+ "w04:320": "The Ancients of Days rule the superuniverses, and glorified ascendant mortals serve with them in the superuniverse government.",
+ "w04:321": "The Sons of God fall into three groups: descending Sons, ascending sons, and Trinitized Sons. Human beings are ascending sons.",
+ "w04:322": "A Creator Son's bestowal is not meant to change the Father's heart; it is the way a Son experiences creature life and becomes a sympathetic ruler.",
+ "w04:323": "The supernaphim, seconaphim, and seraphim form an unbroken chain of angels from Paradise down to the planets.",
+ "w04:324": "In the seven stages of ascent, a human being passes from flesh and blood through morontia and spirit to Paradise.",
+ "w04:325": "Arrival on Paradise is not the end but the beginning of a greater service in the Corps of the Finality.",
+ "w04:329": "Of the beings you met this week, which one stays with you most? How is that being connected with your own ascent?",
+ "w04:330": "The one perfection carried into Havona is \"perfection of purpose\" (26:4.13). What comfort and what challenge does this bring to your life of faith today?",
+ "w04:331": "If you saw your own curiosity and love of adventure as a foretaste of an eternal voyage (14:5.10), how might your attitude toward today's life change?",
+ "w04:335": "Papers 32–40 — Nebadon, Our Home Universe: the Creator Son and the Mother Spirit, the Sons and angels of the local universe"
+}
