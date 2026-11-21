@@ -1113,30 +1113,566 @@
  "99.b38.h": "Pontos-chave do documento 99",
  "99.b39.box": "A religião transforma a sociedade não por meio das instituições, mas por meio da experiência pessoal de conhecer a Deus como Pai e o homem como irmão.",
  "100.title": "A Religião na Experiência Humana",
+ "100.b0.ask": "“Como a religião cresce dentro de uma pessoa até, por fim, formar uma personalidade equilibrada como a de Jesus?”",
  "100.b1.h": "Visão geral",
+ "100.b2.p": "No documento 99 vimos que a religião transforma a sociedade não por meio das instituições, mas por meio da experiência dos indivíduos. O documento 100 entra agora nessa experiência pessoal. A experiência de uma vida religiosa dinâmica transforma um indivíduo comum em uma personalidade de poder idealista. E o progresso de cada pessoa soma-se ao progresso de todos.",
+ "100.b3.p": "O crescimento espiritual é estimulado pela convivência próxima com outros religiosos. O amor fornece o solo em que a religião cresce, e a religião enobrece até mesmo a labuta rotineira da vida diária.",
+ "100.b4.p": "Como, então, a religião cresce dentro de nós? E que tipo de personalidade está no fim desse crescimento?",
  "100.b6.h": "O documento",
  "100.b7.h": "1. O Crescimento Religioso",
+ "100.b8.p": "Uma criança avalia a experiência pelo prazer que ela traz, mas a maturidade cresce à medida que significados mais elevados tomam o lugar do prazer pessoal. Algumas pessoas estão ocupadas demais para crescer, e os principais obstáculos ao crescimento são o preconceito e a ignorância. Deve-se dar às crianças a oportunidade de desenvolverem a sua própria experiência religiosa, em vez de lhes impor uma experiência adulta já pronta. O crescimento real é medido não pelos produtos, mas pelo progresso.",
+ "100.b9.p": "As crianças são impressionadas de modo duradouro não pelos preceitos, nem mesmo pelo exemplo, mas apenas pelas lealdades dos adultos à sua volta. A religião não pode ser concedida, emprestada nem aprendida; é uma experiência pessoal que cresce à medida que cresce a busca dos valores finais. Os bons hábitos ajudam, mas o crescimento em si é sempre inconsciente — uma atividade criativa não no subconsciente, mas nos níveis superconscientes da mente.",
+ "100.b10.t": [
+  [
+   "Hábitos que favorecem o crescimento religioso",
+   "O que envolvem"
+  ],
+  [
+   "Sensibilidade",
+   "Cultivar a sensibilidade aos valores divinos"
+  ],
+  [
+   "Reconhecimento",
+   "Reconhecer a vida religiosa nos outros"
+  ],
+  [
+   "Meditação",
+   "Refletir sobre os significados cósmicos"
+  ],
+  [
+   "Uma atitude de adoração",
+   "Resolver os problemas com espírito de adoração"
+  ],
+  [
+   "Partilha",
+   "Partilhar a própria vida espiritual com os semelhantes"
+  ],
+  [
+   "Moderação",
+   "Evitar o egoísmo e recusar-se a abusar da misericórdia divina"
+  ],
+  [
+   "Consciência da sua presença",
+   "Viver como na presença de Deus"
+  ]
+ ],
  "100.b11.h": "2. O Crescimento Espiritual",
+ "100.b12.p": "O desenvolvimento espiritual depende de manter uma conexão viva com as verdadeiras forças espirituais e de dar frutos, passando aos outros aquilo que recebemos. O crescimento espiritual é primeiro um despertar para as necessidades, depois um discernimento dos significados e, então, uma descoberta dos valores. A espiritualidade é ao mesmo tempo um sinal de quão perto estamos de Deus e uma medida de quão úteis somos aos outros, e ela cresce à medida que o egoísmo é removido do nosso amor.",
+ "100.b13.t": [
+  [
+   "Estágio do crescimento espiritual",
+   "O que acontece"
+  ],
+  [
+   "1. Despertar",
+   "Tomamos consciência das nossas necessidades"
+  ],
+  [
+   "2. Discernimento",
+   "Reconhecemos os significados"
+  ],
+  [
+   "3. Descoberta",
+   "Encontramos os valores"
+  ],
+  [
+   "A evidência",
+   "Uma personalidade motivada pelo amor, ativa no ministério altruísta e dedicada à adoração sincera"
+  ]
+ ],
+ "100.b14.p": "A meta da auto-realização humana deve ser espiritual, não material. Os prazeres físicos e as afeições humanas existem para que os desfrutemos, mas não são os alicerces eternos de uma personalidade imortal. A pessoa que conhece a Deus tem um bastião interior, a cidadela do espírito, que nenhuma enxurrada de adversidades pode atingir. Assim, mesmo quando as nossas esperanças mais queridas desmoronam, podemos aceitar isso como um redirecionamento que abre caminho para realidades mais nobres e duradouras.",
  "100.b16.h": "3. Conceitos de Valor Supremo",
+ "100.b17.p": "A religião não é uma técnica para alcançar uma paz de espírito estática e bem-aventurada. É um impulso que organiza a alma para o serviço ativo — o engajamento do eu inteiro em amar a Deus e servir ao homem. As preferências e aversões humanas não decidem o que é bom e o que é mau. Devemos distinguir entre o que é valor e o que tem valor; o significado é aquilo que a experiência acrescenta ao valor, a consciência apreciativa dos valores.",
+ "100.b18.t": [
+  [
+   "Conceito",
+   "O que significa"
+  ],
+  [
+   "Valor",
+   "O que se experiencia quando as realidades se relacionam de modo significativo; nunca é estático"
+  ],
+  [
+   "Significado",
+   "O que a experiência acrescenta ao valor; a consciência apreciativa dos valores"
+  ],
+  [
+   "Crescimento",
+   "A união do factual com o potencial; a realização experiencial dos valores"
+  ],
+  [
+   "Valor supremo",
+   "O crescimento dos valores, o progresso nos significados e a compreensão de como os dois se relacionam"
+  ]
+ ],
+ "100.b19.p": "A mudança que não expande o significado não tem valor — é um mal potencial. Não podemos causar o crescimento, mas podemos prover as condições para ele. O amor cresce da mesma maneira: não pode ser fabricado nem comprado; precisa crescer. A única contribuição do homem para o crescimento é mobilizar todos os poderes da sua personalidade — a fé viva.",
  "100.b20.h": "4. Os Problemas do Crescimento",
+ "100.b21.p": "Novos significados só surgem em meio ao conflito. Não pode haver crescimento sem conflito psíquico e agitação espiritual. O grande problema da vida religiosa é unificar os poderes da alma sob o domínio do amor, e a felicidade mais elevada é inseparável do progresso espiritual. Jesus amava tanto os homens porque lhes atribuía um valor muito elevado.",
+ "100.b22.p": "O documento ilustra isso com o retrato de um ancestral que vivia em cavernas. Visto sozinho — rosnando, com o porrete erguido —, ele mal mostra a dignidade do homem. Mas amplie-se o quadro: diante dele está agachado um tigre dente-de-sabre e, atrás dele, estão uma mulher e duas crianças. Uma vez que vemos o seu motivo, o mesmo homem parece nobre. O amor não nasce da força de vontade; nasce da compreensão dos motivos do nosso próximo.",
+ "100.b23.t": [
+  [
+   "Como o amor cresce",
+   "O que acontece"
+  ],
+  [
+   "1. Compreensão",
+   "Procuramos, com simpatia, discernir o ponto de vista e as razões da outra pessoa"
+  ],
+  [
+   "2. Tolerância",
+   "A compreensão torna-nos tolerantes"
+  ],
+  [
+   "3. Amizade",
+   "A tolerância cresce até tornar-se amizade"
+  ],
+  [
+   "4. Amor",
+   "A amizade amadurece em amor"
+  ]
+ ],
  "100.b25.h": "5. A Conversão e o Misticismo",
+ "100.b26.p": "O mundo está cheio de almas perdidas — não perdidas no sentido teológico, mas perdidas quanto à direção. A consciência de Deus pode crescer de modo natural e gradual, ou pode vir de repente, em um momento de crise, como aconteceu com Paulo e com Gautama Sidarta. A maior parte dos fenômenos dramáticos de conversão é psicológica, mas também ocorrem experiências espirituais genuínas, quando a lealdade da mente é completa e o espírito residente alcança a mente superconsciente. Ainda assim, a emoção sozinha é uma falsa conversão; é preciso haver fé, além de sentimento.",
+ "100.b27.p": "Em vez de buscar a conversão, o melhor modo de aproximar-se do Ajustador é por meio da fé viva, da adoração sincera e da oração altruísta. O devaneio religioso habitual é perigoso, e os estados visionários semelhantes ao transe nunca devem ser cultivados como experiência religiosa. Jesus nunca recorreu a tais métodos para comungar com o Pai.",
+ "100.b28.t": [
+  [
+   "",
+   "O caminho saudável",
+   "O caminho perigoso"
+  ],
+  [
+   "Método",
+   "A adoração reflexiva e a oração de ação de graças",
+   "A busca de transes e de visões"
+  ],
+  [
+   "Direção da consciência",
+   "Rumo à zona superconsciente do contato espiritual",
+   "Puxada para baixo, rumo ao subconsciente"
+  ],
+  [
+   "O que a provoca",
+   "A fé viva e a oração altruísta",
+   "O cansaço, o jejum, o medo, a ansiedade, as danças frenéticas e coisas semelhantes"
+  ]
+ ],
  "100.b29.h": "6. Os Sinais do Viver Religioso",
+ "100.b30.p": "A religião não é uma função da vida; é um modo de viver. As marcas notáveis de toda religião são a lealdade inquestionável e a devoção sincera aos valores supremos. Mesmo que esses valores sejam baixos ou falsos, a devoção continua sendo religiosa — mas uma religião só é genuína na medida em que aquilo que ela tem por supremo seja um valor espiritual real.",
+ "100.b31.p": "A verdadeira religião é um amor vivo, uma vida de serviço. Ela nunca leva ao isolamento social e não destrói o senso de humor. Não tira nada da vida, mas acrescenta um novo significado a toda ela. A sua marca mais surpreendente é uma paz que ultrapassa toda compreensão. A religião evolucionária é uma experiência genuína, mas a religião revelada é também excelente, porque acrescenta a sabedoria divina.",
+ "100.b32.t": [
+  [
+   "",
+   "Religião evolucionária",
+   "Religião revelatória"
+  ],
+  [
+   "Motivo",
+   "A lealdade aos valores supremos",
+   "A mesma lealdade — os motivos são muito semelhantes"
+  ],
+  [
+   "Sabedoria",
+   "Sabedoria humana puramente experiencial",
+   "Acrescenta-se a sabedoria divina"
+  ],
+  [
+   "Avaliação",
+   "Genuína",
+   "Genuína e excelente"
+  ]
+ ],
  "100.b33.h": "7. O Apogeu da Vida Religiosa",
+ "100.b34.p": "A pessoa comum não pode esperar alcançar a perfeição de caráter que Jesus atingiu, mas todo crente pode desenvolver uma personalidade forte e unificada segundo as linhas da dele. O traço singular da personalidade do Mestre não era tanto a sua perfeição quanto a sua simetria — a sua unidade primorosa e equilibrada. Ele era verdadeiramente sincero, sem nada de hipócrita. Ele viveu a verdade, assim como a ensinou.",
+ "100.b35.t": [
+  [
+   "O caráter de Jesus",
+   "O seu equilíbrio"
+  ],
+  [
+   "Entusiasmo",
+   "Transbordava de entusiasmo divino, mas nunca foi fanático"
+  ],
+  [
+   "Emoção",
+   "Emocionalmente ativo, mas nunca inconstante"
+  ],
+  [
+   "Coragem",
+   "Corajoso, mas nunca imprudente"
+  ],
+  [
+   "Simpatia",
+   "Compassivo, mas não sentimental"
+  ],
+  [
+   "Originalidade",
+   "Singular, mas não excêntrico"
+  ],
+  [
+   "Piedade",
+   "Piedoso, mas não beato"
+  ]
+ ],
+ "100.b36.p": "Jesus não era um homem de tristezas, mas uma alma de alegria. A sua exortação constante era “⟦Q 100:7.9|137:1.6|152:4.2⟧Tende ânimo⟦/Q⟧”, e o seu lema era “Não temais”. Ele se indignava com o pecado, mas a sua indignação nunca se transformou em ira contra o pecador. Grande porque era bom, essa personalidade perfeitamente unificada ainda hoje unifica a experiência humana, simplifica a vida e transforma a mente.",
  "100.b37.h": "Conclusão",
+ "100.b38.p": "O documento 100 retrata a religião não como uma lista de crenças, mas como uma experiência que cresce. Esse crescimento não pode ser forçado; acontece silenciosamente, no nível superconsciente, à medida que vivemos cada momento com lealdade. Novos significados abrem-se quando passamos pelo conflito, e a tolerância, a amizade e o amor crescem à medida que chegamos a compreender os motivos do nosso próximo. A fé viva, a adoração e a oração altruísta são um caminho mais seguro do que as conversões emocionais ou as experiências místicas. E no fim desse caminho está a personalidade de Jesus, na qual o entusiasmo e a moderação, a coragem e a paciência estavam primorosamente equilibrados. Quem o tem dentro de si torna-se, dia após dia, uma nova criatura.",
+ "100.b39.t": [
+  [
+   "Seção",
+   "Mensagem principal"
+  ],
+  [
+   "1. O Crescimento Religioso",
+   "O crescimento é inconsciente; viver com lealdade é o caminho mais rápido"
+  ],
+  [
+   "2. O Crescimento Espiritual",
+   "A certeza espiritual é uma cidadela que nenhuma adversidade pode derrubar"
+  ],
+  [
+   "3. Conceitos de Valor Supremo",
+   "Não podemos causar o crescimento, mas podemos prover as suas condições"
+  ],
+  [
+   "4. Os Problemas do Crescimento",
+   "Compreender os motivos do próximo cresce até a tolerância, a amizade e o amor"
+  ],
+  [
+   "5. A Conversão e o Misticismo",
+   "A fé viva e a adoração são melhores do que a emoção ou as visões"
+  ],
+  [
+   "6. Os Sinais do Viver Religioso",
+   "A verdadeira religião é um amor vivo, uma vida de serviço"
+  ],
+  [
+   "7. O Apogeu da Vida Religiosa",
+   "A personalidade de Jesus estava menos na perfeição do que no equilíbrio e na unidade primorosos"
+  ]
+ ],
  "100.b40.h": "Pontos-chave do documento 100",
+ "100.b41.box": "A religião cresce por si mesma em uma vida de lealdade, até que, por fim, forma uma personalidade equilibrada e unificada como a de Jesus.",
  "101.title": "A Verdadeira Natureza da Religião",
+ "101.b0.ask": "“Como a religião tem certeza de um Deus que nem a ciência nem a filosofia podem provar — e como essa certeza liberta a pessoa?”",
  "101.b1.h": "Visão geral",
+ "101.b2.p": "No documento 100 vimos como a religião cresce dentro de uma pessoa. O documento 101 dá mais um passo e pergunta o que a religião realmente é. Como experiência humana, a religião estende-se desde a escravidão ao medo do homem primitivo até a sublime liberdade da fé daqueles que são conscientes da sua filiação ao Deus eterno.",
+ "101.b3.p": "A religião é ancestral da ética e da moral, mas não é meramente um movimento moral. Existe realmente uma verdadeira voz interior — a luz verdadeira que ilumina todo homem —, e essa condução do espírito é distinta das sugestões éticas da consciência. A certeza da religião vai além da razão da mente, além até mesmo da lógica da filosofia.",
+ "101.b4.p": "Por que meio, então, a religião tem certeza de Deus, e como ela se relaciona com a ciência, a filosofia e a revelação? E de que essa fé nos liberta?",
  "101.b6.h": "O documento",
  "101.b7.h": "1. A Verdadeira Religião",
+ "101.b8.p": "A verdadeira religião não é nem um sistema de crença filosófica provado pela razão, nem uma experiência extática desfrutada apenas pelos místicos. Ela não é produto da razão, mas, vista de dentro, é inteiramente razoável. É a experiência das realidades eternas no tempo. O Ajustador do Pensamento não tem nenhum mecanismo especial próprio para se expressar; ele atua por meio do mecanismo natural da mente mortal.",
+ "101.b10.p": "O espírito divino entra em contato conosco não por meio das emoções, mas no domínio do nosso pensamento mais elevado e mais espiritualizado. Assim, a religião não consiste em encontrar fatos novos ou experiências incomuns; consiste em descobrir novos significados espirituais em fatos já bem conhecidos. No fim, essa experiência leva a pessoa a concluir que não tem o direito de não crer em Deus. Duvidar de Deus seria mostrar-se infiel àquilo que há de mais profundo dentro de nós — o Ajustador divino.",
  "101.b11.h": "2. A Religião como um Fato",
+ "101.b12.p": "O fato da religião reside inteiramente na experiência religiosa de seres humanos racionais e comuns. A razão, por meio da ciência, pode remontar através da natureza a uma Causa Primeira, mas é preciso a fé para transformar essa Causa Primeira em um Deus de salvação, e é preciso a revelação para validar essa fé. A revelação afirma que a Causa Primeira da ciência e o Deus de salvação da religião são uma só e a mesma Deidade.",
+ "101.b13.t": [
+  [
+   "Domínio",
+   "A sua prova",
+   "O que produz"
+  ],
+  [
+   "Ciência",
+   "A razão",
+   "Conhecimento"
+  ],
+  [
+   "Religião",
+   "A fé",
+   "Felicidade"
+  ],
+  [
+   "Filosofia",
+   "A lógica",
+   "Unidade"
+  ],
+  [
+   "Revelação",
+   "Validada apenas pela experiência humana",
+   "Confirma a harmonia das outras três abordagens"
+  ]
+ ],
+ "101.b14.p": "A natureza só pode revelar um Deus da natureza, um Deus do movimento; ela não dá base para crer na sobrevivência da personalidade. O homem religioso que encontra Deus na natureza já o encontrou primeiro na sua própria alma. A religião depende não da erudição, mas do discernimento espiritual, e por isso está aberta igualmente aos instruídos e aos sem instrução. Para os que partilham tal experiência, nenhum argumento é necessário; para os que não a partilham, nenhum argumento jamais poderia ser convincente.",
+ "101.b15.t": [
+  [
+   "As razões básicas para crer em Deus",
+   "Quais são"
+  ],
+  [
+   "1. A experiência humana",
+   "A certeza, a esperança e a confiança pessoais iniciadas pelo Ajustador do Pensamento residente"
+  ],
+  [
+   "2. A revelação da verdade",
+   "O Espírito da Verdade, as outorgas dos Filhos divinos e as revelações escritas"
+  ]
+ ],
  "101.b16.h": "3. As Características da Religião",
+ "101.b17.p": "A religião é tão vital que persiste sem erudição e sobrevive até mesmo a cosmologias e filosofias falsas. O discernimento da fé é o dom da mente que trabalha com o Ajustador do Pensamento; a razão espiritual é o dom do Espírito Santo; e a filosofia espiritual é o dom do Espírito da Verdade. Juntos, eles fazem do homem uma personalidade espiritual em potencial. O documento enumera doze modos pelos quais a fé espiritual genuína se manifesta.",
+ "101.b18.t": [
+  [
+   "Marca da fé genuína",
+   "Mesmo diante de"
+  ],
+  [
+   "1. Faz progredir a ética e a moral",
+   "Tendências animais adversas"
+  ],
+  [
+   "2. Confia na bondade de Deus",
+   "Decepções amargas e derrotas esmagadoras"
+  ],
+  [
+   "3. Traz coragem e confiança profundas",
+   "Adversidades naturais e calamidades físicas"
+  ],
+  [
+   "4. Mostra equilíbrio e tranqüilidade inexplicáveis",
+   "Doenças desconcertantes e sofrimentos agudos"
+  ],
+  [
+   "5. Mantém a personalidade serena",
+   "Maus-tratos e as injustiças mais flagrantes"
+  ],
+  [
+   "6. Confia na vitória final",
+   "As crueldades de um destino aparentemente cego"
+  ],
+  [
+   "7. Mantém uma crença inabalável em Deus",
+   "Todas as demonstrações contrárias da lógica"
+  ],
+  [
+   "8. Crê na sobrevivência da alma",
+   "Os enganos da falsa ciência e da filosofia infundada"
+  ],
+  [
+   "9. Vive e triunfa",
+   "A sobrecarga esmagadora da civilização moderna"
+  ],
+  [
+   "10. Mantém vivo o altruísmo",
+   "O egoísmo, a cobiça e os conflitos sociais"
+  ],
+  [
+   "11. Crê na unidade do universo e na orientação divina",
+   "A presença do mal e do pecado"
+  ],
+  [
+   "12. Continua adorando a Deus",
+   "A despeito de tudo e todos: “⟦Q 101:3.16⟧Ainda que Ele me mate, ainda assim servirei a Ele⟦/Q⟧”"
+  ]
+ ],
+ "101.b19.p": "Assim, sabemos que um espírito divino reside no homem por três coisas: a fé religiosa, a revelação e essas reações extraordinárias ao ambiente material.",
  "101.b20.h": "4. As Limitações da Revelação",
+ "101.b21.p": "Os reveladores estão estritamente proibidos de transmitir conhecimentos não merecidos ou prematuros. Por isso, qualquer cosmologia apresentada com uma revelação logo fica ultrapassada, e os leitores posteriores são tentados a descartar a sua verdade religiosa por encontrarem erros na sua ciência. O documento diz isso claramente sobre si mesmo: os seus fatos históricos e as suas verdades religiosas permanecerão, mas muitas das suas afirmações sobre as ciências físicas precisarão ser revistas dentro de poucos anos. A cosmologia destas revelações não é inspirada.",
+ "101.b22.p": "A verdade é sempre uma revelação: auto-revelação, quando vem por meio do Ajustador, e revelação epocal, quando vem por meio de seres celestes. Em última análise, a religião deve ser julgada pelos seus frutos. Mesmo não sendo inspirada, uma cosmologia revelada tem valor real.",
+ "101.b23.t": [
+  [
+   "Valor de uma cosmologia revelada",
+   "O que faz"
+  ],
+  [
+   "1. Menos confusão",
+   "Elimina o erro com autoridade"
+  ],
+  [
+   "2. Coordenação",
+   "Organiza os fatos e as observações conhecidos"
+  ],
+  [
+   "3. Restauração",
+   "Recupera o conhecimento perdido do passado distante"
+  ],
+  [
+   "4. Preenchimento de lacunas",
+   "Fornece as peças que faltam no conhecimento que conquistamos"
+  ],
+  [
+   "5. Iluminação",
+   "Apresenta os dados cósmicos de modo a lançar luz sobre os ensinamentos espirituais"
+  ]
+ ],
  "101.b24.h": "5. A Religião Expandida pela Revelação",
+ "101.b25.p": "A revelação poupa eras e eras de tempo que, de outro modo, seriam gastas separando os erros da evolução das verdades do espírito. A ciência trata dos fatos; a religião, dos valores; e a filosofia procura unir os significados de ambas. A religião aparece em duas fases, e faz parte do plano do universo que a religião evolucionária seja expandida pela revelação.",
+ "101.b26.t": [
+  [
+   "",
+   "Religião evolucionária",
+   "Religião revelada"
+  ],
+  [
+   "Origem",
+   "Um derivado da mente — dádiva do espírito ajudante",
+   "Um derivado do espírito — promovida pelos espíritos de outorga"
+  ],
+  [
+   "Ênfase",
+   "A idéia do dever pessoal",
+   "O amor — a regra de ouro"
+  ],
+  [
+   "O que dá",
+   "A certeza da fé e a confirmação da consciência",
+   "A certeza da fé mais a verdade de uma experiência viva"
+  ]
+ ],
+ "101.b27.p": "O sentimento e a emoção sempre acompanham a religião, mas não são a religião. À medida que progredimos na vida moroncial, a certeza da verdade substitui cada vez mais a certeza da fé; e, no mundo espiritual, a certeza do puro discernimento espiritual soma-se a ambas.",
  "101.b28.h": "6. A Experiência Religiosa Progressiva",
+ "101.b29.p": "Em todos os estágios da experiência religiosa, o Ajustador é o segredo da realização pessoal do Supremo. Os animais têm conhecimento, mas só o homem tem capacidade para a sabedoria, e a verdade abre-se à mente que recebe o Ajustador do Pensamento e o Espírito da Verdade. O próprio Michael viveu sob a religião evolucionária até o seu batismo e, do batismo até a cruz, sob a religião evolucionária e a revelada combinadas.",
+ "101.b30.p": "Os ensinamentos de Jesus foram a primeira religião em Urântia a harmonizar o conhecimento, a sabedoria, a fé, a verdade e o amor tão plenamente que deram, ao mesmo tempo, a paz, a certeza e a garantia da sobrevivência. A fé de Jesus aponta para uma salvação sétupla.",
+ "101.b31.t": [
+  [
+   "A salvação sétupla",
+   "Como"
+  ],
+  [
+   "1. Dos grilhões materiais",
+   "Pela compreensão da filiação a Deus"
+  ],
+  [
+   "2. Da escravidão intelectual",
+   "A verdade o libertará"
+  ],
+  [
+   "3. Da cegueira espiritual",
+   "Pela compreensão da irmandade e pela descoberta da realidade por meio do serviço"
+  ],
+  [
+   "4. Da incompletude do eu",
+   "Pela conquista da harmonia de Havona e da perfeição do Paraíso"
+  ],
+  [
+   "5. Do eu",
+   "Pela libertação das limitações da autoconsciência"
+  ],
+  [
+   "6. Do tempo",
+   "Por uma vida eterna de progressão sem fim"
+  ],
+  [
+   "7. Do finito",
+   "Pela unidade perfeita com a Deidade, no Supremo e por meio dele"
+  ]
+ ],
+ "101.b32.p": "Ao nos apropriarmos da fé de Jesus, podemos antecipar no tempo o gosto das realidades da eternidade. O Pai que Jesus descobriu, nós também podemos descobrir — sendo o que somos, nesta primeira vida. Jesus foi e é o novo caminho vivo para o Pai.",
  "101.b33.h": "7. Uma Filosofia Pessoal da Religião",
+ "101.b34.p": "Uma filosofia pessoal da religião nutre-se tanto da experiência interior quanto das circunstâncias exteriores — a posição social, a educação, o temperamento, a vocação e até o casamento. Conclusões sadias exigem um pensamento aguçado e honesto; os covardes morais nunca alcançam níveis elevados de pensamento filosófico. A filosofia religiosa evolui por meio de quatro fases.",
+ "101.b35.t": [
+  [
+   "Fase da filosofia religiosa",
+   "Como se apresenta"
+  ],
+  [
+   "1. Conformidade",
+   "Submissão à tradição e à autoridade"
+  ],
+  [
+   "2. Contentamento",
+   "Satisfeita com realizações modestas, deixando as coisas como estão"
+  ],
+  [
+   "3. Estagnação",
+   "Alcança o intelecto lógico, mas permanece presa à servidão cultural"
+  ],
+  [
+   "4. Liberdade",
+   "Ousa pensar, agir e viver com honestidade, lealdade e destemor"
+  ]
+ ],
+ "101.b36.p": "A prova decisiva de qualquer filosofia religiosa é se ela distingue o mundo material do espiritual, reconhecendo ao mesmo tempo a sua unidade no esforço e no serviço. Uma filosofia sadia não confunde as coisas de Deus com as coisas de César.",
  "101.b37.h": "8. Fé e Crença",
+ "101.b38.p": "Aceitar um ensinamento como verdadeiro é apenas crença. A crença torna-se fé quando de fato molda o modo como vivemos. A fé crê na verdade, admira a beleza e reverencia a bondade, mas adora somente a Deus.",
+ "101.b39.t": [
+  [
+   "",
+   "Crença",
+   "Fé"
+  ],
+  [
+   "Natureza",
+   "Limitadora e restritiva — fixa",
+   "Expansiva e libertadora — liberta"
+  ],
+  [
+   "Posse",
+   "Pode tornar-se posse de um grupo",
+   "Só pode surgir no coração do indivíduo"
+  ],
+  [
+   "Relação com a vida",
+   "Pára na aceitação de um ensinamento",
+   "Domina o modo de viver"
+  ]
+ ],
+ "101.b40.p": "A fé trai a si mesma quando nega as realidades ou mina a honestidade intelectual. A fé viva não fomenta a intolerância nem a perseguição, não tem nenhum preconceito irracional contra as descobertas da ciência e move o religioso a viver heroicamente a regra de ouro.",
  "101.b41.h": "9. Religião e Moralidade",
+ "101.b42.p": "Nenhuma revelação é autêntica se deixa de reconhecer os deveres éticos fomentados pela religião evolucionária anterior; a revelação sempre amplia o horizonte ético. A religião primitiva deve ser julgada não pelos nossos padrões, mas pelo esclarecimento e pela consciência dos que a professavam. A busca da beleza e a arte só se tornam parte da religião quando são éticas e repletas de um elevado propósito espiritual.",
+ "101.b43.t": [
+  [
+   "Dois lados práticos da religião",
+   "O que significam"
+  ],
+  [
+   "1. A reação ética",
+   "Projetar para fora, nos assuntos dos outros, a própria avaliação dos valores morais"
+  ],
+  [
+   "2. Uma consciência espiritualizada",
+   "Acrescentar valores espirituais aos valores morais, tornando-se assim consciente da realidade divina"
+  ]
+ ],
+ "101.b44.p": "A fé liga a consciência moral ao conceito espiritual da realidade duradoura. Desse modo, a religião torna-se a via pela qual o homem escapa dos limites do mundo temporal rumo às realidades do mundo eterno.",
  "101.b45.h": "10. A Religião como Libertadora do Homem",
+ "101.b46.p": "Nem a causa e efeito da matéria nem a continuidade das idéias na mente podem mostrar a uma pessoa que a sua personalidade sobreviverá. A lógica e a razão, mesmo quando esgotadas, não revelam a verdade eterna da sobrevivência. Só no sentido espiritual o homem é filho de Deus e, ao aceitar pela fé a verdade de Deus, ele escapa dos confins da limitação material. Não pode haver prova científica ou lógica da divindade — mas quem quiser fazer a vontade de Deus compreenderá a validade dos valores espirituais.",
+ "101.b47.p": "A pessoa libertada pela fé não é mais uma parte escravizada do cosmo matemático, mas um filho volicional e liberto do Pai Universal. Ela já não enfrenta a morte sozinha nem luta contra toda a natureza em condições desesperadas. Deus e todas as hostes divinas do universo estão do seu lado e, por fim, ela vê o universo de dentro — do ponto de vista de Deus.",
  "101.b49.h": "Conclusão",
- "101.b52.h": "Pontos-chave do documento 101"
+ "101.b50.p": "O documento 101 começa deixando claro o que a religião não é. Não é uma filosofia provada, nem uma emoção extática, nem um assentimento intelectual à doutrina. É a fé, a confiança e a certeza que surgem quando o espírito residente nos encontra nos nossos pensamentos mais elevados. A ciência chega até uma Causa Primeira, e a filosofia, até a tentativa de unidade; é a revelação que afirma que essa Causa Primeira é o Deus de salvação, e é a nossa própria experiência que valida a revelação. O documento admite honestamente que até mesmo a sua própria cosmologia logo estará ultrapassada, e diz que a religião deve ser julgada pelos seus frutos: o equilíbrio no sofrimento, o amor altruísta e uma confiança inabalável em Deus. Por meio da fé, a pessoa é libertada dos laços da matéria, do tempo e do eu, e torna-se um filho liberto que vê o universo do ponto de vista de Deus.",
+ "101.b51.t": [
+  [
+   "Seção",
+   "Mensagem principal"
+  ],
+  [
+   "1. A Verdadeira Religião",
+   "São os nossos pensamentos mais elevados, e não os nossos sentimentos, que nos levam a Deus"
+  ],
+  [
+   "2. A Religião como um Fato",
+   "A revelação afirma que a Causa Primeira da ciência e o Deus de salvação são um só"
+  ],
+  [
+   "3. As Características da Religião",
+   "A fé genuína dá doze frutos em todo tipo de adversidade"
+  ],
+  [
+   "4. As Limitações da Revelação",
+   "A cosmologia revelada não é inspirada, mas ajuda a esclarecer o conhecimento"
+  ],
+  [
+   "5. A Religião Expandida pela Revelação",
+   "A religião evolucionária do dever está destinada a expandir-se na religião revelada do amor"
+  ],
+  [
+   "6. A Experiência Religiosa Progressiva",
+   "A fé de Jesus é o novo caminho vivo para uma salvação sétupla"
+  ],
+  [
+   "7. Uma Filosofia Pessoal da Religião",
+   "A coragem de pensar com destemor e honestidade produz uma filosofia elevada"
+  ],
+  [
+   "8. Fé e Crença",
+   "A crença fixa; a fé liberta"
+  ],
+  [
+   "9. Religião e Moralidade",
+   "A verdadeira revelação sempre amplia o horizonte ético"
+  ],
+  [
+   "10. A Religião como Libertadora do Homem",
+   "A fé transforma um escravo do cosmo matemático em um filho liberto"
+  ]
+ ],
+ "101.b52.h": "Pontos-chave do documento 101",
+ "101.b53.box": "A religião não é prova, mas uma certeza nascida da experiência viva com o espírito residente, e essa fé faz da pessoa um filho liberto de Deus."
 }
