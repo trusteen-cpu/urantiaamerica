@@ -1,0 +1,620 @@
+{
+ "p126.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p126.004": {
+  "en": "1. His Fourteenth Year (A.D. 8)",
+  "official": [
+   "1: O Seu Décimo Quarto Ano (8 d.C.)"
+  ]
+ },
+ "p126.007": {
+  "en": "2. The Death of Joseph",
+  "official": [
+   "2: A Morte de José"
+  ]
+ },
+ "p126.010": {
+  "en": "3. The Fifteenth Year (A.D. 9)",
+  "official": [
+   "3: O Décimo Quinto Ano (9 d.C.)"
+  ]
+ },
+ "p126.014": {
+  "en": "4. First Sermon in the Synagogue",
+  "official": [
+   "4: O Primeiro Sermão na Sinagoga"
+  ]
+ },
+ "p126.017": {
+  "en": "5. The Financial Struggle",
+  "official": [
+   "5: A Luta Financeira"
+  ]
+ },
+ "p127.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p127.004": {
+  "en": "1. The Sixteenth Year (A.D. 10)",
+  "official": [
+   "1: O Décimo Sexto Ano (10 d.C.)"
+  ]
+ },
+ "p127.008": {
+  "en": "2. The Seventeenth Year (A.D. 11)",
+  "official": [
+   "2: O Décimo Sétimo Ano (11 d.C.)"
+  ]
+ },
+ "p127.012": {
+  "en": "3. The Eighteenth Year (A.D. 12)",
+  "official": [
+   "3: O Décimo Oitavo Ano (12 d.C.)"
+  ]
+ },
+ "p127.015": {
+  "en": "4. The Nineteenth Year (A.D. 13)",
+  "official": [
+   "4: O Décimo Nono Ano (13 d.C.)"
+  ]
+ },
+ "p127.018": {
+  "en": "5. Rebecca, the Daughter of Ezra",
+  "official": [
+   "5: Rebeca, a Filha de Ezdras"
+  ]
+ },
+ "p127.021": {
+  "en": "6. His Twentieth Year (A.D. 14)",
+  "official": [
+   "6: O Seu Vigésimo Ano (14 d.C.)"
+  ]
+ },
+ "p128.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p128.003": {
+  "en": "1. The Twenty-First Year (A.D. 15)",
+  "official": [
+   "1: O Vigésimo Primeiro Ano (15 d.C.)"
+  ]
+ },
+ "p128.007": {
+  "en": "2. The Twenty-Second Year (A.D. 16)",
+  "official": [
+   "2: O Vigésimo Segundo Ano (16 d.C.)"
+  ]
+ },
+ "p128.010": {
+  "en": "3. The Twenty-Third Year (A.D. 17)",
+  "official": [
+   "3: O Vigésimo Terceiro Ano (17 d.C.)"
+  ]
+ },
+ "p128.013": {
+  "en": "4. The Damascus Episode",
+  "official": [
+   "4: O Episódio de Damasco"
+  ]
+ },
+ "p128.016": {
+  "en": "5. The Twenty-Fourth Year (A.D. 18)",
+  "official": [
+   "5: O Vigésimo Quarto Ano (18 d.C.)"
+  ]
+ },
+ "p128.019": {
+  "en": "6. The Twenty-Fifth Year (A.D. 19)",
+  "official": [
+   "6: O Vigésimo Quinto Ano (19 d.C.)"
+  ]
+ },
+ "p128.022": {
+  "en": "7. The Twenty-Sixth Year (A.D. 20)",
+  "official": [
+   "7: O Vigésimo Sexto Ano (20 d.C.)"
+  ]
+ },
+ "p129.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p129.003": {
+  "en": "1. The Twenty-Seventh Year (A.D. 21)",
+  "official": [
+   "1: O Vigésimo Sétimo Ano (21 d.C.)"
+  ]
+ },
+ "p129.007": {
+  "en": "2. The Twenty-Eighth Year (A.D. 22)",
+  "official": [
+   "2: O Vigésimo Oitavo Ano (22 d.C.)"
+  ]
+ },
+ "p129.010": {
+  "en": "3. The Twenty-Ninth Year (A.D. 23)",
+  "official": [
+   "3: O Vigésimo Nono Ano (23 d.C.)"
+  ]
+ },
+ "p129.013": {
+  "en": "4. The Human Jesus",
+  "official": [
+   "4: O Jesus Humano"
+  ]
+ },
+ "p130.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p130.004": {
+  "en": "1. At Joppa—Discourse on Jonah",
+  "official": [
+   "1: Em Jopa — O Discurso sobre Jonas"
+  ]
+ },
+ "p130.007": {
+  "en": "2. At Caesarea",
+  "official": [
+   "2: Em Cesaréia"
+  ]
+ },
+ "p130.010": {
+  "en": "3. At Alexandria",
+  "official": [
+   "3: Em Alexandria"
+  ]
+ },
+ "p130.013": {
+  "en": "4. Discourse on Reality",
+  "official": [
+   "4: O Discurso sobre a Realidade"
+  ]
+ },
+ "p130.016": {
+  "en": "5. On the Island of Crete",
+  "official": [
+   "5: Na Ilha de Creta"
+  ]
+ },
+ "p130.019": {
+  "en": "6. The Young Man Who Was Afraid",
+  "official": [
+   "6: O Jovem que Tinha Medo"
+  ]
+ },
+ "p130.022": {
+  "en": "7. At Carthage—Discourse on Time and Space",
+  "official": [
+   "7: Em Cartago — O Discurso sobre o Tempo e o Espaço"
+  ]
+ },
+ "p130.025": {
+  "en": "8. On the Way to Naples and Rome",
+  "official": [
+   "8: A Caminho de Nápoles e Roma"
+  ]
+ },
+ "p131.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p131.004": {
+  "en": "1. Cynicism",
+  "official": [
+   "1: O Cinismo"
+  ]
+ },
+ "p131.007": {
+  "en": "2. Judaism",
+  "official": [
+   "2: O Judaísmo"
+  ]
+ },
+ "p131.010": {
+  "en": "3. Buddhism",
+  "official": [
+   "3: O Budismo"
+  ]
+ },
+ "p131.013": {
+  "en": "4. Hinduism",
+  "official": [
+   "4: O Hinduísmo"
+  ]
+ },
+ "p131.016": {
+  "en": "5. Zoroastrianism",
+  "official": [
+   "5: O Zoroastrismo"
+  ]
+ },
+ "p131.019": {
+  "en": "6. Suduanism (Jainism)",
+  "official": [
+   "6: O Suduanismo (Jainismo)"
+  ]
+ },
+ "p131.021": {
+  "en": "7. Shinto",
+  "official": [
+   "7: O Xintoísmo"
+  ]
+ },
+ "p131.023": {
+  "en": "8. Taoism",
+  "official": [
+   "8: O Taoísmo"
+  ]
+ },
+ "p131.026": {
+  "en": "9. Confucianism",
+  "official": [
+   "9: O Confucionismo"
+  ]
+ },
+ "p131.028": {
+  "en": "10. ‘Our Religion’",
+  "official": [
+   "10: “A Nossa Religião”"
+  ]
+ },
+ "p132.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p132.005": {
+  "en": "1. True Values",
+  "official": [
+   "1: Os Verdadeiros Valores"
+  ]
+ },
+ "p132.008": {
+  "en": "2. Good and Evil",
+  "official": [
+   "2: O Bem e o Mal"
+  ]
+ },
+ "p132.011": {
+  "en": "3. Truth and Faith",
+  "official": [
+   "3: A Verdade e a Fé"
+  ]
+ },
+ "p132.014": {
+  "en": "4. Personal Ministry",
+  "official": [
+   "4: A Ministração Pessoal"
+  ]
+ },
+ "p132.017": {
+  "en": "5. Counseling the Rich Man",
+  "official": [
+   "5: Aconselhando o Homem Rico"
+  ]
+ },
+ "p132.020": {
+  "en": "6. Social Ministry",
+  "official": [
+   "6: A Ministração Social"
+  ]
+ },
+ "p132.023": {
+  "en": "7. Trips about Rome",
+  "official": [
+   "7: Viagens para fora de Roma"
+  ]
+ },
+ "p133.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p133.004": {
+  "en": "1. Mercy and Justice",
+  "official": [
+   "1: A Misericórdia e a Justiça"
+  ]
+ },
+ "p133.007": {
+  "en": "2. Embarking at Tarentum",
+  "official": [
+   "2: Embarcando para Tarento"
+  ]
+ },
+ "p133.010": {
+  "en": "3. At Corinth",
+  "official": [
+   "3: Em Corinto"
+  ]
+ },
+ "p133.014": {
+  "en": "4. Personal Work in Corinth",
+  "official": [
+   "4: O Trabalho Pessoal em Corinto"
+  ]
+ },
+ "p133.017": {
+  "en": "5. At Athens—Discourse on Science",
+  "official": [
+   "5: Em Atenas — O Discurso sobre a Ciência"
+  ]
+ },
+ "p133.020": {
+  "en": "6. At Ephesus—Discourse on the Soul",
+  "official": [
+   "6: Em Éfeso — O Discurso sobre a Alma"
+  ]
+ },
+ "p133.023": {
+  "en": "7. The Sojourn at Cyprus—Discourse on Mind",
+  "official": [
+   "7: A Permanência em Chipre — O Discurso sobre a Mente"
+  ]
+ },
+ "p133.026": {
+  "en": "8. At Antioch",
+  "official": [
+   "8: Em Antióquia"
+  ]
+ },
+ "p133.028": {
+  "en": "9. In Mesopotamia",
+  "official": [
+   "9: Na Mesopotâmia"
+  ]
+ },
+ "p134.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p134.003": {
+  "en": "1. The Thirtieth Year (A.D. 24)",
+  "official": [
+   "1: O Trigésimo Ano (24 d.C.)"
+  ]
+ },
+ "p134.006": {
+  "en": "2. The Caravan Trip to the Caspian",
+  "official": [
+   "2: A Viagem da Caravana ao Mar Cáspio"
+  ]
+ },
+ "p134.009": {
+  "en": "3. The Urmia Lectures",
+  "official": [
+   "3: Os Ensinamentos na Úrmia"
+  ]
+ },
+ "p134.012": {
+  "en": "4. Sovereignty—Divine and Human",
+  "official": [
+   "4: Soberania Divina e Soberania Humana"
+  ]
+ },
+ "p134.015": {
+  "en": "5. Political Sovereignty",
+  "official": [
+   "5: A Soberania Política"
+  ]
+ },
+ "p134.018": {
+  "en": "6. Law, Liberty, and Sovereignty",
+  "official": [
+   "6: Lei, Liberdade e Soberania"
+  ]
+ },
+ "p134.021": {
+  "en": "7. The Thirty-First Year (A.D. 25)",
+  "official": [
+   "7: O Trigésimo Primeiro Ano (25 d.C.)"
+  ]
+ },
+ "p134.024": {
+  "en": "8. The Sojourn on Mount Hermon",
+  "official": [
+   "8: A Permanência no Monte Hermom"
+  ]
+ },
+ "p134.027": {
+  "en": "9. The Time of Waiting",
+  "official": [
+   "9: O Tempo de Espera"
+  ]
+ },
+ "p135.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p135.004": {
+  "en": "1. John Becomes a Nazarite",
+  "official": [
+   "1: João Torna-se um Nazarita"
+  ]
+ },
+ "p135.007": {
+  "en": "2. The Death of Zacharias",
+  "official": [
+   "2: A Morte de Zacarias"
+  ]
+ },
+ "p135.009": {
+  "en": "3. The Life of a Shepherd",
+  "official": [
+   "3: A Vida de um Pastor"
+  ]
+ },
+ "p135.012": {
+  "en": "4. The Death of Elizabeth",
+  "official": [
+   "4: A Morte de Isabel"
+  ]
+ },
+ "p135.015": {
+  "en": "5. The Kingdom of God",
+  "official": [
+   "5: O Reino de Deus"
+  ]
+ },
+ "p135.018": {
+  "en": "6. John Begins to Preach",
+  "official": [
+   "6: João Começa a Pregar"
+  ]
+ },
+ "p135.021": {
+  "en": "7. John Journeys North",
+  "official": [
+   "7: A Jornada de João para o Norte"
+  ]
+ },
+ "p135.023": {
+  "en": "8. Meeting of Jesus and John",
+  "official": [
+   "8: O Encontro de Jesus e João"
+  ]
+ },
+ "p135.026": {
+  "en": "9. Forty Days of Preaching",
+  "official": [
+   "9: Os Quarenta Dias de Pregação"
+  ]
+ },
+ "p135.029": {
+  "en": "10. John Journeys South",
+  "official": [
+   "10: João Viaja para o Sul"
+  ]
+ },
+ "p135.031": {
+  "en": "11. John in Prison",
+  "official": [
+   "11: João na Prisão"
+  ]
+ },
+ "p135.034": {
+  "en": "12. Death of John the Baptist",
+  "official": [
+   "12: A Morte de João Batista"
+  ]
+ },
+ "p136.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p136.003": {
+  "en": "1. Concepts of the Expected Messiah",
+  "official": [
+   "1: Os Conceitos do Messias Esperado"
+  ]
+ },
+ "p136.006": {
+  "en": "2. The Baptism of Jesus",
+  "official": [
+   "2: O Batismo de Jesus"
+  ]
+ },
+ "p136.009": {
+  "en": "3. The Forty Days",
+  "official": [
+   "3: Os Quarenta Dias"
+  ]
+ },
+ "p136.012": {
+  "en": "4. Plans for Public Work",
+  "official": [
+   "4: Os Planos para o Trabalho Público"
+  ]
+ },
+ "p136.015": {
+  "en": "5. The First Great Decision",
+  "official": [
+   "5: A Primeira Grande Decisão"
+  ]
+ },
+ "p136.018": {
+  "en": "6. The Second Decision",
+  "official": [
+   "6: A Segunda Decisão"
+  ]
+ },
+ "p136.021": {
+  "en": "7. The Third Decision",
+  "official": [
+   "7: A Terceira Decisão"
+  ]
+ },
+ "p136.023": {
+  "en": "8. The Fourth Decision",
+  "official": [
+   "8: A Quarta Decisão"
+  ]
+ },
+ "p136.026": {
+  "en": "9. The Fifth Decision",
+  "official": [
+   "9: A Quinta Decisão"
+  ]
+ },
+ "p136.029": {
+  "en": "10. The Sixth Decision",
+  "official": [
+   "10: A Sexta Decisão"
+  ]
+ },
+ "p137.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p137.003": {
+  "en": "1. Choosing the First Four Apostles",
+  "official": [
+   "1: A Escolha dos Quatro Primeiros Apóstolos"
+  ]
+ },
+ "p137.006": {
+  "en": "2. Choosing Philip and Nathaniel",
+  "official": [
+   "2: A Escolha de Filipe e Natanael"
+  ]
+ },
+ "p137.009": {
+  "en": "3. The Visit to Capernaum",
+  "official": [
+   "3: A Visita a Cafarnaum"
+  ]
+ },
+ "p137.011": {
+  "en": "4. The Wedding at Cana",
+  "official": [
+   "4: O Matrimônio de Caná"
+  ]
+ },
+ "p137.015": {
+  "en": "5. Back in Capernaum",
+  "official": [
+   "5: De Volta a Cafarnaum"
+  ]
+ },
+ "p137.018": {
+  "en": "6. The Events of a Sabbath Day",
+  "official": [
+   "6: Os Acontecimentos de um Dia de Sabat"
+  ]
+ },
+ "p137.021": {
+  "en": "7. Four Months of Training",
+  "official": [
+   "7: Os Quatro Meses de Aprendizado"
+  ]
+ },
+ "p137.024": {
+  "en": "8. Sermon on the Kingdom",
+  "official": [
+   "8: O Sermão sobre o Reino"
+  ]
+ }
+}

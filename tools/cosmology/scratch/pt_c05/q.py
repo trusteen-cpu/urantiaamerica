@@ -1,0 +1,27 @@
+# -*- coding: utf-8 -*-
+import json, os
+H = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
+Q = {
+ "w08.016": "… Deus, o Supremo; Deus, o Último; e Deus, o Absoluto, são Personalidades em factualização da Deidade, das épocas pós-Havona no tempo-espaço e nas esferas tempo-espacialmente transcendidas da expansão evolucionária do universo-mestre.",
+ "w08.022": "Havona, em si e por si própria, é uma criação perfeita, mas de perfeição limitada …",
+ "w08.040": "… não ganharam experiencialmente esse direito de governar e, portanto, estão destinados, em algum tempo, a serem sobrepujados pelo Ser Supremo, um soberano experiencial …",
+ "w08.049": "Sabemos que a Havona da idade anterior do universo era, de certo modo, diferente da Havona da idade presente.",
+ "w08.069": "… esses filhos trinitarizados-por-criaturas, conquanto estejam na idade presente do universo, na verdade, são da próxima idade do universo — a idade que se seguirá, depois que se der o crescimento completo do Supremo.",
+ "w08.091": "No alvorecer da eternidade, ambos, o Pai e o Filho, tornam-Se infinitamente conhecedores da Sua mútua interdependência, da Sua eterna e absoluta unidade …",
+ "w08.161": "Todavia, Havona ela própria não é um transcendental — é Havona.",
+ "w09.057": "Uma coisa é certa: o nosso status foi estabelecido pelo abraço da Trindade, e não mais experienciamos manifestações sob a forma de crescimento.",
+ "w09.070": "Aquilo que é transcendental não implica necessariamente a ausência de desenvolvimento, mas é superevolucionário no sentido finito;",
+ "w09.077": "Que espécie de crescimento poderá caracterizar os universos do espaço exterior? Não sabemos. Contudo, estamos bastante seguros de que será algo muito diferente de qualquer coisa que haja sido vista na idade presente da evolução dos sete superuniversos.",
+ "w09.100": "Deus, enquanto suprapessoa, manifesta; Deus, enquanto pessoa, cria; Deus, enquanto pré-pessoa, fragmenta-se;",
+ "w09.119": "mas esses Filhos, em união com as Filhas do Espírito Infinito, podem criar apenas um Brilhante Estrela Matutino em cada universo,",
+ "w09.131": "pois o abraço da Trindade parece fazer precipitar, da corrente do tempo futuro, muitos dos potenciais irrealizados dos seres-criaturas.",
+ "w09.141": "As criaturas glorificadas que se engajam em tais aventuras de trinitarização podem participar de apenas uma experiência desta, enquanto, com as Deidades do Paraíso, parece não haver nenhum limite quanto à execução repetida dos episódios de trinitarização.",
+ "w09.152": "As relações existem entre dois objetos, mas três ou mais objetos formam e explicitam um sistema;",
+ "w09.162": "são onipessoais — eles existem antes da personalidade, eles são a personalidade, e existem após a personalidade.",
+ "w09.200": "ser-lhe-á concedido o privilégio de “contato pessoal” com o Brilho Central do Paraíso, será abraçado pelas Pessoas Luminosas, e desaparecerá do reconhecimento dos seus companheiros espirituais, para nunca mais reaparecer entre os da sua espécie.",
+ "w09.206": "e, na produção dos Servidores de Havona, a lei do predomínio do espírito prevalece; a proporção estabelecida é de três seres espirituais para um semifísico.",
+}
+todo = json.load(open(os.path.join(H, "work", "todo_pt_c05.json"), encoding="utf-8"))
+assert list(todo) == list(Q), set(todo) ^ set(Q)
+json.dump(Q, open(os.path.join(H, "pt", "quotes_c05.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print("quotes", len(Q))

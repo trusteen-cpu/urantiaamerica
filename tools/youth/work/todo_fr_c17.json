@@ -1,0 +1,392 @@
+{
+ "p185.010#1": {
+  "cit": "185:3.5",
+  "en": "what is truth",
+  "why": "partial sentence"
+ },
+ "p185.015#0": {
+  "cit": "185:5.4",
+  "en": "Barabbas, Barabbas!",
+  "why": "partial sentence"
+ },
+ "p185.016#0": {
+  "cit": "185:5.8",
+  "en": "I pray you have nothing to do with this innocent and just man",
+  "why": "partial sentence"
+ },
+ "p185.016#1": {
+  "cit": "185:5.9",
+  "en": "Crucify him! Crucify him!",
+  "why": "partial sentence"
+ },
+ "p185.018#0": {
+  "cit": "185:6.2",
+  "en": "Hail, king of the Jews!",
+  "why": "partial sentence"
+ },
+ "p185.021#1": {
+  "cit": "185:7.5",
+  "en": "If you release this man, you are not Caesar's friend",
+  "why": "partial sentence"
+ },
+ "p185.021#2": {
+  "cit": "185:7.5",
+  "en": "We have no king but Caesar",
+  "why": "sentence count en 11 vs fr 10"
+ },
+ "p186.002#0": {
+  "cit": "186:0.1",
+  "en": "Go to my mother and bring her to see me ere I die",
+  "why": "sentence count en 4 vs fr 3"
+ },
+ "p186.008#0": {
+  "cit": "186:2.6",
+  "en": "Pilate on trial before Jesus",
+  "why": "partial sentence"
+ },
+ "p186.008#1": {
+  "cit": "186:2.11",
+  "en": "Behold the man!",
+  "why": "partial sentence"
+ },
+ "p186.008#2": {
+  "cit": "186:2.11",
+  "en": "Behold God and man!",
+  "why": "partial sentence"
+ },
+ "p186.011#0": {
+  "cit": "186:3.4",
+  "en": "rise again on the third day",
+  "why": "partial sentence"
+ },
+ "p187.004#1": {
+  "cit": "187:1.3",
+  "en": "What I have written, I have written",
+  "why": "partial sentence"
+ },
+ "p187.004#2": {
+  "cit": "187:1.6",
+  "en": "weep not for me, but rather weep for yourselves and for your children",
+  "why": "partial sentence"
+ },
+ "p187.007#0": {
+  "cit": "187:2.4",
+  "en": "Father, forgive them, for they know not what they do",
+  "why": "partial sentence"
+ },
+ "p187.010#0": {
+  "cit": "187:3.3",
+  "en": "If you are the Son of God, why do you not come down from your cross?",
+  "why": "sentence count en 9 vs fr 7"
+ },
+ "p187.010#1": {
+  "cit": "187:3.3",
+  "en": "He saved others, but himself he cannot save",
+  "why": "partial sentence"
+ },
+ "p187.010#2": {
+  "cit": "187:3.5",
+  "en": "I thirst",
+  "why": "partial sentence"
+ },
+ "p187.012#0": {
+  "cit": "187:4.1",
+  "en": "Lord, remember me when you come into your kingdom",
+  "why": "partial sentence"
+ },
+ "p187.012#1": {
+  "cit": "187:4.1",
+  "en": "you shall sometime be with me in Paradise",
+  "why": "partial sentence"
+ },
+ "p187.013#0": {
+  "cit": "187:4.7",
+  "en": "Woman, behold your son!",
+  "why": "partial sentence"
+ },
+ "p187.013#1": {
+  "cit": "187:4.7",
+  "en": "My son, behold your mother!",
+  "why": "partial sentence"
+ },
+ "p187.015#0": {
+  "cit": "187:5.2",
+  "en": "My God, my God, why have you forsaken me?",
+  "why": "partial sentence"
+ },
+ "p187.016#0": {
+  "cit": "187:5.5",
+  "en": "It is finished! Father, into your hands I commend my spirit",
+  "why": "partial sentence"
+ },
+ "p187.016#1": {
+  "cit": "187:5.5",
+  "en": "truly he must have been a Son of God",
+  "why": "partial sentence"
+ },
+ "p188.004#0": {
+  "cit": "188:1.1",
+  "en": "This body is yours",
+  "why": "partial sentence"
+ },
+ "p188.010#0": {
+  "cit": "188:3.11",
+  "en": "Michael Memorial",
+  "why": "partial sentence"
+ },
+ "p188.015#0": {
+  "cit": "188:5.6",
+  "en": "Father, forgive them",
+  "why": "partial sentence"
+ },
+ "p189.002#0": {
+  "cit": "189:0.1",
+  "en": "laid down his life of his own free will, he also had power to take it up again in accordance with his own determination",
+  "why": "partial sentence"
+ },
+ "p189.010#0": {
+  "cit": "189:3.1",
+  "en": "let the roll call of the planetary resurrection begin",
+  "why": "partial sentence"
+ },
+ "p189.013#0": {
+  "cit": "189:4.10",
+  "en": "Whom do you seek?",
+  "why": "partial sentence"
+ },
+ "p189.013#1": {
+  "cit": "189:4.10",
+  "en": "Mary",
+  "why": "partial sentence"
+ },
+ "p189.013#2": {
+  "cit": "189:4.10",
+  "en": "My Lord, and my Master",
+  "why": "partial sentence"
+ },
+ "p189.013#3": {
+  "cit": "189:4.12",
+  "en": "Touch me not",
+  "why": "partial sentence"
+ },
+ "p190.004#0": {
+  "cit": "190:1.3",
+  "en": "I heard the Master say that, after he should die, he would rise on the third day, and I believe him",
+  "why": "sentence count en 10 vs fr 11"
+ },
+ "p190.005#0": {
+  "cit": "190:1.5",
+  "en": "Jesus has risen from the dead; the tomb is empty",
+  "why": "partial sentence"
+ },
+ "p190.008#0": {
+  "cit": "190:2.6",
+  "en": "Peace be upon you",
+  "why": "length mismatch 3.24"
+ },
+ "p190.008#1": {
+  "cit": "190:2.5",
+  "en": "even stronghearted men have begun to see him",
+  "why": "partial sentence"
+ },
+ "p190.010#0": {
+  "cit": "190:3.1",
+  "en": "I will be with you always, even to the ends of the earth",
+  "why": "partial sentence"
+ },
+ "p190.016#0": {
+  "cit": "190:5.5",
+  "en": "It is the Master",
+  "why": "partial sentence"
+ },
+ "p190.016#1": {
+  "cit": "190:5.6",
+  "en": "No wonder our hearts burned within us as he spoke to us while we walked along the road!",
+  "why": "partial sentence"
+ },
+ "p191.002#0": {
+  "cit": "191:0.11",
+  "en": "our mother says she talked with the Master, and we believe her",
+  "why": "partial sentence"
+ },
+ "p191.005#0": {
+  "cit": "191:1.2",
+  "en": "I believe he has risen from the dead",
+  "why": "length mismatch 2.14"
+ },
+ "p191.006#0": {
+  "cit": "191:1.4",
+  "en": "I have seen the Master",
+  "why": "partial sentence"
+ },
+ "p191.013#0": {
+  "cit": "191:4.3",
+  "en": "as you love one another, all men will know that you are my disciples",
+  "why": "partial sentence"
+ },
+ "p191.016#0": {
+  "cit": "191:5.2",
+  "en": "I will not believe unless I see the Master with my own eyes and put my finger in the mark of the nails",
+  "why": "sentence count en 3 vs fr 2"
+ },
+ "p191.016#1": {
+  "cit": "191:5.3",
+  "en": "I require of my disciples life",
+  "why": "partial sentence"
+ },
+ "p191.017#0": {
+  "cit": "191:5.5",
+  "en": "My Lord and my Master!",
+  "why": "length mismatch 0.45"
+ },
+ "p192.005#0": {
+  "cit": "192:1.3",
+  "en": "Lads, have you caught anything?",
+  "why": "partial sentence"
+ },
+ "p192.005#1": {
+  "cit": "192:1.3",
+  "en": "It is the Master",
+  "why": "partial sentence"
+ },
+ "p192.005#2": {
+  "cit": "192:1.4",
+  "en": "Well, John, I am glad to see you again",
+  "why": "partial sentence"
+ },
+ "p192.009#0": {
+  "cit": "192:2.1",
+  "en": "do you love me?",
+  "why": "partial sentence"
+ },
+ "p192.009#1": {
+  "cit": "192:2.4",
+  "en": "Lord, you know all things",
+  "why": "partial sentence"
+ },
+ "p192.010#0": {
+  "cit": "192:2.7",
+  "en": "do you trust me?",
+  "why": "partial sentence"
+ },
+ "p192.010#1": {
+  "cit": "192:2.9",
+  "en": "do you serve me?",
+  "why": "partial sentence"
+ },
+ "p192.011#0": {
+  "cit": "192:2.11",
+  "en": "do you obey me?",
+  "why": "partial sentence"
+ },
+ "p192.011#1": {
+  "cit": "192:2.13",
+  "en": "Nothing which a son of God does can be common",
+  "why": "sentence count en 14 vs fr 15"
+ },
+ "p192.015#0": {
+  "cit": "192:4.3",
+  "en": "we proclaim that we have seen him and talked with him",
+  "why": "partial sentence"
+ },
+ "p192.015#1": {
+  "cit": "192:4.3",
+  "en": "Peace be upon you",
+  "why": "partial sentence"
+ },
+ "p192.016#0": {
+  "cit": "192:4.8",
+  "en": "the religion of Jesus",
+  "why": "partial sentence"
+ },
+ "p192.016#1": {
+  "cit": "192:4.8",
+  "en": "religion about Jesus",
+  "why": "partial sentence"
+ },
+ "p193.005#0": {
+  "cit": "193:1.2",
+  "en": "as you are",
+  "why": "partial sentence"
+ },
+ "p193.014#0": {
+  "cit": "193:5.2",
+  "en": "Love men with the love wherewith I have loved you",
+  "why": "partial sentence"
+ },
+ "p193.014#1": {
+  "cit": "193:5.2",
+  "en": "Farewell",
+  "why": "length mismatch 0.57"
+ },
+ "p194.003#0": {
+  "cit": "194:0.7",
+  "en": "the fatherhood of God",
+  "why": "partial sentence"
+ },
+ "p194.003#1": {
+  "cit": "194:0.7",
+  "en": "the brotherhood of men",
+  "why": "partial sentence"
+ },
+ "p194.012#0": {
+  "cit": "194:3.5",
+  "en": "Where the spirit of the Lord is, there is liberty",
+  "why": "partial sentence"
+ },
+ "p195.003#0": {
+  "cit": "195:0.12",
+  "en": "are still latent in his gospel",
+  "why": "partial sentence"
+ },
+ "p195.005#0": {
+  "cit": "195:1.1",
+  "en": "the Unknown God",
+  "why": "partial sentence"
+ },
+ "p195.007#0": {
+  "cit": "195:2.2",
+  "en": "kingdom",
+  "why": "partial sentence"
+ },
+ "p195.009#0": {
+  "cit": "195:3.3",
+  "en": "unselfishness",
+  "why": "partial sentence"
+ },
+ "p195.013#0": {
+  "cit": "195:5.1",
+  "en": "seek first the realities of heaven",
+  "why": "partial sentence"
+ },
+ "p195.017#0": {
+  "cit": "195:6.16",
+  "en": "when you once start out to find God, that is the conclusive proof that God has already found you",
+  "why": "partial sentence"
+ },
+ "p195.028#0": {
+  "cit": "195:10.4",
+  "en": "The kingdom of God is within you",
+  "why": "partial sentence"
+ },
+ "p196.002#0": {
+  "cit": "196:0.2",
+  "en": "The living and loving Father in heaven",
+  "why": "partial sentence"
+ },
+ "p196.004#0": {
+  "cit": "196:0.13",
+  "en": "believe with him",
+  "why": "partial sentence"
+ },
+ "p196.004#1": {
+  "cit": "196:0.13",
+  "en": "Follow me",
+  "why": "partial sentence"
+ },
+ "p196.013#0": {
+  "cit": "196:3.33",
+  "en": "Be not discouraged",
+  "why": "partial sentence"
+ }
+}

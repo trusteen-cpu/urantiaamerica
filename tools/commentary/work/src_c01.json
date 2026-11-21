@@ -1,0 +1,1653 @@
+{
+ "ui.label_foreword": "Foreword",
+ "ui.label_paper": "Paper {n}",
+ "ui.label_short_foreword": "Fwd",
+ "ui.page_title": "{label}: {title} — Commentary",
+ "ui.page_og_title": "The Urantia Book {label}: {title} — Commentary",
+ "ui.badge_paper": "The Urantia Book · {label}",
+ "ui.contents": "Contents",
+ "ui.all_papers": "📚 All papers",
+ "ui.prev": "◀ Previous",
+ "ui.index": "Index",
+ "ui.next": "Next ▶",
+ "ui.print": "🖨 Print · PDF",
+ "ui.source": "Source",
+ "ui.foot": "Quotations are from The Urantia Book; click a reference to open that paragraph in a new tab.",
+ "ui.index_title": "Paper-by-Paper Commentary — The Urantia Book",
+ "ui.index_og_title": "The Urantia Book — Paper-by-Paper Commentary",
+ "ui.index_og_desc": "A study commentary on the Foreword and all 196 papers, with tables and quotations from the text",
+ "ui.index_badge": "The Urantia Book",
+ "ui.index_h1": "Paper-by-Paper Commentary",
+ "ui.index_sub": "The Foreword and 196 papers, explained with tables and quotations from the text ({ready}/197)",
+ "ui.home": "⌂ Home",
+ "ui.coming_soon": "coming soon",
+ "ui.part0": "Foreword",
+ "ui.part1": "Part I. The Central and Superuniverses",
+ "ui.part2": "Part II. The Local Universe",
+ "ui.part3": "Part III. The History of Urantia",
+ "ui.part4": "Part IV. The Life and Teachings of Jesus",
+ "p000.lead": "Deity, God, reality, personality, and the Trinities: reading the twelve sections of the Foreword through tables and the text itself.",
+ "p000.foot": {
+  "text": "Indited by an Orvonton Divine Counselor, Chief of the Corps of Superuniverse Personalities assigned to portray on Urantia the truth concerning the Paradise Deities and the universe of universes",
+  "ref": "0:12.14"
+ },
+ "p000.s0.h": "Introduction — Why Is There a Foreword?",
+ "p000.s0.b0": "The Foreword is the first thing anyone meets on opening The Urantia Book. Yet it does not begin with a story. It begins as a guide to terms, in which a Divine Counselor of Orvonton defines in advance the words that will be used later. The reason is stated plainly in the first paragraph: in human minds there is great confusion about the meaning of words like God, divinity, and deity, and still more uncertainty about the relationships of the divine personalities called by those names.",
+ "p000.s0.b2": "The revelators knew well how narrow human language is. So they state that they will use existing English words wherever possible and introduce new terms only when no suitable word can be found. The Foreword feels difficult partly because it deals with the highest realities of the universe, but also because it sets up at once the conceptual framework for all 196 papers that follow. It is therefore less a text to read once and finish than a map to return to whenever an unfamiliar concept appears.",
+ "p000.s0.b4": "The Foreword also begins by telling us where we are in the universe. Urantia is a planet in the local universe of Nebadon; Nebadon belongs to Orvonton, one of the seven superuniverses; the seven superuniverses circle the central universe of Havona; and at its heart lies Paradise. Keeping this address in mind makes everything that follows much clearer.",
+ "p000.s0.b5": {
+  "head": [
+   "Unit",
+   "Description"
+  ],
+  "rows": [
+   [
+    "Urantia",
+    "The planet we live on—one of the many inhabited planets of Nebadon"
+   ],
+   [
+    "Nebadon",
+    "The local universe ruled by Michael, a Creator Son"
+   ],
+   [
+    "Orvonton",
+    "The seventh superuniverse, which includes Nebadon; its capital is Uversa"
+   ],
+   [
+    "Grand universe",
+    "The central universe of Havona and the seven superuniverses—the now organized and inhabited creation"
+   ],
+   [
+    "Master universe",
+    "The grand universe together with the still-mobilizing universes of outer space"
+   ],
+   [
+    "Paradise",
+    "The center of all things, the dwelling place of the eternal God"
+   ]
+  ]
+ },
+ "p000.s1.h": "I. Deity and Divinity — Telling the Words for God Apart",
+ "p000.s1.b0": "The first distinction the Foreword draws is between Deity and divinity. Deity may be personalized as God, but it also exists in prepersonal and superpersonal ways that man cannot fully comprehend. The quality that characterizes Deity is unity, and creatures best comprehend this unifying quality as divinity.",
+ "p000.s1.b1": "Deity functions on seven levels. The first three are Deity as it already exists in eternity; the later levels are Deity as it is disclosed in time and space through creation and evolution.",
+ "p000.s1.b2": {
+  "head": [
+   "Level",
+   "Meaning"
+  ],
+  "rows": [
+   [
+    "1. Static",
+    "Self-contained and self-existent Deity"
+   ],
+   [
+    "2. Potential",
+    "Self-willed and self-purposive Deity"
+   ],
+   [
+    "3. Associative",
+    "Self-personalized and divinely fraternal Deity"
+   ],
+   [
+    "4. Creative",
+    "Self-distributive and divinely revealed Deity"
+   ],
+   [
+    "5. Evolutional",
+    "Self-expansive and creature-identified Deity"
+   ],
+   [
+    "6. Supreme",
+    "Self-experiential and creature-Creator-unifying Deity"
+   ],
+   [
+    "7. Ultimate",
+    "Self-projected and time-space-transcending Deity"
+   ]
+  ]
+ },
+ "p000.s1.b3": "Divinity appears in three ways, depending on how we experience it. This threefold distinction returns again and again whenever the book speaks of truth, beauty, and goodness.",
+ "p000.s1.b5": {
+  "head": [
+   "Viewpoint",
+   "How divinity appears"
+  ],
+  "rows": [
+   [
+    "Creature comprehension",
+    "Truth · beauty · goodness"
+   ],
+   [
+    "Personal relationship",
+    "Love · mercy · ministry"
+   ],
+   [
+    "Impersonal levels",
+    "Justice · power · sovereignty"
+   ]
+  ]
+ },
+ "p000.s2.h": "II. God — Seven Meanings",
+ "p000.s2.b0": "The Foreword strictly distinguishes Deity from God. Deity may or may not be personal, but God always denotes personality. So whenever we meet the word “God” in The Urantia Book, we should ask which personality it refers to. The Foreword sets out seven uses.",
+ "p000.s2.b2": {
+  "head": [
+   "Name",
+   "Role",
+   "Nature"
+  ],
+  "rows": [
+   [
+    "God the Father",
+    "Creator, Controller, and Upholder (the Universal Father)",
+    "Existential"
+   ],
+   [
+    "God the Son",
+    "Co-ordinate Creator, Spirit Controller, and Spiritual Administrator (the Eternal Son)",
+    "Existential"
+   ],
+   [
+    "God the Spirit",
+    "Conjoint Actor, Universal Integrator, and Mind Bestower (the Infinite Spirit)",
+    "Existential"
+   ],
+   [
+    "God the Supreme",
+    "The actualizing or evolving God of time and space",
+    "Experiential"
+   ],
+   [
+    "God the Sevenfold",
+    "Deity personality anywhere actually functioning in time and space",
+    "Associative"
+   ],
+   [
+    "God the Ultimate",
+    "The eventuating God of supertime and transcended space",
+    "Experiential"
+   ],
+   [
+    "God the Absolute",
+    "The experientializing God of transcended superpersonal values and divinity meanings",
+    "Experiential"
+   ]
+  ]
+ },
+ "p000.s2.b3": "The Universal Father also relates to us on three levels. On the prepersonal level he functions through Father fragments such as the Thought Adjusters; on the personal level, in the experience of created beings; on the superpersonal level, in the existence of absonite beings. That the Adjuster indwelling our minds is the Father in the first of these ways is the starting point of personal religion.",
+ "p000.s3.h": "III. The First Source and Center — Seven Co-ordinate Absolutes",
+ "p000.s3.b0": "The starting point of all reality is the First Source and Center, the Universal Father. The Foreword explains that total, infinite reality exists in seven phases, as seven co-ordinate Absolutes.",
+ "p000.s3.b2": {
+  "head": [
+   "Absolute",
+   "Brief description"
+  ],
+  "rows": [
+   [
+    "1. The First Source and Center",
+    "The Universal Father—source of personality"
+   ],
+   [
+    "2. The Second Source and Center",
+    "The Eternal Son—source of spirit"
+   ],
+   [
+    "3. The Third Source and Center",
+    "The Infinite Spirit—source of mind"
+   ],
+   [
+    "4. The Isle of Paradise",
+    "Source of the material universe; the nonpersonal pattern"
+   ],
+   [
+    "5. The Deity Absolute",
+    "Deified potential—the all-powerful activator"
+   ],
+   [
+    "6. The Universal Absolute",
+    "The unifier that co-ordinates the tension between the two"
+   ],
+   [
+    "7. The Unqualified Absolute",
+    "Undeified potential—the mechanizer of the universes"
+   ]
+  ]
+ },
+ "p000.s3.b3": "The Foreword tells how these seven “differentiated” as if it were a story in time. Of course in eternity there is no before and after; the sequence is given so that finite minds can grasp it. Through his free will the I AM achieved liberation from unqualified infinity, producing the first divinity-tension, which the Universal Absolute resolves. As the Son was differentiated from the Father and Paradise appeared, the Infinite Spirit and the central universe of Havona also appeared.",
+ "p000.s3.b4": "The key point to remember here is that everything springs from the Father’s will. The universe did not begin as a machine of chance or necessity, but from the free choice of a loving person.",
+ "p000.s4.h": "IV. Universe Reality — How Reality Is Divided",
+ "p000.s4.b0": "Reality originates in the infinite volition of the Universal Father and appears in three fundamental phases.",
+ "p000.s4.b1": {
+  "head": [
+   "Phase",
+   "Range"
+  ],
+  "rows": [
+   [
+    "Undeified reality",
+    "From the energy domains of the nonpersonal to the presence of the Unqualified Absolute"
+   ],
+   [
+    "Deified reality",
+    "From the lowest finite personality to the highest infinite, even to the presence of the Deity Absolute"
+   ],
+   [
+    "Interassociated reality",
+    "The vast domain between the two—embraced in the Universal Absolute"
+   ]
+  ]
+ },
+ "p000.s4.b2": "From the viewpoint of time and space, reality is further divided into actual and potential, absolute and subabsolute, and so on. The Foreword’s example is striking: the Eternal Son is an absolute spiritual actuality, while mortal man is very largely an unrealized spiritual potentiality. Our lives are the process of turning that potential into actuality.",
+ "p000.s4.b3": "Paradise is often misunderstood in this section. Paradise is the source of the material universe and the center of gravity, but it is not a creator, and it is not a person.",
+ "p000.s5.h": "V. Personality Realities — What a Human Being Is Made Of",
+ "p000.s5.b0": "The section of the Foreword that touches our lives most directly is the fifth, on personality. Personality is a level of deified reality, and it never arises on its own. It is the Father’s gift.",
+ "p000.s5.b2": "The Foreword then lays out human experience on Urantia on five levels. It is no exaggeration to say that this table condenses the view of man found throughout the whole book.",
+ "p000.s5.b3": {
+  "head": [
+   "Level",
+   "What it is",
+   "Destiny"
+  ],
+  "rows": [
+   [
+    "Body",
+    "The material or physical organism; a living electrochemical mechanism",
+    "Ends with death"
+   ],
+   [
+    "Mind",
+    "The thinking, perceiving, and feeling mechanism; grows upward through worship and wisdom",
+    "Becomes the mother of the soul"
+   ],
+   [
+    "Spirit",
+    "The indwelling Thought Adjuster; an immortal, prepersonal spirit",
+    "Destined to fuse with the personality"
+   ],
+   [
+    "Soul",
+    "A morontia reality acquired by experience; the spirit is its father and the mind its mother",
+    "Survives death"
+   ],
+   [
+    "Personality",
+    "The one changeless reality in an otherwise ever-changing experience",
+    "Survives together with the soul"
+   ]
+  ]
+ },
+ "p000.s5.b4": "The way the soul comes into being is especially beautiful. When a person chooses to do the will of the Father in heaven, a new reality is born between the indwelling spirit and the material mind.",
+ "p000.s5.b6": "Here a new term appears: morontia. Morontia designates the vast level between the material and the spiritual, and the Foreword likens it to a woven cloth whose warp is spiritual and whose woof is physical. Our soul is just such a morontia reality, and life on the mansion worlds after death is morontia life.",
+ "p000.s6.h": "VI. Energy and Pattern — Four Circuits",
+ "p000.s6.b0": "The sixth section sorts out the four drawing powers that move the universe. Whether a thing is personal, spirit, mind, or matter depends on which circuit it responds to.",
+ "p000.s6.b1": {
+  "head": [
+   "Circuit it responds to",
+   "Source",
+   "What we call it"
+  ],
+  "rows": [
+   [
+    "The personality circuit",
+    "The Universal Father",
+    "Personal"
+   ],
+   [
+    "The spirit circuit",
+    "The Eternal Son",
+    "Spirit"
+   ],
+   [
+    "The mind circuit",
+    "The Conjoint Actor (the Infinite Spirit)",
+    "Mind"
+   ],
+   [
+    "The material-gravity circuit",
+    "Nether Paradise",
+    "Matter · energy-matter"
+   ]
+  ]
+ },
+ "p000.s6.b2": "The Foreword also warns in advance that words like energy, force, and power are used differently from their everyday definitions; the poverty of language forces one word to carry several meanings. It then states that pattern can configure energy but cannot control it, and that the sole control of energy-matter is gravity.",
+ "p000.s7.h": "VII. The Supreme Being — The Evolving God",
+ "p000.s7.b0": "The seventh section introduces one of the most distinctive teachings of The Urantia Book. Deity is of two kinds: existential Deity, which exists eternally, like the Father, the Son, and the Spirit; and experiential Deity, which is being actualized as the universe grows, like God the Supreme, God the Ultimate, and God the Absolute.",
+ "p000.s7.b1": {
+  "head": [
+   "Existential Deity (eternal)",
+   "Experiential Deity (actualizing)"
+  ],
+  "rows": [
+   [
+    "God the Father",
+    "God the Supreme"
+   ],
+   [
+    "God the Son",
+    "God the Ultimate"
+   ],
+   [
+    "God the Spirit",
+    "God the Absolute"
+   ]
+  ]
+ },
+ "p000.s7.b3": "The Supreme Being is not a direct creator but a synthetic co-ordinator of all creature-Creator activity, and when finally actualized he will constitute the eternal fusion of the finite and the infinite. This teaching means a great deal to us. The choices we make and the experience we gather in time do not vanish; they actually contribute to the actualization of the evolving God.",
+ "p000.s8.h": "VIII. God the Sevenfold — Seven Ways He Draws Near to Us",
+ "p000.s8.b0": "A finite creature cannot approach the infinite Father directly. So the Father has provided a sevenfold way of approach to Deity.",
+ "p000.s8.b2": {
+  "head": [
+   "Order",
+   "Deity personality",
+   "Relation to us"
+  ],
+  "rows": [
+   [
+    "1",
+    "The Paradise Creator Sons",
+    "Father of the local universe—for us, Michael (Jesus)"
+   ],
+   [
+    "2",
+    "The Ancients of Days",
+    "Rulers of the superuniverse"
+   ],
+   [
+    "3",
+    "The Seven Master Spirits",
+    "Representatives of the Infinite Spirit who watch over the superuniverses"
+   ],
+   [
+    "4",
+    "The Supreme Being",
+    "The evolving God of time and space"
+   ],
+   [
+    "5",
+    "God the Spirit",
+    "The Infinite Spirit"
+   ],
+   [
+    "6",
+    "God the Son",
+    "The Eternal Son"
+   ],
+   [
+    "7",
+    "God the Father",
+    "The final goal of the ascent"
+   ]
+  ]
+ },
+ "p000.s8.b3": "The ascent begins with recognizing the divinity of the Creator Son, passes through the Ancients of Days and a Master Spirit, and at last reaches the Father on Paradise. In other words, for a person of Urantia the first step on the journey toward God is to know the Father through Jesus.",
+ "p000.s9.h": "IX–X. God the Ultimate; God the Absolute",
+ "p000.s9.b0": "Just as the Supreme Being evolves in the grand universe, God the Ultimate eventuates in the domains that transcend time and space. The Foreword contrasts the two concisely.",
+ "p000.s9.b2": "God the Absolute lies further still. He will be realized through the unification of the Absolute Trinity, and he is the goal of all superabsonite beings. The revelators deliberately hold back from speaking of this realm, frankly admitting that its reality goes beyond our concepts. This honesty is an attitude that runs through the whole Foreword.",
+ "p000.s10.h": "XI. The Three Absolutes",
+ "p000.s10.b0": "When the Father, in creating Havona, segregated his presence from infinite potential, the unrevealed infinite potential remained in the Unqualified Absolute and was encompassed by the Deity Absolute, and these two were bound together in the Universal Absolute.",
+ "p000.s10.b1": {
+  "head": [
+   "Absolute",
+   "Character",
+   "A figurative way to understand it"
+  ],
+  "rows": [
+   [
+    "The Deity Absolute",
+    "Deified potential",
+    "The all-powerful activator"
+   ],
+   [
+    "The Unqualified Absolute",
+    "Nonpersonal, undeified potential",
+    "The mechanizer of the universes"
+   ],
+   [
+    "The Universal Absolute",
+    "Unifies and co-ordinates the two",
+    "The balancer that equalizes tensions"
+   ]
+  ]
+ },
+ "p000.s10.b2": "Why does the Universal Absolute matter? Because our very ability, as finite beings, to exist in an infinite cosmos depends on it.",
+ "p000.s10.b4": "And the Foreword concludes that these three are in the end one Absolute. On subinfinite levels they appear functionally distinct, but in infinity they are one.",
+ "p000.s11.h": "XII. The Trinities",
+ "p000.s11.b0": "The last section deals with the Trinities. The eternal Paradise Trinity is existential and was inevitable. The two post-Havona Trinities, by contrast, are experiential and are still being actualized.",
+ "p000.s11.b1": {
+  "head": [
+   "Trinity",
+   "Members",
+   "Nature"
+  ],
+  "rows": [
+   [
+    "The Paradise Trinity",
+    "The Universal Father · the Eternal Son · the Infinite Spirit",
+    "Existential · infinite"
+   ],
+   [
+    "The Ultimate Trinity",
+    "The Supreme Being · the Supreme Creator Personalities · the Architects of the Master Universe",
+    "Experiential · now evolving"
+   ],
+   [
+    "The Absolute Trinity",
+    "God the Supreme · God the Ultimate · the Consummator of Universe Destiny",
+    "Experiential · in process of actualization"
+   ]
+  ]
+ },
+ "p000.s11.b3": "The philosophers of the universes postulate a “⟦Q 0:12.9⟧Trinity of Trinities⟦/Q⟧” embracing all of this, yet they confess that they cannot even envisage its personalization.",
+ "p000.s12.h": "Acknowledgment — How the Revelation Was Written",
+ "p000.s12.b0": "The close of the Foreword frankly explains how the revelation was written. Wherever possible, the revelators gave preference to the highest concepts humans had already expressed, and resorted to new expression only when those were inadequate. They selected more than one thousand human concepts from God-knowing mortals as the basis of the papers.",
+ "p000.s12.b1": "Finally, they explain why truth can be conveyed however inadequate language may be.",
+ "p000.s12.b3": "This sentence is the key to reading the whole Foreword. Its terms are difficult, but we are not left to understand them alone. The Adjuster within us and the Spirit of Truth turn unfamiliar concepts into living truth. So there is no need to be discouraged if we do not understand all of the Foreword. It is a text that grows a little clearer each time we come back to it as we read through the book.",
+ "p000.s13.h": "Conclusion — How to Read the Foreword",
+ "p000.s13.b0": {
+  "head": [
+   "Tip",
+   "Explanation"
+  ],
+  "rows": [
+   [
+    "Skim it the first time",
+    "Do not try to grasp every term at once; just get hold of the overall structure (I–XII)"
+   ],
+   [
+    "Use it like a dictionary",
+    "When an unfamiliar term comes up in the papers, come back to the Foreword to check it"
+   ],
+   [
+    "Keep existential and experiential apart",
+    "The distinction between what exists eternally and what is being actualized unlocks many sentences"
+   ],
+   [
+    "Remember the five levels",
+    "The distinction of body, mind, spirit, soul, and personality is the foundation of personal religion"
+   ],
+   [
+    "Read it again",
+    "After Part I, and again after the whole book, it will look entirely different"
+   ]
+  ]
+ },
+ "p001.lead": "The God of all creation, and a person we can know and love: the paper in which The Urantia Book first introduces the Universal Father.",
+ "p001.foot": {
+  "text": "Presented by a Divine Counselor of Uversa",
+  "ref": "1:7.9"
+ },
+ "p001.s0.h": "Introduction — Why Begin with the Father?",
+ "p001.s0.b0": "If the Foreword lays out a map of terms, Paper 1 introduces the One at the center of that map. Before it describes the structure of the universe or the orders of celestial beings, The Urantia Book speaks of the **Universal Father**, because all things and beings come from him and the journey of every ascending creature leads back to him. The paper asks us to think of God first as a creator, then as a controller, and lastly as an infinite upholder.",
+ "p001.s0.b2": "The God this paper portrays is no distant principle. The myriads of planetary systems were made to be inhabited by creatures who could know God, receive his affection, and love him in return, and the will creatures of universe upon universe have already set out on the long journey to attain the Father. So the opening of Paper 1 turns at once into a call addressed to us: be perfect, even as the Father in heaven is perfect.",
+ "p001.s0.b4": "The perfection meant here is not perfection in the infinite sense. Mortals, starting out where they are and moving in their own way, can still reach the divine goal that God has set for them. This perfection is less a flawless state than a direction—the direction of endless growth.",
+ "p001.s1.h": "I. The Father’s Name — What Matters More Than a Name",
+ "p001.s1.b0": "God is called by many names throughout the universes: the First Source, the Universe Center, the Father of Fathers, the Paradise Father, and others. Yet the paper makes a striking claim: God has never revealed himself by name, only by nature. He makes himself known not through a title but through what he is.",
+ "p001.s1.b1": {
+  "head": [
+   "Where",
+   "The name used"
+  ],
+  "rows": [
+   [
+    "Most often, throughout the universes",
+    "First Source · Universe Center"
+   ],
+   [
+    "Our constellation headquarters",
+    "Universal Father"
+   ],
+   [
+    "Planets of our local system",
+    "Father of Fathers · Paradise Father · Havona Father · Spirit Father"
+   ],
+   [
+    "Believers on bestowal worlds",
+    "“our Father”"
+   ],
+   [
+    "Urantia",
+    "God"
+   ]
+  ]
+ },
+ "p001.s1.b2": "What, then, really matters? The paper’s answer is plain. Whatever name we use, the important thing is to know him and to long to become like him.",
+ "p001.s1.b4": "Nor does God impose formal worship or slavish service on anyone. Each person must, in his or her own heart, recognize, love, and freely worship him. This is why the paper calls **the affectionate dedication of the human will to doing the Father’s will** man’s choicest gift to God. Of all that we have, the only thing God does not already possess is our free choice.",
+ "p001.s2.h": "II. The Reality of God — How Do We Know Him?",
+ "p001.s2.b0": "God is primal reality in the spirit world, the source of truth in the mind spheres, and he overshadows all throughout the material realms. The paper states firmly that God is neither manlike nor machinelike. He is universal spirit, eternal truth, infinite reality, and father personality.",
+ "p001.s2.b1": "How, then, do we know that God exists? Never by scientific experiment or by logical deduction. God can be realized only in the realms of human experience. The paper says that the presence of the Thought Adjuster dwelling within us is disclosed by three kinds of experience.",
+ "p001.s2.b2": {
+  "head": [
+   "Experience",
+   "What it is"
+  ],
+  "rows": [
+   [
+    "God-consciousness",
+    "The intellectual capacity for knowing God"
+   ],
+   [
+    "God-seeking",
+    "The spiritual urge to find God"
+   ],
+   [
+    "The Father’s will",
+    "The personality craving to be like God — the wholehearted desire to do his will"
+   ]
+  ]
+ },
+ "p001.s2.b4": "The surest evidence a believer can offer others, then, is not an argument but a life. The person who knows God carries in his or her own experience the only positive proof of the living God that one human being can give to another.",
+ "p001.s3.h": "III. God is a Universal Spirit",
+ "p001.s3.b0": "“⟦Q 1:3.1⟧God is spirit.⟦/Q⟧” This classic confession stands at the center of the third section. To be created “⟦Q 1:3.1⟧in his image⟦/Q⟧” does not mean that God has a body like ours; it means that Mystery Monitors sent from his presence dwell within us. Spirit is invisible to human eyes, yet it is entirely real.",
+ "p001.s3.b1": "The section also explains, briefly, how survival works. A mind linked only to matter cannot survive death. But when a God-conscious mind becomes more and more spirit taught and spirit led, its spiritual potential is transformed into the morontia reality of the immortal soul. A mind that remains bound to matter to the end, by contrast, comes at last to personality extinction.",
+ "p001.s3.b2": "This passage has very practical meaning for the life of faith. Survival does not depend on how much we know or how faithfully we keep religious rites. It depends on whether the mind accepts the leading of the spirit in the small choices we make each day. The Urantia Book therefore treats survival not as a question for some distant future but as one bound up with today’s decisions. Each time we choose honesty, choose kindness, choose trust over fear, the soul within us grows a little more.",
+ "p001.s3.b3": {
+  "head": [
+   "Where the mind turns",
+   "The outcome"
+  ],
+  "rows": [
+   [
+    "It accepts the teaching and leading of the spirit",
+    "The morontia soul grows and survives death"
+   ],
+   [
+    "It stays subservient to matter",
+    "It becomes ever more material and ends in personality extinction"
+   ]
+  ]
+ },
+ "p001.s3.b4": "At the close of the section the Divine Counselor adds his own testimony. As one who came forth from the Eternal and has returned again and again to the presence of the Universal Father, he affirms that two great declarations are true.",
+ "p001.s4.h": "IV. The Mystery of God — God Within Us",
+ "p001.s4.b0": "Because God’s perfection is infinite, he remains forever a mystery. Yet the greatest mystery the paper names is not the stars or the vastness of the universe. It is the fact that divinity dwells within the minds of mortals.",
+ "p001.s4.b2": "The fragment of God within us is not yet ours by right of possession, but it is designed to become one with us if we survive. When our course on earth is run, the dust returns to the earth from which it came, and the spirit returns to God who gave it.",
+ "p001.s4.b3": "God, moreover, is no respecter of persons. The divine presence any creature enjoys is not limited by favoritism on God’s part, but only by that creature’s capacity to receive and discern spiritual realities. If we want to meet more of God, it is not God who must change; we must widen our capacity to receive him.",
+ "p001.s5.h": "V–VI. Personality of the Universal Father; Personality in the Universe",
+ "p001.s5.b0": "We must not let God’s infinity obscure his personality. The paper says that the Universal Father is the acme of divine personality, the origin and destiny of all personality throughout creation. God is both infinite and personal; he is an infinite personality.",
+ "p001.s5.b2": "This personal God takes part in our lives at the deepest level. His spirit is a real part of us, so that when we are afflicted he is afflicted, and when we triumph he triumphs in and with us. God is not an indifferent observer; he is a Father who shares what we go through.",
+ "p001.s5.b3": "The sixth section sets out how differently people understand God. The same God appears as a cause, an idea, or a living person, depending on where one stands.",
+ "p001.s5.b4": {
+  "head": [
+   "To",
+   "God is"
+  ],
+  "rows": [
+   [
+    "Science",
+    "A cause · a primal force"
+   ],
+   [
+    "Philosophy",
+    "An idea · a hypothesis of unity"
+   ],
+   [
+    "Religion",
+    "A person · the loving heavenly Father · a living spiritual experience"
+   ]
+  ]
+ },
+ "p001.s5.b5": "The section also tells us who has shown God’s personality most clearly. Jesus of Nazareth attained the full realization of the potential of spirit personality in human experience, and his life of doing the Father’s will became man’s most real and ideal revelation of the personality of God. If we want to know what God is like, we can look at the life of Jesus.",
+ "p001.s6.h": "VII. Spiritual Value of the Personality Concept",
+ "p001.s6.b0": "The final section explains why the idea of a personal God matters so much. The concept of a personal God makes fellowship possible, encourages intelligent worship, and nurtures a refreshing trust. Impersonal things can interact, but they cannot have fellowship.",
+ "p001.s6.b1": "For this reason the paper corrects a familiar image from mysticism. We do not become one with God the way a drop of water is lost in the ocean. We are united with him through personal communion and wholehearted conformity to his will, gradually taking on more and more of the divine nature.",
+ "p001.s6.b2": {
+  "head": [
+   "Value",
+   "Its relation to personality"
+  ],
+  "rows": [
+   [
+    "Truth",
+    "Might be entertained apart from personality"
+   ],
+   [
+    "Beauty",
+    "May exist without personality"
+   ],
+   [
+    "Goodness",
+    "Understandable only in relation to personality"
+   ]
+  ]
+ },
+ "p001.s7.h": "Conclusion — Living This Paper",
+ "p001.s7.b0": "Paper 1 is less a body of information about God than an invitation into a relationship with him. Its message can be gathered into three points. God is a person whom we can know and love. He already lives within us as spirit. And the one true gift we can offer him is our free choice to do his will.",
+ "p001.s7.b1": {
+  "head": [
+   "Practice",
+   "The teaching behind it"
+  ],
+  "rows": [
+   [
+    "Pause once a day and become aware of the Father within",
+    "The mortal body is a temple of God"
+   ],
+   [
+    "Facing a decision, ask, “What is the Father’s will?”",
+    "The dedication of our will is the choicest gift"
+   ],
+   [
+    "Treat everyone you meet as a child of the same Father",
+    "God is no respecter of persons"
+   ],
+   [
+    "Come to know God through the mirror of Jesus’ life",
+    "Jesus is the most real revelation of God’s personality"
+   ]
+  ]
+ },
+ "p001.s7.b2": "After Paper 1, the papers that follow unfold in turn the nature of God (Paper 2), his attributes (Paper 3), and his relation to the universe and to the individual (Papers 4 and 5). If we read them with the picture from this first paper in mind—a Father who can be known and loved—we will sense that even the harder concepts ahead all point toward this one Person.",
+ "p002.lead": "The paper that portrays what the infinite and perfect God is like in his justice and mercy, his love and goodness, and his truth and beauty.",
+ "p002.foot": {
+  "text": "Presented by a Divine Counselor acting by authority of the Ancients of Days on Uversa",
+  "ref": "2:7.13"
+ },
+ "p002.s0.h": "Introduction — Where Do We See God’s Nature?",
+ "p002.s0.b0": "If Paper 1 introduced God as a Father who can be known, Paper 2 looks at that Father’s **nature**—the character he possesses. It takes up in turn his infinity, his perfection, his justice, his mercy, his love, his goodness, and his truth and beauty. At the outset the author makes clear that the best window on the divine nature is not an abstract definition but the life of Jesus of Nazareth.",
+ "p002.s0.b1": "At the same time the author frankly admits the limits of the task. The mortal mind has limited capacity, and human language is poor in the illustrations needed to portray divine values. The attempt is not futile, however, because the mortal mind is indwelt by the Adjuster and pervaded by the Spirit of Truth. Understanding God becomes possible, in the end, when the God within us helps.",
+ "p002.s0.b2": {
+  "head": [
+   "Section",
+   "Aspect of God’s nature",
+   "The point in a line"
+  ],
+  "rows": [
+   [
+    "1",
+    "Infinity",
+    "Beyond measure, yet he downsteps himself to draw near"
+   ],
+   [
+    "2",
+    "Eternal perfection",
+    "His purpose never changes, and he shares in our imperfection"
+   ],
+   [
+    "3",
+    "Justice and righteousness",
+    "We reap what we sow, but justice is always tempered with mercy"
+   ],
+   [
+    "4",
+    "Divine mercy",
+    "Mercy is justice tempered by wisdom"
+   ],
+   [
+    "5",
+    "Love",
+    "God is love—the Adjuster is the proof"
+   ],
+   [
+    "6",
+    "Goodness",
+    "God loves as a father"
+   ],
+   [
+    "7",
+    "Truth and beauty",
+    "Truth, beauty, and goodness are unified in love"
+   ]
+  ]
+ },
+ "p002.s1.h": "I. The Infinity of God — The Immeasurable One Draws Near",
+ "p002.s1.b0": "The first section gathers the confessions of ancient scripture to show God’s infinity. God is fully self-conscious of his infinity and perfection; he is neither a cosmic accident nor a universe experimenter. The Universe Sovereigns may engage in adventure and the Constellation Fathers may experiment, but the Father sees the end from the beginning. For him there is no past or future; all time is present.",
+ "p002.s1.b2": "Yet this very infinity shuts him off from direct personal communication with finite creatures. So the Father, in love, downsteps and dilutes his infinity to make a way of drawing near to his children. The paper names three such ways.",
+ "p002.s1.b3": {
+  "head": [
+   "The way he draws near",
+   "How it works"
+  ],
+  "rows": [
+   [
+    "The Paradise Sons of God",
+    "They partake of the flesh and blood of the planetary races and become one with us—as in the bestowal of Michael"
+   ],
+   [
+    "The personalities of the Infinite Spirit",
+    "The seraphic hosts and other celestial intelligences minister to material beings"
+   ],
+   [
+    "The Thought Adjusters",
+    "The impersonal Mystery Monitors come to indwell the minds of mortals"
+   ]
+  ]
+ },
+ "p002.s1.b4": "The close of the section shows that infinity is not a concept that pushes us away. Man cannot encompass infinity, but the infinite Father fully comprehends and lovingly embraces all the finity of his children. That is why the words “⟦Q 2:1.11⟧In Him we live and move and have our being⟦/Q⟧” are literal truth. The Adjuster within us is itself a fragment of that infinity.",
+ "p002.s2.h": "II. The Father’s Eternal Perfection — A Purpose That Never Changes",
+ "p002.s2.b0": "God’s plans and purposes are like himself: eternal, perfect, and forever changeless. He does not repent of the wise purposes he first set. When the attitudes of his creatures change, his reactions may seem to change as well—but only on the surface. Beneath every outward manifestation flows the same unchanging purpose.",
+ "p002.s2.b1": "What deserves special notice in this section is the character of that perfection. God’s perfection is not an assumed righteousness but the inherent **perfection of the goodness** of his nature. And the perfect One does not keep to himself. The whole scheme of life on the worlds of space is centered on lifting will creatures to share the Father’s perfection.",
+ "p002.s2.b3": "Remarkably, the perfect God, who cannot personally know imperfection as his own experience, nonetheless shares the consciousness of all the imperfectness experienced by the struggling creatures of the evolutionary universes. Our immaturity and our mistakes are not far removed from God; the Father actually participates in them. This is a comfort on the days we fail: we are not alone.",
+ "p002.s3.h": "III. Justice and Righteousness — We Reap What We Sow",
+ "p002.s3.b0": "God is righteous, and therefore he is just. His justice is not swayed by the deeds of his creatures; it shows no respect of persons and takes no gifts. So, the paper says, it is futile to make childish appeals to God in the hope of escaping the just consequences of his natural laws and spiritual mandates.",
+ "p002.s3.b2": "The same paragraph at once restores the balance. Even in the reaping of the harvest of wrongdoing, divine justice is always tempered with mercy. The final result of wholehearted sin is annihilation, yet this is less a penalty imposed by God than the outcome of a creature becoming wholly unreal through the embrace of iniquity. And even that end is delayed until the ordained order of justice has been fully complied with.",
+ "p002.s3.b3": {
+  "head": [
+   "Step",
+   "What happens"
+  ],
+  "rows": [
+   [
+    "When",
+    "At the dispensational or epochal adjudication of the realm—on Urantia, at the end of a planetary dispensation"
+   ],
+   [
+    "Judgment",
+    "Co-ordinate action of all tribunals, from the planetary council through the courts of the Creator Son to the tribunals of the Ancients of Days"
+   ],
+   [
+    "Mandate",
+    "The mandate of dissolution originates in the higher courts of the superuniverse after the indictment is confirmed"
+   ],
+   [
+    "Execution",
+    "Carried out directly by the judges resident on the superuniverse headquarters"
+   ],
+   [
+    "Result",
+    "No resurrection—the personality ceases, and its experience is absorbed in the Supreme Being"
+   ]
+  ]
+ },
+ "p002.s3.b4": "Beneath this section lies a simple principle. Undiluted evil and willful sin are inherently suicidal; what is unreal survives for a time only because of the tolerance of mercy. In the local universes the Creator Sons devote themselves to the rehabilitation of rebels, and the decree of dissolution is executed only when all such loving efforts are finally and forever rejected.",
+ "p002.s4.h": "IV. The Divine Mercy — Justice Tempered by Wisdom",
+ "p002.s4.b0": "The fourth section defines mercy not as the opposite of justice but as a form of it. God knows perfectly the natural weaknesses and environmental handicaps of his creatures, and the wisdom that grows from that knowledge tempers his justice. That is mercy.",
+ "p002.s4.b2": "Nor is God’s mercy something anyone has to coax out of him. The creature’s need alone is enough to ensure the full flow of the Father’s mercy. Because God knows all about his children, forgiveness is easy for him. The paper adds that the same principle holds between people.",
+ "p002.s4.b4": {
+  "head": [
+   "",
+   "Justice",
+   "Mercy"
+  ],
+  "rows": [
+   [
+    "Root",
+    "The righteousness of God",
+    "The natural offspring of goodness and love"
+   ],
+   [
+    "Working",
+    "Follows the just consequences of law",
+    "Adapts justice to the situation of the evolving finite"
+   ],
+   [
+    "Relation",
+    "Tempered by mercy",
+    "Not a contravention of justice but its understanding interpretation"
+   ]
+  ]
+ },
+ "p002.s4.b5": "God is never torn between justice and mercy, because infinite wisdom chooses the conduct that satisfies the demands of all his attributes perfectly, simultaneously, and equally. Unlike us, who are forever pulled between the two, God knows no conflict of attitudes. Together, eternal justice and divine mercy constitute what in human experience would be called **fairness**.",
+ "p002.s5.h": "V. The Love of God — The Adjuster as Proof",
+ "p002.s5.b0": "“⟦Q 2:5.1⟧God is love⟦/Q⟧.” His only personal attitude toward the affairs of the universe is therefore always a reaction of divine affection. The paper plainly calls it wrong to think that God is coaxed into loving his children by the sacrifices of his Sons or the intercession of others. The Father himself loves us, and it is in response to that affection that he sends the Adjusters.",
+ "p002.s5.b1": "The author says that the supreme reason for loving God is the Adjuster patiently waiting within us. Though we cannot find God by searching, if we submit to the leading of the indwelling spirit, we will be guided step by step and life by life until at last we stand in the Father’s presence. The distance in space and the gulf of spiritual difference are great, but God has already bridged that gulf in his own way.",
+ "p002.s5.b3": "The author’s own confession is striking. He says he would love God just as much if he were not so great and powerful, so long as he is good and merciful. We love the Father more for his nature than for his amazing attributes. Yet God’s love is not blind. It is an intelligent and farseeing parental affection that works in unity with divine wisdom.",
+ "p002.s5.b4": "The paper also sums up where God’s love is shown. Its greatest **manifestation** to mortals is the bestowal of the Thought Adjusters; its greatest **revelation** is the bestowal life of Michael, who lived on earth the ideal spiritual life. And it is the indwelling Adjuster who individualizes that love to each human soul.",
+ "p002.s6.h": "VI. The Goodness of God — He Loves as a Father",
+ "p002.s6.b0": "Beauty may be seen in the physical universe and truth discerned in the intellectual world, but the goodness of God is found only in personal religious experience. The God of philosophy may be great and absolute, but the God of religion must be good. Man might fear a great God, but he trusts and loves only a good God.",
+ "p002.s6.b1": {
+  "head": [
+   "Concept of God",
+   "Its fruits and its limits"
+  ],
+  "rows": [
+   [
+    "King and judge",
+    "Fostered a high moral standard and a law-respecting people, but left the individual insecure"
+   ],
+   [
+    "Father to Israel (the later Hebrew prophets)",
+    "A Father embracing the whole nation"
+   ],
+   [
+    "Father of each human being (Jesus)",
+    "The close family morality of parent and child—the entire mortal concept of God illuminated"
+   ]
+  ]
+ },
+ "p002.s6.b3": "From this standpoint the paper criticizes the atonement doctrine. To suppose that God’s righteousness cannot be reconciled with his love is to make him a divided personality, one of justice and one of mercy. But the Father needs no mediator in order to forgive; God as a father transcends God as a judge. God is never wrathful, vengeful, or angry.",
+ "p002.s6.b4": "The saying “⟦Q 2:6.8⟧God loves the sinner and hates the sin⟦/Q⟧” is also made more precise here. Persons can love and hate only other persons, and sin is not a person. So the love of God saves the sinner, and the law of God destroys the sin. The goodness of God is the universal tendency to love, show mercy, manifest patience, and minister forgiveness.",
+ "p002.s7.h": "VII. Divine Truth and Beauty — The Unity of Three Values",
+ "p002.s7.b0": "The last section begins by teaching humility. All finite knowledge is relative; even information from high sources is only locally accurate and personally true. The philosopher’s gravest error is the “⟦Q 2:7.5⟧fallacy of abstraction⟦/Q⟧”—seizing one aspect of reality and declaring it the whole truth. Truth is beautiful because it is both replete and symmetrical.",
+ "p002.s7.b1": "The section says that all things in the universe move toward unification. The physical universe coheres in the Isle of Paradise, the intellectual universe in the Conjoint Actor, and the spiritual universe in the personality of the Eternal Son. The isolated mortal of time and space coheres in God the Father through the indwelling Thought Adjuster. The Adjuster within us is a fragment of God that forever seeks divine unification.",
+ "p002.s7.b2": "The section also points out what goes wrong when religion stresses goodness in isolation. The Hebrew religion failed to associate the goodness of God with the truths of science and the beauty of art, and the isolated morality of modern religion fails to hold the loyalty of many. The remedy is a new philosophy of living that gives equal consideration to truth, beauty, and goodness.",
+ "p002.s7.b3": {
+  "head": [
+   "Value",
+   "Its quality",
+   "How it appears"
+  ],
+  "rows": [
+   [
+    "Truth",
+    "Coherent",
+    "All truth—material, philosophic, or spiritual—is both beautiful and good"
+   ],
+   [
+    "Beauty",
+    "Attractive",
+    "All real beauty—material art or spiritual symmetry—is both true and good"
+   ],
+   [
+    "Goodness",
+    "Stabilizing",
+    "All genuine goodness—personal morality, social equity, or divine ministry—is true and beautiful"
+   ]
+  ]
+ },
+ "p002.s8.h": "Conclusion — Living This Paper",
+ "p002.s8.b0": "The God of Paper 2 is infinite yet draws near, perfect yet shares in our imperfection, righteous yet merciful. What binds all these qualities together is love, and that love has been given to us concretely in the Adjuster and in the life of Jesus. The paper shows that knowing God’s nature is closely tied to changing our own attitudes.",
+ "p002.s8.b1": {
+  "head": [
+   "Practice",
+   "The teaching behind it"
+  ],
+  "rows": [
+   [
+    "When forgiving someone is hard, try to understand that person more deeply",
+    "The better we understand, the easier it is to forgive"
+   ],
+   [
+    "On a day of failure, remember that God shares the experience",
+    "The Father participates in the experience of imperfection"
+   ],
+   [
+    "Rather than trying to escape consequences, take care to sow well",
+    "Whatsoever a man sows, that shall he also reap"
+   ],
+   [
+    "Approach God as a Father, not as a fearsome judge",
+    "God loves as a father"
+   ],
+   [
+    "Pursue truth, beauty, and goodness together",
+    "Their integration is health, sanity, and happiness"
+   ]
+  ]
+ },
+ "p002.s8.b2": "Paper 3 goes on to the attributes of God—his omnipresence, omnipotence, omniscience, and more. If we read it remembering the “Father who is love” met in Paper 2, we will find that even those vast attributes are other faces of his love for his children.",
+ "p003.lead": "God is everywhere present, all-powerful, and all-knowing: the paper that shows how these attributes touch our everyday lives.",
+ "p003.foot": {
+  "text": "Being the Divine Counselor assigned to the presentation of the revelation of the Universal Father",
+  "ref": "3:6.9"
+ },
+ "p003.s0.h": "Introduction — The Attributes Converge in Fatherhood",
+ "p003.s0.b0": "If Paper 2 portrayed God’s character, Paper 3 takes up his **attributes**: his everywhereness, infinite power, universal knowledge, limitlessness, supreme rule, and primacy. From the start the paper notes that the infinite Father is invisible, and that the ones who compensate for this invisibility are the Creator Sons. They are the personal expression of God to the children of time and space.",
+ "p003.s0.b1": "The author is careful about ranking the attributes. Still, if one had to be put first, it would be creatorship. And that creatorship reaches its height in the truth that God is a Father. All the vast attributes this paper discusses point toward that single fact of fatherhood.",
+ "p003.s1.h": "I. God’s Everywhereness — The Friend Within Our Own Heart",
+ "p003.s1.b0": "God alone can be in numberless places at the same time. He is present in all parts and in all hearts of his creation, and it is literally true that God is all and in all. But the paper adds at once that while the cosmos reveals God, it cannot hold the whole of his infinity. The living God is immeasurably greater than the sum of creation.",
+ "p003.s1.b2": "The warmest passage in this section is its confession that God lives in the creature. A paragraph gathering the sayings of ancient sages portrays God not as one far away but as part of us.",
+ "p003.s1.b4": "This presence is not untouched by our wrongdoing. The Thought Adjuster must go through the consequences of evil thinking together with the mind it indwells. So when we do wrong, we are in effect tormenting the gift of God within us.",
+ "p003.s1.b5": {
+  "head": [
+   "Realm of presence",
+   "How God is present"
+  ],
+  "rows": [
+   [
+    "The physical universe",
+    "Potentially, in the gravity circuits of the Isle of Paradise—the primordial foundation of the coherence of material creation"
+   ],
+   [
+    "Mind",
+    "Potentially, in the mind circuits of the Conjoint Actor and in the tensions of the Universal Absolute"
+   ],
+   [
+    "Spirit",
+    "Co-ordinated with the spirit presence of the Eternal Son and the potential of the Deity Absolute"
+   ],
+   [
+    "The personality circuit and the Adjusters",
+    "God acts uniquely, directly, and exclusively"
+   ]
+  ]
+ },
+ "p003.s1.b6": "This section also explains why God’s presence feels different from one person to another. Whether an Adjuster indwells a mind determines the fact of God’s presence, but his **effective presence** depends on how far that mind co-operates with the Adjuster. The Father does not withdraw because he has been slighted; his children, by their own choices, determine how far his influence reaches in their hearts.",
+ "p003.s2.h": "II. God’s Infinite Power — A Power That Is Not Blind",
+ "p003.s2.b0": "All the universes know that the Lord God omnipotent reigns. God is the primal cause of all physical phenomena; viewed as an unspiritual phenomenon, God is energy. He has ordained the circuits of all energy and decreed the time and manner in which energy-matter appears, and all of it is held in the gravity control centering on nether Paradise.",
+ "p003.s2.b1": "Yet the weight of this section lies less in the size of God’s power than in its character. The Father is not a transient force or a fluctuating energy. When emergencies arise in human experience, he has already foreseen them all. When natural laws seem to be suspended or hastily corrected, it only looks that way because our view is so narrow.",
+ "p003.s2.b3": "For the same reason, many of God’s acts seem arbitrary or even cruel to us. His doings consider the best good not only of one person or one planet but of all concerned. Since we are part of God’s family, we must sometimes share in the family discipline. And many things happen on the evolutionary worlds that are not the personal doings of the Father. This is an important teaching: we should not at once attribute suffering to the will of God.",
+ "p003.s2.b4": {
+  "head": [
+   "What limits God’s power",
+   "In what way"
+  ],
+  "rows": [
+   [
+    "The nature of God",
+    "His infinite love, and truth, beauty, and goodness"
+   ],
+   [
+    "The will of God",
+    "His mercy ministry and fatherly relationship with the personalities of the universe"
+   ],
+   [
+    "The law of God",
+    "The righteousness and justice of the eternal Paradise Trinity"
+   ]
+  ]
+ },
+ "p003.s3.h": "III. God’s Universal Knowledge — Down to a Single Sparrow",
+ "p003.s3.b0": "God knows all things. The Universal Father is the only personality in all the universe who actually knows the number of the stars and planets of space. Quoting Jesus, the paper says that not one sparrow falls to the ground without the Father’s knowledge, and that the very hairs of our heads are numbered. God’s knowledge is supplemented indirectly through the divine Sons and directly through the indwelling Adjusters.",
+ "p003.s3.b2": "If God knows everything in advance, what becomes of our freedom? The paper does not decide whether God chooses to foreknow events of sin. It says only that even if he does, such foreknowledge does not in the least abrogate his children’s freedom. Omnipotence, moreover, is not the power to do the ungodlike, and omniscience is not the knowing of the unknowable.",
+ "p003.s4.h": "IV. God’s Limitlessness — Given Away, Yet Never Diminished",
+ "p003.s4.b0": "The Father has given himself unstintingly to his Sons, his creations, and their countless creatures, yet he has lost nothing of what he possesses. However many new universes come into being, the controlling power of Paradise remains adequate; however freely mind is distributed to countless beings, the source of divine wisdom is not impoverished. Nor is there any limit to the number of Adjusters he can send.",
+ "p003.s4.b1": "Finite man cannot think his way through God’s infinity. But here the paper offers a striking turn: that same finite human being can actually experience the full and undiminished impact of the infinite Father’s love. The quantity of that experience, however, is limited by our capacity for spiritual receptivity—our capacity to love the Father in return.",
+ "p003.s5.h": "V. The Father’s Supreme Rule — Why Uncertainty Is Needed",
+ "p003.s5.b0": "In the creations beyond Havona the Father does not exercise his power directly; he rules through his Sons and their subordinate personalities. He acts independently only when a delegated personality fails in its trust. In the hearts of men the Father may not always have his way, but in the conduct and destiny of a planet the divine plan prevails.",
+ "p003.s5.b1": "The heart of this section is its explanation that the uncertainties of life do not contradict God’s sovereignty. The author asks nine questions. Each virtue we desire can grow only in an environment where its opposite is possible.",
+ "p003.s5.b2": {
+  "head": [
+   "The virtue desired",
+   "The environment it needs in order to grow"
+  ],
+  "rows": [
+   [
+    "Courage",
+    "Grappling with hardships and reacting to disappointments"
+   ],
+   [
+    "Altruism",
+    "Encountering situations of social inequality"
+   ],
+   [
+    "Hope",
+    "Constant insecurities and recurrent uncertainties"
+   ],
+   [
+    "Faith",
+    "A mind that ever knows less than it can believe"
+   ],
+   [
+    "Love of truth",
+    "A world where error is present and falsehood always possible"
+   ],
+   [
+    "Idealism",
+    "An environment of relative goodness and beauty"
+   ],
+   [
+    "Loyalty",
+    "The possibilities of betrayal and desertion"
+   ],
+   [
+    "Unselfishness",
+    "The incessant clamoring of the self for recognition and honor"
+   ],
+   [
+    "Pleasure",
+    "A world where pain and suffering are ever-present possibilities"
+   ]
+  ]
+ },
+ "p003.s5.b3": "Free intelligence cannot be uniformly wise from the beginning. So evolving man must be able to err if he is to be free. Yet the possibility of mistaken judgment is not in itself sin; it becomes sin only when the human will knowingly embraces a deliberate immoral judgment.",
+ "p003.s5.b5": "Comparing the perfect beings of Havona with mortals, the author shows the unique worth of our situation. The Havoners are what they are by virtue of the fact of existence, but everything divine that mortals gain is an experiential attainment.",
+ "p003.s5.b7": {
+  "head": [
+   "Virtue",
+   "Havona beings",
+   "Mortals"
+  ],
+  "rows": [
+   [
+    "Courage",
+    "Naturally brave",
+    "Courage won by overcoming hardship"
+   ],
+   [
+    "Hope",
+    "Expectant of a pleasant future",
+    "Hope held with trust amid an uncertain world"
+   ],
+   [
+    "Faith",
+    "Faith in the stability of the universe",
+    "Saving faith that lifts man from animal status to the portals of Paradise"
+   ],
+   [
+    "Idealism",
+    "Born that way",
+    "The ecstasy of becoming an idealist by choice"
+   ],
+   [
+    "Unselfishness",
+    "Innately unselfish",
+    "An experience reached by the conquest of a belligerent self"
+   ]
+  ]
+ },
+ "p003.s6.h": "VI. The Father’s Primacy — A Person, Not a Machine",
+ "p003.s6.b0": "The Father delegates authority, but he reserves all final decisions. The universe is neither inevitable nor accidental; it is a work of creation and therefore wholly subject to the Creator’s will. And that will is divine truth and living love. The paper argues that universe causes cannot be lower than universe effects, and that man as a moral being cannot be explained unless the reality of the Universal Father is acknowledged.",
+ "p003.s6.b2": "The remarks on the mechanistic philosopher are pointed. He rejects a sovereign will, yet that very will made the laws he so deeply reverences. To humanize God too much is a blunder, but to mechanize him completely is still more foolish.",
+ "p003.s6.b3": "Asked whether the Father suffers, the author honestly answers that he does not know. The Creator Sons certainly can suffer, and he thinks the Father too experiences a fatherly and sympathetic understanding. God is power, pattern, and principle, but he is more: he is personal, and he shows a Father’s love to his children.",
+ "p003.s6.b4": {
+  "head": [
+   "Deity",
+   "What he does for mankind"
+  ],
+  "rows": [
+   [
+    "God the Father",
+    "Loves men"
+   ],
+   [
+    "God the Son",
+    "Serves men"
+   ],
+   [
+    "God the Spirit",
+    "Inspires the children of the universe to the ever-ascending adventure of finding the Father"
+   ]
+  ]
+ },
+ "p003.s7.h": "Conclusion — Living This Paper",
+ "p003.s7.b0": "The attributes of Paper 3 sound distant and abstract, but they converge on a single fact: the One who is everywhere present, who knows all things, and who holds all power is our Father, and he lives within us. The paper also urges us not to read life’s uncertainties and pains as the absence of God, but as the soil in which virtues grow.",
+ "p003.s7.b1": {
+  "head": [
+   "Practice",
+   "The teaching behind it"
+  ],
+  "rows": [
+   [
+    "Before seeking God far away, look within first",
+    "The friend already lives in our own heart"
+   ],
+   [
+    "Increase your co-operation with the Adjuster to deepen God’s presence",
+    "His effective presence depends on the mind’s co-operation"
+   ],
+   [
+    "Do not at once blame God for hardship",
+    "Many things occur that are not the Father’s personal doings"
+   ],
+   [
+    "Treat uncertain situations as chances to grow courage and faith",
+    "Virtues grow where their opposites are possible"
+   ],
+   [
+    "Come to the Father with trust instead of worry",
+    "He knows what we need before we ask"
+   ]
+  ]
+ },
+ "p003.s7.b2": "Paper 4 goes on to God’s relation to the universe—how he deals with it, and the misunderstandings people have held about him. If we remember the attributes of Paper 3 as a Father’s attributes, the discussion of the next paper will feel much closer to home.",
+ "p004.lead": "Providence and nature, the unchanging character of God, and the mistaken ideas of God that mankind has long held: the paper that sets them right.",
+ "p004.foot": {
+  "text": "Presented by a Divine Counselor of Uversa",
+  "ref": "4:5.8"
+ },
+ "p004.s0.h": "Introduction — The Universe Has a Purpose",
+ "p004.s0.b0": "Paper 4 deals with the relation God sustains to the universe. Its starting point is that the universe is not a machine rolling along without purpose. God created the universes of his own free and sovereign will, in accordance with an all-wise and eternal purpose, and he is executing that purpose throughout all time. The author humbly adds that it is doubtful whether anyone besides the Paradise Deities and their highest associates really knows very much about that eternal purpose.",
+ "p004.s0.b1": "The perfect universe of Havona exists primarily for the pleasure and satisfaction of the Creators, while also serving as the pattern for all other universes and as the finishing school for pilgrims bound for Paradise. The ascension plan that perfects evolutionary mortals is one of the chief concerns of the superuniverses, but it is by no means the only occupation of the celestial hosts. This passage quietly invites us to let go of the idea that we are the center of the universe.",
+ "p004.s0.b2": {
+  "head": [
+   "Havona’s purposes",
+   "What they are"
+  ],
+  "rows": [
+   [
+    "Primary purpose",
+    "The pleasure and satisfaction of the perfect and infinite Creators"
+   ],
+   [
+    "Pattern creation",
+    "The model for all other universes"
+   ],
+   [
+    "Finishing school",
+    "A place of training for the pilgrims of time on their way to Paradise"
+   ]
+  ]
+ },
+ "p004.s1.h": "I. The Universe Attitude of the Father — What Providence Is",
+ "p004.s1.b0": "The first section corrects misunderstandings about providence. Providence is real, but it is not the childish, arbitrary, and material ministry that many have imagined. It consists in the interlocking activities of celestial beings and divine spirits who, in accordance with cosmic law, labor for the honor of God and the spiritual advancement of his children. And providence and evolutionary progress are not in conflict.",
+ "p004.s1.b2": "God is not one who created and then withdrew. If the Father should retire as the upholder of creation, there would immediately occur a universal collapse. The universe is constantly being renewed, and the Father unceasingly pours forth energy, light, and life. Even amid apparent instability, there is an underlying order and security.",
+ "p004.s1.b4": "In this section the Divine Counselor confesses that even he does not understand everything. He is well versed in the forces, minds, and spirits of the universes, yet he is constantly perplexed by the workings of the three Absolutes of potentiality. He explains the amazing co-ordination of apparently unrelated events as the living presence of the Supreme Being and the providential function of the Conjoint Actor. Much of what we call “accident” is, in the larger view, part of the drama the Infinite is unfolding.",
+ "p004.s2.h": "II. God and Nature — Nature Is Not God",
+ "p004.s2.b0": "Nature is, in a limited sense, the physical habit of God. God acts according to unchanging law throughout the master universe, but he modifies the patterns of his action to fit the evolutionary plans of each local universe and planet. On our world, moreover, the operation of those laws has been further affected by the errors and insurrections of beings belonging to our system of Satania.",
+ "p004.s2.b1": {
+  "head": [
+   "Factor shaping nature",
+   "What it is"
+  ],
+  "rows": [
+   [
+    "The first factor",
+    "The immutability, perfection, and rectitude of Paradise Deity"
+   ],
+   [
+    "The second factor",
+    "The experimental plans, executive blunders, insurrectionary errors, incompleteness of development, and imperfection of wisdom of extra-Paradise creatures"
+   ],
+   [
+    "The result",
+    "A nature stable underneath, yet of changing mood and varied from one local universe to another"
+   ]
+  ]
+ },
+ "p004.s2.b2": "So the paper says that nature can never be a faithful portrayal of God. It mixes the perfect and the partial, and its face has been scarred by the rebellion and misconduct of myriads of creatures. To worship nature because God in some limited sense pervades it is a travesty.",
+ "p004.s2.b4": "Yet the defects of nature do not imply defects in God. The paper likens nature’s imperfections to the “stop-moments” in a moving reel of infinity picturization. It is these very interruptions that allow the finite mind to catch a fleeting glimpse of divine reality. God appears defective only when we look at nature with natural eyes, unaided by revelation. This is a viewpoint worth holding on to when disaster and suffering tempt us to doubt God’s goodness.",
+ "p004.s3.h": "III. God’s Unchanging Character — Neither Jealous Nor Wrathful",
+ "p004.s3.b0": "All too long has man thought of God as one like himself. God is jealous of no one. The sight of man bowing before his baser passions and his idols stirs God to be jealous **for** man, but never **of** him. Nor is God capable of wrath and anger in the human sense; such feelings are utterly foreign to the Father’s perfect nature.",
+ "p004.s3.b1": "As a major reason for our difficulty in understanding God, the paper names the Lucifer rebellion and the Caligastia betrayal. On worlds not segregated by sin, the evolutionary races form far better ideas of the Father. Our distorted picture of God is bound up with the particular history of our planet.",
+ "p004.s3.b2": {
+  "head": [
+   "",
+   "Human wisdom",
+   "God’s wisdom"
+  ],
+  "rows": [
+   [
+    "Its source",
+    "Grows out of the trials and errors of experience",
+    "Consists in the perfection of infinite universe insight"
+   ],
+   [
+    "Regret",
+    "Makes mistakes and regrets them",
+    "Repents of nothing he has ever done"
+   ],
+   [
+    "Sorrow",
+    "Grieves over its own mistakes",
+    "Grieves as a Father when his children fail to attain the levels they could reach"
+   ]
+  ]
+ },
+ "p004.s3.b4": "The end of the section offers a clue to why relative evil exists. The Father’s infinite goodness is beyond the comprehension of finite minds, so relative goodness can be exhibited only in contrast with comparative evil. Here the paper is careful to add that this is not sin. And because God’s character is infinitely superhuman, it must be personalized, as in the divine Sons, before we can grasp it by faith.",
+ "p004.s4.h": "IV. The Realization of God — Changeless but Not Immobile",
+ "p004.s4.b0": "Since God is self-existent, he is absolutely independent and changeless. But this changelessness does not mean immobility. God can pass from simplicity to complexity, from infinity to finitude, from the divine to the human, modifying the manifestations of his absoluteness. This is possible because God is will.",
+ "p004.s4.b2": "Personality and goodness God shares with other beings, but infinity of will is his alone. Yet the whole of his absolute nature is subject to the relationship of the Creator to his creature family. Trinitarian justice may be precise, but in his family relationship with the creatures of time God is governed by divine sentiment. That is why the author says that of all possible titles, he was instructed to portray God as the **Universal Father**.",
+ "p004.s4.b3": {
+  "head": [
+   "Viewpoint",
+   "God is"
+  ],
+  "rows": [
+   [
+    "Science",
+    "The First Cause"
+   ],
+   [
+    "Religion",
+    "The universal and loving Father"
+   ],
+   [
+    "Philosophy",
+    "The one being who exists by himself, dependent on no other"
+   ],
+   [
+    "Revelation",
+    "Shows that this First Cause is the God of religion, full of mercy and goodness and pledged to the eternal survival of his children"
+   ]
+  ]
+ },
+ "p004.s4.b4": "The paper says that God’s free will is neither ruled by power nor guided by intellect alone. The divine personality consists in spirit and shows itself to the universes as love. God’s tender nature finds its greatest satisfaction in loving and being loved. What we worship, too, is not the abstract concept of the Infinite but the experience-idea of God—our grasp of the personality and divinity of our highest concept of Deity.",
+ "p004.s4.b6": "This section sums up the victory of faith beautifully. Faced with the awful spectacle of human limitations, faith declares: even if I cannot do this, a part of the Father lives in me who can and will. That is the faith that overcomes the world.",
+ "p004.s5.h": "V. Erroneous Ideas of God — No God Needs Appeasing",
+ "p004.s5.b0": "The last section begins with the limits of religious tradition. Tradition is the imperfectly preserved record of the experiences of God-knowing people of past ages, and it has invariably been altered because primitive man was a mythmaker. Especially confusing has been the failure of sacred books to distinguish between different divine beings, gathering them all under the single name “God.”",
+ "p004.s5.b1": {
+  "head": [
+   "Kind of confusion",
+   "What was mixed together"
+  ],
+  "rows": [
+   [
+    "Among the Trinity persons",
+    "Failure to distinguish clearly between the personalities of the Paradise Trinity"
+   ],
+   [
+    "Between Paradise and the local universe",
+    "Failure to distinguish Paradise Deity from the local universe creators and administrators"
+   ],
+   [
+    "Among rulers and fathers",
+    "Planetary Princes, System Sovereigns, Constellation Fathers, Creator Sons, Superuniverse Rulers, the Supreme Being, and the Universal Father all included under one appellation"
+   ],
+   [
+    "Messages of subordinate personalities",
+    "Messages from Life Carriers and various orders of angels recorded as coming from God himself"
+   ]
+  ]
+ },
+ "p004.s5.b2": "The gods who rampage in the storm, shake the earth in their wrath, and judge men with famine and flood are the gods of primitive religion, not the Gods who rule the universes. The same is true of the idea of appeasing an angry God through sacrifice, penance, and the shedding of blood. The paper declares it an affront to God to teach that innocent blood must be shed to win his favor. Yet it fairly acknowledges that Moses made a distinct advance when he forbade human sacrifice and substituted the sacrifice of animals.",
+ "p004.s5.b4": "In the same vein the paper explains Michael’s bestowal afresh. The bestowal was not needed to win God’s favor; it was inherent in the situation of closing a planetary age, and it was the final personal act of a Creator Son in earning the experiential sovereignty of his universe. The teaching that the Father’s mercy was withheld until he saw blood shed on the cross is a gross distortion of God’s character.",
+ "p004.s6.h": "Conclusion — Living This Paper",
+ "p004.s6.b0": "Paper 4 helps us put in order the picture of God we carry in our minds. God has not left the universe but upholds it even now; he is not identical with nature; he is neither jealous nor wrathful; and he is no deity to be appeased with blood. He is will, and above all he is Father. The task this paper leaves us is to lay down the ideas of God born of fear and to receive the Father whom Jesus revealed.",
+ "p004.s6.b1": {
+  "head": [
+   "Practice",
+   "The teaching behind it"
+  ],
+  "rows": [
+   [
+    "Drop the habit of reading disasters as God’s wrath",
+    "Gods who shake the earth in anger belong to primitive religion"
+   ],
+   [
+    "Enjoy nature’s beauty, but give your worship to God",
+    "Nature is not an object of worship"
+   ],
+   [
+    "Facing your limits, say, “The Father in me can do it”",
+    "The faith that overcomes the world"
+   ],
+   [
+    "Leave room for a larger co-ordination even in “accidents”",
+    "Providence is the realm of the Supreme Being and the Conjoint Actor"
+   ],
+   [
+    "Rather than striving to win God’s favor, respond to the love already given",
+    "The Father’s mercy is not bought with blood"
+   ]
+  ]
+ },
+ "p004.s6.b2": "Paper 5 carries this line of thought forward to God’s relation to the individual. How the Father who upholds the universe draws near to each one of us, and how we in turn come to him, is the subject of the next paper.",
+ "p005.lead": "How do we approach the infinite Father? The last paper of the Father series takes up the indwelling Adjuster, true worship, religion and God-consciousness, and the gift of personality.",
+ "p005.foot": {
+  "text": "The fifth and last of the series presenting the narrative of the Universal Father by a Divine Counselor of Uversa",
+  "ref": "5:6.14"
+ },
+ "p005.s0.h": "Introduction — How Far Must We Go to Find God?",
+ "p005.s0.b0": "The story of the Universal Father that began in Paper 1 comes down to the individual in Paper 5. How can so great a God have fellowship with a single person? The paper’s first answer is simple. An actual fragment of the living God, the Thought Adjuster, resides within every normal-minded and morally conscious mortal. Our assurance of divine fellowship must rest on this fact.",
+ "p005.s0.b2": "God has also reserved to himself the prerogative of bestowing personality and of maintaining direct, fatherly contact with all personal beings through the personality circuit. The Adjuster and the personality circuit—these two channels are the threads that run through the whole paper.",
+ "p005.s1.h": "I. The Approach to God — The Way Is Open",
+ "p005.s1.b0": "The finite creature cannot approach the Father directly, not because the Father is aloof, but because of our own finiteness. Were we transported to Paradise this very moment, we would not even know we were in the Father’s presence. Man must be spiritually translated many times. Yet apart from that long road, we can commune right now with the spirit of the Father within us.",
+ "p005.s1.b1": "This section stresses equality of spiritual opportunity. People differ greatly in intellectual ability and social environment, but the possibilities for spiritual progress are equal to all. Everyone enjoys the same divine presence, has the same privilege of communing with that spirit, and can equally choose to accept its leading.",
+ "p005.s1.b3": "What, then, hides God from us? The Father is not in spiritual hiding, but many creatures have hidden themselves in the mists of their own willful decisions. So long as the power of choice remains, a person may draw near God and may also turn away again and again. Final destiny is settled only when the desire to choose the Father’s will is lost forever—or when Adjuster fusion proclaims an irrevocable choice.",
+ "p005.s1.b4": {
+  "head": [
+   "The crossroads",
+   "How it is determined"
+  ],
+  "rows": [
+   [
+    "Destiny still open",
+    "While the power of choice remains—one may draw near or forsake the divine will"
+   ],
+   [
+    "The heart closed forever",
+    "When the desire to know the Father and to be like him is finally and forever lost"
+   ],
+   [
+    "Destiny assured",
+    "When Adjuster fusion proclaims the final choice to live the Father’s will"
+   ]
+  ]
+ },
+ "p005.s2.h": "II. The Presence of God — Known by Its Fruits",
+ "p005.s2.b0": "God’s presence appears differently in different realms. His physical presence is the reality of the material universe; his mind presence depends on the depth of intellectual experience; his spiritual presence is differential, determined by spiritual receptivity and by the degree to which the will is consecrated to doing the divine will. And that presence is found most fully not in nature but in our attempted communion with the indwelling Adjuster.",
+ "p005.s2.b2": "Many believers are uneasy because they do not clearly feel the Adjuster’s presence. The paper says that this in no way disproves the experience. It is exceedingly difficult for the material mind to be distinctly conscious of divine realities, and a new consciousness evolves as the soul grows. The proof of our relationship with the Adjuster is not a feeling but the **fruits of the spirit** borne in our lives.",
+ "p005.s3.h": "III. True Worship — Adoration That Asks Nothing",
+ "p005.s3.b0": "In the highest sense we worship the Universal Father and him only. We may worship the Father as he is manifested in his Creator Sons, but in the end it is the Father who is worshiped. This section draws a clear distinction between worship and prayer: worship is for its own sake, while prayer contains an element of self- or creature-interest.",
+ "p005.s3.b2": "The moment self-interest intrudes, worship turns into prayer. Yet the paper adds that in practical religious life there is no reason why prayer should not be addressed to the Father as part of true worship. It then sorts out which Deity is concerned with the different parts of our lives.",
+ "p005.s3.b3": {
+  "head": [
+   "What we do",
+   "The Deity and realm concerned"
+  ],
+  "rows": [
+   [
+    "Worship",
+    "The Universal Father—carried to him through the personality circuit"
+   ],
+   [
+    "Prayer and communion",
+    "The Son—the realm of the Eternal Son and the Creator Son"
+   ],
+   [
+    "The practical affairs of daily life",
+    "The Infinite Spirit—co-operating with spirit personalities of the Third Source and Center"
+   ]
+  ]
+ },
+ "p005.s3.b4": "Worship is the mobilization of all the powers of the human personality under the dominance of the soul and the direction of the Adjuster. The mind consents to worship, the soul craves and initiates it, and the Adjuster conducts it on behalf of mind and soul. Worship thus becomes an experience that takes place on several levels at once.",
+ "p005.s3.b6": {
+  "head": [
+   "Level on which worship is realized",
+   "Consciousness"
+  ],
+  "rows": [
+   [
+    "Intellectual",
+    "Consciousness of mind"
+   ],
+   [
+    "Morontial",
+    "Consciousness of soul"
+   ],
+   [
+    "Spiritual",
+    "Consciousness of spirit"
+   ],
+   [
+    "Personal",
+    "Their unification in personality"
+   ]
+  ]
+ },
+ "p005.s4.h": "IV. God in Religion — Many Paths and the Way of Jesus",
+ "p005.s4.b0": "The religions of evolution drive people toward God by fear; the religions of revelation draw them to seek a God of love because they long to become like him. Religion, though, is not a passive feeling of dependence but a living and dynamic experience of divinity attainment predicated on service to humanity. The truly religious person does not bend the universe to serve the self but dedicates the self to the service of the universe family.",
+ "p005.s4.b1": {
+  "head": [
+   "Religion",
+   "The salvation it offers and its focus"
+  ],
+  "rows": [
+   [
+    "Buddhism",
+    "Salvation from suffering; unending peace"
+   ],
+   [
+    "Judaism",
+    "Salvation from difficulties; prosperity predicated on righteousness · watchword “Know your God”"
+   ],
+   [
+    "Greek religion",
+    "Salvation from disharmony and ugliness by the realization of beauty · watchword “Know yourself”"
+   ],
+   [
+    "Christianity",
+    "Salvation from sin; sanctity · “knowledge of the Lord Jesus Christ”"
+   ],
+   [
+    "Mohammedanism",
+    "Deliverance from the rigorous moral standards of Judaism and Christianity"
+   ],
+   [
+    "The religion of Jesus",
+    "Salvation from self · “knowing God, and yourself as a son of God”"
+   ]
+  ]
+ },
+ "p005.s4.b2": "The paper does not belittle the various religions. The morals of the Zoroastrians, the metaphysics of the Hindus, and the ethics of the Confucianists are all of value as valid approaches to the religion of Jesus. The Hebrews based their religion on goodness and the Greeks on beauty, but Jesus revealed a God of love, and love embraces truth, beauty, and goodness.",
+ "p005.s4.b4": {
+  "head": [
+   "Concept merged into Christian theology",
+   "God is"
+  ],
+  "rows": [
+   [
+    "The Hebrew concept",
+    "The vindicator of moral values, a righteous God"
+   ],
+   [
+    "The Greek concept",
+    "The unifier, a God of wisdom"
+   ],
+   [
+    "Jesus’ concept",
+    "A living friend, a loving Father, the divine presence"
+   ]
+  ]
+ },
+ "p005.s4.b5": "Because these three streams were blended, Christian theology has found it hard to attain consistency. The paper urges us to view Jesus’ life positively—to think less of his sinlessness than of his righteousness and loving service. Jesus upstepped the passive love of the Hebrew concept to the active affection of a God who is the Father of every individual, even of the wrongdoer.",
+ "p005.s5.h": "V. The Consciousness of God — No One Is Excluded",
+ "p005.s5.b0": "Morality has its origin in the reason of self-consciousness, but that alone does not reach the spiritual level of religious experience. Religion is an independent realm, grounded neither in the facts of science nor in the obligations of society, and it may permeate the material, social, moral, and spiritual levels alike. The same God comes to the scientist as the First Cause, to the artist as the ideal of beauty, to the philosopher as universal unity, and to the believer as the loving Father.",
+ "p005.s5.b1": {
+  "head": [
+   "Level of God-consciousness",
+   "What is realized"
+  ],
+  "rows": [
+   [
+    "Mind consciousness",
+    "The comprehension of the idea of God"
+   ],
+   [
+    "Soul consciousness",
+    "The realization of the ideal of God"
+   ],
+   [
+    "Spirit consciousness",
+    "The realization of the spirit reality of God"
+   ]
+  ]
+ },
+ "p005.s5.b2": "This section also treats the relation of faith and intellect with balance. The experience of God-consciousness stays the same from generation to generation, but the philosophic and theologic definitions of God must change with each advancing age. Religious experience must be willing to submit itself to intelligent criticism and reasonable interpretation; it must not seek to stand apart from the rest of human experience.",
+ "p005.s5.b3": "The greatest comfort comes in the passage on the conditions of survival. Limits of intellect, lack of education and culture, or low social status cannot invalidate the presence of the divine spirit in a believing person. Just as parents need no diploma to have children, a mind that can discern right and wrong and worship God, united with an Adjuster, is enough to begin the growth of an immortal soul. What remains is the honest choice to seek God and do his will.",
+ "p005.s6.h": "VI. The God of Personality — The Dignity of Free Will",
+ "p005.s6.b0": "The Universal Father is the bestower and conservator of every personality and the destiny of all who choose to do his will. Personality is one of the unsolved mysteries of the universes. Neither mind nor spirit nor energy alone makes a personality; personality is a quality bestowed exclusively by the Father. Nor is it achieved by degrees: there either is personality or there is no personality.",
+ "p005.s6.b1": "Having given personality and provided for the growth of an immortal soul, the Father stands aside. Whether to create the surviving, eternal self now rests with man’s own choice. No being or force in all the universe can interfere with that choice.",
+ "p005.s6.b3": "Just as all gravity is circuited in the Isle of Paradise, all mind in the Conjoint Actor, and all spirit in the Eternal Son, so all personality is circuited in the personal presence of the Universal Father. This personality circuit unerringly carries the worship of all personalities to the Father. And the portal of eternity opens only in response to free-will choice. Closing the series, the author confesses that he can say nothing more helpful than this: God is our Father, and we are his children.",
+ "p005.s7.h": "Conclusion — Living This Paper",
+ "p005.s7.b0": "Paper 5 is the conclusion of the Father series. The infinite Father lives within us as the Adjuster, knows us through the personality circuit, and absolutely respects our free choice. The way is open, and what we need to walk it is not learning or status but an honest desire to seek God and to become like him.",
+ "p005.s7.b1": {
+  "head": [
+   "Practice",
+   "The teaching behind it"
+  ],
+  "rows": [
+   [
+    "When seeking God, look within before looking to the distant sky",
+    "The Father’s spirit lives within your own mind"
+   ],
+   [
+    "Set aside time for thanks and adoration that asks for nothing",
+    "True worship holds no self-request"
+   ],
+   [
+    "Test your faith by the fruits of your life rather than by feelings",
+    "Fellowship with the Adjuster is shown by the fruits of the spirit"
+   ],
+   [
+    "Respect other religions as other approaches to Jesus’ religion",
+    "All religions have value as valid approaches"
+   ],
+   [
+    "Choose again today to do God’s will",
+    "The portal of eternity opens only to free-will choice"
+   ]
+  ]
+ },
+ "p005.s7.b2": "With Paper 6 The Urantia Book turns its attention to the Eternal Son, the Second Source and Center. If we read on remembering the Father we have met in these five papers, it will become clearer that the Son and the Spirit are both ways in which this Father’s love is carried to the universe.",
+ "p006.lead": "The paper that introduces the Eternal Son: the living Word who personally expresses the Father, and the minister of mercy to all creation.",
+ "p006.foot": {
+  "text": "Indited by a Divine Counselor assigned to formulate this statement depicting the Eternal Son of Paradise",
+  "ref": "6:8.9"
+ },
+ "p006.s0.h": "Introduction — Speaking of Eternity in the Language of Time",
+ "p006.s0.b0": "After five papers on the Father, Paper 6 turns to the Second Person of Deity, the **Eternal Son**. The Eternal Son is the perfect and final expression of the Father’s “first” personal and absolute concept. Therefore, whenever the Father expresses himself personally and absolutely, he does so through the Eternal Son. The Son is the living and divine Word who has always been and always will be.",
+ "p006.s0.b1": "From the outset the author points to the limits of language. Expressions like “first thought” or “⟦Q 6:0.4⟧sprang from the Father⟦/Q⟧” are compromises made for time-bound minds. In the sequential sense the Father could never have had a first thought, and the Son never had a beginning. The mystery of a Son who is derived from the Father and yet equally eternal with him is something no time creature can fully comprehend.",
+ "p006.s1.h": "I. Identity of the Eternal Son — The Second Source and Center",
+ "p006.s1.b0": "The Eternal Son is the original and only-begotten Son of God, God the Son, and the associate creator of all things. As the Father is the First Source and Center, so the Son is the Second Source and Center. The Father never personally creates except in conjunction with the Son. The paper says that had the New Testament writer been referring to the Eternal Son, he would have spoken the truth in writing, “⟦Q 6:1.3⟧In the beginning was the Word⟦/Q⟧.”",
+ "p006.s1.b1": {
+  "head": [
+   "",
+   "The Universal Father",
+   "The Eternal Son"
+  ],
+  "rows": [
+   [
+    "Source",
+    "First Source and Center",
+    "Second Source and Center"
+   ],
+   [
+    "Order of function",
+    "First a creator, then a controller",
+    "First a cocreator, then a spiritual administrator"
+   ],
+   [
+    "As an Absolute",
+    "The Volitional Absolute",
+    "The Personality Absolute"
+   ],
+   [
+    "Relation to spirit",
+    "“God is spirit”",
+    "The personal revelation of that spirit"
+   ]
+  ]
+ },
+ "p006.s1.b2": {
+  "head": [
+   "Where",
+   "Name used for the Eternal Son"
+  ],
+  "rows": [
+   [
+    "The central universe",
+    "Co-ordinate Source · Cocreator · Associate Absolute"
+   ],
+   [
+    "Uversa (superuniverse headquarters)",
+    "Co-ordinate Spirit Center · Eternal Spirit Administrator"
+   ],
+   [
+    "Salvington (local universe headquarters)",
+    "Second Eternal Source and Center"
+   ],
+   [
+    "The Melchizedeks",
+    "Son of Sons"
+   ]
+  ]
+ },
+ "p006.s1.b3": "This section also points out a confusion peculiar to Urantia. On our world the Eternal Son has been confused with the Creator Son who bestowed himself here, Michael of Nebadon. Any Paradise Son may fittingly be called a Son of God, but the designation “⟦Q 6:1.5⟧the Eternal Son⟦/Q⟧” is reserved for the Original Son, who with the Father created the central universe.",
+ "p006.s2.h": "II. Nature of the Eternal Son — He Who Has Seen the Son Has Seen the Father",
+ "p006.s2.b0": "The Eternal Son is just as changeless and infinitely dependable as the Father, and just as spiritual. To us, however, he would appear more personal, since he is one step nearer in approachability. The Son is God the Father personally manifest to the universe, and when we worship the Father, we actually worship God the Son and God the Spirit at the same time.",
+ "p006.s2.b2": "The Son possesses all the Father’s righteousness and holiness, and he shares with the Father the responsibility of helping imperfect creatures attain perfection. There is hardly any difference between Father and Son. They are equal, except that the Son seems to devote himself more to the realization of spiritual beauty; in goodness no difference can be discerned. Only their standpoint is slightly different.",
+ "p006.s3.h": "III. Ministry of the Father’s Love — Love and Mercy",
+ "p006.s3.b0": "The Son shares the justice and righteousness of the Trinity, but he overshadows these traits by the infinite personalization of the Father’s love and mercy. The Son cannot love more than the Father. Yet he can show mercy in one additional way: being both a creator and the Father’s Son, he shares in the sonship experience of all the Father’s other sons.",
+ "p006.s3.b2": {
+  "head": [
+   "",
+   "The Father’s love",
+   "The Son’s mercy"
+  ],
+  "rows": [
+   [
+    "Definition",
+    "Love itself",
+    "Applied love—the Father’s love in action"
+   ],
+   [
+    "Illustration (as love is comprehended on a sex planet)",
+    "More comparable to the love of a father",
+    "More like the affection of a mother"
+   ],
+   [
+    "Where they differ",
+    "The divine content is the same",
+    "They differ in quality and technique of expression"
+   ]
+  ]
+ },
+ "p006.s3.b3": "This section again corrects a misconception that Papers 2 and 4 warned against. To imagine the Eternal Son pleading with the Father to show mercy is a crude and grotesque concept of God. All the merciful ministrations of the Sons are a direct revelation of the Father’s heart, and the Father’s love is the very source of the Son’s mercy.",
+ "p006.s4.h": "IV. Attributes of the Eternal Son — The Pull of Spirit",
+ "p006.s4.b0": "The Son motivates the spirit level of cosmic reality. Through his absolute grasp of spirit gravity he controls all spiritual reality, and all pure spirit and spiritual values respond to his drawing power. But the Son is omnipotent only in the spiritual realm, for the Deities are not given to useless duplication of universe ministry.",
+ "p006.s4.b1": "The spirit of the Son is everywhere present and binds all creation together spiritually. Yet the Son’s spirit and the Father’s fragment relate to us in different ways. Understanding this difference shows how our spiritual growth takes place.",
+ "p006.s4.b2": {
+  "head": [
+   "",
+   "The Father fragment (the Adjuster)",
+   "The spirit of the Son"
+  ],
+  "rows": [
+   [
+    "Relation to us",
+    "Dwells within us",
+    "With us and around us—but not within us"
+   ],
+   [
+    "What it does",
+    "Adjusts the mind to progressively divine attitudes",
+    "Draws spiritual beings to himself through the spirit-gravity circuit"
+   ],
+   [
+    "How they work together",
+    "The more the mind is adjusted",
+    "The more responsive it becomes to the Son’s spiritual drawing power"
+   ]
+  ]
+ },
+ "p006.s4.b3": "In wisdom and knowledge, too, the Son is the full equal of the Father. He is never surprised by any event and comprehends the end from the beginning. And yet, in his contacts with ascending beings of the lower realms, he is just as kind and considerate, just as patient and long-suffering, as the Paradise Sons who bestow themselves on the evolutionary worlds. Infinite power and tender patience live together in one personality.",
+ "p006.s5.h": "V. Limitations of the Eternal Son — Personal and Nothing But Personal",
+ "p006.s5.b0": "Even the infinite Son has self-defined limitations. These do not lessen his spiritual omniscience, omnipresence, or omnipotence, but they show clearly the role each person plays within the Trinity.",
+ "p006.s5.b1": {
+  "head": [
+   "Limitation",
+   "What it means"
+  ],
+  "rows": [
+   [
+    "The physical domains",
+    "He does not personally function there"
+   ],
+   [
+    "Mind ministry",
+    "He does not function there except through the Conjoint Actor"
+   ],
+   [
+    "Bestowing personality",
+    "He is a cocreator of personalities, but of himself alone he bestows personality on no being"
+   ],
+   [
+    "Creator prerogatives",
+    "He transmits them only to his first, direct personalizations—the Creator Sons cannot pass them on"
+   ],
+   [
+    "Fragmentation",
+    "He cannot fragmentize himself; as spirit he pervades all creation"
+   ]
+  ]
+ },
+ "p006.s5.b3": "So the Son cannot personally take part in the bestowal of the Thought Adjusters. Yet the paper records a beautiful scene. In the eternal past, when the Father, planning the bestowal of the Adjusters, proposed, “⟦Q 6:5.7⟧Let us make mortal man in our own image⟦/Q⟧,” the Son approved the plan and pledged endless co-operation. So now the Father’s fragment dwells within us, the Son’s spirit presence envelops us, and the two work forever as one for our spiritual advancement.",
+ "p006.s6.h": "VI–VII. The Spirit Mind; Personality of the Eternal Son",
+ "p006.s6.b0": "The Eternal Son is spirit and has mind, but not a mind that mortal mind can comprehend. Mind directly allied with spirit cannot be compared with mind allied with matter. Spirit is ever conscious and minded, and Deity is never mindless. The paper says that the mind of the Father and the Son is perhaps best illustrated in the premind of a Thought Adjuster: Adjusters know as they are known.",
+ "p006.s6.b1": "Much about the Son is beyond our knowing for now. We will see these mysteries clearly only after we complete the morontia ascension, attain spirit status, and begin to be endowed with the “⟦Q 6:6.4⟧mind of the spirit⟦/Q⟧.” Not knowing now is not a failure; it is a stage of the journey.",
+ "p006.s6.b2": "The seventh section presents the Son as **absolute personality**. Through the technique of trinitization the Father escaped the fetters of unqualified personality, and ever since he has bestowed himself in endless profusion upon his universe. The Son’s personality is the pattern for the Father’s bestowal of personality upon the Conjoint Actor and upon countless creatures. The Son is the sum and substance of the First Source and Center, divested of all that is nonpersonal and nonspiritual.",
+ "p006.s7.h": "VIII. Realization of the Eternal Son — Thought and Word",
+ "p006.s7.b0": "In identity and nature the Son is the full equal of the Father, his perfect complement and eternal counterpart. Here the paper uses a bold expression: in the same sense that God is the Universal Father, the Son is the **Universal Mother**, and all of us, high and low, make up their universal family.",
+ "p006.s7.b1": "For us it is not easy to tell the workings of the Father and the Son apart, nor is the attempt always profitable. The paper offers one simple key. And in each local universe the Creator Son stands for both Father and Son at once.",
+ "p006.s7.b3": {
+  "head": [
+   "Stage of ascent",
+   "Understanding of the Eternal Son"
+  ],
+  "rows": [
+   [
+    "The material and morontial mind",
+    "The concept of the Son cannot shine brightly—the vivid personality of the Creator Son fills the gap"
+   ],
+   [
+    "Passing through Orvonton and Havona",
+    "Memories of the Creator Son recede as the concept of the Eternal Son steadily enlarges"
+   ],
+   [
+    "Drawing near to Paradise",
+    "The reality and nearness of the Son continually grow"
+   ]
+  ]
+ },
+ "p006.s7.b4": "We grasp the Father and the Infinite Spirit more easily, because the Father bestowed our personality and the Infinite Spirit is the source of our mind. We approach the Son through the bestowal service of the Paradise Sons and the loving ministry of the Infinite Spirit. With their help the God-conscious mortal will certainly attain Paradise and stand before the Son. The author testifies that he himself has stood in that presence times almost without number, and that the Son is truly a person.",
+ "p006.s8.h": "Conclusion — Living This Paper",
+ "p006.s8.b0": "Paper 6 portrays the Eternal Son as the Word that expresses the Father’s thought, the mercy that puts the Father’s love into action, and the drawing power that pulls all spirit toward him. The Son does not dwell within us, but he surrounds us and works as one with the Adjuster within us to lead us on. For now, the closest way we can know the Son is through the life of the Creator Son who came to this world—Jesus.",
+ "p006.s8.b1": {
+  "head": [
+   "Practice",
+   "The teaching behind it"
+  ],
+  "rows": [
+   [
+    "Turn the love you have received into concrete acts of mercy",
+    "Mercy is applied love"
+   ],
+   [
+    "Come to know the Father and the Son together through the life of Jesus",
+    "He who has seen the Son has seen the Father"
+   ],
+   [
+    "Look on others not from above but as a brother or sister",
+    "The Son looks upon creatures both as father and as brother"
+   ],
+   [
+    "Respond to the spirit’s pull by attuning your mind toward the divine",
+    "An adjusted mind grows more responsive to the Son’s spirit gravity"
+   ],
+   [
+    "Accept the mysteries you cannot yet grasp as a promise of the journey",
+    "They clarify as we receive the mind of the spirit"
+   ]
+  ]
+ },
+ "p006.s8.b2": "The papers that follow take up the Eternal Son’s relation to the universe and then the Infinite Spirit, the Third Source and Center. If we read on holding the key of the Father’s thought and the Son’s word, the relationships within the Trinity will come into sharper focus."
+}

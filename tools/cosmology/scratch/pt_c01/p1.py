@@ -1,0 +1,111 @@
+# -*- coding: utf-8 -*-
+import json, os
+H = r"E:\OneDrive\내 문서\유란시아\urantiaamerica 홈페이지\tools\cosmology"
+SRC = json.load(open(os.path.join(H, "work", "src_c01.json"), encoding="utf-8"))
+OUT = os.path.join(H, "pt", "c01.json")
+D = json.load(open(OUT, encoding="utf-8")) if os.path.exists(OUT) else {}
+
+T = {
+"ui.title": "Comentário sobre A Study of the Master Universe",
+"ui.sub": "Uma leitura do estudo de William S. Sadler, Jr. sobre o universo-mestre de O Livro de Urântia",
+"ui.by": "Jay Han",
+"ui.eb": "COSMOLOGIA DE O LIVRO DE URÂNTIA",
+"ui.pref": "Prefácio",
+"ui.notes": "Notas para o leitor",
+"ui.toc": "Sumário",
+"ui.part1": "Primeira parte  O texto principal",
+"ui.part2": "Segunda parte  Os apêndices",
+"ui.summ": "NESTE CAPÍTULO",
+"ui.points": "Pontos-chave",
+"ui.prev": SRC["ui.prev"].replace("Previous", "Anterior"),
+"ui.next": SRC["ui.next"].replace("Next", "Próximo"),
+"ui.contents": "Sumário",
+"ui.fig_label": "Figura",
+"ui.tab_label": "Tabela",
+"ui.chapter_label": "Capítulo {n}",
+"ui.appendix_label": "Apêndice {roman}",
+"ui.orig": "Original: {t}",
+
+"preface.001": "Os leitores que convivem há muitos anos com O Livro de Urântia muitas vezes chegam a um ponto em que o caminho parece se apagar. Os sete superuniversos, os universos locais e as muitas ordens de seres que neles servem podem ser acompanhados com paciência. Mas, quando o texto se volta para o universo-mestre, os níveis do espaço exterior, o Último e o absonito, ou a Trindade das Trindades, as frases continuam legíveis enquanto a imagem se recusa a formar-se. Os documentos 104 a 106 e várias passagens da Introdução são os exemplos mais claros.",
+"preface.002": "William S. Sadler, Jr. escolheu deter-se justamente nessas passagens. Depois de longo estudo e reflexão sobre a revelação, tentou reunir os seus horizontes mais distantes numa única história coerente. O resultado foi *A Study of the Master Universe*. Ele faleceu em 1963, antes que a obra pudesse ser publicada. Mais tarde ela foi lançada com apenas uma leve revisão, e os seus apêndices, publicados primeiro num volume separado, acabaram por ser encadernados junto com o estudo principal.",
+"preface.003": "A abordagem de Sadler é ousada. Ele lê a história do universo-mestre como um grande ciclo de tese, antítese e síntese. O Havona perfeito é a tese; os superuniversos imperfeitos são a antítese; a sua união em Deus, o Supremo, é a primeira síntese. Essa síntese torna-se então uma nova tese, encontra a antítese muito maior do espaço exterior e alcança uma segunda síntese na emergência de Deus, o Último. Por fim, ela se põe diante da própria infinitude — uma antítese que jamais poderá ser plenamente respondida. Por meio desse esquema, fragmentos dispersos da revelação encaixam-se no seu lugar como uma só narrativa.",
+"preface.004": "Este livro é um comentário sobre esse estudo. Não é uma tradução. O autor seguiu de perto o argumento de Sadler, a sua sequência, as suas figuras e o seu raciocínio, mas cada frase foi escrita de novo. Foram acrescentadas, para o leitor, explicações de contexto, ilustrações e resumos, e os gráficos foram desenhados de novo para ajudar a que as ideias de Sadler sejam vistas de relance. As citações de O Livro de Urântia são dadas nas suas próprias palavras.",
+"preface.005": "Há algo que se deve ter em mente o tempo todo. Como o próprio Sadler reconhece repetidas vezes, grande parte do seu estudo é inferência. O que O Livro de Urântia afirma com clareza, o que dele se pode inferir com cautela e o que pertence à ousada imaginação de Sadler têm pesos diferentes. Este comentário procura marcar essas fronteiras sempre que possível. Os próprios reveladores observam que dizer demais privaria os mortais futuros do estímulo da especulação criativa. O estudo de Sadler é um exemplo dessa especulação, e a esperança deste livro é que ele abra caminho para a especulação do próprio leitor.",
+"preface.006": "O livro tem duas partes. A primeira parte acompanha o estudo principal de Sadler desde o Prólogo na Eternidade, passando pela História Finita, pela História Absonita e pelo Início da História Final, até as Conclusões e o Epílogo. A segunda parte lê, um por um, os vinte e sete apêndices. Como os apêndices contêm as provas e os cálculos que sustentam o estudo principal, o leitor pode recorrer a eles sempre que surgir uma pergunta. O glossário no final reúne os termos mais usados.",
+
+"notes.001": "As citações de O Livro de Urântia são reproduzidas palavra por palavra da tradução oficial em português publicada pela Fundação Urântia; os números entre parênteses após cada citação indicam documento:seção.parágrafo, p. ex., (106:8.1). Ao clicar numa referência, abre-se o texto.",
+"notes.002": "A linha sob o título de cada capítulo indica a parte correspondente do estudo de Sadler e os seus números de página. Os títulos de seção podem trazer a mesma informação, p. ex., (orig., p. 38).",
+"notes.003": "Os termos cunhados por Sadler (Idade Zero, universos nucleares e citoplasmáticos, Unidade de Tempo de Andronover, Cosmos Infinito e outros) não aparecem nessa forma em O Livro de Urântia. O Cosmos Infinito de Sadler deriva da própria expressão do livro, cosmos infinito (106:6.3; 106:7.4).",
+"notes.004": "O texto distingue entre o que O Livro de Urântia diz e o que Sadler infere. Os quadros intitulados “A inferência de Sadler” ou “Sadler e o texto” assinalam as suas conjecturas e os lugares em que as suas citações ou números diferem do texto.",
+"notes.005": "Todas as figuras e tabelas foram criadas para este livro. Os números das figuras começam com o número do capítulo; os dos capítulos dos apêndices começam com A (p. ex., Figura A3-2).",
+"notes.006": "Os “Pontos-chave” no final de cada capítulo servem de revisão.",
+
+"colophon.001": "Comentário sobre *A Study of the Master Universe* — Uma leitura do estudo de William S. Sadler, Jr. sobre o universo-mestre de O Livro de Urântia",
+"colophon.002": "por Jay Han",
+"colophon.003": "Este livro não é uma tradução nem um resumo de *A Study of the Master Universe — With Appendices*, de William S. Sadler, Jr. (Chicago: Urantia Foundation, 4.ª impressão, 2022). É um comentário independente escrito pelo autor, que segue a ordem e o argumento do estudo de Sadler e os explica com as suas próprias palavras. O texto e os gráficos de Sadler não são reproduzidos; frases breves são citadas apenas para identificação e discussão. Todas as figuras e tabelas foram desenhadas de novo para este livro. *A Study of the Master Universe* é copyright © Urantia Foundation.",
+"colophon.004": "As citações de O Livro de Urântia são reproduzidas palavra por palavra da tradução oficial em português publicada pela Fundação Urântia, e cada uma é seguida da sua referência por documento, seção e parágrafo (por exemplo, 106:8.1). Ao clicar numa referência, abre-se o texto.",
+"colophon.005": "© 2026 Jay Han.",
+
+"w01.001": "Partindo do Infinito",
+"w01.002": "Prefácio · Prólogo na Eternidade · Primeiro Prólogo: Antes do Princípio dos Princípios (pp. 1–5)",
+"w01.003": "O estudo de Sadler conta a história do universo-mestre, ou seja, uma história de criação e evolução. Antes dela estende-se a eternidade que precede toda criação; depois dela encontra-se algo que bem pode transcender inteiramente a criação. Sadler explica que escreveu o estudo para trazer à luz uma beleza oculta nos documentos remotos e difíceis de O Livro de Urântia. E ancora toda a narrativa no Infinito, Aquele a quem chamamos Deus.",
+"w01.004": "1. A história que este estudo se propõe contar (orig., p. 1)",
+"w01.005": "*A Study of the Master Universe* reúne numa só narrativa os pensamentos que Sadler aprimorou ao longo de anos de leitura de O Livro de Urântia. O seu tema é o universo-mestre, e o universo-mestre, tal como ele o vê, é um drama de criação e evolução. É, ao mesmo tempo, o relato de como o Ser Supremo e Deus, o Último, crescem e se desdobram.",
+"w01.006": "Sadler amplia esse relato nas duas direções do tempo. Tudo o que vem antes do universo-mestre pertence, na maior parte, ao pré-criativo; tudo o que vem depois dele é, provavelmente, algo que vai além da criação. Assim, o livro abre com um “Prólogo na Eternidade”, dedicado ao que existia antes da criação, e fecha com um “Epílogo na Eternidade”, que olha para além do limite mais externo do universo-mestre.",
+"w01.007": "Entre essas duas molduras, o corpo principal divide-se em três histórias. A primeira trata do crescimento e do desenvolvimento das coisas finitas; a segunda, do crescimento do absonito, que está além do finito; a terceira, do crescimento absoluto. Sadler admite com franqueza que a terceira história pode ser começada, mas não concluída. É, na prática, um relato de final aberto.",
+"w01.008": "O plano geral da narrativa de Sadler: um prólogo pré-criativo, as três histórias do universo-mestre e um epílogo que alcança além da criação",
+"w01.009": "Sadler manteve o texto principal tão simples quanto pôde e transferiu as referências a O Livro de Urântia para os apêndices. O texto principal é uma história para o leitor interessado; os apêndices são breves estudos para o estudante sério. O presente comentário segue essa disposição, tratando o texto principal na Primeira parte e os apêndices na Segunda parte.",
+"w01.010": "2. Um livro como uma sinfonia (orig., pp. 1–2)",
+"w01.011": "Por que o estudo foi escrito",
+"w01.012": "No seu prefácio, Sadler faz a si mesmo uma pergunta: por que escrever um estudo como esse? A sua resposta começa com uma imagem. O Livro de Urântia, sugere ele, foi composto menos como um livro didático e mais como uma sinfonia. Temas conceituais surgem, desvanecem e retornam; movimentos da verdade que se desdobra repetem-se e desenvolvem-se, e por meio deles toma forma uma longa narrativa.",
+"w01.013": "Alguns movimentos trazem uma melodia tão bela e simples que qualquer pessoa é cativada de imediato. A vida de Jesus é um deles. Dificilmente alguém poderia desgostar do relato de um homem que cresceu entre as pessoas e tornou Deus vivamente presente no meio delas. Outros documentos, porém, são construídos sobre harmonias tão intrincadas que a melodia não é captada com facilidade. A sua beleza não desapareceu; apenas é menos evidente. Sadler empreendeu o seu estudo para trazer essa melodia oculta à luz.",
+"w01.014": "Um novo horizonte",
+"w01.015": "Os documentos que parecem mais distantes e difíceis estão repletos de movimentos conceituais finamente elaborados, cada fio retratando alguma verdade viva. Se conseguirmos compreendê-la, diz Sadler, ganharemos um novo horizonte, uma linha contra a qual os assuntos deste mundo e desta vida podem ser vistos de um modo novo. Equivale a adquirir a perspectiva mais ampla que a mente humana é capaz de conter.",
+"w01.016": "Todos nós estamos incluídos nos planos de Deus para o futuro. Esses planos são tão vastos e tão abertos que o seu próprio tamanho os torna difíceis de ver. Sadler acredita que eles se revelam em parte no universo-mestre, e toma como objetivo do seu estudo aproximar o leitor, ainda que só um pouco, dessa grande aventura.",
+"w01.017": "O Livro de Urântia também descreve a busca de Deus como uma aventura sem fim.",
+"w01.019": "3. O Prólogo na Eternidade: preparando o palco (orig., p. 3)",
+"w01.020": "O universo-mestre é uma realidade que continuará no futuro eterno. No entanto, à exceção de Havona, não é uma realidade que tenha existido desde o passado eterno. Rigorosamente falando, portanto, um estudo do universo-mestre só começa quando Havona pode ser vista em relação aos universos que vêm depois dela. Por isso Sadler coloca um prólogo antes da história principal, no qual examina primeiro os atos eternos da Deidade que prepararam o palco espacial para o universo-mestre e, na verdade, o palco para a própria Havona.",
+"w01.021": "O prólogo tem três partes. A primeira, “Antes do Princípio dos Princípios”, parte do Infinito. A segunda imagina o que precedeu Havona e chama-se “Idade Zero”. A terceira descreve a “Primeira Idade do Universo”, quando Havona existia sozinha. Este comentário trata dessas três, uma após a outra, nos Capítulos 1 a 3.",
+"w01.022": "4. Antes do Princípio dos Princípios: o Infinito (orig., p. 5)",
+"w01.023": "O Infinito por trás de todas as coisas",
+"w01.024": "Ao longo de todo O Livro de Urântia corre a sugestão de que por trás de tudo, antes de todo começo, está o Infinito. Sadler observa que o leitor chega gradualmente a um “sentimento” de que os Absolutos, as Deidades e as Trindades são todos aspectos e fases diferentes do Infinito. Deus parece ser a personalização do Infinito. O nome “Pai Universal” é o nome que Lhe damos tendo em vista a Sua relação conosco, os Seus filhos mortais.",
+"w01.025": "A Introdução de O Livro de Urântia liga esse Infinito à verdadeira infinitude do Pai.",
+"w01.027": "Para dizer o pensamento de Sadler com as nossas próprias palavras: a infinitude de Deus é o fundamento de toda estrutura que Ele fez. A Deidade e os Absolutos e a Trindade, o existencial e o experiencial, o factual e o potencial, as realidades do tempo e as realidades da eternidade, tudo repousa sobre ela.",
+"w01.028": "Dois que conhecem o Infinito",
+"w01.029": "Apenas dois seres, ao que parece, conhecem plenamente esse Ser infinito: os Seus iguais, o Filho Eterno e o Espírito Infinito. Mesmo como o Infinito, portanto, o Pai não está sem companheiros que O compreendam. Contudo, esses dois coordenados conhecem o Pai precisamente porque compartilham a Sua infinitude.",
+"w01.030": "Para seres como nós, que aparecem mais tarde e crescem pela experiência, a busca do Infinito é ao mesmo tempo o primeiro e o último desafio. Sadler vê essa busca mover-se em duas direções ao mesmo tempo. Uma é uma interminável viagem de descoberta para fora, rumo à infinitude quantitativa de Deus além de nós. A outra é uma exploração qualitativa igualmente interminável para dentro, rumo ao fragmento do espírito de Deus que agora reside em nós na carne, o Ajustador do Pensamento.",
+"w01.032": "Um fundamento não provado",
+"w01.033": "Sadler chama o ponto de partida do seu estudo de “fundamento não provado”: a convicção de que por baixo de tudo o que acontece está o Infinito, que é Deus. Ele não o apresenta como a conclusão de um argumento, mas como a confiança com que uma investigação começa. A partir daí, acompanha o desdobramento do propósito de Deus através do tempo e do tempo transcendido até o futuro eterno, perguntando até onde podemos avançar na busca do Pai que é final, inqualificável, absoluto e, por fim, infinito. O próprio Livro de Urântia chama esse conceito de “⟦Q 0:3.24⟧Pai-Infinito⟦/Q⟧” [0:3.24].",
+"w01.034": "O estudo de Sadler é a história do universo-mestre, uma história de criação e evolução, e também a história do crescimento do Ser Supremo e de Deus, o Último.",
+"w01.035": "Antes do universo-mestre está a eternidade pré-criativa (o prólogo); depois dele, o que transcende a criação (o epílogo).",
+"w01.036": "O corpo principal divide-se na história finita, na história absonita e numa história absoluta que só pode ser começada.",
+"w01.037": "Sadler compara O Livro de Urântia a uma sinfonia, e não a um livro didático, e escreveu o seu estudo para revelar a beleza dos seus documentos remotos e difíceis.",
+"w01.038": "O Infinito está na base de toda realidade, e apenas o Filho Eterno e o Espírito Infinito O conhecem plenamente.",
+"w01.039": "Para os seres humanos, a busca do Infinito é uma procura dupla e interminável: para fora, rumo a Deus além, e para dentro, rumo ao Ajustador residente.",
+"w01.040": "A Idade Zero",
+"w01.041": "Prólogo na Eternidade · Segundo Prólogo: A Idade Zero (pp. 6–13)",
+"w01.042": "Antes de Havona não há realidade no sentido de fato, mas ainda assim podem formar-se conceitos válidos sobre essa condição. Comparando-a ao número zero, Sadler coloca uma “Idade Zero” antes da Primeira Idade do Universo e usa diagramas para mostrar como a Deidade procede ali através dos níveis estático, potencial e associativo. Pelo caminho aparecem os três Absolutos, Deus torna-se Pai, e completa-se uma tese, uma antítese e uma síntese da realidade potencial. Na realidade factual, porém, a síntese esperada dá lugar a algo que ninguém poderia ter previsto.",
+"w01.043": "1. Seis idades do universo e o que veio antes (orig., p. 6)",
+"w01.044": "Para estudar bem o universo-mestre, ajuda voltar tão longe quanto possível, porque os preparativos para ele foram feitos no Paraíso. Sadler organiza o desenvolvimento do universo-mestre em seis grandes divisões de tempo, as seis idades do universo. Vivemos na segunda delas. A primeira pertence a Havona, o universo central. Essa criação divina é o núcleo eterno da perfeição, e o restante do universo-mestre gira lentamente ao seu redor, enquanto se estende gradualmente pela imensidão do espaço exterior.",
+"w01.046": "2. Fatos e conceitos válidos (orig., p. 6)",
+"w01.047": "A analogia do zero",
+"w01.048": "A eternidade “alvorece” com a Havona eterna já presente. Antes do “tempo” de Havona, portanto, não pode haver realidade como fato. Mesmo assim, Sadler sustenta que podemos ter conceitos válidos sobre o que está antes dela. Um conceito não precisa ser um fato para ser útil e sólido. Quando falamos, em linguagem de tempo e espaço, de realidades que precedem o tempo e o espaço, não podemos apreender fatos reais, mas podemos aproximar-nos de conceitos relativamente válidos.",
+"w01.049": "Sadler ilustra a distinção com números. Na contagem, “um” é o primeiro número real, mas por trás dele está o conceito “zero”. O zero não é algo que exista como fato, mas é claramente um conceito válido, e sem ele a matemática não funcionaria corretamente. Do mesmo modo, se a Primeira Idade do Universo é a primeira “idade de fato”, então por trás dela está o conceito de uma idade anterior a Havona. Sadler dá-lhe o nome de Idade Zero. A marca do zero numa régua não mede nada por si mesma, mas mostra onde começa o primeiro centímetro.",
+"w01.050": "O Livro de Urântia não usa a expressão “Idade Zero”. Ele postula, no entanto, um estado anterior ao aparecimento do Espírito Infinito e do universo central e explica as origens da realidade passo a passo, e o próprio texto afirma que esse é um modo de explicação adaptado às mentes finitas.",
+"w01.052": "3. Relações de origem na eternidade (orig., p. 7)",
+"w01.053": "Qualquer tentativa de pensar em “origens” no passado eterno logo encontra dificuldades. Deus é o Pai do Filho Eterno, e no entanto o Filho é tão “antigo” quanto Deus. Sadler propõe que deixemos de lado por um momento a palavra “eterno” e pensemos na linguagem mais confortável do tempo. Vistas assim, as realidades eternas (Pai, Filho e Espírito, juntamente com a Ilha do Paraíso e o universo central) distribuem-se em três relações de origem.",
+"w01.054": "Relações de origem na eternidade, tal como Sadler as reformula em linguagem de tempo",
+"w01.055": ["Estágio", "Realidades", "Razão para colocá-las aqui"],
+"w01.056": ["Eterno", "Espírito Infinito; Havona, o universo central", "Eternos, mas aparecendo quando o Filho e o Paraíso já estavam presentes"],
+"w01.057": ["Mais eterno", "Filho Eterno; Ilha do Paraíso", "Já presentes quando o Espírito e Havona apareceram"],
+"w01.058": ["O mais eterno", "Pai Universal", "Pai do Filho e fonte do Paraíso"],
+"w01.059": "Sadler cunha de propósito a palavra desajeitada “mais eterno” (*eternaler*), para mostrar que, mesmo dentro da eternidade, podem conceber-se três estágios. Ele sugere ir tão para dentro quanto os conceitos alcançam e depois sair um estágio de cada vez, rumo a Havona e à realidade de fato. O Livro de Urântia deixa claro que tais sequências são apenas uma concessão às mentes limitadas pelo tempo.",
+}
+for k, v in T.items():
+    assert k in SRC, k
+    D[k] = v
+order = [k for k in SRC if k in D]
+D = {k: D[k] for k in order}
+os.makedirs(os.path.dirname(OUT), exist_ok=True)
+json.dump(D, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print(len(D), "of", len(SRC))

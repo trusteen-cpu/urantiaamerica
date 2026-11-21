@@ -10,3 +10,4 @@ eleven_key.txt
 r2_keys.json
 .wrangler/
 node_modules/
+_draft_*/

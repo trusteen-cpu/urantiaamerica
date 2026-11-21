@@ -1,0 +1,544 @@
+{
+ "p60.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p60.003": {
+  "en": "1. The Early Reptilian Age",
+  "official": [
+   "1: La Edad Primitiva de los Reptiles"
+  ]
+ },
+ "p60.006": {
+  "en": "2. The Later Reptilian Age",
+  "official": [
+   "2: El Fin de la Edad de los Reptiles"
+  ]
+ },
+ "p60.010": {
+  "en": "3. The Cretaceous Stage—The Flowering-Plant Period—The Age of Birds",
+  "official": [
+   "3: La Etapa Cretácea El Período de las Plantas Floríferas La Edad de las Aves"
+  ]
+ },
+ "p60.014": {
+  "en": "4. The End of the Chalk Period",
+  "official": [
+   "4: El Fin del Período de la Greda"
+  ]
+ },
+ "p61.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p61.003": {
+  "en": "1. The New Continental Land Stage—The Age of Early Mammals",
+  "official": [
+   "1: La Nueva Etapa Terrestre Continental La Edad de los Mamíferos Primitivos"
+  ]
+ },
+ "p61.006": {
+  "en": "2. The Recent Flood Stage—The Age of Advanced Mammals",
+  "official": [
+   "2: La Etapa Reciente de las Inundaciones La Edad de los Mamíferos Avanzados"
+  ]
+ },
+ "p61.009": {
+  "en": "3. The Modern Mountain Stage—Age of the Elephant and the Horse",
+  "official": [
+   "3: La Etapa de las Montañas Modernas La Edad del Elefante y del Caballo"
+  ]
+ },
+ "p61.012": {
+  "en": "4. The Recent Continental-Elevation Stage—The Last Great Mammalian Migration",
+  "official": [
+   "4: La Etapa Reciente de la Elevación Continental La Última Gran Emigración de los Mamíferos"
+  ]
+ },
+ "p61.015": {
+  "en": "5. The Early Ice Age",
+  "official": [
+   "5: La Edad Glacial Primitiva"
+  ]
+ },
+ "p61.018": {
+  "en": "6. Primitive Man in the Ice Age",
+  "official": [
+   "6: El Hombre Primitivo Durante la Edad Glacial"
+  ]
+ },
+ "p61.021": {
+  "en": "7. The Continuing Ice Age",
+  "official": [
+   "7: La Continuación de la Edad Glacial"
+  ]
+ },
+ "p62.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p62.003": {
+  "en": "1. The Early Lemur Types",
+  "official": [
+   "1: Los Primeros Tipos de Lémures"
+  ]
+ },
+ "p62.006": {
+  "en": "2. The Dawn Mammals",
+  "official": [
+   "2: Los Mamíferos Protohumanos"
+  ]
+ },
+ "p62.009": {
+  "en": "3. The Mid-Mammals",
+  "official": [
+   "3: Los Mamíferos Intermedios"
+  ]
+ },
+ "p62.013": {
+  "en": "4. The Primates",
+  "official": [
+   "4: Los Primates"
+  ]
+ },
+ "p62.016": {
+  "en": "5. The First Human Beings",
+  "official": [
+   "5: Los Primeros Seres Humanos"
+  ]
+ },
+ "p62.020": {
+  "en": "6. Evolution of the Human Mind",
+  "official": [
+   "6: La Evolución de la Mente Humana"
+  ]
+ },
+ "p62.023": {
+  "en": "7. Recognition as an Inhabited World",
+  "official": [
+   "7: El Reconocimiento como un Mundo Habitado"
+  ]
+ },
+ "p63.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p63.004": {
+  "en": "1. Andon and Fonta",
+  "official": [
+   "1: Andón y Fonta"
+  ]
+ },
+ "p63.007": {
+  "en": "2. The Flight of the Twins",
+  "official": [
+   "2: La Huida de los Gemelos"
+  ]
+ },
+ "p63.010": {
+  "en": "3. Andon’s Family",
+  "official": [
+   "3: La Familia de Andón"
+  ]
+ },
+ "p63.013": {
+  "en": "4. The Andonic Clans",
+  "official": [
+   "4: Los Clanes Andónicos"
+  ]
+ },
+ "p63.017": {
+  "en": "5. Dispersion of the Andonites",
+  "official": [
+   "5: La Dispersión de los Andonitas"
+  ]
+ },
+ "p63.020": {
+  "en": "6. Onagar—The First Truth Teacher",
+  "official": [
+   "6: Onagar — El Primer Maestro de la Verdad"
+  ]
+ },
+ "p63.024": {
+  "en": "7. The Survival of Andon and Fonta",
+  "official": [
+   "7: La Supervivencia de Andón y Fonta"
+  ]
+ },
+ "p64.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p64.003": {
+  "en": "1. The Andonic Aborigines",
+  "official": [
+   "1: Los Aborígenes Andónicos"
+  ]
+ },
+ "p64.006": {
+  "en": "2. The Foxhall Peoples",
+  "official": [
+   "2: Los Pueblos de Foxhall"
+  ]
+ },
+ "p64.009": {
+  "en": "3. The Badonan Tribes",
+  "official": [
+   "3: Las Tribus de Badonán"
+  ]
+ },
+ "p64.012": {
+  "en": "4. The Neanderthal Races",
+  "official": [
+   "4: Las Razas Neandertales"
+  ]
+ },
+ "p64.015": {
+  "en": "5. Origin of the Colored Races",
+  "official": [
+   "5: El Origen de las Razas de Color"
+  ]
+ },
+ "p64.018": {
+  "en": "6. The Six Sangik Races of Urantia",
+  "official": [
+   "6: Las Seis Razas Sangik de Urantia"
+  ]
+ },
+ "p64.022": {
+  "en": "7. Dispersion of the Colored Races",
+  "official": [
+   "7: La Dispersión de las Razas de Color"
+  ]
+ },
+ "p65.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p65.004": {
+  "en": "1. Life Carrier Functions",
+  "official": [
+   "1: Las Funciones de los Portadores de Vida"
+  ]
+ },
+ "p65.007": {
+  "en": "2. The Evolutionary Panorama",
+  "official": [
+   "2: El Panorama de la Evolución"
+  ]
+ },
+ "p65.010": {
+  "en": "3. The Fostering of Evolution",
+  "official": [
+   "3: El Fomento de la Evolución"
+  ]
+ },
+ "p65.013": {
+  "en": "4. The Urantia Adventure",
+  "official": [
+   "4: La Aventura Urantiana"
+  ]
+ },
+ "p65.016": {
+  "en": "5. Life-Evolution Vicissitudes",
+  "official": [
+   "5: Las Vicisitudes de la Evolución de la Vida"
+  ]
+ },
+ "p65.019": {
+  "en": "6. Evolutionary Techniques of Life",
+  "official": [
+   "6: Las Técnicas Evolucionarias de la Vida"
+  ]
+ },
+ "p65.022": {
+  "en": "7. Evolutionary Mind Levels",
+  "official": [
+   "7: Los Niveles Evolucionarios de la Mente"
+  ]
+ },
+ "p65.025": {
+  "en": "8. Evolution in Time and Space",
+  "official": [
+   "8: La Evolución en el Tiempo y en el Espacio"
+  ]
+ },
+ "p66.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p66.004": {
+  "en": "1. Prince Caligastia",
+  "official": [
+   "1: El Príncipe Caligastia"
+  ]
+ },
+ "p66.007": {
+  "en": "2. The Prince’s Staff",
+  "official": [
+   "2: El Séquito del Príncipe"
+  ]
+ },
+ "p66.010": {
+  "en": "3. Dalamatia—The City of the Prince",
+  "official": [
+   "3: Dalamatia — La Ciudad del Príncipe"
+  ]
+ },
+ "p66.013": {
+  "en": "4. Early Days of the One Hundred",
+  "official": [
+   "4: Los Primeros Días de los Cien"
+  ]
+ },
+ "p66.016": {
+  "en": "5. Organization of the One Hundred",
+  "official": [
+   "5: La Organización de los Cien"
+  ]
+ },
+ "p66.020": {
+  "en": "6. The Prince’s Reign",
+  "official": [
+   "6: El Reinado del Príncipe"
+  ]
+ },
+ "p66.023": {
+  "en": "7. Life in Dalamatia",
+  "official": [
+   "7: La Vida en Dalamatia"
+  ]
+ },
+ "p66.027": {
+  "en": "8. Misfortunes of Caligastia",
+  "official": [
+   "8: Las Calamidades de Caligastia"
+  ]
+ },
+ "p67.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p67.003": {
+  "en": "1. The Caligastia Betrayal",
+  "official": [
+   "1: La Traición de Caligastia"
+  ]
+ },
+ "p67.006": {
+  "en": "2. The Outbreak of Rebellion",
+  "official": [
+   "2: El Estallido de la Rebelión"
+  ]
+ },
+ "p67.009": {
+  "en": "3. The Seven Crucial Years",
+  "official": [
+   "3: Los Siete Años Cruciales"
+  ]
+ },
+ "p67.012": {
+  "en": "4. The Caligastia One Hundred after Rebellion",
+  "official": [
+   "4: Los Cien de Caligastia Después de la Rebelión"
+  ]
+ },
+ "p67.015": {
+  "en": "5. Immediate Results of Rebellion",
+  "official": [
+   "5: Los Resultados Inmediatos de la Rebelión"
+  ]
+ },
+ "p67.017": {
+  "en": "6. Van—The Steadfast",
+  "official": [
+   "6: Van — El Inconmovible"
+  ]
+ },
+ "p67.020": {
+  "en": "7. Remote Repercussions of Sin",
+  "official": [
+   "7: Las Repercusiones Remotas del Pecado"
+  ]
+ },
+ "p67.023": {
+  "en": "8. The Human Hero of the Rebellion",
+  "official": [
+   "8: El Héroe Humano de la Rebelión"
+  ]
+ },
+ "p68.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p68.003": {
+  "en": "1. Protective Socialization",
+  "official": [
+   "1: La Socialización Protectora"
+  ]
+ },
+ "p68.006": {
+  "en": "2. Factors in Social Progression",
+  "official": [
+   "2: Los Factores del Progreso Social"
+  ]
+ },
+ "p68.009": {
+  "en": "3. Socializing Influence of Ghost Fear",
+  "official": [
+   "3: La Influencia Socializadora del Temor a los Fantasmas"
+  ]
+ },
+ "p68.012": {
+  "en": "4. Evolution of the Mores",
+  "official": [
+   "4: La Evolución de las Costumbres Establecidas"
+  ]
+ },
+ "p68.015": {
+  "en": "5. Land Techniques—Maintenance Arts",
+  "official": [
+   "5: Las Técnicas de la Tierra — Las Artes de la Manutención"
+  ]
+ },
+ "p68.018": {
+  "en": "6. Evolution of Culture",
+  "official": [
+   "6: La Evolución de la Cultura"
+  ]
+ },
+ "p69.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p69.003": {
+  "en": "1. Basic Human Institutions",
+  "official": [
+   "1: Las Instituciones Humanas Fundamentales"
+  ]
+ },
+ "p69.005": {
+  "en": "2. The Dawn of Industry",
+  "official": [
+   "2: Los Albores de la Industria"
+  ]
+ },
+ "p69.008": {
+  "en": "3. The Specialization of Labor",
+  "official": [
+   "3: La Especialización del Trabajo"
+  ]
+ },
+ "p69.011": {
+  "en": "4. The Beginnings of Trade",
+  "official": [
+   "4: Los Comienzos del Comercio de Permuta"
+  ]
+ },
+ "p69.014": {
+  "en": "5. The Beginnings of Capital",
+  "official": [
+   "5: Los Comienzos del Capital"
+  ]
+ },
+ "p69.017": {
+  "en": "6. Fire in Relation to Civilization",
+  "official": [
+   "6: El Fuego con Relación a la Civilización"
+  ]
+ },
+ "p69.020": {
+  "en": "7. The Utilization of Animals",
+  "official": [
+   "7: La Utilización de los Animales"
+  ]
+ },
+ "p69.022": {
+  "en": "8. Slavery as a Factor in Civilization",
+  "official": [
+   "8: La Esclavitud como Factor en la Civilización"
+  ]
+ },
+ "p69.025": {
+  "en": "9. Private Property",
+  "official": [
+   "9: La Propiedad Privada"
+  ]
+ },
+ "p70.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p70.003": {
+  "en": "1. The Genesis of War",
+  "official": [
+   "1: La Génesis de la Guerra"
+  ]
+ },
+ "p70.006": {
+  "en": "2. The Social Value of War",
+  "official": [
+   "2: El Valor Social de la Guerra"
+  ]
+ },
+ "p70.009": {
+  "en": "3. Early Human Associations",
+  "official": [
+   "3: Las Asociaciones Humanas Primitivas"
+  ]
+ },
+ "p70.012": {
+  "en": "4. Clans and Tribes",
+  "official": [
+   "4: Los Clanes y las Tribus"
+  ]
+ },
+ "p70.014": {
+  "en": "5. The Beginnings of Government",
+  "official": [
+   "5: Los Comienzos del Gobierno"
+  ]
+ },
+ "p70.017": {
+  "en": "6. Monarchial Government",
+  "official": [
+   "6: El Gobierno Monárquico"
+  ]
+ },
+ "p70.019": {
+  "en": "7. Primitive Clubs and Secret Societies",
+  "official": [
+   "7: Los Clubes Primitivos y las Sociedades Secretas"
+  ]
+ },
+ "p70.022": {
+  "en": "8. Social Classes",
+  "official": [
+   "8: Las Clases Sociales"
+  ]
+ },
+ "p70.025": {
+  "en": "9. Human Rights",
+  "official": [
+   "9: Los Derechos Humanos"
+  ]
+ },
+ "p70.028": {
+  "en": "10. Evolution of Justice",
+  "official": [
+   "10: La Evolución de la Justicia"
+  ]
+ },
+ "p70.031": {
+  "en": "11. Laws and Courts",
+  "official": [
+   "11: Las Leyes y los Tribunales"
+  ]
+ },
+ "p70.034": {
+  "en": "12. Allocation of Civil Authority",
+  "official": [
+   "12: La Repartición de la Autoridad Civil"
+  ]
+ }
+}

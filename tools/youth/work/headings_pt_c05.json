@@ -1,0 +1,608 @@
+{
+ "p48.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p48.003": {
+  "en": "1. Morontia Materials",
+  "official": [
+   "1: Os Materiais Moronciais"
+  ]
+ },
+ "p48.006": {
+  "en": "2. Morontia Power Supervisors",
+  "official": [
+   "2: Os Supervisores do Poder Moroncial"
+  ]
+ },
+ "p48.009": {
+  "en": "3. Morontia Companions",
+  "official": [
+   "3: Os Companheiros Moronciais"
+  ]
+ },
+ "p48.012": {
+  "en": "4. The Reversion Directors",
+  "official": [
+   "4: Os Diretores de Retrospecção"
+  ]
+ },
+ "p48.015": {
+  "en": "5. The Mansion World Teachers",
+  "official": [
+   "5: Os Educadores dos Mundos das Mansões"
+  ]
+ },
+ "p48.018": {
+  "en": "6. Morontia World Seraphim—Transition Ministers",
+  "official": [
+   "6: Os Serafins dos Mundos Moronciais —Os Ministros de Transição"
+  ]
+ },
+ "p48.022": {
+  "en": "7. Morontia Mota",
+  "official": [
+   "7: A Mota Moroncial"
+  ]
+ },
+ "p48.025": {
+  "en": "8. The Morontia Progressors",
+  "official": [
+   "8: Os Progressores Moronciais"
+  ]
+ },
+ "p49.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p49.003": {
+  "en": "1. The Planetary Life",
+  "official": [
+   "1: A Vida Planetária"
+  ]
+ },
+ "p49.006": {
+  "en": "2. Planetary Physical Types",
+  "official": [
+   "2: Os Tipos Físicos Planetários"
+  ]
+ },
+ "p49.009": {
+  "en": "3. Worlds of the Nonbreathers",
+  "official": [
+   "3: Os Mundos dos Não-Respiradores"
+  ]
+ },
+ "p49.011": {
+  "en": "4. Evolutionary Will Creatures",
+  "official": [
+   "4: As Criaturas Volitivas Evolucionárias"
+  ]
+ },
+ "p49.014": {
+  "en": "5. The Planetary Series of Mortals",
+  "official": [
+   "5: As Séries Planetárias de Mortais"
+  ]
+ },
+ "p49.017": {
+  "en": "6. Terrestrial Escape",
+  "official": [
+   "6: O Escape Terrestre"
+  ]
+ },
+ "p50.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p50.003": {
+  "en": "1. Mission of the Princes",
+  "official": [
+   "1: A Missão dos Príncipes"
+  ]
+ },
+ "p50.006": {
+  "en": "2. Planetary Administration",
+  "official": [
+   "2: Administração Planetária"
+  ]
+ },
+ "p50.009": {
+  "en": "3. The Prince’s Corporeal Staff",
+  "official": [
+   "3: Os Assessores Corpóreos do Príncipe"
+  ]
+ },
+ "p50.012": {
+  "en": "4. The Planetary Headquarters and Schools",
+  "official": [
+   "4: As Sedes Centrais e as Escolas Planetárias"
+  ]
+ },
+ "p50.015": {
+  "en": "5. Progressive Civilization",
+  "official": [
+   "5: A Civilização Progressiva"
+  ]
+ },
+ "p50.018": {
+  "en": "6. Planetary Culture",
+  "official": [
+   "6: A Cultura Planetária"
+  ]
+ },
+ "p50.021": {
+  "en": "7. The Rewards of Isolation",
+  "official": [
+   "7: As Recompensas do Isolamento"
+  ]
+ },
+ "p51.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p51.003": {
+  "en": "1. Origin and Nature of the Material Sons of God",
+  "official": [
+   "1: A Origem e a Natureza dos Filhos Materiais de Deus"
+  ]
+ },
+ "p51.006": {
+  "en": "2. Transit of the Planetary Adams",
+  "official": [
+   "2: O Trânsito dos Adãos Planetários"
+  ]
+ },
+ "p51.009": {
+  "en": "3. The Adamic Missions",
+  "official": [
+   "3: As Missões Adâmicas"
+  ]
+ },
+ "p51.012": {
+  "en": "4. The Six Evolutionary Races",
+  "official": [
+   "4: As Seis Raças Evolucionárias"
+  ]
+ },
+ "p51.015": {
+  "en": "5. Racial Amalgamation—Bestowal of the Adamic Blood",
+  "official": [
+   "5: A Miscigenação Racial —A Dádiva do Sangue Adâmico"
+  ]
+ },
+ "p51.018": {
+  "en": "6. The Edenic Regime",
+  "official": [
+   "6: O Regime Edênico"
+  ]
+ },
+ "p51.021": {
+  "en": "7. United Administration",
+  "official": [
+   "7: A Administração Unificada"
+  ]
+ },
+ "p52.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p52.003": {
+  "en": "1. Primitive Man",
+  "official": [
+   "1: O Homem Primitivo"
+  ]
+ },
+ "p52.006": {
+  "en": "2. Post-Planetary Prince Man",
+  "official": [
+   "2: O Homem Pós-Príncipe Planetário"
+  ]
+ },
+ "p52.009": {
+  "en": "3. Post-Adamic Man",
+  "official": [
+   "3: O Homem Pós-Adâmico"
+  ]
+ },
+ "p52.012": {
+  "en": "4. Post-Magisterial Son Man",
+  "official": [
+   "4: O Homem Pós-Filho Magisterial"
+  ]
+ },
+ "p52.015": {
+  "en": "5. Post-Bestowal Son Man",
+  "official": [
+   "5: O Homem Pós-Filho Auto-outorgado"
+  ]
+ },
+ "p52.018": {
+  "en": "6. Urantia’s Post-Bestowal Age",
+  "official": [
+   "6: A Era depois da Auto-outorga em Urântia"
+  ]
+ },
+ "p52.021": {
+  "en": "7. Post-Teacher Son Man",
+  "official": [
+   "7: O Homem da Pós-Filho Instrutor"
+  ]
+ },
+ "p53.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p53.003": {
+  "en": "1. The Leaders of Rebellion",
+  "official": [
+   "1: Os Líderes da Rebelião"
+  ]
+ },
+ "p53.006": {
+  "en": "2. The Causes of Rebellion",
+  "official": [
+   "2: As Causas da Rebelião"
+  ]
+ },
+ "p53.009": {
+  "en": "3. The Lucifer Manifesto",
+  "official": [
+   "3: O Manifesto de Lúcifer"
+  ]
+ },
+ "p53.012": {
+  "en": "4. Outbreak of the Rebellion",
+  "official": [
+   "4: A Eclosão da Rebelião"
+  ]
+ },
+ "p53.015": {
+  "en": "5. Nature of the Conflict",
+  "official": [
+   "5: A Natureza do Conflito"
+  ]
+ },
+ "p53.018": {
+  "en": "6. A Loyal Seraphic Commander",
+  "official": [
+   "6: Um Comandante Seráfico Leal"
+  ]
+ },
+ "p53.021": {
+  "en": "7. History of the Rebellion",
+  "official": [
+   "7: A História da Rebelião"
+  ]
+ },
+ "p53.024": {
+  "en": "8. The Son of Man on Urantia",
+  "official": [
+   "8: O Filho do Homem em Urântia"
+  ]
+ },
+ "p53.027": {
+  "en": "9. Present Status of the Rebellion",
+  "official": [
+   "9: O Status Atual da Rebelião"
+  ]
+ },
+ "p54.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p54.003": {
+  "en": "1. True and False Liberty",
+  "official": [
+   "1: A Liberdade Verdadeira e a Falsa Liberdade"
+  ]
+ },
+ "p54.006": {
+  "en": "2. The Theft of Liberty",
+  "official": [
+   "2: O Roubo da Liberdade"
+  ]
+ },
+ "p54.009": {
+  "en": "3. The Time Lag of Justice",
+  "official": [
+   "3: A Demora Temporal da Justiça"
+  ]
+ },
+ "p54.012": {
+  "en": "4. The Mercy Time Lag",
+  "official": [
+   "4: A Demora Temporal da Misericórdia"
+  ]
+ },
+ "p54.015": {
+  "en": "5. The Wisdom of Delay",
+  "official": [
+   "5: Sabedoria no Adiamento"
+  ]
+ },
+ "p54.018": {
+  "en": "6. The Triumph of Love",
+  "official": [
+   "6: O Triunfo do Amor"
+  ]
+ },
+ "p55.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p55.003": {
+  "en": "1. The Morontia Temple",
+  "official": [
+   "1: O Templo Moroncial"
+  ]
+ },
+ "p55.006": {
+  "en": "2. Death and Translation",
+  "official": [
+   "2: A Morte e o Translado"
+  ]
+ },
+ "p55.009": {
+  "en": "3. The Golden Ages",
+  "official": [
+   "3: As Idades de Ouro"
+  ]
+ },
+ "p55.012": {
+  "en": "4. Administrative Readjustments",
+  "official": [
+   "4: Os Reajustamentos Administrativos"
+  ]
+ },
+ "p55.015": {
+  "en": "5. The Acme of Material Development",
+  "official": [
+   "5: O Ápice do Desenvolvimento Material"
+  ]
+ },
+ "p55.018": {
+  "en": "6. The Individual Mortal",
+  "official": [
+   "6: O Mortal Individual"
+  ]
+ },
+ "p55.021": {
+  "en": "7. The First or Planetary Stage",
+  "official": [
+   "7: O Primeiro Estágio ou Estágio do Planeta"
+  ]
+ },
+ "p55.023": {
+  "en": "8. The Second or System Stage",
+  "official": [
+   "8: O Segundo Estágio ou Estágio do Sistema"
+  ]
+ },
+ "p55.025": {
+  "en": "9. The Third or Constellation Stage",
+  "official": [
+   "9: O Terceiro Estágio ou Estágio da Constelação"
+  ]
+ },
+ "p55.027": {
+  "en": "10. The Fourth or Local Universe Stage",
+  "official": [
+   "10: O Quarto Estágio ou Estágio do Universo Local"
+  ]
+ },
+ "p55.030": {
+  "en": "11. The Minor and Major Sector Stages",
+  "official": [
+   "11: O Estágio do Setor Menor e do Setor Maior"
+  ]
+ },
+ "p55.033": {
+  "en": "12. The Seventh or Superuniverse Stage",
+  "official": [
+   "12: O Sétimo Estágio ou Estágio do Superuniverso"
+  ]
+ },
+ "p56.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p56.003": {
+  "en": "1. Physical Co-ordination",
+  "official": [
+   "1: A Coordenação Física"
+  ]
+ },
+ "p56.006": {
+  "en": "2. Intellectual Unity",
+  "official": [
+   "2: A Unidade Intelectual"
+  ]
+ },
+ "p56.009": {
+  "en": "3. Spiritual Unification",
+  "official": [
+   "3: A Unificação Espiritual"
+  ]
+ },
+ "p56.012": {
+  "en": "4. Personality Unification",
+  "official": [
+   "4: A Unificação da Personalidade"
+  ]
+ },
+ "p56.015": {
+  "en": "5. Deity Unity",
+  "official": [
+   "5: A Unidade da Deidade"
+  ]
+ },
+ "p56.017": {
+  "en": "6. Unification of Evolutionary Deity",
+  "official": [
+   "6: A Unificação da Deidade Evolucionária"
+  ]
+ },
+ "p56.020": {
+  "en": "7. Universal Evolutionary Repercussions",
+  "official": [
+   "7: As Repercussões Evolucionárias Universais"
+  ]
+ },
+ "p56.023": {
+  "en": "8. The Supreme Unifier",
+  "official": [
+   "8: O Unificador Supremo"
+  ]
+ },
+ "p56.026": {
+  "en": "9. Universal Absolute Unity",
+  "official": [
+   "9: A Unidade do Absoluto Universal"
+  ]
+ },
+ "p56.029": {
+  "en": "10. Truth, Beauty, and Goodness",
+  "official": [
+   "10: A Verdade, a Beleza e a Bondade"
+  ]
+ },
+ "p57.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p57.003": {
+  "en": "1. The Andronover Nebula",
+  "official": [
+   "1: A Nebulosa de Andronover"
+  ]
+ },
+ "p57.006": {
+  "en": "2. The Primary Nebular Stage",
+  "official": [
+   "2: O Estágio Primário da Nebulosa"
+  ]
+ },
+ "p57.008": {
+  "en": "3. The Secondary Nebular Stage",
+  "official": [
+   "3: O Estágio Secundário da Nebulosa"
+  ]
+ },
+ "p57.011": {
+  "en": "4. Tertiary and Quartan Stages",
+  "official": [
+   "4: Os Estágios Terciário e Quaternário"
+  ]
+ },
+ "p57.014": {
+  "en": "5. Origin of Monmatia—The Urantia Solar System",
+  "official": [
+   "5: Origem de Monmátia — O Sistema Solar de Urântia"
+  ]
+ },
+ "p57.017": {
+  "en": "6. The Solar System Stage—The Planet-Forming Era",
+  "official": [
+   "6: O Estágio do Sistema Solar — A Era de Formação do Planeta"
+  ]
+ },
+ "p57.020": {
+  "en": "7. The Meteoric Era—The Volcanic Age—The Primitive Planetary Atmosphere",
+  "official": [
+   "7: A Era Meteórica — A Era Vulcânica A Atmosfera Planetária Primitiva"
+  ]
+ },
+ "p57.023": {
+  "en": "8. Crustal Stabilization—The Age of Earthquakes—The World Ocean and the First Continent",
+  "official": [
+   "8: A Estabilização da Crosta Terrestre A Idade dos Terremotos O Oceano Mundial e o Primeiro Continente"
+  ]
+ },
+ "p58.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p58.003": {
+  "en": "1. Physical-Life Prerequisites",
+  "official": [
+   "1: Os Pré-Requisitos para a Vida Física"
+  ]
+ },
+ "p58.006": {
+  "en": "2. The Urantia Atmosphere",
+  "official": [
+   "2: A Atmosfera de Urântia"
+  ]
+ },
+ "p58.009": {
+  "en": "3. Spatial Environment",
+  "official": [
+   "3: O Meio Ambiente Espacial"
+  ]
+ },
+ "p58.011": {
+  "en": "4. The Life-Dawn Era",
+  "official": [
+   "4: A Era da Aurora da Vida"
+  ]
+ },
+ "p58.014": {
+  "en": "5. The Continental Drift",
+  "official": [
+   "5: A Deriva Continental"
+  ]
+ },
+ "p58.017": {
+  "en": "6. The Transition Period",
+  "official": [
+   "6: O Período de Transição"
+  ]
+ },
+ "p58.020": {
+  "en": "7. The Geologic History Book",
+  "official": [
+   "7: O Livro da História Geológica"
+  ]
+ },
+ "p59.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p59.004": {
+  "en": "1. Early Marine Life in the Shallow Seas—The Trilobite Age",
+  "official": [
+   "1: A Vida Marinha Primitiva nos Mares Rasos A Idade dos Trilobitas"
+  ]
+ },
+ "p59.007": {
+  "en": "2. The First Continental Flood Stage—The Invertebrate-Animal Age",
+  "official": [
+   "2: O Primeiro Estágio de Inundação Continental A Idade dos Animais Invertebrados"
+  ]
+ },
+ "p59.010": {
+  "en": "3. The Second Great Flood Stage—The Coral Period—The Brachiopod Age",
+  "official": [
+   "3: O Estágio da Segunda Grande Inundação O Período dos Corais — A Idade dos BraRAquiópodes"
+  ]
+ },
+ "p59.013": {
+  "en": "4. The Great Land-Emergence Stage—The Vegetative Land-Life Period—The Age of Fishes",
+  "official": [
+   "4: O Estágio da Grande Emergência de Terras O Período da Vida Vegetal na Terra A Idade dos Peixes"
+  ]
+ },
+ "p59.016": {
+  "en": "5. The Crustal-Shifting Stage—The Fern-Forest Carboniferous Period—The Age of Frogs",
+  "official": [
+   "5: O Estágio da Movimentação da Crosta O Período Carbonífero das Florestas de Fetos A Idade das Rãs"
+  ]
+ },
+ "p59.019": {
+  "en": "6. The Climatic Transition Stage—The Seed-Plant Period—The Age of Biologic Tribulation",
+  "official": [
+   "6: O Estágio da Transição Climática O Período das Plantas de Sementes A Idade da Attribulação Biológica"
+  ]
+ }
+}

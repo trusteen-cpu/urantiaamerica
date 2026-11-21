@@ -1,0 +1,544 @@
+{
+ "p138.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p138.003": {
+  "en": "1. Final Instructions",
+  "official": [
+   "1: Las Instrucciones Finales"
+  ]
+ },
+ "p138.006": {
+  "en": "2. Choosing the Six",
+  "official": [
+   "2: La Selección de los Seis"
+  ]
+ },
+ "p138.009": {
+  "en": "3. The Call of Matthew and Simon",
+  "official": [
+   "3: El Llamado de Mateo y Simón"
+  ]
+ },
+ "p138.012": {
+  "en": "4. The Call of the Twins",
+  "official": [
+   "4: El Llamado de los Gemelos"
+  ]
+ },
+ "p138.014": {
+  "en": "5. The Call of Thomas and Judas",
+  "official": [
+   "5: El Llamado de Tomás y Judas"
+  ]
+ },
+ "p138.017": {
+  "en": "6. The Week of Intensive Training",
+  "official": [
+   "6: La Semana de Capacitación Intensiva"
+  ]
+ },
+ "p138.020": {
+  "en": "7. Another Disappointment",
+  "official": [
+   "7: Otra Desilusión"
+  ]
+ },
+ "p138.023": {
+  "en": "8. First Work of the Twelve",
+  "official": [
+   "8: La Primera Labor de los Doce"
+  ]
+ },
+ "p138.026": {
+  "en": "9. Five Months of Testing",
+  "official": [
+   "9: Cinco Meses de Prueba"
+  ]
+ },
+ "p138.029": {
+  "en": "10. Organization of the Twelve",
+  "official": [
+   "10: La Organización de los Doce"
+  ]
+ },
+ "p139.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p139.003": {
+  "en": "1. Andrew, the First Chosen",
+  "official": [
+   "1: Andrés, el Primer Elegido"
+  ]
+ },
+ "p139.006": {
+  "en": "2. Simon Peter",
+  "official": [
+   "2: Simón Pedro"
+  ]
+ },
+ "p139.009": {
+  "en": "3. James Zebedee",
+  "official": [
+   "3: Santiago Zebedeo"
+  ]
+ },
+ "p139.012": {
+  "en": "4. John Zebedee",
+  "official": [
+   "4: Juan Zebedeo"
+  ]
+ },
+ "p139.015": {
+  "en": "5. Philip the Curious",
+  "official": [
+   "5: Felipe el Curioso"
+  ]
+ },
+ "p139.018": {
+  "en": "6. Honest Nathaniel",
+  "official": [
+   "6: El Honesto Natanael"
+  ]
+ },
+ "p139.021": {
+  "en": "7. Matthew Levi",
+  "official": [
+   "7: Mateo Leví"
+  ]
+ },
+ "p139.024": {
+  "en": "8. Thomas Didymus",
+  "official": [
+   "8: Tomás el Dídimo"
+  ]
+ },
+ "p139.028": {
+  "en": "9 and 10. James and Judas Alpheus",
+  "official": []
+ },
+ "p139.031": {
+  "en": "11. Simon the Zealot",
+  "official": [
+   "11: Simón el Zelote"
+  ]
+ },
+ "p139.034": {
+  "en": "12. Judas Iscariot",
+  "official": [
+   "12: Judas Iscariote"
+  ]
+ },
+ "p140.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p140.003": {
+  "en": "1. Preliminary Instruction",
+  "official": [
+   "1: La Instrucción Preliminar"
+  ]
+ },
+ "p140.006": {
+  "en": "2. The Ordination",
+  "official": [
+   "2: La Ordenación"
+  ]
+ },
+ "p140.008": {
+  "en": "3. The Ordination Sermon",
+  "official": [
+   "3: El Sermón de la Ordenación"
+  ]
+ },
+ "p140.011": {
+  "en": "4. You Are the Salt of the Earth",
+  "official": [
+   "4: Vosotros Sois la Sal de la Tierra"
+  ]
+ },
+ "p140.014": {
+  "en": "5. Fatherly and Brotherly Love",
+  "official": [
+   "5: El Amor Paterno y el Fraterno"
+  ]
+ },
+ "p140.018": {
+  "en": "6. The Evening of the Ordination",
+  "official": [
+   "6: La Noche de la Ordenación"
+  ]
+ },
+ "p140.021": {
+  "en": "7. The Week Following the Ordination",
+  "official": [
+   "7: La Semana Posterior a la Ordenación"
+  ]
+ },
+ "p140.023": {
+  "en": "8. Thursday Afternoon on the Lake",
+  "official": [
+   "8: El Jueves por la Tarde en el Lago"
+  ]
+ },
+ "p140.027": {
+  "en": "9. The Day of Consecration",
+  "official": [
+   "9: El Día de la Consagración"
+  ]
+ },
+ "p140.029": {
+  "en": "10. The Evening after the Consecration",
+  "official": [
+   "10: La Noche Después de la Consagración"
+  ]
+ },
+ "p141.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p141.003": {
+  "en": "1. Leaving Galilee",
+  "official": [
+   "1: La Salida de Galilea"
+  ]
+ },
+ "p141.006": {
+  "en": "2. God’s Law and the Father’s Will",
+  "official": [
+   "2: La Ley de Dios y la Voluntad del Padre"
+  ]
+ },
+ "p141.009": {
+  "en": "3. The Sojourn at Amathus",
+  "official": [
+   "3: La Estadía en Amatus"
+  ]
+ },
+ "p141.013": {
+  "en": "4. Teaching about the Father",
+  "official": [
+   "4: Las Enseñanzas Sobre el Padre"
+  ]
+ },
+ "p141.016": {
+  "en": "5. Spiritual Unity",
+  "official": [
+   "5: La Unidad Espiritual"
+  ]
+ },
+ "p141.019": {
+  "en": "6. Last Week at Amathus",
+  "official": [
+   "6: La Última Semana en Amatus"
+  ]
+ },
+ "p141.022": {
+  "en": "7. At Bethany Beyond Jordan",
+  "official": [
+   "7: En Betania Más Allá del Jordán"
+  ]
+ },
+ "p141.026": {
+  "en": "8. Working in Jericho",
+  "official": [
+   "8: El Trabajo en Jericó"
+  ]
+ },
+ "p141.028": {
+  "en": "9. Departing for Jerusalem",
+  "official": [
+   "9: La Partida para Jerusalén"
+  ]
+ },
+ "p142.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p142.003": {
+  "en": "1. Teaching in the Temple",
+  "official": [
+   "1: La Enseñanza en el Templo"
+  ]
+ },
+ "p142.006": {
+  "en": "2. God’s Wrath",
+  "official": [
+   "2: La Ira de Dios"
+  ]
+ },
+ "p142.009": {
+  "en": "3. The Concept of God",
+  "official": [
+   "3: El Concepto de Dios"
+  ]
+ },
+ "p142.012": {
+  "en": "4. Flavius and Greek Culture",
+  "official": [
+   "4: Flavio y la Cultura Griega"
+  ]
+ },
+ "p142.015": {
+  "en": "5. The Discourse on Assurance",
+  "official": [
+   "5: El Discurso Sobre la Certidumbre"
+  ]
+ },
+ "p142.018": {
+  "en": "6. The Visit with Nicodemus",
+  "official": [
+   "6: El Encuentro con Nicodemo"
+  ]
+ },
+ "p142.021": {
+  "en": "7. The Lesson on the Family",
+  "official": [
+   "7: La Lección Sobre la Familia"
+  ]
+ },
+ "p142.025": {
+  "en": "8. In Southern Judea",
+  "official": [
+   "8: En la Judea del Sur"
+  ]
+ },
+ "p143.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p143.003": {
+  "en": "1. Preaching at Archelais",
+  "official": [
+   "1: Las Predicaciones en Arquelais"
+  ]
+ },
+ "p143.007": {
+  "en": "2. Lesson on Self-Mastery",
+  "official": [
+   "2: La Lección Sobre el Autodominio"
+  ]
+ },
+ "p143.010": {
+  "en": "3. Diversion and Relaxation",
+  "official": [
+   "3: La Recreación y el Esparcimiento"
+  ]
+ },
+ "p143.013": {
+  "en": "4. The Jews and the Samaritans",
+  "official": [
+   "4: Los Judíos y los Samaritanos"
+  ]
+ },
+ "p143.015": {
+  "en": "5. The Woman of Sychar",
+  "official": [
+   "5: La Mujer de Sicar"
+  ]
+ },
+ "p143.019": {
+  "en": "6. The Samaritan Revival",
+  "official": [
+   "6: El Renacimiento Samaritano"
+  ]
+ },
+ "p143.022": {
+  "en": "7. Teachings about Prayer and Worship",
+  "official": [
+   "7: Las Enseñanzas Sobre la Oración y la Adoración"
+  ]
+ },
+ "p144.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p144.003": {
+  "en": "1. The Gilboa Encampment",
+  "official": [
+   "1: El Campamento de Gilboa"
+  ]
+ },
+ "p144.006": {
+  "en": "2. The Discourse on Prayer",
+  "official": [
+   "2: El Discurso Sobre la Oración"
+  ]
+ },
+ "p144.009": {
+  "en": "3. The Believer’s Prayer",
+  "official": [
+   "3: La Oración del Creyente"
+  ]
+ },
+ "p144.012": {
+  "en": "4. More about Prayer",
+  "official": [
+   "4: Más Sobre la Oración"
+  ]
+ },
+ "p144.015": {
+  "en": "5. Other Forms of Prayer",
+  "official": [
+   "5: Otras Formas de Oración"
+  ]
+ },
+ "p144.017": {
+  "en": "6. Conference with John’s Apostles",
+  "official": [
+   "6: La Conferencia con los Apóstoles de Juan"
+  ]
+ },
+ "p144.020": {
+  "en": "7. In the Decapolis Cities",
+  "official": [
+   "7: En las Ciudades de la Decápolis"
+  ]
+ },
+ "p144.022": {
+  "en": "8. In Camp near Pella",
+  "official": [
+   "8: En el Campamento Cerca de Pella"
+  ]
+ },
+ "p144.025": {
+  "en": "9. Death of John the Baptist",
+  "official": [
+   "9: La Muerte de Juan el Bautista"
+  ]
+ },
+ "p145.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p145.003": {
+  "en": "1. The Draught of Fishes",
+  "official": [
+   "1: La Redada de los Peces"
+  ]
+ },
+ "p145.006": {
+  "en": "2. Afternoon at the Synagogue",
+  "official": [
+   "2: La Tarde en la Sinagoga"
+  ]
+ },
+ "p145.010": {
+  "en": "3. The Healing at Sundown",
+  "official": [
+   "3: La Curación a la Puesta del Sol"
+  ]
+ },
+ "p145.014": {
+  "en": "4. The Evening After",
+  "official": [
+   "4: La Noche Siguiente"
+  ]
+ },
+ "p145.016": {
+  "en": "5. Early Sunday Morning",
+  "official": [
+   "5: Domingo por la Madrugada"
+  ]
+ },
+ "p146.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p146.003": {
+  "en": "1. Preaching at Rimmon",
+  "official": [
+   "1: La Predicación en Rimón"
+  ]
+ },
+ "p146.005": {
+  "en": "2. At Jotapata",
+  "official": [
+   "2: En Jotapata"
+  ]
+ },
+ "p146.009": {
+  "en": "3. The Stop at Ramah",
+  "official": [
+   "3: La Parada en Ramá"
+  ]
+ },
+ "p146.012": {
+  "en": "4. The Gospel at Iron",
+  "official": [
+   "4: El Evangelio en Irón"
+  ]
+ },
+ "p146.015": {
+  "en": "5. Back in Cana",
+  "official": [
+   "5: De Vuelta en Caná"
+  ]
+ },
+ "p146.017": {
+  "en": "6. Nain and the Widow’s Son",
+  "official": [
+   "6: Naín y el Hijo de la Viuda"
+  ]
+ },
+ "p146.020": {
+  "en": "7. At Endor",
+  "official": [
+   "7: En Endor"
+  ]
+ },
+ "p147.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p147.003": {
+  "en": "1. The Centurion’s Servant",
+  "official": [
+   "1: El Siervo del Centurión"
+  ]
+ },
+ "p147.006": {
+  "en": "2. The Journey to Jerusalem",
+  "official": [
+   "2: El Viaje a Jerusalén"
+  ]
+ },
+ "p147.008": {
+  "en": "3. At the Pool of Bethesda",
+  "official": [
+   "3: En el Estanque de Betesda"
+  ]
+ },
+ "p147.011": {
+  "en": "4. The Rule of Living",
+  "official": [
+   "4: La Regla del Vivir"
+  ]
+ },
+ "p147.014": {
+  "en": "5. Visiting Simon the Pharisee",
+  "official": [
+   "5: La Visita a Simón el Fariseo"
+  ]
+ },
+ "p147.018": {
+  "en": "6. Returning to Capernaum",
+  "official": [
+   "6: El Regreso a Capernaum"
+  ]
+ },
+ "p147.021": {
+  "en": "7. Back in Capernaum",
+  "official": [
+   "7: De Vuelta en Capernaum"
+  ]
+ },
+ "p147.023": {
+  "en": "8. The Feast of Spiritual Goodness",
+  "official": [
+   "8: La Fiesta de la Bondad Espiritual"
+  ]
+ }
+}

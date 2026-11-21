@@ -1,0 +1,312 @@
+{
+ "p126.008#0": {
+  "cit": "126:2.3",
+  "en": "sat at no man's feet",
+  "why": "partial sentence"
+ },
+ "p126.011#0": {
+  "cit": "126:3.3",
+  "en": "The Lord's Prayer",
+  "why": "partial sentence"
+ },
+ "p126.012#0": {
+  "cit": "126:3.6",
+  "en": "Son of Man",
+  "why": "partial sentence"
+ },
+ "p127.009#0": {
+  "cit": "127:2.3",
+  "en": "My mother, how could you?",
+  "why": "length mismatch 4.52"
+ },
+ "p127.010#0": {
+  "cit": "127:2.8",
+  "en": "money cannot love",
+  "why": "partial sentence"
+ },
+ "p127.013#0": {
+  "cit": "127:3.5",
+  "en": "My hour has not yet come.",
+  "why": "partial sentence"
+ },
+ "p127.016#0": {
+  "cit": "127:4.2",
+  "en": "You shall do this—you ought to do that",
+  "why": "partial sentence"
+ },
+ "p127.022#0": {
+  "cit": "127:6.7",
+  "en": "the bread of life",
+  "why": "partial sentence"
+ },
+ "p127.022#1": {
+  "cit": "127:6.7",
+  "en": "the water of life",
+  "why": "partial sentence"
+ },
+ "p127.023#0": {
+  "cit": "127:6.8",
+  "en": "my hour",
+  "why": "partial sentence"
+ },
+ "p128.005#0": {
+  "cit": "128:1.11",
+  "en": "Not I, that is my elder brother.",
+  "why": "partial sentence"
+ },
+ "p128.006#0": {
+  "cit": "128:1.15",
+  "en": "My hour has not yet come.",
+  "why": "partial sentence"
+ },
+ "p128.017#0": {
+  "cit": "128:5.4",
+  "en": "My hour has not yet come.",
+  "why": "partial sentence"
+ },
+ "p128.021#0": {
+  "cit": "128:6.11",
+  "en": "Uncle Joshua",
+  "why": "partial sentence"
+ },
+ "p129.005#0": {
+  "cit": "129:1.11",
+  "en": "the Master",
+  "why": "partial sentence"
+ },
+ "p130.005#0": {
+  "cit": "130:1.2",
+  "en": "we are all Jonahs with lives to live in accordance with the will of God",
+  "why": "partial sentence"
+ },
+ "p130.008#0": {
+  "cit": "130:2.4",
+  "en": "the salt which is to make this brother more agreeable",
+  "why": "partial sentence"
+ },
+ "p130.009#0": {
+  "cit": "130:2.6",
+  "en": "no man is a stranger to one who knows God",
+  "why": "partial sentence"
+ },
+ "p130.011#0": {
+  "cit": "130:3.2",
+  "en": "I will.",
+  "why": "partial sentence"
+ },
+ "p130.017#0": {
+  "cit": "130:5.3",
+  "en": "everything must await the coming of its time",
+  "why": "partial sentence"
+ },
+ "p130.021#0": {
+  "cit": "130:6.4",
+  "en": "This day, my son, you are to be reborn",
+  "why": "partial sentence"
+ },
+ "p130.026#0": {
+  "cit": "130:8.1",
+  "en": "I will face life like a man",
+  "why": "sentence count en 8 vs fr 5"
+ },
+ "p131.008#0": {
+  "cit": "131:2.7",
+  "en": "The Lord is my shepherd; I shall not want",
+  "why": "sentence count en 13 vs fr 11"
+ },
+ "p131.014#0": {
+  "cit": "131:4.3",
+  "en": "From darkness lead us to the light!",
+  "why": "sentence count en 14 vs fr 16"
+ },
+ "p131.029#0": {
+  "cit": "131:10.1",
+  "en": "our religion",
+  "why": "partial sentence"
+ },
+ "p132.004#0": {
+  "cit": "132:2.1",
+  "en": "the scribe of Damascus",
+  "why": "partial sentence"
+ },
+ "p132.009#0": {
+  "cit": "132:2.4",
+  "en": "an intellectual parrot",
+  "why": "partial sentence"
+ },
+ "p132.016#0": {
+  "cit": "132:4.8",
+  "en": "Justice makes a nation great",
+  "why": "partial sentence"
+ },
+ "p132.025#0": {
+  "cit": "132:7.4",
+  "en": "an orphan prophet",
+  "why": "partial sentence"
+ },
+ "p133.016#0": {
+  "cit": "133:4.11",
+  "en": "there are two things you cannot run away from",
+  "why": "partial sentence"
+ },
+ "p133.029#0": {
+  "cit": "133:9.1",
+  "en": "Teacher, is there anything that you cannot do?",
+  "why": "partial sentence"
+ },
+ "p134.011#0": {
+  "cit": "134:3.4",
+  "en": "The Brotherhood of Men",
+  "why": "partial sentence"
+ },
+ "p134.026#0": {
+  "cit": "134:8.7",
+  "en": "May the will of my Paradise Father prevail",
+  "why": "partial sentence"
+ },
+ "p134.026#1": {
+  "cit": "134:8.10",
+  "en": "I must return to my Father's business",
+  "why": "sentence count en 6 vs fr 4"
+ },
+ "p134.029#0": {
+  "cit": "134:9.6",
+  "en": "It behooves me to keep busy while I wait for my hour to come",
+  "why": "partial sentence"
+ },
+ "p134.029#1": {
+  "cit": "134:9.8",
+  "en": "My hour has come",
+  "why": "partial sentence"
+ },
+ "p135.008#0": {
+  "cit": "135:2.2",
+  "en": "coming of the Father's hour",
+  "why": "partial sentence"
+ },
+ "p135.011#0": {
+  "cit": "135:3.4",
+  "en": "Repent!",
+  "why": "length mismatch 1.87"
+ },
+ "p135.019#0": {
+  "cit": "135:6.4",
+  "en": "for the remission of sins",
+  "why": "partial sentence"
+ },
+ "p135.020#0": {
+  "cit": "135:6.6",
+  "en": "the voice of one crying in the wilderness",
+  "why": "partial sentence"
+ },
+ "p135.022#0": {
+  "cit": "135:7.2",
+  "en": "There will come after me one who is greater than I",
+  "why": "partial sentence"
+ },
+ "p135.024#0": {
+  "cit": "135:8.3",
+  "en": "My hour has come",
+  "why": "partial sentence"
+ },
+ "p135.025#0": {
+  "cit": "135:8.6",
+  "en": "This is my beloved Son in whom I am well pleased",
+  "why": "partial sentence"
+ },
+ "p135.027#0": {
+  "cit": "135:9.4",
+  "en": "I am not",
+  "why": "partial sentence"
+ },
+ "p135.033#0": {
+  "cit": "135:11.4",
+  "en": "Are you truly the Messiah",
+  "why": "partial sentence"
+ },
+ "p136.002#0": {
+  "cit": "136:0.2",
+  "en": "Repent! flee from the wrath to come",
+  "why": "length mismatch 0.40"
+ },
+ "p136.004#0": {
+  "cit": "136:1.1",
+  "en": "servant of the Lord",
+  "why": "partial sentence"
+ },
+ "p136.004#1": {
+  "cit": "136:1.1",
+  "en": "son of David",
+  "why": "partial sentence"
+ },
+ "p136.004#2": {
+  "cit": "136:1.1",
+  "en": "Son of Man",
+  "why": "partial sentence"
+ },
+ "p136.004#3": {
+  "cit": "136:1.1",
+  "en": "Son of God",
+  "why": "partial sentence"
+ },
+ "p136.008#0": {
+  "cit": "136:2.3",
+  "en": "This is my beloved Son in whom I am well pleased",
+  "why": "partial sentence"
+ },
+ "p136.008#1": {
+  "cit": "136:2.4",
+  "en": "Your will be done on earth, even as it is in heaven",
+  "why": "sentence count en 7 vs fr 6"
+ },
+ "p136.019#0": {
+  "cit": "136:6.5",
+  "en": "himself he cannot save",
+  "why": "partial sentence"
+ },
+ "p136.030#0": {
+  "cit": "136:10.1",
+  "en": "And in all other matters, as in these now of decision-record, I pledge you I will be subject to the will of my Father",
+  "why": "partial sentence"
+ },
+ "p137.004#0": {
+  "cit": "137:1.3",
+  "en": "This is but the beginning",
+  "why": "partial sentence"
+ },
+ "p137.007#0": {
+  "cit": "137:2.5",
+  "en": "Follow me",
+  "why": "partial sentence"
+ },
+ "p137.007#1": {
+  "cit": "137:2.6",
+  "en": "Can any such good thing come out of Nazareth?",
+  "why": "partial sentence"
+ },
+ "p137.007#2": {
+  "cit": "137:2.6",
+  "en": "Come and see",
+  "why": "partial sentence"
+ },
+ "p137.010#0": {
+  "cit": "137:3.6",
+  "en": "until the Father's hour shall come",
+  "why": "partial sentence"
+ },
+ "p137.019#0": {
+  "cit": "137:6.3",
+  "en": "Be patient and you shall see the glory of God",
+  "why": "partial sentence"
+ },
+ "p137.023#0": {
+  "cit": "137:7.5",
+  "en": "We are seeking to win all of them, but we are not of any of them",
+  "why": "partial sentence"
+ },
+ "p137.026#0": {
+  "cit": "137:8.9",
+  "en": "even now among you",
+  "why": "partial sentence"
+ }
+}

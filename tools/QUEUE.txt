@@ -1,7 +1,3 @@
-days365 pt c04
-days365 pt c05
-days365 pt c06
-days365 pt c07
 days365 pt c08
 days365 pt c09
 days365 pt c10

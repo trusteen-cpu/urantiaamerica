@@ -1,0 +1,578 @@
+{
+ "p25.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p25.003": {
+  "en": "1. The Havona Servitals",
+  "official": [
+   "1: Os Servidores de Havona"
+  ]
+ },
+ "p25.006": {
+  "en": "2. The Universal Conciliators",
+  "official": [
+   "2: Os Conciliadores Universais"
+  ]
+ },
+ "p25.009": {
+  "en": "3. The Far-Reaching Service of Conciliators",
+  "official": [
+   "3: O Serviço de Longo Alcance dos Conciliadores"
+  ]
+ },
+ "p25.012": {
+  "en": "4. Technical Advisers",
+  "official": [
+   "4: Os Conselheiros Técnicos"
+  ]
+ },
+ "p25.015": {
+  "en": "5. The Custodians of Records on Paradise",
+  "official": [
+   "5: Os Custódios dos Registros no Paraíso"
+  ]
+ },
+ "p25.017": {
+  "en": "6. The Celestial Recorders",
+  "official": [
+   "6: Os Registradores Celestes"
+  ]
+ },
+ "p25.019": {
+  "en": "7. The Morontia Companions",
+  "official": [
+   "7: Os Companheiros Moronciais"
+  ]
+ },
+ "p25.021": {
+  "en": "8. The Paradise Companions",
+  "official": [
+   "8: Os Companheiros do Paraíso"
+  ]
+ },
+ "p26.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p26.003": {
+  "en": "1. The Ministering Spirits",
+  "official": [
+   "1: Os Espíritos Ministradores"
+  ]
+ },
+ "p26.006": {
+  "en": "2. The Mighty Supernaphim",
+  "official": [
+   "2: Os Poderosos Supernafins"
+  ]
+ },
+ "p26.008": {
+  "en": "3. The Tertiary Supernaphim",
+  "official": [
+   "3: Os Supernafins Terciários"
+  ]
+ },
+ "p26.011": {
+  "en": "4. The Secondary Supernaphim",
+  "official": [
+   "4: Os Supernafins Secundários"
+  ]
+ },
+ "p26.014": {
+  "en": "5. The Pilgrim Helpers",
+  "official": [
+   "5: Os Ajudantes dos Peregrinos"
+  ]
+ },
+ "p26.016": {
+  "en": "6. The Supremacy Guides",
+  "official": [
+   "6: Os Guias da Supremacia"
+  ]
+ },
+ "p26.018": {
+  "en": "7. The Trinity Guides",
+  "official": [
+   "7: Os Guias da Trindade"
+  ]
+ },
+ "p26.020": {
+  "en": "8. The Son Finders",
+  "official": [
+   "8: Os Descobridores do Filho"
+  ]
+ },
+ "p26.023": {
+  "en": "9. The Father Guides",
+  "official": [
+   "9: Os Guias do Pai"
+  ]
+ },
+ "p26.025": {
+  "en": "10. The Counselors and Advisers",
+  "official": [
+   "10: Os Assessores e os Conselheiros"
+  ]
+ },
+ "p26.028": {
+  "en": "11. The Complements of Rest",
+  "official": [
+   "11: Os Complementos do Repouso"
+  ]
+ },
+ "p27.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p27.004": {
+  "en": "1. Instigators of Rest",
+  "official": [
+   "1: Os Incentivadores do Repouso"
+  ]
+ },
+ "p27.007": {
+  "en": "2. Chiefs of Assignment",
+  "official": [
+   "2: Os Comandantes das Designações"
+  ]
+ },
+ "p27.009": {
+  "en": "3. Interpreters of Ethics",
+  "official": [
+   "3: Os Intérpretes da Ética"
+  ]
+ },
+ "p27.012": {
+  "en": "4. Directors of Conduct",
+  "official": [
+   "4: Os Diretores da Conduta"
+  ]
+ },
+ "p27.014": {
+  "en": "5. The Custodians of Knowledge",
+  "official": [
+   "5: Os Custódios do Conhecimento"
+  ]
+ },
+ "p27.017": {
+  "en": "6. Masters of Philosophy",
+  "official": [
+   "6: Os Mestres da Filosofia"
+  ]
+ },
+ "p27.020": {
+  "en": "7. Conductors of Worship",
+  "official": [
+   "7: Os Condutores da Adoração"
+  ]
+ },
+ "p28.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p28.003": {
+  "en": "1. The Tertiaphim",
+  "official": [
+   "1: Os Tertiafins"
+  ]
+ },
+ "p28.005": {
+  "en": "2. The Omniaphim",
+  "official": [
+   "2: Os Omniafins"
+  ]
+ },
+ "p28.007": {
+  "en": "3. The Seconaphim",
+  "official": [
+   "3: Os Seconafins"
+  ]
+ },
+ "p28.009": {
+  "en": "4. The Primary Seconaphim",
+  "official": [
+   "4: Os Seconafins Primários"
+  ]
+ },
+ "p28.012": {
+  "en": "5. The Secondary Seconaphim",
+  "official": [
+   "5: Os Seconafins Secundários"
+  ]
+ },
+ "p28.016": {
+  "en": "6. The Tertiary Seconaphim",
+  "official": [
+   "6: Os Seconafins Terciários"
+  ]
+ },
+ "p28.020": {
+  "en": "7. Ministry of the Seconaphim",
+  "official": [
+   "7: A Ministração dos Seconafins"
+  ]
+ },
+ "p29.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p29.004": {
+  "en": "1. The Seven Supreme Power Directors",
+  "official": [
+   "1: Os Sete Diretores Supremos de Potência"
+  ]
+ },
+ "p29.006": {
+  "en": "2. The Supreme Power Centers",
+  "official": [
+   "2: Os Centros Supremos de Potência"
+  ]
+ },
+ "p29.009": {
+  "en": "3. The Domain of Power Centers",
+  "official": [
+   "3: O Domínio dos Centros de Potência"
+  ]
+ },
+ "p29.012": {
+  "en": "4. The Master Physical Controllers",
+  "official": [
+   "4: Os Mestres Controladores Físicos"
+  ]
+ },
+ "p29.016": {
+  "en": "5. The Master Force Organizers",
+  "official": [
+   "5: Os Mestres Organizadores da Força"
+  ]
+ },
+ "p30.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p30.004": {
+  "en": "1. The Paradise Classification of Living Beings",
+  "official": [
+   "1: A Classificação do Paraíso para os Seres Vivos"
+  ]
+ },
+ "p30.007": {
+  "en": "2. The Uversa Personality Register",
+  "official": [
+   "2: O Registro das Personalidades, em Uversa"
+  ]
+ },
+ "p30.010": {
+  "en": "3. The Courtesy Colonies",
+  "official": [
+   "3: As Colônias de Cortesia"
+  ]
+ },
+ "p30.013": {
+  "en": "4. The Ascending Mortals",
+  "official": [
+   "4: Os Mortais Ascendentes"
+  ]
+ },
+ "p31.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p31.004": {
+  "en": "1. The Havona Natives",
+  "official": [
+   "1: Os Nativos de Havona"
+  ]
+ },
+ "p31.006": {
+  "en": "2. Gravity Messengers",
+  "official": [
+   "2: Os Mensageiros de Gravidade"
+  ]
+ },
+ "p31.008": {
+  "en": "3. Glorified Mortals",
+  "official": [
+   "3: Os Mortais Glorificados"
+  ]
+ },
+ "p31.011": {
+  "en": "4. Adopted Seraphim",
+  "official": [
+   "4: Os Serafins Adotados"
+  ]
+ },
+ "p31.013": {
+  "en": "5. Glorified Material Sons",
+  "official": [
+   "5: Os Filhos Materiais Glorificados"
+  ]
+ },
+ "p31.015": {
+  "en": "6. Glorified Midway Creatures",
+  "official": [
+   "6: As Criaturas Intermediárias Glorificadas"
+  ]
+ },
+ "p31.017": {
+  "en": "7. The Evangels of Light",
+  "official": [
+   "7: Os Evangelhos de Luz"
+  ]
+ },
+ "p31.019": {
+  "en": "8. The Transcendentalers",
+  "official": [
+   "8: Os Transcendentores"
+  ]
+ },
+ "p31.021": {
+  "en": "9. Architects of the Master Universe",
+  "official": [
+   "9: Os Arquitetos do Universo-Mestre"
+  ]
+ },
+ "p31.024": {
+  "en": "10. The Ultimate Adventure",
+  "official": [
+   "10: A Aventura do Último"
+  ]
+ },
+ "p32.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p32.003": {
+  "en": "1. Physical Emergence of Universes",
+  "official": [
+   "1: O Surgimento Físico dos Universos"
+  ]
+ },
+ "p32.006": {
+  "en": "2. Universe Organization",
+  "official": [
+   "2: A Organização do Universo"
+  ]
+ },
+ "p32.010": {
+  "en": "3. The Evolutionary Idea",
+  "official": [
+   "3: A Idéia Evolucionária"
+  ]
+ },
+ "p32.014": {
+  "en": "4. God’s Relation to a Local Universe",
+  "official": [
+   "4: A Relação de Deus com um Universo Local"
+  ]
+ },
+ "p32.018": {
+  "en": "5. The Eternal and Divine Purpose",
+  "official": [
+   "5: O Propósito Eterno e Divino"
+  ]
+ },
+ "p33.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p33.003": {
+  "en": "1. Michael of Nebadon",
+  "official": [
+   "1: Michael de Nébadon"
+  ]
+ },
+ "p33.006": {
+  "en": "2. The Sovereign of Nebadon",
+  "official": [
+   "2: O Soberano de Nébadon"
+  ]
+ },
+ "p33.009": {
+  "en": "3. The Universe Son and Spirit",
+  "official": [
+   "3: O Filho e o Espírito do Universo"
+  ]
+ },
+ "p33.012": {
+  "en": "4. Gabriel—The Chief Executive",
+  "official": [
+   "4: Gabriel — O Comandante Executivo"
+  ]
+ },
+ "p33.015": {
+  "en": "5. The Trinity Ambassadors",
+  "official": [
+   "5: Os Embaixadores da Trindade"
+  ]
+ },
+ "p33.018": {
+  "en": "6. General Administration",
+  "official": [
+   "6: A Administração Geral"
+  ]
+ },
+ "p33.021": {
+  "en": "7. The Courts of Nebadon",
+  "official": [
+   "7: Os Tribunais de Nébadon"
+  ]
+ },
+ "p33.024": {
+  "en": "8. The Legislative and Executive Functions",
+  "official": [
+   "8: As Funções do Legislativo e do Executivo"
+  ]
+ },
+ "p34.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p34.003": {
+  "en": "1. Personalization of the Creative Spirit",
+  "official": [
+   "1: A Personalização do Espírito Criativo"
+  ]
+ },
+ "p34.006": {
+  "en": "2. Nature of the Divine Minister",
+  "official": [
+   "2: A Natureza da Ministra Divina"
+  ]
+ },
+ "p34.009": {
+  "en": "3. The Son and Spirit in Time and Space",
+  "official": [
+   "3: O Filho e o Espírito no Tempo e no Espaço"
+  ]
+ },
+ "p34.012": {
+  "en": "4. The Local Universe Circuits",
+  "official": [
+   "4: Os Circuitos do Universo Local"
+  ]
+ },
+ "p34.015": {
+  "en": "5. The Ministry of the Spirit",
+  "official": [
+   "5: A Ministração do Espírito"
+  ]
+ },
+ "p34.018": {
+  "en": "6. The Spirit in Man",
+  "official": [
+   "6: O Espírito no Homem"
+  ]
+ },
+ "p34.022": {
+  "en": "7. The Spirit and the Flesh",
+  "official": [
+   "7: O Espírito e a Carne"
+  ]
+ },
+ "p35.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p35.003": {
+  "en": "1. The Father Melchizedek",
+  "official": [
+   "1: O Pai Melquisedeque"
+  ]
+ },
+ "p35.005": {
+  "en": "2. The Melchizedek Sons",
+  "official": [
+   "2: Os Filhos Melquisedeques"
+  ]
+ },
+ "p35.008": {
+  "en": "3. The Melchizedek Worlds",
+  "official": [
+   "3: Os Mundos Melquisedeques"
+  ]
+ },
+ "p35.011": {
+  "en": "4. Special Work of the Melchizedeks",
+  "official": [
+   "4: O Trabalho Especial dos Melquisedeques"
+  ]
+ },
+ "p35.014": {
+  "en": "5. The Vorondadek Sons",
+  "official": [
+   "5: Os Filhos Vorondadeques"
+  ]
+ },
+ "p35.017": {
+  "en": "6. The Constellation Fathers",
+  "official": [
+   "6: Os Pais da Constelação"
+  ]
+ },
+ "p35.019": {
+  "en": "7. The Vorondadek Worlds",
+  "official": [
+   "7: Os Mundos Vorondadeques"
+  ]
+ },
+ "p35.021": {
+  "en": "8. The Lanonandek Sons",
+  "official": [
+   "8: Os Filhos Lanonandeques"
+  ]
+ },
+ "p35.024": {
+  "en": "9. The Lanonandek Rulers",
+  "official": [
+   "9: Os Governantes Lanonandeques"
+  ]
+ },
+ "p35.027": {
+  "en": "10. The Lanonandek Worlds",
+  "official": [
+   "10: Os Mundos Lanonandeques"
+  ]
+ },
+ "p36.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p36.003": {
+  "en": "1. Origin and Nature of Life Carriers",
+  "official": [
+   "1: A Origem e Natureza dos Portadores da Vida"
+  ]
+ },
+ "p36.006": {
+  "en": "2. The Life Carrier Worlds",
+  "official": [
+   "2: Os Mundos dos Portadores da Vida"
+  ]
+ },
+ "p36.010": {
+  "en": "3. Life Transplantation",
+  "official": [
+   "3: O Transplante da Vida"
+  ]
+ },
+ "p36.013": {
+  "en": "4. Melchizedek Life Carriers",
+  "official": [
+   "4: Os Portadores Melquisedeques da Vida"
+  ]
+ },
+ "p36.016": {
+  "en": "5. The Seven Adjutant Mind-Spirits",
+  "official": [
+   "5: Os Sete Espíritos Ajudantes da Mente"
+  ]
+ },
+ "p36.020": {
+  "en": "6. Living Forces",
+  "official": [
+   "6: As Forças Vivas"
+  ]
+ }
+}

@@ -1,0 +1,566 @@
+{
+ "p102.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p102.004": {
+  "en": "1. Assurances of Faith",
+  "official": [
+   "1: Les assurances de la foi"
+  ]
+ },
+ "p102.007": {
+  "en": "2. Religion and Reality",
+  "official": [
+   "2: Religion et réalité"
+  ]
+ },
+ "p102.010": {
+  "en": "3. Knowledge, Wisdom, and Insight",
+  "official": [
+   "3: Connaissance, sagesse et clairvoyance"
+  ]
+ },
+ "p102.013": {
+  "en": "4. The Fact of Experience",
+  "official": [
+   "4: Le fait de l’expérience"
+  ]
+ },
+ "p102.016": {
+  "en": "5. The Supremacy of Purposive Potential",
+  "official": [
+   "5: La suprématie du potentiel d’intention"
+  ]
+ },
+ "p102.019": {
+  "en": "6. The Certainty of Religious Faith",
+  "official": [
+   "6: La certitude de la foi religieuse"
+  ]
+ },
+ "p102.022": {
+  "en": "7. The Certitude of the Divine",
+  "official": [
+   "7: La certitude du divin"
+  ]
+ },
+ "p102.025": {
+  "en": "8. The Evidences of Religion",
+  "official": [
+   "8: Les preuves de la religion"
+  ]
+ },
+ "p103.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p103.004": {
+  "en": "1. Philosophy of Religion",
+  "official": [
+   "1: Philosophie de la religion"
+  ]
+ },
+ "p103.007": {
+  "en": "2. Religion and the Individual",
+  "official": [
+   "2: La religion et l’individu"
+  ]
+ },
+ "p103.010": {
+  "en": "3. Religion and the Human Race",
+  "official": [
+   "3: La religion et la race humaine"
+  ]
+ },
+ "p103.013": {
+  "en": "4. Spiritual Communion",
+  "official": [
+   "4: La communion spirituelle"
+  ]
+ },
+ "p103.016": {
+  "en": "5. The Origin of Ideals",
+  "official": [
+   "5: L’origine des idéaux"
+  ]
+ },
+ "p103.020": {
+  "en": "6. Philosophic Co-ordination",
+  "official": [
+   "6: La coordination philosophique"
+  ]
+ },
+ "p103.023": {
+  "en": "7. Science and Religion",
+  "official": [
+   "7: Science et religion"
+  ]
+ },
+ "p103.026": {
+  "en": "8. Philosophy and Religion",
+  "official": [
+   "8: Philosophie et religion"
+  ]
+ },
+ "p103.029": {
+  "en": "9. The Essence of Religion",
+  "official": [
+   "9: L’essence de la religion"
+  ]
+ },
+ "p104.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p104.004": {
+  "en": "1. Urantian Trinity Concepts",
+  "official": [
+   "1: Concepts urantiens de Trinité"
+  ]
+ },
+ "p104.007": {
+  "en": "2. Trinity Unity and Deity Plurality",
+  "official": [
+   "2: Unité trinitaire et pluralité de Déité"
+  ]
+ },
+ "p104.010": {
+  "en": "3. Trinities and Triunities",
+  "official": [
+   "3: Trinités et triunités"
+  ]
+ },
+ "p104.013": {
+  "en": "4. The Seven Triunities",
+  "official": [
+   "4: Les sept triunités"
+  ]
+ },
+ "p104.016": {
+  "en": "5. Triodities",
+  "official": [
+   "5: Triodités"
+  ]
+ },
+ "p105.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p105.003": {
+  "en": "1. The Philosophic Concept of the I AM",
+  "official": [
+   "1: Le concept philosophique du JE SUIS"
+  ]
+ },
+ "p105.006": {
+  "en": "2. The I AM as Triune and as Sevenfold",
+  "official": [
+   "2: Le JE SUIS — trin et septuple"
+  ]
+ },
+ "p105.009": {
+  "en": "3. The Seven Absolutes of Infinity",
+  "official": [
+   "3: Les Sept Absolus de l’Infinité"
+  ]
+ },
+ "p105.012": {
+  "en": "4. Unity, Duality, and Triunity",
+  "official": [
+   "4: Unité, dualité et triunité"
+  ]
+ },
+ "p105.015": {
+  "en": "5. Promulgation of Finite Reality",
+  "official": [
+   "5: Promulgation de la réalité finie"
+  ]
+ },
+ "p105.018": {
+  "en": "6. Repercussions of Finite Reality",
+  "official": [
+   "6: Répercussions de la réalité finie"
+  ]
+ },
+ "p105.021": {
+  "en": "7. Eventuation of Transcendentals",
+  "official": [
+   "7: Extériorisation des transcendantaux"
+  ]
+ },
+ "p106.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p106.004": {
+  "en": "1. Primary Association of Finite Functionals",
+  "official": [
+   "1: Association primaire des fonctionnels du fini"
+  ]
+ },
+ "p106.007": {
+  "en": "2. Secondary Supreme Finite Integration",
+  "official": [
+   "2: Intégration suprême secondaire du fini"
+  ]
+ },
+ "p106.010": {
+  "en": "3. Transcendental Tertiary Reality Association",
+  "official": [
+   "3: Association tertiaire transcendantale de la réalité"
+  ]
+ },
+ "p106.013": {
+  "en": "4. Ultimate Quartan Integration",
+  "official": [
+   "4: Intégration quaternaire ultime"
+  ]
+ },
+ "p106.015": {
+  "en": "5. Coabsolute or Fifth-Phase Association",
+  "official": [
+   "5: Association coabsolue ou de cinquième phase"
+  ]
+ },
+ "p106.018": {
+  "en": "6. Absolute or Sixth-Phase Integration",
+  "official": [
+   "6: Intégration absolue ou de sixième phase"
+  ]
+ },
+ "p106.020": {
+  "en": "7. Finality of Destiny",
+  "official": [
+   "7: Finalité de la destinée"
+  ]
+ },
+ "p106.023": {
+  "en": "8. The Trinity of Trinities",
+  "official": [
+   "8: La Trinité des Trinités"
+  ]
+ },
+ "p106.026": {
+  "en": "9. Existential Infinite Unification",
+  "official": [
+   "9: Unification existentielle infinie"
+  ]
+ },
+ "p107.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p107.004": {
+  "en": "1. Origin of Thought Adjusters",
+  "official": [
+   "1: Origine des Ajusteurs de Pensée"
+  ]
+ },
+ "p107.007": {
+  "en": "2. Classification of Adjusters",
+  "official": [
+   "2: Classification des Ajusteurs"
+  ]
+ },
+ "p107.010": {
+  "en": "3. The Divinington Home of Adjusters",
+  "official": [
+   "3: Le foyer des Ajusteurs sur Divinington"
+  ]
+ },
+ "p107.013": {
+  "en": "4. Nature and Presence of Adjusters",
+  "official": [
+   "4: Nature et présence des Ajusteurs"
+  ]
+ },
+ "p107.016": {
+  "en": "5. Adjuster Mindedness",
+  "official": [
+   "5: Qualité mentale des Ajusteurs"
+  ]
+ },
+ "p107.018": {
+  "en": "6. Adjusters as Pure Spirits",
+  "official": [
+   "6: Les Ajusteurs en tant que purs esprits"
+  ]
+ },
+ "p107.021": {
+  "en": "7. Adjusters and Personality",
+  "official": [
+   "7: Les Ajusteurs et la personnalité"
+  ]
+ },
+ "p108.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p108.004": {
+  "en": "1. Selection and Assignment",
+  "official": [
+   "1: Sélection et affectation"
+  ]
+ },
+ "p108.007": {
+  "en": "2. Prerequisites of Adjuster Indwelling",
+  "official": [
+   "2: Conditions préalables au séjour de l’Ajusteur"
+  ]
+ },
+ "p108.010": {
+  "en": "3. Organization and Administration",
+  "official": [
+   "3: Organisation et administration"
+  ]
+ },
+ "p108.013": {
+  "en": "4. Relation to Other Spiritual Influences",
+  "official": [
+   "4: Position par rapport à d’autres influences spirituelles"
+  ]
+ },
+ "p108.016": {
+  "en": "5. The Adjuster’s Mission",
+  "official": [
+   "5: La mission de l’Ajusteur"
+  ]
+ },
+ "p108.020": {
+  "en": "6. God in Man",
+  "official": [
+   "6: Dieu en l’homme"
+  ]
+ },
+ "p109.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p109.003": {
+  "en": "1. Development of Adjusters",
+  "official": [
+   "1: Développement des Ajusteurs"
+  ]
+ },
+ "p109.006": {
+  "en": "2. Self-Acting Adjusters",
+  "official": [
+   "2: Les Ajusteurs autonomes"
+  ]
+ },
+ "p109.009": {
+  "en": "3. Relation of Adjusters to Mortal Types",
+  "official": [
+   "3: Position des Ajusteurs par rapport aux types de mortels"
+  ]
+ },
+ "p109.012": {
+  "en": "4. Adjusters and Human Personality",
+  "official": [
+   "4: Les Ajusteurs et la personnalité humaine"
+  ]
+ },
+ "p109.015": {
+  "en": "5. Material Handicaps to Adjuster Indwelling",
+  "official": [
+   "5: Handicaps matériels au séjour de l’Ajusteur"
+  ]
+ },
+ "p109.018": {
+  "en": "6. The Persistence of True Values",
+  "official": [
+   "6: La persistance des vraies valeurs"
+  ]
+ },
+ "p109.021": {
+  "en": "7. Destiny of Personalized Adjusters",
+  "official": [
+   "7: Destinée des Ajusteurs Personnalisés"
+  ]
+ },
+ "p110.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p110.003": {
+  "en": "1. Indwelling the Mortal Mind",
+  "official": [
+   "1: L’habitation du mental humain"
+  ]
+ },
+ "p110.006": {
+  "en": "2. Adjusters and Human Will",
+  "official": [
+   "2: Les Ajusteurs et la volonté humaine"
+  ]
+ },
+ "p110.009": {
+  "en": "3. Co-operation with the Adjuster",
+  "official": [
+   "3: Coopération avec l’Ajusteur"
+  ]
+ },
+ "p110.013": {
+  "en": "4. The Adjuster’s Work in the Mind",
+  "official": [
+   "4: Le travail de l’Ajusteur dans le mental"
+  ]
+ },
+ "p110.015": {
+  "en": "5. Erroneous Concepts of Adjuster Guidance",
+  "official": [
+   "5: Concepts erronés de la gouverne des Ajusteurs"
+  ]
+ },
+ "p110.018": {
+  "en": "6. The Seven Psychic Circles",
+  "official": [
+   "6: Les sept cercles psychiques"
+  ]
+ },
+ "p110.022": {
+  "en": "7. The Attainment of Immortality",
+  "official": [
+   "7: L’aboutissement à l’immortalité"
+  ]
+ },
+ "p111.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p111.004": {
+  "en": "1. The Mind Arena of Choice",
+  "official": [
+   "1: Le cadre mental du choix"
+  ]
+ },
+ "p111.007": {
+  "en": "2. Nature of the Soul",
+  "official": [
+   "2: Nature de l’âme"
+  ]
+ },
+ "p111.010": {
+  "en": "3. The Evolving Soul",
+  "official": [
+   "3: L’âme en évolution"
+  ]
+ },
+ "p111.013": {
+  "en": "4. The Inner Life",
+  "official": [
+   "4: La vie intérieure"
+  ]
+ },
+ "p111.017": {
+  "en": "5. The Consecration of Choice",
+  "official": [
+   "5: La consécration du choix"
+  ]
+ },
+ "p111.020": {
+  "en": "6. The Human Paradox",
+  "official": [
+   "6: Le paradoxe humain"
+  ]
+ },
+ "p111.023": {
+  "en": "7. The Adjuster’s Problem",
+  "official": [
+   "7: Le problème de l’Ajusteur"
+  ]
+ },
+ "p112.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p112.004": {
+  "en": "1. Personality and Reality",
+  "official": [
+   "1: Personnalité et réalité"
+  ]
+ },
+ "p112.007": {
+  "en": "2. The Self",
+  "official": [
+   "2: Le moi"
+  ]
+ },
+ "p112.011": {
+  "en": "3. The Phenomenon of Death",
+  "official": [
+   "3: Le phénomène de la mort"
+  ]
+ },
+ "p112.014": {
+  "en": "4. Adjusters after Death",
+  "official": [
+   "4: Les Ajusteurs après la mort"
+  ]
+ },
+ "p112.017": {
+  "en": "5. Survival of the Human Self",
+  "official": [
+   "5: La survie du moi humain"
+  ]
+ },
+ "p112.021": {
+  "en": "6. The Morontia Self",
+  "official": [
+   "6: Le moi morontiel"
+  ]
+ },
+ "p112.024": {
+  "en": "7. Adjuster Fusion",
+  "official": [
+   "7: Fusion avec l’Ajusteur"
+  ]
+ },
+ "p113.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p113.003": {
+  "en": "1. The Guardian Angels",
+  "official": [
+   "1: Les anges gardiens"
+  ]
+ },
+ "p113.007": {
+  "en": "2. The Destiny Guardians",
+  "official": [
+   "2: Les gardiens de la destinée"
+  ]
+ },
+ "p113.010": {
+  "en": "3. Relation to Other Spirit Influences",
+  "official": [
+   "3: Position par rapport à d’autres influences spirituelles"
+  ]
+ },
+ "p113.013": {
+  "en": "4. Seraphic Domains of Action",
+  "official": [
+   "4: Domaines d’action séraphiques"
+  ]
+ },
+ "p113.016": {
+  "en": "5. Seraphic Ministry to Mortals",
+  "official": [
+   "5: Le ministère séraphique auprès des mortels"
+  ]
+ },
+ "p113.019": {
+  "en": "6. Guardian Angels after Death",
+  "official": [
+   "6: Les anges gardiens après la mort"
+  ]
+ },
+ "p113.022": {
+  "en": "7. Seraphim and the Ascendant Career",
+  "official": [
+   "7: Les séraphins et la carrière ascendante"
+  ]
+ }
+}

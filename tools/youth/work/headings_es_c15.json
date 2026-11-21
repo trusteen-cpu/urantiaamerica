@@ -1,0 +1,464 @@
+{
+ "p160.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p160.003": {
+  "en": "1. Rodan’s Greek Philosophy",
+  "official": [
+   "1: La Filosofía Griega de Rodán"
+  ]
+ },
+ "p160.007": {
+  "en": "2. The Art of Living",
+  "official": [
+   "2: El Arte de Vivir"
+  ]
+ },
+ "p160.010": {
+  "en": "3. The Lures of Maturity",
+  "official": [
+   "3: Los Alicientes de la Madurez"
+  ]
+ },
+ "p160.013": {
+  "en": "4. The Balance of Maturity",
+  "official": [
+   "4: El Equilibrio de la Madurez"
+  ]
+ },
+ "p160.016": {
+  "en": "5. The Religion of the Ideal",
+  "official": [
+   "5: La Religión del Ideal"
+  ]
+ },
+ "p161.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p161.003": {
+  "en": "1. The Personality of God",
+  "official": [
+   "1: La Personalidad de Dios"
+  ]
+ },
+ "p161.007": {
+  "en": "2. The Divine Nature of Jesus",
+  "official": [
+   "2: La Naturaleza Divina de Jesús"
+  ]
+ },
+ "p161.012": {
+  "en": "3. Jesus’ Human and Divine Minds",
+  "official": [
+   "3: Las Mentes Humana y Divina de Jesús"
+  ]
+ },
+ "p162.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p162.003": {
+  "en": "1. The Dangers of the Visit to Jerusalem",
+  "official": [
+   "1: Los Peligros de la Visita a Jerusalén"
+  ]
+ },
+ "p162.006": {
+  "en": "2. The First Temple Talk",
+  "official": [
+   "2: El Primer Discurso en el Templo"
+  ]
+ },
+ "p162.009": {
+  "en": "3. The Woman Taken in Adultery",
+  "official": [
+   "3: La Mujer Adúltera"
+  ]
+ },
+ "p162.012": {
+  "en": "4. The Feast of Tabernacles",
+  "official": [
+   "4: La Fiesta de los Tabernáculos"
+  ]
+ },
+ "p162.014": {
+  "en": "5. Sermon on the Light of the World",
+  "official": [
+   "5: El Sermón Sobre la Luz del Mundo"
+  ]
+ },
+ "p162.016": {
+  "en": "6. Discourse on the Water of Life",
+  "official": [
+   "6: El Discurso Sobre el Agua de la Vida"
+  ]
+ },
+ "p162.018": {
+  "en": "7. The Discourse on Spiritual Freedom",
+  "official": [
+   "7: El Discurso Sobre la Libertad Espiritual"
+  ]
+ },
+ "p162.021": {
+  "en": "8. The Visit with Martha and Mary",
+  "official": [
+   "8: La Visita con Marta y María"
+  ]
+ },
+ "p162.023": {
+  "en": "9. At Bethlehem with Abner",
+  "official": [
+   "9: En Belén con Abner"
+  ]
+ },
+ "p163.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p163.003": {
+  "en": "1. Ordination of the Seventy",
+  "official": [
+   "1: Ordenación de los Setenta"
+  ]
+ },
+ "p163.006": {
+  "en": "2. The Rich Young Man and Others",
+  "official": [
+   "2: El Joven Rico y Otros"
+  ]
+ },
+ "p163.010": {
+  "en": "3. The Discussion about Wealth",
+  "official": [
+   "3: La Discusión Sobre la Riqueza"
+  ]
+ },
+ "p163.013": {
+  "en": "4. Farewell to the Seventy",
+  "official": [
+   "4: La Despedida de los Setenta"
+  ]
+ },
+ "p163.016": {
+  "en": "5. Moving the Camp to Pella",
+  "official": [
+   "5: El Traslado del Campamento a Pella"
+  ]
+ },
+ "p163.018": {
+  "en": "6. The Return of the Seventy",
+  "official": [
+   "6: El Retorno de los Setenta"
+  ]
+ },
+ "p163.021": {
+  "en": "7. Preparation for the Last Mission",
+  "official": [
+   "7: La Preparación para la Última Misión"
+  ]
+ },
+ "p164.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p164.003": {
+  "en": "1. Story of the Good Samaritan",
+  "official": [
+   "1: La Historia del Buen Samaritano"
+  ]
+ },
+ "p164.006": {
+  "en": "2. At Jerusalem",
+  "official": [
+   "2: En Jerusalén"
+  ]
+ },
+ "p164.008": {
+  "en": "3. Healing the Blind Beggar",
+  "official": [
+   "3: La Curación del Pordiosero Ciego"
+  ]
+ },
+ "p164.012": {
+  "en": "4. Josiah Before the Sanhedrin",
+  "official": [
+   "4: Josías Ante el Sanedrín"
+  ]
+ },
+ "p164.016": {
+  "en": "5. Teaching in Solomon’s Porch",
+  "official": [
+   "5: La Enseñanza en la Logia de Salomón"
+  ]
+ },
+ "p165.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p165.004": {
+  "en": "1. At the Pella Camp",
+  "official": [
+   "1: En el Campamento de Pella"
+  ]
+ },
+ "p165.006": {
+  "en": "2. Sermon on the Good Shepherd",
+  "official": [
+   "2: El Sermón del Buen Pastor"
+  ]
+ },
+ "p165.009": {
+  "en": "3. Sabbath Sermon at Pella",
+  "official": [
+   "3: El Sermón del Sábado en Pella"
+  ]
+ },
+ "p165.012": {
+  "en": "4. Dividing the Inheritance",
+  "official": [
+   "4: La División de la Herencia"
+  ]
+ },
+ "p165.015": {
+  "en": "5. Talks to the Apostles on Wealth",
+  "official": [
+   "5: Las Conversaciones con los Apóstoles Sobre la Riqueza"
+  ]
+ },
+ "p165.018": {
+  "en": "6. Answer to Peter’s Question",
+  "official": [
+   "6: La Respuesta a la Pregunta de Pedro"
+  ]
+ },
+ "p166.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p166.003": {
+  "en": "1. The Pharisees at Ragaba",
+  "official": [
+   "1: Los Fariseos en Ragaba"
+  ]
+ },
+ "p166.006": {
+  "en": "2. The Ten Lepers",
+  "official": [
+   "2: Los Diez Leprosos"
+  ]
+ },
+ "p166.009": {
+  "en": "3. The Sermon at Gerasa",
+  "official": [
+   "3: El Sermón en Gérasa"
+  ]
+ },
+ "p166.012": {
+  "en": "4. Teaching about Accidents",
+  "official": [
+   "4: La Enseñanza Sobre los Accidentes"
+  ]
+ },
+ "p166.015": {
+  "en": "5. The Congregation at Philadelphia",
+  "official": [
+   "5: La Congregación en Filadelfia"
+  ]
+ },
+ "p167.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p167.003": {
+  "en": "1. Breakfast with the Pharisees",
+  "official": [
+   "1: El Desayuno con los Fariseos"
+  ]
+ },
+ "p167.006": {
+  "en": "2. Parable of the Great Supper",
+  "official": [
+   "2: La Parábola de la Gran Cena"
+  ]
+ },
+ "p167.009": {
+  "en": "3. The Woman with the Spirit of Infirmity",
+  "official": [
+   "3: La Mujer de Debilidad de Espíritu"
+  ]
+ },
+ "p167.012": {
+  "en": "4. The Message from Bethany",
+  "official": [
+   "4: El Mensaje de Betania"
+  ]
+ },
+ "p167.015": {
+  "en": "5. On the Way to Bethany",
+  "official": [
+   "5: En el Camino a Betania"
+  ]
+ },
+ "p167.018": {
+  "en": "6. Blessing the Little Children",
+  "official": [
+   "6: La Bendición de los Niños"
+  ]
+ },
+ "p167.021": {
+  "en": "7. The Talk about Angels",
+  "official": [
+   "7: La Conversación Sobre los Ángeles"
+  ]
+ },
+ "p168.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p168.004": {
+  "en": "1. At the Tomb of Lazarus",
+  "official": [
+   "1: Junto a la Tumba de Lázaro"
+  ]
+ },
+ "p168.007": {
+  "en": "2. The Resurrection of Lazarus",
+  "official": [
+   "2: La Resurrección de Lázaro"
+  ]
+ },
+ "p168.010": {
+  "en": "3. Meeting of the Sanhedrin",
+  "official": [
+   "3: La Reunión del Sanedrín"
+  ]
+ },
+ "p168.012": {
+  "en": "4. The Answer to Prayer",
+  "official": [
+   "4: La Respuesta a la Oración"
+  ]
+ },
+ "p168.015": {
+  "en": "5. What Became of Lazarus",
+  "official": [
+   "5: Qué Pasó con Lázaro"
+  ]
+ },
+ "p169.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p169.003": {
+  "en": "1. Parable of the Lost Son",
+  "official": [
+   "1: La Parábola del Hijo Perdido"
+  ]
+ },
+ "p169.007": {
+  "en": "2. Parable of the Shrewd Steward",
+  "official": [
+   "2: La Parábola del Mayordomo Sagaz"
+  ]
+ },
+ "p169.010": {
+  "en": "3. The Rich Man and the Beggar",
+  "official": [
+   "3: El Rico y el Pordiosero"
+  ]
+ },
+ "p169.012": {
+  "en": "4. The Father and His Kingdom",
+  "official": [
+   "4: El Padre y Su Reino"
+  ]
+ },
+ "p170.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p170.003": {
+  "en": "1. Concepts of the Kingdom of Heaven",
+  "official": [
+   "1: Los Conceptos del Reino del Cielo"
+  ]
+ },
+ "p170.006": {
+  "en": "2. Jesus’ Concept of the Kingdom",
+  "official": [
+   "2: El Concepto de Jesús Sobre el Reino"
+  ]
+ },
+ "p170.010": {
+  "en": "3. In Relation to Righteousness",
+  "official": [
+   "3: En Relación con la Rectitud"
+  ]
+ },
+ "p170.013": {
+  "en": "4. Jesus’ Teaching about the Kingdom",
+  "official": [
+   "4: Las Enseñanzas de Jesús Sobre el Reino"
+  ]
+ },
+ "p170.016": {
+  "en": "5. Later Ideas of the Kingdom",
+  "official": [
+   "5: Las Ideas Posteriores Sobre el Reino"
+  ]
+ },
+ "p171.001": {
+  "en": "Introduction",
+  "official": []
+ },
+ "p171.004": {
+  "en": "1. The Departure from Pella",
+  "official": [
+   "1: La Partida de Pella"
+  ]
+ },
+ "p171.007": {
+  "en": "2. On Counting the Cost",
+  "official": [
+   "2: Sobre Cómo Calcular el Gasto"
+  ]
+ },
+ "p171.010": {
+  "en": "3. The Perean Tour",
+  "official": [
+   "3: La Gira en Perea"
+  ]
+ },
+ "p171.013": {
+  "en": "4. Teaching at Livias",
+  "official": [
+   "4: La Enseñanza en Livias"
+  ]
+ },
+ "p171.016": {
+  "en": "5. The Blind Man at Jericho",
+  "official": [
+   "5: El Ciego en Jericó"
+  ]
+ },
+ "p171.018": {
+  "en": "6. The Visit to Zaccheus",
+  "official": [
+   "6: La Visita a Zaqueo"
+  ]
+ },
+ "p171.021": {
+  "en": "7. ‘As Jesus Passed By’",
+  "official": [
+   "7: «Al Pasar Jesús»"
+  ]
+ },
+ "p171.024": {
+  "en": "8. Parable of the Pounds",
+  "official": [
+   "8: La Parábola de las Minas"
+  ]
+ }
+}
