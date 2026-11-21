@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Commentaire de A Study of the Master Universe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#24272f;--dim:#5f6470;--bg:#f7f5f0;--card:#fff;--line:#e3ddcf;--acc:#2f4a7a;--gold:#a8833e;--qfill:#fff6d6;--box:#eef2f8}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Georgia,'Times New Roman',serif;line-height:1.85;word-break:normal;overflow-wrap:break-word;hyphens:auto}
+a{color:inherit}
+header.top{background:radial-gradient(circle at 70% 20%,#3b4f86 0,#1a2448 45%,#0b1026 100%);color:#fff;text-align:center;padding:46px 16px 38px}
+header.top .eb{font-family:'Segoe UI',system-ui,sans-serif;font-size:12.5px;letter-spacing:.25em;opacity:.8}
+header.top h1{margin:8px 0 6px;font-size:clamp(24px,5vw,36px);line-height:1.35}
+header.top p{margin:0;opacity:.85;font-size:15px}
+header.top .by{margin-top:10px;font-family:'Segoe UI',system-ui,sans-serif;font-size:13px;opacity:.75}
+.wrap{max-width:820px;margin:0 auto;padding:28px 18px 60px}
+.front p,.front li{font-size:16px;text-align:justify}
+h2.toc{font-family:'Segoe UI',system-ui,sans-serif;font-size:15px;letter-spacing:.15em;color:var(--dim);border-bottom:2px solid var(--line);padding-bottom:8px;margin:36px 0 10px}
+.part{margin:22px 0 6px;font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;font-size:14px;color:var(--acc);border-left:5px solid var(--acc);padding-left:9px}
+.chs a{display:flex;gap:12px;padding:9px 12px;text-decoration:none;border-bottom:1px solid var(--line);background:var(--card)}
+.chs a:hover{background:#f1ede3}
+.chs b{font-family:'Segoe UI',system-ui,sans-serif;color:var(--acc);min-width:3.2em;text-align:right;font-size:14px}
+.chs small{display:block;color:var(--dim);font-size:12.5px}
+.colo{margin-top:40px;color:var(--dim);font-size:13px;border-top:1px solid var(--line);padding-top:14px}
+.eyebrow{font-family:'Segoe UI',system-ui,sans-serif;font-size:12.5px;font-weight:700;letter-spacing:.1em;color:var(--acc)}
+h1.ct{margin:6px 0 4px;font-size:clamp(24px,5vw,32px);line-height:1.4;border-bottom:3px solid var(--acc);padding-bottom:6px}
+.orig{color:var(--dim);font-size:14px;margin:4px 0 20px;font-style:italic}
+.summ{border-left:4px solid var(--acc);padding:4px 0 4px 14px;margin:0 0 24px;color:var(--dim)}
+.summ h4,.points h4,.box h4{margin:0 0 4px;font-family:'Segoe UI',system-ui,sans-serif;font-size:12.5px;letter-spacing:.1em;color:var(--acc)}
+.summ p{margin:0;font-size:15.5px}
+h2{font-family:'Segoe UI',system-ui,sans-serif;font-size:20px;margin:36px 0 10px;padding-bottom:5px;border-bottom:1.5px solid var(--acc)}
+h3{font-family:'Segoe UI',system-ui,sans-serif;font-size:16.5px;margin:24px 0 6px;color:var(--acc)}
+.body p{margin:0 0 12px;font-size:16.5px;text-align:justify}
+.body ul{margin:0 0 12px;padding-left:1.3em}.body li{font-size:16px;margin-bottom:4px}
+blockquote{background:var(--qfill);border-left:4px solid var(--gold);margin:8px 0 14px;padding:10px 14px 8px;font-size:15px;line-height:1.75}
+blockquote a{display:block;text-align:right;font-family:'Segoe UI',system-ui,sans-serif;font-size:12.5px;font-weight:700;color:var(--gold);text-decoration:none;margin-top:3px}
+blockquote a:hover{text-decoration:underline}
+figure{margin:18px 0;text-align:center}
+figure img{max-width:100%;height:auto;background:#fff;border:1px solid var(--line);border-radius:8px}
+figcaption{font-family:'Segoe UI',system-ui,sans-serif;font-size:13.5px;color:var(--dim);margin-top:6px}
+figcaption b,.tcap b{color:var(--acc)}
+.tw{overflow-x:auto;margin:6px 0 18px}
+.tcap{font-family:'Segoe UI',system-ui,sans-serif;font-size:13.5px;color:var(--dim);margin:16px 0 4px}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.6;background:var(--card)}
+th{background:var(--acc);color:#fff;font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;text-align:left;padding:7px 10px}
+td{border-top:1px solid var(--line);padding:7px 10px;vertical-align:top}
+tr:nth-child(even) td{background:#faf8f3}
+.box{background:var(--box);border-radius:10px;padding:14px 16px 6px;margin:18px 0}
+.box p{font-size:15.5px}
+.points{border:2px solid var(--acc);border-radius:10px;padding:14px 16px 6px;margin:30px 0 10px;background:var(--card)}
+.pager{display:flex;justify-content:space-between;gap:10px;margin-top:36px;font-family:'Segoe UI',system-ui,sans-serif;flex-wrap:wrap}
+.pager a{border:1px solid var(--line);background:var(--card);border-radius:10px;padding:9px 14px;text-decoration:none;font-size:14px;max-width:48%}
+.pager a:hover{border-color:var(--gold)}
+@media(max-width:600px){.body p,.front p{font-size:16px;text-align:left}blockquote{font-size:14.5px}}
+@media print{.pager,.ur-home-btn{display:none!important}body{background:#fff}}
+</style>
+<script src="/home-button.js" defer></script>
+</head>
+<body>
+<header class="top"><div class="eb">COSMOLOGIE DU LIVRE D’URANTIA</div><h1>Commentaire de A Study of the Master Universe</h1><p>Une lecture de l’étude de William S. Sadler, Jr. sur le maitre univers du Livre d’Urantia</p><div class="by">Jay Han</div></header>
+<div class="wrap">
+<h2 class="toc">Préface</h2><div class="front body"><p>Les lecteurs qui vivent depuis de nombreuses années avec le Livre d’Urantia arrivent souvent à un endroit où le chemin semble s’effacer. Les sept superunivers, les univers locaux et les nombreux ordres d’êtres qui y servent peuvent être suivis avec patience. Mais lorsque le texte se tourne vers le maitre univers, les niveaux de l’espace extérieur, l’Ultime et l’absonite, ou la Trinité des Trinités, les phrases restent lisibles tandis que l’image refuse de se former. Les fascicules 104 à 106 et plusieurs passages de l’Introduction en sont les exemples les plus nets.</p>
+<p>William S. Sadler, Jr. choisit de s’attarder précisément sur ces passages. Après une longue étude de la révélation et une longue réflexion sur elle, il tenta de rassembler ses horizons les plus lointains en un seul récit cohérent. Il en résulta <em>A Study of the Master Universe</em>. Il mourut en 1963 avant que l’ouvrage puisse paraitre. Celui-ci fut publié plus tard avec une révision légère, et ses annexes, d’abord parues en un volume séparé, furent finalement reliées avec l’étude principale.</p>
+<p>L’approche de Sadler est audacieuse. Il lit l’histoire du maitre univers comme un grand cycle de thèse, d’antithèse et de synthèse. Le Havona parfait est la thèse ; les superunivers imparfaits sont l’antithèse ; leur union en Dieu le Suprême est la première synthèse. Cette synthèse devient ensuite une nouvelle thèse, rencontre l’antithèse bien plus vaste de l’espace extérieur et parvient à une seconde synthèse dans l’extériorisation de Dieu l’Ultime. À la fin, elle se tient devant l’infinité elle-même — une antithèse à laquelle il ne pourra jamais être pleinement répondu. Grâce à ce cadre, des fragments épars de la révélation se mettent en place en un seul récit.</p>
+<p>Ce livre est un commentaire de cette étude. Ce n’est pas une traduction. L’auteur a suivi de près l’argumentation de Sadler, son déroulement, ses figures et son raisonnement, mais chaque phrase a été écrite à nouveau. Des explications de contexte, des illustrations et des résumés ont été ajoutés pour le lecteur, et les graphiques ont été conçus à neuf pour aider à saisir d’un coup d’œil les idées de Sadler. Les citations du Livre d’Urantia sont données dans ses propres termes.</p>
+<p>Il faut garder une chose à l’esprit tout au long de la lecture. Comme Sadler lui-même le reconnait à plusieurs reprises, une grande partie de son étude relève de l’inférence. Ce que le Livre d’Urantia affirme clairement, ce que l’on peut en inférer avec prudence et ce qui appartient à l’imagination audacieuse de Sadler n’ont pas le même poids. Ce commentaire s’efforce de marquer ces frontières chaque fois que c’est possible. Les révélateurs eux-mêmes font remarquer qu’en dire trop priverait les mortels futurs du stimulant de la spéculation créative. L’étude de Sadler est un exemple d’une telle spéculation, et l’espoir de ce livre est qu’elle puisse ouvrir la voie à celle du lecteur.</p>
+<p>Le livre comporte deux parties. La première partie suit l’étude principale de Sadler depuis le Prologue dans l’éternité, à travers l’Histoire finie, l’Histoire absonite et le Commencement de l’Histoire finale, jusqu’aux Conclusions et à l’Épilogue. La deuxième partie lit tour à tour les vingt-sept annexes. Comme les annexes contiennent les preuves et les calculs sur lesquels repose l’étude principale, le lecteur peut s’y reporter chaque fois qu’une question se pose. Le glossaire placé à la fin rassemble les termes les plus souvent employés.</p></div><h2 class="toc">Notes pour le lecteur</h2><div class="front body"><ul><li>Les citations du Livre d’Urantia sont reproduites mot pour mot d’après la traduction française officielle publiée par la Fondation Urantia ; les nombres entre parenthèses qui suivent chaque citation indiquent fascicule:section.paragraphe, par exemple (106:8.1). Un clic sur une référence ouvre le texte.</li><li>La ligne placée sous le titre de chaque chapitre indique la partie correspondante de l’étude de Sadler et ses numéros de page. Les intertitres de section peuvent porter la même information, par exemple (orig., p. 38).</li><li>Les termes forgés par Sadler (Âge Zéro, univers nucléaires et cytoplasmiques, Unité de temps d’Andronover, Cosmos Infini, et d’autres) n’apparaissent pas sous cette forme dans le Livre d’Urantia. Le Cosmos Infini de Sadler dérive de l’expression du livre lui-même, cosmos-infini (106:6.3; 106:7.4).</li><li>Le texte distingue ce que dit le Livre d’Urantia de ce qu’infère Sadler. Les encadrés intitulés « L’inférence de Sadler » ou « Sadler et le texte » signalent ses conjectures et les endroits où ses citations ou ses chiffres diffèrent du texte.</li><li>Toutes les figures et tous les tableaux ont été créés pour ce livre. Les numéros des figures commencent par le numéro du chapitre ; ceux des chapitres des annexes commencent par A (par exemple, Figure A3-2).</li><li>Les « Points clés » placés à la fin de chaque chapitre servent de révision.</li></ul></div><h2 class="toc">Table des matières</h2><div class="part">Première partie  Le texte principal</div><div class="chs">
+<a href="ch01.html"><b>1</b><span>Partir de l’Infini<small>Avant-propos · Prologue dans l’éternité · Premier prologue : Avant le commencement des commencements (p. 1–5)</small></span></a>
+<a href="ch02.html"><b>2</b><span>L’Âge Zéro<small>Prologue dans l’éternité · Deuxième prologue : l’Âge Zéro (p. 6–13)</small></span></a>
+<a href="ch03.html"><b>3</b><span>Le Premier Âge de l’univers<small>Prologue dans l’éternité · Troisième prologue : le Premier Âge de l’univers (p. 14–22)</small></span></a>
+<a href="ch04.html"><b>4</b><span>Le maitre univers comme scène<small>Guide de <em>A Study of the Master Universe</em> (p. 23) · Introduction (p. 25–29)</small></span></a>
+<a href="ch05.html"><b>5</b><span>La perfection comme thèse créative<small>L’Histoire finie, chapitre I, La thèse créative de la perfection (pp. 31–37)</small></span></a>
+<a href="ch06.html"><b>6</b><span>L’antithèse évolutionnaire : le défi de l’imperfection<small>L’Histoire finie, chapitre II, L’antithèse évolutionnaire (pp. 38–47)</small></span></a>
+<a href="ch07.html"><b>7</b><span>La première synthèse : Dieu le Suprême<small>L’Histoire finie, chapitre III, Première synthèse : Dieu le Suprême (pp. 48–55)</small></span></a>
+<a href="ch08.html"><b>8</b><span>Univers nucléaires et cytoplasmiques<small>L’Histoire absonite, chapitre IV, « Univers nucléaires et cytoplasmiques » (pp. 57–61)</small></span></a>
+<a href="ch09.html"><b>9</b><span>La transformation de la synthèse<small>L’Histoire absonite, chapitre V, « La transformation de la synthèse » (pp. 62–65)</small></span></a>
+<a href="ch10.html"><b>10</b><span>La deuxième thèse créative<small>L’Histoire absonite, chapitre VI, « La deuxième thèse créative » (pp. 66–74)</small></span></a>
+<a href="ch11.html"><b>11</b><span>La deuxième antithèse : le défi de l’espace extérieur<small>L’Histoire absonite, chapitre VII, La deuxième antithèse (pp. 75–83)</small></span></a>
+<a href="ch12.html"><b>12</b><span>Les grandeurs du maitre univers<small>L’Histoire absonite, chapitre VIII, Les grandeurs du maitre univers (pp. 84–87)</small></span></a>
+<a href="ch13.html"><b>13</b><span>La deuxième synthèse : Dieu l’Ultime<small>L’Histoire absonite, chapitre IX, Deuxième synthèse : Dieu l’Ultime (pp. 88–94)</small></span></a>
+<a href="ch14.html"><b>14</b><span>La thèse créatrice finale<small>L’Histoire finale, chapitre X, La thèse créatrice finale (pp. 95–100)</small></span></a>
+<a href="ch15.html"><b>15</b><span>Le commencement de l’antithèse finale<small>L’Histoire finale, chapitre XI, Commencement de l’antithèse finale (pp. 101–109)</small></span></a>
+<a href="ch16.html"><b>16</b><span>La synthèse impossible<small>L’Histoire finale, chapitre XII, La synthèse impossible (pp. 110–115)</small></span></a>
+<a href="ch17.html"><b>17</b><span>Conclusions : la finalité du maitre univers et les sept questions<small>Conclusions (p. 116–122)</small></span></a>
+<a href="ch18.html"><b>18</b><span>L’Épilogue dans l’éternité et la Postface<small>Épilogue dans l’éternité (premier à troisième) · Postface (p. 123–146)</small></span></a>
+</div>
+<div class="part">Deuxième partie  Les annexes</div><div class="chs">
+<a href="a01.html"><b>I</b><span>Les antécédents du maitre univers<small>Annexe I, Antécédents du maitre univers (p. 149–165)</small></span></a>
+<a href="a02.html"><b>II</b><span>Le Paradis et le maitre univers<small>Annexe II, Le Paradis et le maitre univers (p. 166–176)</small></span></a>
+<a href="a03.html"><b>III</b><span>Les niveaux d’espace du maitre univers<small>Annexe III, Niveaux d’espace du maitre univers (p. 177–189)</small></span></a>
+<a href="a04.html"><b>IV</b><span>Les âges de l’univers<small>Annexe IV, Les âges de l’univers (pp. 190–212)</small></span></a>
+<a href="a05.html"><b>V</b><span>La Déité Duelle à travers les âges de l’univers<small>Annexe V, La Déité Duelle dans les âges de l’univers (pp. 213–220)</small></span></a>
+<a href="a06.html"><b>VI</b><span>La Déité totale à travers les âges de l’univers<small>Annexe VI, La Déité totale dans les âges de l’univers (pp. 221–233)</small></span></a>
+<a href="a07.html"><b>VII</b><span>Comment croît la réalité expérientielle<small>Annexe VII, Mécanismes de la croissance expérientielle (pp. 234–248)</small></span></a>
+<a href="a08.html"><b>VIII</b><span>Les techniques de transformation<small>Annexe VIII, Techniques transformatrices (pp. 249–292)</small></span></a>
+<a href="a09.html"><b>IX</b><span>Une chronologie de l’univers local<small>Annexe IX, La chronologie des univers locaux (pp. 293–306)</small></span></a>
+<a href="a10.html"><b>X</b><span>La première Trinité expérientielle<small>Annexe X, La première Trinité expérientielle (pp. 307–322)</small></span></a>
+<a href="a11.html"><b>XI</b><span>Les âges post-suprêmes<small>Annexe XI, Les âges post-suprêmes (pp. 323–334)</small></span></a>
+<a href="a12.html"><b>XII</b><span>L’élargissement de Dieu le Septuple<small>Annexe XII, L’expansion de Dieu le Septuple (pp. 335–339)</small></span></a>
+<a href="a13.html"><b>XIII</b><span>La croissance des Fils et Esprits d’Univers<small>Annexe XIII, L’évolution des Fils et Esprits d’Univers (pp. 340–347)</small></span></a>
+<a href="a14.html"><b>XIV</b><span>L’influence croissante des Maitres Esprits<small>Annexe XIV, L’influence grandissante des Maitres Esprits (pp. 348–355)</small></span></a>
+<a href="a15.html"><b>XV</b><span>Les Maitres Architectes et les Transcendantaux<small>Annexe XV, Les Maitres Architectes et les Transcendantaux (pp. 356–380)</small></span></a>
+<a href="a16.html"><b>XVI</b><span>Les dimensions physiques (et la masse) du maitre univers<small>Annexe XVI, Grandeurs de l’espace physique (et de la masse) du maitre univers (p. 381–388)</small></span></a>
+<a href="a17.html"><b>XVII</b><span>Les dimensions temporelles du maitre univers<small>Annexe XVII, Grandeurs temporelles du maitre univers (p. 389–396)</small></span></a>
+<a href="a18.html"><b>XVIII</b><span>Dieu l’Ultime et sa nature<small>Annexe XVIII, La nature de Dieu l’Ultime (p. 397–414)</small></span></a>
+<a href="a19.html"><b>XIX</b><span>La deuxième Trinité expérientielle<small>Annexe XIX, La deuxième Trinité expérientielle (p. 415–427)</small></span></a>
+<a href="a20.html"><b>XX</b><span>L’âge post-ultime<small>Annexe XX, L’âge post-ultime (p. 428–436)</small></span></a>
+<a href="a21.html"><b>XXI</b><span>L’idée d’un Cosmos Infini<small>Annexe XXI, Le concept du Cosmos Infini (p. 437–444)</small></span></a>
+<a href="a22.html"><b>XXII</b><span>La synthèse personnalité-pouvoir<small>Annexe XXII, La synthèse personnalité-pouvoir (p. 445–474)</small></span></a>
+<a href="a23.html"><b>XXIII</b><span>La Trinité des Trinités<small>Annexe XXIII, La Trinité des Trinités (p. 475–484)</small></span></a>
+<a href="a24.html"><b>XXIV</b><span>La troisième Trinité expérientielle<small>Annexe XXIV, La troisième Trinité expérientielle (pp. 485–494)</small></span></a>
+<a href="a25.html"><b>XXV</b><span>Dieu l’Absolu dans sa nature trinitisée<small>Annexe XXV, La nature trinitisée de Dieu l’Absolu (pp. 495–500)</small></span></a>
+<a href="a26.html"><b>XXVI</b><span>Les fonctions du Suprême-Ultime<small>Annexe XXVI, Les fonctions du Suprême-Ultime (pp. 501–507)</small></span></a>
+<a href="a27.html"><b>XXVII</b><span>La croissance du Cosmos Infini<small>Annexe XXVII, La croissance du Cosmos Infini (pp. 508–519)</small></span></a>
+</div><div class="colo"><p>Commentaire de <em>A Study of the Master Universe</em> — Une lecture de l’étude de William S. Sadler, Jr. sur le maitre univers du Livre d’Urantia par Jay Han</p>
+<p>Ce livre n’est ni une traduction ni un abrégé de <em>A Study of the Master Universe — With Appendices</em>, de William S. Sadler, Jr. (Chicago : Urantia Foundation, 4e impression, 2022). C’est un commentaire indépendant écrit par l’auteur, qui suit l’ordre et l’argumentation de l’étude de Sadler et les explique dans ses propres mots. Le texte et les graphiques de Sadler ne sont pas reproduits ; de brèves expressions ne sont citées qu’à des fins d’identification et de discussion. Toutes les figures et tous les tableaux ont été conçus à neuf pour ce livre. <em>A Study of the Master Universe</em> est sous copyright © Urantia Foundation.</p>
+<p>Les citations du Livre d’Urantia sont reproduites mot pour mot d’après la traduction française officielle publiée par la Fondation Urantia, chacune suivie de sa référence par fascicule, section et paragraphe (par exemple, 106:8.1). Un clic sur une référence ouvre le texte.</p>
+<p>© 2026 Jay Han.</p></div>
+</div>
+</body>
+</html>
