@@ -38,3 +38,8 @@ The goal of a porting job is to **prepare a menu for translators**. You do not t
 ## Report (short)
 Chunks table (chunk · contents · English words · quotations · auto-aligned per language · todo per language), the commands, and
 anything the translators or the coordinator must know (images with text, special pages, things you could not port).
+
+## Coordinator queue
+`tools/QUEUE.txt`: one translation job per line ("<menu> <l> cNN"), launched in order as agent slots free up (max 20 at once).
+Remove a line when its agent is launched. Pending tooling: core, easy, commentary (agents running), jesus (not started; no zh port).
+Done chunks are visible as tools/<menu>/<l>/cNN.json.

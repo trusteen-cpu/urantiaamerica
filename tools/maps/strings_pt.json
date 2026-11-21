@@ -1,0 +1,171 @@
+{
+ "ui": {
+  "site_title": "Mapas de O Livro de Urântia",
+  "og_desc": "38 mapas que acompanham a vida de Jesus, do seu nascimento às aparições moronciais",
+  "sub": "Do nascimento de Jesus às aparições moronciais — 38 mapas que seguem os seus passos",
+  "search_ph": "Buscar títulos, lugares, anos",
+  "choose": "Escolha um mapa",
+  "prev": "Mapa anterior",
+  "next": "Próximo mapa",
+  "full": "Tamanho real",
+  "print": "Imprimir",
+  "map": "Mapa",
+  "sketch": "esboço de localização",
+  "note": "Os nomes de lugares, as datas e os percursos foram tirados do texto de O Livro de Urântia, com a sua própria grafia. Os percursos não descritos no texto aparecem pontilhados, e áreas pequenas, como o interior de Jerusalém, são mostradas como esboços de localização. A localização das cidades é aproximada; o relevo de base vem de Natural Earth (litorais e lagos modernos, domínio público).",
+  "note_labels": "Os nomes escritos nos mapas estão em inglês, com a grafia do texto inglês de O Livro de Urântia."
+ },
+ "maps": [
+  [
+   "O nascimento de Jesus e a fuga para o Egito",
+   "agosto de 7 a.C. – outubro de 4 a.C."
+  ],
+  [
+   "Nazaré e os seus arredores na infância",
+   "3 a.C. – 8 d.C."
+  ],
+  [
+   "Cidades da Galiléia visitadas com o seu pai",
+   "1 a.C. – 5 d.C."
+  ],
+  [
+   "A primeira viagem a Jerusalém",
+   "4–7 de abril de 7 d.C."
+  ],
+  [
+   "Jerusalém e o templo",
+   "abril de 7 d.C., a sua primeira Páscoa"
+  ],
+  [
+   "A antiga Nazaré e a casa de Jesus",
+   "4 a.C. – cerca de 28 d.C."
+  ],
+  [
+   "A Páscoa com Tiago",
+   "primavera de 12 d.C."
+  ],
+  [
+   "A terceira visita a Jerusalém na Páscoa",
+   "primavera de 14 d.C."
+  ],
+  [
+   "A quarta visita na Páscoa — com o seu irmão José",
+   "primavera de 15 d.C."
+  ],
+  [
+   "A quinta visita na Páscoa — com o seu irmão Simão",
+   "primavera de 17 d.C."
+  ],
+  [
+   "A sexta visita na Páscoa — com o seu irmão Judá",
+   "primavera de 19 d.C."
+  ],
+  [
+   "A oficina de barcos de Zebedeu e Jerusalém",
+   "janeiro de 21 d.C. – abril de 22 d.C."
+  ],
+  [
+   "A viagem a Roma, à Grécia e à Mesopotâmia",
+   "abril de 22 d.C. – dezembro de 23 d.C."
+  ],
+  [
+   "O lago da Úrmia e a viagem da caravana ao mar Cáspio",
+   "abril de 24 d.C. – abril de 25 d.C."
+  ],
+  [
+   "A Síria e o litoral do Mediterrâneo",
+   "abril – verão de 25 d.C."
+  ],
+  [
+   "Através da Palestina até o monte Hermom",
+   "verão de 25 d.C."
+  ],
+  [
+   "Do monte Hermom a Jerusalém e de volta à Galiléia",
+   "fim do verão de 25 d.C. – janeiro de 26 d.C."
+  ],
+  [
+   "O batismo perto de Pela e os quarenta dias nas colinas da Peréia",
+   "13 de janeiro – 23 de fevereiro de 26 d.C."
+  ],
+  [
+   "De Pela, passando por Nazaré, a Caná e Betsaida",
+   "24 de fevereiro – 2 de março de 26 d.C."
+  ],
+  [
+   "O chamado e a ordenação dos apóstolos — Betsaida e o mar da Galiléia",
+   "fevereiro de 26 d.C. – janeiro de 27 d.C."
+  ],
+  [
+   "Pelo vale do Jordão até a Judéia",
+   "janeiro – abril de 27 d.C."
+  ],
+  [
+   "O primeiro trabalho com os apóstolos — Judéia, Samaria e Decápolis",
+   "abril de 27 d.C. – janeiro de 28 d.C."
+  ],
+  [
+   "A primeira viagem de pregação pública pela Galiléia",
+   "janeiro – março de 28 d.C."
+  ],
+  [
+   "A viagem da Páscoa a Jerusalém",
+   "março – maio de 28 d.C."
+  ],
+  [
+   "O acampamento junto à casa de Zebedeu e a segunda viagem de pregação pela Galiléia",
+   "maio – dezembro de 28 d.C."
+  ],
+  [
+   "A terceira viagem de pregação e a visita a Nazaré",
+   "janeiro – março de 29 d.C."
+  ],
+  [
+   "Subida a Jerusalém e depois para o norte",
+   "março – junho de 29 d.C."
+  ],
+  [
+   "De Sidom ao longo do litoral, e ao parque de Magadam",
+   "junho – agosto de 29 d.C."
+  ],
+  [
+   "A transfiguração no monte Hermom e a viagem pela Decápolis",
+   "agosto – setembro de 29 d.C."
+  ],
+  [
+   "A sede transferida para Pela e as visitas a Jerusalém",
+   "setembro – dezembro de 29 d.C."
+  ],
+  [
+   "A viagem pela Peréia e a ida a Betânia para ressuscitar Lázaro",
+   "janeiro – março de 30 d.C."
+  ],
+  [
+   "Do acampamento de Pela a Jerusalém",
+   "março – 2 de abril de 30 d.C."
+  ],
+  [
+   "De Betânia ao templo e ao acampamento do Getsêmani",
+   "3–5 de abril de 30 d.C."
+  ],
+  [
+   "O acampamento do Getsêmani e a sala de cima",
+   "quinta-feira, 6 de abril de 30 d.C."
+  ],
+  [
+   "Da prisão no Getsêmani ao julgamento diante de Pilatos",
+   "noite de 6 de abril – manhã de 7 de abril de 30 d.C."
+  ],
+  [
+   "Do pretório ao Gólgota",
+   "sexta-feira, 7 de abril de 30 d.C."
+  ],
+  [
+   "O dia da ressurreição: aparições em Jerusalém e em Betânia",
+   "domingo, 9 de abril de 30 d.C."
+  ],
+  [
+   "As aparições moronciais, da décima à décima nona",
+   "11 de abril – 18 de maio de 30 d.C."
+  ]
+ ]
+}

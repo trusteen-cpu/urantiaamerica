@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cartes du Livre d’Urantia</title>
+<meta property="og:title" content="Cartes du Livre d’Urantia">
+<meta property="og:description" content="38 cartes qui suivent la vie de Jésus, de sa naissance aux apparitions morontielles">
+<style>
+  :root{--bg:#f4efe6;--card:#fffdf8;--ink:#2a2622;--sub:#8a7f72;--brand:#1d2547;--gold:#c8902e;--line:#e6dccb}
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+  header{background:var(--brand);color:#fff;padding:12px 18px 10px 160px;position:sticky;top:0;z-index:10;box-shadow:0 2px 6px rgba(0,0,0,.15)}
+  header h1{margin:0;font-size:19px;font-weight:800;letter-spacing:-.2px}
+  header .sub{font-size:12.5px;opacity:.8;margin-top:2px}
+  .wrap{display:flex;gap:16px;max-width:1400px;margin:0 auto;padding:14px 14px 30px;align-items:flex-start}
+  nav{flex:0 0 300px;position:sticky;top:76px;max-height:calc(100vh - 90px);display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+  nav input{margin:10px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;font-size:14px;background:#fff}
+  nav ol{list-style:none;margin:0;padding:0 6px 8px;overflow-y:auto}
+  nav li a{display:flex;gap:8px;padding:6px 8px;border-radius:7px;color:var(--ink);text-decoration:none;font-size:14px;line-height:1.35}
+  nav li a b{flex:0 0 26px;color:var(--gold);font-weight:800;font-size:13px;text-align:right}
+  nav li a span small{display:block;color:var(--sub);font-size:12px;margin-top:1px}
+  nav li a:hover{background:#f3ead9}
+  nav li a.on{background:var(--brand);color:#fff}
+  nav li a.on b,nav li a.on span small{color:#f3d79a}
+  main{flex:1;min-width:0}
+  .bar{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+  .bar h2{flex:1;margin:0;font-size:20px;font-weight:800}
+  .bar h2 small{color:var(--gold);margin-right:8px}
+  .bar button,.bar a{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:6px 12px;font-size:14px;cursor:pointer;text-decoration:none}
+  .bar button:disabled{opacity:.4;cursor:default}
+  .meta{color:var(--sub);font-size:13.5px;margin:0 0 10px}
+  .img{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;min-height:300px}
+  .img img{display:block;width:100%;height:auto}
+  .note{color:var(--sub);font-size:12.5px;line-height:1.6;margin-top:10px}
+  nav select{display:none;margin:0 10px 10px;padding:8px;font-size:15px;border:1px solid var(--line);border-radius:8px;background:#fff}
+  @media(max-width:820px){
+    header{padding:50px 14px 10px}
+    .wrap{display:block;padding:10px}
+    nav{position:static;max-height:none;margin-bottom:10px}
+    nav ol{display:none}
+    nav select{display:block}
+    .bar h2{font-size:17px}
+  }
+  @media print{
+    @page{size:A4;margin:6mm}
+    body{background:#fff}
+    header,nav,.bar,.note,.ur-home-btn{display:none!important}
+    .wrap{display:block;padding:0;max-width:none}
+    .img{border:none;border-radius:0;min-height:0}
+    .img img{width:auto;max-width:100%;max-height:270mm;margin:0 auto}
+  }
+</style>
+</head>
+<body>
+<header><h1>Cartes du Livre d’Urantia</h1><div class="sub">De la naissance de Jésus aux apparitions morontielles — 38 cartes qui suivent ses pas</div></header>
+<div class="wrap">
+  <nav>
+    <input id="q" type="search" placeholder="Chercher un titre, un lieu, une année">
+    <select id="sel" aria-label="Choisir une carte"></select>
+    <ol id="list"></ol>
+  </nav>
+  <main>
+    <div class="bar">
+      <h2 id="ttl"></h2>
+      <button id="prev" aria-label="Carte précédente">◀</button>
+      <button id="next" aria-label="Carte suivante">▶</button>
+      <a id="full" target="_blank" rel="noopener">Taille réelle</a>
+      <button id="prt">🖨 Imprimer</button>
+    </div>
+    <p class="meta" id="meta"></p>
+    <div class="img" id="view"></div>
+    <p class="note">Les noms de lieux, les dates et les itinéraires sont tirés du texte du Livre d’Urantia, avec ses propres graphies. Les itinéraires que le texte ne décrit pas sont en pointillé, et les petites zones, comme l’intérieur de Jérusalem, sont représentées par des croquis de situation. L’emplacement des villes est approximatif ; le relief de fond provient de Natural Earth (côtes et lacs actuels, domaine public). Les légendes des cartes sont en anglais, avec les graphies du texte anglais du Livre d’Urantia.</p>
+  </main>
+</div>
+<script src="list.js"></script>
+<script>
+(function(){
+  var L = window.MAPS || [], cur = 0;
+  function src(n){ return 'img/m' + ('0' + n).slice(-2) + '.webp'; }
+  function at(n){ for (var i = 0; i < L.length; i++) if (L[i][0] === n) return i; return 0; }
+  var list = document.getElementById('list'), sel = document.getElementById('sel');
+  list.innerHTML = L.map(function(x){
+    return '<li><a href="#m' + x[0] + '" data-n="' + x[0] + '"><b>' + x[0] + '</b><span>' + x[1] + '<small>' + x[2] + '</small></span></a></li>';
+  }).join('');
+  sel.innerHTML = L.map(function(x){ return '<option value="' + x[0] + '">Carte ' + x[0] + ' · ' + x[1] + '</option>'; }).join('');
+  function show(i){
+    var x = L[i]; if (!x) return; cur = i;
+    document.getElementById('ttl').innerHTML = '<small>Carte ' + x[0] + '</small>' + x[1];
+    document.getElementById('meta').textContent = x[2] + (x[3] ? '  ·  ' + x[3] : '');
+    document.getElementById('view').innerHTML = '<a href="' + src(x[0]) + '" target="_blank" rel="noopener"><img src="' + src(x[0]) + '" alt="Carte ' + x[0] + ' ' + x[1] + '"></a>';
+    document.getElementById('full').href = src(x[0]);
+    var as = list.querySelectorAll('a');
+    for (var k = 0; k < as.length; k++) as[k].className = (+as[k].getAttribute('data-n') === x[0] ? 'on' : '');
+    sel.value = x[0];
+    document.getElementById('prev').disabled = i === 0;
+    document.getElementById('next').disabled = i === L.length - 1;
+    var on = list.querySelector('a.on'); if (on && on.scrollIntoView && window.innerWidth > 820) on.scrollIntoView({block:'nearest'});
+    document.title = 'Carte ' + x[0] + ' : ' + x[1] + ' · Cartes du Livre d’Urantia';
+  }
+  function fromHash(){ var m = /^#m(\d+)$/.exec(location.hash); show(m ? at(+m[1]) : 0); }
+  function go(i){ location.hash = '#m' + L[i][0]; window.scrollTo(0, 0); }
+  sel.onchange = function(){ go(at(+sel.value)); };
+  document.getElementById('prt').onclick = function(){ window.print(); };
+  document.getElementById('prev').onclick = function(){ if (cur > 0) go(cur - 1); };
+  document.getElementById('next').onclick = function(){ if (cur < L.length - 1) go(cur + 1); };
+  document.getElementById('q').oninput = function(){
+    var k = this.value.replace(/\s+/g, '').toLowerCase();
+    var li = list.querySelectorAll('li');
+    for (var i = 0; i < li.length; i++) {
+      var x = L[i], t = ('carte' + x[0] + x[1] + x[2] + x[3]).replace(/\s+/g, '').toLowerCase();
+      li[i].style.display = !k || t.indexOf(k) >= 0 ? '' : 'none';
+    }
+  };
+  window.addEventListener('hashchange', fromHash);
+  fromHash();
+})();
+</script>
+<script src="/home-button.js" data-pos="left" defer></script>
+</body>
+</html>

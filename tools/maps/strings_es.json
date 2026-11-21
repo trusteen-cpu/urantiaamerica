@@ -1,0 +1,171 @@
+{
+ "ui": {
+  "site_title": "Mapas de El libro de Urantia",
+  "og_desc": "38 mapas que siguen la vida de Jesús, desde su nacimiento hasta las apariciones morontiales",
+  "sub": "Desde el nacimiento de Jesús hasta las apariciones morontiales — 38 mapas que siguen sus pasos",
+  "search_ph": "Buscar títulos, lugares, años",
+  "choose": "Elegir un mapa",
+  "prev": "Mapa anterior",
+  "next": "Mapa siguiente",
+  "full": "Tamaño completo",
+  "print": "Imprimir",
+  "map": "Mapa",
+  "sketch": "croquis de ubicación",
+  "note": "Los nombres de lugares, las fechas y las rutas se tomaron del texto de El libro de Urantia, con su propia ortografía. Las rutas que el texto no describe aparecen punteadas, y las zonas pequeñas, como el interior de Jerusalén, se muestran como croquis de ubicación. La ubicación de las poblaciones es aproximada; el relieve de base procede de Natural Earth (costas y lagos actuales, de dominio público).",
+  "note_labels": "Los rótulos de los mapas están en inglés, con la ortografía del texto inglés de El libro de Urantia (The Urantia Book)."
+ },
+ "maps": [
+  [
+   "El nacimiento de Jesús y la huida a Egipto",
+   "Agosto del año 7 a. de J.C. – octubre del año 4 a. de J.C."
+  ],
+  [
+   "Nazaret y sus alrededores durante la infancia",
+   "3 a. de J.C. – 8 d. de J.C."
+  ],
+  [
+   "Poblaciones de Galilea visitadas con su padre",
+   "1 a. de J.C. – 5 d. de J.C."
+  ],
+  [
+   "El primer viaje a Jerusalén",
+   "4–7 de abril del año 7 d. de J.C."
+  ],
+  [
+   "Jerusalén y el templo",
+   "Abril del año 7 d. de J.C., su primera Pascua"
+  ],
+  [
+   "La antigua Nazaret y el hogar de Jesús",
+   "4 a. de J.C. – hacia el año 28 d. de J.C."
+  ],
+  [
+   "La Pascua con Santiago",
+   "Primavera del año 12 d. de J.C."
+  ],
+  [
+   "La tercera visita a Jerusalén para la Pascua",
+   "Primavera del año 14 d. de J.C."
+  ],
+  [
+   "La cuarta visita a Jerusalén para la Pascua — con su hermano José",
+   "Primavera del año 15 d. de J.C."
+  ],
+  [
+   "La quinta visita a Jerusalén para la Pascua — con su hermano Simón",
+   "Primavera del año 17 d. de J.C."
+  ],
+  [
+   "La sexta visita a Jerusalén para la Pascua — con su hermano Judá",
+   "Primavera del año 19 d. de J.C."
+  ],
+  [
+   "El taller de barcas de Zebedeo y Jerusalén",
+   "Enero del año 21 d. de J.C. – abril del año 22 d. de J.C."
+  ],
+  [
+   "El viaje a Roma, Grecia y Mesopotamia",
+   "Abril del año 22 d. de J.C. – diciembre del año 23 d. de J.C."
+  ],
+  [
+   "El Lago Urmia y el viaje con la caravana al Mar Caspio",
+   "Abril del año 24 d. de J.C. – abril del año 25 d. de J.C."
+  ],
+  [
+   "Siria y la costa del Mediterráneo",
+   "Abril – verano del año 25 d. de J.C."
+  ],
+  [
+   "A través de Palestina hasta el Monte Hermón",
+   "Verano del año 25 d. de J.C."
+  ],
+  [
+   "Del Monte Hermón a Jerusalén, y de regreso a Galilea",
+   "Finales del verano del año 25 d. de J.C. – enero del año 26 d. de J.C."
+  ],
+  [
+   "El bautismo cerca de Pella y los cuarenta días en las colinas de Perea",
+   "13 de enero – 23 de febrero del año 26 d. de J.C."
+  ],
+  [
+   "De Pella, pasando por Nazaret, a Caná y Betsaida",
+   "24 de febrero – 2 de marzo del año 26 d. de J.C."
+  ],
+  [
+   "La elección y la ordenación de los apóstoles — Betsaida y el mar de Galilea",
+   "Febrero del año 26 d. de J.C. – enero del año 27 d. de J.C."
+  ],
+  [
+   "Por el valle del Jordán hasta Judea",
+   "Enero – abril del año 27 d. de J.C."
+  ],
+  [
+   "La primera labor con los apóstoles — Judea, Samaria y la Decápolis",
+   "Abril del año 27 d. de J.C. – enero del año 28 d. de J.C."
+  ],
+  [
+   "La primera gira de predicación pública por Galilea",
+   "Enero – marzo del año 28 d. de J.C."
+  ],
+  [
+   "El viaje de la Pascua a Jerusalén",
+   "Marzo – mayo del año 28 d. de J.C."
+  ],
+  [
+   "El campamento de Zebedeo y la segunda gira de predicación por Galilea",
+   "Mayo – diciembre del año 28 d. de J.C."
+  ],
+  [
+   "La tercera gira de predicación y la visita a Nazaret",
+   "Enero – marzo del año 29 d. de J.C."
+  ],
+  [
+   "La subida a Jerusalén, y luego hacia el norte",
+   "Marzo – junio del año 29 d. de J.C."
+  ],
+  [
+   "De Sidón a lo largo de la costa, y al parque de Magadán",
+   "Junio – agosto del año 29 d. de J.C."
+  ],
+  [
+   "La transfiguración en el Monte Hermón y la gira por la Decápolis",
+   "Agosto – septiembre del año 29 d. de J.C."
+  ],
+  [
+   "El cuartel general se traslada a Pella, y las visitas a Jerusalén",
+   "Septiembre – diciembre del año 29 d. de J.C."
+  ],
+  [
+   "La gira por Perea, y a Betania para resucitar a Lázaro",
+   "Enero – marzo del año 30 d. de J.C."
+  ],
+  [
+   "Del campamento de Pella a Jerusalén",
+   "Marzo – 2 de abril del año 30 d. de J.C."
+  ],
+  [
+   "De Betania al templo y al campamento de Getsemaní",
+   "3–5 de abril del año 30 d. de J.C."
+  ],
+  [
+   "El campamento de Getsemaní y el aposento superior",
+   "Jueves 6 de abril del año 30 d. de J.C."
+  ],
+  [
+   "Del arresto en Getsemaní al juicio ante Pilato",
+   "Noche del 6 de abril – mañana del 7 de abril del año 30 d. de J.C."
+  ],
+  [
+   "Del pretorio al Gólgota",
+   "Viernes 7 de abril del año 30 d. de J.C."
+  ],
+  [
+   "El domingo de la resurrección: apariciones en Jerusalén y Betania",
+   "Domingo 9 de abril del año 30 d. de J.C."
+  ],
+  [
+   "Las apariciones morontiales, de la décima a la decimonovena",
+   "11 de abril – 18 de mayo del año 30 d. de J.C."
+  ]
+ ]
+}
