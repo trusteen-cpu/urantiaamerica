@@ -1,0 +1,20 @@
+import json, os
+BASE = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+Q = {
+ "110.b37.q": "Da vontade humana dependerá a nossa realização, em uma só personalidade.",
+ "111.b18.q": "aquilo que começais no tempo, com certeza, ireis terminar na eternidade — se valer a pena terminar.",
+ "112.b39.q": "se realmente desejardes e se o quiserdes realmente, certamente a herança das idades será vossa",
+ "114.b5.q": "o Pai, Ele próprio, vos ama",
+ "114.b38.q": "vós, mortais, ora residindo em Urântia, estais sendo tão ternamente amados e tão fielmente cuidados, que é como se a esfera nunca houvesse sido traída por um Príncipe Planetário, e mesmo até mais.",
+ "115.b18.q": "cada decisão humana não apenas factualiza uma nova realidade, na experiência humana, como também abre uma nova capacidade de crescimento humano.",
+ "116.b23.q": "O universo local é o ponto de partida para aquelas personalidades que estão mais distantes de Deus e que podem, por isso, experimentar o maior grau de ascensão espiritual no universo",
+ "117.b23.q": "na medida em que lutamos pela expressão pessoal, o Supremo está lutando em nós, e conosco, pela expressão da deidade.",
+ "117.b47.q": "nenhum mortal conhecedor de Deus pode, jamais, estar a sós na sua jornada pelo cosmo, pois ele sabe que o Pai caminha a seu lado, em cada passo da estrada, enquanto o caminho mesmo em que está andando é a presença do Supremo.",
+ "118.b5.q": "Deus deve sempre primeiro encontrar o homem, para que, mais tarde, o homem possa encontrar Deus.",
+ "118.b32.q": "se aquilo que um filho deseja é da vontade do Pai, então certamente acontecerá.",
+ "118.b49.q": "O Reino de Deus está nos corações dos homens",
+}
+todo = json.load(open(os.path.join(BASE, "work", "todo_pt_c15.json"), encoding="utf-8"))
+assert set(todo) == set(Q), set(todo) ^ set(Q)
+json.dump({k: Q[k] for k in todo}, open(os.path.join(BASE, "pt", "quotes_c15.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print("ok", len(Q))

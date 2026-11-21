@@ -1,0 +1,77 @@
+D = {
+"19.title": "Os Seres Coordenados Originários da Trindade",
+"19.b0.ask": "“Como a sabedoria, o conselho e o julgamento da Trindade se tornam pessoas vivas que servem o universo?”",
+"19.b1.h": "Visão geral",
+"19.b2.p": "No documento 18 vimos as sete ordens de Personalidades Supremas da Trindade, que governam desde o Paraíso até as constelações. Agora o documento 19 volta-se para outros seres que também vêm da Trindade: os Seres Coordenados Originários da Trindade. O autor deste documento, um Conselheiro Divino, é ele próprio um deles.",
+"19.b3.p": "Esse grupo inclui os Filhos Instrutores da Trindade, três grupos de altos administradores dos superuniversos, os misteriosos Espíritos Inspirados da Trindade, e os nativos de Havona e os Cidadãos do Paraíso. Com exceção dos Filhos Instrutores e, possivelmente, dos Espíritos Inspirados, o seu número é fixo; a sua criação é um acontecimento concluído e passado.",
+"19.b4.p": "O que são esses seres, e como a sabedoria, o conselho e o julgamento da Trindade se tornam pessoas vivas que chegam até nós, as criaturas do tempo em evolução?",
+"19.b6.h": "O documento",
+"19.b7.h": "1. Os Filhos Instrutores da Trindade",
+"19.b8.t": [
+ ["Seres coordenados originários da Trindade", "Número"],
+ ["1. Filhos Instrutores da Trindade", "Em constante aumento (hoje mais de 21 bilhões)"],
+ ["2. Perfeccionadores da Sabedoria", "7 bilhões"],
+ ["3. Conselheiros Divinos", "21 bilhões"],
+ ["4. Censores Universais", "8 bilhões"],
+ ["5. Espíritos Inspirados da Trindade", "Desconhecido; provavelmente não fixo"],
+ ["6. Nativos de Havona", "Além do nosso conceito"],
+ ["7. Cidadãos do Paraíso", "Mais de três mil ordens"]
+],
+"19.b9.p": "Os Filhos Instrutores da Trindade atuam com uma dupla capacidade: são de origem na Trindade, mas, na função, dedicam-se quase inteiramente aos serviços da filiação divina. São os seres de ligação que transpõem o abismo entre as personalidades de origem na Trindade e as de origem dual, e são as personalidades coordenadoras supremas de origem na Trindade.",
+"19.b10.p": "Aqui o autor faz uma pausa para explicar por que esta revelação começa não pelo homem, mas pelo Paraíso. Um método que vai somente do inferior para o superior pode mostrar-nos de onde o homem veio, mas revela pouco ou nada sobre o seu destino divino. Uma verdadeira perspectiva só surge do estudo conjunto da origem, da história e do destino.",
+"19.b11.t": [
+ ["Erros de raciocinar somente de baixo para cima", "O que dá errado"],
+ ["1. Perder de vista a meta", "Pode deixar totalmente de perceber a meta evolucionária final"],
+ ["2. Simplificar demais", "Distorce os fatos e interpreta mal os destinos"],
+ ["3. Confundir a história com o presente", "O modo como um ser veio a ser não mostra o seu verdadeiro caráter atual"],
+ ["4. Cegueira para o destino", "A história sozinha não revela o futuro"]
+],
+"19.b13.h": "2. Os Perfeccionadores da Sabedoria",
+"19.b14.p": "Os Perfeccionadores da Sabedoria personificam a sabedoria da divindade nos superuniversos. Há exatamente sete bilhões deles, um bilhão em cada superuniverso. Eles não refletem a sabedoria da Trindade do Paraíso; eles são essa sabedoria.",
+"19.b15.p": "A sabedoria tem duas fontes: o discernimento divino dos seres perfeitos e a experiência pessoal adquirida pelas criaturas evolucionárias. Nenhuma das duas, sozinha, esgota os potenciais de toda a sabedoria possível. É por isso que os Perfeccionadores da Sabedoria trabalham sempre junto com administradores que ascenderam das fileiras dos mortais ascendentes.",
+"19.b16.t": [
+ ["Fonte da sabedoria", "Quem a representa"],
+ ["A perfeição do discernimento divino", "Os Perfeccionadores da Sabedoria"],
+ ["A experiência pessoal das criaturas evolucionárias", "Mensageiros Poderosos, Aqueles Sem Nome Nem Número, Aqueles Elevados em Autoridade"]
+],
+"19.b17.h": "3. Os Conselheiros Divinos",
+"19.b18.p": "Os Conselheiros Divinos são o conselho da própria Deidade para os sete superuniversos. Servem vinte e um bilhões deles, três bilhões em cada superuniverso. Um Perfeccionador da Sabedoria, sete Conselheiros Divinos e um Censor Universal formam juntos um tribunal de divindade da Trindade, o mais alto corpo consultivo móvel do tempo e do espaço. Em todos os anais dos superuniversos, um veredicto como esse jamais foi revogado pelos Anciães dos Dias.",
+"19.b19.p": "Quando esse conselho divino se une ao conselho experiencial de seres perfeccionados de ascensão evolucionária, as conclusões combinadas não são apenas completas, mas plenas. Somente os Filhos auto-outorgados do Paraíso, que são ao mesmo tempo Deus e homem, chegam mais perto de unir as atitudes da criatura e do Criador.",
+"19.b20.h": "4. Os Censores Universais",
+"19.b21.p": "Há exatamente oito bilhões de Censores Universais, e eles são o próprio julgamento da Trindade. Nem mesmo os Anciães dos Dias julgam sem eles. Quando todo o testemunho, a sabedoria e o conselho já foram reunidos, o Censor dá o total verdadeiro e infalível de tudo isso — e, quando ele fala, não há apelação.",
+"19.b22.t": [
+ ["O trio jurídico", "O que representa da Trindade", "Tempo verbal"],
+ ["Perfeccionador da Sabedoria", "A sabedoria", "“Eu fui”"],
+ ["Conselheiro Divino", "O conselho", "“⟦Q 19:4.4|19:5.1|43:4.6⟧Eu serei⟦/Q⟧”"],
+ ["Censor Universal", "O julgamento", "“Eu sou”"]
+],
+"19.b23.p": "O autor admite que os Censores parecem formular novos significados e valores a partir dos fatos que lhes são apresentados, e que os seus veredictos não podem ser previstos; parece que eles estão, de algum modo, em ligação com o Absoluto da Deidade. Os Perfeccionadores da Sabedoria, os Conselheiros Divinos e os Censores Universais, junto com as sete ordens de Personalidades Supremas da Trindade, compõem os dez grupos de Filhos Estacionários da Trindade, que somam um pouco mais de trinta e sete bilhões.",
+"19.b24.h": "5. Os Espíritos Inspirados da Trindade",
+"19.b25.p": "Os Espíritos Inspirados da Trindade são uma das poucas ordens de seres totalmente secretas. Podem ser espíritos superpessoais, e mesmo os seres de origem na Trindade só conseguem reconhecê-los sob certas condições. Somente os Mensageiros Solitários percebem a sua presença, tão infalivelmente quanto uma agulha magnética aponta para um pólo. Enquanto o autor escrevia, um desses Espíritos estava com ele, a não mais de oito metros de distância.",
+"19.b26.p": "Num planeta em cujos habitantes residem Ajustadores do Pensamento, um Mensageiro Solitário sente uma agitação qualitativa semelhante, o que sugere que os Ajustadores e os Espíritos Inspirados estão de algum modo relacionados. Os Filhos Instrutores dedicam-se à iluminação consciente; os Espíritos Inspirados talvez sejam instrutores que trabalham por técnicas superconscientes. Pois há verdades espirituais que a autoconsciência nos impediria de receber.",
+"19.b28.h": "6. Os Nativos de Havona",
+"19.b29.p": "Os nativos de Havona são criação direta da Trindade do Paraíso, e somente quando chegarmos a Havona poderemos saudá-los como camaradas espirituais. Os mortais ascendentes e os havonianos fazem um grande bem uns aos outros. Pela amizade com eles, compensamos a pobreza espiritual das nossas primeiras etapas, e, pelo contato conosco, eles superam a desvantagem experiencial de terem vivido sempre uma vida de perfeição divina.",
+"19.b30.p": "Diferentemente dos Filhos Estacionários, os nativos de Havona podem evoluir em status, e alguns deles entram no corpo de finalitores. Como nenhum outro está sendo criado, o seu número diminui lentamente, e pensa-se que a Havona do futuro poderá ser povoada por um grupo misto de residentes.",
+"19.b31.t": [
+ ["Possíveis futuros residentes de Havona", "Descrição"],
+ ["Os univitátias", "Hoje os cidadãos permanentes das constelações do universo local"],
+ ["Futuros tipos de mortais", "Nascidos no florescimento das idades de luz e vida"],
+ ["Uma aristocracia espiritual", "Seres vindos dos universos exteriores"]
+],
+"19.b33.h": "7. Os Cidadãos do Paraíso",
+"19.b34.p": "Mais de três mil ordens de Cidadãos do Paraíso habitam o Paraíso. Por não estarem diretamente envolvidos com o plano de ascensão, não nos são plenamente revelados; junto com os nativos de Havona, são chamados de personalidades Paraíso-Havona. De todos os seres que a Trindade trouxe à existência, nenhum jamais se desviou, e, no entanto, no sentido mais elevado, todos são dotados de livre-arbítrio. Eles viajam livremente, sem a ajuda de serafins; o autor conta que a sua viagem de Uversa a Urântia levou 109 dias.",
+"19.b35.h": "Conclusão",
+"19.b36.p": "O documento 19 mostra como o caráter da Trindade se torna pessoas vivas. O Perfeccionador da Sabedoria é a própria sabedoria, o Conselheiro Divino é o próprio conselho, e o Censor Universal é o próprio julgamento. Mesmo esses seres perfeitos, porém, não trabalham sozinhos; eles sempre julgam junto com mortais ascendentes que adquiriram a sua sabedoria pela experiência. Também os nativos de Havona superam os limites da sua experiência pela amizade conosco. Num universo em que a perfeição e a experiência se completam mutuamente, o autor nos convida a ver o homem a partir do Paraíso. Uma verdadeira perspectiva se abre quando olhamos não apenas para a nossa origem, mas para o nosso destino, e ao longo do caminho por muito tempo usaremos a fé e dependeremos da revelação.",
+"19.b37.t": [
+ ["Seção", "Mensagem principal"],
+ ["Os Filhos Instrutores da Trindade", "Uma verdadeira perspectiva vem de ver o destino, além da origem"],
+ ["Os Perfeccionadores da Sabedoria", "A sabedoria do discernimento divino e a sabedoria da experiência trabalham juntas"],
+ ["Os Conselheiros Divinos", "O veredicto do tribunal de nove é como se os Anciães dos Dias tivessem falado"],
+ ["Os Censores Universais", "O Censor dá o total verdadeiro de todo o testemunho, e não há apelação"],
+ ["Os Espíritos Inspirados da Trindade", "Espíritos invisíveis talvez estejam nos ensinando de modo superconsciente"],
+ ["Os Nativos de Havona", "Ascendentes e havonianos enriquecem-se mutuamente pela amizade"],
+ ["Os Cidadãos do Paraíso", "Nenhum dos seres que a Trindade trouxe à existência jamais se desviou"]
+],
+"19.b38.h": "Pontos-chave do documento 19",
+"19.b39.box": "A sabedoria, o conselho e o julgamento da Trindade tornaram-se pessoas vivas que servem o universo junto com ascendentes perfeccionados pela experiência.",
+}

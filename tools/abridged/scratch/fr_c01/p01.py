@@ -63,4 +63,6 @@ D = {
 "1.b62.h": "Points clés du fascicule 1",
 "1.b63.p": "Ce que le fascicule 1 nous donne, ce n’est pas de l’information sur Dieu. Il nous donne un lieu d’où l’invoquer.",
 "1.b64.p": "Il n’est ni une force, ni une loi, ni une idée. Il est quelqu’un qui peut connaitre et être connu, aimer et être aimé, et qui peut être notre ami.",
-"1.b65.p": "Dieu est venu à nous non par un nom, mais par sa nature → il a placé en nous un fragment de lui-même → en suivant sa conduite, notre mental se soumet à l’es
+"1.b65.p": "Dieu est venu à nous non par un nom, mais par sa nature → il a placé en nous un fragment de lui-même → en suivant sa conduite, notre mental se soumet à l’esprit → et nous nous tenons enfin en sa présence.",
+}
+add(D)

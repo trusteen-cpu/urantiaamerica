@@ -1,0 +1,108 @@
+D = {
+"20.title": "Os Filhos de Deus, do Paraíso",
+"20.b0.ask": "“Por que os Filhos do Paraíso descem aos mundos evolucionários na própria forma de mortais como nós?”",
+"20.b1.h": "Visão geral",
+"20.b2.p": "No documento 19 conhecemos os seres que vêm da Trindade do Paraíso, incluindo os Filhos Estacionários que governam os superuniversos. Agora o documento 20 volta-se para o próprio nome “Filho”. Do modo como funcionam em Orvônton, os Filhos de Deus dividem-se em três grupos gerais.",
+"20.b3.p": "Os Filhos Descendentes são personalidades de criação direta e divina. Os filhos ascendentes, como os mortais, alcançam esse status participando da evolução por meio da experiência. Os Filhos Trinitarizados são um grupo de origem composta, abraçado pela Trindade. Este documento examina de perto os Filhos que descem do Paraíso, especialmente os Filhos Magisteriais e os Filhos Instrutores da Trindade.",
+"20.b4.p": "O que fazem, então, esses altos Filhos, e por que escolhem nascer de mulher, viver e morrer como nós?",
+"20.b6.h": "O documento",
+"20.b7.h": "1. Os Filhos Descendentes de Deus",
+"20.b8.t": [
+ ["Grupo", "Como alcançam o seu status"],
+ ["Filhos Descendentes", "Personalidades de criação direta e divina"],
+ ["Filhos ascendentes", "Pela participação experiencial na evolução"],
+ ["Filhos Trinitarizados", "Um grupo de origem composta, abraçado pela Trindade"]
+],
+"20.b9.p": "Todos os Filhos descendentes têm origens elevadas e divinas e dedicam-se a ajudar as criaturas humildes de origem evolucionária na sua subida ao Paraíso. Sete ordens deles são descritas: as três primeiras são Filhos do Paraíso, e as outras quatro são Filhos de Deus do Universo Local.",
+"20.b10.t": [
+ ["Ordem", "Nome e origem"],
+ ["1. Filhos Criadores", "Os Michaéis — o Pai Universal e o Filho Eterno"],
+ ["2. Filhos Magisteriais", "Os Avonais — o Filho Eterno e o Espírito Infinito"],
+ ["3. Filhos Instrutores da Trindade", "Os Dainais — o Pai, o Filho e o Espírito"],
+ ["4. Filhos Melquisedeques", "Um Filho Criador, o Espírito Criativo e o Pai Melquisedeque"],
+ ["5. Filhos Vorondadeques", "Um Filho Criador e o Espírito Criativo — os Altíssimos, Pais das Constelações"],
+ ["6. Filhos Lanonandeques", "Um Filho Criador e o Espírito Criativo — Soberanos de Sistemas e Príncipes Planetários"],
+ ["7. Os Portadores da Vida", "Um Filho Criador, o Espírito Criativo e um dos Anciães dos Dias"]
+],
+"20.b11.p": "Os Filhos do Paraíso têm-se mostrado como criadores, servidores, outorgadores, juízes, instrutores e reveladores da verdade. Num universo local, os Filhos Magisteriais e os Filhos Instrutores servem sob a direção do Filho Criador daquele domínio. O Filho Criador possui um poder de atração espiritual que duplica, dentro do seu universo local, o poder de atração do Filho Eterno, e ele tem consciência pessoal de cada ato e emoção de cada Filho descendente que serve no seu domínio. A ordem dos Michaéis fica para o próximo documento; este trata dos Filhos Magisteriais e dos Filhos Instrutores.",
+"20.b12.h": "2. Os Filhos Magisteriais",
+"20.b13.p": "Cada vez que um conceito original de ser, formado pelo Filho Eterno, se une a um novo ideal de serviço amoroso, concebido pelo Espírito Infinito, surge um novo Filho Magisterial, um Avonal. Eles não são criadores no sentido pessoal, mas estão intimamente associados aos Michaéis em todo o seu trabalho; são ministros e juízes planetários. Há cerca de um bilhão deles no grande universo. São dirigidos pelo seu conselho supremo no Paraíso, mas, uma vez designados para um universo local, servem sob o seu Filho Criador.",
+"20.b14.t": [
+ ["Função tríplice", "O que envolve"],
+ ["1. Ações judiciais", "Encerrar dispensações e libertar os sobreviventes adormecidos — dezenas, até centenas de vezes"],
+ ["2. Missões magisteriais", "Aparecer como adulto antes do Filho auto-outorgado — possivelmente muitas vezes"],
+ ["3. Missões de auto-outorga", "Nascer de mulher — somente uma vez em cada planeta"]
+],
+"20.b15.p": "Geralmente, depois que um Avonal passou sete vezes pela experiência magisterial e de auto-outorga, ele cede o lugar a outros com menos serviço desse tipo e passa a integrar o alto conselho pessoal de um Filho Criador. Nos mundos habitados, os Avonais são ajudados pelos Melquisedeques e pelos arcanjos e, nas missões de auto-outorga, são acompanhados pelos Brilhantes Estrelas Vespertinas. Como o pleno poder e a autoridade do Filho Criador estão por trás deles, o seu trabalho é tão eficaz quanto teria sido o serviço do próprio Filho Criador.",
+"20.b16.h": "3. As Ações Judiciais",
+"20.b17.p": "Os Avonais são os juízes das dispensações sucessivas dos mundos do tempo. Eles presidem o despertar dos sobreviventes adormecidos, encerram uma dispensação de justiça suspensa e designam as criaturas do espaço para as tarefas da nova idade. Podem proferir julgamentos que extinguem a identidade de criaturas pessoais, mas tais sentenças só são executadas pelas autoridades de um superuniverso.",
+"20.b18.t": [
+ ["Tipo de visita", "Em que forma"],
+ ["Uma visita técnica de julgamento", "Não encarnado; vem como um ser espiritual invisível"],
+ ["Uma missão magisterial", "Às vezes encarnado — aparecendo como adulto"],
+ ["Uma missão de auto-outorga", "Sempre encarnado — nascido de mulher"]
+],
+"20.b19.p": "Em qualquer missão encarnada, o Filho julga a idade planetária que passa. Quando um Filho do Paraíso visita um mundo evolucionário e se torna semelhante a um dos seus habitantes, a sua própria presença encerra uma dispensação e constitui um julgamento do reino.",
+"20.b20.h": "4. As Missões Magisteriais",
+"20.b21.p": "Numa primeira visita magisterial, o Avonal é sempre encarnado como um homem adulto das raças mortais, plenamente visível ao povo do seu tempo e em contato físico com ele. Durante todo o tempo, a sua ligação com as forças espirituais permanece ininterrupta. Um Filho do Paraíso encarnado é residido por um Ajustador experiente. Esses Ajustadores nunca podem obter personalidade pela fusão, mas muitas vezes são personalizados por decreto do Pai e formam o conselho supremo de direção de Divínington.",
+"20.b22.p": "Urântia nunca recebeu um Filho Avonal em uma missão magisterial. Segundo o plano usual, um deles teria vindo entre os dias de Adão e a auto-outorga de Michael, mas a auto-outorga terminal do nosso Filho Criador desfez totalmente essa ordem. E, como Michael prometeu voltar, somente o tempo poderá revelar a ordem futura das visitas dos Filhos do Paraíso.",
+"20.b23.h": "5. A Auto-outorga dos Filhos de Deus do Paraíso",
+"20.b24.p": "O Filho Eterno é a eterna Palavra de Deus. Quando uma extensão divina desse Filho começa uma encarnação mortal, torna-se literalmente verdade que o divino “⟦Q 20:5.1⟧Verbo se fez carne⟦/Q⟧”. Mas o propósito de uma auto-outorga não é mudar a atitude do Pai Universal. A auto-outorga é uma parte necessária da experiência que torna esses Filhos magistrados e governantes seguros e compassivos para os povos do tempo e do espaço.",
+"20.b26.p": "Uma auto-outorga tem também um resultado muito prático. Somente depois que o Filho auto-outorgado volta à sede do universo e o Espírito da Verdade é derramado é que os Ajustadores do Pensamento vêm a todos os seres humanos normais. Urântia atrai tanta atenção porque este pequeno planeta foi o cenário da auto-outorga final de Michael. No entanto, nenhum planeta poderia jamais estar numa condição tal que exigisse a auto-outorga de um Filho Criador; os Filhos Magisteriais são igualmente eficazes do ponto de vista divino, e não existe registro de que um Filho de qualquer dessas ordens tenha fracassado numa missão de auto-outorga.",
+"20.b27.h": "6. As Carreiras de Auto-outorga Mortal",
+"20.b28.p": "Como um Filho do Paraíso chega a nascer de uma mãe é um mistério universal, e somos aconselhados a não perder tempo com conjecturas fúteis sobre a técnica. Um Filho auto-outorgado nasce sempre de mulher, cresce da infância à juventude e à idade adulta, trabalha em ocupações comuns e faz petições ao Pai. Há apenas uma exceção: ele não gera descendência.",
+"20.b29.t": [
+ ["Comparação", "Filho Criador (Michael)", "Filho Magisterial (Avonal)"],
+ ["A sua declaração", "“⟦Q 20:6.5⟧Quem tiver visto o Filho, terá visto o Pai⟦/Q⟧”", "“⟦Q 20:6.5⟧Quem tiver visto a mim, terá visto o Filho Eterno de Deus⟦/Q⟧”"],
+ ["A vontade de quem", "A vontade do Pai", "A vontade do Filho Eterno"],
+ ["Depois da morte", "Ressurge ao terceiro dia", "Ressurge ao terceiro dia"]
+],
+"20.b30.p": "Um Filho auto-outorgado deve passar pela morte, mas essa morte não precisa ser violenta. Urântia tornou-se conhecida como o “⟦Q 20:6.6|57:8.6|119:8.8⟧mundo da cruz⟦/Q⟧” por causa da experiência extraordinariamente cruel de Jesus. Os Filhos não morrem para satisfazer à “ira divina”, mas entregam livremente a sua vida “⟦Q 20:6.7|139:3.8|171:0.5⟧para beber do cálice⟦/Q⟧” da vida da criatura. Quando a auto-outorga está terminada, o Avonal e o Filho Criador enviam juntos o Espírito da Verdade; e, depois da auto-outorga final de Michael, esse espírito torna-se, de modo mais literal, o espírito do Michael soberano.",
+"20.b31.h": "7. Os Filhos Instrutores da Trindade",
+"20.b32.p": "Os Dainais são Filhos altamente pessoais e altamente espirituais, trazidos à existência pela Trindade do Paraíso. O seu número continua a crescer; um pouco mais de vinte e um bilhões servem no universo central e nos superuniversos. Não são criadores nem resgatadores, nem juízes nem governantes. Ocupam-se não tanto da administração quanto da iluminação moral e do desenvolvimento espiritual; são os educadores universais.",
+"20.b33.t": [
+ ["Onde servem", "De quem mais refletem a natureza"],
+ ["Havona", "O Pai Universal"],
+ ["Os superuniversos", "O Filho Eterno"],
+ ["As criações locais", "O Espírito Infinito"]
+],
+"20.b34.p": "Eles não recebem nenhum aperfeiçoamento preliminar no universo central, mas são enviados diretamente às sedes dos superuniversos. E, como não possuem um poder de atração espiritual próprio, trabalham por meio da influência espiritual combinada de um Filho Criador e dos Filhos Magisteriais.",
+"20.b35.h": "8. A Ministração dos Dainais Ao Universo Local",
+"20.b36.p": "Os Dainais são as únicas criaturas da Trindade tão completamente associadas à condução dos universos de origem dual. Começam nos sistemas locais e avançam, pelas constelações, até o trabalho mais elevado da criação local. Só o corpo docente da Universidade de Sálvington conta com mais de cem mil deles, e os Filhos Instrutores cuidam da instrução dos serafins e de outros nativos da criação local tanto quanto da dos mortais.",
+"20.b37.p": "Os Filhos Instrutores formam os corpos docentes que aplicam todos os exames e provas para todas as fases inferiores do serviço do universo. São os excelsos instrutores de todas as personalidades espirituais — até mesmo os instrutores dos próprios Filhos de Deus.",
+"20.b38.h": "9. O Serviço Planetário dos Dainais",
+"20.b39.p": "Quando um mundo evolucionário está maduro para uma idade espiritual, os Filhos Instrutores oferecem-se como voluntários. Urântia nunca viveu tal idade, mas os Filhos Instrutores já agora visitam o nosso mundo para fazer planos. Eles aparecerão depois que tivermos alcançado uma libertação relativa dos grilhões da animalidade e das algemas do materialismo.",
+"20.b40.t": [
+ ["Comparação", "Filho Magisterial", "Filho Instrutor"],
+ ["Encerramento de uma dispensação", "Preside-o", "Nada tem a ver com ele"],
+ ["Julgamento dos mortos", "Realiza-o", "Não o realiza"],
+ ["Principal preocupação", "O julgamento e a abertura de uma nova idade", "A abertura de uma idade espiritual"],
+ ["Forma visível", "Pode encarnar", "Não se materializa visivelmente"]
+],
+"20.b41.p": "Um Filho Instrutor geralmente permanece mil anos, presidindo o milênio planetário com setenta associados, e mantém contato com os mortais por meio dos Brilhantes Estrelas Vespertinas. Depois da sua missão final, o planeta é estabelecido em luz e vida. Em Uversa, acredita-se que esses Filhos serão um dia transferidos para uma associação eterna com o Corpo de Finalidade.",
+"20.b42.h": "10. A Ministração Unificada dos Filhos do Paraíso",
+"20.b43.p": "Todos os Filhos do Paraíso são divinos em origem e natureza, e o trabalho de cada um para cada mundo é exatamente como se ele fosse o primeiro e único Filho de Deus. As três ordens de Filhos trabalham juntas para revelar as três Deidades às criaturas do espaço.",
+"20.b44.t": [
+ ["Ordem de Filhos", "O que revelam da Deidade"],
+ ["Filhos Criadores (Michaéis)", "O caráter infinito do Pai Universal — o amor"],
+ ["Filhos Magisteriais (Avonais)", "A compaixão do Filho Eterno — a misericórdia"],
+ ["Filhos Instrutores (Dainais)", "A personalidade instrutora do Espírito Infinito — a ministração"]
+],
+"20.b46.h": "Conclusão",
+"20.b47.p": "O documento 20 mostra que os Filhos de Deus não são funcionários distantes no céu. Os Avonais julgam os mundos, idade após idade; às vezes nascem de mulher e vivem e morrem como nós, e, pela sua auto-outorga, abrem o caminho para que o Espírito da Verdade e os Ajustadores do Pensamento venham a todos. A auto-outorga não se destina a mudar o coração do Pai; é o caminho pelo qual os Filhos se tornam governantes que nos compreendem pela experiência. Depois deles vêm os Dainais, que abrem uma idade espiritual de mil anos e conduzem o planeta rumo à luz e vida. Michaéis, Avonais e Dainais trabalham como um só, revelando-nos as três Deidades por meio do amor, da misericórdia e da ministração.",
+"20.b48.t": [
+ ["Seção", "Mensagem principal"],
+ ["Os Filhos Descendentes de Deus", "Sete ordens de Filhos descendentes ajudam os ascendentes"],
+ ["Os Filhos Magisteriais", "Os Avonais servem os planetas em três papéis: julgamento, missões magisteriais e auto-outorga"],
+ ["As Ações Judiciais", "A própria presença de um Filho do Paraíso julga uma idade"],
+ ["As Missões Magisteriais", "Urântia ainda nunca foi visitada por um Filho Magisterial"],
+ ["A Auto-outorga dos Filhos de Deus do Paraíso", "A auto-outorga não aplaca o Pai; é o caminho de experiência do Filho"],
+ ["As Carreiras de Auto-outorga Mortal", "Um Filho auto-outorgado nasce, vive e morre, mas uma morte violenta não é necessária"],
+ ["Os Filhos Instrutores da Trindade", "Os Dainais são educadores dedicados ao despertar espiritual, não ao governo"],
+ ["A Ministração dos Dainais Ao Universo Local", "Os Filhos Instrutores são instrutores até dos Filhos de Deus"],
+ ["O Serviço Planetário dos Dainais", "Um Filho Instrutor permanece mil anos e abre uma idade espiritual"],
+ ["A Ministração Unificada dos Filhos do Paraíso", "As três ordens de Filhos revelam juntas as três Deidades"]
+],
+"20.b49.h": "Pontos-chave do documento 20",
+"20.b50.box": "Os Filhos do Paraíso são as dádivas das Deidades eternas, que descem entre nós para revelar as três Deidades por meio do amor, da misericórdia e do ensino.",
+}

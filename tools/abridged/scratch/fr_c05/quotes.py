@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+Q = {
+"33.b18.q": "C’est en fait et en vérité l’idéal élevé de la famille et de l’institution humaine du mariage volontaire.",
+"34.b38.q": "à toutes les heures sombres et à tous les carrefours de la lutte pour le progrès, l’Esprit de Vérité parlera toujours et vous dira « Voilà le chemin ».",
+"35.b5.q": "Ils sont l’espérance de tous les groupes de l’univers qui aspirent à se gouverner eux-mêmes. Ils sont le modèle de l’autonomie gouvernementale et l’enseignent dans toutes les sphères de Nébadon.",
+"36.b5.q": "le concept est inhérent au Père, l’expression, au Fils et la réalisation vivante, à l’Esprit.",
+"37.b17.q": "Cela présage indubitablement que d’autres activités ascensionnelles vont se concentrer sur le monde d’effusion de Micaël, et cela donne une importance prodigieuse et solennelle à la promesse personnelle du Maitre : « Je reviendrai. »",
+"37.b28.q": "la tonique de tout le système éducatif est d’acquérir du caractère par une expérience éclairée.",
+"39.b40.q": "ces ministres spirituels de parachèvement séraphique et les fidèles esprits tutélaires du temps sont toujours vos vrais amis et restent perpétuellement des aides sur qui vous pouvez compter.",
+"40.b5.q": "La filiation est la relation suprême entre la créature et le Créateur.",
+"40.b22.q": "toutes les âmes appartenant à chacune des phases possibles d’existence humaine survivront à la condition de manifester de la bonne volonté à coopérer avec leur Ajusteur intérieur, et de montrer leur désir de trouver Dieu et d’atteindre la perfection divine",
+"40.b39.q": "Le Père aime chacun de ses fils, et cette affection n’est pas moins que vraie, sainte, divine, illimitée, éternelle et unique",
+}

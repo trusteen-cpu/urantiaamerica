@@ -67,4 +67,6 @@ D = {
 "2.b66.p": "Le fascicule 2 montre le caractère de Dieu en sept parties, mais ces sept parties sont finalement sept visages d’une seule personne. En Dieu, il n’y a aucun lieu où la justice et l’amour se combattent.",
 "2.b67.p": "Voici le plus grand réconfort : Dieu n’aime pas en imitant un père. Il aime parce qu’il est vraiment un Père.",
 "2.b68.p": "Dieu est infini → il s’abaisse pour venir à nous → il tempère la justice par la miséricorde → il aime en tant que père → et sa bonté ne fait plus qu’un avec la vérité et la beauté dans notre expérience.",
-"2.b69.box": "Tel est 
+"2.b69.box": "Tel est le visage du Père que dépeint « La nature de Dieu ».",
+}
+add(D)

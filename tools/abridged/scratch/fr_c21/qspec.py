@@ -1,0 +1,26 @@
+import json, os
+C = {
+ "159.b5.q": ("159:1.2", "Dans votre religion", "se repentir."),
+ "160.b5.q": ("160:3.1", "La méditation établit", "spirituelle."),
+ "160.b26.q": ("160:4.16", "La sagesse domine", "la culture."),
+ "160.b32.q": ("160:5.11", "À présent", "Dieu est amour."),
+ "161.b14.q": ("161:1.8", "La personnalité de Jésus", "en l’homme."),
+ "162.b5.q": ("162:7.2", "Vous connaitrez", "vous affranchira."),
+ "162.b23.q": ("162:5.2", "Je suis la lumière", "lumière de la vie."),
+ "162.b34.q": ("162:8.3", "les questions secondaires", "royaume céleste"),
+ "163.b5.q": ("163:6.7", "venez à moi vous tous", "donnerai le repos."),
+ "163.b11.q": ("163:1.4", "Vous avez reçu", "donnez libéralement."),
+ "163.b34.q": ("163:6.2", "ne tirez pas vanité", "archives du ciel"),
+ "164.b5.q": ("164:4.9", "il y a une chose", "maintenant je vois."),
+ "164.b12.q": ("164:1.3", "Va et fais de même.", "Va et fais de même."),
+ "164.b29.q": ("164:5.3", "de même que le Père habite", "cet évangile."),
+ "165.b5.q": ("165:5.3", "Cherchez la grande chose", "y sont contenues"),
+ "165.b14.q": ("165:2.8", "je suis venu pour", "plus abondamment."),
+ "165.b18.q": ("165:3.8", "le Père n’oblige", "dans le royaume."),
+ "165.b29.q": ("165:5.3", "demandez les choses", "suivre la substance."),
+ "166.b5.q": ("166:4.10", "La santé n’est pas", "de Dieu."),
+ "166.b20.q": ("166:3.3", "Même si la porte", "cette porte."),
+ "167.b5.q": ("167:1.5", "quiconque s’élève", "sera élevé."),
+ "167.b26.q": ("167:5.2", "La loi de l’univers", "vous trouverez."),
+}
+json.dump(C, open(os.path.dirname(os.path.abspath(__file__)) + "/qspec.json", "w", encoding="utf-8"), ensure_ascii=False)

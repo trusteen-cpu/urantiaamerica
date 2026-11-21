@@ -1,0 +1,16 @@
+import json
+Q = {
+"50.b35.q": "agondonteiros; esta palavra significando criaturas evolucionárias de vontade que podem acreditar sem ver, que perseveram quando isoladas e que triunfam sobre dificuldades insuperáveis, até mesmo quando isoladas em solidão.",
+"51.b5.q": "Nesses Filhos e Filhas Materiais imortais, encontramos o último e indispensável elo que conecta Deus ao homem",
+"51.b35.q": "E se os urantianos pudessem apenas observar a vida em um planeta assim, iriam imediatamente dar o devido valor àquelas coisas que o seu mundo perdeu ao abraçar o mal e participar da rebelião.",
+"52.b25.q": "a sua vida é a encarnação da verdade do Paraíso na carne mortal, é aquela mesma verdade — o próprio Espírito da Verdade — dentro de cujo conhecimento os homens tornar-se-ão livres.",
+"52.b34.q": "mais cedo ou mais tarde, a graça de Deus e a ministração dos anjos farão chegar o dia do advento dos Filhos Instrutores da Trindade; e a sua partida, que se segue à sua missão final, irá inaugurar essa era magnífica de luz e vida.",
+"53.b5.q": "a fé é uma armadura eficaz contra o pecado e a iniqüidade.",
+"53.b21.q": "governo dos Filhos, em nome do Pai, desejava apenas a lealdade e a devoção voluntárias, de coração e à prova de sofismas",
+"54.b5.q": "A justiça, num universo dominado pela misericórdia, pode ser lenta, mas é certa.",
+"54.b30.q": "Nenhuma dessas conseqüências do erro dos seres fraternos, do mau comportamento grupal, pode jamais colocar em perigo as vossas perspectivas eternas, nem vos privar, no mínimo grau que seja, do vosso direito divino de ascensão ao Paraíso e de alcançar a Deus.",
+"55.b5.q": "Nos mundos estabelecidos em luz e vida, tais “funerais” são ocasiões de alegria suprema, de profunda satisfação e esperança inexprimível.",
+}
+if __name__ == "__main__":
+    json.dump(Q, open("pt/quotes_c07.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(len(Q))
