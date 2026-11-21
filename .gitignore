@@ -11,3 +11,4 @@ r2_keys.json
 .wrangler/
 node_modules/
 _draft_*/
+tools/*/scratch/
