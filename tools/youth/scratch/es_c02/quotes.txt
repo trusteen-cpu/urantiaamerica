@@ -1,0 +1,135 @@
+p14.006 0 14:1.12 None 
+ EN: A day is as a thousand years with God 
+ AUTO: None 
+ VERSE: Además del tiempo del circuito de Havona, existe el día estándar y otras designaciones temporales del Paraíso-Havona, determinadas por los siete satélites del Espíritu Infinito del Paraíso, y que de allí proceden. El día estándar del Paraíso-Havona se basa en el tiempo requerido por las moradas planetarias del primer circuito de Havona, el más interior, para completar una revolución alrededor de la Isla del Paraíso; y aunque su velocidad es enorme, debido a su ubicación entre los cuerpos oscuros de gravedad y el gigantesco Paraíso, les lleva casi mil años a estas esferas completar su circuito. Vosotros habéis leído inadvertidamente la verdad, cuando vuestros ojos se posaron sobre la frase «un día es como mil años para con Dios, no más que una vigilia en la noche». Un día del Paraíso-Havona dura tan sólo siete minutos, tres y un octavo de segundos menos que mil años del presente calendario bisiesto de Urantia. 
+
+p14.020 0 14:5.10 None 
+ EN: the beginning of an endless career of adventure 
+ AUTO: None 
+ VERSE: El amor por la aventura, la curiosidad y el pavor a la monotonía —esas características inherentes a la naturaleza humana en evolución— no se pusieron allí tan sólo para irritarte y perturbarte durante tu breve estadía en la tierra, sino más bien para sugerirte que la muerte es tan sólo el comienzo de una interminable carrera de aventura, una vida sempiterna de anticipación, un viaje eterno de descubrimiento. 
+
+p14.023 0 14:6.39 None 
+ EN: Paradise is the home, and Havona the workshop and playground, of the finaliters 
+ AUTO: None 
+ VERSE: El Paraíso es el hogar, y Havona el taller y el campo deportivo de los finalistas, y todo mortal que conozca a Dios anhela ser finalista. 
+
+p15.030 0 15:14.2 sentence 
+ EN: Orvonton is a universe demonstration of love and mercy 
+ AUTO: Orvonton es la demostración universal del amor y de la misericordia 
+ VERSE: Orvonton, el séptimo superuniverso, al cual pertenece vuestro universo local, se conoce principalmente por su extraordinaria y generosa dotación de ministerio misericordioso a los mortales de los reinos. Es reconocido por la manera en la cual prevalece la justicia, atemperada por la misericordia, y gobierna el poder, condicionado por la paciencia, mientras que se realizan libremente los sacrificios del tiempo para asegurar la estabilización de la eternidad. Orvonton es la demostración universal del amor y de la misericordia. 
+
+p16.019 0 16:7.3 None 
+ EN: can look before it leaps 
+ AUTO: None 
+ VERSE: Tan sólo una personalidad puede reconocer lo que hace antes de hacerlo; tan sólo personalidades poseen el discernimiento antes de la experiencia. Una personalidad puede observar antes de saltar y por lo tanto puede aprender de la observación así como de la acción de saltar. Un animal sin personalidad generalmente aprende sólo saltando. 
+
+p16.026 0 16:9.8 sentence 
+ EN: Only a God-knowing individual can love another person as he loves himself 
+ AUTO: Sólo el individuo que conoce a Dios puede amar a otra persona como se ama a sí mismo 
+ VERSE: La conciencia social altruista debe ser, de base, una conciencia religiosa si ha de ser objetiva; si no lo es, es una abstracción filosófica puramente subjetiva y por lo tanto carente de amor. Sólo el individuo que conoce a Dios puede amar a otra persona como se ama a sí mismo. 
+
+p17.005 0 17:1.3 None 
+ EN: board of managing directors 
+ AUTO: None 
+ VERSE: Los Siete Ejecutivos Supremos funcionan como coordinadores administrativos del gran universo; se los podría denominar la junta de directores ejecutivos de la creación post-Havona. No se ocupan de los asuntos internos del Paraíso, y dirigen sus esferas limitadas de actividad en Havona a través de los Siete Espíritus de los Circuitos. Por lo demás, el alcance de su supervisión conoce pocos límites; se encargan de la dirección de las cosas físicas, intelectuales y espirituales; todo lo ven, todo lo oyen, todo lo sienten, incluso todo lo saben respecto de lo que ocurre en los siete superuniversos y en Havona. 
+
+p17.012 0 17:3.6 None 
+ EN: live records 
+ AUTO: None 
+ VERSE: Los registros formales de los universos son transmitidos a través de los registradores angélicos y por ellos, pero los auténticos registros espirituales se acumulan por reflexividad y se preservan en la mente de personalidades adecuadas y adaptadas que pertenecen a la familia del Espíritu Infinito. Estos son los registros vivientes en contraste con los registros formales y muertos del universo, y se preservan perfectamente en la mente viviente de las personalidades de registro del Espíritu Infinito. 
+
+p18.009 0 18:2.4 None 
+ EN: upward 
+ AUTO: None 
+ VERSE: La arquitectura, el embellecimiento natural, las estructuras morontiales, y las creaciones de espíritu son exclusivas y únicas en cada esfera. Cada mundo es un lugar de belleza sempiterna y es totalmente diferente de cualquier otro mundo en el universo central. Cada uno de vosotros pasará un tiempo más largo o más corto en cada una de estas esferas singulares y estimulantes según os adentréis en vuestro camino hacia el Paraíso a través de Havona. Es natural, en vuestro mundo, hablar del Paraíso como lo que está arriba, pero sería más correcto referirse a la meta divina de ascensión como hacia adentro. 
+
+p18.009 1 18:2.4 None 
+ EN: inward 
+ AUTO: None 
+ VERSE: La arquitectura, el embellecimiento natural, las estructuras morontiales, y las creaciones de espíritu son exclusivas y únicas en cada esfera. Cada mundo es un lugar de belleza sempiterna y es totalmente diferente de cualquier otro mundo en el universo central. Cada uno de vosotros pasará un tiempo más largo o más corto en cada una de estas esferas singulares y estimulantes según os adentréis en vuestro camino hacia el Paraíso a través de Havona. Es natural, en vuestro mundo, hablar del Paraíso como lo que está arriba, pero sería más correcto referirse a la meta divina de ascensión como hacia adentro. 
+
+p19.009 0 19:3.4 None 
+ EN: truth-revealing tribunal 
+ AUTO: None 
+ VERSE: Un Perfeccionador de la Sabiduría, siete Consejeros Divinos, y un Censor Universal constituyen un tribunal de la divinidad Trinitaria, el más elevado cuerpo asesor móvil en los universos del tiempo y el espacio. Estos grupos de nueve se conocen como tribunales para recolectar información o para revelar la verdad, y cuando juzgan un problema específico, y pronuncian un dictamen, es como si la decisión hubiera provenido de uno de los Ancianos de los Días, porque en todos los anales de los superuniversos jamás ha ocurrido que los Ancianos de los Días hayan revocado un veredicto de esta índole. 
+
+p19.012 0 19:4.4 None 
+ EN: I was 
+ AUTO: None 
+ VERSE: Cuandoquiera y dondequiera haya un Censor Universal, habrá allí juicio de Deidad. Puesto que los Censores siempre pronuncian su veredicto conjuntamente con los Perfeccionadores de la Sabiduría y los Consejeros Divinos, dichos veredictos comprenden la sabiduría, el parecer y el juicio unidos de la Trinidad del Paraíso. En este trío jurídico el Perfeccionador de la Sabiduría sería el «yo era», el Consejero Divino el «yo seré», y el Censor Universal siempre es el «yo soy». 
+
+p19.012 1 19:4.4 None 
+ EN: I will be 
+ AUTO: None 
+ VERSE: Cuandoquiera y dondequiera haya un Censor Universal, habrá allí juicio de Deidad. Puesto que los Censores siempre pronuncian su veredicto conjuntamente con los Perfeccionadores de la Sabiduría y los Consejeros Divinos, dichos veredictos comprenden la sabiduría, el parecer y el juicio unidos de la Trinidad del Paraíso. En este trío jurídico el Perfeccionador de la Sabiduría sería el «yo era», el Consejero Divino el «yo seré», y el Censor Universal siempre es el «yo soy». 
+
+p19.012 2 19:4.4 None 
+ EN: I am 
+ AUTO: None 
+ VERSE: Cuandoquiera y dondequiera haya un Censor Universal, habrá allí juicio de Deidad. Puesto que los Censores siempre pronuncian su veredicto conjuntamente con los Perfeccionadores de la Sabiduría y los Consejeros Divinos, dichos veredictos comprenden la sabiduría, el parecer y el juicio unidos de la Trinidad del Paraíso. En este trío jurídico el Perfeccionador de la Sabiduría sería el «yo era», el Consejero Divino el «yo seré», y el Censor Universal siempre es el «yo soy». 
+
+p19.013 0 19:4.8 None 
+ EN: Stationary Sons of the Trinity 
+ AUTO: None 
+ VERSE: Los Perfeccionadores de la Sabiduría, los Consejeros Divinos, y los Censores Universales, junto con las siete órdenes de Personalidades Supremas Trinitarias, constituyen los diez grupos a veces denominados Hijos Estacionarios de la Trinidad. Juntos componen el magno cuerpo de administradores, gobernantes, ejecutivos, asesores, consejeros y jueces de la Trinidad. Su número excede ligeramente los treinta y siete mil millones. Dos mil setenta millones están estacionados en el universo central y apenas más de cinco mil millones en cada superuniverso. 
+
+p19.019 0 19:6.8 None 
+ EN: only God is changeless 
+ AUTO: None 
+ VERSE: Sabemos que el Havona de la era universal anterior era un tanto diferente del Havona de la edad presente. Juzgamos pues, simplemente razonable suponer que estamos presenciando ahora aquellos lentos cambios del universo central que anteceden a las edades por venir. Un hecho es seguro: el universo no es estático; sólo Dios es inmutable. 
+
+p20.017 0 20:6.6 None 
+ EN: the world of the cross 
+ AUTO: None 
+ VERSE: Cuando los Hijos autootorgadores, Creadores o Magisteriales, penetran el portal de la muerte, reaparecen al tercer día. Pero no deberíais albergar la idea de que ellos siempre se encuentran con el trágico fin del Hijo Creador que moró en vuestro mundo hace mil novecientos años. La experiencia extraordinaria y extrañamente cruel por la que pasó Jesús de Nazaret ha hecho que Urantia sea conocida localmente como «el mundo de la cruz». No es necesario que un Hijo de Dios sea tratado de una manera tan inhumana, la gran mayoría de los planetas les ha ofrecido un recibimiento más considerado, permitiéndoles terminar sus carreras mortales, terminar la edad, adjudicar a los sobrevivientes adormecidos, e inaugurar una nueva dispensación, sin sufrir una muerte violenta. Un hijo autootorgador debe enfrentarse a la muerte, debe pasar a través de la experiencia total y real de los mortales del reino, pero no es requisito del plan divino que su muerte sea ni violenta ni extraña. 
+
+p21.002 0 21:0.1 None 
+ EN: only-begotten Son 
+ AUTO: None 
+ VERSE: LOS Hijos Creadores son los hacedores y gobernantes de los universos locales del tiempo y del espacio. Estos creadores y soberanos universales son de origen dual, incorporando las características de Dios el Padre y Dios el Hijo. Pero cada Hijo Creador es distinto a todos los demás; cada uno es único en su naturaleza así como también en su personalidad; cada uno es el «Hijo unigénito» del perfecto ideal divino de su origen. 
+
+p21.013 0 21:4.5 None 
+ EN: It is finished 
+ AUTO: None 
+ VERSE: Está en los registros que el último Hijo divino que apareció en vuestro planeta era un Hijo Creador Paradisiaco quien había completado seis fases de su carrera de autootorgamientos; por consiguiente, cuando liberó su posesión consciente de la vida encarnada en Urantia, podía decir, y efectivamente dijo, «Consumado es» —literalmente, se había terminado. Su muerte en Urantia completó su carrera de autootorgamientos; era el último paso en satisfacer el juramento sagrado de un Hijo Creador Paradisiaco. Cuando han adquirido esta experiencia, estos Hijos son soberanos supremos del universo; ya no gobiernan como vicerregentes del Padre sino por su propio derecho y en su propio nombre como «Rey de Reyes y Señor de Señores». Con algunas excepciones declaradas, estos Hijos de autootorgamientos séptuples son no cualificadamente supremos en los universos de su morada. En cuanto a su universo local, «todo el poder en el cielo y en la tierra» fue delegado a este Hijo Mayor triunfador y coronado. 
+
+p21.014 0 21:4.5 None 
+ EN: King of Kings and Lord of Lords 
+ AUTO: None 
+ VERSE: Está en los registros que el último Hijo divino que apareció en vuestro planeta era un Hijo Creador Paradisiaco quien había completado seis fases de su carrera de autootorgamientos; por consiguiente, cuando liberó su posesión consciente de la vida encarnada en Urantia, podía decir, y efectivamente dijo, «Consumado es» —literalmente, se había terminado. Su muerte en Urantia completó su carrera de autootorgamientos; era el último paso en satisfacer el juramento sagrado de un Hijo Creador Paradisiaco. Cuando han adquirido esta experiencia, estos Hijos son soberanos supremos del universo; ya no gobiernan como vicerregentes del Padre sino por su propio derecho y en su propio nombre como «Rey de Reyes y Señor de Señores». Con algunas excepciones declaradas, estos Hijos de autootorgamientos séptuples son no cualificadamente supremos en los universos de su morada. En cuanto a su universo local, «todo el poder en el cielo y en la tierra» fue delegado a este Hijo Mayor triunfador y coronado. 
+
+p21.017 0 21:5.10 None 
+ EN: pour out upon all flesh 
+ AUTO: None 
+ VERSE: Los Hijos Soberanos parecen estar en comunicación perfecta con sus mundos de encarnación, no sólo los mundos de su estadía personal sino todos los mundos en los que se haya otorgado un Hijo Magisterial. Este contacto es mantenido por su propia presencia espiritual, el Espíritu de la Verdad, que ellos pueden «derramar sobre toda la carne». Estos Hijos Mayores también mantienen una conexión ininterrumpida con el Hijo Materno Eterno en el centro de todas las cosas. Poseen un alcance compasivo que se extiende del Padre Universal en las alturas hasta las razas humildes de la vida planetaria en los reinos del tiempo. 
+
+p21.019 0 21:6.4 None 
+ EN: I am the way, the truth, and the life. 
+ AUTO: None 
+ VERSE: Así como la Deidad del Supremo se está actualizando por virtud del servicio experiencial, del mismo modo los Hijos Creadores están alcanzando la realización personal de los potenciales de divinidad paradisiaca contenidos en sus naturalezas inescrutables. Cuando Cristo Micael estaba en Urantia, dijo cierta vez: «Yo soy el camino, la verdad y la vida». Y creemos que en la eternidad los Micaeles están literalmente destinados a ser «el camino, la verdad y la vida», iluminando siempre la senda para todas las personalidades del universo conduciendo desde la divinidad suprema a través de la absonidad última a la finalidad eterna de deidad. 
+
+p22.012 0 22:4.1 None 
+ EN: Those above Name and Number 
+ AUTO: None 
+ VERSE: Aquellos sin Nombre ni Número constituyen el tercero y último grupo de los Hijos Trinidizados de Logro; son almas ascendentes que han desarrollado la habilidad de adorar más allá de la pericia de todos los hijos e hijas de las razas evolucionarias de los mundos del tiempo y del espacio. Han adquirido un concepto espiritual del propósito eterno del Padre Universal que, comparativamente, trasciende la comprensión de las criaturas evolucionarias de nombre o número; por lo tanto se los denomina Aquellos sin Nombre ni Número. Más estrictamente traducido, su nombre sería «Aquellos más allá de Nombre y Número». 
+
+p22.022 0 22:8.4 None 
+ EN: twice-trinitized 
+ AUTO: None 
+ VERSE: Los Hijos Instructores en los universos locales pueden proponer a sus protegidos trinidizados por criaturas para el abrazo de la Trinidad del Paraíso. Al salir de este abrazo como Hijos Trinidizados de Perfección, entran al servicio de los Ancianos de los Días en los siete superuniversos, siendo ese el destino actualmente conocido de este grupo singular de seres dos veces trinidizados. 
+
+p22.025 0 22:9.7 None 
+ EN: There is simply nothing in all universal existence which can take the place of actual personal experience 
+ AUTO: None 
+ VERSE: Los Hijos Trinidizados de Perfección están limitados, en contraste con otros hijos abrazados por la Trinidad, debido a que su capacidad experiencial está inhibida en el tiempo y en el espacio. Les falta experiencia, a pesar de la prolongada capacitación con los Ejecutivos Supremos y los Hijos Instructores, y si no fuera éste el caso, la saturación experiencial prevendría el hecho de que se los mantuviera en reserva para adquirir experiencia en una edad universal futura. No hay nada en toda la existencia universal que pueda tomar el lugar de la auténtica experiencia personal, y estos hijos trinidizados por criaturas se mantienen en reserva para una función experiencial en alguna época universal futura. 
+
+p23.007 0 23:1.9 None 
+ EN: short circuited 
+ AUTO: None 
+ VERSE: Existe una razón técnica por la cual estos Mensajeros Solitarios deben viajar y trabajar a solas. Por cortos períodos de tiempo y cuando están estacionarios, pueden colaborar en un grupo, pero cuando trabajan así se encuentran completamente separados del soporte y dirección de su circuito del Paraíso; están totalmente aislados. Cuando están en tránsito, o cuando operan en los circuitos del espacio y en las corrientes del tiempo, si dos o más de esta orden están en proximidad cercana, ambos o todos quedan fuera de enlace con las fuerzas circulantes más elevadas. Sufren «un cortocircuito», si queréis describirlo en símbolos ilustrativos. Por lo tanto tienen inherente en ellos un poder de alarma automática, una señal de advertencia, que opera infaliblemente para alertarlos de conflictos próximos e infaliblemente les mantiene suficientemente separados como para no interferir con su funcionamiento apropiado y eficaz. También poseen poderes inherentes y automáticos que detectan e indican la proximidad tanto de los Espíritus Trinitarios Inspirados como de los Ajustadores del Pensamiento divinos. 
+
+p23.017 0 23:4.6 None 
+ EN: with keen relish and ever-heightening expectation 
+ AUTO: None 
+ VERSE: Inclinamos a creer que el futuro eterno presenciará fenómenos de evolución universal que trascenderán con mucho a todo lo que se ha experimentado en el pasado eterno. Y anticipamos tales extraordinarias aventuras, así como vosotros también deberíais anticiparlas, con gran expectativa y entusiasmo siempre en aumento. 
+

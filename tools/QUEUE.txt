@@ -1,14 +1,3 @@
-days365 pt c08
-days365 pt c09
-days365 pt c10
-days365 pt c11
-days365 pt c12
-days365 pt c13
-days365 pt c14
-days365 pt c15
-youth es c01
-youth es c02
-youth es c03
 youth es c04
 youth es c05
 youth es c06
