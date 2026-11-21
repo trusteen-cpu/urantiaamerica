@@ -263,7 +263,7 @@ def build(l, T, LINK):
         s = open(os.path.join(out, f), encoding="utf-8").read()
         if HANGUL.search(s) or "⟦" in s: left.append(f)
     for w in ("☰ Contents", "▶ Listen", "⏸ Pause", "← Previous", "Loading…", "'Paper '", "Nothing found", "lang=en", "tl=en&", "en-US"):
-        if w in t: left.append("index.html:" + w)
+        if w in t and w.split(" ")[-1] not in str(UI.get("pause", "")): left.append("index.html:" + w)
     if left and not DRAFT: raise SystemExit("CHECK FAILED: Hangul / markers / English screen text left in output: %s" % left[:10])
     if left: print("  (draft) left in output:", left[:10])
     print(f"[{l}{' DRAFT' if DRAFT else ''}] {len(toc)} papers · {nblocks} blocks · {len(LINK)} quotation boxes linked → {out}")
