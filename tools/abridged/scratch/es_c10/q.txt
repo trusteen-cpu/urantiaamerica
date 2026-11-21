@@ -1,0 +1,195 @@
+{
+ "71.b35.q": {
+  "cit": "71:7.5",
+  "en": "Education is the business of living; it must continue throughout a lifetime",
+  "why": "71:7.5: partial sentence",
+  "verses": {
+   "71:7.5": "La educación es la tarea de la vida; ha de continuar toda la vida para que la humanidad pueda experimentar gradualmente los niveles ascendentes de la sabiduría mortal, que son:"
+  }
+ },
+ "72.b5.q": {
+  "cit": "72:11.4",
+  "en": "They have become civilized to that point where they can vigorously defend civilization",
+  "why": "72:11.4: partial sentence",
+  "verses": {
+   "72:11.4": "Aunque este pueblo mantiene un poderoso establecimiento castrense para defenderse contra invasiones de los pueblos hostiles que los rodean; se le puede atribuir el mérito de que no ha empleado estos recursos bélicos para fines de guerra ofensiva desde hace más de cien años. Se han civilizado hasta tal punto que pueden defender vigorosamente la civilización sin sucumbir a la tentación de valerse de su poderío militar para fines agresivos. Desde el establecimiento del estado unido continental, no ha habido guerras civiles, pero durante los dos siglos pasados este pueblo se ha visto obligado a librar nueve encarnizados combates defensivos, tres de los cuales fueron contra poderosas confederaciones de potencias mundiales. Si bien esta nación mantiene una defensa adecuada contra ataques de vecinos hostiles, presta mucha más atención a la preparación de estadistas, científicos y filósofos."
+  }
+ },
+ "73.b5.q": {
+  "cit": "73:3.6",
+  "en": "Eden was the one bright spot on Urantia",
+  "why": "73:3.6: partial sentence",
+  "verses": {
+   "73:3.6": "El sitio elegido para el Jardín era probablemente el paraje más bello del mundo entero, en su género, y el clima entonces era ideal. En ninguna otra parte existía un lugar que pudiera haberse prestado tan perfectamente para convertirse en tal paraíso de expresión botánica. En este lugar de reunión, se congregaba la crema y nata de la civilización de Urantia. Más allá de sus confines, el mundo estaba sumido en la oscuridad, la ignorancia y el salvajismo. Edén era el único punto risueño en Urantia; era naturalmente un sueño de belleza, y no tardó en convertirse en un poema de exquisita y perfeccionada gloria paisajística."
+  }
+ },
+ "73.b19.q": {
+  "cit": "73:3.6",
+  "en": "Without and beyond, the world lay in darkness, ignorance, and savagery. Eden was the one bright spot on Urantia",
+  "why": "73:3.6: partial sentence",
+  "verses": {
+   "73:3.6": "El sitio elegido para el Jardín era probablemente el paraje más bello del mundo entero, en su género, y el clima entonces era ideal. En ninguna otra parte existía un lugar que pudiera haberse prestado tan perfectamente para convertirse en tal paraíso de expresión botánica. En este lugar de reunión, se congregaba la crema y nata de la civilización de Urantia. Más allá de sus confines, el mundo estaba sumido en la oscuridad, la ignorancia y el salvajismo. Edén era el único punto risueño en Urantia; era naturalmente un sueño de belleza, y no tardó en convertirse en un poema de exquisita y perfeccionada gloria paisajística."
+  }
+ },
+ "73.b35.q": {
+  "cit": "73:7.3",
+  "en": "they were to mobilize for unselfish bestowal upon the needy races of earth.",
+  "why": "73:7.3: partial sentence",
+  "verses": {
+   "73:7.3": "Los Melquisedek aconsejaron a Adán que no iniciara el programa de elevación y mezcla de las razas hasta que su familia alcanzara el medio millón. Nunca se pretendió que el Jardín fuera la residencia permanente de los adanitas. Habrían de convertirse en emisarios de una nueva vida para el mundo entero; habrían de movilizarse para la otorgación altruista a las razas necesitadas de la tierra."
+  }
+ },
+ "75.b22.q": {
+  "cit": "75:4.6",
+  "en": "it constituted evil because it represented the wrong way to achieve righteous ends, because it departed from the right way, the divine plan.",
+  "why": "75:4.6: partial sentence",
+  "verses": {
+   "75:4.6": "Si bien se había concebido y ejecutado este proyecto para modificar el designio divino con entera sinceridad y sin nada más que sublimes motivos respecto del bienestar del mundo, constituyó un acto del mal porque representaba el camino errado para lograr fines justos, porque se desvió del camino acertado, el designio divino."
+  }
+ },
+ "76.b27.q": {
+  "cit": "76:5.3",
+  "en": "you will be called from the embrace of mortal slumber when I come to Urantia if the subordinate Sons of my realm do not send for you before that time.",
+  "why": "76:5.3: partial sentence",
+  "verses": {
+   "76:5.3": "Adán conocía el designio divino de la resurrección que se produjo simultáneamente con su llegada al planeta, y creía que él y su consorte probablemente serían repersonalizados en relación con el advenimiento de la siguiente orden de la filiación. Ignoraba que estuviera a punto de aparecer en Urantia Micael, el soberano de este universo; confiaba en que el siguiente Hijo que viniera sería de la orden Avonal. Así y todo, a Adán y Eva, siempre les fue reconfortante reflexionar sobre el único mensaje personal que jamás recibieran de Micael, a pesar de que les fuera un poco difícil de comprender. Este mensaje, entre otras expresiones de amistad y consuelo, decía: «He considerado las circunstancias de vuestra falta, y he recordado que el deseo de vuestro corazón siempre fue leal a la voluntad de mi Padre, y seréis llamados del abrazo del sueño mortal, al llegar yo a Urantia, si los Hijos subordinados de mi reino no os llaman antes de este momento»."
+  }
+ }
+}{
+ "71.b12.p": [
+  {
+   "cit": "71:2.1",
+   "en": "Go slowly! select carefully!",
+   "auto": "",
+   "verses": {
+    "71:2.1": "A pesar de ser la democracia un ideal, es fruto de la civilización, no de la evolución. ¡Proceded despacio, elegid con esmero! pues los peligros de la democracia son:"
+   }
+  }
+ ],
+ "72.b44.p": [
+  {
+   "cit": "72:11.1",
+   "en": "guardians of civilization.",
+   "auto": "",
+   "verses": {
+    "72:11.1": "Los graduados de las escuelas militares federales pueden ser nombrados como «guardianes de la civilización» en siete rangos, conforme a la capacidad y experiencia, por el presidente del Consejo Nacional de Defensa. Este consejo consta de veinticinco miembros, designados por los más altos tribunales tutelares, educacionales e industriales, confirmados por la corte suprema federal, y presidido, ex oficio, por el jefe del Estado Mayor de asuntos militares coordinados. Estos miembros ocupan su cargo hasta los setenta años de edad."
+   }
+  }
+ ],
+ "73.b10.p": [
+  {
+   "cit": "73:1.6|77:2.3|77:5.9",
+   "en": "mighty men of old.",
+   "auto": "",
+   "verses": {
+    "73:1.6": "Estos noditas se habían casado libremente con miembros de las razas sangik y habían dejado atrás una progenie capaz. Algunos descendientes de los dalamatianos rebeldes, posteriormente, se unieron a Van y a sus leales seguidores en las tierras del norte de Mesopotamia. Aquí, en los alrededores del Lago Van y en la región sudeste del Mar Caspio, los noditas se unieron y se cruzaron con los amadonitas, y se contaban como los «varones de renombre desde la antigüedad».",
+    "77:2.3": "La era posrebelión en Urantia presenció muchos acontecimientos insólitos. Una gran civilización —la cultura de Dalamatia— se desmoronaba. «Había gigantes (noditas) en la tierra en aquellos días, y cuando estos hijos de los dioses se llegaron a las hijas de los hombres y les engendraron hijos, éstos fueron ‘los valientes de antaño’, ‘los varones de renombre’». Aunque eran difícilmente «hijos de los dioses», el séquito y sus primeros descendientes fueron considerados como tales por los mortales evolucionarios de aquellos días distantes; incluso su estatura vino a ser magnificada por las versiones tradicionales. Éste, pues, es el origen del cuento folclórico casi universal de los dioses que descendieron a la tierra y ahí, con las hijas del hombre, engendraron una antigua raza de héroes. Esta leyenda se confundió más aún con las mezclas raciales de los adanitas quienes aparecieron posteriormente en el segundo jardín.",
+    "77:5.9": "Desde los tiempos de Adansón y Ratta, los adansonitas mantuvieron un alto nivel de cultura durante casi siete mil años. Más adelante se mezclaron con los noditas y andonitas vecinos y también figuraron entre los «valientes de antaño». Y algunos de los adelantos de aquella edad perduraron convirtiéndose en una parte latente del potencial cultural que más tarde llegó a ser la civilización europea."
+   }
+  }
+ ],
+ "73.b18.p": [
+  {
+   "cit": "73:3.3",
+   "en": "mist would go up",
+   "auto": "",
+   "verses": {
+    "73:3.3": "La península mediterránea tenía un clima salubre y una temperatura constante; este tiempo estable se debía a las montañas que la rodeaban y al hecho de que esta zona fuera casi una isla en un mar interior. Si bien llovía copiosamente en las tierras altas circundantes, rara vez llovía en Edén mismo. Pero cada noche, dimanando de la extensa red artificial de acequias, un «vapor subía» que refrescaba la vegetación del Jardín."
+   }
+  },
+  {
+   "cit": "73:3.4",
+   "en": "went out of Eden.",
+   "auto": "",
+   "verses": {
+    "73:3.4": "El litoral de esta masa de tierra estaba considerablemente elevado, y el istmo que se comunicaba con el continente tenía sólo cuarenta y tres kilómetros de ancho en el punto más estrecho. El gran río que regaba el Jardín descendía de las tierras más altas de la península, corría en dirección al este por el istmo peninsular hacia el continente, y de ahí, a través de las tierras bajas de Mesopotamia, hasta el mar lejano. Era nutrido por cuatro afluentes que se originaban en las colinas costeras de la península de Edén, y éstas son las «cuatro brazos» del río que «salía de Edén» y que posteriormente se confundieron con los tributarios de los ríos que rodeaban al segundo jardín."
+   }
+  }
+ ],
+ "73.b26.t": [
+  {
+   "cit": "73:5.1|74:3.9|74:7.1",
+   "en": "East of Eden",
+   "auto": "",
+   "verses": {
+    "73:5.1": "En el centro de la península de Edén estaba el exquisito templo de piedra del Padre Universal, la capilla sagrada del Jardín. Al norte se estableció la sede administrativa; al sur se construyeron las casas para los obreros y sus familias; al oeste se asignó una porción de terreno para las escuelas propuestas para el sistema educacional del Hijo esperado, mientras que en el «este de Edén» se construyeron los domicilios destinados al Hijo prometido y a su progenie inmediata. Los planos arquitectónicos de Edén asignaban hogares y tierra abundante para un millón de seres humanos.",
+    "74:3.9": "Al finalizar el sexto día de su estadía en la tierra, Adán y Eva reposaron por primera vez en su nuevo hogar del «este de Edén». Los seis primeros días de la aventura de Urantia habían sido muy ajetreados, y esperaban ansiosamente un día entero libre de toda actividad.",
+    "74:7.1": "Con excepción de haber asistido durante cuatro años a las escuelas del oeste, los hijos de Adán vivieron y trabajaron en el «este de Edén». Recibieron su formación intelectual hasta la edad de dieciséis años de acuerdo con los métodos en las escuelas de Jerusem. Desde los dieciséis hasta los veinte años se les dio instrucción en las escuelas de Urantia del otro extremo del Jardín, desempeñándose en ellas también como maestros de los niveles más bajos."
+   }
+  }
+ ],
+ "73.b29.p": [
+  {
+   "cit": "73:6.3",
+   "en": "tree of the knowledge of good and evil",
+   "auto": "",
+   "verses": {
+    "73:6.3": "El «árbol de la ciencia del bien y del mal» puede ser una expresión de sentido figurado, una designación simbólica que abarca una multitud de experiencias humanas; en cambio, el «árbol de la vida» no fue mito; fue real y durante mucho tiempo existió en Urantia. Cuando los Altísimos de Edentia aprobaron el nombramiento de Caligastia como Príncipe Planetario de Urantia y a aquellos de los cien ciudadanos de Jerusem como su equipo administrativo, enviaron al planeta, con los Melquisedek, un arbusto de Edentia, y esta planta creció en Urantia convirtiéndose en el árbol de la vida. Esta forma de vida no inteligente es oriunda de las esferas de las sedes centrales de las constelaciones, dándose también en los mundos sedes centrales de los universos locales y superuniversos así como en las esferas de Havona, pero no en las capitales de los sistemas."
+   }
+  }
+ ],
+ "73.b31.p": [
+  {
+   "cit": "73:6.7",
+   "en": "gods if they partook of the fruit of the tree,",
+   "auto": "",
+   "verses": {
+    "73:6.7": "Al descarriarse los planes del Hijo Material, a Adán y su familia no se les permitió llevarse el núcleo del árbol del Jardín. Cuando los noditas invadieron a Edén, se les dijo que se harían como «dioses si comían el fruto del árbol». Para gran sorpresa suya, lo hallaron sin custodia. Durante años comieron libremente el fruto, mas no les surtió ningún efecto; todos eran mortales materiales del reino; carecían de la dotación que hacía de complemento del fruto del árbol. Se enfurecieron con su incapacidad de beneficiarse del árbol de la vida, y en relación con una guerra interna suya, incendiaron tanto el templo como el árbol dejando a ambos destruidos; sólo quedó de pie la muralla de piedra hasta que se sumergió posteriormente el Jardín. Éste fue el segundo templo del Padre que pereció."
+   }
+  }
+ ],
+ "74.b31.p": [
+  {
+   "cit": "74:6.4|3:2.4|41:3.1",
+   "en": "light and energy",
+   "auto": "",
+   "verses": {
+    "74:6.4": "Aunque la cocción se empleaba universalmente por las inmediaciones del sector adánico de Edén, no se cocinaba en casa de Adán. Recolectaban sus alimentos —frutas, nueces y cereales— listos para comerse al madurarse. Comían una vez al día, poco después del mediodía. Adán y Eva también absorbían «luz y energía» directamente de ciertas emanaciones espaciales conjuntamente con el ministerio del árbol de la vida.",
+    "3:2.4": "Dios controla todo el poder; él ha abierto «un camino para el relámpago»; ha ordenado los circuitos de toda la energía. Él ha decretado el momento y la forma de las manifestaciones de todas las formas de la energía y la materia. Y contiene todas estas cosas eternamente en su control sempiterno: en el control gravitacional que se centra en el bajo Paraíso. La luz y la energía del Dios eterno giran por siempre en torno a su majestuoso circuito de la procesión infinita pero ordenada de las huestes estelares que componen el universo de los universos. Toda la creación gira eternamente alrededor del centro de la Personalidad Paradisiaca de todas las cosas y todos los seres.",
+    "41:3.1": "Hay más de dos mil soles brillantes que arrojan luz y energía en Satania, y vuestro sol es un llameante globo normal. De los treinta soles más cercanos al vuestro, sólo tres son más brillantes. Los Directores del Poder Universal inician las corrientes especializadas de energía que funcionan entre cada estrella y sus respectivos sistemas. Estos hornos solares, juntamente con los gigantes oscuros del espacio, sirven a los centros de fuerza y a los controladores físicos como estaciones de paso para la concentración y direccionalización eficaz de los circuitos de energía de las creaciones materiales."
+   }
+  }
+ ],
+ "74.b37.p": [
+  {
+   "cit": "74:7.21",
+   "en": "desire of the soul,",
+   "auto": "",
+   "verses": {
+    "74:7.21": "El mediodía era la hora de la adoración pública en Edén; el atardecer era la hora de la adoración familiar. Adán hizo lo que pudo para desalentar el uso de oraciones preestablecidas, enseñando, más bien, que la oración efectiva tiene que ser totalmente personal y que tiene que ser «el deseo del alma»; pero los edenitas continuaron usando las oraciones y formas que heredaron de los tiempos de Dalamatia. Adán también se empeñó en sustituir los sacrificios sangrientos en las ceremonias religiosas por las ofrendas del fruto de la tierra, pero había hecho pocos progresos al respecto antes del trastorno del Jardín."
+   }
+  }
+ ],
+ "75.b3.p": [
+  {
+   "cit": "75:4.2|75:8.8|73:7.5",
+   "en": "voice in the Garden,",
+   "auto": "",
+   "verses": {
+    "75:4.2": "En tanto que el Hijo e Hija Material conversaban al respecto en el Jardín alumbrado por la luna, «la voz en el Jardín» les reprochó la desobediencia. Fue aquella voz ni más ni menos que la mía anunciando a la pareja edénica que había transgredido el pacto del Jardín; habían desobedecido las instrucciones de los Melquisedek; que había faltado en la ejecución de su juramento de lealtad al soberano del universo.",
+    "75:8.8": "[Presentado por Solonia, la «voz seráfica en el Jardín».]",
+    "73:7.5": "[Presentado por Solonia, la «voz seráfica en el Jardín».]"
+   }
+  }
+ ],
+ "75.b23.p": [
+  {
+   "cit": "75:4.8",
+   "en": "Where are you?",
+   "auto": "",
+   "verses": {
+    "75:4.8": "Conversé con el padre y la madre de la raza violeta aquella noche en el Jardín como me correspondía en virtud de las lamentables circunstancias. Escuché atentamente la narración de cuanto había culminado en la falta de la Madre Eva y les di a ambos asesoría y consejos acerca de la situación inmediata. Siguieron algunos de estos consejos; ignoraron otros. Esta conversación aparece en vuestras crónicas como «el Señor Dios llamó a Adán y Eva en el Huerto y les preguntó: ‘¿Dónde estáis?’». Las generaciones posteriores solían atribuir todo lo insólito y extraordinario, fuera natural o espiritual, directamente a la intervención personal de los Dioses."
+   }
+  }
+ ],
+ "76.b9.p": [
+  {
+   "cit": "76:1.4",
+   "en": "sweat of their faces.",
+   "auto": "",
+   "verses": {
+    "76:1.4": "Tras haberse instalado en el nuevo Edén, se vieron en la necesidad de adoptar métodos rudimentarios de vivir; parecía totalmente cierto que estuviera hechizado el suelo. Nuevamente la naturaleza seguía su curso. Ya se vieron obligados los adanitas a subsistir a duras penas del suelo deficiente y sobrellevar las realidades de la vida haciendo frente a las hostilidades naturales e incompatibilidades de la existencia mortal. Habían encontrado el primer jardín parcialmente preparado para ellos, pero el segundo tenía que ser creado con la labor de sus manos y con el «sudor de su frente»."
+   }
+  }
+ ]
+}

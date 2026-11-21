@@ -1,0 +1,89 @@
+## 159.title   HINT: La Gira por la Decápolis
+"The Decapolis Tour"
+## 159.b0.ask
+"“On a tour of the Decapolis without a single miracle, what did Jesus teach about forgiveness, about the Scriptures, and about overcoming evil with good?”"
+## 159.b1.h
+"Overview"
+## 159.b2.p
+"In Paper 158 Jesus came down from the mount of transfiguration, spoke for the first time of his death and resurrection, and taught that the greatest is the one who humbles himself like a little child. Paper 159 follows the four-week tour of the Decapolis that came next. On August 18 Jesus paired each apostle with an evangelist and sent them out in twelve groups, and they labored in Gerasa, Gadara, Philadelphia, and many other cities."
+## 159.b3.p
+"Throughout this tour no miracles of healing or other extraordinary events occurred. Instead Jesus visited the groups in turn and taught quietly in the evenings, and his teaching ranged widely: forgiveness, the attitude of a teacher, how to regard the Scriptures, and a positive religion."
+## 159.b4.p
+"What, then, did Jesus most want to impress upon his followers during this month without miracles?"
+## 159.b6.h
+"The Paper"
+## 159.b7.h   HINT: 1. El Sermón del Perdón
+"1. The Sermon on Forgiveness"
+## 159.b8.p
+"At Hippos Jesus taught forgiveness through the story of the shepherd who keeps up the search for one lost sheep until he finds it. The Father goes out to find sinners before they have even thought of repentance. Since the Father forgives us, we should learn to forgive one another, and Jesus described the steps to take when a brother does wrong."
+## 159.b9.t
+[["Step", "What to do"], ["1. Between the two of you alone", "Show him his fault with tact and patience"], ["2. With witnesses", "Go again, taking one or two mutual friends"], ["3. Before the congregation", "Tell the brotherhood and leave it to take such action as it deems wise"]]
+## 159.b10.p
+"Believers cannot sit in judgment on the souls of their fellows or forgive sins, but they may maintain temporal order in the brotherhood on earth. When Peter asked whether he should forgive as many as seven times, Jesus answered, “⟦Q 159:1.4⟧even to seventy times and seven,⟦/Q⟧” and told the parable of the chief steward who was forgiven ten thousand talents and then threw into prison a fellow steward who owed him a hundred denarii."
+   INL 159:1.4 | even to seventy times and seven, | AUTO: 
+      V 159:1.4: Simón Pedro era el apóstol a cargo de los trabajadores en Hipos, y cuando oyó así hablar a Jesús, preguntó: «Señor, ¿cuántas veces pecará mi hermano contra mí, y yo le perdonaré? ¿Hasta siete veces?» Jesús le respondió a Pedro: «No sólo siete veces, sino aun setenta veces y siete veces más. Así pues, se puede comparar el reino del cielo con cierto rey que, cierta vez, se puso a hacer las cuentas con sus mayordomos de palacio. En cuanto empezaron a rendir cuentas, trajeron ante su presencia al mayordomo principal que confesó que debía a su rey diez mil talentos. Pero este funcionario de la corte del rey se lamentó que estaba pasando por un período difícil, y que no tenía con qué pagar su obligación. Así pues, el rey mandó que sus propiedades fueran confiscadas y que sus hijos fueran vendidos para pagar su deuda. Al escuchar este mayordomo tan duro decreto, cayó de bruces ante el rey y le imploró que tuviera misericordia y que le diera un poco más de tiempo, diciendo, ‘Señor, ten un poco más de paciencia conmigo, y yo te lo pagaré todo’. Cuando el rey contempló a este siervo negligente y a su familia, se despertó su compasión. Ordenó que fuera liberado y que se le perdonara completamente el préstamo.
+## 159.b11.p
+"Jesus taught the dangers of sitting in personal judgment on one’s fellows. Because an individual’s verdict may be warped by prejudice or distorted by passion, he invested legislative and judicial authority in the group, not in the individual. He sought always to minimize the elements of unfairness, retaliation, and vengeance."
+## 159.b12.h   HINT: 2. El Extraño Predicador
+"2. The Strange Preacher"
+## 159.b13.p
+"At Gamala John reported that he had forbidden a man who taught and cast out devils in Jesus’ name without following them. Jesus told him not to forbid such a man, and to rejoice that their teaching was already spreading beyond their personal influence. In matters of this sort it is better to reckon that he who is not against us is for us; even a cup of cold water given to a thirsty soul is recorded by the Father’s messengers."
+## 159.b14.t
+[["Saying", "What relationship it refers to"], ["“⟦Q 159:2.2|153:4.3⟧He who is not with me is against me⟦/Q⟧”", "A person’s own relation to the spiritual teachings of the kingdom"], ["“⟦Q 159:2.1⟧He who is not against us is for us⟦/Q⟧”", "The outward, administrative relations between different groups of believers"]]
+   INL 159:2.2|153:4.3 | He who is not with me is against me | AUTO: 
+      V 159:2.2: Esta instrucción dejó a Juan grandemente perplejo. ¿Acaso no había oído decir al Maestro: «El que no está conmigo está en contra de mí?» Él no percibía que, en este caso, Jesús se refería a la relación personal del hombre con las enseñanzas espirituales del reino, mientras que en el otro, había hecho referencia a las vastas relaciones sociales exteriores de los creyentes, relacionadas con cuestiones de control administrativo y jurisdicción de un grupo de creyentes sobre el trabajo de otros grupos, que finalmente integrarán la hermandad mundial venidera.
+      V 153:4.3: Entonces dijo Jesús: «¿Cómo puede Satanás echar afuera a Satanás? Un reino dividido contra sí mismo no puede permanecer; si una casa está dividida contra sí misma, pronto cae en la desolación. ¿Puede resistir el sitio una ciudad desunida? Si Satanás echa a Satanás, está dividido contra sí mismo; ¿de qué manera pues puede perdurar su reino? Pero deberíais saber que nadie puede entrar en la casa de un hombre fuerte y despojarlo de sus bienes, si antes no lo vence y lo ata. Así pues, si yo por el poder de Beelzebú echo afuera a los demonios, ¿por qué poder los echan vuestros hijos? Por eso ellos serán vuestros jueces. Pero si yo, por el espíritu de Dios, echo fuera a los diablos, entonces el reino de Dios ha de veras venido sobre vosotros. Si no estuvierais cegados por el prejuicio y confundidos por el temor y el orgullo, fácilmente percibiríais que el que es más grande que los diablos está en vuestro medio. Me obligáis a declarar que el que no está conmigo, está contra mí, que el que no cosecha conmigo lo dispersa todo a los cuatro vientos. ¡Dejadme pronunciar una advertencia solemne, a vosotros que presumís, con los ojos abiertos y con malicia premeditada, atribuir a sabiendas la obra de Dios a las acciones de los diablos! De cierto, de cierto os digo que todos vuestros pecados serán perdonados, aun todas vuestras blasfemias, pero la blasfemia deliberada y maligna contra Dios no os será perdonada. Puesto que estos obreros persistentes de la iniquidad nunca buscarán ni recibirán perdón, son culpables del pecado de rechazar eternamente el perdón divino.
+   INL 159:2.1 | He who is not against us is for us | AUTO: 
+      V 159:2.1: Jesús fue a Gamala para visitar a Juan y a los que trabajaban con él en ese lugar. Esa noche, después de la sesión de preguntas y respuestas, Juan le dijo a Jesús: «Maestro, ayer fui a Astarot para ver a un hombre que enseñaba en tu nombre y aun proclamaba que puede echar a los diablos. Pero este hombre no ha estado nunca con nosotros, ni tampoco nos sigue; por consiguiente, le prohibí hacer semejantes cosas». Entonces dijo Jesús: «No se lo prohíbas. ¿No percibes acaso que pronto este evangelio del reino será proclamado en todo el mundo? ¿Cómo puedes esperar que todos los que crean en el evangelio se sometan a tu dirección? Regocíjate de que ya nuestras enseñanzas hayan comenzado a manifestarse más allá de los límites de nuestra influencia personal. ¿Acaso no ves, Juan, que los que profesan hacer grandes obras en mi nombre llegarán a apoyar nuestra causa? Por cierto no se pondrán a hablar mal de mí. Hijo mío, en estos asuntos, es mejor que pienses que el que no está contra nosotros está a nuestro favor. En las generaciones venideras, muchos habrá que, sin ser enteramente merecedores, harán muchas cosas extrañas en mi nombre pero yo no lo prohibiré. Yo te digo que, cada vez que alguien dé una vasija de agua fría a un alma sedienta, los mensajeros del Padre siempre anotarán ese servicio de amor».
+## 159.b15.p
+"The man, Aden, did not heed the apostle’s injunction; he raised up a considerable company of believers at Kanata and then went on into Mesopotamia."
+## 159.b16.h   HINT: 3. La Instrucción para Maestros y Creyentes
+"3. Instruction for Teachers and Believers"
+## 159.b17.p
+"At Edrei Jesus gave the principles that should guide those who teach the gospel. First of all, they must respect the personality of man. Spiritual victories can be won only by spiritual power; people are not to be crushed by the weight of logic or overawed by shrewd eloquence, nor moved by appeals to fear or mere sentiment."
+## 159.b18.t
+[["Principle", "Teaching"], ["Respect for personality", "Do not coerce; appeal to the indwelling spirit, as one who knocks at the door"], ["Self-respect", "Restore it to those who have lost it, restrain it in those who have it"], ["No frightening", "A loving father does not frighten his children into obedience"], ["Feelings and leading", "Strong impulses are not necessarily the leadings of the spirit"], ["The fringe of conflict", "Uncertainty comes in passing from life in the flesh to life in the spirit"], ["Against false sympathy", "Strong characters do not grow out of self-pity"], ["Trouble", "Believers are not spared trouble, but they need not fear it"]]
+## 159.b19.p
+"Faith is to religion what sails are to a ship: an addition of power, not an added burden. The believer has only one battle, and that is against doubt. To preach the gospel is simply to teach friendship with God, and they were not to portray their teacher as a man of sorrows; this religion throbs with new life, joy, and good humor."
+## 159.b21.h   HINT: 4. La Conversación con Natanael
+"4. The Talk with Nathaniel"
+## 159.b22.p
+"At Abila Nathaniel quietly asked what the truth about the Scriptures was. Jesus answered that he did not regard them as the rabbis did, and asked Nathaniel not to pass this on to his brethren, who were not yet prepared for it."
+## 159.b23.t
+[["About the Scriptures", "Jesus’ teaching"], ["Origin", "The work of men, showing the enlightenment of the times that produced them"], ["Value", "The best collection of religious wisdom and spiritual truth in the world at this time"], ["Limits", "They also contain much that misrepresents the loving Father"], ["Purpose", "Religious instruction and spiritual guidance, not history or philosophy"], ["Infallibility", "Nothing that human nature has touched can be regarded as infallible"], ["Authority of truth", "The living spirit, not the dead words of another generation"]]
+## 159.b24.p
+"Jesus told Nathaniel never to believe the records saying that the God of love ordered his forefathers to slay all their enemies, men, women, and children; such records are the words of men, not the word of God. He also explained that they were not writing down the gospel now, lest after his departure they divide into groups contending over its interpretation. The saddest thing of all was that some teachers knew these truths but, as moral cowards, kept them from the people."
+## 159.b26.h   HINT: 5. La Naturaleza Positiva de la Religión de Jesús
+"5. The Positive Nature of Jesus’ Religion"
+## 159.b27.p
+"At Philadelphia James asked how to choose the better passages of Scripture, and Jesus named some eternally true and beautiful teachings."
+## 159.b28.t
+[["Teaching to look for in Scripture", "Its meaning"], ["“⟦Q 159:5.2⟧Create in me a clean heart, O Lord⟦/Q⟧”", "A renewed heart"], ["“⟦Q 159:5.3|131:2.7⟧The Lord is my shepherd; I shall not want⟦/Q⟧”", "God’s care"], ["“⟦Q 159:5.4⟧You should love your neighbor as yourself⟦/Q⟧”", "Love for others"], ["“⟦Q 159:5.5⟧Fear not; I will help you⟦/Q⟧”", "God’s help"], ["“⟦Q 159:5.6⟧Neither shall the nations learn war any more⟦/Q⟧”", "The hope of peace"]]
+   INL 159:5.2 | Create in me a clean heart, O Lord | AUTO: «Crea en mi, Oh Señor, un corazón limpio.
+   INL 159:5.3|131:2.7 | The Lord is my shepherd; I shall not want | AUTO: «El Señor es mi pastor; nada me faltará.
+   INL 159:5.4 | You should love your neighbor as yourself | AUTO: «Ama a tu prójimo como a ti mismo.
+   INL 159:5.5 | Fear not; I will help you | AUTO: 
+      V 159:5.5: «Porque yo, el Señor tu Dios, te tomaré de la mano derecha, y te dice: No temas; yo te ayudo.
+   INL 159:5.6 | Neither shall the nations learn war any more | AUTO: «Ni tampoco se adiestrarán más las naciones para la guerra».
+## 159.b29.p
+"Jesus made the fatherhood of God the cornerstone of his religion, and so the practice of the brotherhood of man became imperative. The worship of God and the service of man became the sum and substance of his religion. He put the spirit of positive action into passive doctrines, and he even opposed purely passive nonresistance."
+## 159.b30.t
+[["Way of meeting evil", "Its nature"], ["1. Return evil for evil", "Positive but unrighteous"], ["2. Suffer evil without complaint or resistance", "Purely negative"], ["3. Return good for evil and overcome evil with good", "Positive and righteous"]]
+## 159.b31.p
+"Turning the other cheek does not mean standing dumb and passive; it means actively leading the brother in error toward better ways. If forced to carry a stranger’s pack for a mile, one should not grumble under one’s breath but carry it a second mile. Jesus revealed a God who goes in search of the lost sheep, turned the negative golden rule into a positive admonition, and brought the philosophy of religion from heaven down to earth."
+## 159.b32.h   HINT: 6. El Retorno a Magadán
+"6. The Return to Magadan"
+## 159.b33.p
+"The four-week mission was moderately successful: hundreds were received into the kingdom, and the apostles and evangelists gained valuable experience in working without Jesus’ immediate presence. On September 16 everyone gathered at Magadan Park to consider future plans."
+## 159.b34.p
+"In these dark days David’s messengers kept the believers throughout Palestine in touch with one another and with Jesus, and collected funds to support Jesus and the families of the apostles and evangelists. David even kept an overnight relay of runners between Jerusalem and Bethsaida. Now came a week of rest, the last rest before they reached Jerusalem."
+## 159.b35.h
+"Conclusion"
+## 159.b36.p
+"Paper 159 shows how rich in teaching a month without miracles could be. Jesus taught the forgiveness of a Father who goes out first to find, and told his followers to forgive without limit and to rejoice even in the good done by those outside their circle. He told teachers to respect personality and self-respect and never to frighten people, and he told Nathaniel to treasure the Scriptures as a precious human record while taking the living spirit as the authority of truth. Above all, his religion was not one of passive endurance but a positive religion that actively overcomes evil with good."
+## 159.b37.t
+[["Section", "Key message"], ["1. The Sermon on Forgiveness", "The Father seeks us first, so we must forgive without end"], ["2. The Strange Preacher", "He who is not against us is for us"], ["3. Instruction for Teachers and Believers", "Respect personality, never frighten, and pass through trouble together"], ["4. The Talk with Nathaniel", "Scripture is a precious human record; the authority of truth is the living spirit"], ["5. The Positive Nature of Jesus’ Religion", "Not passive endurance, but actively overcoming evil with good"], ["6. The Return to Magadan", "They learned to work on their own and entered their last rest"]]
+## 159.b38.h
+"Key Points of Paper 159"
+## 159.b39.box
+"Jesus’ religion is a love that goes out first to seek, a positive religion that actively overcomes evil with good."

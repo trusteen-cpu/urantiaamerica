@@ -1,0 +1,72 @@
+## 160.title   HINT: Rodán de Alejandría
+"Rodan of Alexandria"
+## 160.b0.ask
+"“How did Rodan, a Greek philosopher who sought the art of living and the way to maturity, come to confess that his philosophy was completed in the gospel of Jesus?”"
+## 160.b1.h
+"Overview"
+## 160.b2.p
+"In Paper 159 Jesus and his followers finished the four-week tour of the Decapolis and returned to Magadan to prepare for their last rest. Paper 160 records a remarkable series of talks given during that week of rest. On September 18, while most of the apostles had gone home, Nathaniel and Thomas met a Greek philosopher from Alexandria named Rodan."
+## 160.b3.p
+"Rodan had become a disciple of Jesus in Alexandria through one of Abner’s associates, and he was earnestly trying to harmonize his philosophy of life with Jesus’ new teachings. Jesus did not enter into the discussions himself, but he received Rodan graciously and told Nathaniel and Thomas to listen to all he had to say. This paper summarizes the ten addresses Rodan gave to about two dozen believers."
+## 160.b4.p
+"What, then, was lacking in a philosopher who had long studied the art of living and maturity, and how did he say that lack was filled in the gospel of Jesus?"
+## 160.b6.h
+"The Paper"
+## 160.b7.h   HINT: 1. La Filosofía Griega de Rodán
+"1. Rodan’s Greek Philosophy"
+## 160.b8.p
+"Rodan held that human life consists in three great drives: urges, desires, and lures. Strong character is acquired by carrying each of these to a higher level."
+## 160.b9.t
+[["Drive of life", "Where a mature personality carries it"], ["Urge", "Converted into the social art of living"], ["Desire", "Transformed into higher longings capable of lasting attainment"], ["Lure", "Transferred from established ideas to undiscovered ideals"]]
+## 160.b10.p
+"The more complex civilization becomes, the more difficult the art of living. The true badge of social maturity is the willingness to give up the ease of established beliefs for the pursuit of undiscovered spiritual ideals. Animals make no inquiry into the purposes of life, but man is conscious of the meaning of meanings. Discouragement, worry, and indolence are positive evidence of moral immaturity."
+## 160.b11.p
+"To solve any problem one must first frankly recognize the difficulty, yet people avoid doing so out of fear, conceit, and prejudice. Only honest and brave individuals can follow through the maze of living to where the logic of a fearless mind may lead. But the greatest of all methods of problem solving, Rodan said, he had learned from Jesus: the isolation of worshipful meditation."
+## 160.b12.p
+"Rodan confessed that his philosophy had given him the urge to seek the goal of maturity, but that his search lacked driving power and certainty of direction. The new gospel of Jesus abundantly supplied these deficiencies, enhancing his insights and settling his goals. Stability of personality is possible only for those who embrace the living God as their eternal goal."
+## 160.b14.h   HINT: 2. El Arte de Vivir
+"2. The Art of Living"
+## 160.b15.p
+"The one distinction between man and the animal is that man can communicate meanings, values, ideas, and ideals by means of symbols. Through this ability man develops personality and builds culture and civilization. The most effective of all social groups is the family, and personal affection is the spiritual bond that holds it together. Rodan named four things that friendship and mutual affection contribute to the art of living."
+## 160.b16.t
+[["What friendship and affection give", "What it means"], ["1. Mutual self-expression and self-understanding", "Many noble impulses die because there is no one to hear them"], ["2. Union of souls", "Pooling insight guards against prejudice and narrowness"], ["3. Enthusiasm for living", "Isolation exhausts the soul; friendship enhances the joys of life"], ["4. Defense against evil", "Sorrow and defeat lose much of their sting when shared"]]
+## 160.b17.p
+"He saw the ideal setting for such association in marriage, since Jesus had made the father-child relationship the cornerstone of his gospel. Yet ideal marriage must rest not on the fluctuations of sentiment or the fickleness of sex attraction but on genuine and mutual personal devotion. The same meaning, he noted, lies in the fact that the Master always sends his workers out two and two."
+## 160.b18.h   HINT: 3. Los Alicientes de la Madurez
+"3. The Lures of Maturity"
+## 160.b19.p
+"Maturity requires work, and work requires energy. Where does the power come from? Emotional excitement does not increase energy; it exhausts it. Rodan pointed to the Master, who even then was out in the hills taking in power, and said that the secret lies in spiritual communion, in worship."
+## 160.b20.t
+[["In worship, this", "Is exchanged for"], ["Weakness", "Strength"], ["Fear", "Courage"], ["The mind of self", "The will of God"]]
+## 160.b21.p
+"When these experiences are often repeated, they become habits; habits form a spiritual character, and such character is recognized as a mature personality. These practices are hard at first, but once habitual they are restful and timesaving. The mature person wins by tact and tolerance rather than by fighting, for the wise man seeks the key to a locked door instead of breaking it down."
+## 160.b22.h   HINT: 4. El Equilibrio de la Madurez
+"4. The Balance of Maturity"
+## 160.b23.p
+"While the spirit is our goal, the flesh is a fact. The two major problems of life are making a temporal living and achieving eternal survival, and even making a living requires religion for its ideal solution. Rodan listed six essentials of the temporal life."
+## 160.b24.t
+[["Essential of temporal life", "Rodan’s explanation"], ["1. Good physical health", "Body and mind are the dwelling place of the gift of the Gods"], ["2. Clear and clean thinking", "The mind is the mediator between material things and spiritual realities"], ["3. Ability and skill", "Ability is inherited; skill is acquired"], ["4. Wealth", "It requires wise planning and organized channels"], ["5. Ability to withstand defeat", "Learn to lose cheerfully and never hide failure"], ["6. Culture", "Education and wisdom, with wisdom ruling knowledge"]]
+## 160.b25.p
+"Rodan laid special stress on how to meet failure. Success may give courage, but wisdom comes only from adjusting to the results of one’s failures. False optimism that always claims success ends in the crash of disillusionment. To the God-seeking man, failure is simply an educational episode in the acquirement of wisdom, and a life that looks like a failure in time may prove a great success in the light of eternity."
+## 160.b27.h   HINT: 5. La Religión del Ideal
+"5. The Religion of the Ideal"
+## 160.b28.p
+"Rodan regarded religion as supreme devotion to what one holds worthy of the homage of all mankind. Religion is not mere intellectual belief but a mode of reacting to the situations of life, and anyone who truly has a religion is already its evangel. The supreme ideal of religious loyalty is God, and there can be no genuine spiritual religion without the ideal of an eternal God."
+## 160.b29.t
+[["", "Lower religions", "Higher religions"], ["God", "The idea of God", "The ideal of God, a divine reality"], ["Direction", "Shape God to fit the human heart", "Demand that the human heart be changed"], ["Foundation", "Fear, emotion, tradition, and philosophy", "True spirit experience"]]
+## 160.b30.p
+"The religion of Jesus not only portrays the Father as the ideal of infinite reality but declares that he is personally attainable by every mortal who enters the kingdom. Rodan called this the highest concept of religion the world has ever known, and confessed, “⟦Q 160:5.8⟧I am a believer, I have embarked.⟦/Q⟧” Yet this way has its price: to be born again and to undergo soul reconstruction, after which comes great peace."
+   INL 160:5.8 | I am a believer, I have embarked. | AUTO: 
+      V 160:5.8: No sólo me intrigan los ideales cabales de esta religión de vuestro Maestro, sino que estoy poderosamente impulsado a profesar mi creencia en su anuncio de que estos ideales de las realidades espirituales son alcanzables; que vosotros y yo podemos embarcarnos en esta larga y eterna aventura con su garantía de la certidumbre de nuestra llegada final a las puertas del Paraíso. Hermanos míos, yo soy un creyente, me he embarcado; me he encaminado con vosotros en esta aventura eterna. El Maestro dice que él vino del Padre, y que nos mostrará el camino. Estoy plenamente persuadido de que profesa la verdad. Por fin estoy convencido de que no existen ideales alcanzables de realidad ni valores de perfección fuera del Padre eterno y Universal.
+## 160.b31.p
+"The impulse to be like God, the emotion of worship, the conviction to serve God, and the reasoning that this religion is best are not in themselves true religion. True religion is a living spiritual experience in which all of these are made personal by the revelation of the Spirit of Truth."
+## 160.b33.h
+"Conclusion"
+## 160.b34.p
+"Paper 160 is the honest confession of a philosopher. Rodan had thought as deeply as anyone about the art of lifting urges, desires, and lures to higher levels, about the strength that friendship and marriage give, and about gaining wisdom from failure. Yet his philosophy lacked driving power and certainty of direction. In Jesus’ habit of withdrawing alone to commune with the Father he saw the source of that power, and in the gospel of an attainable God he found his goal. Where philosophy stopped, worship began; and when the God of ideas became the living God of the ideal, his eternal voyage began."
+## 160.b35.t
+[["Section", "Key message"], ["1. Rodan’s Greek Philosophy", "The gospel gave philosophy’s urge its driving power and direction"], ["2. The Art of Living", "Friendship and affection make character grow"], ["3. The Lures of Maturity", "The power for maturity comes not from excitement but from worship and communion"], ["4. The Balance of Maturity", "Wisdom comes from honestly accepting failure"], ["5. The Religion of the Ideal", "The goal of true religion is not an idea but an attainable God"]]
+## 160.b36.h
+"Key Points of Paper 160"
+## 160.b37.box
+"The art of living that philosophy sought finds its power in worship and its goal in the gospel of an attainable God."

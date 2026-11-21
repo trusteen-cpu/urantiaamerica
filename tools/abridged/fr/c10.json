@@ -1,0 +1,847 @@
+{
+ "71.title": "Développement de l’État",
+ "71.b0.ask": "« Né de la guerre et de la conquête, comment l’État peut-il devenir un État idéal au service de la liberté, de l’éducation et du service ? »",
+ "71.b1.h": "Vue d’ensemble",
+ "71.b2.p": "Dans le fascicule 70, nous avons suivi la longue évolution du gouvernement humain, de la guerre aux tribunaux et des chefs au gouvernement représentatif. Le fascicule 71 examine l’institution qui se trouve au bout de ce chemin : l’État. L’État est une évolution utile de la civilisation ; il représente le gain net que la société a retiré des ravages et des souffrances de la guerre.",
+ "71.b3.p": "Le fascicule affirme que l’État n’est pas venu d’une source divine et que personne ne l’a sagement conçu. C’est une institution purement évolutionnaire qui a survécu à la longue lutte pour le pouvoir de groupe, et son origine fut entièrement automatique.",
+ "71.b4.p": "Par quelles étapes l’État né de la conquête est-il donc parvenu au gouvernement représentatif ? Que fait un État idéal, et que doivent devenir ses citoyens ?",
+ "71.b6.h": "Le fascicule",
+ "71.b7.h": "1. L’État embryonnaire",
+ "71.b8.p": "L’État est une organisation sociale régulatrice territoriale, et l’État le plus fort et le plus durable se compose d’une seule nation ayant une langue, des mœurs et des institutions communes. Les premiers États étaient petits et tous résultaient de conquêtes ; ils furent donc stratifiés dès le début. Le fascicule place la fédération iroquoise des hommes rouges du Nord à côté de Rome pour montrer ce qui maintient un État en vie et ce qui manquait.",
+ "71.b9.t": [
+  [
+   "Ce qui manquait à la fédération iroquoise",
+   "Ce sur quoi reposait l’État romain"
+  ],
+  [
+   "L’acquisition et l’héritage de la propriété privée",
+   "La famille paternelle"
+  ],
+  [
+   "Des villes, plus l’agriculture et l’industrie",
+   "L’agriculture et la domestication des animaux"
+  ],
+  [
+   "Des animaux domestiques utiles",
+   "La concentration de la population — les villes"
+  ],
+  [
+   "Une organisation familiale pratique",
+   "La propriété privée et la terre"
+  ],
+  [
+   "Un territoire défini",
+   "L’esclavage — les classes de citoyens"
+  ],
+  [
+   "Un chef exécutif fort",
+   "La conquête et la réorganisation des peuples faibles"
+  ],
+  [
+   "L’asservissement des captifs",
+   "Un territoire défini avec des routes"
+  ],
+  [
+   "Des conquêtes décisives",
+   "Des dirigeants personnels et forts"
+  ]
+ ],
+ "71.b10.p": "Les hommes rouges, dit le fascicule, avaient un bon gouvernement, mais ils étaient trop démocratiques ; s’ils n’avaient pas rencontré trop tôt la civilisation des hommes blancs, ils auraient fini par donner naissance à un État. La chute de Rome ne vint pas de ses réformes elles-mêmes, mais de leur adoption soudaine et étendue, jointe à une expansion trop rapide et à une dégénérescence intérieure. Quand un État ne réussit pas à rester uni, il retombe aux stades du clan et de la tribu, comme dans le féodalisme du Moyen Âge européen.",
+ "71.b11.h": "2. L’évolution du gouvernement représentatif",
+ "71.b12.p": "La démocratie est un idéal, mais elle est un produit de la civilisation et non de l’évolution. Le fascicule conseille donc : « ⟦Q 71:2.1⟧Allez lentement ! Choisissez soigneusement !⟦/Q⟧ », et nomme cinq dangers. L’opinion publique retarde la société, mais elle préserve la civilisation ; éduquer l’opinion publique est la seule manière sure et vraie d’accélérer la civilisation, et la croissance culturelle s’accélèrera à mesure que les bulletins de vote remplaceront les balles.",
+ "71.b13.t": [
+  [
+   "Danger de la démocratie",
+   "Ce que cela signifie"
+  ],
+  [
+   "1. La glorification de la médiocrité",
+   "Exalter ce qui est ordinaire"
+  ],
+  [
+   "2. Des dirigeants vils et ignorants",
+   "Choisir des chefs indignes"
+  ],
+  [
+   "3. L’ignorance de l’évolution",
+   "Ne pas reconnaitre les faits fondamentaux de l’évolution sociale"
+  ],
+  [
+   "4. Le suffrage universel mal employé",
+   "Aux mains de majorités incultes et indolentes"
+  ],
+  [
+   "5. L’asservissement à l’opinion publique",
+   "La majorité n’a pas toujours raison"
+  ]
+ ],
+ "71.b15.p": "Le fascicule expose ensuite dix étapes vers un gouvernement représentatif pratique. Elles commencent par l’abolition de toute forme de servitude et finissent par l’élection aux fonctions publiques des seuls hommes formés et moralement aptes. C’est seulement ainsi que l’on peut préserver le gouvernement du peuple, par le peuple et pour le peuple.",
+ "71.b16.t": [
+  [
+   "Étape",
+   "L’essentiel"
+  ],
+  [
+   "1. La liberté des personnes",
+   "Abolir l’esclavage, le servage et toute servitude"
+  ],
+  [
+   "2. La liberté mentale",
+   "Sans éducation, la liberté fait plus de mal que de bien"
+  ],
+  [
+   "3. Le règne de la loi",
+   "La loi fondamentale à la place des caprices des dirigeants"
+  ],
+  [
+   "4. La liberté de parole",
+   "La liberté de toutes les formes d’expression"
+  ],
+  [
+   "5. La sécurité de la propriété",
+   "Le droit d’utiliser, de vendre et de léguer ses biens"
+  ],
+  [
+   "6. Le droit de pétition",
+   "Le droit du citoyen d’être entendu"
+  ],
+  [
+   "7. Le droit de gouverner",
+   "La pétition qui devient une véritable gestion du gouvernement"
+  ],
+  [
+   "8. Le suffrage universel",
+   "Un électorat intelligent, efficace et universel"
+  ],
+  [
+   "9. Le contrôle des fonctionnaires",
+   "Les citoyens guident et contrôlent ceux qui exercent les fonctions publiques"
+  ],
+  [
+   "10. Une représentation compétente",
+   "N’élire que les personnes compétentes et moralement aptes"
+  ]
+ ],
+ "71.b17.h": "3. Les idéaux de l’État",
+ "71.b18.p": "La forme d’un gouvernement a peu d’importance pourvu qu’il assure la liberté, la sécurité, l’éducation et la coordination sociale. Aucun État ne peut s’élever au-dessus des valeurs morales de ses citoyens, et l’ignorance et l’égoïsme feront tomber même le type de gouvernement le plus élevé. La doctrine du peuple élu a été un facteur primordial dans l’édification des nations, mais l’intolérance est à jamais hostile au progrès humain, et le meilleur moyen de la combattre est la coordination de la science, du commerce, des jeux et de la religion.",
+ "71.b19.t": [
+  [
+   "Impulsion de l’État idéal",
+   "Sa source"
+  ],
+  [
+   "1. La loyauté bienveillante",
+   "La réalisation de la fraternité humaine"
+  ],
+  [
+   "2. Un patriotisme intelligent",
+   "Des idéaux sages"
+  ],
+  [
+   "3. La clairvoyance cosmique",
+   "Interprétée en fonction des faits, des besoins et des buts planétaires"
+  ]
+ ],
+ "71.b20.p": "L’État idéal a peu de lois ; il a dépassé l’âge des tabous pour entrer dans une ère de liberté croissante grâce à une plus grande maitrise de soi. Les loisirs que procurent les machines doivent produire autant que consommer. Le meilleur État est celui qui coordonne le plus en gouvernant le moins, et le niveau de toute civilisation se reflète dans la valeur des citoyens qui se proposent volontairement pour porter les responsabilités de l’État. Dans les États avancés, le service politique est honoré comme le plus haut dévouement du citoyen.",
+ "71.b21.h": "4. La civilisation progressive",
+ "71.b22.p": "L’économie, la société et le gouvernement doivent évoluer s’ils veulent subsister ; sur un monde évolutionnaire, s’arrêter, c’est décliner. Le fascicule énumère douze points du programme d’une civilisation en expansion, qui mènent aux buts les plus élevés de tous : la fraternité des hommes et la conscience de Dieu.",
+ "71.b23.t": [
+  [
+   "Programme",
+   "Programme"
+  ],
+  [
+   "1. La préservation des libertés individuelles",
+   "7. L’utilisation profitable des loisirs"
+  ],
+  [
+   "2. La protection du foyer",
+   "8. Les soins aux malheureux"
+  ],
+  [
+   "3. La promotion de la sécurité économique",
+   "9. L’amélioration de la race"
+  ],
+  [
+   "4. La lutte préventive contre les maladies",
+   "10. La promotion des sciences et des arts"
+  ],
+  [
+   "5. L’instruction obligatoire",
+   "11. L’avancement de la philosophie — la sagesse"
+  ],
+  [
+   "6. L’emploi obligatoire",
+   "12. La clairvoyance cosmique — la spiritualité"
+  ]
+ ],
+ "71.b24.p": "Une fraternité authentique signifie une société où tous se réjouissent de porter les fardeaux les uns des autres et désirent réellement pratiquer la règle d’or. Mais l’idéalisme ne peut survivre si les idéalistes se laissent exploiter ou détruire ; c’est pourquoi les adeptes de la règle d’or doivent vivre selon leurs idéaux tout en maintenant une défense adéquate. C’est là la grande épreuve de l’idéalisme. Seul l’idéalisme religieux peut empêcher l’état de préparation de se transformer en agression, et seul l’amour, la fraternité, peut empêcher les forts d’opprimer les faibles.",
+ "71.b25.h": "5. L’évolution de la compétition",
+ "71.b26.p": "La compétition est indispensable au progrès social, mais une compétition sans règles engendre la violence. Aujourd’hui, la compétition remplace lentement la guerre. Le meurtre est hors la loi depuis les premiers temps de la société, mais l’humanité dans son ensemble n’a encore jamais mis la guerre hors la loi. L’État idéal règlemente la compétition juste assez pour en écarter la violence et l’injustice, et il doit empêcher que les impôts paralysent l’industrie et que l’État devienne parasite ou tyrannique.",
+ "71.b27.t": [
+  [
+   "Stade de la civilisation",
+   "Ce qui fait avancer le progrès"
+  ],
+  [
+   "Civilisation primitive",
+   "La compétition — la survie des plus aptes biologiquement"
+  ],
+  [
+   "Civilisation avancée",
+   "La coopération — une coopération intelligente, une fraternité compréhensive, une fraternité spirituelle"
+  ]
+ ],
+ "71.b28.p": "La compétition industrielle est gaspilleuse et inefficace, mais le fascicule insiste : on ne doit permettre aucune tentative pour la supprimer si elle devait coûter la moindre perte des libertés fondamentales de l’individu.",
+ "71.b29.h": "6. Le mobile du profit",
+ "71.b30.p": "L’économie d’aujourd’hui, motivée par le profit, est condamnée à moins que les mobiles de profit ne soient élargis par des mobiles de service. Une compétition impitoyable fondée sur un intérêt égoïste étroit détruit même ce qu’elle cherche à garder, et un mobile de profit exclusif est incompatible avec les enseignements de Jésus. Pourtant, le mobile du profit maintient au travail beaucoup de gens qui, sans lui, seraient paresseux ; il ne faut donc pas le détruire brusquement. Il doit subsister jusqu’à ce que les hommes aient fermement saisi des mobiles plus élevés, étrangers au profit.",
+ "71.b31.t": [
+  [
+   "Domaine",
+   "Mobile inférieur → mobile supérieur"
+  ],
+  [
+   "L’économie",
+   "Le profit → le service"
+  ],
+  [
+   "La religion",
+   "La peur → l’amour"
+  ],
+  [
+   "Mobiles supérieurs étrangers au profit",
+   "Une sagesse superlative, une fraternité captivante, l’excellence de l’accomplissement spirituel"
+  ]
+ ],
+ "71.b32.h": "7. L’éducation",
+ "71.b33.p": "L’État durable est fondé sur la culture, dominé par des idéaux et motivé par le service. Le but de l’éducation est d’acquérir de l’habileté, de rechercher la sagesse, de réaliser son individualité et d’atteindre des valeurs spirituelles. Dans l’État idéal, l’éducation continue toute la vie et la philosophie devient la principale occupation des citoyens. L’éducation doit passer de l’esprit local, militariste et avide de réussite à un esprit mondial, idéaliste et capable de saisir le cosmos ; après être passée du clergé aux hommes de loi et aux hommes d’affaires, elle devra finalement être confiée aux philosophes et aux savants.",
+ "71.b34.t": [
+  [
+   "Niveau de sagesse",
+   "Ce qu’il est"
+  ],
+  [
+   "1. La connaissance",
+   "La connaissance des choses"
+  ],
+  [
+   "2. La signification",
+   "La réalisation des significations"
+  ],
+  [
+   "3. La valeur",
+   "L’appréciation des valeurs"
+  ],
+  [
+   "4. Le devoir",
+   "La noblesse du travail"
+  ],
+  [
+   "5. La moralité",
+   "La motivation des buts"
+  ],
+  [
+   "6. Le caractère",
+   "L’amour du service"
+  ],
+  [
+   "7. Le discernement spirituel",
+   "La clairvoyance cosmique"
+  ]
+ ],
+ "71.b36.p": "Par ces sept niveaux, beaucoup s’élèveront jusqu’au niveau ultime que le mental mortel puisse atteindre, la conscience de Dieu.",
+ "71.b37.h": "8. Le caractère de l’État",
+ "71.b38.p": "Le seul trait sacré de tout gouvernement humain est la division de l’État en domaines exécutif, législatif et judiciaire, et l’univers lui-même est administré selon ce plan. Pour le reste, la forme d’État que choisit un peuple a peu d’importance, pourvu que ses citoyens continuent de progresser vers une plus grande maitrise de soi et un plus grand service social. Le fascicule énumère douze niveaux par lesquels l’État évolue.",
+ "71.b39.t": [
+  [
+   "Niveau",
+   "Ce que cela signifie"
+  ],
+  [
+   "1. Un gouvernement triple",
+   "Des départements exécutif, législatif et judiciaire"
+  ],
+  [
+   "2. La liberté d’activité",
+   "La liberté sociale, politique et religieuse"
+  ],
+  [
+   "3. La fin de la servitude",
+   "L’abolition de toutes les formes d’esclavage"
+  ],
+  [
+   "4. Le contrôle des impôts",
+   "Les citoyens règlementent l’établissement des impôts"
+  ],
+  [
+   "5. L’éducation universelle",
+   "L’instruction depuis le berceau jusqu’à la tombe"
+  ],
+  [
+   "6. Local et national",
+   "Un ajustement approprié entre les autorités locales et le gouvernement national"
+  ],
+  [
+   "7. La science",
+   "L’encouragement de la science et la victoire sur la maladie"
+  ],
+  [
+   "8. L’égalité des sexes",
+   "La fonction coordonnée des hommes et des femmes, et les services féminins"
+  ],
+  [
+   "9. L’âge mécanique",
+   "La fin de l’esclavage des corvées grâce à l’invention"
+  ],
+  [
+   "10. Un langage universel",
+   "La victoire sur les dialectes"
+  ],
+  [
+   "11. La fin des guerres",
+   "Des cours continentales et un tribunal planétaire suprême"
+  ],
+  [
+   "12. La sagesse et une religion mondiale",
+   "L’exaltation de la philosophie, qui annonce la lumière et la vie"
+  ]
+ ],
+ "71.b40.p": "Urantia est encore loin de ces idéaux, mais les races civilisées ont fait les premiers pas, et l’humanité est en marche vers de plus hautes destinées évolutionnaires.",
+ "71.b41.h": "Conclusion",
+ "71.b42.p": "Le fascicule 71 montre calmement que l’État n’a pas d’origine divine, mais qu’il est né automatiquement de la guerre et de la conquête. Pourtant, le fascicule s’intéresse moins à l’origine de l’État qu’à ce qu’il fait. Le gouvernement représentatif doit franchir les longues étapes qui consistent à mettre fin à la servitude, à éduquer les esprits, à établir le règne de la loi et la liberté d’expression ; la compétition doit se développer en coopération, et le mobile du profit en mobile de service. Tout cela n’est possible que s’il existe des citoyens qui, par l’éducation, s’élèvent jusqu’à la sagesse et à la conscience de Dieu. En fin de compte, un État ne peut pas s’élever plus haut que les valeurs morales de ses citoyens.",
+ "71.b43.t": [
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "1. L’État embryonnaire",
+   "L’État est né de la conquête et a été maintenu uni par le territoire"
+  ],
+  [
+   "2. L’évolution du gouvernement représentatif",
+   "On parvient lentement à la démocratie, par dix étapes"
+  ],
+  [
+   "3. Les idéaux de l’État",
+   "Aucun État ne peut s’élever au-dessus des valeurs morales de ses citoyens"
+  ],
+  [
+   "4. La civilisation progressive",
+   "L’amour empêche l’état de préparation de se transformer en agression"
+  ],
+  [
+   "5. L’évolution de la compétition",
+   "La compétition sert les premiers âges ; la coopération sert la civilisation avancée"
+  ],
+  [
+   "6. Le mobile du profit",
+   "Le mobile du profit doit lentement se développer en mobile de service"
+  ],
+  [
+   "7. L’éducation",
+   "Une éducation qui dure toute la vie mène, par sept niveaux de sagesse, à la conscience de Dieu"
+  ],
+  [
+   "8. Le caractère de l’État",
+   "La triple division des pouvoirs est le seul trait sacré du gouvernement"
+  ]
+ ],
+ "71.b44.h": "Points clés du fascicule 71",
+ "71.b45.box": "On juge un État non pas à ce qu’il est, mais à ce qu’il fait, et seuls des citoyens éduqués qui servent peuvent l’élever au rang d’État idéal.",
+ "72.title": "Le gouvernement sur une planète voisine",
+ "72.b0.ask": "« Sur une planète voisine qui a connu la rébellion et la défaillance tout comme nous, comment une nation a-t-elle bâti un gouvernement avancé sur le foyer, l’éducation et le service ? »",
+ "72.b1.h": "Vue d’ensemble",
+ "72.b2.p": "Des fascicules 68 à 71, nous avons suivi l’évolution de la civilisation, des institutions, du gouvernement et de l’État sur Urantia. Le fascicule 72 tourne un moment nos regards vers l’extérieur. Par permission spéciale, un Melchizédek décrit la vie sociale, morale et politique de la race humaine la plus avancée d’une planète peu éloignée, dans le système de Satania.",
+ "72.b3.p": "Comme Urantia, cette planète fut égarée quand son Prince Planétaire se joignit à la rébellion de Lucifer ; son Fils Matériel fit également défaut, et elle n’a jamais reçu de Fils Magistral, si bien qu’elle reste isolée. De tous les mondes de Satania isolés par la rébellion, c’est celui dont l’histoire ressemble le plus à la nôtre, et c’est pourquoi ce récit inhabituel a été autorisé.",
+ "72.b4.p": "Avec de tels handicaps, quel genre de gouvernement, de foyer, d’éducation et d’industrie une nation continentale a-t-elle réalisé ? Et que pouvons-nous en apprendre — et que devons-nous peser avec soin ?",
+ "72.b6.h": "Le fascicule",
+ "72.b7.h": "1. La nation continentale",
+ "72.b8.p": "Malgré tous les handicaps de la planète, une civilisation très supérieure se développe sur un continent isolé ayant à peu près les dimensions de l’Australie. La nation compte environ 140 millions d’habitants, une race mélangée, principalement bleue et jaune, dont les peuples fraternisent de manière très satisfaisante. La durée moyenne de la vie est de quatre-vingt-dix ans. De hautes montagnes au centre du pays, avec des pluies abondantes, facilitent l’énergie hydraulique et l’irrigation. La nation est riche en ressources naturelles et se suffit entièrement à elle-même, mais elle a peu de commerce extérieur à cause de l’hostilité de ses voisins.",
+ "72.b9.p": "Cette nation, elle aussi, a parcouru le long chemin qui mène des tribus aux rois, puis elle est passée par des républiques avortées et par des dictateurs. Il y a environ cinq-cents ans, l’un des trois dictateurs triumvirs changea d’attitude et offrit de se retirer ; le continent fut unifié, et, sous une monarchie forte, une magistrale charte de liberté se développa. Le passage au gouvernement représentatif se fit graduellement, et la république actuelle existe maintenant depuis deux-cents ans.",
+ "72.b10.h": "2. L’organisation politique",
+ "72.b11.p": "Le gouvernement central est une forte fédération de cent États relativement libres. Les gouverneurs et les législateurs des États sont élus pour dix ans et ne peuvent pas être réélus, et aucune ville ne peut avoir plus d’un million d’habitants. Le gouvernement fédéral comporte trois départements coordonnés — l’exécutif, le législatif et le judiciaire. Le chef exécutif est élu tous les six ans au suffrage universel et il est conseillé par un supercabinet composé de tous les anciens chefs exécutifs encore en vie.",
+ "72.b12.t": [
+  [
+   "Chambre législative",
+   "Mode d’élection et rôle"
+  ],
+  [
+   "1. La chambre haute",
+   "Élue par des groupes de travailleurs selon leur fonction économique — industrie, professions libérales, agriculture"
+  ],
+  [
+   "2. La chambre basse",
+   "Élue par des groupes sociaux, politiques et philosophiques"
+  ],
+  [
+   "3. Les doyens des hommes d’État",
+   "Cent vétérans du service civique, nommés à vie — rôle purement consultatif"
+  ]
+ ],
+ "72.b13.p": "Une grande partie de l’administration fédérale est assurée par dix autorités régionales, chacune formée de dix États. La justice est rendue par deux systèmes de tribunaux. Les tribunaux civils fonctionnent à trois niveaux — cours mineures, cours suprêmes des États et Cour fédérale suprême — tandis que les tribunaux socioéconomiques fonctionnent en trois divisions.",
+ "72.b14.t": [
+  [
+   "Tribunaux socioéconomiques",
+   "Ce dont ils s’occupent"
+  ],
+  [
+   "1. Tribunaux des familles",
+   "Le foyer et le système social"
+  ],
+  [
+   "2. Tribunaux de l’enseignement",
+   "Les systèmes scolaires des États et des régions"
+  ],
+  [
+   "3. Tribunaux de l’industrie",
+   "Le règlement de tous les malentendus économiques"
+  ]
+ ],
+ "72.b15.h": "3. La vie au foyer",
+ "72.b16.p": "Ces gens considèrent le foyer comme l’institution fondamentale de leur civilisation. La loi interdit à deux familles de vivre sous le même toit ; les terrains d’habitation doivent être spacieux et sont exempts d’impôts. Les pères comme les mères doivent suivre les écoles de parents, et les pères accordent presque autant d’attention que les mères à l’éducation des enfants. Recevoir la garde d’un orphelin est un grand honneur, et l’orphelin est confié au foyer qui présente les meilleures qualités parentales.",
+ "72.b17.p": "L’éducation sexuelle et la formation religieuse relèvent du foyer, et la religion est considérée comme une partie intégrante de la vie familiale. Dans leur philosophie, la religion est l’effort pour connaitre Dieu et pour manifester de l’amour envers ses semblables par le service ; au lieu d’églises, ils n’ont que des temples de philosophie. Bien que le divorce soit facile, le taux de divorce n’est que le dixième de celui des races civilisées d’Urantia.",
+ "72.b18.t": [
+  [
+   "Âge",
+   "Droits et devoirs"
+  ],
+  [
+   "Quinze ans",
+   "La première initiation aux responsabilités civiques"
+  ],
+  [
+   "Vingt ans",
+   "Le droit de vote ; le mariage est permis"
+  ],
+  [
+   "Vingt-cinq ans",
+   "Le droit de se marier sans le consentement des parents"
+  ],
+  [
+   "Trente ans",
+   "Les enfants doivent quitter le foyer"
+  ]
+ ],
+ "72.b19.h": "4. Le système éducatif",
+ "72.b20.p": "L’éducation est obligatoire de cinq à dix-huit ans. Il n’y a pas de salles de classe, et l’on n’étudie qu’une seule matière à la fois. Après les trois premières années, chaque élève devient maitre assistant et instruit ceux qui sont au-dessous de lui. Les livres servent seulement à aider à résoudre les problèmes qui se posent dans les ateliers et les fermes de l’école. Un quart du temps scolaire est consacré aux compétitions athlétiques, et les concours d’éloquence, de musique, de science et de philosophie s’échelonnent jusqu’aux honneurs nationaux.",
+ "72.b21.p": "Le but principal de l’éducation est de faire de chaque élève un citoyen capable de subvenir à ses besoins ; c’est pourquoi tout diplômé de dix-huit ans est un artisan habile ; c’est seulement alors que commencent, dans les écoles d’adultes et les collèges, l’étude des livres et l’acquisition de connaissances spéciales. Le fascicule rapporte que, depuis soixante-quinze ans, cette nation place les débiles mentaux à vie dans des colonies de surveillance et leur refuse le droit d’avoir des enfants.",
+ "72.b22.h": "5. L’organisation industrielle",
+ "72.b23.p": "L’industrie de cette nation est encore loin de ses idéaux, mais les travailleurs deviennent de plus en plus actionnaires de toutes les entreprises, et chaque travailleur intelligent devient lentement un petit capitaliste. Quand l’esclavage fut aboli il y a plus de cent ans, on le fit graduellement, en affranchissant deux pour cent des esclaves chaque année, si bien qu’aucun grave problème économique n’en résulta. La violence a été mise hors la loi comme moyen de régler les différends, et tous les conflits industriels sont tranchés par les tribunaux de l’industrie.",
+ "72.b24.t": [
+  [
+   "Rémunération légale",
+   "Ce qu’elle couvre"
+  ],
+  [
+   "1. Le capital",
+   "Le taux légal d’intérêt sur le capital investi"
+  ],
+  [
+   "2. La qualification",
+   "Une rémunération raisonnable de la qualification employée"
+  ],
+  [
+   "3. La main-d’œuvre",
+   "Des salaires justes et équitables"
+  ],
+  [
+   "Les gains au-delà",
+   "Des dividendes partagés entre les trois"
+  ]
+ ],
+ "72.b25.p": "On travaille quatre jours et l’on se divertit un jour, six heures par jour. Il y a deux-cents ans, la recherche du profit dominait l’industrie, mais aujourd’hui la compétition se déplace vers les jeux, l’habileté, la science, l’accomplissement intellectuel et le service public. L’homme le plus riche du continent travaille six heures par jour, puis se hâte de se rendre à l’école d’administration pour se qualifier pour le service public. Ces gens en sont venus à éprouver du dégout pour l’oisiveté comme pour la fortune non gagnée, et ils apprennent la valeur des loisirs bien mérités.",
+ "72.b26.h": "6. L’assurance vieillesse",
+ "72.b27.p": "Cette nation s’efforce de remplacer la charité, qui détruit le respect de soi-même, par une assurance vieillesse digne. Comme elle donne à chaque enfant une éducation et à chaque homme un emploi, un tel plan peut réussir. Chacun doit se retirer de toute activité lucrative à soixante-cinq ans, sauf les serviteurs de l’État et les philosophes.",
+ "72.b28.t": [
+  [
+   "Source des fonds de pension",
+   "Détails"
+  ],
+  [
+   "1. Le gain d’une journée par mois",
+   "Prélevé sur chacun, puisque tout le monde travaille"
+  ],
+  [
+   "2. Les legs",
+   "Les fonds laissés par des citoyens riches"
+  ],
+  [
+   "3. Le travail obligatoire dans les mines",
+   "Les bénéfices excédentaires du travail des forçats"
+  ],
+  [
+   "4. Les ressources naturelles",
+   "La moitié du revenu de ce dépôt social"
+  ]
+ ],
+ "72.b29.p": "Ces fonds sont administrés honnêtement depuis longtemps. Après la trahison et le meurtre, ce sont les trahisons de la confiance publique qui entrainent les peines les plus lourdes, et la déloyauté sociale et politique est considérée comme le plus odieux de tous les crimes.",
+ "72.b30.h": "7. Les impôts",
+ "72.b31.p": "Le gouvernement fédéral n’est paternaliste que pour les pensions de vieillesse et l’encouragement du génie ; les États le sont un peu plus, et les gouvernements locaux beaucoup plus. La santé de l’individu et de la famille reste uniquement une affaire personnelle. Les villes ne peuvent ni lever des impôts ni s’endetter, aucun bien ne peut être imposé à plus d’un pour cent de sa valeur par an, et le gouvernement fédéral lui-même ne peut pas emprunter.",
+ "72.b32.t": [
+  [
+   "Revenus fédéraux",
+   "Détails"
+  ],
+  [
+   "1. Les droits d’importation",
+   "Protègent le niveau de vie élevé du continent"
+  ],
+  [
+   "2. Les redevances",
+   "La moitié des bénéfices des inventions et des créations originales"
+  ],
+  [
+   "3. Les taxes successorales",
+   "Progressives, d’un à cinquante pour cent"
+  ],
+  [
+   "4. L’équipement militaire",
+   "Loué pour des usages commerciaux et récréatifs"
+  ],
+  [
+   "5. Les ressources naturelles",
+   "Le revenu qui reste après les affectations prévues"
+  ]
+ ],
+ "72.b33.h": "8. Les écoles spéciales",
+ "72.b34.p": "En plus de l’instruction obligatoire de base, on entretient cinq sortes d’écoles spéciales. Les écoles d’administration se divisent en trois classes — nationales, régionales et d’État. Les fonctions publiques se répartissent en quatre divisions, et les trois divisions supérieures ne peuvent être occupées que par des diplômés des écoles d’administration correspondantes. Les juges de la Cour fédérale suprême doivent être diplômés de toutes ces écoles.",
+ "72.b35.t": [
+  [
+   "École spéciale",
+   "Son rôle"
+  ],
+  [
+   "1. Les écoles d’administration",
+   "Forment les fonctionnaires et les juges, en trois classes"
+  ],
+  [
+   "2. Les écoles de philosophie",
+   "Affiliées aux temples de philosophie et associées à la religion"
+  ],
+  [
+   "3. Les instituts scientifiques",
+   "Des écoles techniques coordonnées avec l’industrie"
+  ],
+  [
+   "4. Les écoles de formation professionnelle",
+   "La formation technique pour douze professions libérales"
+  ],
+  [
+   "5. Les écoles militaires et navales",
+   "La formation des volontaires de dix-huit à trente ans"
+  ]
+ ],
+ "72.b36.h": "9. Le plan du suffrage universel",
+ "72.b37.p": "Tout candidat à une fonction publique doit être diplômé d’une école d’administration ; pourtant, les dirigeants de la nation virent une grave faiblesse dans le suffrage universel et, il y a environ cinquante ans, ils modifièrent leur plan électoral. Chaque homme et chaque femme de vingt ans et plus dispose d’une voix et appartient à deux groupes électoraux : l’un selon sa fonction économique, l’autre selon ses inclinations politiques, philosophiques et sociales.",
+ "72.b38.t": [
+  [
+   "Plan électoral modifié",
+   "Détails"
+  ],
+  [
+   "1. Une voix de base",
+   "Chaque citoyen de vingt ans et plus, inscrit dans deux groupes électoraux"
+  ],
+  [
+   "2. Des voix supplémentaires pour le service",
+   "Jusqu’à neuf pour ceux qui ont fait preuve d’un grand service ou d’une grande sagesse"
+  ],
+  [
+   "3. Le suffrage suspendu",
+   "Les travailleurs forcés des mines et les fonctionnaires payés par les impôts"
+  ],
+  [
+   "4. Des voix supplémentaires pour les impôts",
+   "Cinq échelons, jusqu’à cinq voix — personne ne peut disposer de plus de dix voix"
+  ],
+  [
+   "5. Le vote fonctionnel",
+   "Par groupe plutôt que par résidence — seul le chef exécutif est élu à raison d’une voix par personne"
+  ]
+ ],
+ "72.b39.p": "Le fascicule explique que cette nation considère l’État idéal comme un organisme dont chaque groupe libre et intelligent de citoyens est un organe vital. Convaincus que la domination de la médiocrité signifie la chute de toute nation, ils permettent d’engager des poursuites pour retirer le droit de vote aux individus tarés ou criminels, et le vote est obligatoire.",
+ "72.b40.h": "10. Dispositions à l’égard du crime",
+ "72.b41.p": "Le fascicule dit d’emblée que les méthodes de ce peuple pour traiter le crime, la folie et la dégénérescence, si elles peuvent plaire sous certains aspects, paraitront sous d’autres choquantes à la plupart des Urantiens. Les criminels ordinaires et les tarés vivent dans des colonies agricoles séparées selon le sexe et font plus que subvenir à leurs besoins, et le fascicule rapporte que les grands criminels endurcis et les fous incurables sont condamnés à mort.",
+ "72.b42.p": "Le fascicule rapporte que ce peuple sort de l’ère négative de la loi pour entrer dans son ère positive et qu’il s’efforce de prévenir le crime. La justice est sure et rapide, et le taux d’homicides n’est que d’un pour cent de celui des autres nations. Il explique aussi que, depuis plus de cent ans, la nation s’efforce d’empêcher la reproduction des criminels et des tarés.",
+ "72.b43.h": "11. L’état de préparation militaire",
+ "72.b44.p": "Les diplômés des écoles militaires fédérales sont promus « ⟦Q 72:11.1⟧gardiens de la civilisation⟦/Q⟧ ». L’instruction militaire n’est jamais donnée sans la maitrise d’un métier ou d’une profession, de sorte qu’aucune classe militaire professionnelle n’apparait. Le service militaire en temps de paix est volontaire, la musique est l’une des principales matières des écoles militaires et, dans les périodes de ralentissement industriel, on emploie les chômeurs à renforcer les défenses de la nation.",
+ "72.b45.p": "La nation entretient de puissants effectifs militaires contre ses voisins hostiles, mais depuis plus de cent ans elle ne les a employés à aucune guerre offensive. Bien qu’elle ait soutenu neuf guerres défensives acharnées au cours des deux derniers siècles, elle consacre beaucoup plus de soins à former des hommes d’État, des scientifiques et des philosophes. En temps de paix, tout son matériel mobile de défense est employé aux affaires, au commerce et aux divertissements.",
+ "72.b47.h": "12. Les autres nations",
+ "72.b48.p": "Cette planète a onze continents. Cette nation unique est à bien des égards supérieure aux nations d’Urantia, mais les gouvernements des autres continents sont nettement inférieurs aux nations les plus avancées d’Urantia. La nation projette maintenant d’établir des relations d’ambassades avec ses voisins et d’envoyer des missionnaires, et l’auteur craint qu’elle ne répète l’erreur de tant d’autres qui ont cherché à imposer une culture supérieure à autrui. Combien il serait préférable, dit-il, qu’elle fasse venir chez elle les meilleurs de ses voisins, les éduque et les renvoie comme émissaires de culture.",
+ "72.b49.t": [
+  [
+   "Comparaison",
+   "La planète voisine",
+   "Urantia"
+  ],
+  [
+   "Missions des Fils du Paradis",
+   "Ni mission magistrale ni mission d’effusion",
+   "Un Fils d’effusion est venu"
+  ],
+  [
+   "L’Esprit de Vérité",
+   "Pas répandu",
+   "Répandu — une base spirituelle"
+  ],
+  [
+   "Écart culturel entre les peuples",
+   "Très grand entre la nation continentale et ses voisins",
+   "Beaucoup moins grand"
+  ]
+ ],
+ "72.b50.p": "Grâce à l’effusion et à l’Esprit de Vérité, dit le fascicule, Urantia est bien mieux préparée à réaliser prochainement un gouvernement planétaire avec ses lois, ses mécanismes, ses symboles et sa langue. Un tel gouvernement pourrait établir une paix mondiale fondée sur la loi et conduire, par un véritable âge d’effort spirituel, jusqu’au seuil de la lumière et de la vie.",
+ "72.b51.h": "Conclusion",
+ "72.b52.p": "Le fascicule 72 montre une planète qui a subi la même rébellion et la même défaillance que la nôtre et qui n’a même jamais reçu de Fils Magistral. Là, une nation continentale a fait du foyer le fondement de la civilisation et a bâti un gouvernement avancé sur une éducation qui dure toute la vie, sur des écoles d’administration, sur une industrie qui honore le service et sur une confiance publique honnêtement gardée. Le fascicule lui-même reconnait que certaines pratiques de cette nation choqueraient les Urantiens, et il présente ce récit non comme un modèle à copier, mais comme une comparaison destinée à encourager le progrès de la civilisation et du gouvernement. Et, à la fin, il se tourne vers nous : Urantia, ayant reçu un Fils d’effusion et l’Esprit de Vérité, se trouve sur une base spirituelle bien meilleure pour se préparer à la paix mondiale fondée sur la loi et à l’âge de lumière et de vie.",
+ "72.b53.t": [
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "1. La nation continentale",
+   "Une civilisation supérieure se développe sur un continent d’un monde isolé"
+  ],
+  [
+   "2. L’organisation politique",
+   "Une fédération de cent États, un corps législatif à trois chambres et deux systèmes de tribunaux"
+  ],
+  [
+   "3. La vie au foyer",
+   "Le foyer est le fondement de la civilisation, et la religion relève du foyer"
+  ],
+  [
+   "4. Le système éducatif",
+   "Chaque élève est formé pour devenir un artisan habile qui subvient à ses besoins"
+  ],
+  [
+   "5. L’organisation industrielle",
+   "Les travailleurs deviennent actionnaires, et la compétition se tourne vers le service"
+  ],
+  [
+   "6. L’assurance vieillesse",
+   "Une assurance digne au lieu de la charité, et une confiance publique strictement gardée"
+  ],
+  [
+   "7. Les impôts",
+   "Un gouvernement sans dettes, des impôts fonciers légers, cinq revenus fédéraux"
+  ],
+  [
+   "8. Les écoles spéciales",
+   "Les écoles d’administration forment les fonctionnaires et les juges"
+  ],
+  [
+   "9. Le plan du suffrage universel",
+   "Le vote par groupes fonctionnels, avec des voix supplémentaires pour le service"
+  ],
+  [
+   "10. Dispositions à l’égard du crime",
+   "Des méthodes sévères que le fascicule lui-même qualifie de choquantes"
+  ],
+  [
+   "11. L’état de préparation militaire",
+   "Une défense forte qui n’est jamais employée à l’agression"
+  ],
+  [
+   "12. Les autres nations",
+   "Urantia, qui a reçu l’Esprit de Vérité, est mieux préparée"
+  ]
+ ],
+ "72.b54.h": "Points clés du fascicule 72",
+ "72.b55.box": "Même sur un monde isolé, une seule nation a bâti un gouvernement avancé sur le foyer, l’éducation et le service ; Urantia, qui a reçu l’Esprit de Vérité, peut se préparer à une paix plus grande.",
+ "73.title": "Le Jardin d’Éden",
+ "73.b0.ask": "« Dans un monde assombri par la rébellion, pourquoi des gens ont-ils aménagé un jardin pour un Fils qui n’était pas encore venu, et qu’est devenu ce beau Jardin ? »",
+ "73.b1.h": "Vue d’ensemble",
+ "73.b2.p": "Dans le fascicule 72, nous avons observé une nation d’une planète voisine qui avait subi une rébellion très semblable à la nôtre. Le fascicule 73 revient sur Urantia et raconte comment fut préparé le lieu le plus beau de notre histoire, le Jardin d’Éden. La chute de Caligastia avait ruiné la culture et la vie spirituelle, mais elle eut peu d’effet sur le statut physique et biologique des races. L’évolution organique se poursuivit à grands pas.",
+ "73.b3.p": "Il y a presque quarante-mille ans, les Porteurs de Vie virent que le développement biologique des races d’Urantia approchait de son apogée. Avec les administrateurs provisoires Melchizédeks, ils demandèrent aux Très Hauts d’Édentia d’envoyer un Fils et une Fille Matériels. Tabamantia vint inspecter la planète et recommanda la requête, et, un peu moins de cent ans plus tard, Adam et Ève arrivèrent. Ils entreprirent la tâche difficile de débrouiller les affaires d’une planète retardée par la rébellion et mise au ban par l’isolement spirituel.",
+ "73.b4.p": "Qui donc prépara un jardin pour les recevoir avant leur venue, et avec quelle foi ? Et qu’advint-il finalement de ce Jardin et de l’arbre de vie qui y poussait ?",
+ "73.b6.h": "Le fascicule",
+ "73.b7.h": "1. Les Nodites et les Amadonites",
+ "73.b8.p": "Sur une planète normale, l’arrivée d’un Fils Matériel annonce un grand âge d’inventions et d’illumination intellectuelle, mais il n’en fut pas ainsi sur Urantia. Dix-mille ans après la rébellion, presque tous les gains de l’administration du Prince avaient été annulés, et les tribus languissaient dans la sauvagerie. Les traditions de Dalamatia et la culture du Prince Planétaire ne subsistaient que dans deux groupes.",
+ "73.b9.t": [
+  [
+   "Groupe",
+   "Origine et caractère"
+  ],
+  [
+   "Les Nodites",
+   "Descendants des membres rebelles de l’état-major du Prince, nommés d’après leur premier chef, Nod ; ils formèrent la huitième race d’Urantia"
+  ],
+  [
+   "Les Amadonites",
+   "Descendants des Andonites restés loyaux avec Van et Amadon ; un nom plus culturel et religieux que racial"
+  ]
+ ],
+ "73.b10.p": "Une inimitié traditionnelle séparait les deux groupes, et même plus tard, dans les affaires d’Éden, il leur fut extrêmement difficile de travailler ensemble en paix. Après la chute de Dalamatia, les Nodites se divisèrent en trois groupes : l’un près du fond du golfe Persique, l’un dans les hautes terres d’Élam et l’un sur les rives syriennes de la Méditerranée. Certains d’entre eux rejoignirent Van près du lac Van, se mêlèrent aux Amadonites et furent comptés au nombre des « ⟦Q 73:1.6|77:2.3|77:5.9⟧puissants hommes d’autrefois⟦/Q⟧ ». Avant la venue d’Adam et d’Ève, ces deux peuples étaient les races les plus avancées et les plus cultivées de la terre.",
+ "73.b11.h": "2. Le projet de jardin",
+ "73.b12.p": "Pendant presque cent ans avant l’inspection de Tabamantia, Van et ses associés avaient prêché, depuis leur quartier général des hautes terres, qu’un Fils de Dieu promis viendrait — un élévateur des races et un instructeur de la vérité. La plus grande partie du monde y montra peu d’intérêt, mais ceux qui étaient proches de Van et d’Amadon prirent cet enseignement au sérieux.",
+ "73.b13.p": "Van savait que les Fils Matériels vivaient toujours, sur Jérusem, dans des foyers simples et charmants entourés de jardins. C’est pourquoi, quatre-vingt-trois ans avant l’arrivée d’Adam et d’Ève, il proposa à son peuple de leur préparer un tel foyer. Plus de trois-mille volontaires venus de soixante-et-un établissements s’engagèrent en une assemblée solennelle à préparer la venue du Fils promis — ou tout au moins attendu. Caligastia et Daligastia firent tout ce qu’ils purent pour gêner le travail, mais presque dix-mille médians loyaux compensèrent largement leurs manœuvres.",
+ "73.b14.t": [
+  [
+   "L’organisation des préparatifs",
+   "Détails"
+  ],
+  [
+   "Volontaires",
+   "Plus de trois-mille, venus de soixante-et-un établissements"
+  ],
+  [
+   "Organisation",
+   "Cent compagnies, chacune avec un capitaine et un officier de liaison"
+  ],
+  [
+   "Comité du site",
+   "Envoyé à la recherche de l’endroit idéal"
+  ],
+  [
+   "Aide invisible",
+   "Presque dix-mille médians loyaux"
+  ]
+ ],
+ "73.b15.h": "3. L’emplacement du Jardin",
+ "73.b16.p": "Après près de trois ans de recherches, le comité du site fit un rapport sur trois emplacements possibles et se montra presque unanime à préférer le troisième. Il fallut deux ans pour transférer le quartier général culturel du monde, y compris l’arbre de vie, à ce nouvel endroit.",
+ "73.b17.t": [
+  [
+   "Site proposé",
+   "Résultat"
+  ],
+  [
+   "1. Une ile du golfe Persique",
+   "Non retenu"
+  ],
+  [
+   "2. Un emplacement fluvial",
+   "Utilisé plus tard pour le second jardin"
+  ],
+  [
+   "3. Une longue péninsule étroite sur la côte orientale de la Méditerranée",
+   "Choisi — c’était presque une ile"
+  ]
+ ],
+ "73.b18.p": "Entourée de montagnes, la péninsule jouissait d’un climat salubre et d’une température régulière. Il pleuvait rarement sur Éden proprement dit, mais chaque nuit « ⟦Q 73:3.3⟧un brouillard s’élevait⟦/Q⟧ » des canaux d’irrigation pour rafraichir les plantes. Quatre affluents, prenant leur source dans les collines côtières de la péninsule, grossissaient un grand fleuve ; c’étaient les « quatre têtes » du fleuve qui « ⟦Q 73:3.4⟧sortait d’Éden⟦/Q⟧ ». Les montagnes environnantes abondaient en pierres et en métaux précieux, mais l’idée dominante était de glorifier l’horticulture et d’exalter l’agriculture.",
+ "73.b20.h": "4. L’établissement du Jardin",
+ "73.b21.p": "La demeure des Fils Matériels est souvent appelée le Jardin d’Éden, parce qu’elle reflète la beauté florale d’Édentia, la capitale de la constellation. Van consacra la péninsule tout entière au Jardin. Ses instructions étaient claires : Éden devait être un jardin, et seulement un jardin. Jamais aucun animal ne fut abattu dans son enceinte.",
+ "73.b22.t": [
+  [
+   "Construction",
+   "Description"
+  ],
+  [
+   "Mur principal",
+   "Un mur de briques à travers l’isthme de la péninsule — la première tâche"
+  ],
+  [
+   "Mur extérieur, plus petit",
+   "L’espace intermédiaire abritait des animaux sauvages : un jardin zoologique et une ligne de défense supplémentaire"
+  ],
+  [
+   "Douze divisions et douze portes",
+   "Des sentiers bordés de murs menaient, entre les divisions, aux douze portes du Jardin"
+  ],
+  [
+   "Zone centrale",
+   "Le fleuve et ses pâturages adjacents"
+  ]
+ ],
+ "73.b23.p": "Seuls des volontaires construisirent le Jardin ; on n’employa jamais de salariés. Les travailleurs subvenaient à leurs besoins par la culture et l’élevage, et les croyants des environs envoyaient des dons de nourriture. Quand Van proposa de former aussi la jeune génération, au cas où l’arrivée du Fils serait retardée, beaucoup y virent un manque de foi, et il y eut de nombreuses désertions. Van poursuivit son plan de préparation et combla les vides avec de jeunes volontaires.",
+ "73.b24.h": "5. Le foyer du Jardin",
+ "73.b25.p": "Au centre de la péninsule édénique se trouvait le temple de pierre du Père Universel, et les autres installations étaient disposées autour de lui. Les plans prévoyaient des foyers et des terres abondantes pour un million de personnes.",
+ "73.b26.t": [
+  [
+   "Emplacement",
+   "Installation"
+  ],
+  [
+   "Centre",
+   "Le temple du Père Universel, le sanctuaire sacré du Jardin"
+  ],
+  [
+   "Nord",
+   "Le quartier général administratif"
+  ],
+  [
+   "Sud",
+   "Les maisons des ouvriers et de leurs familles"
+  ],
+  [
+   "Ouest",
+   "Les terrains destinés aux écoles du système éducatif du Fils attendu"
+  ],
+  [
+   "À « ⟦Q 73:5.1|74:3.9|74:7.1⟧l’est d’Éden⟦/Q⟧ »",
+   "Les domiciles du Fils promis et de sa descendance directe"
+  ]
+ ],
+ "73.b27.p": "Quand Adam arriva, le Jardin n’était achevé qu’au quart, mais il avait déjà des milliers de kilomètres de rigoles d’irrigation, plus de vingt-mille kilomètres de routes et de sentiers pavés, et un peu plus de cinq-mille bâtiments en briques. Ses dispositifs sanitaires étaient très en avance sur tout ce que l’on avait tenté jusqu’alors sur Urantia : l’eau potable était soigneusement protégée, les déchets étaient enfouis, et l’on construisit plus tard un système couvert d’égouts en briques. Beaucoup de légumes et de céréales modernes y furent cultivés pour la première fois. Comme le dit le livre, jamais, ni avant ni depuis, Urantia n’a abrité une présentation aussi belle et aussi complète de l’horticulture et de l’agriculture.",
+ "73.b28.h": "6. L’arbre de vie",
+ "73.b29.p": "Au centre du temple du Jardin, Van planta l’arbre de vie, longtemps gardé. Il savait qu’Adam et Ève, une fois apparus sous forme matérielle, dépendraient eux aussi de ce don d’Édentia pour entretenir leur vie. « ⟦Q 73:6.3⟧L’arbre de la connaissance du bien et du mal⟦/Q⟧ » est peut-être une figure de rhétorique, mais l’arbre de vie n’était pas un mythe ; il était réel.",
+ "73.b30.t": [
+  [
+   "Le parcours de l’arbre",
+   "Détails"
+  ],
+  [
+   "Origine",
+   "Un arbuste d’Édentia, envoyé lors de la nomination de Caligastia comme Prince Planétaire"
+  ],
+  [
+   "Le règne du Prince",
+   "Il croissait dans la cour circulaire centrale du temple du Père"
+  ],
+  [
+   "Après la rébellion",
+   "Van le fit croitre de nouveau à partir du cœur ; il servit à Van et à Amadon pendant plus de cent-cinquante-mille ans"
+  ],
+  [
+   "Le Jardin d’Éden",
+   "Transplanté dans la cour d’un autre temple du Père"
+  ],
+  [
+   "La fin",
+   "Brulé avec le temple au cours d’une des guerres intestines des Nodites"
+  ]
+ ],
+ "73.b31.p": "Le fruit de cet arbre était comme une batterie d’accumulateurs superchimiques, qui retenait des énergies de l’espace contrecarrant le vieillissement de l’existence animale. Mais il était complètement inutile aux êtres évolutionnaires ordinaires ; il n’aidait que ceux qui possédaient un complément de vie. Aussi, quand on raconta aux Nodites qu’ils deviendraient comme « ⟦Q 73:6.7⟧des dieux s’ils mangeaient du fruit de l’arbre⟦/Q⟧ », ils en mangèrent pendant des années sans rien obtenir, et ils devinrent furieux. Désormais, toute chair sur Urantia suit le cours naturel de la vie et de la mort, et Adam, Ève et leurs descendants furent eux aussi placés sous le plan d’ascension dans lequel la résurrection sur les mondes des maisons suit la mort matérielle.",
+ "73.b32.h": "7. Le sort d’Éden",
+ "73.b33.p": "Après qu’Adam eut quitté le premier jardin, celui-ci fut occupé par un groupe après l’autre. Près de quatre-mille ans plus tard, au milieu d’une activité volcanique et de l’effondrement de l’isthme qui reliait la terre à l’Afrique, le fond oriental de la Méditerranée s’enfonça et entraina toute la péninsule sous les eaux. L’enfoncement fut graduel et dura plusieurs centaines d’années. Le livre considère cet évènement comme une occurrence naturelle, et non comme un avortement des plans divins ou une conséquence des fautes d’Adam et d’Ève. Il note pourtant que l’engloutissement survint à peu près au moment où les réserves de la race violette étaient rassemblées pour entreprendre la réhabilitation du monde.",
+ "73.b34.p": "Le Jardin ne fut jamais destiné à être la demeure permanente des Adamites. Les Melchizédeks conseillèrent à Adam de ne pas commencer le programme d’élévation des races avant que sa propre famille ne compte un demi-million de membres. Les Adamites devaient devenir les messagers d’une vie nouvelle pour le monde entier. Adam et Ève devaient se déplacer entre plusieurs capitales mondiales comme conseillers et coordinateurs d’un ministère mondial d’élévation biologique, de progrès intellectuel et de réhabilitation morale.",
+ "73.b36.h": "Conclusion",
+ "73.b37.p": "Le fascicule 73 est l’histoire de gens qui, dans un monde assombri par la rébellion, passèrent des dizaines d’années à aménager avec foi un jardin pour un Fils qui n’était pas encore venu. Van et Amadon, plus de trois-mille volontaires et les médians invisibles bâtirent un Éden qui fut l’unique point lumineux d’Urantia, avec le temple du Père et l’arbre de vie en son cœur. Pourtant, le Jardin ne fut jamais une demeure où rester ; c’était un point de départ pour aller au-dehors. De là, les Adamites devaient rassembler leurs forces et se donner au monde entier. Finalement, le Jardin brula et s’enfonça sous la mer, mais sa signification — la foi qui prépare et l’amour qui se donne sans égoïsme — vit encore dans le récit qui nous a été transmis.",
+ "73.b38.t": [
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "Les Nodites et les Amadonites",
+   "La culture de Dalamatia ne survécut que dans deux groupes rivaux"
+  ],
+  [
+   "Le projet de jardin",
+   "Van et les volontaires se préparèrent avec foi pour un Fils qui n’était pas encore venu"
+  ],
+  [
+   "L’emplacement du Jardin",
+   "Éden, sur une péninsule méditerranéenne, fut l’unique point lumineux du monde"
+  ],
+  [
+   "L’établissement du Jardin",
+   "Éden devait être un jardin, et seulement un jardin, et des volontaires le construisirent"
+  ],
+  [
+   "Le foyer du Jardin",
+   "Une cité et des terres cultivées avancées se développèrent autour du temple du Père"
+  ],
+  [
+   "L’arbre de vie",
+   "L’arbre de vie était réel, mais il ne faisait rien pour les mortels ordinaires"
+  ],
+  [
+   "Le sort d’Éden",
+   "Le Jardin s’enfonça, mais il avait toujours été conçu comme un lieu d’où l’on partirait"
+  ]
+ ],
+ "73.b39.h": "Points clés du fascicule 73",
+ "73.b40.box": "Éden fut l’œuvre de gens qui se préparèrent avec foi pour un Fils qui n’était pas encore venu ; ce ne fut jamais une demeure où rester, mais un point de départ pour se donner au monde entier."
+}

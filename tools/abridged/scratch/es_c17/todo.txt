@@ -1,0 +1,81 @@
+128.b10.q {
+"cit": "128:1.5",
+"en": "We have a Sovereign who was in all points tested and tempted like as we are, yet without sin.",
+"why": "128:1.5: sentence count en 4 vs es 3 in 128:1.5",
+"verses": {
+"128:1.5": "Es una eterna y gloriosa verdad que «tenemos un alto gobernante que sabe conmoverse con el sentimiento de nuestros debilidades. Tenemos un Soberano que fue probado y tentado en todos los aspectos como nosotros, pero no pecó». Puesto que él mismo sufrió, fue probado y comprobado, puede comprender y ministrar plenamente a los que están confundidos y agobiados."
+}
+}
+
+128.b26.q {
+"cit": "128:5.4",
+"en": "The house of Joseph has never received alms, and we cannot eat another's bread as long as I have strong arms and my brothers can labor.",
+"why": "128:5.4: sentence count en 5 vs es 6 in 128:5.4",
+"verses": {
+"128:5.4": "Jesús los escuchó atentamente, les agradeció su confianza, y, al rechazar la invitación de ir a Alejandría, les dijo en esencia: «Aún no ha llegado mi hora». Se quedaron desconcertados ante la aparente indiferencia de Jesús al honor que habían querido conferirle. Antes de despedirse de Jesús, quisieron entregarle una bolsa de dinero como muestra de la estima de sus amigos alejandrinos y en compensación por el tiempo y el gasto que incurrió Jesús al viajar a Cesarea para conferenciar con ellos. Pero él del mismo modo rehusó el dinero, diciendo: «La casa de José no ha recibido nunca limosnas; no podemos comer el pan de otro mientras tenga yo brazos fuertes y mis hermanos puedan trabajar»."
+}
+}
+
+129.b5.q {
+"cit": "129:4.7",
+"en": "Jesus is the new and living way from man to God, from the partial to the perfect, from the earthly to the heavenly, from time to eternity.",
+"why": "129:4.7: sentence count en 8 vs es 9 in 129:4.7",
+"verses": {
+"129:4.7": "Y era éste su verdadero y supremo propósito. No descendió a Urantia para vivir un ejemplo perfecto y detallado para cualquier niño o adulto, cualquier hombre o mujer, de esa época o de cualquier otra. De hecho todos podemos encontrar en su vida plena, rica, hermosa y noble mucho que es exquisitamente ejemplar, de inspiradora divinidad. Pero esto se debe a que vivió una vida verdadera y genuinamente humana. Jesús no vivió su vida en la tierra como un ejemplo para que la copiaran todos los demás seres humanos. Vivió su vida en la carne mediante el mismo ministerio de misericordia que todos vosotros podéis vivir vuestras vidas en la tierra; y así como vivió su vida mortal en su día y como él era, así pues dejó un ejemplo para que todos nosotros vivamos nuestras vidas en nuestros días y como somos. No podéis aspirar a vivir su vida, pero podéis resolver que viviréis vuestra vida, así como, y por los mismos medios que él vivió la suya. Puede que Jesús no sea el ejemplo técnico y detallado para todos los mortales de todas las edades en todos los reinos de este universo local, pero es perdurablemente la inspiración y el guía de todos los peregrinos al Paraíso que proceden de los mundos de ascensión inicial a través de un universo de universos y a través de Havona al Paraíso. Jesús es la senda nueva y viviente que va del hombre a Dios, desde lo parcial hasta lo perfecto, de lo terrenal a lo celestial, del tiempo a la eternidad."
+}
+}
+
+129.b25.q {
+"cit": "129:4.7",
+"en": "You may not aspire to live his life, but you can resolve to live your lives even as, and by the same means that, he lived his.",
+"why": "129:4.7: sentence count en 8 vs es 9 in 129:4.7",
+"verses": {
+"129:4.7": "Y era éste su verdadero y supremo propósito. No descendió a Urantia para vivir un ejemplo perfecto y detallado para cualquier niño o adulto, cualquier hombre o mujer, de esa época o de cualquier otra. De hecho todos podemos encontrar en su vida plena, rica, hermosa y noble mucho que es exquisitamente ejemplar, de inspiradora divinidad. Pero esto se debe a que vivió una vida verdadera y genuinamente humana. Jesús no vivió su vida en la tierra como un ejemplo para que la copiaran todos los demás seres humanos. Vivió su vida en la carne mediante el mismo ministerio de misericordia que todos vosotros podéis vivir vuestras vidas en la tierra; y así como vivió su vida mortal en su día y como él era, así pues dejó un ejemplo para que todos nosotros vivamos nuestras vidas en nuestros días y como somos. No podéis aspirar a vivir su vida, pero podéis resolver que viviréis vuestra vida, así como, y por los mismos medios que él vivió la suya. Puede que Jesús no sea el ejemplo técnico y detallado para todos los mortales de todas las edades en todos los reinos de este universo local, pero es perdurablemente la inspiración y el guía de todos los peregrinos al Paraíso que proceden de los mundos de ascensión inicial a través de un universo de universos y a través de Havona al Paraíso. Jesús es la senda nueva y viviente que va del hombre a Dios, desde lo parcial hasta lo perfecto, de lo terrenal a lo celestial, del tiempo a la eternidad."
+}
+}
+
+130.b5.q {
+"cit": "130:2.6",
+"en": "No man is a stranger to one who knows God.",
+"why": "130:2.6: partial sentence",
+"verses": {
+"130:2.6": "Por esta época Ganid, había empezado a darse cuenta de que su tutor empleaba sus ratos de ocio en este ministerio personal poco común para con sus semejantes, y el joven indio decidió descubrir el motivo de esta actividad incesante. Preguntó: «¿Por qué te ocupas continuamente de hablar con extraños?» Y Jesús respondió: «Ganid, ningún hombre es extraño para el que conoce a Dios. En la experiencia de encontrar al Padre en el cielo descubres que todos los hombres son tus hermanos, y ¿qué tiene de raro que uno se regocije con el encuentro con un hermano recién descubierto? Conocer a nuestros hermanos y hermanas, entender sus problemas y aprender a amarlos, es la suprema experiencia de la vida»."
+}
+}
+
+130.b38.q {
+"cit": "130:8.2",
+"en": "Your trouble is not that you cannot find God, for the Father has already found you",
+"why": "130:8.2: sentence count en 13 vs es 14 in 130:8.2",
+"verses": {
+"130:8.2": "Pasaron una semana completa en Siracusa. El evento más notable de esta escala fue la rehabilitación de Esdras, el judío descarriado, que era el tabernero del lugar donde Jesús y sus compañeros se hospedaban. Esdras estaba encantado de que Jesús le abordó y él le pidió que lo ayudara a volver a la fe de Israel. Expresó su desesperanza diciendo: «Quiero ser un verdadero hijo de Abraham, pero no consigo encontrar a Dios». Jesús le dijo: «Si realmente quieres encontrar a Dios, ese deseo es en sí prueba de que ya lo has encontrado. Tu problema no es que no puedas encontrar a Dios, porque el Padre ya te ha encontrado a ti; tu problema es simplemente que no conoces a Dios. ¿Acaso no has leído las palabras del profeta Jeremías: ‘me buscaréis y me hallaréis cuando me busquéis de todo vuestro corazón’? Acaso no dice también este mismo profeta: ‘y te daré corazón para que me conozcas que yo soy el Señor y tú pertenecerás a mi pueblo, y yo seré tu Dios’? ¿Y no has leído en las escrituras donde dice: ‘Él mira a los hombres, y si alguno dijere: he pecado y he pervertido lo que era justo, y no me ha aprovechado, entonces Dios librará el alma de ese hombre de la oscuridad, y verá la luz’?» Así Esdras encontró a Dios para satisfacción de su alma. Posteriormente, este judío, en sociedad con un próspero prosélito griego, construyó la primera iglesia cristiana en Siracusa."
+}
+}
+
+131.b38.q {
+"cit": "131:8.5",
+"en": "God does not reward man for what he does but for what he is",
+"why": "131:8.5: partial sentence",
+"verses": {
+"131:8.5": "«El Gran Supremo todo lo penetra; él está a la diestra y a la siniestra; él sostiene toda la creación y habita en todos los seres verdaderos. No puedes encontrar al Supremo, ni puedes ir a un lugar donde él no esté. Si un hombre reconoce el camino del mal y se arrepiente sinceramente del pecado, entonces podrá buscar el perdón; podrá liberarse del castigo; podrá transformar la calamidad en bendición. El Supremo es el refugio seguro de toda la creación; él es el guardián y el salvador de la humanidad. Si le buscas diariamente, lo encontrarás. Puesto que él puede perdonar pecados, es en verdad el más preciado por todos los hombres. Recuerda siempre que Dios no recompensa al hombre por lo que hace sino por lo que es; por tanto, socorre a tus semejantes sin pensar en recompensas. Haz el bien sin pensar en beneficiarte."
+}
+}
+
+131.b47.q {
+"cit": "131:10.8",
+"en": "At last I have a religion with a God, a marvelous God, and he is a God of eternal salvation.",
+"why": "131:10.8: sentence count en 10 vs es 7 in 131:10.8",
+"verses": {
+"131:10.8": "«De aquí en adelante haré mis actos de bondad en secreto; también oraré especialmente cuando me encuentre a solas. No juzgaré, para no caer en la injusticia para con mis semejantes. Voy a aprender a amar a mis enemigos; en verdad aún no domino completamente esta práctica de ser semejante a Dios. Aunque veo a Dios en estas otras religiones, lo encuentro en ‘nuestra religión’ más bello, amante, misericordioso, personal y positivo. Pero sobre todo, este Ser grande y glorioso es mi Padre espiritual; yo soy su hijo. Y no podré finalmente encontrarlo y eternamente servirle sino por medio de mi honesto deseo de asemejarme a él. Por fin tengo una religión con un Dios, un Dios maravilloso, y él es el Dios de la salvación eterna»."
+}
+}
+
+134.b5.q {
+"cit": "134:8.8",
+"en": "The will of my Father in Paradise be done.",
+"why": "134:8.8: sentence count en 2 vs es 3 in 134:8.8",
+"verses": {
+"134:8.8": "Ante todas las componendas y expedientes temporales sugeridas por Lucifer, ante todas esas engañosas propuestas relativas al autootorgamiento en forma de encarnación, Jesús solamente tenía una respuesta: «Que se haga la voluntad de mi Padre que está en el Paraíso». Cuando la dura prueba hubo terminado, el serafín guardián volvió al lado de Jesús para confortarle."
+}
+}
+

@@ -1,0 +1,2213 @@
+{
+ "ui.title": "El libro de Urantia, edición abreviada",
+ "ui.sub": "El Prólogo y los 196 documentos en una forma más breve y fácil de leer",
+ "ui.by": "por Jay Han",
+ "ui.copy": "El libro de Urantia, edición abreviada · Jay Han · 2026<br>Las citas se reproducen palabra por palabra de la traducción oficial al español de El libro de Urantia, publicada por la Fundación Urantia. Al citar los resúmenes, por favor mencione esta edición.",
+ "ui.label_foreword": "Prólogo",
+ "ui.label_paper": "Documento {n}",
+ "ui.toc_mark_foreword": "Pról.",
+ "ui.contents": "☰ Contenido",
+ "ui.scope_title": "Hasta dónde leer",
+ "ui.scope_ch": "Este documento",
+ "ui.scope_all": "Seguir leyendo",
+ "ui.listen": "▶ Escuchar",
+ "ui.pause": "⏸ Pausa",
+ "ui.stop": "■ Detener",
+ "ui.voice_title": "Voz",
+ "ui.speed_title": "Velocidad",
+ "ui.search_ph": "Buscar un documento o un título",
+ "ui.loading": "Cargando…",
+ "ui.nothing": "No se encontró nada.",
+ "ui.prev": "← Anterior",
+ "ui.next": "Siguiente →",
+ "ui.para_listen": "Escuchar este párrafo",
+ "ui.std_voice": "Voz estándar (la misma en todos los navegadores)",
+ "ui.copy_limit": "Puede citar, pero no copiar más de {n} caracteres a la vez.",
+ "ui.no_bulk": "Este libro no se puede copiar, guardar ni imprimir completo.",
+ "ui.no_print": "Este libro no se puede imprimir. Por favor, léalo en la pantalla.",
+ "ui.load_fail": "No se pudo cargar el texto. Compruebe su conexión y vuelva a cargar esta página.",
+ "ui.cite_title": "Abrir este pasaje en El libro de Urantia",
+ "0.title": "Prólogo",
+ "0.b1.h": "Panorama general",
+ "0.b2.p": "El Prólogo de El libro de Urantia no expone una doctrina propia. Se escribió para explicar de antemano los términos clave que aparecerán una y otra vez a lo largo del libro: Dios, divinidad, Deidad, realidad, personalidad, energía, los Absolutos y la Trinidad.",
+ "0.b3.p": "El lenguaje humano es demasiado limitado para expresar por completo las vastas realidades del universo. Por eso los reveladores nos dicen que usarán palabras corrientes siempre que puedan, y que introducirán términos nuevos solo cuando ninguna palabra conocida pueda transmitir el concepto.",
+ "0.b4.p": "Lo más importante al leer el Prólogo es no intentar captar todas las ideas de una vez. Resulta mucho más fácil si se lo piensa como un mapa: un mapa que muestra cómo está ordenado el universo entero y cómo se relaciona con la realidad divina.",
+ "0.b5.t": [
+  [
+   "El universo",
+   "En palabras sencillas"
+  ],
+  [
+   "Urantia",
+   "El nombre del mundo en que vivimos"
+  ],
+  [
+   "Nebadon",
+   "El universo local al que pertenece Urantia"
+  ],
+  [
+   "Orvonton",
+   "Uno de los siete superuniversos; Nebadon pertenece a él"
+  ],
+  [
+   "Havona",
+   "El universo central, eterno y perfecto, que está en el centro de los siete superuniversos"
+  ],
+  [
+   "El Paraíso",
+   "El centro de todos los universos y la morada del Dios eterno"
+  ],
+  [
+   "El gran universo",
+   "Havona y los siete superuniversos juntos: la creación ya organizada y habitada"
+  ],
+  [
+   "El universo maestro",
+   "Un todo aún mayor, que abarca también los universos del espacio exterior"
+  ]
+ ],
+ "0.b6.h": "El documento",
+ "0.b7.h": "I. La Deidad y la Divinidad",
+ "0.b8.p": "En el Prólogo, Deidad es una idea más amplia que Dios. La Deidad puede ser personal, pero también puede actuar de maneras prepersonales o superpersonales.",
+ "0.b9.p": "La divinidad, en cambio, es la cualidad unificadora y coordinadora que muestra la Deidad. Captamos la divinidad como verdad, belleza y bondad; en las relaciones personales la experimentamos como amor, misericordia y ministerio.",
+ "0.b10.t": [
+  [
+   "Nivel de función de la Deidad",
+   "Qué significa"
+  ],
+  [
+   "1. Estático",
+   "La Deidad contenida en sí misma y existente por sí misma"
+  ],
+  [
+   "2. Potencial",
+   "La Deidad con voluntad y propósito: la Deidad como posibilidad"
+  ],
+  [
+   "3. Asociativo",
+   "La Deidad en relación personal y en comunión divina"
+  ],
+  [
+   "4. Creativo",
+   "La Deidad que se distribuye y se revela"
+  ],
+  [
+   "5. Evolutivo",
+   "La Deidad que crece junto con sus criaturas y se expande"
+  ],
+  [
+   "6. Supremo",
+   "La Deidad que unifica la experiencia criatura-Creador en el tiempo y el espacio"
+  ],
+  [
+   "7. Último",
+   "La Deidad que actúa en el nivel absonito, más allá del tiempo y el espacio"
+  ]
+ ],
+ "0.b12.h": "II. Dios",
+ "0.b13.p": "El Prólogo siempre une la palabra Dios a la personalidad. Cuando el contexto no es claro, Dios suele significar el Padre Universal.",
+ "0.b14.t": [
+  [
+   "Nombre",
+   "Significado central"
+  ],
+  [
+   "Dios el Padre",
+   "Creador, Controlador y Sustentador: el Padre Universal"
+  ],
+  [
+   "Dios el Hijo",
+   "Creador Coordinado y Controlador Espiritual: el Hijo Eterno"
+  ],
+  [
+   "Dios el Espíritu",
+   "Actor Conjunto, Integrador Universal y Otorgador de la Mente: el Espíritu Infinito"
+  ],
+  [
+   "Dios el Supremo",
+   "El Dios que evoluciona y se experimenta en el tiempo y el espacio"
+  ],
+  [
+   "Dios el Séptuple",
+   "La Deidad revelada en siete etapas, para que las criaturas del tiempo y el espacio puedan acercarse a Dios"
+  ],
+  [
+   "Dios el Último",
+   "El Dios experiencial del nivel absonito, más allá del tiempo y el espacio"
+  ],
+  [
+   "Dios el Absoluto",
+   "El Dios que llega a ser experiencialmente real en el nivel absoluto"
+  ]
+ ],
+ "0.b15.p": "Lo importante es que Dios no es una idea simple. La palabra abarca las muchas maneras en que la Deidad personal se revela en distintos niveles.",
+ "0.b16.h": "III. La Primera Fuente y Centro",
+ "0.b17.p": "Como Primera Fuente y Centro, el Padre Universal es la fuente de toda realidad. En último término, ninguna cosa y ningún ser puede existir aparte de él.",
+ "0.b18.t": [
+  [
+   "Los siete Absolutos coordinados",
+   "En resumen"
+  ],
+  [
+   "La Primera Fuente y Centro",
+   "El Padre Universal, fuente de toda realidad"
+  ],
+  [
+   "La Segunda Fuente y Centro",
+   "El Hijo Eterno"
+  ],
+  [
+   "La Tercera Fuente y Centro",
+   "El Espíritu Infinito"
+  ],
+  [
+   "La Isla del Paraíso",
+   "El centro absoluto de la gravedad material y de la realidad física"
+  ],
+  [
+   "El Absoluto de Deidad",
+   "El absoluto del potencial divino"
+  ],
+  [
+   "El Absoluto Universal",
+   "El equilibrio y coordinador entre la realidad deificada y la no deificada"
+  ],
+  [
+   "El Absoluto No Cualificado",
+   "El potencial cósmico no personal e ilimitado"
+  ]
+ ],
+ "0.b19.p": "Como la eternidad y la infinidad son tan difíciles de captar para nosotros, el Prólogo usa el término filosófico el YO SOY. No significa que haya habido un verdadero punto de partida en el tiempo. Es una manera de describir, para nuestro pensamiento atado al tiempo, una realidad que no tiene principio ni fin.",
+ "0.b20.h": "IV. La Realidad del Universo",
+ "0.b21.p": "La realidad del universo no existe en una sola forma. El Prólogo describe tres grandes fases: la realidad deificada, la realidad no deificada y la realidad interasociada que une a las dos.",
+ "0.b22.t": [
+  [
+   "Fase",
+   "Descripción"
+  ],
+  [
+   "Realidad no deificada",
+   "El dominio de la energía no personal y de la realidad material"
+  ],
+  [
+   "Realidad deificada",
+   "El dominio de la realidad divina y espiritual, todo lo que puede personalizarse"
+  ],
+  [
+   "Realidad interasociada",
+   "La realidad que une los dos dominios y los mantiene en relación y equilibrio"
+  ]
+ ],
+ "0.b23.t": [
+  [
+   "Vista desde el tiempo y el espacio",
+   "Dicho de forma sencilla"
+  ],
+  [
+   "Actual / Potencial",
+   "Lo que ya está expresado / lo que todavía existe como posibilidad"
+  ],
+  [
+   "Absoluto / Subabsoluto / Finito",
+   "Niveles de realidad, según cuánto trascienden el tiempo y el espacio"
+  ],
+  [
+   "Existencial / Experiencial",
+   "Lo que ha existido desde la eternidad / lo que llega a ser real mediante la experiencia y la evolución"
+  ],
+  [
+   "Personal / Impersonal",
+   "Lo que existe como persona / la realidad que no es persona"
+  ]
+ ],
+ "0.b24.p": "El Paraíso no es una personalidad creadora. Es el centro absoluto de la realidad física y de la gravedad. Por eso el Prólogo nunca identifica el Paraíso con Dios.",
+ "0.b25.h": "V. Las Realidades de la Personalidad",
+ "0.b26.p": "La personalidad no surge por sí sola; es un don único del Padre Universal. La personalidad no es el cuerpo, ni la mente, ni el espíritu, ni el alma. Es la realidad duradera que unifica todo esto en un solo yo.",
+ "0.b27.t": [
+  [
+   "En la experiencia humana",
+   "En palabras sencillas"
+  ],
+  [
+   "Cuerpo",
+   "El organismo vivo, material y físico"
+  ],
+  [
+   "Mente",
+   "La facultad intelectual y emocional de pensar, sentir y juzgar"
+  ],
+  [
+   "Espíritu",
+   "El Ajustador del Pensamiento que mora en la mente humana"
+  ],
+  [
+   "Alma",
+   "Una realidad morontial que crece mediante las decisiones humanas y la obra del Ajustador del Pensamiento"
+  ],
+  [
+   "Personalidad",
+   "La identidad única dada por el Padre Universal, que unifica cuerpo, mente, espíritu y alma"
+  ]
+ ],
+ "0.b29.h": "VI. La Energía y el Modelo",
+ "0.b30.p": "El Prólogo usa la palabra energía en sentido amplio: no solo para el reino material, sino también para los reinos del espíritu y de la mente. Y explica que el universo tiene circuitos y centros que conectan cada uno de estos reinos.",
+ "0.b31.t": [
+  [
+   "Término",
+   "Significado"
+  ],
+  [
+   "Personal",
+   "Todo lo que responde al circuito de personalidad del Padre"
+  ],
+  [
+   "Espíritu",
+   "Todo lo que responde al circuito espiritual del Hijo"
+  ],
+  [
+   "Mente",
+   "Todo lo que responde al circuito mental del Espíritu Infinito"
+  ],
+  [
+   "Material",
+   "La energía-materia que responde a la gravedad material del Paraíso"
+  ]
+ ],
+ "0.b32.t": [
+  [
+   "Etapa de la energía física",
+   "Dicho de forma sencilla"
+  ],
+  [
+   "Fuerza cósmica",
+   "Energía temprana que todavía no responde ni siquiera a la gravedad del Paraíso"
+  ],
+  [
+   "Energía emergente",
+   "Energía que responde a la gravedad del Paraíso, pero todavía no a la gravedad local o lineal"
+  ],
+  [
+   "Poder del universo",
+   "Energía material que responde tanto a la gravedad del Paraíso como a la gravedad lineal"
+  ]
+ ],
+ "0.b33.p": "Un modelo es un diseño original a partir del cual pueden hacerse copias. El Paraíso es el absoluto de los modelos, y el Hijo Eterno es descrito como la personalidad modelo.",
+ "0.b34.h": "VII. El Ser Supremo",
+ "0.b35.p": "El Prólogo divide la Deidad en existencial y experiencial. El Padre, el Hijo y el Espíritu han existido desde la eternidad. Pero el Ser Supremo es Deidad experiencial, que va llegando a ser real en los universos del tiempo y el espacio a medida que se acumula la experiencia de las criaturas y de los Creadores.",
+ "0.b36.t": [
+  [
+   "Clase",
+   "Descripción"
+  ],
+  [
+   "Existencial",
+   "La Deidad que existe eternamente: pasado, presente y futuro"
+  ],
+  [
+   "Experiencial",
+   "La Deidad que llega a ser real mediante la historia del universo y la experiencia de las criaturas"
+  ]
+ ],
+ "0.b37.p": "Ayuda pensar en el Ser Supremo no como un creador que lo hace todo directamente, sino como aquel que reúne y unifica toda la experiencia de las criaturas y de los Creadores en el tiempo y el espacio.",
+ "0.b38.h": "VIII. Dios el Séptuplo",
+ "0.b39.p": "Los seres humanos finitos no pueden llegar al Dios infinito de un solo paso. Por eso, explica el Prólogo, el Padre Universal ha establecido a Dios el Séptuple: un camino de acercamiento por el cual las criaturas evolutivas pueden descubrir a Dios etapa por etapa.",
+ "0.b40.t": [
+  [
+   "Etapa",
+   "Dios el Séptuple"
+  ],
+  [
+   "1",
+   "Los Hijos Creadores del Paraíso"
+  ],
+  [
+   "2",
+   "Los Ancianos de los Días"
+  ],
+  [
+   "3",
+   "Los Siete Espíritus Rectores"
+  ],
+  [
+   "4",
+   "El Ser Supremo"
+  ],
+  [
+   "5",
+   "Dios el Espíritu"
+  ],
+  [
+   "6",
+   "Dios el Hijo"
+  ],
+  [
+   "7",
+   "Dios el Padre"
+  ]
+ ],
+ "0.b41.p": "El descubrimiento de Dios por parte de un mortal comienza con el Hijo Creador de nuestro cercano universo local, sube paso a paso a niveles más altos de divinidad y llega por fin al reconocimiento del Padre Universal.",
+ "0.b42.h": "IX. Dios el Último",
+ "0.b43.p": "Dios el Último es un nivel de Deidad experiencial más alto que el Ser Supremo. Si el Supremo unifica sobre todo la experiencia finita de los universos del tiempo y el espacio, el Último es la Deidad que llega a ser real en el nivel absonito, más allá del tiempo y el espacio.",
+ "0.b44.p": "Por eso Dios el Último está muy lejos de todo lo que los seres humanos pueden experimentar ahora. Se lo presenta como una expresión de la divinidad ligada al gran desarrollo futuro del universo maestro.",
+ "0.b45.h": "X. Dios el Absoluto",
+ "0.b46.p": "El Prólogo habla de Dios el Absoluto con gran cuidado. El término señala una divinidad que llegará a ser experiencialmente real en el nivel absoluto, mucho más allá de todo lo que las mentes finitas pueden comprender hoy.",
+ "0.b47.p": "El propio Prólogo admite que no puede explicar del todo este nivel. Por eso conviene recibirlo no como algo que haya que entender por completo, sino como el horizonte más lejano de la posibilidad cósmica.",
+ "0.b48.h": "XI. Los Tres Absolutos",
+ "0.b49.p": "El Prólogo explica el potencial infinito del universo mediante la relación de los tres Absolutos. Son distintos en su función, pero al final están unidos en un solo todo infinito.",
+ "0.b50.t": [
+  [
+   "El Absoluto",
+   "Su función, en palabras sencillas"
+  ],
+  [
+   "El Absoluto de Deidad",
+   "El potencial infinito que es divino y puede personalizarse"
+  ],
+  [
+   "El Absoluto No Cualificado",
+   "La fuerza y el potencial cósmicos, no personales e ilimitados"
+  ],
+  [
+   "El Absoluto Universal",
+   "La realidad que ajusta y equilibra la tensión entre el Absoluto de Deidad y el Absoluto No Cualificado"
+  ]
+ ],
+ "0.b52.h": "XII. Las Trinidades",
+ "0.b53.p": "La Trinidad del Paraíso es la unión eterna de Deidad del Padre Universal, el Hijo Eterno y el Espíritu Infinito. Es una Trinidad existencial, sin principio.",
+ "0.b54.p": "Sin embargo, en la evolución del universo hay también Trinidades experienciales —la Trinidad Última y la Trinidad Absoluta— que el Prólogo describe como todavía en proceso de llegar a ser reales.",
+ "0.b55.t": [
+  [
+   "Trinidad",
+   "Naturaleza"
+  ],
+  [
+   "La Trinidad del Paraíso",
+   "La Trinidad existencial, que existe desde la eternidad"
+  ],
+  [
+   "La Trinidad Última",
+   "La primera Trinidad experiencial, ahora en evolución"
+  ],
+  [
+   "La Trinidad Absoluta",
+   "La segunda Trinidad experiencial, ahora en proceso de actualización"
+  ]
+ ],
+ "0.b56.p": "Una Trinidad no es simplemente tres seres llamados con un solo nombre. Es una estructura real del universo: una estructura de relación y unidad divinas.",
+ "0.b57.h": "Reconocimiento",
+ "0.b58.p": "Los reveladores explican que, al escribir estos documentos, aprovecharon plenamente los conceptos filosóficos y religiosos más elevados que los seres humanos ya habían descubierto. Solo donde las ideas humanas existentes no podían transmitir la verdad añadieron un conocimiento cósmico superior.",
+ "0.b59.p": "También admiten que es imposible traducir por completo la eternidad y la divinidad al lenguaje humano. Sin embargo, como un fragmento de Dios, el Ajustador del Pensamiento, mora en la mente humana, y como el Espíritu de la Verdad está obrando, los seres humanos pueden llegar poco a poco a comprender los valores espirituales y los significados del universo.",
+ "0.b60.h": "Conclusión",
+ "0.b61.t": [
+  [
+   "El Prólogo no es un capítulo de respuestas para memorizar; es un mapa de conceptos para leer todo El libro de Urantia."
+  ],
+  [
+   "Sección",
+   "Mensaje clave"
+  ],
+  [
+   "I. La Deidad y la Divinidad",
+   "La Deidad es un concepto cósmico amplio; la divinidad es su cualidad unificadora"
+  ],
+  [
+   "II. Dios",
+   "Dios significa la Deidad personalizada"
+  ],
+  [
+   "III. La Primera Fuente y Centro",
+   "El Padre Universal es la fuente de toda realidad"
+  ],
+  [
+   "IV. La Realidad del Universo",
+   "La realidad del universo aparece como deificada, no deificada e interasociada"
+  ],
+  [
+   "V. Las Realidades de la Personalidad",
+   "La personalidad es un don único del Padre Universal"
+  ],
+  [
+   "VI. La Energía y el Modelo",
+   "La energía actúa en muchos niveles; un modelo es el original del que se hacen copias"
+  ],
+  [
+   "VII. El Ser Supremo",
+   "El Ser Supremo evoluciona a medida que unifica la experiencia del tiempo y el espacio"
+  ],
+  [
+   "VIII. Dios el Séptuplo",
+   "El camino por el que las criaturas finitas se acercan a Dios paso a paso"
+  ],
+  [
+   "IX. Dios el Último",
+   "El Dios experiencial del nivel absonito, más allá del tiempo y el espacio"
+  ],
+  [
+   "X. Dios el Absoluto",
+   "La divinidad que llegará a ser real en el nivel absoluto"
+  ],
+  [
+   "XI. Los Tres Absolutos",
+   "Tres fases funcionales del potencial infinito"
+  ],
+  [
+   "XII. Las Trinidades",
+   "La estructura cósmica de relación y unidad divinas"
+  ]
+ ],
+ "0.b62.h": "Puntos clave del Prólogo",
+ "0.b63.p": "El Prólogo de El libro de Urantia nos lleva más allá de la sola palabra familiar Dios. Muestra cómo la divinidad, la realidad, la personalidad, el universo, los Absolutos y la Trinidad están todos conectados entre sí.",
+ "0.b64.p": "Al principio puede parecer difícil, pero no hace falta memorizar todos los términos de una vez. A medida que lea cada documento siguiente, vuelva al Prólogo y compruebe dónde encaja cada idea.",
+ "0.b65.box": "Primero ver toda la estructura → aprender los términos → leer cada documento y volver otra vez al Prólogo.",
+ "1.title": "El Padre Universal",
+ "1.b0.ask": "«¿Es Dios una persona, y no una fuerza o una ley?»",
+ "1.b1.h": "Panorama general",
+ "1.b2.p": "El documento 1 abre la puerta a todo El libro de Urantia. Trata de una sola pregunta: ¿quién es Dios?",
+ "1.b3.p": "El documento comienza poniendo orden en nuestro pensamiento. Primero hay que pensar en Dios como creador, luego como controlador y, por último, como sustentador infinito.",
+ "1.b4.p": "Sin embargo, el punto en que más insiste el documento 1 está en otra parte. Dios no es una fuerza inmensa ni una ley de la naturaleza, sino una verdadera persona: alguien que puede conocer y ser conocido, que puede amar y ser amado.",
+ "1.b5.p": "Y esta persona nos ha dado un mandato. No tiene el propósito de asustarnos. Es una invitación que nos sigue llamando hacia adelante, sin fin.",
+ "1.b7.h": "El documento",
+ "1.b8.h": "1. El Nombre del Padre",
+ "1.b9.p": "Sorprendentemente, Dios nunca se ha revelado por un nombre, sino solo por su naturaleza.",
+ "1.b10.p": "Por eso los nombres que las criaturas dan a su Creador muestran cómo lo comprenden. Cuando lo llamamos Padre, ese es un nombre que nosotros elegimos, y nace de nuestro reconocimiento de una relación personal con él.",
+ "1.b11.t": [
+  [
+   "Dónde",
+   "Cómo se llama a Dios"
+  ],
+  [
+   "Cerca del centro del universo de universos",
+   "La Primera Fuente"
+  ],
+  [
+   "Más lejos, en los universos del espacio",
+   "El Centro Universal"
+  ],
+  [
+   "Aún más lejos, como en la sede central de nuestro universo local",
+   "La Primera Fuente Creadora y el Centro Divino"
+  ],
+  [
+   "Una constelación cercana",
+   "El Padre de los Universos"
+  ],
+  [
+   "En otros lugares",
+   "El Sustentador Infinito; hacia el este, el Controlador Divino"
+  ],
+  [
+   "Otros nombres",
+   "El Padre de las Luces, el Don de Vida, el Único Todopotente"
+  ],
+  [
+   "La sede central de nuestra constelación",
+   "El Padre Universal"
+  ],
+  [
+   "Otros planetas de nuestro sistema local",
+   "El Padre de Padres, el Padre Paradisiaco, el Padre de Havona, el Padre Espíritu"
+  ],
+  [
+   "Urantia",
+   "Dios"
+  ],
+  [
+   "Los que lo conocen por los autootorgamientos de los Hijos Paradisiacos",
+   "«Nuestro Padre»"
+  ]
+ ],
+ "1.b12.p": "Tantos nombres no significan confusión. Significan que el mismo Ser ha sido encontrado desde muchos lugares distintos. Sea cual sea el nombre que usemos, lo que importa es que lo conozcamos y aspiremos a ser como él.",
+ "1.b13.p": "Hay algo más que conviene recordar. Dios nunca impone a nadie el reconocimiento, la adoración formal ni el servicio servil. Solo hay una cosa que de verdad podemos darle: la libre elección de hacer la voluntad del Padre. Esa elección es la realidad de la verdadera adoración.",
+ "1.b14.h": "2. La Realidad de Dios",
+ "1.b15.p": "Dios es la realidad primordial en el mundo del espíritu, la fuente de la verdad en el ámbito de la mente, y lo cubre todo con su sombra en los reinos materiales. Sin embargo, Dios no es ni semejante al hombre ni semejante a una máquina.",
+ "1.b16.p": "Luego el documento 1 enumera, una por una, las cosas que Dios no es. La lista muestra lo pequeñas que a menudo han sido nuestras ideas sobre Dios.",
+ "1.b17.t": [
+  [
+   "Dios no es…",
+   "Dios es…"
+  ],
+  [
+   "Simplemente el deseo supremo del hombre, la búsqueda humana convertida en objeto",
+   "Una realidad trascendente, muy por encima de las ideas humanas de los valores supremos"
+  ],
+  [
+   "Un sinónimo de la naturaleza, ni la ley natural con rostro humano",
+   "Espíritu universal, verdad eterna, realidad infinita y personalidad paterna"
+  ],
+  [
+   "Meramente un concepto, el potencial de poder de la rectitud",
+   "Una persona salvadora y un Padre amante"
+  ],
+  [
+   "Una proyección de los significados espirituales, «⟦Q 1:2.2⟧la obra más noble del hombre⟦/Q⟧»",
+   "Cualquiera de estas cosas o todas ellas en la mente de los hombres, pero siempre más"
+  ]
+ ],
+ "1.b18.p": "¿Cómo sabemos, entonces, que Dios existe? La respuesta del documento es clara. Lo conocemos en la experiencia humana, por la presencia del Ajustador del Pensamiento que vive dentro de nosotros. Esa presencia se manifiesta de tres maneras.",
+ "1.b19.t": [
+  [
+   "Experiencia interior",
+   "Qué es"
+  ],
+  [
+   "Conciencia de Dios",
+   "La capacidad intelectual de conocer a Dios"
+  ],
+  [
+   "Búsqueda de Dios",
+   "El impulso espiritual de encontrar a Dios"
+  ],
+  [
+   "Hacer la voluntad del Padre",
+   "El anhelo de la personalidad de ser como Dios: el deseo sincero de hacer su voluntad"
+  ]
+ ],
+ "1.b20.p": "Por eso la existencia de Dios nunca puede probarse con experimentos científicos ni con la pura lógica. Dios solo puede ser comprendido en la experiencia humana. Aun así, la verdadera idea de Dios es razonable para la lógica, plausible para la filosofía y esencial para la religión.",
+ "1.b21.p": "Aquí cabe otro hecho. El Padre Universal no es el creador personal de nuestro universo local. Nebadon es la creación de su Hijo Micael. Aun así, el Padre lo controla de muchas maneras y, por medio de su espíritu fragmentado, mantiene un contacto directo con cada uno de sus hijos.",
+ "1.b22.h": "3. Dios es un Espíritu Universal",
+ "1.b23.p": "«⟦Q 1:3.1|1:3.8|1:6.8⟧Dios es espíritu⟦/Q⟧». Ser creados «⟦Q 1:3.1⟧a su imagen⟦/Q⟧» no significa que nos parezcamos a Dios. Significa que en nosotros moran los Monitores Misteriosos enviados desde su propia presencia.",
+ "1.b24.p": "Dios no es invisible porque se esconda de sus humildes criaturas. Todo lo contrario: la gloria y el resplandor de su presencia son tan grandes que ningún ser material puede acercarse a ellos.",
+ "1.b25.p": "Pero no hay motivo para desanimarse. No necesitamos los ojos de la carne para discernirlo. Basta la visión de fe de una mente espiritualizada.",
+ "1.b26.p": "Aquí el documento 1 muestra la bifurcación del camino que decide toda una vida. La mente humana está unida a la materia y, por sí sola, no puede sobrevivir a la muerte. Todo depende de aquello a lo que esa mente se entrega.",
+ "1.b27.t": [
+  [
+   "A qué se entrega la mente",
+   "Adónde conduce"
+  ],
+  [
+   "La mente sometida a la materia",
+   "Se vuelve cada vez más material y al final sufre la extinción de la personalidad"
+  ],
+  [
+   "La mente entregada al espíritu",
+   "Se vuelve cada vez más espiritual, alcanza la unidad con el espíritu divino que la guía y logra la supervivencia y la vida eterna"
+  ]
+ ],
+ "1.b28.p": "El Consejero Divino que presenta este documento da testimonio personal: aunque el gran Dios es absoluto, eterno e infinito, también es bueno, divino y misericordioso.",
+ "1.b29.h": "4. El Misterio de Dios",
+ "1.b30.p": "Como la perfección de Dios es infinita, él siempre será un misterio. Pero entre todos sus misterios, el documento 1 señala el más profundo.",
+ "1.b31.p": "No es el tamaño del universo ni la duración de la eternidad. Es el hecho de que Dios vive dentro de la mente humana. Este es el misterio de los misterios.",
+ "1.b33.p": "Al final, el misterio divino está en la gran distancia entre dos clases de realidad muy diferentes:",
+ "1.b34.t": [
+  [
+   "De un lado",
+   "Del otro"
+  ],
+  [
+   "Lo finito",
+   "Lo infinito"
+  ],
+  [
+   "Lo temporal",
+   "Lo eterno"
+  ],
+  [
+   "La criatura del tiempo y el espacio",
+   "El Creador Universal"
+  ],
+  [
+   "Lo material",
+   "Lo espiritual"
+  ],
+  [
+   "La imperfección del hombre",
+   "La perfección de la Deidad del Paraíso"
+  ]
+ ],
+ "1.b35.p": "Sin embargo, Dios actúa a través de esa distancia. Se revela sin falta a cada una de sus criaturas, tan plenamente como cada una es capaz de captarlo espiritualmente. Dios no hace acepción de personas.",
+ "1.b36.p": "Así que cuánto conozco hoy de Dios no depende de cuánto se esconda él. Depende de cuánto soy capaz de recibir.",
+ "1.b37.h": "5. La Personalidad del Padre Universal",
+ "1.b38.p": "Esta sección es el corazón del documento 1. No deje que la grandeza de Dios, su infinidad, le oculte su personalidad.",
+ "1.b39.p": "«⟦Q 1:5.1⟧Aquel que concibió el oído, ¿no oirá? Aquel que formó el ojo, ¿no verá?⟦/Q⟧» Dios es a la vez infinito y personal; es una personalidad infinita.",
+ "1.b40.p": "¿Qué ocurre si negamos que Dios es una persona? El documento 1 dice que solo quedan dos opciones.",
+ "1.b41.t": [
+  [
+   "La opción",
+   "Lo que afirma",
+   "Dónde se equivoca"
+  ],
+  [
+   "Materialismo",
+   "El hombre pierde su cuerpo al morir, así que su personalidad deja de existir",
+   "Supone que la personalidad necesita un cuerpo material"
+  ],
+  [
+   "Panteísmo",
+   "Dios no tiene cuerpo, así que no es una persona",
+   "Hace la misma suposición desde el otro lado"
+  ]
+ ],
+ "1.b42.p": "Ambos extremos nacen del mismo error: la idea de que una persona debe tener una forma física. Pero el cuerpo material no es necesario para la personalidad, ni en el hombre ni en Dios.",
+ "1.b43.p": "La personalidad no es solo uno de los atributos de Dios. Representa la totalidad de su naturaleza infinita coordinada y de su voluntad divina unificada. Es la revelación de Dios al universo de universos.",
+ "1.b44.p": "Y esta persona no se limita a observarnos desde lejos. El Dios infinito participa directamente en la lucha ascendente de cada alma imperfecta. Por eso estas palabras no son una figura retórica, sino literalmente verdaderas:",
+ "1.b46.h": "6. La Personalidad en el Universo",
+ "1.b47.p": "La personalidad humana es la sombra-imagen que proyecta en el tiempo y el espacio la personalidad divina del Creador. Nadie puede comprender del todo una realidad estudiando su sombra. Las sombras deben entenderse a la luz de la sustancia verdadera.",
+ "1.b48.p": "El mismo Dios se ve muy distinto según dónde estemos.",
+ "1.b49.t": [
+  [
+   "Quién mira",
+   "Qué es Dios"
+  ],
+  [
+   "El científico",
+   "Una fuerza primordial, la Primera Causa"
+  ],
+  [
+   "El filósofo",
+   "Una hipótesis de unidad"
+  ],
+  [
+   "El religioso",
+   "Una experiencia espiritual viviente, el amante Padre celestial"
+  ]
+ ],
+ "1.b50.p": "También debemos recordar que Dios y el hombre ven la personalidad desde extremos opuestos. El hombre mira hacia arriba, de lo finito a lo infinito; Dios mira hacia abajo, de lo infinito a lo finito.",
+ "1.b51.p": "Por eso las mejores ideas sobre la personalidad de Dios tuvieron que esperar a mejores ideas sobre la personalidad humana. Ambas se revelaron juntas en un solo lugar: la vida de autootorgamiento de Micael, el Hijo Creador, aquí en Urantia.",
+ "1.b52.p": "Podemos discutir opiniones sobre Dios. Pero la experiencia con Dios está por encima de toda discusión. Por eso quienes conocen a Dios comparten su experiencia no para ganar debates con los incrédulos, sino para animar a los demás creyentes.",
+ "1.b53.h": "7. El Valor Espiritual del Concepto de la Personalidad",
+ "1.b54.p": "Cuando Jesús hablaba del «⟦Q 1:2.8|1:6.2|1:7.1⟧Dios viviente⟦/Q⟧», se refería a un Dios personal: el Padre que está en los cielos.",
+ "1.b55.p": "¿Por qué importa tanto la personalidad? Porque las cosas sin personalidad pueden interactuar, pero no pueden tener comunión. La relación de padre e hijo, entre Dios y el hombre, solo es posible cuando ambos son personas.",
+ "1.b56.p": "Por eso no llegamos a ser uno con Dios como una gota de agua que se disuelve en el océano. Alcanzamos la unión con él mediante una comunión espiritual creciente, el contacto personal y el acuerdo sincero con su voluntad. No nos perdemos en él; seguimos siendo nosotros mismos.",
+ "1.b57.t": [
+  [
+   "Valor",
+   "¿Puede existir sin personalidad?"
+  ],
+  [
+   "La verdad",
+   "Puede concebirse aparte de la personalidad"
+  ],
+  [
+   "La belleza",
+   "Puede existir sin personalidad"
+  ],
+  [
+   "La bondad",
+   "Solo puede entenderse en relación con la personalidad, porque solo las personas aman y son amadas"
+  ]
+ ],
+ "1.b58.p": "Por eso ni siquiera la belleza y la verdad tendrían parte en la esperanza de la supervivencia si no pertenecieran a un Dios personal, a un Padre amante.",
+ "1.b59.p": "Por último, el documento 1 hace una confesión honesta: no todas estas verdades profundas son del todo claras ni siquiera para los seres paradisiacos del grupo del propio autor. Aun así, se nos dice que no nos desanimemos. Estas verdades se irán aclarando a medida que nuestra mente se vuelva cada vez más espiritual.",
+ "1.b60.h": "Conclusión",
+ "1.b61.t": [
+  [
+   "Sección",
+   "Mensaje clave: Dios es una persona"
+  ],
+  [
+   "1. El Nombre del Padre",
+   "Dios nunca se ha revelado por un nombre, sino solo por su naturaleza"
+  ],
+  [
+   "2. La Realidad de Dios",
+   "A Dios no se lo conoce por pruebas, sino por la presencia de su espíritu residente"
+  ],
+  [
+   "3. Dios es un Espíritu Universal",
+   "Dios no se ve, no porque se esconda, sino porque su gloria es muy grande"
+  ],
+  [
+   "4. El Misterio de Dios",
+   "El misterio más profundo es que Dios vive dentro de la mente humana"
+  ],
+  [
+   "5. La Personalidad del Padre Universal",
+   "Su infinidad no oculta su personalidad: es una verdadera persona"
+  ],
+  [
+   "6. La Personalidad en el Universo",
+   "La personalidad humana es la sombra de la personalidad del Creador proyectada en el tiempo"
+  ],
+  [
+   "7. El Valor Espiritual del Concepto de la Personalidad",
+   "Solo las personas pueden compartir la comunión entre sí, y solo las personas pueden amar"
+  ]
+ ],
+ "1.b62.h": "Puntos clave del documento 1",
+ "1.b63.p": "Lo que nos da el documento 1 no es información sobre Dios. Nos da un lugar desde el cual invocarlo.",
+ "1.b64.p": "No es una fuerza, ni una ley, ni una idea. Es alguien que puede conocer y ser conocido, que puede amar y ser amado, y que puede ser nuestro amigo.",
+ "1.b65.p": "Dios vino a nosotros no por un nombre, sino por su naturaleza → puso un fragmento de sí mismo dentro de nosotros → siguiendo su guía, nuestra mente se entrega al espíritu → y al final estamos en su presencia.",
+ "2.title": "La Naturaleza de Dios",
+ "2.b0.ask": "«¿Qué clase de ser es Dios?»",
+ "2.b1.h": "Panorama general",
+ "2.b2.p": "Si el documento 1 nos dijo quién es Dios, el documento 2 nos dice cómo es Dios. Es un documento sobre el carácter de Dios.",
+ "2.b3.p": "La mejor manera de conocer la naturaleza de Dios no es la especulación. Es comprender la vida de Jesús de Nazaret. La vida que Micael de Nebadon vivió como hombre nos mostró al Padre tal como es.",
+ "2.b4.p": "Hay también otro camino: reconocernos como hijos de Dios y mirar al Creador del Paraíso como nuestro verdadero Padre espiritual. Cuando nos vemos como hijos, empezamos a ver al Padre.",
+ "2.b5.p": "El documento 2 examina el carácter de Dios bajo siete apartados: la infinidad, la perfección, la justicia, la misericordia, el amor, la bondad, y la verdad y la belleza. No son siete cualidades separadas. Son siete rostros de una sola persona.",
+ "2.b7.h": "El documento",
+ "2.b8.h": "1. La Infinidad de Dios",
+ "2.b9.p": "La luz de la presencia del Padre es tan enceguecedora que, para sus criaturas bajas, él parece «morar en la espesa tiniebla». No se lo ve no porque haya demasiado poca luz, sino porque hay demasiada.",
+ "2.b10.p": "Dios conoce plenamente su propia infinidad y eternidad, sin que le falte nada. No es un accidente cósmico, ni está experimentando con el universo.",
+ "2.b11.p": "Nada es nuevo para Dios, y ningún acontecimiento cósmico lo toma por sorpresa. Para Dios no hay pasado, presente ni futuro; en cada momento todo el tiempo está presente ante él. Él es el gran YO SOY.",
+ "2.b12.t": [
+  [
+   "Quién",
+   "Qué hacen"
+  ],
+  [
+   "Los Soberanos del Universo",
+   "Pueden emprender aventuras"
+  ],
+  [
+   "Los Padres de las Constelaciones",
+   "Pueden experimentar"
+  ],
+  [
+   "Los jefes de los sistemas",
+   "Pueden practicar"
+  ],
+  [
+   "El Padre Universal",
+   "Ve el fin desde el principio: todo experimento y toda aventura están dentro de su propósito eterno"
+  ]
+ ],
+ "2.b13.p": "Sin embargo, esta misma infinidad plantea un problema. Quien es absolutamente infinito no puede establecer contacto directo con seres finitos. Por eso Dios ha abierto caminos para acercarse a nosotros.",
+ "2.b14.t": [
+  [
+   "El camino por el que viene",
+   "Qué es"
+  ],
+  [
+   "Los Hijos de Dios Paradisiacos",
+   "Perfectos en divinidad, comparten la carne y la sangre de las razas planetarias y se hacen uno de nosotros: Dios que se hace hombre"
+  ],
+  [
+   "Las personalidades del Espíritu Infinito",
+   "Los serafines y otros innumerables seres celestiales se acercan para servir a los seres de origen humilde"
+  ],
+  [
+   "Los Ajustadores del Pensamiento",
+   "El don directo del gran Dios mismo, que viene a morar en nuestra mente sin anuncio y sin explicación"
+  ]
+ ],
+ "2.b15.p": "En todo esto, el Padre, por amor, rebaja, modifica y diluye con gusto su infinidad. Se hace menos para poder acercarse más a nosotros.",
+ "2.b16.p": "Y sin embargo su infinidad nunca disminuye en absoluto. Por eso la enseñanza de que «⟦Q 2:1.11⟧en Él vivimos y nos movemos y tenemos nuestro ser⟦/Q⟧» es literalmente verdadera.",
+ "2.b17.h": "2. La Perfección Eterna del Padre",
+ "2.b18.p": "«⟦Q 2:2.1⟧Yo soy el Señor; yo no cambio⟦/Q⟧». En el trato de Dios no hay variabilidad, ni siquiera sombra de mutación. Sus planes son firmes, su voluntad es inmutable y sus actos no tienen error.",
+ "2.b19.p": "A veces parece que Dios cambia según nuestras actitudes. Pero eso es solo en la superficie. Debajo permanecen su propósito invariable y su plan eterno.",
+ "2.b20.p": "La perfección de Dios no consiste en pretender tener razón. Consiste en la perfección de la bondad que pertenece a su misma naturaleza.",
+ "2.b21.p": "Luego viene una afirmación sorprendente. Dios es tan infinitamente perfecto que no puede conocer la imperfección como experiencia propia. Pero sí comparte la experiencia de la imperfección con las criaturas que luchan en los universos evolutivos.",
+ "2.b22.p": "Así que mi inmadurez y mis fracasos no son algo ajeno a Dios. El Padre Universal participa de verdad en la experiencia de la inmadurez y la imperfección en la vida en evolución de sus criaturas morales.",
+ "2.b23.h": "3. La Justicia y la Rectitud",
+ "2.b24.p": "Dios es recto; por lo tanto, es justo. No hay iniquidad en él, no hace acepción de personas y no acepta sobornos.",
+ "2.b25.p": "Por eso es inútil suplicar a Dios que cambie sus decretos inmutables o que nos libre de las consecuencias de lo que hemos sembrado, porque «⟦Q 2:3.2⟧lo que el hombre siembra, eso también segará⟦/Q⟧».",
+ "2.b26.p": "Pero aquí está la buena noticia. Aun en la justicia de cosechar el fruto de las malas acciones, la justicia divina siempre está atemperada por la misericordia.",
+ "2.b27.p": "La consecuencia más grave no es un castigo, sino el fin de la existencia. El resultado final del pecado deliberado y total es la aniquilación. Pero ni siquiera esto es Dios destruyendo a alguien. Al abrazar la iniquidad, el pecador se ha vuelto irreal y se ha destruido a sí mismo.",
+ "2.b28.p": "Y ni siquiera esta extinción se lleva a cabo de inmediato. Siempre se posterga hasta que se haya cumplido el debido proceso hasta el final.",
+ "2.b29.t": [
+  [
+   "Etapa",
+   "Quién decide"
+  ],
+  [
+   "El comienzo",
+   "Se presentan los cargos en el mundo donde vive el infractor"
+  ],
+  [
+   "Juicio conjunto",
+   "La comisión planetaria → los tribunales del Hijo Creador → los tribunales judiciales de los Ancianos de los Días"
+  ],
+  [
+   "El veredicto",
+   "Una vez que los cargos se sostienen sin interrupción, la orden viene de los tribunales superiores del superuniverso"
+  ],
+  [
+   "La ejecución",
+   "Tras la confirmación de lo alto, los jueces de la sede central del superuniverso la llevan a cabo ellos mismos"
+  ],
+  [
+   "Hasta entonces",
+   "Los Hijos Creadores se dedican a rehabilitar a los rebeldes y a los que se han extraviado"
+  ]
+ ],
+ "2.b30.h": "4. La Misericordia Divina",
+ "2.b31.p": "¿Qué es la misericordia? El documento 2 la define con mucha precisión. La misericordia es sencillamente la justicia atemperada por la sabiduría: la sabiduría que nace del conocimiento perfecto de las debilidades naturales de las criaturas finitas y de las desventajas de su entorno.",
+ "2.b32.p": "Por eso no hace falta convencer al Padre de que sea misericordioso. Basta la necesidad de la criatura. Como Dios conoce a todos sus hijos, le resulta fácil perdonar.",
+ "2.b33.p": "Esto también vale para nosotros. Cuanto mejor comprendemos a nuestro prójimo, más fácil nos resulta perdonarlo, e incluso amarlo. A menudo no podemos perdonar no porque nuestro corazón sea duro, sino porque todavía no comprendemos.",
+ "2.b34.t": [
+  [
+   "Idea",
+   "Cómo la explica el documento 2"
+  ],
+  [
+   "Justicia",
+   "Proviene de la rectitud de Dios y no depende de lo que la criatura haga o logre"
+  ],
+  [
+   "Misericordia",
+   "La justicia suprema ajustada a la situación de la criatura finita en evolución"
+  ],
+  [
+   "Equidad",
+   "Lo que la justicia eterna y la misericordia divina logran juntas en la experiencia humana"
+  ],
+  [
+   "Misericordia y justicia",
+   "La misericordia nunca viola la justicia; es una interpretación comprensiva de la justicia suprema"
+  ]
+ ],
+ "2.b35.p": "Dios nunca es víctima de emociones contradictorias. No está dividido, como nosotros, entre el amor y los principios. Su sabiduría infinita siempre conoce la manera de satisfacer a la vez la justicia y la misericordia.",
+ "2.b36.h": "5. El Amor de Dios",
+ "2.b37.p": "«⟦Q 2:5.1|2:5.10|1:3.8⟧Dios es amor⟦/Q⟧». Por eso su actitud personal hacia todo lo que hay en el universo es siempre una reacción de afecto divino.",
+ "2.b38.p": "Aquí hay que corregir un malentendido común. Dios no llegó a amarnos por el sacrificio o la intercesión de alguien. «⟦Q 2:5.2|114:7.17|180:6.8⟧El Padre mismo os ama⟦/Q⟧».",
+ "2.b39.t": [
+  [
+   "Malentendido común",
+   "La verdad según el documento 2"
+  ],
+  [
+   "El sacrificio de alguien nos ganó el amor de Dios",
+   "El Padre mismo nos ama y, en respuesta a ese amor, envía a los Ajustadores del Pensamiento"
+  ],
+  [
+   "Necesitamos un mediador para ser perdonados",
+   "El amante Padre celestial no necesita un mediador para conceder su favor o su perdón"
+  ],
+  [
+   "Dios está enojado y busca venganza",
+   "Dios nunca es iracundo, vengativo ni colérico"
+  ],
+  [
+   "El Dios de la justicia y el Dios del amor son distintos",
+   "La personalidad del Padre no está dividida; su unidad divina es perfecta"
+  ]
+ ],
+ "2.b40.p": "¿Cuál es la mayor prueba de la bondad de Dios? El Ajustador del Pensamiento que está dentro de nosotros, que espera con tanta paciencia la hora en que los dos seremos hechos uno para siempre.",
+ "2.b41.p": "Puede haber días en que no logremos encontrar a Dios, por mucho que lo busquemos. No importa. Si simplemente nos sometemos a la guía del espíritu interior, seremos conducidos paso a paso hasta que al final estemos en la presencia del Padre.",
+ "2.b42.p": "Entre nosotros y Dios hay una distancia de espacio y una distancia de espíritu. Pero él ya la ha salvado a su manera. Ha enviado su espíritu a vivir dentro de nosotros.",
+ "2.b43.p": "El autor del documento 2 hace una confesión personal: «⟦Q 2:5.7⟧Pienso que amaría a Dios del mismo modo si no fuera tan grande y poderoso, puesto que es tan bueno y misericordioso⟦/Q⟧». Amamos al Padre no por sus atributos asombrosos, sino por su naturaleza.",
+ "2.b44.p": "Y la razón es sencilla: «⟦Q 2:5.8⟧La experiencia de amar es en buena parte una respuesta directa a la experiencia de ser amado⟦/Q⟧».",
+ "2.b45.h": "6. La Bondad de Dios",
+ "2.b46.p": "La belleza puede verse en el universo físico, y la verdad puede conocerse en el mundo intelectual. Pero la bondad de Dios solo se encuentra en el mundo espiritual de la experiencia religiosa personal.",
+ "2.b47.p": "Por eso la religión, en su verdadera esencia, es una confianza por fe en la bondad de Dios. Uno puede temer a un Dios grande, pero solo puede confiar en un Dios bueno y amarlo.",
+ "2.b48.p": "Esto es lo que hizo Jesús. Elevó la idea de Dios desde una moral basada en la autoridad de un rey hasta una moral de cuidado amoroso, dentro de la intimidad familiar entre padres e hijos.",
+ "2.b49.t": [
+  [
+   "Cómo se veía a Dios",
+   "El resultado"
+  ],
+  [
+   "Como rey y juez",
+   "Fijó altas normas morales, pero dejaba al creyente siempre inseguro, en el tiempo y en la eternidad"
+  ],
+  [
+   "Como el Padre de Israel",
+   "Un paso adelante, proclamado por los profetas hebreos"
+  ],
+  [
+   "Como el Padre de cada individuo",
+   "El Dios que reveló Jesús: toda la idea humana de Dios iluminada de forma trascendente"
+  ]
+ ],
+ "2.b51.p": "La afirmación «⟦Q 2:6.8⟧Dios ama al pecador y odia el pecado⟦/Q⟧» debe entenderse con cuidado. Las personas solo pueden amar y odiar a otras personas. El pecado no es una persona, así que Dios no tiene ninguna actitud personal hacia el pecado.",
+ "2.b52.p": "Así, el amor de Dios busca salvar al pecador, y la ley de Dios busca destruir el pecado. El amor y la ley no están en guerra; cada uno simplemente hace su propia obra.",
+ "2.b53.h": "7. La Verdad y la Belleza Divinas",
+ "2.b54.p": "Todo conocimiento finito es relativo. Por elevada que sea su fuente, solo es relativamente completo, localmente exacto y personalmente verdadero.",
+ "2.b55.p": "La verdad divina, la verdad final, es uniforme y universal. Pero como quienes la cuentan difieren en la profundidad de su conocimiento y experiencia, los detalles difieren. Saber esto nos hace pacientes cuando oímos testimonios distintos.",
+ "2.b56.p": "Aquí está también el error más grave de los filósofos: la falacia de la abstracción, que consiste en fijarse en un solo aspecto de la realidad y declararlo toda la verdad.",
+ "2.b57.p": "La verdad es bella, porque es a la vez plena y simétrica. Por eso quien busca la verdad ya está buscando la realidad divina.",
+ "2.b58.t": [
+  [
+   "Valor",
+   "Dónde se encuentra",
+   "Qué hace"
+  ],
+  [
+   "Verdad",
+   "El mundo intelectual",
+   "Mantiene unidas las cosas"
+  ],
+  [
+   "Belleza",
+   "El universo físico",
+   "Atrae"
+  ],
+  [
+   "Bondad",
+   "La experiencia religiosa personal",
+   "Estabiliza"
+  ]
+ ],
+ "2.b59.p": "El gran error de la religión hebrea fue no relacionar la bondad de Dios con las verdades de la ciencia y la belleza del arte. Una moral que insiste solo en la bondad, separada de lo demás, termina por no ganar la devoción de la gente.",
+ "2.b60.p": "Por eso el camino para que la religión se recupere hoy es claro. Junto a sus exigencias morales, debe ocuparse por igual de las verdades de la ciencia, la filosofía y la experiencia espiritual, de la belleza de la creación física, del encanto del arte intelectual y de la grandeza del verdadero logro del carácter.",
+ "2.b61.p": "Cuando la verdad, la belleza y la bondad se armonizan en la experiencia de una persona, el resultado es una forma elevada de amor, atemperada por la sabiduría y cualificada por la lealtad. La salud, la cordura y la felicidad son estas tres cosas unidas en una vida humana.",
+ "2.b62.h": "Conclusión",
+ "2.b64.t": [
+  [
+   "Sección",
+   "Mensaje clave"
+  ],
+  [
+   "1. La Infinidad de Dios",
+   "El Infinito se rebajó y se ajustó para poder llegar a nosotros"
+  ],
+  [
+   "2. La Perfección Eterna del Padre",
+   "Dios no cambia, y comparte nuestra experiencia imperfecta"
+  ],
+  [
+   "3. La Justicia y la Rectitud",
+   "Cosechamos lo que sembramos, pero aun esa justicia siempre está atemperada por la misericordia"
+  ],
+  [
+   "4. La Misericordia Divina",
+   "La misericordia es justicia atemperada por la sabiduría; basta la necesidad de la criatura"
+  ],
+  [
+   "5. El Amor de Dios",
+   "El Padre mismo nos ama y no necesita ningún mediador"
+  ],
+  [
+   "6. La Bondad de Dios",
+   "La bondad solo se encuentra en la experiencia religiosa personal"
+  ],
+  [
+   "7. La Verdad y la Belleza Divinas",
+   "La verdad, la belleza y la bondad se hacen una en el Dios que es amor"
+  ]
+ ],
+ "2.b65.h": "Puntos clave del documento 2",
+ "2.b66.p": "El documento 2 muestra el carácter de Dios en siete partes, pero esas siete son, al final, siete rostros de una sola persona. En Dios no hay lugar donde la justicia y el amor luchen entre sí.",
+ "2.b67.p": "Aquí está el mayor consuelo: Dios no ama imitando a un padre. Ama porque verdaderamente es un Padre.",
+ "2.b68.p": "Dios es infinito → se rebaja para venir a nosotros → atempera la justicia con la misericordia → ama como un padre → y su bondad se hace una con la verdad y la belleza en nuestra experiencia.",
+ "2.b69.box": "Este es el rostro del Padre tal como lo retrata «La Naturaleza de Dios».",
+ "3.title": "Los Atributos de Dios",
+ "3.b0.ask": "«Si Dios es todopoderoso, ¿por qué la vida es tan incierta?»",
+ "3.b1.h": "Panorama general",
+ "3.b2.p": "El documento 1 nos dijo quién es Dios, y el documento 2 cómo es Dios. El documento 3 nos dice qué puede hacer Dios. Trata de sus atributos: su ubicuidad, su poder infinito, su conocimiento universal, su ilimitabilidad y su soberanía.",
+ "3.b3.p": "Sin embargo, este documento no es una árida lección de teología. Cada atributo conduce, al final, a la pregunta de cómo toca mi propio día.",
+ "3.b4.p": "El documento 3 dice también algo notable sobre la creatividad. La creatividad no es tanto uno de los atributos de Dios como la suma total de su naturaleza activa, y esa creatividad culmina en la verdad de la paternidad de Dios.",
+ "3.b5.p": "Y el mayor regalo de este documento está en la sección 5: la respuesta a por qué un Dios perfecto nos deja en un mundo tan incierto.",
+ "3.b7.h": "El documento",
+ "3.b8.h": "1. La Ubicuidad de Dios",
+ "3.b9.p": "Solo Dios puede estar en dos lugares —de hecho, en innumerables lugares— al mismo tiempo. «⟦Q 3:1.1⟧¿Adónde me esconderé de tu espíritu? o ¿a dónde huiré de tu presencia?⟦/Q⟧»",
+ "3.b10.p": "Pero el documento 3 da un paso más. No solo las criaturas viven en Dios; Dios también vive en sus criaturas.",
+ "3.b11.p": "Lo importante es que Dios está presente de más de una manera. Y una de esas maneras no la comparte con nadie más.",
+ "3.b12.t": [
+  [
+   "De qué manera",
+   "Cómo está presente"
+  ],
+  [
+   "En el circuito de la gravedad",
+   "Por medio de la Isla del Paraíso, está potencialmente presente en toda la creación física"
+  ],
+  [
+   "En el circuito mental",
+   "Se manifiesta en las actividades de la mente cósmica del Actor Conjunto y de los Espíritus Rectores"
+  ],
+  [
+   "Como presencia espiritual",
+   "Se manifiesta por medio de los circuitos del Hijo Eterno y del Espíritu Infinito"
+  ],
+  [
+   "En el circuito de personalidad y en los Ajustadores del Pensamiento",
+   "Solo aquí actúa Dios de manera única, directa y exclusiva"
+  ]
+ ],
+ "3.b13.p": "Entonces, ¿por qué Dios parece cercano para algunas personas y lejano para otras? La respuesta del documento 3 puede sorprendernos. No es porque Dios sea cambiante.",
+ "3.b14.p": "Sus hijos, que han recibido el poder de elegir, determinan ellos mismos, al usar esa elección, el grado de influencia del Padre en su propio corazón. El Padre se ha dado libremente, sin límite y sin favoritismo.",
+ "3.b15.box": "Dios no se retira porque se lo ignore.",
+ "3.b16.h": "2. El Poder Infinito de Dios",
+ "3.b17.p": "«⟦Q 3:2.2|2:1.2|163:3.2⟧Con Dios todas las cosas son posibles⟦/Q⟧». Pero esta afirmación lleva una condición silenciosa: dentro de los límites de lo que es coherente con la naturaleza divina.",
+ "3.b18.p": "El poder de Dios se muestra tan ampliamente en el universo material que es más fácil de captar que sus otros atributos. Desde un punto de vista no espiritual, Dios es energía; toda manifestación de energía física y de materia proviene de él.",
+ "3.b19.p": "A nuestros ojos, a veces parece que la ley natural se suspende, o que Dios interviene de forma apresurada. El documento 3 es firme: eso no sucede. Solo lo parece porque nuestra visión es estrecha y nuestra comprensión, finita.",
+ "3.b20.p": "El poder de Dios nunca actúa como fuerza ciega. Cuando llega una crisis, él ya la conoce, y responde no con frialdad, sino con sabiduría eterna.",
+ "3.b21.p": "¿Tiene límites, entonces, el poder infinito? Sí los tiene. Pero los límites nunca vienen de fuera. Todos vienen de Dios mismo.",
+ "3.b22.t": [
+  [
+   "Qué limita su poder",
+   "Qué significa"
+  ],
+  [
+   "La naturaleza de Dios",
+   "Su infinito amor, verdad, belleza y bondad no lo permiten"
+  ],
+  [
+   "La voluntad de Dios",
+   "Su ministerio de misericordia y su relación paternal con las personalidades del universo no lo permiten"
+  ],
+  [
+   "La ley de Dios",
+   "La rectitud y la justicia de la eterna Trinidad del Paraíso no lo permiten"
+  ]
+ ],
+ "3.b23.p": "Y hay una frase que no debemos olvidar: en los mundos evolutivos ocurren muchas cosas que no son obra personal del Padre Universal.",
+ "3.b24.h": "3. El Conocimiento Universal de Dios",
+ "3.b25.p": "«⟦Q 3:3.1⟧Dios sabe todas las cosas⟦/Q⟧». Él cuenta el número de las estrellas y las llama a todas por su nombre, y ni un solo gorrión cae a tierra sin que el Padre lo sepa.",
+ "3.b26.p": "Pero este saber no es un cálculo. Es un saber que comparte nuestro dolor: «⟦Q 3:3.2⟧Con seguridad he visto la aflicción de mi pueblo, he oído su llanto y conozco sus pesares⟦/Q⟧».",
+ "3.b27.p": "Por eso dijo Jesús: «⟦Q 3:3.2⟧Vuestro Padre sabe qué necesitáis aun antes de que vosotros se lo pidáis⟦/Q⟧». Saber esto es un verdadero consuelo para todo ser humano.",
+ "3.b28.p": "Aquí el documento 3 aclara un antiguo juego de palabras. Deja en claro lo que no significan «todopoderoso» y «omnisciente».",
+ "3.b29.t": [
+  [
+   "La palabra",
+   "Lo que no significa"
+  ],
+  [
+   "Todopoderoso",
+   "No significa que Dios pueda hacer lo que no se puede hacer: el acto que no es propio de Dios"
+  ],
+  [
+   "Omnisciente",
+   "No significa que Dios conozca lo incognoscible"
+  ],
+  [
+   "Presciencia",
+   "Aunque Dios sabe de antemano, no se quita en lo más mínimo la libertad de sus hijos"
+  ]
+ ],
+ "3.b30.p": "Una cosa es segura: Dios nunca está sujeto a la sorpresa.",
+ "3.b31.h": "4. La Ilimitabilidad de Dios",
+ "3.b32.p": "Dios se ha dado sin fin y, sin embargo, no ha disminuido en nada. Eso es toda la sección 4.",
+ "3.b33.t": [
+  [
+   "Lo que da",
+   "El resultado"
+  ],
+  [
+   "Poder",
+   "Después de otorgar poder a un universo sin límites, sigue tan lleno de poder como antes"
+  ],
+  [
+   "Sabiduría",
+   "Aunque otorga libremente la mente a todo el universo, la fuente central nunca se agota"
+  ],
+  [
+   "Espíritu",
+   "Aunque envía Ajustadores a inmensos números de mortales, no hay límite a cuántos puede enviar"
+  ],
+  [
+   "Amor",
+   "Incluso un ser humano finito puede experimentar de verdad el amor del Padre en plena medida, sin disminución"
+  ]
+ ],
+ "3.b34.p": "Sobre el amor conviene ser un poco más precisos. La calidad de esa experiencia es ilimitada, pero su cantidad está limitada por mi capacidad de receptividad espiritual. No es que Dios se reserve; es que mi vasija solo puede contener cierta medida.",
+ "3.b35.p": "¿Cómo podemos, entonces, nosotros, seres finitos, conocer lo infinito? Porque un fragmento del Infinito vive dentro de nosotros. Por eso la manera más verdadera e íntima de acercarse a Dios es el amor.",
+ "3.b36.h": "5. La Ley Suprema del Padre",
+ "3.b37.p": "El Padre gobierna por medio de sus Hijos. Solo interviene directamente cuando las personalidades a quienes ha delegado la autoridad fallan en su encargo.",
+ "3.b38.p": "Aquí el documento 3 hace una de sus afirmaciones más honestas. En los asuntos de la mente humana, puede que no siempre se haga la voluntad de Dios. Pero en el curso y el destino de un planeta, el plan divino siempre prevalece.",
+ "3.b39.p": "¿Por qué, entonces, la vida es tan incierta? El documento 3 responde con una lista de condiciones. Esta lista es el pasaje más duradero del documento.",
+ "3.b40.t": [
+  [
+   "Si esto es deseable",
+   "Entonces el mundo tiene que ser así"
+  ],
+  [
+   "Valor: fuerza de carácter",
+   "El hombre debe crecer en un ambiente que exige luchar con las dificultades y reaccionar ante las desilusiones"
+  ],
+  [
+   "Altruismo: servicio a los semejantes",
+   "La vida debe ponernos frente a frente con la realidad de la desigualdad social"
+  ],
+  [
+   "Esperanza: la grandeza de la confianza",
+   "La existencia humana debe afrontar constantemente la inseguridad y la incertidumbre recurrente"
+  ],
+  [
+   "Fe: la afirmación suprema del pensamiento humano",
+   "El hombre debe encontrarse siempre donde sabe menos de lo que puede creer"
+  ],
+  [
+   "Amor a la verdad",
+   "El hombre debe crecer en un mundo donde el error está presente y la falsedad siempre es posible"
+  ],
+  [
+   "Idealismo: el acercamiento a lo divino",
+   "El hombre debe luchar en un mundo de bondad y belleza relativas"
+  ],
+  [
+   "Lealtad: devoción al deber más alto",
+   "El hombre debe seguir adelante en medio de la posibilidad de la traición y el abandono"
+  ],
+  [
+   "Desinterés: el espíritu de olvido de sí mismo",
+   "El hombre debe afrontar constantemente el clamor de un yo que exige reconocimiento y honor"
+  ],
+  [
+   "Placer: la satisfacción de la felicidad",
+   "El hombre debe vivir en un mundo donde el dolor y el sufrimiento son posibles"
+  ]
+ ],
+ "3.b41.p": "Cuando terminamos de leer esta lista, la pregunta se da vuelta. Las mismas condiciones que pedimos en oración que se nos quiten resultan ser el suelo donde crecen las cualidades que anhelamos tener.",
+ "3.b43.p": "El documento 3 completa este contraste comparándonos con un mundo perfecto. Los seres de Havona son perfectos. Pero su perfección es innata, no ganada.",
+ "3.b44.t": [
+  [
+   "Cualidad",
+   "Los seres de Havona",
+   "El hombre mortal"
+  ],
+  [
+   "Valor",
+   "Valientes por naturaleza",
+   "Lo gana superando las dificultades"
+  ],
+  [
+   "Altruismo",
+   "Bondadosos y considerados por naturaleza",
+   "Lo gana venciéndose a sí mismo"
+  ],
+  [
+   "Esperanza",
+   "Miran el futuro con alegría",
+   "Vive con esperanza en un mundo incierto"
+  ],
+  [
+   "Fe",
+   "Confían en la estabilidad del universo",
+   "Conoce la fe salvadora que sube desde la condición animal hasta las puertas del Paraíso"
+  ],
+  [
+   "Idealismo",
+   "Idealistas desde su nacimiento",
+   "Se hace idealista por elección"
+  ],
+  [
+   "Placer",
+   "Disfrutan del placer",
+   "Conoce el gozo profundo de verse libre de la amenaza del sufrimiento"
+  ]
+ ],
+ "3.b45.p": "Así que las dificultades que hemos atravesado no son una pérdida. Lo que ganamos por la experiencia es una posesión única que ni siquiera tienen los seres perfectos de Havona.",
+ "3.b46.h": "6. La Primacía del Padre",
+ "3.b47.p": "Aun mientras delega autoridad y distribuye poder, Dios sigue siendo primordial. Conserva en sus propias manos toda decisión final.",
+ "3.b48.p": "El universo no era inevitable. No es un accidente, ni existe por sí mismo. El universo es una obra de creación y está totalmente sujeto a la voluntad del Creador.",
+ "3.b49.p": "Aquí el documento 3 señala dos trampas en las que caemos con facilidad cuando pensamos en Dios.",
+ "3.b50.t": [
+  [
+   "El error",
+   "Por qué es un error"
+  ],
+  [
+   "Hacer a Dios semejante a un hombre",
+   "Es un gran desatino, salvo en el concepto del Ajustador del Pensamiento residente"
+  ],
+  [
+   "Hacer a Dios semejante a una máquina",
+   "Mecanizar por completo a la Primera Fuente y Centro es todavía más necio"
+  ]
+ ],
+ "3.b51.p": "Incluso quienes hablan de mecanismo están en realidad admirando profundamente la precisión de sus leyes. Cuando piensan que las leyes funcionan solas, rinden, sin saberlo, tributo al autor de esas leyes.",
+ "3.b52.p": "Por último, el autor de este documento nos deja una confesión muy humilde. ¿Sufre el Padre del Paraíso? «⟦Q 3:6.6|19:1.2|20:8.2⟧Yo no lo sé⟦/Q⟧». Aun así, piensa que el Padre Universal sí sufre: que Dios de verdad comparte nuestras aflicciones.",
+ "3.b53.t": [
+  [
+   "Quién",
+   "Qué hace"
+  ],
+  [
+   "Dios el Padre",
+   "Ama a los hombres"
+  ],
+  [
+   "Dios el Hijo",
+   "Sirve a los hombres"
+  ],
+  [
+   "Dios el Espíritu",
+   "Inspira a los hijos del universo a la aventura siempre ascendente de encontrar al Padre"
+  ]
+ ],
+ "3.b54.h": "Conclusión",
+ "3.b55.t": [
+  [
+   "La soberanía de Dios es ilimitada; es el hecho fundamental de toda la creación."
+  ],
+  [
+   "Sección",
+   "Mensaje clave"
+  ],
+  [
+   "1. La Ubicuidad de Dios",
+   "Dios está en todas partes, y en el circuito de personalidad y en los Ajustadores actúa directamente"
+  ],
+  [
+   "2. El Poder Infinito de Dios",
+   "Los límites de su poder no vienen de fuera, sino de su propia naturaleza, voluntad y ley"
+  ],
+  [
+   "3. El Conocimiento Universal de Dios",
+   "Su saber no es un cálculo, sino un saber que comparte nuestro dolor"
+  ],
+  [
+   "4. La Ilimitabilidad de Dios",
+   "Da sin fin y nunca disminuye"
+  ],
+  [
+   "5. La Ley Suprema del Padre",
+   "La incertidumbre de la vida no es un defecto, sino la condición en que crece el carácter"
+  ],
+  [
+   "6. La Primacía del Padre",
+   "El universo no es inevitable, sino creado, y él sigue siendo primordial"
+  ]
+ ],
+ "3.b56.h": "Puntos clave del documento 3",
+ "3.b57.p": "El documento 3 no se limita a enumerar los atributos de Dios. Cada uno de ellos baja hasta el lugar donde yo estoy.",
+ "3.b58.p": "Su ubicuidad significa que nunca estoy solo, esté donde esté. Su omnipotencia significa que ese poder nunca es ciego. Su omnisciencia significa que mi dolor ya es conocido. Y su ilimitabilidad significa que nunca disminuye por lo que yo recibo.",
+ "3.b59.p": "Dios es infinito → actúa solo dentro de los límites que él mismo se pone → no pasa por encima de nuestras decisiones → usa un mundo incierto como el suelo donde crece el carácter → y sigue siendo el Padre de todos.",
+ "3.b60.box": "Este es Aquel, infinito y sin embargo Padre, que revela «Los Atributos de Dios».",
+ "4.title": "La Relación de Dios con el Universo",
+ "4.b0.ask": "«¿Es Dios la naturaleza?»",
+ "4.b1.h": "Panorama general",
+ "4.b2.p": "Los documentos 1 a 3 nos dijeron qué clase de ser es Dios. El documento 4 nos dice cómo se relaciona este Dios con el mundo.",
+ "4.b3.p": "Por eso este documento aborda de frente preguntas que muchos hemos llevado toda la vida. ¿Qué es la providencia? ¿Son obra de Dios los desastres naturales? ¿Es Dios iracundo? ¿Por qué se nos enseñó que hacía falta sangre inocente?",
+ "4.b4.p": "En su mayor parte, el documento 4 responde corrigiendo lo que se nos enseñó. Eso puede resultar un poco incómodo, pero al final Dios aparece mucho mejor de lo que habíamos imaginado.",
+ "4.b5.p": "Dios creó el universo por su propia voluntad libre y soberana. Y sigue llevando a cabo su propósito eterno, a lo largo de todo el tiempo.",
+ "4.b7.h": "El documento",
+ "4.b8.h": "1. La Actitud Universal del Padre",
+ "4.b9.p": "El documento 4 nos inquieta desde sus primeras líneas. Durante siglos, la gente ha malentendido la providencia de Dios.",
+ "4.b10.p": "La providencia es real. Pero no es el cuidado infantil, arbitrario y material que tantos han imaginado.",
+ "4.b11.t": [
+  [
+   "La idea común de la providencia",
+   "La providencia tal como la describe el documento 4"
+  ],
+  [
+   "Dios cambia de vez en cuando las leyes de la naturaleza para mi conveniencia",
+   "Las actividades entrelazadas de los seres celestiales y los espíritus divinos, que obran sin cesar de acuerdo con la ley cósmica"
+  ],
+  [
+   "La providencia y la evolución se oponen",
+   "No están en conflicto en absoluto; solo lo parecen en las ideas equivocadas del hombre"
+  ],
+  [
+   "Dios hizo el mundo y luego se retiró",
+   "El Padre nunca se ha retirado de la administración de los universos; si lo hiciera, habría de inmediato un colapso universal"
+  ],
+  [
+   "El universo funciona como un reloj al que se le dio cuerda",
+   "Todo se renueva continuamente; el Padre envía constantemente energía, luz y vida"
+  ]
+ ],
+ "4.b12.p": "¿Qué pasa, entonces, con la confusión que vemos en la superficie? Por agitadas que parezcan las cosas, hay estabilidad en el centro. Bajo los grandes trastornos de las estrellas hay orden y seguridad.",
+ "4.b13.p": "Aquí el autor de este documento hace una confesión notable. Los seres de su orden pueden ver con claridad la armonía del funcionamiento del universo, pero aun así encuentran a menudo reacciones cósmicas que no pueden explicar.",
+ "4.b14.p": "Lo que lo deja perplejo son los lugares donde parecen estar actuando los tres Absolutos. Así que, si nosotros no podemos entenderlo todo, no hay por qué avergonzarse; es lo que cabe esperar.",
+ "4.b15.h": "2. Dios y la Naturaleza",
+ "4.b16.p": "Esta es la sección más citada del documento 4. Para dar primero la conclusión: la naturaleza no es Dios.",
+ "4.b17.p": "En un sentido limitado, la naturaleza es el hábito físico de Dios. Pero la naturaleza que vemos es el resultado de dos cosas mezcladas.",
+ "4.b18.t": [
+  [
+   "Los dos factores de la naturaleza",
+   "Lo que aportan"
+  ],
+  [
+   "De la Deidad del Paraíso",
+   "Inmutabilidad, perfección y rectitud: un hilo de perfección uniforme y majestuosa que viene del círculo de la eternidad"
+  ],
+  [
+   "De las criaturas",
+   "Planes experimentales, desatinos en la ejecución, errores de la rebelión, desarrollo incompleto y sabiduría imperfecta"
+  ]
+ ],
+ "4.b19.p": "Por eso la naturaleza es fundamentalmente estable y, sin embargo, imprevisible. Mantiene lado a lado lo perfecto y lo parcial, lo eterno y lo pasajero.",
+ "4.b20.p": "Dios no está personalmente presente en la naturaleza ni en ninguna de las fuerzas de la naturaleza. Por eso la naturaleza de nuestro mundo no puede ser un reflejo fiel del Dios infinito.",
+ "4.b21.p": "Esto es un gran consuelo para nosotros. Significa que, cuando afrontamos inundaciones, terremotos y enfermedades, no tenemos por qué concluir que son la voluntad de Dios.",
+ "4.b22.p": "El documento 4 nos dice también por qué el rostro de la naturaleza está marcado: por la rebelión y la mala conducta de las miríadas de criaturas que forman parte de la naturaleza y que han contribuido a desfigurarla en el tiempo.",
+ "4.b24.h": "3. El Carácter Invariable de Dios",
+ "4.b25.p": "Esta sección quita, una por una, las emociones que le hemos atribuido a Dios. Durante demasiado tiempo el hombre se ha imaginado a Dios como alguien igual a él.",
+ "4.b26.t": [
+  [
+   "La emoción que le atribuimos",
+   "La respuesta del documento 4"
+  ],
+  [
+   "Celos",
+   "Dios no es, nunca fue y nunca será celoso de ningún ser"
+  ],
+  [
+   "Ira y enojo",
+   "Esos sentimientos son menos que humanos y totalmente indignos de la personalidad misericordiosa del Padre"
+  ],
+  [
+   "Arrepentimiento",
+   "Dios nunca se arrepiente de lo que ha hecho, de lo que hace ni de lo que hará"
+  ],
+  [
+   "Tristeza",
+   "El Padre no comete errores, pero su corazón se entristece cuando sus hijos no alcanzan los niveles espirituales que podrían alcanzar"
+  ]
+ ],
+ "4.b27.p": "La última línea merece una segunda mirada. Dios no se enoja, pero puede entristecerse. Son cosas totalmente distintas. El enojo me aleja; la tristeza nace del amor por mí.",
+ "4.b28.p": "¿Por qué, entonces, hemos entendido tan mal a Dios? El documento 4 da la razón con claridad: son las secuelas de la rebelión de Lucifer y de la traición de Caligastia. Los mundos que no fueron aislados están mucho menos confundidos.",
+ "4.b29.p": "Hay algo más. Para que el bien relativo se destaque con claridad, tiene que haber un mal con el cual contrastarlo. Reconocemos la bondad porque está junto a la imperfección.",
+ "4.b30.h": "4. La Comprensión de Dios",
+ "4.b31.p": "Como Dios existe por sí mismo, es absolutamente independiente. «⟦Q 4:4.2⟧Yo, el Señor, no cambio⟦/Q⟧».",
+ "4.b32.p": "Pero aquí es fácil equivocarse. Ser inmutable no significa ser estático. Dios es plenamente capaz de cambiar la manera en que expresa su carácter absoluto.",
+ "4.b33.t": [
+  [
+   "De",
+   "A"
+  ],
+  [
+   "La simplicidad",
+   "La complejidad"
+  ],
+  [
+   "La identidad",
+   "La variación"
+  ],
+  [
+   "La quietud",
+   "El movimiento"
+  ],
+  [
+   "La infinidad",
+   "La finitud"
+  ],
+  [
+   "Lo divino",
+   "Lo humano"
+  ],
+  [
+   "La unidad",
+   "La dualidad y la triunidad"
+  ]
+ ],
+ "4.b34.p": "El libre albedrío de Dios no tiene límites, salvo los que él mismo se pone. Y esa voluntad se mueve no por la fuerza, sino por el amor.",
+ "4.b35.p": "Y así esta sección llega a la frase que resume todo el documento 4:",
+ "4.b37.p": "Cada campo del conocimiento llama al mismo Ser con un nombre distinto. Pero solo la revelación puede mostrar que todos esos nombres señalan al mismo ser.",
+ "4.b38.t": [
+  [
+   "Quién",
+   "Cómo lo llama",
+   "Lo que añade la revelación"
+  ],
+  [
+   "La ciencia",
+   "La Primera Causa",
+   "Esa Primera Causa es alguien lleno de misericordia y bondad"
+  ],
+  [
+   "La filosofía",
+   "El único ser que existe por sí mismo",
+   "Esa unidad es alguien que ha garantizado la supervivencia eterna de sus hijos"
+  ],
+  [
+   "La religión",
+   "El Padre universal y amante",
+   "Él es el mismo Ser que los otros dos"
+  ]
+ ],
+ "4.b39.p": "Esta sección nos da también palabras para decir cuando chocamos con nuestros límites: «⟦Q 4:4.9⟧aunque yo no pueda hacer esto, en mí vive alguien que puede y que lo hará⟦/Q⟧». Esa es «⟦Q 4:4.9⟧la victoria que sobrecoge al mundo, aun vuestra fe⟦/Q⟧».",
+ "4.b40.h": "5. Las Ideas Erróneas Sobre Dios",
+ "4.b41.p": "En su última sección, el documento 4 se vuelve más directo. La tradición religiosa es solo un registro conservado de forma imperfecta de las experiencias de hombres que conocían a Dios, y no puede servir de guía verdadera.",
+ "4.b42.p": "La mayor fuente de confusión es que hemos agrupado muchas órdenes de seres bajo un solo nombre. Los sacerdotes y los profetas confundieron a estos seres entre sí:",
+ "4.b43.t": [
+  [
+   "Los seres confundidos",
+   "A qué pertenecen"
+  ],
+  [
+   "Príncipes Planetarios",
+   "A cargo de un planeta"
+  ],
+  [
+   "Soberanos de Sistema",
+   "A cargo de un sistema"
+  ],
+  [
+   "Padres de las Constelaciones",
+   "A cargo de una constelación"
+  ],
+  [
+   "Hijos Creadores",
+   "Creador y soberano de un universo local"
+  ],
+  [
+   "Gobernantes del superuniverso",
+   "Los que gobiernan un superuniverso"
+  ],
+  [
+   "El Ser Supremo",
+   "El Dios experiencial que evoluciona en el tiempo y el espacio"
+  ],
+  [
+   "El Padre Universal",
+   "La Primera Fuente y Centro, el Padre de todos"
+  ]
+ ],
+ "4.b44.p": "Muchos mensajes de personalidades subordinadas se registraron como si vinieran de Dios mismo. Captar esta sola distinción puede cambiar nuestra manera de leer la Biblia.",
+ "4.b45.p": "Luego viene un pasaje más doloroso. Un dios que se enfurece en la tormenta y que, en su ira, castiga a la gente con hambre e inundaciones es el dios de la religión primitiva, no el Dios viviente que gobierna el universo.",
+ "4.b46.t": [
+  [
+   "La antigua enseñanza",
+   "La respuesta del documento 4"
+  ],
+  [
+   "A un dios enojado se lo aplaca con sacrificios, penitencia y sangre",
+   "Esto es religión inmadura y primitiva, repulsiva para los seres celestiales"
+  ],
+  [
+   "La sangre del inocente gana el favor de Dios",
+   "Es una afrenta a Dios creer, sostener o enseñar que hay que derramar sangre inocente para ganar su favor"
+  ],
+  [
+   "El autootorgamiento del Hijo tenía el fin de ganar el favor de Dios",
+   "Era inherente a la situación que cierra una era planetaria, y fue el acto personal final de un Hijo Creador para ganar la soberanía experiencial de su universo"
+  ]
+ ],
+ "4.b47.p": "El documento 4 llega a llamar a tal enseñanza una parodia del carácter infinito de Dios: la idea de que el corazón del Padre era tan frío y duro, tan insensible a las penas de sus criaturas, que su misericordia solo brotó cuando vio a su Hijo inocente sangrando y muriendo en la cruz.",
+ "4.b48.p": "Sin embargo, esta sección no termina en la desesperación. La humanidad será al fin liberada de estos antiguos errores. Estamos destinados a conocer al Padre tal como lo retrató Aquel que vivió en la tierra como Hijo del Hombre y a la vez Hijo de Dios.",
+ "4.b49.h": "Conclusión",
+ "4.b50.t": [
+  [
+   "El Padre Universal no se ha retirado de la administración de los universos."
+  ],
+  [
+   "Sección",
+   "Mensaje clave"
+  ],
+  [
+   "1. La Actitud Universal del Padre",
+   "La providencia no es un cuidado arbitrario, sino una actividad entrelazada dentro de la ley cósmica"
+  ],
+  [
+   "2. Dios y la Naturaleza",
+   "La naturaleza es una mezcla de perfección divina e imperfección de las criaturas; no es Dios"
+  ],
+  [
+   "3. El Carácter Invariable de Dios",
+   "Dios nunca es celoso, iracundo ni arrepentido, pero su corazón puede entristecerse"
+  ],
+  [
+   "4. La Comprensión de Dios",
+   "Ser inmutable no significa ser estático; él siempre se muestra como el Padre amante"
+  ],
+  [
+   "5. Las Ideas Erróneas Sobre Dios",
+   "Un dios al que hay que aplacar con sangre pertenece a la religión primitiva, no al Dios del universo"
+  ]
+ ],
+ "4.b51.h": "Puntos clave del documento 4",
+ "4.b52.p": "El documento 4 no tanto nos dice algo nuevo como quita lo que se le había atribuido a Dios por error: lo libera de la naturaleza, de la ira y del trato de la sangre. Lo que queda es un Padre que nunca se retira y que se entristece en silencio cuando sus hijos no crecen.",
+ "4.b53.p": "Dios sostiene el universo sin descanso → no está confinado a la naturaleza → nos sale al encuentro no con ira, sino con tristeza → y ante todo y por encima de todo es un Padre.",
+ "4.b54.box": "Este es el Padre fiel que revela el documento 4.",
+ "5.title": "La Relación de Dios con el Individuo",
+ "5.b0.ask": "«¿Cómo entra el Dios infinito en una relación personal con un solo ser humano finito?»",
+ "5.b1.h": "Panorama general",
+ "5.b2.p": "El Padre Universal es tan grande y tan infinito que a la mente humana finita le cuesta entender cómo semejante Dios puede relacionarse directamente con cada uno de nosotros.",
+ "5.b3.p": "Sin embargo, no tenemos que viajar a los confines del universo para encontrar a Dios. Él ha enviado al Ajustador del Pensamiento, un verdadero fragmento espiritual de sí mismo, a vivir en la mente humana. Así que nuestra relación con Dios no empieza en algún lugar lejano; empieza dentro de nosotros. Por medio de una profunda experiencia espiritual interior podemos descubrir la presencia de Dios y comulgar con él.",
+ "5.b4.p": "Dios es el Infinito que gobierna todo el universo y, al mismo tiempo, se relaciona directamente con cada individuo. Nos ha dado la personalidad y, por medio del circuito de personalidad que une a todas las personas, mantiene su relación con sus hijos como su Padre.",
+ "5.b5.box": "Dios vino primero a nosotros.",
+ "5.b6.h": "El documento",
+ "5.b7.h": "1. El Acercamiento a Dios",
+ "5.b8.p": "Si no podemos acercarnos fácilmente a Dios, no es porque Dios esté lejos de nosotros. Es porque todavía somos seres finitos y materiales.",
+ "5.b9.p": "Dios no se esconde. Al contrario, quiere darse a conocer a sus hijos y tener comunión con ellos.",
+ "5.b10.p": "Sea cual sea nuestra educación, nuestros recursos o nuestro origen cultural, a cada persona se le da la oportunidad de llegar a Dios. A cada uno se le da la misma presencia espiritual de Dios, y cada uno es libre de aceptar su guía.",
+ "5.b11.p": "Si una persona desea sinceramente conocer a Dios, quiere llegar a ser como él y elige hacer la voluntad del Padre, el Ajustador del Pensamiento la guiará espiritualmente.",
+ "5.b13.p": "Los seres humanos tienen libre albedrío. Podemos elegir la voluntad de Dios, y también podemos rechazarla. Dios no nos obliga a venir a él.",
+ "5.b14.p": "Dios ha puesto una parte de sí mismo dentro de nosotros y ha emprendido con nosotros un viaje eterno.",
+ "5.b15.h": "2. La Presencia de Dios",
+ "5.b16.p": "La profundidad con que experimentamos la presencia espiritual de Dios depende de nuestra receptividad espiritual y de nuestra disposición a hacer su voluntad.",
+ "5.b17.p": "La gente suele pensar en Dios como alguien lejano, en el cielo. Pero el documento 5 habla de un Dios mucho más cercano.",
+ "5.b18.p": "El espíritu del Padre Universal vive dentro de la mente humana misma.",
+ "5.b19.p": "El lugar más claro para encontrar la presencia de Dios no es tanto la naturaleza o el mundo exterior como nuestra relación con el Ajustador del Pensamiento residente.",
+ "5.b20.p": "No siempre somos conscientes de lo que hace el Ajustador del Pensamiento. Por eso la verdadera prueba de la obra de Dios en nosotros no es un sentimiento especial, sino los frutos del espíritu que aparecen en nuestra vida. «⟦Q 5:2.4|140:3.19|140:4.7⟧Por sus frutos los conoceréis⟦/Q⟧».",
+ "5.b21.h": "3. La Verdadera Adoración",
+ "5.b22.p": "El documento 5 hace una distinción entre la adoración y la oración.",
+ "5.b23.t": [
+  [
+   "",
+   "Adoración",
+   "Oración"
+  ],
+  [
+   "Su centro",
+   "Dios",
+   "Las necesidades del hombre y de la criatura"
+  ],
+  [
+   "Su propósito",
+   "Reconocer quién es Dios",
+   "Buscar ayuda, guía y cosas semejantes"
+  ],
+  [
+   "Peticiones",
+   "Esencialmente ninguna",
+   "Puede incluir peticiones"
+  ],
+  [
+   "Recompensa",
+   "No espera ninguna",
+   "Puede referirse a nuestras necesidades"
+  ],
+  [
+   "Objeto más alto",
+   "El Padre Universal",
+   "Ligada a la comunión con el Hijo"
+  ],
+  [
+   "Actitud central",
+   "Una respuesta espontánea que brota del amor y la reverencia",
+   "Expresar a Dios nuestras necesidades y nuestro corazón"
+  ]
+ ],
+ "5.b24.p": "La verdadera adoración no es algo que hacemos para obtener algo de Dios. Adoramos a Dios porque es digno de amor, grande y digno de adoración.",
+ "5.b26.h": "4. Dios en la Religión",
+ "5.b27.p": "La religión evolutiva suele empezar a buscar a Dios por miedo, pero la religión revelada parte del amor a Dios y del anhelo de ser como él.",
+ "5.b28.p": "La verdadera religión no es mera doctrina ni ritual. Es una experiencia viva: llegar a ser como Dios, y amar y servir a los demás en el camino.",
+ "5.b29.t": [
+  [
+   "Tradición o religión",
+   "Énfasis principal"
+  ],
+  [
+   "Budismo",
+   "La salvación del sufrimiento; la paz sin fin"
+  ],
+  [
+   "Judaísmo",
+   "La salvación de las dificultades; la rectitud"
+  ],
+  [
+   "Religión griega",
+   "La belleza"
+  ],
+  [
+   "Cristianismo",
+   "La salvación del pecado; la santidad"
+  ],
+  [
+   "Zoroastrismo",
+   "La moral"
+  ],
+  [
+   "Hinduismo",
+   "La metafísica"
+  ],
+  [
+   "Confucianismo",
+   "La ética"
+  ],
+  [
+   "La religión de Jesús",
+   "El amor y el servicio"
+  ]
+ ],
+ "5.b30.p": "Jesús reunió todo esto en torno a un centro más alto: el amor. Y el amor abarca por igual la verdad, la belleza y la bondad.",
+ "5.b31.t": [
+  [
+   "Tradición",
+   "Lema central"
+  ],
+  [
+   "Religión griega",
+   "Conócete a ti mismo"
+  ],
+  [
+   "Religión hebrea",
+   "Conoce a tu Dios"
+  ],
+  [
+   "Cristianismo",
+   "El conocimiento del Señor Jesucristo"
+  ],
+  [
+   "El evangelio de Jesús",
+   "Conoce a Dios y conócete a ti mismo como un hijo de Dios"
+  ]
+ ],
+ "5.b32.h": "5. La Conciencia de Dios",
+ "5.b33.p": "Vivir de forma moral es importante, pero la moralidad por sí sola no es toda la religión. La experiencia espiritual se da cuando una persona encuentra de verdad a Dios y se esfuerza por llegar a ser como él.",
+ "5.b34.t": [
+  [
+   "Nivel",
+   "De qué se trata"
+  ],
+  [
+   "El nivel material",
+   "La supervivencia y la conservación de uno mismo"
+  ],
+  [
+   "El nivel social y emocional",
+   "La amistad y la camaradería"
+  ],
+  [
+   "El nivel moral",
+   "El bien y el mal, y el deber"
+  ],
+  [
+   "El nivel espiritual",
+   "La comunión con Dios y la adoración"
+  ]
+ ],
+ "5.b35.p": "El científico puede tratar de entender a Dios como la Primera Causa; el artista, como la belleza suprema; y el filósofo, como el principio unificador del universo. Pero la persona de fe experimenta a Dios como un Padre amante.",
+ "5.b36.t": [
+  [
+   "Ámbito",
+   "Lo que da la experiencia religiosa"
+  ],
+  [
+   "Intelectual",
+   "Un sentido de unidad en la vida y en la conciencia"
+  ],
+  [
+   "Filosófico",
+   "La seguridad de los valores e ideales morales"
+  ],
+  [
+   "Espiritual",
+   "La satisfacción de la comunión y la adoración con Dios"
+  ]
+ ],
+ "5.b37.t": [
+  [
+   "Conciencia de Dios",
+   "Significado"
+  ],
+  [
+   "Conciencia de la mente",
+   "La comprensión de la idea de Dios"
+  ],
+  [
+   "Conciencia del alma",
+   "La realización del ideal de Dios"
+  ],
+  [
+   "Conciencia del espíritu",
+   "La realización de la realidad espiritual de Dios"
+  ]
+ ],
+ "5.b38.p": "Conocer a Dios no es simplemente tener mucha información sobre él. Es entender a Dios con la mente, anhelarlo con el alma y experimentarlo en el espíritu.",
+ "5.b39.h": "6. El Dios de la Personalidad",
+ "5.b40.p": "El Padre Universal es el Dios de todas las personalidades. Toda personalidad viene de él, y él es a la vez quien otorga y quien conserva toda personalidad.",
+ "5.b41.p": "La personalidad es uno de los grandes misterios del universo. La mente, el espíritu y la energía material no son en sí mismos personalidad. La personalidad es un don único dado directamente por el Padre Universal.",
+ "5.b42.p": "Cada uno de nosotros tiene un yo material, y dentro de él mora el Ajustador del Pensamiento, un fragmento espiritual de Dios. Por la asociación creativa de estos dos, puede crecer un alma inmortal.",
+ "5.b43.p": "En la elección de vivir o no para siempre, Dios nunca pasa por encima de nuestro libre albedrío.",
+ "5.b45.h": "Conclusión",
+ "5.b46.t": [
+  [
+   "Dios es nuestro Padre Universal, y todos somos sus hijos."
+  ],
+  [
+   "Sección",
+   "Mensaje clave"
+  ],
+  [
+   "1. El Acercamiento a Dios",
+   "El camino hacia Dios está abierto para todos"
+  ],
+  [
+   "2. La Presencia de Dios",
+   "Dios está presente dentro de nosotros por medio del Ajustador del Pensamiento"
+  ],
+  [
+   "3. La Verdadera Adoración",
+   "Adoramos porque sabemos quién es Dios"
+  ],
+  [
+   "4. Dios en la Religión",
+   "La verdadera religión es una experiencia viva de amor y servicio"
+  ],
+  [
+   "5. La Conciencia de Dios",
+   "Dios no es solo alguien a quien entender, sino alguien a quien experimentar personalmente"
+  ],
+  [
+   "6. El Dios de la Personalidad",
+   "Dios es la fuente de toda personalidad y respeta nuestro libre albedrío"
+  ]
+ ],
+ "5.b47.h": "Puntos clave del documento 5",
+ "5.b48.p": "Dios no es un Absoluto distante. Es un Padre que me conoce personalmente.",
+ "5.b49.p": "Ha puesto dentro de mí su propio fragmento espiritual, el Ajustador del Pensamiento. Por eso el viaje para encontrar a Dios no empieza solo afuera; empieza adentro.",
+ "5.b50.p": "El Padre nos ha dado su espíritu → por nuestro libre albedrío elegimos su guía → el alma crece → llegamos a conocer a Dios cada vez más profundamente → y al final seguimos adelante hasta el Padre.",
+ "5.b51.box": "Este es el ascenso eterno que describe «La Relación de Dios con el Individuo».",
+ "6.title": "El Hijo Eterno",
+ "6.b0.ask": "«¿Por qué Dios no está solo?»",
+ "6.b1.h": "Panorama general",
+ "6.b2.p": "El Hijo Eterno es uno de los temas más difíciles de El libro de Urantia. Sin embargo, la idea central del documento 6 es sorprendentemente sencilla.",
+ "6.b3.p": "Dios no está solo. Siempre que el Padre se expresa personalmente, esa expresión llega siempre por medio del Hijo Eterno.",
+ "6.b4.p": "Si el Padre es el pensamiento que se tiene en la mente, el Hijo es ese pensamiento pronunciado hacia afuera como el Verbo viviente. Por eso el Hijo siempre fue, es ahora y será para siempre.",
+ "6.b5.p": "El Hijo no tiene principio. Cuando hablamos de un «primer pensamiento», solo tomamos prestadas palabras, como criaturas del tiempo, para intentar captar la eternidad.",
+ "6.b6.p": "Lo más importante de todo: si el Padre es amor, el Hijo es misericordia. El Hijo no es alguien que nos proteja del Padre. Es quien nos trae el amor del Padre tal como es.",
+ "6.b8.h": "El documento",
+ "6.b9.h": "1. La Identidad del Hijo Eterno",
+ "6.b10.p": "El Hijo Eterno es el Hijo original y unigénito de Dios. Es Dios el Hijo, la Segunda Persona de la Deidad y el creador asociado de todas las cosas.",
+ "6.b11.p": "Así como el Padre es la Primera Gran Fuente y Centro, el Hijo Eterno es la Segunda Gran Fuente y Centro. El Hijo es el centro espiritual y el administrador divino del universo de universos.",
+ "6.b12.p": "El Padre Universal nunca crea solo, sin el Hijo. La creación es siempre una obra compartida.",
+ "6.b13.p": "Si el escritor del Nuevo Testamento se hubiera referido al Hijo Eterno, habría dicho la verdad al escribir: «⟦Q 6:1.3⟧En el principio era el Verbo, y el Verbo estaba con Dios⟦/Q⟧».",
+ "6.b14.t": [
+  [
+   "",
+   "El Padre Universal",
+   "El Hijo Eterno"
+  ],
+  [
+   "Fuente y centro",
+   "La Primera Gran Fuente y Centro",
+   "La Segunda Gran Fuente y Centro"
+  ],
+  [
+   "Carácter absoluto",
+   "El absoluto de la voluntad",
+   "El absoluto de la personalidad"
+  ],
+  [
+   "Orden de actividad",
+   "Primero creador, luego controlador",
+   "Primero creador coordinado, luego administrador espiritual"
+  ],
+  [
+   "Expresión",
+   "El pensamiento iniciador",
+   "El verbo expresivo"
+  ],
+  [
+   "Cómo ve a las criaturas",
+   "Las ama como un padre",
+   "Las ve como un padre y también como un hermano"
+  ]
+ ],
+ "6.b15.h": "2. La Naturaleza del Hijo Eterno",
+ "6.b16.p": "Como el Padre, el Hijo Eterno es inmutable e infinitamente digno de confianza.",
+ "6.b17.p": "En su naturaleza, el Hijo es totalmente semejante al Padre espiritual. Por eso, cuando adoramos al Padre Universal, al mismo tiempo adoramos a Dios el Hijo y a Dios el Espíritu.",
+ "6.b18.p": "Para nosotros, de origen humilde, el Hijo parece un paso más fácil de alcanzar que el Padre. Por eso fue y será para siempre verdad del Hijo Eterno y de todos los Hijos Creadores: «⟦Q 6:2.2|169:4.2⟧El que ha visto al Hijo, ha visto al Padre⟦/Q⟧».",
+ "6.b19.p": "El Hijo comparte plenamente la rectitud y la santidad del Padre y, junto con el Padre, lleva la responsabilidad de ayudar a las criaturas imperfectas a alcanzar la perfección divina.",
+ "6.b20.p": "En amar la verdad y crear la belleza, el Padre y el Hijo son iguales. Sin embargo, el Hijo parece dedicarse más a la realización de la belleza espiritual.",
+ "6.b21.h": "3. El Ministerio del Amor del Padre",
+ "6.b22.p": "La frase del documento 6 que más vale la pena tomar a pecho es esta: Dios es amor, el Hijo es misericordia.",
+ "6.b23.p": "El Hijo no puede amar a las criaturas más que el Padre. Pero puede mostrarles misericordia de una manera adicional. La misericordia es amor aplicado: el amor del Padre en acción en la persona del Hijo.",
+ "6.b24.p": "Por eso nunca debemos imaginar al Hijo persuadiendo al Padre para que sea misericordioso. El libro de Urantia dice claramente que tales conceptos de Dios son toscos y grotescos.",
+ "6.b25.p": "Todo el ministerio misericordioso de los Hijos de Dios es una revelación directa del propio corazón del Padre, de su amor universal y su compasión infinita.",
+ "6.b26.t": [
+  [
+   "Malentendido común",
+   "La verdad según el documento 6"
+  ],
+  [
+   "El Hijo convence al Padre de que sea misericordioso",
+   "El amor del Padre es la fuente real y eterna de la misericordia del Hijo"
+  ],
+  [
+   "El Padre es severo y el Hijo es bondadoso",
+   "En la bondad divina no hay diferencia entre el Padre y el Hijo"
+  ],
+  [
+   "La misericordia es algo distinto del amor",
+   "La misericordia es amor aplicado: amor puesto en acción"
+  ],
+  [
+   "El amor del Hijo es menor que el del Padre",
+   "La diferencia no está en el contenido, sino en la manera de expresarse: junto al amor del Padre, el amor del Hijo se parece más al de una madre"
+  ]
+ ],
+ "6.b27.h": "4. Los Atributos del Hijo Eterno",
+ "6.b28.p": "El poder del Hijo Eterno es absoluto en el ámbito espiritual. Todo espíritu puro, todo ser y todo valor espiritual responden al infinito poder de atracción de este Hijo.",
+ "6.b29.p": "Pero el Hijo es todopoderoso solo en el ámbito espiritual. En la administración del universo no hay derroche ni repetición innecesaria de funciones.",
+ "6.b30.p": "Aquí hay que hacer una distinción. El Ajustador del Pensamiento, un fragmento del Padre, vive dentro de nosotros; pero el espíritu del Hijo Eterno no entra en nosotros. En cambio, nos rodea.",
+ "6.b31.t": [
+  [
+   "Atributo",
+   "Qué significa"
+  ],
+  [
+   "Gravedad espiritual",
+   "Controla perfectamente toda la energía espiritual no diferenciada y toda la realidad espiritual actualizada"
+  ],
+  [
+   "Omnipotencia",
+   "Es todopoderoso solo en el ámbito espiritual"
+  ],
+  [
+   "Ubicuidad",
+   "Está presente en espíritu en todas partes; en lugar de morar en nosotros, nos rodea"
+  ],
+  [
+   "Omnisciencia",
+   "Lo sabe todo, ningún acontecimiento cósmico lo sorprende y ve el fin desde el principio"
+  ],
+  [
+   "Sabiduría",
+   "En sabiduría es plenamente igual al Padre"
+  ],
+  [
+   "Contacto personal",
+   "Es bondadoso y considerado, paciente y sufrido, con los seres ascendentes de los reinos inferiores"
+  ]
+ ],
+ "6.b32.p": "Cuanto más sintoniza el fragmento del Padre que hay en nosotros nuestra mente con una actitud divina, más sensibles nos volvemos a la gravedad espiritual del Hijo. La atracción de adentro y el tirón de afuera obran juntos.",
+ "6.b33.h": "5. Las Limitaciones del Hijo Eterno",
+ "6.b34.p": "Sorprendentemente, el documento 6 dedica cierto espacio a lo que el Hijo no hace. Pero estos límites no quitan nada a sus atributos divinos. Más bien muestran lo ordenado que es el universo.",
+ "6.b35.t": [
+  [
+   "Lo que no hace",
+   "Qué significa"
+  ],
+  [
+   "No actúa personalmente en el ámbito material",
+   "No hay ningún límite a su libre uso de la omnisciencia, la ubicuidad y la omnipotencia espirituales"
+  ],
+  [
+   "No actúa en el nivel de la mente si no es por medio del Actor Conjunto",
+   "En la administración del universo no hay repetición innecesaria de funciones"
+  ],
+  [
+   "No otorga la personalidad por sí solo",
+   "La personalidad es el don exclusivo del Padre Universal; el Hijo es cocreador de la personalidad"
+  ],
+  [
+   "No transmite el poder creador por segunda vez",
+   "El poder creador solo se transmite hasta la primera personalización directa, los Hijos Creadores"
+  ],
+  [
+   "No fragmenta su naturaleza",
+   "Una personalidad divina absoluta no puede romperse ni dividirse"
+  ],
+  [
+   "No participa directamente en el otorgamiento de los Ajustadores del Pensamiento",
+   "Sin embargo, aprobó el plan —«⟦Q 6:5.7|10:3.1⟧Hagamos al hombre mortal a nuestra imagen⟦/Q⟧»— y prometió una cooperación sin fin"
+  ]
+ ],
+ "6.b36.p": "Así que, aunque el Hijo no entra en nosotros, el fragmento espiritual del Padre y la presencia espiritual del Hijo obran siempre como uno solo para nuestro progreso espiritual.",
+ "6.b37.h": "6. La Mente del Espíritu",
+ "6.b38.p": "El Hijo Eterno es espíritu y tiene mente. Pero no es una mente como la que conocemos.",
+ "6.b39.p": "Nosotros reconocemos la mente solo en el nivel material y personal. Pero cuando la mente se refiere a los niveles espirituales de la existencia, hay que definirla de una manera muy distinta.",
+ "6.b40.p": "Aquí hay un principio importante: la Deidad nunca puede estar sin mente. La capacidad de conocer y ser conocido —la capacidad de comunicarse— pertenece a la Deidad por naturaleza.",
+ "6.b41.t": [
+  [
+   "Clase de mente",
+   "Descripción"
+  ],
+  [
+   "Mente unida a la materia",
+   "El nivel finito y material de la mente que usamos todos los días"
+  ],
+  [
+   "Mente que media entre el espíritu y la materia",
+   "La mente que actúa donde los dos niveles se encuentran y se enlazan"
+  ],
+  [
+   "Mente unida directamente al espíritu",
+   "Mente puramente espiritual, como la mente del Hijo Eterno"
+  ],
+  [
+   "Premente",
+   "La mente del Ajustador del Pensamiento: fuera de los circuitos del Actor Conjunto, pero conoce y piensa"
+  ]
+ ],
+ "6.b42.p": "La mente del Hijo Eterno es semejante a la mente del Padre y de naturaleza distinta a cualquier otra mente del universo. Mucho de este misterio solo lo entenderemos cuando alcancemos niveles espirituales más altos.",
+ "6.b43.h": "7. La Personalidad del Hijo Eterno",
+ "6.b44.p": "El Hijo es la personalidad absoluta. Mediante la técnica de la trinidización, el Padre se liberó de las ataduras de la personalidad no cualificada y, desde entonces, se ha otorgado sin fin al universo.",
+ "6.b45.p": "Así como la personalidad del Hijo Original vino del Padre, todos los seres personales reciben su personalidad del Padre Universal. La personalidad del Hijo es el modelo divino y eterno del otorgamiento de la personalidad por parte del Padre.",
+ "6.b46.p": "El Hijo Eterno es un ministro de misericordia, un espíritu divino, un poder espiritual y una personalidad real.",
+ "6.b47.p": "Sin embargo, el lenguaje humano no puede transmitir la belleza y la majestad de esa personalidad sublime. Solo cuando lleguemos al Paraíso entenderemos por qué no se podía explicar.",
+ "6.b48.h": "8. La Comprensión del Hijo Eterno",
+ "6.b49.p": "En identidad y naturaleza de personalidad, el Hijo Eterno es el pleno igual y el complemento perfecto del Padre Universal.",
+ "6.b51.p": "En la administración del universo, el Padre y el Hijo están tan estrechamente unidos que no siempre podemos distinguir su obra. Cuando eso ocurre, basta recordar: Dios es el pensamiento iniciador, y el Hijo es el verbo expresivo.",
+ "6.b52.p": "Para nosotros, de origen material, el camino hacia el Hijo Eterno también está abierto. Llega por medio de las misiones de autootorgamiento de los Hijos Paradisiacos y del amoroso ministerio del Espíritu Infinito.",
+ "6.b53.p": "Por ahora, a quien mejor entendemos es al Hijo Creador que vivió como hombre entre los hombres. Él compensa nuestra incapacidad actual para entender al Hijo Eterno.",
+ "6.b55.h": "Conclusión",
+ "6.b57.t": [
+  [
+   "Sección",
+   "Mensaje clave"
+  ],
+  [
+   "1. La Identidad del Hijo Eterno",
+   "El Hijo es la Segunda Fuente y Centro, y el Padre nunca crea solo"
+  ],
+  [
+   "2. La Naturaleza del Hijo Eterno",
+   "El que ha visto al Hijo ha visto al Padre; el Hijo está un paso más cerca de nuestro alcance"
+  ],
+  [
+   "3. El Ministerio del Amor del Padre",
+   "La misericordia es el amor del Padre puesto en acción en el Hijo"
+  ],
+  [
+   "4. Los Atributos del Hijo Eterno",
+   "El fragmento del Padre mora dentro de nosotros; el espíritu del Hijo nos rodea"
+  ],
+  [
+   "5. Las Limitaciones del Hijo Eterno",
+   "Lo que no hace muestra lo ordenado que es el universo"
+  ],
+  [
+   "6. La Mente del Espíritu",
+   "La Deidad nunca está sin mente, y la mente espiritual es distinta de la nuestra"
+  ],
+  [
+   "7. La Personalidad del Hijo Eterno",
+   "El Hijo es la personalidad absoluta, el modelo eterno de todo otorgamiento de personalidad"
+  ],
+  [
+   "8. La Comprensión del Hijo Eterno",
+   "Así como Dios es el Padre Universal, el Hijo es la Madre Universal"
+  ]
+ ],
+ "6.b58.h": "Puntos clave del documento 6",
+ "6.b59.p": "El Hijo Eterno no es una idea teológica lejana. Es el corazón del Padre pronunciado hacia afuera como el Verbo, y cuando ese Verbo nos alcanza, su nombre es misericordia.",
+ "6.b60.p": "El fragmento del Padre me guía desde adentro, y el espíritu del Hijo me rodea y me atrae desde afuera. Estoy sostenido por dentro y por fuera.",
+ "6.b61.p": "El Padre piensa → el Hijo habla → la misericordia nos alcanza → somos atraídos hacia arriba → y al final estamos en la presencia del Hijo.",
+ "6.b62.box": "Este es el universo de amor y misericordia que describe «El Hijo Eterno».",
+ "7.title": "La Relación del Hijo Eterno con el Universo",
+ "7.b0.ask": "«¿Cómo llega mi oración a Dios?»",
+ "7.b1.h": "Panorama general",
+ "7.b2.p": "Si el documento 6 nos dijo quién es el Hijo Eterno, el documento 7 nos dice cómo se relaciona el Hijo con el universo.",
+ "7.b3.p": "Sin embargo, este documento se acerca sorprendentemente a nuestra vida diaria. En la sección 3 explica cómo la oración que ofrecí hoy es llevada hasta Dios. En ninguna otra parte de El libro de Urantia se describe de manera tan concreta el funcionamiento de la oración.",
+ "7.b4.p": "Veamos primero el panorama completo. El Hijo Eterno es el sustentador de las realidades del espíritu. Así como la Isla del Paraíso sostiene toda la materia, el Hijo sostiene todo el espíritu.",
+ "7.b5.p": "Pero conviene dejar algo claro. El Hijo no es directamente responsable de cada acto de cada personalidad espiritual. Las personalidades tienen libre albedrío, y por eso el mundo espiritual no siempre representa fielmente el carácter del Hijo. Pero nada puede aflojar el dominio del Hijo sobre la gravedad espiritual.",
+ "7.b7.h": "El documento",
+ "7.b8.h": "1. El Circuito de la Gravedad-Espíritu",
+ "7.b9.p": "La gravedad espiritual pura de toda la creación conduce directamente de vuelta a la persona de la Segunda Fuente y Centro en el Paraíso. El Hijo sostiene literalmente todas las realidades del espíritu y todos los valores espiritualizados en la palma de su mano.",
+ "7.b10.p": "Y esta gravedad es de una clase muy distinta de la gravedad material. Conocer la diferencia hace mucho más fácil seguir las partes posteriores sobre la oración y el ascenso.",
+ "7.b11.t": [
+  [
+   "Lo que la afecta",
+   "Gravedad material",
+   "Gravedad espiritual"
+  ],
+  [
+   "El tiempo",
+   "Tarda en transmitirse",
+   "Nunca sufre demoras de tiempo"
+  ],
+  [
+   "La distancia",
+   "Disminuye con el cuadrado de la distancia",
+   "No disminuye con la distancia"
+  ],
+  [
+   "La masa",
+   "La retiene la masa de la creación material",
+   "No la retarda la masa"
+  ],
+  [
+   "A qué responde",
+   "A la cantidad de energía organizada",
+   "A la calidad de la naturaleza espiritual"
+  ]
+ ],
+ "7.b13.p": "Este circuito no solo actúa en todo el universo; también actúa entre las personas. Hay una atracción directa de naturaleza espiritual entre las personas de mentalidad espiritual que tienen gustos y anhelos semejantes. Por eso el texto añade: «⟦Q 7:1.6⟧El término espíritus afines no es totalmente una figura retórica⟦/Q⟧».",
+ "7.b14.p": "Ni siquiera el pecado y la rebelión pueden romper este circuito. La rebelión de Lucifer trajo muchos cambios a nuestro sistema y a Urantia, pero no afectó en lo más mínimo la gravedad espiritual del Hijo Eterno. Aunque nuestro planeta quedó en cuarentena espiritual, este poder de atracción siguió sin cambios.",
+ "7.b15.p": "Aun así, la presencia espiritual del Hijo no siempre es previsible. A veces aparecen reacciones imprevisibles, y el autor supone que se trata de la actividad coordinada del Absoluto de Deidad.",
+ "7.b16.t": [
+  [
+   "Quién",
+   "Qué dominio"
+  ],
+  [
+   "El Hijo Eterno",
+   "Gobierna el dominio de los valores espirituales que ya son actuales"
+  ],
+  [
+   "El Absoluto de Deidad",
+   "Parece impregnar el vasto dominio de los valores espirituales que todavía son potenciales"
+  ]
+ ],
+ "7.b17.h": "2. La Administración del Hijo Eterno",
+ "7.b18.p": "El Hijo no está presente en todas partes de la misma manera. Cuanto más lejos del Paraíso, menos actividad personal suya encontramos; en cambio, se manifiesta de otras maneras.",
+ "7.b19.t": [
+  [
+   "Dónde",
+   "Cómo está presente"
+  ],
+  [
+   "El Paraíso",
+   "Su presencia y su actividad personal son profundas: absolutas"
+  ],
+  [
+   "Havona",
+   "Se lo percibe en la exquisita armonía en que el estado espiritual y los estados de energía están en perfecto y eterno equilibrio"
+  ],
+  [
+   "Los superuniversos",
+   "No está personalmente presente, solo una representación superpersonal; las criaturas no pueden percibirlo directamente"
+  ],
+  [
+   "Los universos locales",
+   "Está personalmente presente en las personas de los Hijos Paradisiacos"
+  ]
+ ],
+ "7.b20.p": "Aunque en los superuniversos no se lo puede percibir directamente, no está ausente. El impulso espiritual de su influencia personal se siente en cada fase de cada actividad.",
+ "7.b21.p": "Y en el universo local donde vivimos, su presencia adquiere un rostro. El Hijo actúa espiritual y creativamente en las personas de los Hijos Creadores coordinados. Para nosotros, ese rostro es el rostro de Micael.",
+ "7.b22.h": "3. La Relación del Hijo Eterno con el Individuo",
+ "7.b23.p": "Esta sección es el corazón del documento 7. Veamos primero cómo, a medida que ascendemos, llegamos a reconocer al Hijo.",
+ "7.b24.t": [
+  [
+   "Dónde",
+   "Qué reconocemos"
+  ],
+  [
+   "El universo local",
+   "Reconocemos al Hijo Creador como el representante personal del Hijo Eterno"
+  ],
+  [
+   "El superuniverso",
+   "Tomamos cada vez más conciencia de la sublime presencia del espíritu que inspira, y recibimos su ministerio que vivifica espiritualmente"
+  ],
+  [
+   "Havona",
+   "Tomamos una conciencia más profunda del abrazo espiritual, amoroso y omnipresente del Hijo Original"
+  ]
+ ],
+ "7.b25.p": "Hay que mantener clara una distinción. El espíritu del Hijo Eterno no mora en nuestra mente ni en nuestra alma. Pero su cuidado bondadoso está siempre cerca, atento a nuestro bienestar y a nuestra seguridad espiritual.",
+ "7.b26.p": "Y aquí se revela el secreto del ascenso. El circuito de la gravedad espiritual atrae al alma humana hacia el Paraíso. La mente empieza como un mecanismo material, pero se vuelve cada vez menos sujeta a la gravedad material y cada vez más sensible al impulso de la gravedad espiritual.",
+ "7.b27.p": "Ahora, la oración. El texto dice que el circuito de la gravedad espiritual es el canal básico por el que la verdadera oración pasa de la conciencia humana a la conciencia de la Deidad. Todo lo que en una petición tiene verdadero valor espiritual es tomado por este circuito y llevado de manera instantánea y simultánea a todas las personalidades divinas interesadas.",
+ "7.b28.p": "Y así llega una afirmación notable. Que en la oración tengamos en mente al Hijo Creador de nuestro universo local o al Hijo Eterno en el centro de todas las cosas no hace ninguna diferencia esencial. El circuito se encarga de la entrega.",
+ "7.b29.t": [
+  [
+   "Qué clase de oración",
+   "Qué sucede"
+  ],
+  [
+   "Llena de valor espiritual supremo",
+   "Una vez expresada, ningún poder del universo puede impedir su entrega instantánea a la personalidad espiritual absoluta"
+  ],
+  [
+   "Peticiones puramente egoístas y materiales",
+   "No pueden ser recibidas en el circuito espiritual; pierden su vida y caen muertas"
+  ],
+  [
+   "Peticiones no dictadas por el espíritu",
+   "No ascienden en los circuitos del valor espiritual: son como «⟦Q 7:3.6⟧metal que resuena y címbalo que retiñe⟦/Q⟧»"
+  ]
+ ],
+ "7.b30.p": "El texto compara esto con el sistema nervioso humano. Algunas sensaciones se detienen en la médula espinal, otras las atiende el cerebro inferior, pero los mensajes más importantes llegan como un relámpago a los niveles más altos de la conciencia. La técnica del mundo espiritual es todavía mucho más perfecta.",
+ "7.b31.p": "Así que no tenemos que preocuparnos de si nuestras oraciones llegan a Dios. Pero sí necesitamos saber qué hace válida una oración.",
+ "7.b33.h": "4. Los Planes de Perfección Divina",
+ "7.b34.p": "El Hijo Eterno es el fideicomisario personal y el custodio divino del plan del Padre para la ascensión de las criaturas. Habiendo proclamado el mandato «⟦Q 7:4.7|1:0.3|1:0.6⟧Sed perfectos, así como yo soy perfecto⟦/Q⟧», el Padre confió su ejecución al Hijo.",
+ "7.b35.p": "Esta formidable empresa tiene tres ramas. Están entretejidas, pero vale la pena notar que cada una empezó con una Persona distinta.",
+ "7.b36.t": [
+  [
+   "El plan",
+   "De quién es la propuesta",
+   "Qué hace"
+  ],
+  [
+   "El plan de logro progresivo",
+   "Del Padre Universal, aceptado plenamente por el Hijo",
+   "Criaturas mortales hechas a nuestra imagen, que reciben Ajustadores del Pensamiento y son dotadas de personalidad"
+  ],
+  [
+   "El plan de autootorgamiento",
+   "Del Hijo Eterno: una misión para revelar al Padre",
+   "Hijos de Dios son otorgados a las creaciones evolutivas para encarnar y hacer real el amor del Padre y la misericordia del Hijo"
+  ],
+  [
+   "El plan del ministerio de la misericordia",
+   "Del Espíritu Infinito, concebido y llevado a cabo por él solo",
+   "El ministerio esencial que hace verdaderamente eficaces las otras dos empresas"
+  ]
+ ],
+ "7.b37.p": "El plan de autootorgamiento lleva una disposición de emergencia. Si una rebelión retrasa el plan de logro, las medidas de emergencia del plan de autootorgamiento entran en vigor de inmediato. Los Hijos Paradisiacos están listos, y se han comprometido, a descender a los mismos dominios de la rebelión y actuar allí como restauradores.",
+ "7.b38.p": "Y el texto añade en voz baja una línea: «⟦Q 7:4.5⟧este servicio heroico fue el que realizó en Urantia un Hijo Creador coordinado⟦/Q⟧». El planeta en que vivimos fue ese lugar.",
+ "7.b39.h": "5. El Espíritu de Autootorgamiento",
+ "7.b40.p": "Hay una cosa que el Hijo Eterno no puede hacer: dividirse en fragmentos, como hace el Padre, y entrar en nosotros. Una naturaleza puramente personal no puede fragmentarse.",
+ "7.b41.p": "Por eso el Hijo tomó otro camino. Este contraste es el pasaje más hermoso del documento 7.",
+ "7.b42.t": [
+  [
+   "Quién",
+   "Cómo comparte la experiencia de la criatura"
+  ],
+  [
+   "El Padre Universal",
+   "Se fragmenta como Ajustadores del Pensamiento prepersonales y mora en la mente humana"
+  ],
+  [
+   "El Hijo Eterno",
+   "Como no puede fragmentarse, toma la naturaleza de la criatura mediante la técnica de la encarnación y se hace él mismo criatura"
+  ]
+ ],
+ "7.b43.p": "El texto llama a esta encarnación «⟦Q 7:5.4|119:7.5⟧el secreto de Sonarington⟦/Q⟧» y dice que es la técnica por la que el Hijo se libra de las cadenas del absolutismo de la personalidad.",
+ "7.b44.p": "Así que podemos decir esto: lo que los Ajustadores significan para el Padre, la experiencia de encarnación de los Hijos Paradisiacos lo significa para el Hijo Eterno. Y cuando Micael se encarnó en la naturaleza humana de Jesús de Nazaret, el Hijo Eterno vino de verdad al hombre mortal de Urantia.",
+ "7.b45.p": "Hace muchísimo tiempo, el Hijo se otorgó a cada uno de los siete circuitos de Havona. Aun entonces no actuó como ascendente ni como nativo de Havona; existió como él mismo. Siendo absoluto, no podía suspender su conciencia personal, y durante todo ese tiempo su morada central en el Paraíso no perdió nada de su luz.",
+ "7.b46.p": "Aquí el autor da honestamente un paso atrás. Admite que no sabemos qué ganó el Hijo con esos autootorgamientos. Solo creemos que, ganara lo que ganara, lo ha conservado desde entonces.",
+ "7.b47.p": "Lo que más nos importa viene a continuación. Siempre que un Hijo de Dios es otorgado a un mundo, se hace verdad que en ese autootorgamiento, por medio de él y a través de él, el Hijo Eterno se ha otorgado a las criaturas volitivas del universo.",
+ "7.b49.h": "6. Los Hijos de Dios Paradisiacos",
+ "7.b50.p": "El texto señala una gran fuente de confusión en Urantia: la falta de conocimiento sobre los múltiples Hijos de Dios. Cuando órdenes distintas se agrupan todas bajo la sola palabra Hijo, las Escrituras se vuelven oscuras y la teología se enreda.",
+ "7.b51.p": "La distinción más básica es quién personaliza a quién.",
+ "7.b52.t": [
+  [
+   "Orden de Hijos",
+   "Personalizados por",
+   "Qué hacen"
+  ],
+  [
+   "Hijos Creadores",
+   "El Padre y el Hijo",
+   "Salen a los universos locales y completan la organización de la evolución progresiva"
+  ],
+  [
+   "Hijos Magisteriales",
+   "El Hijo y el Espíritu",
+   "Mediante la encarnación como criaturas ganan el derecho de servir como jueces de la supervivencia"
+  ],
+  [
+   "Hijos Instructores Trinitarios",
+   "El Padre, el Hijo y el Espíritu",
+   "Recorren el gran universo como sublimes maestros de todas las personalidades, humanas y divinas"
+  ]
+ ],
+ "7.b53.p": "La manera en que nace un Hijo Creador es asombrosa. Siempre que el Padre y el Hijo conciben juntos un pensamiento personal nuevo, original y absoluto, ese pensamiento se personaliza de inmediato y perfectamente en un nuevo Hijo Creador.",
+ "7.b54.p": "Sin embargo, estos Hijos también tienen límites. Solo pueden administrar lo que ellos mismos han traído a la existencia, porque la administración absoluta es inherente a la prioridad de existencia. Por eso el texto lo dice en pocas palabras: el Padre sigue siendo el primero en el universo.",
+ "7.b55.p": "Y entre estos Hijos hay un circuito de comunicación exclusivamente suyo, totalmente separado del circuito de la gravedad espiritual. Es instantáneo; a veces está limitado por el espacio, pero es independiente del tiempo.",
+ "7.b56.h": "7. La Revelación Suprema del Padre",
+ "7.b57.p": "El Hijo Eterno es la revelación completa, exclusiva y final del espíritu y la personalidad del Padre Universal. Todo conocimiento del Padre debe venir del Hijo y de sus Hijos.",
+ "7.b58.t": [
+  [
+   "En",
+   "El Padre y el Hijo son"
+  ],
+  [
+   "La personalidad divina",
+   "Coordinados"
+  ],
+  [
+   "La naturaleza espiritual",
+   "Iguales"
+  ],
+  [
+   "La divinidad",
+   "Idénticos"
+  ]
+ ],
+ "7.b59.p": "El Hijo no hace mejor al Padre. El Padre ya es infinitamente perfecto. Su carácter simplemente se amplía para que las criaturas lo vean, al despojarlo de lo que es impersonal y no espiritual.",
+ "7.b60.p": "Así se aclara el camino hacia el Padre. El Padre viene a nosotros como personalidad solo por medio de los Hijos divinos del Hijo Eterno, y nosotros llegamos al Padre por este mismo camino viviente. Esto es así aunque nuestra personalidad haya sido otorgada directamente por el Padre.",
+ "7.b61.p": "Por último, este documento termina con una nota muy tierna. El Hijo, como el Padre, es una verdadera persona, y para quienes fueron humanos el Hijo es más fácil de alcanzar que el Padre. Al pasar por los circuitos de Havona, llegamos a ser capaces de alcanzar al Hijo mucho antes de estar preparados para reconocer al Padre.",
+ "7.b62.p": "Así que, cuando el Hijo Eterno parezca lejano, esto es lo que podemos hacer: meditar en el ministerio amoroso de nuestro Hijo Creador, que una vez fue Hijo del Hombre. Cuanto más miramos ese rostro, más entendemos el carácter del Hijo Eterno de misericordia.",
+ "7.b63.h": "Conclusión",
+ "7.b64.t": [
+  [
+   "El Padre viene a nosotros como persona por medio del Hijo, y por ese camino viviente vamos al Padre."
+  ],
+  [
+   "Sección",
+   "Mensaje clave"
+  ],
+  [
+   "1. El Circuito de la Gravedad-Espíritu",
+   "La gravedad espiritual no se demora por el tiempo ni disminuye con la distancia, y ni siquiera la rebelión puede romperla"
+  ],
+  [
+   "2. La Administración del Hijo Eterno",
+   "Más lejos del Paraíso su actividad personal disminuye, y se manifiesta de otras maneras"
+  ],
+  [
+   "3. La Relación del Hijo Eterno con el Individuo",
+   "El circuito de la gravedad espiritual lleva la verdadera oración y atrae al alma hacia el Paraíso"
+  ],
+  [
+   "4. Los Planes de Perfección Divina",
+   "Los planes de logro, de autootorgamiento y del ministerio de la misericordia se entretejen en una sola empresa"
+  ],
+  [
+   "5. El Espíritu de Autootorgamiento",
+   "El Padre mora en nosotros como fragmento; el Hijo se hace criatura por la encarnación"
+  ],
+  [
+   "6. Los Hijos de Dios Paradisiacos",
+   "Distinguir las órdenes de Hijos despeja la confusión: el Padre sigue siendo el primero"
+  ],
+  [
+   "7. La Revelación Suprema del Padre",
+   "Todo conocimiento del Padre viene del Hijo y de sus Hijos"
+  ]
+ ],
+ "7.b65.h": "Puntos clave del documento 7",
+ "7.b66.p": "Al cerrar el documento 7, nos quedan dos cosas en las manos: un circuito que nunca se rompe y un rostro que se ha acercado.",
+ "7.b67.p": "El circuito no es vencido por el tiempo ni por la distancia, no lo corta la rebelión, y no hay poder en el universo que pueda detener una sola palabra sincera que yo ofrezca hoy. Y al final de ese circuito no hay una idea, sino una persona: alguien que, para nosotros que fuimos humanos, es tanto más fácil de alcanzar.",
+ "7.b68.p": "El Hijo sostiene todo el espíritu → su gravedad lleva mi oración → por la encarnación descendió a nuestro lado → por su rostro vemos al Padre → y por ese camino vamos al Padre.",
+ "7.b69.box": "Este es el camino viviente hacia el Padre que revela el documento 7."
+}

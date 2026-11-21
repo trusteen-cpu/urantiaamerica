@@ -1,0 +1,16 @@
+Q = {
+"119.b36.q": "Urantia es el templo sentimental de todo Nebadon, el principal de diez millones de mundos habitados",
+"120.b10.q": "En el curso de tu autootorgamiento en Urantia una sola preocupación debe acompañarte: la comunión ininterrumpida entre ti y tu Padre Paradisiaco",
+"121.b5.q": "Cuando Micael se encarnó en Urantia, el mundo ofrecía las condiciones más favorables para el autootorgamiento del Hijo Creador, que se hubieran dado jamás o que se hayan dado desde entonces.",
+"121.b31.q": "A esta misma generación Jesús dio su evangelio de religión personal —la filiación con Dios.",
+"121.b46.q": "En realidad he actuado como recopilador y corrector más que como narrador original.",
+"122.b5.q": "Así nació el niño prometido; es decir, de misma manera que todos los niños que antes y desde entonces han llegado al mundo.",
+"122.b15.q": "éste es el hogar que se escogió como morada mortal del hijo de destino.",
+"123.b33.q": "Ellos que tanto me aman harán más por mí y me guiarán mejor que un grupo de extraños que tan sólo ven mi cuerpo y observan mi mente, pero que difícilmente me conocen verdaderamente.",
+"124.b32.q": "Así termina la carrera del niño de Nazaret, y comienza el relato de su adolescencia —de este ser humano divino cada vez más autoconsciente",
+"125.b5.q": "No es posible que el Padre celestial ame menos a sus hijos de lo que tú me amas a mí.",
+"126.b5.q": "La vida de Jesús es el consuelo sempiterno de todos los idealistas desilusionados.",
+"126.b18.q": "Jesús tenía una habilidad infalible para reconocer la verdad, y nunca vacilaba en abrazar la verdad, no importa de cuál fuente pareciera emanar.",
+"127.b5.q": "Lentamente está aprendiendo a vivir su vida celestial mientras continúa viviendo la vida terrestre.",
+"127.b13.q": "el dinero no puede amar",
+}

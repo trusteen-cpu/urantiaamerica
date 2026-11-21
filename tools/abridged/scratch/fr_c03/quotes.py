@@ -1,0 +1,20 @@
+import json, os
+os.chdir(os.path.join(os.path.dirname(__file__), '..', '..'))
+Q = {
+ "17.b5.q": "l’Esprit Infini, mère originelle et éternelle de tous les ministres angéliques.",
+ "17.b18.q": "L’hérédité divine fait quelquefois ressortir chez la créature certains attributs indiscernables chez le Créateur.",
+ "19.b32.q": "l’univers n’est pas statique ; Dieu seul est invariant.",
+ "20.b5.q": "Du point de vue du service, de l’adoration et des suppliques, les Fils Paradisiaques ne font qu’un ; leur esprit est un et leur travail est identique en qualité et en complétude.",
+ "21.b16.q": "La vertu est volitive chez les personnalités ; la droiture n’est pas automatique chez les créatures douées de libre arbitre.",
+ "22.b5.q": "Il n’y a tout simplement rien dans l’existence universelle qui puisse prendre la place d’une expérience personnelle effective",
+ "22.b21.q": "Vous autres mortels qui lisez ce message, vous pouvez vous-mêmes monter au Paradis, atteindre l’embrassement de la Trinité",
+ "23.b5.q": "Les Créateurs possèdent les pleins pouvoirs pour faire d’Urantia un véritable paradis, mais un tel Éden ne contribuerait pas à développer les caractères vigoureux, nobles et expérimentés",
+ "23.b15.q": "Vos anxiétés et vos tristesses, vos épreuves et vos désappointements, font tout aussi bien partie du plan divin sur votre sphère",
+ "24.b5.q": "Un jour, vous rencontrerez ces nobles êtres face à face, si vous ne rejetez pas le plan certain et parfaitement préparé pour assurer votre survie et votre ascension.",
+}
+v = json.load(open('work/todo_fr_c03.json', encoding='utf-8'))
+for k, s in Q.items():
+    assert s.replace(' ', '') in ''.join(v[k]['verses'].values()).replace(' ', ''), k
+assert set(Q) == set(v)
+json.dump(Q, open('fr/quotes_c03.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+print('ok', len(Q))

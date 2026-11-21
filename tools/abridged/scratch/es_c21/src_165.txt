@@ -1,0 +1,74 @@
+## 165.title   HINT: Comienza la Misión de Perea
+"The Perean Mission Begins"
+## 165.b0.ask
+"“What do those who hear the voice of the true shepherd no longer fear, and how should they live between earthly riches and heavenly treasure?”"
+## 165.b1.h
+"Overview"
+## 165.b2.p
+"Back at Pella after the visit to the feast of dedication in Paper 164, Jesus now entered the last phase of his ministry on earth. On January 3, A.D. 30, Abner, chief of the seventy, gave his associates final instructions and sent them out to all the cities and villages of Perea. This Perean mission went on for almost three months and was the last ministry of the Master."
+## 165.b3.p
+"During this tour the women’s corps, now sixty-two strong, took over most of the ministry to the sick, and no miracles were worked. No other part of Palestine was so thoroughly worked, and in no other region did the better classes of citizens so generally accept the Master’s teaching. Perea, about equally gentile and Jewish, was the most beautiful and picturesque province of all Palestine."
+## 165.b4.p
+"In this season, when people gathered for the teaching alone, without miracles, what did Jesus say about the shepherd and his sheep, about fear and trust, and about wealth and treasure?"
+## 165.b6.h
+"The Paper"
+## 165.b7.h   HINT: 1. En el Campamento de Pella
+"1. At the Pella Camp"
+## 165.b8.p
+"By the middle of January more than twelve hundred people were gathered at Pella. Jesus usually taught at nine in the morning, Peter and the apostles taught in the afternoon, and in the evening the Master held question-and-answer sessions with about fifty advanced disciples. By the middle of March, when he set out for Jerusalem, over four thousand people were coming each morning."
+## 165.b9.p
+"The Master chose to end his work on earth when interest in his message had reached its highest point in this second, nonmiraculous phase of the kingdom. Three quarters of the crowd were truth seekers, but there were also many Pharisees, doubters, and cavilers. Abner knew Perea well, for it was where John the Baptist had done most of his work, and once the mission began, Abner and the seventy never returned to the Pella camp."
+## 165.b10.h   HINT: 2. El Sermón del Buen Pastor
+"2. Sermon on the Good Shepherd"
+## 165.b11.p
+"After the feast of dedication more than three hundred Pharisees and others from Jerusalem had followed Jesus to Pella. With disciples and bitter enemies both present, he spoke in a parable so that each could take what found a reception in his heart. The true shepherd enters the fold by the door; his sheep know his voice and follow him, but they flee from a stranger."
+## 165.b12.t
+[["Who", "What he does for the sheep"], ["The true shepherd", "Enters by the door, leads the way, and lays down his life for the sheep"], ["The thief and robber", "Climbs in some other way to steal, to kill, and to destroy"], ["The hireling", "Flees when danger comes and lets the sheep be scattered"], ["The false shepherd", "Claims to see, but the sheep do not know his voice"]]
+## 165.b13.p
+"Jesus said he was both the door to the Father’s sheepfold and the true shepherd. He had many other sheep not of this fold, and these words were true not only of this world; all would be brought into one brotherhood of the sons of God. No man could take away his life: he had the power to lay it down and the power to take it up again, an authority received from his Father. The next day about half of the Jerusalem teachers professed belief in Jesus."
+## 165.b15.h   HINT: 3. El Sermón del Sábado en Pella
+"3. Sabbath Sermon at Pella"
+## 165.b16.p
+"On Sabbath, January 28, before almost three thousand people, Jesus preached on “⟦Q 165:3.1⟧Trust and Spiritual Preparedness.⟦/Q⟧” He warned them against the leaven of the Pharisees, which is hypocrisy, born of prejudice and nurtured in traditional bondage. They were not to fear those who can kill the body but after that have no more power. Not one sparrow, sold five for two pennies, exists without the Father’s knowledge, and they were of much more value than many sparrows."
+   INL 165:3.1 | Trust and Spiritual Preparedness. | AUTO: 
+      V 165:3.1: A fines de enero, las multitudes de los sábados por la tarde eran casi de tres mil personas. El sábado 28 de enero, Jesús predicó el sermón memorable sobre «Confianza y preparación espiritual». Después de las observaciones preliminares de Simón Pedro, el Maestro dijo:
+## 165.b17.p
+"When brought before rulers, they need not worry about what to say, for the spirit within would teach them in that very hour. And to those halting in the valley of decision he said that he had already revealed the Father to them, but he could not lead them to the Father without their consent."
+## 165.b19.h   HINT: 4. La División de la Herencia
+"4. Dividing the Inheritance"
+## 165.b20.p
+"A young man asked Jesus to make his brother divide their inheritance with him. Jesus answered, “⟦Q 165:4.1⟧Man, who made me a divider over you?⟦/Q⟧” Then he warned everyone to keep free from covetousness, for a man’s life consists not in the abundance of what he possesses. He told of a rich man who planned to pull down his barns and build greater ones, but that very night brigands killed him, and his heirs fought over what was left. He had laid up treasures on earth, but he was not rich toward God."
+   INL 165:4.1 | Man, who made me a divider over you? | AUTO: 
+      V 165:4.1: Mientras los apóstoles bautizaban a los creyentes, el Maestro hablaba con los que se quedaban allí. Y cierto joven le dijo: «Maestro, mi padre murió dejándonos muchas propiedades a mí y a mi hermano, pero mi hermano se niega a darme lo que es mío. ¿Quieres tú pues ordenar a mi hermano que comparta esta herencia conmigo?» Jesús se indignó ligeramente de que este joven de mentalidad material trajera a colación tal cuestión de negocios; pero aprovechó la ocasión para impartir una enseñanza ulterior. Dijo Jesús: «Hombre, ¿quién me ha puesto de divisor entre vosotros? ¿De dónde sacaste la idea de que yo me ocupo de los asuntos materiales de este mundo?» Luego, volviéndose a los que estaban a su alrededor, dijo: «Cuidaos, guardaos de la codicia; la vida del hombre no consiste en la abundancia de los bienes que posea. La felicidad no viene del poder de la riqueza, el gozo no surge de la riqueza. La riqueza en sí no es una maldición, pero el amor a la riqueza muchas veces conduce a una devoción tal por las cosas de este mundo, que el alma se enceguece a las bellas atracciones de las realidades espirituales del reino de Dios en la tierra y al regocijo de la vida eterna en el cielo.
+## 165.b21.p
+"Asked whether it is a sin to possess honest wealth, Jesus said it is not, but it becomes sin when wealth turns into treasures that absorb one’s interests and draw the affections away from the spiritual pursuits of the kingdom. He never approved of improvidence, idleness, or neglect of one’s family; he taught that the material must be subordinated to the welfare of the soul."
+## 165.b22.t
+[["On wealth", "What Jesus taught"], ["Honorable wealth", "Not a sin — provided your treasure is in heaven"], ["The love of riches", "It obscures and even destroys the spiritual vision"], ["Wealth held as a steward", "It supports the workers of the kingdom, as in David’s tented city"], ["The danger to watch", "Wealth becoming not your servant but your master"]]
+## 165.b23.p
+"Asked how the wealthy would fare in the judgment, Jesus said he had come to judge neither rich nor poor; the lives men live will sit in judgment on all. But all who acquire great wealth must answer at least three questions."
+## 165.b24.t
+[["The question", "What it asks"], ["1. How much?", "How much wealth did you accumulate?"], ["2. How gained?", "How did you get this wealth?"], ["3. How used?", "How did you use your wealth?"]]
+## 165.b25.h   HINT: 5. Las Conversaciones con los Apóstoles Sobre la Riqueza
+"5. Talks to the Apostles on Wealth"
+## 165.b26.p
+"That evening, at Andrew’s request, Jesus spoke to the apostles alone. Since they had forsaken everything to become ambassadors of the kingdom, his words to them had to be somewhat different. They were not to be anxious about food or clothing, but to trust the Father, who feeds the ravens and clothes the lilies more gloriously than Solomon."
+## 165.b27.t
+[["Who", "How they were to live"], ["Apostles and full-time workers", "Those who give their lives to the gospel shall live by the gospel"], ["Believing disciples", "They earn their own bread and help support those who teach and preach"]]
+## 165.b28.p
+"Then, with severe trials ahead, he told them to gird up the loins of their minds and keep their lamps burning, like servants watching for their master to return from the marriage feast. For the Son of Man would depart in an hour and a manner they did not expect."
+## 165.b30.h   HINT: 6. La Respuesta a la Pregunta de Pedro
+"6. Answer to Peter’s Question"
+## 165.b31.p
+"When Peter asked whether the parable was meant for the apostles, Jesus answered that in the time of testing a man’s soul is revealed. The tried and faithful steward is set over the household, but the servant who thinks his master is delayed and mistreats his fellows will be cast out in disgrace. Much has been given to them, so much will be required."
+## 165.b32.p
+"Jesus said his mission would not bring peace in the material affairs of men, not for a time at least; the gospel would divide families and friends. Each believer would have great and lasting peace in his own heart, but peace on earth would come only when all were willing to enter their inheritance of sonship with God. Even so, they were to go into all the world and proclaim the gospel to every man, woman, and child."
+## 165.b33.h
+"Conclusion"
+## 165.b34.p
+"Paper 165 shows how the teaching grew deepest just where the miracles stopped. Jesus stands as the true shepherd who lays down his own life, waiting for his sheep to know his voice and follow. Those who hear that voice do not fear those who can only kill the body; they trust the Father who forgets not even one sparrow. Wealth in itself is not sin, but when it becomes master and swallows the soul, a man grows poor toward God. The Father compels no one, and to those who seek the greater thing, the lesser follows like a shadow."
+## 165.b35.t
+[["Section", "Key message"], ["1. At the Pella Camp", "Jesus chose to end his work when the nonmiraculous teaching reached its height"], ["2. Sermon on the Good Shepherd", "The true shepherd lays down his life for the sheep of his own will"], ["3. Sabbath Sermon at Pella", "Fear not — the Father compels no one"], ["4. Dividing the Inheritance", "Life does not consist in the abundance of possessions"], ["5. Talks to the Apostles on Wealth", "Seek the heavenly, and the earthly follows like a shadow"], ["6. Answer to Peter’s Question", "Trial reveals the soul, and much is required of those given much"]]
+## 165.b36.h
+"Key Points of Paper 165"
+## 165.b37.box
+"Those who follow the voice of the true shepherd are freed from fear and greed and seek the treasure of heaven, for where your treasure is, there will your heart be also."

@@ -1,0 +1,1 @@
+"193.b12.t": [["Fruto del espíritu", "Fruto del espíritu"], ["Servicio amante", "Esperanza sin fin"], ["Devoción altruista", "Confianza incondicionada"], ["Lealtad valiente", "Ministerio misericordioso"], ["Justicia sincera", "Bondad infalible"], ["Honestidad esclarecida", "Tolerancia clemente"], ["Paz duradera", "—"]],

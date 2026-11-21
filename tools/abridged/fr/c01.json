@@ -1,0 +1,2213 @@
+{
+ "ui.title": "Le Livre d’Urantia, version abrégée",
+ "ui.sub": "L’Introduction et les 196 fascicules sous une forme plus brève et facile à lire",
+ "ui.by": "par Jay Han",
+ "ui.copy": "Le Livre d’Urantia, version abrégée · Jay Han · 2026<br>Les citations sont reproduites mot pour mot de la traduction française officielle du Livre d’Urantia, publiée par la Fondation Urantia. Si vous citez les résumés, veuillez mentionner cette édition.",
+ "ui.label_foreword": "Introduction",
+ "ui.label_paper": "Fascicule {n}",
+ "ui.toc_mark_foreword": "Intro",
+ "ui.contents": "☰ Sommaire",
+ "ui.scope_title": "Jusqu’où lire",
+ "ui.scope_ch": "Ce fascicule",
+ "ui.scope_all": "Continuer la lecture",
+ "ui.listen": "▶ Écouter",
+ "ui.pause": "⏸ Pause",
+ "ui.stop": "■ Arrêter",
+ "ui.voice_title": "Voix",
+ "ui.speed_title": "Vitesse",
+ "ui.search_ph": "Chercher un fascicule ou un titre",
+ "ui.loading": "Chargement…",
+ "ui.nothing": "Aucun résultat.",
+ "ui.prev": "← Précédent",
+ "ui.next": "Suivant →",
+ "ui.para_listen": "Écouter ce paragraphe",
+ "ui.std_voice": "Voix standard (la même dans tous les navigateurs)",
+ "ui.copy_limit": "Vous pouvez citer, mais pas copier plus de {n} caractères à la fois.",
+ "ui.no_bulk": "Ce livre ne peut pas être copié, enregistré ni imprimé en entier.",
+ "ui.no_print": "Ce livre ne peut pas être imprimé. Veuillez le lire à l’écran.",
+ "ui.load_fail": "Le texte n’a pas pu être chargé. Vérifiez votre connexion et rechargez cette page.",
+ "ui.cite_title": "Ouvrir ce passage dans le Livre d’Urantia",
+ "0.title": "Introduction",
+ "0.b1.h": "Vue d’ensemble",
+ "0.b2.p": "L’Introduction du Livre d’Urantia ne présente pas de doctrine qui lui serait propre. Elle a été écrite pour expliquer d’avance les termes clés qui reviendront tout au long du livre : Dieu, divinité, Déité, réalité, personnalité, énergie, les Absolus et la Trinité.",
+ "0.b3.p": "Le langage humain est trop limité pour exprimer pleinement les vastes réalités de l’univers. Les révélateurs nous disent donc qu’ils emploieront des mots ordinaires chaque fois qu’ils le pourront, et qu’ils n’introduiront de nouveaux termes que lorsqu’aucun mot de la langue ne peut porter le concept.",
+ "0.b4.p": "Le plus important, en lisant l’Introduction, est de ne pas essayer de saisir toutes les idées d’un coup. C’est bien plus facile si vous la considérez comme une carte — une carte qui montre comment l’univers entier est organisé et comment il se rattache à la réalité divine.",
+ "0.b5.t": [
+  [
+   "L’univers",
+   "En termes simples"
+  ],
+  [
+   "Urantia",
+   "Le nom du monde où nous vivons"
+  ],
+  [
+   "Nébadon",
+   "L’univers local auquel appartient Urantia"
+  ],
+  [
+   "Orvonton",
+   "L’un des sept superunivers ; Nébadon en fait partie"
+  ],
+  [
+   "Havona",
+   "L’univers central, éternel et parfait, au centre des sept superunivers"
+  ],
+  [
+   "Le Paradis",
+   "Le centre de tous les univers et la demeure du Dieu éternel"
+  ],
+  [
+   "Le grand univers",
+   "Havona et les sept superunivers ensemble — la création actuellement organisée et habitée"
+  ],
+  [
+   "Le maitre univers",
+   "Un ensemble plus vaste encore, qui englobe aussi les univers de l’espace extérieur"
+  ]
+ ],
+ "0.b6.h": "Le fascicule",
+ "0.b7.h": "I. Déité et divinité",
+ "0.b8.p": "Dans l’Introduction, la Déité est une idée plus large que Dieu. La Déité peut être personnelle, mais elle peut aussi fonctionner de manière prépersonnelle ou superpersonnelle.",
+ "0.b9.p": "La divinité, en revanche, est la qualité unifiante et coordonnatrice que manifeste la Déité. Nous saisissons la divinité comme vérité, beauté et bonté ; dans les relations personnelles, nous en faisons l’expérience comme amour, miséricorde et ministère.",
+ "0.b10.t": [
+  [
+   "Niveau de fonction de la Déité",
+   "Ce que cela signifie"
+  ],
+  [
+   "1. Statique",
+   "Déité contenue en soi et existant en soi"
+  ],
+  [
+   "2. Potentiel",
+   "Déité dotée de volonté et de but — la Déité comme possibilité"
+  ],
+  [
+   "3. Associatif",
+   "Déité en relation personnelle et en fraternité divine"
+  ],
+  [
+   "4. Créatif",
+   "Déité qui se distribue et se révèle"
+  ],
+  [
+   "5. Évolutionnaire",
+   "Déité qui grandit avec ses créatures et s’étend elle-même"
+  ],
+  [
+   "6. Suprême",
+   "Déité qui unifie l’expérience créature-Créateur dans le temps et l’espace"
+  ],
+  [
+   "7. Ultime",
+   "Déité fonctionnant sur le niveau absonite, au-delà du temps et de l’espace"
+  ]
+ ],
+ "0.b12.h": "II. Dieu",
+ "0.b13.p": "L’Introduction relie toujours le mot Dieu à la personnalité. Quand le contexte n’est pas clair, Dieu désigne habituellement le Père Universel.",
+ "0.b14.t": [
+  [
+   "Nom",
+   "Sens essentiel"
+  ],
+  [
+   "Dieu le Père",
+   "Créateur, Contrôleur et Soutien — le Père Universel"
+  ],
+  [
+   "Dieu le Fils",
+   "Créateur Coordonné et Contrôleur d’Esprit — le Fils Éternel"
+  ],
+  [
+   "Dieu l’Esprit",
+   "Acteur Conjoint, Intégrateur Universel et Dispensateur du Mental — l’Esprit Infini"
+  ],
+  [
+   "Dieu le Suprême",
+   "Le Dieu qui évolue et dont on fait l’expérience dans le temps et l’espace"
+  ],
+  [
+   "Dieu le Septuple",
+   "La Déité révélée en sept étapes, afin que les créatures du temps et de l’espace puissent s’approcher de Dieu"
+  ],
+  [
+   "Dieu l’Ultime",
+   "Le Dieu expérientiel du niveau absonite, au-delà du temps et de l’espace"
+  ],
+  [
+   "Dieu l’Absolu",
+   "Le Dieu qui devient expérientiellement réel sur le niveau absolu"
+  ]
+ ],
+ "0.b15.p": "Ce qu’il faut retenir, c’est que Dieu n’est pas une idée simple et unique. Le mot englobe les nombreuses manières dont la Déité personnelle se révèle sur différents niveaux.",
+ "0.b16.h": "III. La Source-Centre Première",
+ "0.b17.p": "En tant que Source-Centre Première, le Père Universel est la source de toute réalité. Aucune chose et aucun être ne peut, en fin de compte, exister indépendamment de lui.",
+ "0.b18.t": [
+  [
+   "Les sept Absolus coordonnés",
+   "En bref"
+  ],
+  [
+   "La Source-Centre Première",
+   "Le Père Universel, source de toute réalité"
+  ],
+  [
+   "La Source-Centre Deuxième",
+   "Le Fils Éternel"
+  ],
+  [
+   "La Source-Centre Troisième",
+   "L’Esprit Infini"
+  ],
+  [
+   "L’Ile du Paradis",
+   "Le centre absolu de la gravité matérielle et de la réalité physique"
+  ],
+  [
+   "L’Absolu de Déité",
+   "L’absolu du potentiel divin"
+  ],
+  [
+   "L’Absolu Universel",
+   "L’équilibre et le coordonnateur entre la réalité déifiée et la réalité non déifiée"
+  ],
+  [
+   "L’Absolu Non Qualifié",
+   "Le potentiel cosmique non personnel et illimité"
+  ]
+ ],
+ "0.b19.p": "Parce que l’éternité et l’infinité sont si difficiles à saisir pour nous, l’Introduction emploie le terme philosophique de JE SUIS. Cela ne veut pas dire qu’il y ait eu un véritable point de départ dans le temps. C’est une façon de décrire, pour notre pensée liée au temps, une réalité qui n’a ni commencement ni fin.",
+ "0.b20.h": "IV. Réalité d’univers",
+ "0.b21.p": "La réalité d’univers n’existe pas sous une seule forme. L’Introduction décrit trois grandes phases : la réalité déifiée, la réalité non déifiée et la réalité interassociée qui relie les deux.",
+ "0.b22.t": [
+  [
+   "Phase",
+   "Description"
+  ],
+  [
+   "Réalité non déifiée",
+   "Le domaine de l’énergie non personnelle et de la réalité matérielle"
+  ],
+  [
+   "Réalité déifiée",
+   "Le domaine de la réalité divine et spirituelle, tout ce qui est personnalisable"
+  ],
+  [
+   "Réalité interassociée",
+   "La réalité qui relie les deux domaines et les maintient en relation et en équilibre"
+  ]
+ ],
+ "0.b23.t": [
+  [
+   "Vu depuis le temps et l’espace",
+   "En termes simples"
+  ],
+  [
+   "Actuel / Potentiel",
+   "Ce qui est déjà exprimé / ce qui existe encore comme possibilité"
+  ],
+  [
+   "Absolu / Subabsolu / Fini",
+   "Des niveaux de réalité, selon leur degré de transcendance du temps et de l’espace"
+  ],
+  [
+   "Existentiel / Expérientiel",
+   "Ce qui existe depuis l’éternité / ce qui devient réel par l’expérience et l’évolution"
+  ],
+  [
+   "Personnel / Impersonnel",
+   "Ce qui existe en tant que personne / la réalité qui n’est pas une personne"
+  ]
+ ],
+ "0.b24.p": "Le Paradis n’est pas une personnalité créatrice. C’est le centre absolu de la réalité physique et de la gravité. Voilà pourquoi l’Introduction n’identifie jamais le Paradis à Dieu.",
+ "0.b25.h": "V. Réalités de personnalité",
+ "0.b26.p": "La personnalité ne surgit pas d’elle-même ; c’est un don unique du Père Universel. La personnalité n’est ni le corps, ni le mental, ni l’esprit, ni l’âme. Elle est la réalité durable qui les unifie tous en un seul moi.",
+ "0.b27.t": [
+  [
+   "Dans l’expérience humaine",
+   "En termes simples"
+  ],
+  [
+   "Corps",
+   "L’organisme vivant, matériel et physique"
+  ],
+  [
+   "Mental",
+   "Le pouvoir intellectuel et émotionnel de penser, de ressentir et de juger"
+  ],
+  [
+   "Esprit",
+   "L’Ajusteur de Pensée qui habite le mental humain"
+  ],
+  [
+   "Âme",
+   "Une réalité morontielle qui grandit grâce aux choix humains et à l’œuvre de l’Ajusteur de Pensée"
+  ],
+  [
+   "Personnalité",
+   "L’identité unique donnée par le Père Universel, qui unifie corps, mental, esprit et âme"
+  ]
+ ],
+ "0.b29.h": "VI. Énergie et archétype",
+ "0.b30.p": "L’Introduction emploie le mot énergie dans un sens large — non seulement pour le domaine matériel, mais aussi pour les domaines de l’esprit et du mental. Et elle explique que l’univers comporte des circuits et des centres qui relient chacun de ces domaines.",
+ "0.b31.t": [
+  [
+   "Terme",
+   "Sens"
+  ],
+  [
+   "Personnel",
+   "Tout ce qui réagit au circuit de personnalité du Père"
+  ],
+  [
+   "Esprit",
+   "Tout ce qui réagit au circuit d’esprit du Fils"
+  ],
+  [
+   "Mental",
+   "Tout ce qui réagit au circuit mental de l’Esprit Infini"
+  ],
+  [
+   "Matériel",
+   "L’énergie-matière qui réagit à la gravité matérielle du Paradis"
+  ]
+ ],
+ "0.b32.t": [
+  [
+   "Stade de l’énergie physique",
+   "En termes simples"
+  ],
+  [
+   "Force cosmique",
+   "Énergie primitive qui ne réagit pas encore, même à la gravité du Paradis"
+  ],
+  [
+   "Énergie émergente",
+   "Énergie qui réagit à la gravité du Paradis, mais pas encore à la gravité locale ou linéaire"
+  ],
+  [
+   "Pouvoir d’univers",
+   "Énergie matérielle qui réagit à la fois à la gravité du Paradis et à la gravité linéaire"
+  ]
+ ],
+ "0.b33.p": "Un archétype est un modèle original à partir duquel on peut faire des copies. Le Paradis est l’absolu des archétypes, et le Fils Éternel est décrit comme la personnalité archétype.",
+ "0.b34.h": "VII. L’Être Suprême",
+ "0.b35.p": "L’Introduction divise la Déité en existentielle et expérientielle. Le Père, le Fils et l’Esprit existent depuis l’éternité. Mais l’Être Suprême est une Déité expérientielle, qui devient réelle dans les univers du temps et de l’espace à mesure que s’accumule l’expérience des créatures et des Créateurs.",
+ "0.b36.t": [
+  [
+   "Nature",
+   "Description"
+  ],
+  [
+   "Existentielle",
+   "Déité existant éternellement — passé, présent et futur"
+  ],
+  [
+   "Expérientielle",
+   "Déité qui devient réelle à travers l’histoire de l’univers et l’expérience des créatures"
+  ]
+ ],
+ "0.b37.p": "Il est utile de concevoir l’Être Suprême non comme un créateur qui fait tout directement, mais comme celui qui rassemble et unifie toute l’expérience des créatures et des Créateurs dans le temps et l’espace.",
+ "0.b38.h": "VIII. Dieu le Septuple",
+ "0.b39.p": "Les êtres humains finis ne peuvent pas atteindre le Dieu infini d’un seul pas. Aussi, explique l’Introduction, le Père Universel a-t-il établi Dieu le Septuple — une voie d’approche par laquelle les créatures évoluantes peuvent découvrir Dieu étape par étape.",
+ "0.b40.t": [
+  [
+   "Étape",
+   "Dieu le Septuple"
+  ],
+  [
+   "1",
+   "Les Fils Créateurs du Paradis"
+  ],
+  [
+   "2",
+   "Les Anciens des Jours"
+  ],
+  [
+   "3",
+   "Les Sept Maitres Esprits"
+  ],
+  [
+   "4",
+   "L’Être Suprême"
+  ],
+  [
+   "5",
+   "Dieu l’Esprit"
+  ],
+  [
+   "6",
+   "Dieu le Fils"
+  ],
+  [
+   "7",
+   "Dieu le Père"
+  ]
+ ],
+ "0.b41.p": "La découverte de Dieu par un mortel commence par le Fils Créateur de notre propre univers local tout proche, s’élève pas à pas vers des niveaux plus élevés de divinité et parvient enfin à la reconnaissance du Père Universel.",
+ "0.b42.h": "IX. Dieu l’Ultime",
+ "0.b43.p": "Dieu l’Ultime est un niveau de Déité expérientielle plus élevé que l’Être Suprême. Si le Suprême unifie surtout l’expérience finie des univers du temps et de l’espace, l’Ultime est la Déité qui devient réelle sur le niveau absonite, au-delà du temps et de l’espace.",
+ "0.b44.p": "Dieu l’Ultime est donc très éloigné de tout ce que les êtres humains peuvent expérimenter aujourd’hui. Il est présenté comme une expression de la divinité liée au développement futur, plus vaste, du maitre univers.",
+ "0.b45.h": "X. Dieu l’Absolu",
+ "0.b46.p": "L’Introduction parle de Dieu l’Absolu avec une grande prudence. Le terme désigne la divinité qui deviendra expérientiellement réelle sur le niveau absolu, bien au-delà de tout ce que les mentals finis peuvent comprendre aujourd’hui.",
+ "0.b47.p": "L’Introduction elle-même admet qu’elle ne peut pas expliquer pleinement ce niveau. Mieux vaut donc l’accueillir non comme une chose à comprendre entièrement, mais comme l’horizon le plus lointain de la possibilité cosmique.",
+ "0.b48.h": "XI. Les Trois Absolus",
+ "0.b49.p": "L’Introduction explique le potentiel infini de l’univers par la relation entre les trois Absolus. Ils sont distincts par leur fonction, mais, en fin de compte, ils sont unis en un seul tout infini.",
+ "0.b50.t": [
+  [
+   "L’Absolu",
+   "Sa fonction, en termes simples"
+  ],
+  [
+   "L’Absolu de Déité",
+   "Le potentiel infini, divin et personnalisable"
+  ],
+  [
+   "L’Absolu Non Qualifié",
+   "La force et le potentiel cosmiques non personnels et illimités"
+  ],
+  [
+   "L’Absolu Universel",
+   "La réalité qui ajuste et équilibre la tension entre l’Absolu de Déité et l’Absolu Non Qualifié"
+  ]
+ ],
+ "0.b52.h": "XII. Les Trinités",
+ "0.b53.p": "La Trinité du Paradis est l’union éternelle de Déité du Père Universel, du Fils Éternel et de l’Esprit Infini. C’est une Trinité existentielle, sans commencement.",
+ "0.b54.p": "Dans l’évolution de l’univers, il existe cependant aussi des Trinités expérientielles — la Trinité Ultime et la Trinité Absolue — que l’Introduction décrit comme étant encore en train de devenir réelles.",
+ "0.b55.t": [
+  [
+   "Trinité",
+   "Nature"
+  ],
+  [
+   "La Trinité du Paradis",
+   "La Trinité existentielle, existant depuis l’éternité"
+  ],
+  [
+   "La Trinité Ultime",
+   "La première Trinité expérientielle, actuellement en évolution"
+  ],
+  [
+   "La Trinité Absolue",
+   "La seconde Trinité expérientielle, actuellement en cours d’actualisation"
+  ]
+ ],
+ "0.b56.p": "Une Trinité n’est pas simplement trois êtres désignés par un seul nom. C’est une structure réelle de l’univers — une structure de relation et d’unité divines.",
+ "0.b57.h": "Remerciements",
+ "0.b58.p": "Les révélateurs expliquent qu’en rédigeant ces fascicules, ils ont pleinement utilisé les concepts philosophiques et religieux les plus élevés que les êtres humains avaient déjà découverts. C’est seulement là où les idées humaines existantes ne pouvaient pas porter la vérité qu’ils ont ajouté une connaissance cosmique plus élevée.",
+ "0.b59.p": "Ils admettent aussi qu’il est impossible de traduire pleinement l’éternité et la divinité en langage humain. Pourtant, parce qu’un fragment de Dieu, l’Ajusteur de Pensée, habite le mental humain, et parce que l’Esprit de Vérité est à l’œuvre, les êtres humains peuvent peu à peu comprendre les valeurs spirituelles et les significations de l’univers.",
+ "0.b60.h": "Conclusion",
+ "0.b61.t": [
+  [
+   "L’Introduction n’est pas un chapitre de réponses à apprendre par cœur ; c’est une carte des concepts pour lire tout le Livre d’Urantia."
+  ],
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "I. Déité et divinité",
+   "La Déité est un vaste concept cosmique ; la divinité est sa qualité unifiante"
+  ],
+  [
+   "II. Dieu",
+   "Dieu signifie la Déité personnalisée"
+  ],
+  [
+   "III. La Source-Centre Première",
+   "Le Père Universel est la source de toute réalité"
+  ],
+  [
+   "IV. Réalité d’univers",
+   "La réalité d’univers se présente comme déifiée, non déifiée et interassociée"
+  ],
+  [
+   "V. Réalités de personnalité",
+   "La personnalité est un don unique du Père Universel"
+  ],
+  [
+   "VI. Énergie et archétype",
+   "L’énergie agit sur de nombreux niveaux ; un archétype est l’original à partir duquel on fait des copies"
+  ],
+  [
+   "VII. L’Être Suprême",
+   "L’Être Suprême évolue en unifiant l’expérience du temps et de l’espace"
+  ],
+  [
+   "VIII. Dieu le Septuple",
+   "La voie par laquelle les créatures finies s’approchent de Dieu pas à pas"
+  ],
+  [
+   "IX. Dieu l’Ultime",
+   "Le Dieu expérientiel du niveau absonite, au-delà du temps et de l’espace"
+  ],
+  [
+   "X. Dieu l’Absolu",
+   "La divinité qui deviendra réelle sur le niveau absolu"
+  ],
+  [
+   "XI. Les Trois Absolus",
+   "Trois phases fonctionnelles du potentiel infini"
+  ],
+  [
+   "XII. Les Trinités",
+   "La structure cosmique de la relation et de l’unité divines"
+  ]
+ ],
+ "0.b62.h": "Points clés de l’Introduction",
+ "0.b63.p": "L’Introduction du Livre d’Urantia nous emmène au-delà du seul mot familier de Dieu. Elle montre comment la divinité, la réalité, la personnalité, l’univers, les Absolus et la Trinité sont tous reliés les uns aux autres.",
+ "0.b64.p": "Elle peut sembler difficile au début, mais il n’est pas nécessaire de retenir tous les termes d’un coup. En lisant chacun des fascicules qui suivent, revenez à l’Introduction et vérifiez où chaque idée trouve sa place.",
+ "0.b65.box": "Voir d’abord la structure d’ensemble → apprendre les termes → lire chaque fascicule et revenir à l’Introduction.",
+ "1.title": "Le Père Universel",
+ "1.b0.ask": "« Dieu est-il une personne, et non une force ou une loi ? »",
+ "1.b1.h": "Vue d’ensemble",
+ "1.b2.p": "Le fascicule 1 ouvre la porte de tout le Livre d’Urantia. Il traite d’une seule question : qui est Dieu ?",
+ "1.b3.p": "Le fascicule commence par fixer un ordre à notre réflexion. Pensez d’abord à Dieu comme créateur, puis comme contrôleur, et enfin comme soutien infini.",
+ "1.b4.p": "Pourtant, le point sur lequel le fascicule 1 insiste le plus se trouve ailleurs. Dieu n’est pas une force immense ni une loi de la nature, mais une véritable personne — quelqu’un qui peut connaitre et être connu, aimer et être aimé.",
+ "1.b5.p": "Et cette personne nous a donné un commandement. Il n’est pas destiné à nous effrayer. C’est une invitation qui ne cesse de nous appeler plus loin, sans fin.",
+ "1.b7.h": "Le fascicule",
+ "1.b8.h": "1. Le nom du Père",
+ "1.b9.p": "Chose surprenante, Dieu ne s’est jamais révélé par un nom — seulement par sa nature.",
+ "1.b10.p": "Les noms que les créatures donnent à leur Créateur montrent donc comment elles le comprennent. Quand nous l’appelons Père, c’est un nom que nous avons choisi nous-mêmes, et il nait de notre reconnaissance d’une relation personnelle avec lui.",
+ "1.b11.t": [
+  [
+   "Où",
+   "Comment Dieu est appelé"
+  ],
+  [
+   "Près du centre de l’univers des univers",
+   "La Source Première"
+  ],
+  [
+   "Plus loin, dans les univers de l’espace",
+   "Le Centre Universel"
+  ],
+  [
+   "Plus loin encore, par exemple au siège de notre univers local",
+   "La Première Source Créatrice et le Centre Divin"
+  ],
+  [
+   "Une constellation voisine",
+   "Le Père des Univers"
+  ],
+  [
+   "Ailleurs",
+   "Le Soutien Infini ; vers l’est, le Divin Contrôleur"
+  ],
+  [
+   "Autres noms",
+   "Le Père des Lumières, le Don de la Vie, l’Unique Tout-Puissant"
+  ],
+  [
+   "Le siège de notre constellation",
+   "Le Père Universel"
+  ],
+  [
+   "D’autres planètes de notre système local",
+   "Le Père des Pères, le Père du Paradis, le Père de Havona, le Père Esprit"
+  ],
+  [
+   "Urantia",
+   "Dieu"
+  ],
+  [
+   "Ceux qui le connaissent par les effusions des Fils du Paradis",
+   "« Notre Père »"
+  ]
+ ],
+ "1.b12.p": "Tant de noms ne signifient pas la confusion. Ils signifient que le même Être a été rencontré depuis de nombreux endroits différents. Quel que soit le nom que nous employons, ce qui compte, c’est de le connaitre et d’aspirer à lui ressembler.",
+ "1.b13.p": "Une chose encore mérite d’être retenue. Dieu n’impose jamais à personne la reconnaissance, l’adoration formelle ou un service servile. Il n’y a qu’une seule chose que nous puissions vraiment lui donner : le libre choix de faire la volonté du Père. Ce choix est la réalité de la véritable adoration.",
+ "1.b14.h": "2. La réalité de Dieu",
+ "1.b15.p": "Dieu est la réalité primordiale dans le monde spirituel, la source de la vérité dans le domaine du mental, et il couvre tout de son ombre d’un bout à l’autre des royaumes matériels. Pourtant, Dieu n’est semblable ni à un homme ni à une machine.",
+ "1.b16.p": "Le fascicule 1 énumère ensuite, un à un, ce que Dieu n’est pas. Cette liste montre combien nos idées de Dieu ont souvent été étroites.",
+ "1.b17.t": [
+  [
+   "Dieu n’est pas…",
+   "Dieu est…"
+  ],
+  [
+   "Simplement le désir suprême de l’homme, la recherche humaine devenue objet",
+   "Une réalité transcendante, bien au-delà des idées humaines de valeurs suprêmes"
+  ],
+  [
+   "Un synonyme de la nature, ou la loi naturelle à visage humain",
+   "Esprit universel, vérité éternelle, réalité infinie et personnalité paternelle"
+  ],
+  [
+   "Un simple concept, le potentiel de pouvoir de la droiture",
+   "Une personne salvatrice et un Père aimant"
+  ],
+  [
+   "Une projection de significations spirituelles, « ⟦Q 1:2.2⟧l’œuvre la plus noble de l’homme⟦/Q⟧ »",
+   "L’un de ces concepts ou tous ces concepts dans le mental des hommes — mais toujours plus"
+  ]
+ ],
+ "1.b18.p": "Comment savons-nous alors que Dieu existe ? La réponse du fascicule est claire. Nous le connaissons dans l’expérience humaine, par la présence de l’Ajusteur de Pensée qui vit en nous. Cette présence se manifeste de trois manières.",
+ "1.b19.t": [
+  [
+   "Expérience intérieure",
+   "Ce que c’est"
+  ],
+  [
+   "La conscience de Dieu",
+   "La capacité intellectuelle de connaitre Dieu"
+  ],
+  [
+   "La recherche de Dieu",
+   "L’élan spirituel qui pousse à trouver Dieu"
+  ],
+  [
+   "Faire la volonté du Père",
+   "Le désir intense qu’a la personnalité d’être semblable à Dieu — le désir sincère de faire sa volonté"
+  ]
+ ],
+ "1.b20.p": "L’existence de Dieu ne peut donc jamais être prouvée par une expérience scientifique ni par la pure logique. Dieu ne peut être réalisé que dans l’expérience humaine. Malgré cela, la vraie idée de Dieu est raisonnable pour la logique, plausible pour la philosophie et essentielle pour la religion.",
+ "1.b21.p": "Un autre fait a sa place ici. Le Père Universel n’est pas le créateur personnel de notre univers local. Nébadon est la création de son Fils Micaël. Le Père le contrôle cependant de bien des manières, et, par son esprit fragmenté, il maintient un contact direct avec chacun de ses enfants.",
+ "1.b22.h": "3. Dieu est un esprit universel",
+ "1.b23.p": "« ⟦Q 1:3.1|1:3.8|1:6.8⟧Dieu est esprit.⟦/Q⟧ » Avoir été créés « ⟦Q 1:3.1⟧à son image⟦/Q⟧ » ne veut pas dire que nous ressemblons à Dieu. Cela veut dire que nous sommes habités par des Moniteurs de Mystère envoyés de sa propre présence.",
+ "1.b24.p": "Dieu n’est pas invisible parce qu’il se cacherait de ses humbles créatures. Bien au contraire : la gloire et l’éclat de sa présence sont si grands qu’aucun être matériel ne peut s’en approcher.",
+ "1.b25.p": "Mais il n’y a pas lieu de se décourager. Nous n’avons pas besoin des yeux de la chair pour le discerner. La vision de foi d’un mental spiritualisé suffit.",
+ "1.b26.p": "Le fascicule 1 montre ici la bifurcation qui décide de toute une vie. Le mental humain est lié à la matière et, par lui-même, il ne peut pas survivre à la mort. Tout dépend de ce à quoi ce mental se soumet.",
+ "1.b27.t": [
+  [
+   "Ce à quoi le mental se soumet",
+   "Où cela mène"
+  ],
+  [
+   "Mental asservi à la matière",
+   "Il devient de plus en plus matériel et subit finalement l’extinction de la personnalité"
+  ],
+  [
+   "Mental soumis à l’esprit",
+   "Il devient de plus en plus spirituel, parvient à l’unité avec l’esprit divin qui le guide et atteint la survie et la vie éternelle"
+  ]
+ ],
+ "1.b28.p": "Le Conseiller Divin qui présente ce fascicule apporte son témoignage personnel : bien que le grand Dieu soit absolu, éternel et infini, il est aussi bon, divin et gracieux.",
+ "1.b29.h": "4. Le mystère de Dieu",
+ "1.b30.p": "Parce que la perfection de Dieu est infinie, il restera toujours un mystère. Mais, parmi tous ses mystères, le fascicule 1 en distingue un, le plus profond.",
+ "1.b31.p": "Ce n’est ni la taille de l’univers ni la durée de l’éternité. C’est le fait que Dieu vit dans le mental humain. Tel est le mystère des mystères.",
+ "1.b33.p": "En fin de compte, le mystère divin réside dans le vaste écart entre deux sortes de réalité très différentes :",
+ "1.b34.t": [
+  [
+   "D’un côté",
+   "De l’autre"
+  ],
+  [
+   "Le fini",
+   "L’infini"
+  ],
+  [
+   "Le temporel",
+   "L’éternel"
+  ],
+  [
+   "La créature de l’espace-temps",
+   "Le Créateur Universel"
+  ],
+  [
+   "Le matériel",
+   "Le spirituel"
+  ],
+  [
+   "L’imperfection de l’homme",
+   "La perfection de la Déité du Paradis"
+  ]
+ ],
+ "1.b35.p": "Pourtant, Dieu agit par-delà cet écart. Il se révèle infailliblement à chacune de ses créatures, aussi pleinement que chacune est capable de le saisir spirituellement. Dieu ne fait pas acception de personnes.",
+ "1.b36.p": "Ce que je connais de Dieu aujourd’hui n’est donc pas une question de ce qu’il cache. C’est une question de ce que je suis capable de recevoir.",
+ "1.b37.h": "5. Personnalité du Père Universel",
+ "1.b38.p": "Cette section est le cœur du fascicule 1. Ne laissez pas la grandeur de Dieu, son infinité, cacher sa personnalité.",
+ "1.b39.p": "« ⟦Q 1:5.1⟧Celui qui a dessiné l’oreille n’entendra-t-il pas ? Celui qui a formé l’œil ne verra-t-il pas ?⟦/Q⟧ » Dieu est à la fois infini et personnel ; il est une personnalité infinie.",
+ "1.b40.p": "Que se passe-t-il si nous nions que Dieu est une personne ? Le fascicule 1 dit qu’il ne reste alors que deux options.",
+ "1.b41.t": [
+  [
+   "L’option",
+   "Ce qu’elle affirme",
+   "Où elle se trompe"
+  ],
+  [
+   "Le matérialisme",
+   "L’homme perd son corps à la mort, donc sa personnalité cesse d’exister",
+   "Elle suppose que la personnalité exige un corps matériel"
+  ],
+  [
+   "Le panthéisme",
+   "Dieu n’a pas de corps, donc il n’est pas une personne",
+   "Elle fait la même supposition par l’autre bout"
+  ]
+ ],
+ "1.b42.p": "Ces deux extrêmes viennent de la même erreur : l’idée qu’une personne doit avoir une forme physique. Mais un corps matériel n’est pas nécessaire à la personnalité, ni chez l’homme ni chez Dieu.",
+ "1.b43.p": "La personnalité n’est pas simplement l’un des attributs de Dieu. Elle représente la totalité de sa nature infinie coordonnée et de sa volonté divine unifiée. Elle est la révélation que Dieu fait de lui-même à l’univers des univers.",
+ "1.b44.p": "Et cette personne ne se contente pas de nous observer de loin. Le Dieu infini prend part directement à la lutte ascendante de chaque âme imparfaite. C’est pourquoi les paroles qui suivent ne sont pas une figure de style, mais la vérité littérale :",
+ "1.b46.h": "6. Personnalité dans l’univers",
+ "1.b47.p": "La personnalité humaine est l’ombre-image projetée dans le temps et l’espace par la personnalité du divin Créateur. Personne ne peut pleinement comprendre une réalité en étudiant son ombre. Les ombres doivent être comprises à la lumière de la vraie substance.",
+ "1.b48.p": "Le même Dieu parait très différent selon l’endroit où nous nous tenons.",
+ "1.b49.t": [
+  [
+   "Qui regarde",
+   "Ce qu’est Dieu"
+  ],
+  [
+   "Le savant",
+   "Une force primordiale, la Cause Première"
+  ],
+  [
+   "Le philosophe",
+   "Une hypothèse d’unité"
+  ],
+  [
+   "Le religioniste",
+   "Une vivante expérience spirituelle, le Père céleste et aimant"
+  ]
+ ],
+ "1.b50.p": "Il faut aussi se rappeler que Dieu et l’homme voient la personnalité depuis des extrémités opposées. L’homme regarde vers le haut, du fini vers l’infini ; Dieu regarde vers le bas, de l’infini vers le fini.",
+ "1.b51.p": "C’est pourquoi de meilleures idées de la personnalité de Dieu ont dû attendre de meilleures idées de la personnalité humaine. Les deux ont été révélées ensemble en un seul lieu : la vie d’effusion de Micaël, le Fils Créateur, ici sur Urantia.",
+ "1.b52.p": "Nous pouvons débattre des opinions sur Dieu. Mais l’expérience de Dieu se situe au-dessus de toute discussion. Ceux qui connaissent Dieu partagent donc leur expérience non pour gagner des débats contre les incroyants, mais pour encourager les autres croyants.",
+ "1.b53.h": "7. Valeur spirituelle du concept de personnalité",
+ "1.b54.p": "Lorsque Jésus parlait du « ⟦Q 1:2.8|1:6.2|1:7.1⟧Dieu vivant⟦/Q⟧ », il voulait dire un Dieu personnel — le Père qui est aux cieux.",
+ "1.b55.p": "Pourquoi la personnalité est-elle si importante ? Parce que les choses dépourvues de personnalité peuvent interagir, mais elles ne peuvent pas communier. La relation de père et de fils, entre Dieu et l’homme, n’est possible que si tous deux sont des personnes.",
+ "1.b56.p": "Nous ne devenons donc pas un avec Dieu comme une goutte d’eau se dissout dans l’océan. Nous parvenons à l’union avec lui par une communion spirituelle grandissante, par le contact personnel et par un accord sans réserve avec sa volonté. Nous ne nous perdons pas en lui ; nous restons nous-mêmes.",
+ "1.b57.t": [
+  [
+   "Valeur",
+   "Peut-elle exister sans personnalité ?"
+  ],
+  [
+   "La vérité",
+   "On peut la concevoir en dehors de la personnalité"
+  ],
+  [
+   "La beauté",
+   "Elle peut exister sans personnalité"
+  ],
+  [
+   "La bonté",
+   "On ne peut la comprendre qu’en relation avec la personnalité, car seules les personnes aiment et sont aimées"
+  ]
+ ],
+ "1.b58.p": "C’est pourquoi même la beauté et la vérité n’auraient aucune part à l’espoir de survie si elles n’appartenaient pas à un Dieu personnel, un Père aimant.",
+ "1.b59.p": "Enfin, le fascicule 1 fait un aveu honnête : toutes ces vérités profondes ne sont pas entièrement claires, même pour les êtres paradisiaques du groupe de l’auteur. On nous dit pourtant de ne pas nous décourager. Ces vérités se clarifieront à mesure que notre mental se spiritualisera.",
+ "1.b60.h": "Conclusion",
+ "1.b61.t": [
+  [
+   "Section",
+   "Message clé : Dieu est une personne"
+  ],
+  [
+   "1. Le nom du Père",
+   "Dieu ne s’est jamais révélé par un nom, seulement par sa nature"
+  ],
+  [
+   "2. La réalité de Dieu",
+   "Dieu est connu non par des preuves, mais par la présence de son esprit intérieur"
+  ],
+  [
+   "3. Dieu est un esprit universel",
+   "Dieu est invisible non parce qu’il se cache, mais parce que sa gloire est si grande"
+  ],
+  [
+   "4. Le mystère de Dieu",
+   "Le mystère le plus profond est que Dieu vit dans le mental humain"
+  ],
+  [
+   "5. Personnalité du Père Universel",
+   "Son infinité ne cache pas sa personnalité — il est une véritable personne"
+  ],
+  [
+   "6. Personnalité dans l’univers",
+   "La personnalité humaine est l’ombre de la personnalité du Créateur projetée dans le temps"
+  ],
+  [
+   "7. Valeur spirituelle du concept de personnalité",
+   "Seules des personnes peuvent communier entre elles, et seules des personnes peuvent aimer"
+  ]
+ ],
+ "1.b62.h": "Points clés du fascicule 1",
+ "1.b63.p": "Ce que le fascicule 1 nous donne, ce n’est pas de l’information sur Dieu. Il nous donne un lieu d’où l’invoquer.",
+ "1.b64.p": "Il n’est ni une force, ni une loi, ni une idée. Il est quelqu’un qui peut connaitre et être connu, aimer et être aimé, et qui peut être notre ami.",
+ "1.b65.p": "Dieu est venu à nous non par un nom, mais par sa nature → il a placé en nous un fragment de lui-même → en suivant sa conduite, notre mental se soumet à l’esprit → et nous nous tenons enfin en sa présence.",
+ "2.title": "La nature de Dieu",
+ "2.b0.ask": "« Quelle sorte d’être est Dieu ? »",
+ "2.b1.h": "Vue d’ensemble",
+ "2.b2.p": "Si le fascicule 1 nous a dit qui est Dieu, le fascicule 2 nous dit comment il est. C’est un fascicule sur le caractère de Dieu.",
+ "2.b3.p": "La meilleure façon de connaitre la nature de Dieu n’est pas la spéculation. C’est de comprendre la vie de Jésus de Nazareth. La vie que Micaël de Nébadon a vécue en tant qu’homme nous a montré le Père tel qu’il est.",
+ "2.b4.p": "Il existe aussi une autre voie : nous reconnaitre comme enfants de Dieu et considérer le Créateur du Paradis comme notre véritable Père spirituel. Quand nous nous voyons comme des fils, nous commençons à voir le Père.",
+ "2.b5.p": "Le fascicule 2 examine le caractère de Dieu sous sept rubriques : l’infinité, la perfection, la justice, la miséricorde, l’amour, la bonté, ainsi que la vérité et la beauté. Ce ne sont pas sept qualités séparées. Ce sont sept visages d’une seule personne.",
+ "2.b7.h": "Le fascicule",
+ "2.b8.h": "1. L’infinité de Dieu",
+ "2.b9.p": "La lumière de la présence du Père est si aveuglante que, pour ses humbles créatures, il parait « habiter dans d’épaisses ténèbres ». Il est invisible non parce qu’il y a trop peu de lumière, mais parce qu’il y en a trop.",
+ "2.b10.p": "Dieu connait pleinement sa propre infinité et son éternité, sans qu’il y manque rien. Il n’est pas un accident cosmique, et il ne fait pas d’expériences avec l’univers.",
+ "2.b11.p": "Rien n’est nouveau pour Dieu, et aucun évènement cosmique ne le prend par surprise. Pour Dieu, il n’y a ni passé, ni présent, ni futur ; à chaque instant, la totalité du temps lui est présente. Il est le grand JE SUIS.",
+ "2.b12.t": [
+  [
+   "Qui",
+   "Ce qu’ils font"
+  ],
+  [
+   "Les Souverains des Univers",
+   "Peuvent s’engager dans des aventures"
+  ],
+  [
+   "Les Pères des Constellations",
+   "Peuvent faire des expériences"
+  ],
+  [
+   "Les chefs des systèmes",
+   "Peuvent s’entrainer"
+  ],
+  [
+   "Le Père Universel",
+   "Voit la fin depuis le commencement — chaque expérience et chaque aventure s’inscrit dans son dessein éternel"
+  ]
+ ],
+ "2.b13.p": "Pourtant, cette infinité même pose un problème. Celui qui est absolument infini ne peut pas entrer directement en contact avec des êtres finis. Dieu a donc ouvert des voies pour s’approcher de nous.",
+ "2.b14.t": [
+  [
+   "La voie par laquelle il vient",
+   "Ce que c’est"
+  ],
+  [
+   "Les Fils Paradisiaques de Dieu",
+   "Parfaits en divinité, ils partagent la chair et le sang des races planétaires et deviennent l’un de nous — Dieu devenant homme"
+  ],
+  [
+   "Les personnalités de l’Esprit Infini",
+   "Les séraphins et d’innombrables autres êtres célestes s’approchent pour servir les êtres d’humble origine"
+  ],
+  [
+   "Les Ajusteurs de Pensée",
+   "Le don direct du grand Dieu lui-même — qui viennent habiter notre mental sans annonce et sans explication"
+  ]
+ ],
+ "2.b15.p": "En tout cela, le Père, par amour, abaisse, modifie et atténue volontiers son infinité. Il se fait plus petit afin de pouvoir s’approcher de nous.",
+ "2.b16.p": "Et pourtant, son infinité n’en est jamais diminuée en rien. Voilà pourquoi l’enseignement selon lequel « ⟦Q 2:1.11⟧en Lui nous vivons, nous nous mouvons et nous avons notre existence⟦/Q⟧ » est littéralement vrai.",
+ "2.b17.h": "2. La perfection éternelle du Père",
+ "2.b18.p": "« ⟦Q 2:2.1⟧Je suis le Seigneur, je ne change pas.⟦/Q⟧ » Dans la conduite de Dieu, il n’y a ni variation ni même ombre de changement. Ses plans sont fermes, sa volonté est immuable et ses actes sont sans erreur.",
+ "2.b19.p": "Parfois, Dieu semble changer selon nos attitudes. Mais ce n’est qu’en surface. En dessous demeurent son dessein immuable et son plan éternel.",
+ "2.b20.p": "La perfection de Dieu ne consiste pas à prétendre avoir raison. Elle consiste dans la perfection de bonté qui appartient à sa nature même.",
+ "2.b21.p": "Vient ensuite une affirmation surprenante. Dieu est si infiniment parfait qu’il ne peut connaitre l’imperfection comme sa propre expérience. Mais il partage l’expérience de l’imperfection avec les créatures qui luttent dans les univers évolutionnaires.",
+ "2.b22.p": "Mon immaturité et mes échecs ne sont donc pas des choses auxquelles Dieu reste étranger. Le Père Universel prend réellement part à l’expérience de l’immaturité et de l’imperfection dans la vie évoluante de ses créatures morales.",
+ "2.b23.h": "3. Justice et droiture",
+ "2.b24.p": "Dieu est droit ; c’est pourquoi il est juste. Il n’y a pas d’iniquité en lui, il ne fait pas acception de personnes et il n’accepte pas de pots-de-vin.",
+ "2.b25.p": "Il est donc futile de supplier Dieu de changer ses décrets immuables, ou de nous épargner les conséquences de ce que nous avons semé. Car « ⟦Q 2:3.2⟧ce qu’un homme sème, cela aussi il le récoltera.⟦/Q⟧ »",
+ "2.b26.p": "Mais voici la bonne nouvelle. Même lorsque cette justice fait récolter la moisson des mauvaises actions, la justice divine est toujours tempérée de miséricorde.",
+ "2.b27.p": "La conséquence la plus grave n’est pas une punition, mais la fin de l’existence. Le résultat final du péché délibéré est l’annihilation. Même cela, pourtant, n’est pas Dieu détruisant quelqu’un. En embrassant l’iniquité, le pécheur est devenu irréel et s’est détruit lui-même.",
+ "2.b28.p": "Et même cette extinction n’est jamais exécutée sur-le-champ. Elle est toujours retardée jusqu’à ce que la procédure régulière ait été menée jusqu’au bout.",
+ "2.b29.t": [
+  [
+   "Étape",
+   "Qui décide"
+  ],
+  [
+   "Le début",
+   "Les accusations sont portées sur le monde où vit le coupable"
+  ],
+  [
+   "Jugement conjoint",
+   "La commission planétaire → les tribunaux du Fils Créateur → les tribunaux judiciaires des Anciens des Jours"
+  ],
+  [
+   "Le verdict",
+   "Une fois les accusations maintenues sans interruption, l’ordre vient des cours supérieures du superunivers"
+  ],
+  [
+   "L’exécution",
+   "Après confirmation d’en haut, les juges du siège du superunivers l’exécutent eux-mêmes"
+  ],
+  [
+   "D’ici là",
+   "Les Fils Créateurs se consacrent à la réhabilitation des rebelles et de ceux qui se sont égarés"
+  ]
+ ],
+ "2.b30.h": "4. La miséricorde divine",
+ "2.b31.p": "Qu’est-ce que la miséricorde ? Le fascicule 2 la définit très précisément. La miséricorde est simplement la justice tempérée par la sagesse — la sagesse qui nait d’une connaissance parfaite des faiblesses naturelles des créatures finies et des handicaps de leur environnement.",
+ "2.b32.p": "Il n’est donc pas nécessaire de persuader le Père d’être miséricordieux. Le besoin de la créature suffit. Parce que Dieu connait tous ses enfants, il lui est facile de pardonner.",
+ "2.b33.p": "Cela vaut aussi pour nous. Mieux nous comprenons notre prochain, plus il devient facile de lui pardonner, et même de l’aimer. Souvent, si nous ne pouvons pas pardonner, ce n’est pas que notre cœur soit dur, mais que nous ne comprenons pas encore.",
+ "2.b34.t": [
+  [
+   "Idée",
+   "Comment le fascicule 2 l’explique"
+  ],
+  [
+   "La justice",
+   "Elle découle de la droiture de Dieu et ne dépend pas de ce que fait ou accomplit une créature"
+  ],
+  [
+   "La miséricorde",
+   "La justice suprême ajustée à la situation de la créature finie évoluante"
+  ],
+  [
+   "L’équité",
+   "Ce que la justice éternelle et la miséricorde divine accomplissent ensemble dans l’expérience humaine"
+  ],
+  [
+   "Miséricorde et justice",
+   "La miséricorde ne viole jamais la justice ; elle est une interprétation compréhensive de la justice suprême"
+  ]
+ ],
+ "2.b35.p": "Dieu n’est jamais la victime d’émotions contradictoires. Il n’est pas déchiré, comme nous, entre l’amour et les principes. Sa sagesse infinie connait toujours le moyen de satisfaire à la fois la justice et la miséricorde.",
+ "2.b36.h": "5. L’amour de Dieu",
+ "2.b37.p": "« ⟦Q 2:5.1|2:5.10|1:3.8⟧Dieu est amour.⟦/Q⟧ » Son attitude personnelle envers tout ce qui est dans l’univers est donc toujours une réaction d’affection divine.",
+ "2.b38.p": "Il faut ici corriger un malentendu courant. Dieu n’en est pas venu à nous aimer à cause du sacrifice ou de l’intercession de quelqu’un. Car, comme le dit le fascicule, « ⟦Q 2:5.2|114:7.17|180:6.8⟧le Père lui-même vous aime⟦/Q⟧ ».",
+ "2.b39.t": [
+  [
+   "Malentendu courant",
+   "La vérité selon le fascicule 2"
+  ],
+  [
+   "Le sacrifice de quelqu’un nous a gagné l’amour de Dieu",
+   "Le Père lui-même nous aime, et c’est en réponse à cet amour qu’il envoie les Ajusteurs de Pensée"
+  ],
+  [
+   "Il nous faut un médiateur pour être pardonnés",
+   "Le Père céleste plein d’amour n’exige aucun médiateur pour accorder sa faveur ou son pardon"
+  ],
+  [
+   "Dieu est en colère et cherche à se venger",
+   "Dieu n’est jamais courroucé, vindicatif ni en colère"
+  ],
+  [
+   "Le Dieu de justice et le Dieu d’amour sont différents",
+   "La personnalité du Père n’est pas divisée ; son unité divine est parfaite"
+  ]
+ ],
+ "2.b40.p": "Quelle est la plus grande preuve de la bonté de Dieu ? L’Ajusteur de Pensée qui est en nous — et qui attend si patiemment l’heure où tous deux nous ne ferons plus qu’un pour toujours.",
+ "2.b41.p": "Il peut y avoir des jours où nous ne trouvons pas Dieu, si fort que nous le cherchions. Ce n’est pas grave. Si nous nous soumettons simplement à la conduite de l’esprit intérieur, nous serons guidés pas à pas jusqu’à ce que nous nous tenions enfin en la présence du Père.",
+ "2.b42.p": "Entre nous et Dieu, il y a une distance d’espace et une distance d’esprit. Mais il l’a déjà franchie à sa manière. Il a envoyé son esprit vivre en nous.",
+ "2.b43.p": "L’auteur du fascicule 2 fait une confidence personnelle : « ⟦Q 2:5.7⟧Je crois que j’aimerais Dieu tout autant s’il n’était pas si grand ni si puissant, pourvu qu’il soit aussi bon et aussi miséricordieux.⟦/Q⟧ » Nous aimons le Père non pour ses attributs stupéfiants, mais pour sa nature.",
+ "2.b44.p": "Et la raison en est simple : « ⟦Q 2:5.8⟧L’expérience d’aimer est dans une grande mesure une réponse directe à l’expérience d’être aimé.⟦/Q⟧ »",
+ "2.b45.h": "6. La bonté de Dieu",
+ "2.b46.p": "La beauté peut se voir dans l’univers physique, et la vérité peut se connaitre dans le monde intellectuel. Mais la bonté de Dieu ne se trouve que dans le monde spirituel de l’expérience religieuse personnelle.",
+ "2.b47.p": "C’est pourquoi la religion, dans sa véritable essence, est une confiance de foi en la bonté de Dieu. On peut craindre un Dieu grand, mais on ne peut se fier qu’à un Dieu bon et n’aimer que lui.",
+ "2.b48.p": "C’est ce qu’a fait Jésus. Il a élevé l’idée de Dieu d’une moralité fondée sur l’autorité d’un roi à une moralité de sollicitude aimante, dans l’intimité familiale entre parent et enfant.",
+ "2.b49.t": [
+  [
+   "Comment Dieu était vu",
+   "Le résultat"
+  ],
+  [
+   "Comme roi et juge",
+   "Cela a établi de hautes normes morales, mais a laissé le croyant dans une insécurité constante, dans le temps et dans l’éternité"
+  ],
+  [
+   "Comme le Père d’Israël",
+   "Un pas en avant, proclamé par les prophètes hébreux"
+  ],
+  [
+   "Comme le Père de chaque individu",
+   "Le Dieu que Jésus a révélé — tout le concept humain de Dieu éclairé de façon transcendante"
+  ]
+ ],
+ "2.b51.p": "L’affirmation selon laquelle « ⟦Q 2:6.8⟧Dieu aime les pécheurs et déteste le péché⟦/Q⟧ » doit être comprise avec soin. Les personnes ne peuvent aimer et haïr que d’autres personnes. Le péché n’est pas une personne ; Dieu n’a donc pas d’attitude personnelle envers le péché.",
+ "2.b52.p": "L’amour de Dieu cherche donc à sauver le pécheur, et la loi de Dieu cherche à détruire le péché. L’amour et la loi ne sont pas en guerre ; chacun fait simplement son propre travail.",
+ "2.b53.h": "7. Vérité et beauté divines",
+ "2.b54.p": "Toute connaissance finie est relative. Si élevée que soit sa source, elle n’est que relativement complète, localement exacte et personnellement vraie.",
+ "2.b55.p": "La vérité divine, la vérité finale, est uniforme et universelle. Mais, parce que ceux qui la racontent diffèrent par la profondeur de leur connaissance et de leur expérience, les détails diffèrent. Le savoir nous garde patients quand nous entendons des témoignages divergents.",
+ "2.b56.p": "Là aussi se trouve l’erreur la plus grave des philosophes : le sophisme de l’abstraction — s’attacher à un aspect de la réalité et le déclarer toute la vérité.",
+ "2.b57.p": "La vérité est belle, car elle est à la fois complète et symétrique. Celui qui cherche la vérité poursuit donc déjà la réalité divine.",
+ "2.b58.t": [
+  [
+   "Valeur",
+   "Où elle se trouve",
+   "Ce qu’elle fait"
+  ],
+  [
+   "La vérité",
+   "Le monde intellectuel",
+   "Elle maintient les choses ensemble"
+  ],
+  [
+   "La beauté",
+   "L’univers physique",
+   "Elle attire"
+  ],
+  [
+   "La bonté",
+   "L’expérience religieuse personnelle",
+   "Elle stabilise"
+  ]
+ ],
+ "2.b59.p": "La grande erreur de la religion hébraïque a été de ne pas relier la bonté de Dieu aux vérités de la science et à la beauté de l’art. Une moralité qui insiste sur la seule bonté, coupée du reste, finit par ne plus gagner la dévotion des gens.",
+ "2.b60.p": "Le chemin par lequel la religion peut se relever aujourd’hui est donc clair. À côté de ses exigences morales, elle doit se soucier également des vérités de la science, de la philosophie et de l’expérience spirituelle, de la beauté de la création physique, du charme de l’art intellectuel et de la grandeur d’un authentique accomplissement de caractère.",
+ "2.b61.p": "Quand la vérité, la beauté et la bonté s’harmonisent dans l’expérience d’une personne, il en résulte une forme élevée d’amour, tempérée par la sagesse et qualifiée par la loyauté. La santé, l’équilibre mental et le bonheur sont ces trois valeurs fondues ensemble dans une vie humaine.",
+ "2.b62.h": "Conclusion",
+ "2.b64.t": [
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "1. L’infinité de Dieu",
+   "L’Infini s’est abaissé et ajusté pour pouvoir nous atteindre"
+  ],
+  [
+   "2. La perfection éternelle du Père",
+   "Dieu ne change pas, et il partage notre expérience imparfaite"
+  ],
+  [
+   "3. Justice et droiture",
+   "Nous récoltons ce que nous semons, mais même cette justice est toujours tempérée de miséricorde"
+  ],
+  [
+   "4. La miséricorde divine",
+   "La miséricorde est la justice tempérée par la sagesse ; le besoin de la créature suffit"
+  ],
+  [
+   "5. L’amour de Dieu",
+   "Le Père lui-même nous aime et n’exige aucun médiateur"
+  ],
+  [
+   "6. La bonté de Dieu",
+   "La bonté ne se trouve que dans l’expérience religieuse personnelle"
+  ],
+  [
+   "7. Vérité et beauté divines",
+   "La vérité, la beauté et la bonté ne font qu’un dans le Dieu qui est amour"
+  ]
+ ],
+ "2.b65.h": "Points clés du fascicule 2",
+ "2.b66.p": "Le fascicule 2 montre le caractère de Dieu en sept parties, mais ces sept parties sont finalement sept visages d’une seule personne. En Dieu, il n’y a aucun lieu où la justice et l’amour se combattent.",
+ "2.b67.p": "Voici le plus grand réconfort : Dieu n’aime pas en imitant un père. Il aime parce qu’il est vraiment un Père.",
+ "2.b68.p": "Dieu est infini → il s’abaisse pour venir à nous → il tempère la justice par la miséricorde → il aime en tant que père → et sa bonté ne fait plus qu’un avec la vérité et la beauté dans notre expérience.",
+ "2.b69.box": "Tel est le visage du Père que dépeint « La nature de Dieu ».",
+ "3.title": "Les attributs de Dieu",
+ "3.b0.ask": "« Si Dieu est tout-puissant, pourquoi la vie est-elle si incertaine ? »",
+ "3.b1.h": "Vue d’ensemble",
+ "3.b2.p": "Le fascicule 1 nous a dit qui est Dieu, et le fascicule 2 comment il est. Le fascicule 3 nous dit ce que Dieu peut faire. Il traite de ses attributs : son omniprésence, son pouvoir infini, sa connaissance universelle, son caractère illimité et sa souveraineté.",
+ "3.b3.p": "Ce fascicule n’est pourtant pas un cours de théologie aride. Chaque attribut conduit finalement à la question de savoir comment il rejoint ma propre journée.",
+ "3.b4.p": "Le fascicule 3 dit aussi quelque chose de frappant sur la créativité. La créativité n’est pas tant l’un des attributs de Dieu que la somme totale de sa nature agissante, et cette créativité culmine dans la vérité de la paternité de Dieu.",
+ "3.b5.p": "Et le plus grand cadeau de ce fascicule se trouve dans la section 5 : la réponse à la question de savoir pourquoi un Dieu parfait nous laisse dans un monde si incertain.",
+ "3.b7.h": "Le fascicule",
+ "3.b8.h": "1. L’omniprésence de Dieu",
+ "3.b9.p": "Dieu seul peut être en deux endroits — et même en d’innombrables endroits — en même temps. « ⟦Q 3:1.1⟧Où irais-je loin de ton esprit ? … Où fuirais-je hors de ta présence ?⟦/Q⟧ »",
+ "3.b10.p": "Mais le fascicule 3 va plus loin. Non seulement les créatures vivent en Dieu, mais Dieu vit aussi dans ses créatures.",
+ "3.b11.p": "Ce qui compte, c’est que Dieu est présent de plus d’une manière. Et l’une de ces manières n’est partagée avec personne d’autre.",
+ "3.b12.t": [
+  [
+   "De quelle manière",
+   "Comment il est présent"
+  ],
+  [
+   "Dans le circuit de gravité",
+   "Par l’Ile du Paradis, il est potentiellement présent dans toute la création physique"
+  ],
+  [
+   "Dans le circuit mental",
+   "Il se manifeste dans les activités mentales cosmiques de l’Acteur Conjoint et des Maitres Esprits"
+  ],
+  [
+   "Comme présence d’esprit",
+   "Il se manifeste par les circuits du Fils Éternel et de l’Esprit Infini"
+  ],
+  [
+   "Dans le circuit de personnalité et les Ajusteurs de Pensée",
+   "Ici seulement, Dieu agit de façon unique, directe et exclusive"
+  ]
+ ],
+ "3.b13.p": "Pourquoi, alors, Dieu semble-t-il proche de certaines personnes et lointain pour d’autres ? La réponse du fascicule 3 peut nous surprendre. Ce n’est pas parce que Dieu serait changeant.",
+ "3.b14.p": "Ayant reçu le pouvoir de choisir, ses enfants déterminent eux-mêmes, par l’usage de ce choix, le degré d’influence du Père dans leur propre cœur. Le Père s’est donné librement, sans limite et sans favoritisme.",
+ "3.b15.box": "Dieu ne se retire pas parce qu’on l’ignore.",
+ "3.b16.h": "2. Le pouvoir infini de Dieu",
+ "3.b17.p": "« ⟦Q 3:2.2|2:1.2|163:3.2⟧Avec Dieu, toutes choses sont possibles.⟦/Q⟧ » Mais cette parole comporte une condition discrète : dans les limites de ce qui cadre avec la nature divine.",
+ "3.b18.p": "Le pouvoir de Dieu se manifeste si largement dans l’univers matériel qu’il est plus facile à saisir que ses autres attributs. D’un point de vue non spirituel, Dieu est énergie ; toute manifestation d’énergie physique et de matière vient de lui.",
+ "3.b19.p": "À nos yeux, il semble parfois que la loi naturelle soit suspendue, ou que Dieu intervienne à la hâte. Le fascicule 3 est formel : cela n’arrive pas. Cela ne semble ainsi que parce que notre vision est étroite et notre compréhension finie.",
+ "3.b20.p": "Le pouvoir de Dieu n’agit jamais comme une force aveugle. Quand survient une crise, il la connait déjà, et il y répond non pas froidement, mais avec une sagesse éternelle.",
+ "3.b21.p": "Le pouvoir infini a-t-il donc des limites ? Oui. Mais ces limites ne viennent jamais de l’extérieur. Elles viennent toutes de Dieu lui-même.",
+ "3.b22.t": [
+  [
+   "Ce qui limite son pouvoir",
+   "Ce que cela signifie"
+  ],
+  [
+   "La nature de Dieu",
+   "Son amour, sa vérité, sa beauté et sa bonté infinis ne le permettent pas"
+  ],
+  [
+   "La volonté de Dieu",
+   "Son ministère de miséricorde et sa relation paternelle avec les personnalités de l’univers ne le permettent pas"
+  ],
+  [
+   "La loi de Dieu",
+   "La droiture et la justice de l’éternelle Trinité du Paradis ne le permettent pas"
+  ]
+ ],
+ "3.b23.p": "Et il y a une phrase que nous ne devrions pas oublier : beaucoup de choses qui se produisent sur les mondes évolutionnaires ne sont pas les actes personnels du Père Universel.",
+ "3.b24.h": "3. La connaissance universelle de Dieu",
+ "3.b25.p": "« ⟦Q 3:3.1⟧Dieu connait toutes choses.⟦/Q⟧ » Il dénombre les étoiles et les appelle toutes par leur nom, et pas un seul moineau ne tombe au sol sans que le Père le sache.",
+ "3.b26.p": "Mais ce savoir n’est pas un calcul. C’est un savoir qui partage notre douleur : « ⟦Q 3:3.2⟧J’ai certes vu l’affliction de mon peuple, j’ai entendu ses plaintes et je connais ses souffrances.⟦/Q⟧ »",
+ "3.b27.p": "C’est pourquoi Jésus a dit : « ⟦Q 3:3.2⟧Votre Père sait ce dont vous avez besoin avant même que vous le lui demandiez.⟦/Q⟧ » Le savoir est un vrai réconfort pour tout être humain.",
+ "3.b28.p": "Le fascicule 3 dissipe ici un vieux jeu de mots. Il montre clairement ce que tout-puissant et omniscient ne veulent pas dire.",
+ "3.b29.t": [
+  [
+   "Le mot",
+   "Ce qu’il ne veut pas dire"
+  ],
+  [
+   "Tout-puissant",
+   "Cela ne veut pas dire que Dieu peut faire l’infaisable — l’acte contraire à la nature divine"
+  ],
+  [
+   "Omniscient",
+   "Cela ne veut pas dire que Dieu connait l’inconnaissable"
+  ],
+  [
+   "Prescience",
+   "Bien que Dieu sache à l’avance, la liberté de ses enfants n’en est nullement supprimée"
+  ]
+ ],
+ "3.b30.p": "Une chose est certaine : Dieu n’est jamais pris par surprise.",
+ "3.b31.h": "4. Le caractère illimité de Dieu",
+ "3.b32.p": "Dieu s’est donné sans fin, et pourtant il n’en est en rien diminué. C’est là toute la section 4.",
+ "3.b33.t": [
+  [
+   "Ce qu’il donne",
+   "Le résultat"
+  ],
+  [
+   "Le pouvoir",
+   "Après avoir conféré le pouvoir à un univers illimité, il reste tout aussi plein de pouvoir"
+  ],
+  [
+   "La sagesse",
+   "Bien qu’il dispense librement le mental à tout l’univers, la source centrale n’est jamais épuisée"
+  ],
+  [
+   "L’esprit",
+   "Bien qu’il envoie des Ajusteurs à d’innombrables mortels, il n’y a aucune limite au nombre qu’il peut en envoyer"
+  ],
+  [
+   "L’amour",
+   "Même un être humain fini peut réellement faire l’expérience de l’amour du Père dans sa pleine mesure, sans diminution"
+  ]
+ ],
+ "3.b34.p": "Au sujet de l’amour, soyons un peu plus précis. La qualité de cette expérience est illimitée, mais sa quantité est limitée par ma capacité de réceptivité spirituelle. Ce n’est pas Dieu qui retient quelque chose ; c’est mon vase qui ne contient qu’une certaine mesure.",
+ "3.b35.p": "Comment donc, êtres finis, pouvons-nous connaitre l’infini ? Parce qu’un fragment de l’Infini vit en nous. C’est pourquoi la manière la plus vraie et la plus intime de s’approcher de Dieu est l’amour.",
+ "3.b36.h": "5. Le gouvernement suprême du Père",
+ "3.b37.p": "Le Père gouverne par l’intermédiaire de ses Fils. Il n’intervient directement que lorsque les personnalités auxquelles il a délégué l’autorité faillissent à leur mission.",
+ "3.b38.p": "Le fascicule 3 fait ici l’une de ses déclarations les plus honnêtes. Dans les affaires du mental humain, la volonté de Dieu peut ne pas toujours se faire. Mais, dans le cours et la destinée d’une planète, le plan divin l’emporte toujours.",
+ "3.b39.p": "Pourquoi, alors, la vie est-elle si incertaine ? Le fascicule 3 répond par une liste de conditions. Cette liste est le passage le plus durable du fascicule.",
+ "3.b40.t": [
+  [
+   "Si ceci est désirable",
+   "Alors le monde doit être ainsi"
+  ],
+  [
+   "Le courage — la force de caractère",
+   "L’homme doit grandir dans un milieu qui l’oblige à lutter contre les épreuves et à réagir aux déceptions"
+  ],
+  [
+   "L’altruisme — le service de ses semblables",
+   "La vie doit nous mettre face à la réalité de l’inégalité sociale"
+  ],
+  [
+   "L’espoir — la grandeur de la confiance",
+   "L’existence humaine doit constamment affronter l’insécurité et une incertitude récurrente"
+  ],
+  [
+   "La foi — l’affirmation suprême de la pensée humaine",
+   "L’homme doit toujours se trouver là où il sait moins qu’il ne peut croire"
+  ],
+  [
+   "L’amour de la vérité",
+   "L’homme doit grandir dans un monde où l’erreur est présente et le mensonge toujours possible"
+  ],
+  [
+   "L’idéalisme — l’approche du divin",
+   "L’homme doit lutter dans un monde de bonté et de beauté relatives"
+  ],
+  [
+   "La loyauté — le dévouement au devoir le plus élevé",
+   "L’homme doit avancer au milieu de la possibilité de la trahison et de l’abandon"
+  ],
+  [
+   "Le désintéressement — l’esprit d’oubli de soi",
+   "L’homme doit constamment affronter les clameurs d’un moi qui réclame reconnaissance et honneur"
+  ],
+  [
+   "Le plaisir — la satisfaction du bonheur",
+   "L’homme doit vivre dans un monde où la douleur et la souffrance sont possibles"
+  ]
+ ],
+ "3.b41.p": "Quand nous avons lu cette liste jusqu’au bout, la question se renverse. Les conditions mêmes que nous demandons dans nos prières de voir disparaitre se révèlent être le sol où poussent les qualités que nous désirons tant posséder.",
+ "3.b43.p": "Le fascicule 3 complète ce contraste en nous comparant avec un monde parfait. Les êtres de Havona sont parfaits. Mais leur perfection est innée, non acquise.",
+ "3.b44.t": [
+  [
+   "Qualité",
+   "Les êtres de Havona",
+   "L’homme mortel"
+  ],
+  [
+   "Le courage",
+   "Naturellement braves",
+   "L’acquiert en surmontant les épreuves"
+  ],
+  [
+   "L’altruisme",
+   "Bons et prévenants par nature",
+   "L’acquiert en se dominant lui-même"
+  ],
+  [
+   "L’espoir",
+   "Envisagent l’avenir avec joie",
+   "Vit avec espoir dans un monde incertain"
+  ],
+  [
+   "La foi",
+   "Se fient à la stabilité de l’univers",
+   "Connait la foi salvatrice qui monte du statut animal jusqu’aux portes du Paradis"
+  ],
+  [
+   "L’idéalisme",
+   "Idéalistes de naissance",
+   "Devient idéaliste par choix"
+  ],
+  [
+   "Le plaisir",
+   "Jouissent du plaisir",
+   "Connait la joie profonde d’être délivré de la menace de la souffrance"
+  ]
+ ],
+ "3.b45.p": "Les épreuves que nous avons traversées ne sont donc pas une perte. Ce que nous acquérons par l’expérience est un bien unique que même les êtres parfaits de Havona ne possèdent pas.",
+ "3.b46.h": "6. La primauté du Père",
+ "3.b47.p": "Même lorsqu’il délègue l’autorité et distribue le pouvoir, Dieu reste primordial. Il garde entre ses mains toute décision finale.",
+ "3.b48.p": "L’univers n’était pas inévitable. Il n’est pas un accident, et il n’existe pas par lui-même. L’univers est une œuvre de création et il est entièrement soumis à la volonté du Créateur.",
+ "3.b49.p": "Le fascicule 3 signale ici deux pièges dans lesquels nous tombons facilement quand nous pensons à Dieu.",
+ "3.b50.t": [
+  [
+   "L’erreur",
+   "Pourquoi elle est fausse"
+  ],
+  [
+   "Rendre Dieu semblable à un homme",
+   "C’est une grande bévue, sauf dans le concept de l’Ajusteur de Pensée intérieur"
+  ],
+  [
+   "Rendre Dieu semblable à une machine",
+   "Mécaniser complètement la Source-Centre Première est plus insensé encore"
+  ]
+ ],
+ "3.b51.p": "Même ceux qui parlent de mécanisme admirent en fait profondément la précision de ses lois. Quand ils pensent que les lois fonctionnent toutes seules, ils rendent hommage, sans le savoir, à l’auteur de ces lois.",
+ "3.b52.p": "Enfin, l’auteur de ce fascicule nous laisse une confidence très humble. Le Père du Paradis souffre-t-il ? « ⟦Q 3:6.6|19:1.2|20:8.2⟧Je ne le sais pas.⟦/Q⟧ » Il pense pourtant que le Père Universel souffre — que Dieu partage vraiment nos afflictions.",
+ "3.b53.t": [
+  [
+   "Qui",
+   "Ce qu’il fait"
+  ],
+  [
+   "Dieu le Père",
+   "Aime les hommes"
+  ],
+  [
+   "Dieu le Fils",
+   "Sert les hommes"
+  ],
+  [
+   "Dieu l’Esprit",
+   "Inspire les enfants de l’univers dans l’aventure toujours ascendante de la découverte du Père"
+  ]
+ ],
+ "3.b54.h": "Conclusion",
+ "3.b55.t": [
+  [
+   "La souveraineté de Dieu est illimitée ; c’est le fait fondamental de toute la création."
+  ],
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "1. L’omniprésence de Dieu",
+   "Dieu est partout, et dans le circuit de personnalité et les Ajusteurs il agit directement"
+  ],
+  [
+   "2. Le pouvoir infini de Dieu",
+   "Les limites de son pouvoir ne viennent pas de l’extérieur, mais de sa propre nature, de sa volonté et de sa loi"
+  ],
+  [
+   "3. La connaissance universelle de Dieu",
+   "Son savoir n’est pas un calcul, mais un savoir qui partage notre douleur"
+  ],
+  [
+   "4. Le caractère illimité de Dieu",
+   "Il donne sans fin et n’est jamais diminué"
+  ],
+  [
+   "5. Le gouvernement suprême du Père",
+   "L’incertitude de la vie n’est pas un défaut, mais la condition dans laquelle le caractère grandit"
+  ],
+  [
+   "6. La primauté du Père",
+   "L’univers n’est pas inévitable mais créé, et il reste primordial"
+  ]
+ ],
+ "3.b56.h": "Points clés du fascicule 3",
+ "3.b57.p": "Le fascicule 3 ne se contente pas d’énumérer les attributs de Dieu. Chacun d’eux redescend jusqu’à l’endroit où je me tiens.",
+ "3.b58.p": "Son omniprésence signifie que je ne suis jamais seul, où que je sois. Sa toute-puissance signifie que ce pouvoir n’est jamais aveugle. Son omniscience signifie que mon chagrin est déjà connu. Et son caractère illimité signifie que ce que je reçois ne le diminue jamais.",
+ "3.b59.p": "Dieu est infini → il n’agit que dans les limites qu’il se fixe lui-même → il ne passe pas outre à nos choix → il se sert d’un monde incertain comme du sol où grandit le caractère → et il reste le Père de tous.",
+ "3.b60.box": "Tel est Celui, infini et pourtant Père, que révèle « Les attributs de Dieu ».",
+ "4.title": "Relations de Dieu avec l’univers",
+ "4.b0.ask": "« La nature est-elle Dieu ? »",
+ "4.b1.h": "Vue d’ensemble",
+ "4.b2.p": "Les fascicules 1 à 3 nous ont dit quelle sorte d’être est Dieu. Le fascicule 4 nous dit comment ce Dieu se rapporte au monde.",
+ "4.b3.p": "Ce fascicule aborde donc de front des questions que beaucoup d’entre nous portent depuis toujours. Qu’est-ce que la providence ? Les catastrophes naturelles sont-elles l’œuvre de Dieu ? Dieu est-il courroucé ? Pourquoi nous a-t-on enseigné que le sang innocent était nécessaire ?",
+ "4.b4.p": "Pour l’essentiel, le fascicule 4 répond en corrigeant ce qu’on nous a enseigné. Cela peut sembler un peu inconfortable, mais, à la fin, Dieu apparait bien meilleur que nous ne l’avions imaginé.",
+ "4.b5.p": "Dieu a créé l’univers par sa propre volonté libre et souveraine. Et il poursuit encore son dessein éternel, à travers tout le temps.",
+ "4.b7.h": "Le fascicule",
+ "4.b8.h": "1. L’attitude du Père dans l’univers",
+ "4.b9.p": "Le fascicule 4 nous déroute dès ses premières lignes. Depuis des âges, les hommes ont mal compris la providence de Dieu.",
+ "4.b10.p": "La providence est réelle. Mais elle n’est pas la sollicitude puérile, arbitraire et matérielle que tant de gens ont imaginée.",
+ "4.b11.t": [
+  [
+   "L’idée courante de la providence",
+   "La providence telle que la décrit le fascicule 4"
+  ],
+  [
+   "Dieu modifie de temps en temps les lois de la nature pour ma commodité",
+   "Les activités imbriquées des êtres célestes et des esprits divins, qui œuvrent sans cesse en accord avec la loi cosmique"
+  ],
+  [
+   "La providence et l’évolution s’opposent",
+   "Elles ne sont nullement en conflit ; elles ne semblent l’être que dans les idées erronées de l’homme"
+  ],
+  [
+   "Dieu a fait le monde, puis s’est retiré",
+   "Le Père ne s’est jamais retiré de la gestion des univers — s’il le faisait, il y aurait immédiatement un effondrement universel"
+  ],
+  [
+   "L’univers fonctionne comme une horloge remontée",
+   "Tout est continuellement renouvelé ; le Père envoie constamment l’énergie, la lumière et la vie"
+  ]
+ ],
+ "4.b12.p": "Qu’en est-il alors de la confusion que nous voyons en surface ? Si agitées que paraissent les choses, il y a de la stabilité au centre. Même sous les grands bouleversements des étoiles, il y a de l’ordre et de la sécurité.",
+ "4.b13.p": "L’auteur de ce fascicule fait ici un aveu remarquable. Les êtres de son ordre voient clairement l’harmonie du fonctionnement de l’univers, et pourtant ils rencontrent encore souvent des réactions cosmiques qu’ils ne peuvent expliquer.",
+ "4.b14.p": "Ce qui l’intrigue, ce sont les endroits où les trois Absolus semblent être à l’œuvre. Si nous ne pouvons pas tout comprendre, il n’y a donc là aucune honte ; c’est tout à fait normal.",
+ "4.b15.h": "2. Dieu et la nature",
+ "4.b16.p": "C’est la section du fascicule 4 la plus souvent citée. Pour donner d’abord la conclusion : la nature n’est pas Dieu.",
+ "4.b17.p": "Dans un sens limité, la nature est l’habitude physique de Dieu. Mais la nature que nous voyons est le résultat de deux choses mêlées.",
+ "4.b18.t": [
+  [
+   "Les deux facteurs de la nature",
+   "Ce qu’ils apportent"
+  ],
+  [
+   "De la Déité du Paradis",
+   "L’immuabilité, la perfection et la rectitude — un fil de perfection uniforme et majestueuse venu du cercle de l’éternité"
+  ],
+  [
+   "Des créatures",
+   "Des plans expérimentaux, des bévues d’exécution, des erreurs de rébellion, un développement inachevé et une sagesse imparfaite"
+  ]
+ ],
+ "4.b19.p": "C’est pourquoi la nature est fondamentalement stable et pourtant imprévisible. Elle contient côte à côte le parfait et le partiel, l’éternel et le temporaire.",
+ "4.b20.p": "Dieu n’est pas personnellement présent dans la nature ni dans aucune de ses forces. La nature de notre monde ne peut donc pas être un reflet fidèle du Dieu infini.",
+ "4.b21.p": "C’est pour nous un grand réconfort. Cela signifie que, face aux inondations, aux tremblements de terre et aux maladies, nous n’avons pas à conclure qu’ils sont la volonté de Dieu.",
+ "4.b22.p": "Le fascicule 4 nous dit aussi pourquoi le visage de la nature est balafré : à cause de la rébellion et de l’inconduite des myriades de créatures qui font partie de la nature et qui ont contribué à la défigurer dans le temps.",
+ "4.b24.h": "3. Le caractère invariant de Dieu",
+ "4.b25.p": "Cette section retire une à une les émotions que nous avons attribuées à Dieu. Pendant bien trop longtemps, l’homme s’est représenté Dieu comme quelqu’un de tout à fait semblable à lui.",
+ "4.b26.t": [
+  [
+   "L’émotion que nous lui avons prêtée",
+   "La réponse du fascicule 4"
+  ],
+  [
+   "La jalousie",
+   "Dieu n’est pas, n’a jamais été et ne sera jamais jaloux d’aucun être"
+  ],
+  [
+   "La colère et le courroux",
+   "De tels sentiments sont inférieurs à l’humain et entièrement indignes de la personnalité miséricordieuse du Père"
+  ],
+  [
+   "Le regret",
+   "Dieu ne regrette jamais ce qu’il a fait, ce qu’il fait ni ce qu’il fera"
+  ],
+  [
+   "Le chagrin",
+   "Le Père ne commet pas d’erreurs, mais son cœur est attristé quand ses enfants n’atteignent pas les niveaux spirituels qu’ils pourraient atteindre"
+  ]
+ ],
+ "4.b27.p": "La dernière ligne mérite d’être relue. Dieu ne se met pas en colère, mais il peut être attristé. Ce sont deux choses entièrement différentes. La colère me repousse ; le chagrin vient de l’amour pour moi.",
+ "4.b28.p": "Pourquoi donc avons-nous si mal compris Dieu ? Le fascicule 4 en nomme clairement la raison : ce sont les suites de la rébellion de Lucifer et de la trahison de Caligastia. Les mondes qui n’ont pas été isolés sont bien moins dans la confusion.",
+ "4.b29.p": "Il y a encore une chose. Pour que le bien relatif ressorte clairement, il faut un mal qui fasse contraste. Nous reconnaissons la bonté parce qu’elle se tient à côté de l’imperfection.",
+ "4.b30.h": "4. La réalisation de Dieu",
+ "4.b31.p": "Parce que Dieu existe par lui-même, il est absolument indépendant. « ⟦Q 4:4.2⟧Moi, le Seigneur, je ne change pas.⟦/Q⟧ »",
+ "4.b32.p": "Mais il est facile ici de mal comprendre. Être invariant ne veut pas dire être immobile. Dieu est pleinement capable de changer la manière dont il exprime son absoluité.",
+ "4.b33.t": [
+  [
+   "De",
+   "À"
+  ],
+  [
+   "La simplicité",
+   "La complexité"
+  ],
+  [
+   "L’identité",
+   "La variation"
+  ],
+  [
+   "Le repos",
+   "Le mouvement"
+  ],
+  [
+   "L’infinité",
+   "La finitude"
+  ],
+  [
+   "Le divin",
+   "L’humain"
+  ],
+  [
+   "L’unité",
+   "La dualité et la triunité"
+  ]
+ ],
+ "4.b34.p": "Le libre arbitre de Dieu n’a pas de limites, sauf celles qu’il s’impose lui-même. Et cette volonté se meut non par la force, mais par l’amour.",
+ "4.b35.p": "Cette section arrive ainsi à la phrase qui résume tout le fascicule 4 :",
+ "4.b37.p": "Chaque domaine du savoir appelle le même Être d’un nom différent. Mais seule la révélation peut montrer que ces noms désignent tous le même être.",
+ "4.b38.t": [
+  [
+   "Qui",
+   "Comment ils l’appellent",
+   "Ce qu’ajoute la révélation"
+  ],
+  [
+   "La science",
+   "La Cause Première",
+   "Cette Cause Première est quelqu’un de plein de miséricorde et de bonté"
+  ],
+  [
+   "La philosophie",
+   "L’être unique qui existe par lui-même",
+   "Cette unité est quelqu’un qui a garanti la survie éternelle de ses enfants"
+  ],
+  [
+   "La religion",
+   "Le Père universel et aimant",
+   "Il est le même Être que les deux autres"
+  ]
+ ],
+ "4.b39.p": "Cette section nous donne aussi des mots à dire quand nous nous heurtons à nos limites : « ⟦Q 4:4.9⟧Même si je ne peux pas faire cette chose, quelqu’un vit en moi qui peut la faire et la fera⟦/Q⟧. » C’est cela « ⟦Q 4:4.9⟧la victoire qui triomphe du monde, votre foi elle-même.⟦/Q⟧ »",
+ "4.b40.h": "5. Idées erronées sur Dieu",
+ "4.b41.p": "Dans sa dernière section, le fascicule 4 devient très direct. La tradition religieuse n’est qu’un récit imparfaitement conservé des expériences d’hommes qui connaissaient Dieu, et elle ne peut servir de guide véritable.",
+ "4.b42.p": "La plus grande source de confusion vient de ce que nous avons regroupé de nombreux ordres d’êtres sous un seul nom. Prêtres et prophètes ont confondu ces êtres entre eux :",
+ "4.b43.t": [
+  [
+   "Les êtres confondus",
+   "Leur place"
+  ],
+  [
+   "Les Princes Planétaires",
+   "Responsables d’une planète"
+  ],
+  [
+   "Les Souverains Systémiques",
+   "Responsables d’un système"
+  ],
+  [
+   "Les Pères des Constellations",
+   "Responsables d’une constellation"
+  ],
+  [
+   "Les Fils Créateurs",
+   "Créateur et souverain d’un univers local"
+  ],
+  [
+   "Les dirigeants des superunivers",
+   "Gouvernants d’un superunivers"
+  ],
+  [
+   "L’Être Suprême",
+   "Le Dieu expérientiel qui évolue dans le temps et l’espace"
+  ],
+  [
+   "Le Père Universel",
+   "La Source-Centre Première, le Père de tous"
+  ]
+ ],
+ "4.b44.p": "De nombreux messages de personnalités subordonnées ont été consignés comme s’ils venaient de Dieu lui-même. Saisir cette seule distinction peut changer notre manière de lire la Bible.",
+ "4.b45.p": "Vient ensuite un passage plus douloureux. Un dieu qui fait rage dans la tempête et qui, dans son courroux, punit les gens par la famine et l’inondation est le dieu de la religion primitive — et non le Dieu vivant qui gouverne l’univers.",
+ "4.b46.t": [
+  [
+   "L’ancien enseignement",
+   "La réponse du fascicule 4"
+  ],
+  [
+   "Un dieu en colère est apaisé par le sacrifice, la pénitence et le sang",
+   "C’est une religion immature et primitive, répugnante pour les êtres célestes"
+  ],
+  [
+   "Le sang de l’innocent gagne la faveur de Dieu",
+   "C’est un affront à Dieu de croire, de soutenir ou d’enseigner qu’il faut verser le sang innocent pour gagner sa faveur"
+  ],
+  [
+   "L’effusion du Fils avait pour but de gagner la faveur de Dieu",
+   "Elle était inhérente à la situation qui clôt un âge planétaire, et elle était l’acte personnel final d’un Fils Créateur pour gagner la souveraineté expérientielle de son univers"
+  ]
+ ],
+ "4.b47.p": "Le fascicule 4 va jusqu’à qualifier un tel enseignement de travestissement du caractère infini de Dieu : l’idée que le cœur du Père était si froid et si dur, si insensible aux chagrins de ses créatures, que sa miséricorde ne s’est manifestée qu’en voyant son Fils irréprochable saigner et mourir sur la croix.",
+ "4.b48.p": "Cette section ne se termine pourtant pas dans le désespoir. L’humanité sera finalement libérée de ces erreurs anciennes. Nous sommes destinés à connaitre le Père exactement tel que l’a dépeint Celui qui a vécu sur terre à la fois comme Fils de l’Homme et Fils de Dieu.",
+ "4.b49.h": "Conclusion",
+ "4.b50.t": [
+  [
+   "Le Père Universel ne s’est pas retiré de la gestion des univers."
+  ],
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "1. L’attitude du Père dans l’univers",
+   "La providence n’est pas une sollicitude arbitraire, mais une activité imbriquée au sein de la loi cosmique"
+  ],
+  [
+   "2. Dieu et la nature",
+   "La nature est un mélange de perfection divine et d’imperfection des créatures ; elle n’est pas Dieu"
+  ],
+  [
+   "3. Le caractère invariant de Dieu",
+   "Dieu n’est jamais jaloux, courroucé ni plein de regrets, mais son cœur peut être attristé"
+  ],
+  [
+   "4. La réalisation de Dieu",
+   "Être invariant ne veut pas dire être immobile ; il apparait toujours comme le Père aimant"
+  ],
+  [
+   "5. Idées erronées sur Dieu",
+   "Un dieu qu’il faut apaiser par le sang appartient à la religion primitive, non au Dieu de l’univers"
+  ]
+ ],
+ "4.b51.h": "Points clés du fascicule 4",
+ "4.b52.p": "Le fascicule 4 nous apprend moins quelque chose de nouveau qu’il n’ôte ce qu’on avait faussement attaché à Dieu : il le libère de la nature, de la colère et du marchandage du sang. Ce qui reste, c’est un Père qui ne se retire jamais et qui s’attriste en silence quand ses enfants ne grandissent pas.",
+ "4.b53.p": "Dieu soutient l’univers sans relâche → il n’est pas enfermé dans la nature → il nous accueille non avec colère, mais avec chagrin → et, en premier et en dernier lieu, il est un Père.",
+ "4.b54.box": "Tel est le Père fidèle que révèle le fascicule 4.",
+ "5.title": "Relations de Dieu avec l’individu",
+ "5.b0.ask": "« Comment le Dieu infini entre-t-il en relation personnelle avec un être humain fini ? »",
+ "5.b1.h": "Vue d’ensemble",
+ "5.b2.p": "Le Père Universel est si grand et si infini que le mental humain fini a du mal à comprendre comment un tel Dieu pourrait être en relation directe avec chacun de nous.",
+ "5.b3.p": "Pourtant, nous n’avons pas besoin de voyager jusqu’aux confins de l’univers pour trouver Dieu. Il a envoyé l’Ajusteur de Pensée, véritable fragment d’esprit de lui-même, vivre dans le mental humain. Notre relation avec Dieu ne commence donc pas quelque part au loin ; elle commence en nous. Par une expérience spirituelle intérieure profonde, nous pouvons découvrir la présence de Dieu et communier avec lui.",
+ "5.b4.p": "Dieu est l’Infini qui gouverne l’univers tout entier, et en même temps il est en relation directe avec chaque individu. Il nous a donné la personnalité et, par le circuit de personnalité qui relie toutes les personnes entre elles, il maintient sa relation avec ses enfants en tant que leur Père.",
+ "5.b5.box": "Dieu est venu à nous le premier.",
+ "5.b6.h": "Le fascicule",
+ "5.b7.h": "1. Le chemin vers Dieu",
+ "5.b8.p": "Si nous ne pouvons pas facilement nous approcher de Dieu, ce n’est pas parce que Dieu est loin de nous. C’est parce que nous sommes encore des êtres finis et matériels.",
+ "5.b9.p": "Dieu ne se cache pas. Au contraire, il veut se faire connaitre de ses enfants et être en communion avec eux.",
+ "5.b10.p": "Quels que soient notre instruction, nos moyens ou notre milieu culturel, chaque personne reçoit la possibilité de venir à Dieu. Chacun reçoit la même présence spirituelle de Dieu, et chacun est libre d’en accepter la conduite.",
+ "5.b11.p": "Si une personne désire sincèrement connaitre Dieu, veut devenir semblable à lui et choisit de faire la volonté du Père, l’Ajusteur de Pensée la guidera spirituellement.",
+ "5.b13.p": "Les êtres humains ont le libre arbitre. Nous pouvons choisir la volonté de Dieu, et nous pouvons aussi la rejeter. Dieu ne nous force pas à venir à lui.",
+ "5.b14.p": "Dieu a placé en nous une part de lui-même et s’est mis en route avec nous pour un voyage éternel.",
+ "5.b15.h": "2. La présence de Dieu",
+ "5.b16.p": "La profondeur avec laquelle nous faisons l’expérience de la présence spirituelle de Dieu dépend de notre réceptivité spirituelle et de notre consentement à faire sa volonté.",
+ "5.b17.p": "On pense souvent à Dieu comme à quelqu’un de lointain, dans le ciel. Mais le fascicule 5 parle d’un Dieu beaucoup plus proche.",
+ "5.b18.p": "L’esprit du Père Universel vit dans le mental humain lui-même.",
+ "5.b19.p": "Le lieu le plus clair où trouver la présence de Dieu n’est pas tant la nature ou le monde extérieur que notre relation avec l’Ajusteur de Pensée intérieur.",
+ "5.b20.p": "Nous ne sommes pas toujours conscients de ce que fait l’Ajusteur de Pensée. La vraie preuve de l’œuvre de Dieu en nous n’est donc pas un sentiment particulier, mais les fruits de l’esprit qui apparaissent dans notre vie. « ⟦Q 5:2.4|140:3.19|140:4.7⟧Vous les connaitrez à leurs fruits.⟦/Q⟧ »",
+ "5.b21.h": "3. La vraie adoration",
+ "5.b22.p": "Le fascicule 5 fait une distinction entre l’adoration et la prière.",
+ "5.b23.t": [
+  [
+   "",
+   "Adoration",
+   "Prière"
+  ],
+  [
+   "Son centre",
+   "Dieu",
+   "Les besoins de l’homme et de la créature"
+  ],
+  [
+   "Son but",
+   "Reconnaitre qui est Dieu",
+   "Chercher de l’aide, une direction, etc."
+  ],
+  [
+   "Demandes",
+   "Essentiellement aucune",
+   "Peut comporter des demandes"
+  ],
+  [
+   "Récompense",
+   "N’en attend aucune",
+   "Peut concerner nos besoins"
+  ],
+  [
+   "Objet le plus élevé",
+   "Le Père Universel",
+   "Liée à la communion avec le Fils"
+  ],
+  [
+   "Attitude essentielle",
+   "Une réponse spontanée qui jaillit de l’amour et du respect",
+   "Exprimer à Dieu nos besoins et notre cœur"
+  ]
+ ],
+ "5.b24.p": "La vraie adoration n’est pas quelque chose que nous faisons pour obtenir quoi que ce soit de Dieu. Nous adorons Dieu parce qu’il est aimable, grand et digne d’adoration.",
+ "5.b26.h": "4. Dieu dans la religion",
+ "5.b27.p": "La religion évolutionnaire commence souvent à chercher Dieu par crainte, mais la religion révélée part de l’amour de Dieu et du désir ardent de lui ressembler.",
+ "5.b28.p": "La vraie religion n’est pas une simple doctrine ni un rituel. C’est une expérience vivante — devenir semblable à Dieu, et aimer et servir les autres en chemin.",
+ "5.b29.t": [
+  [
+   "Tradition ou religion",
+   "Accent principal"
+  ],
+  [
+   "Le bouddhisme",
+   "Le salut des souffrances ; une paix sans fin"
+  ],
+  [
+   "Le judaïsme",
+   "Le salut des difficultés ; la droiture"
+  ],
+  [
+   "La religion grecque",
+   "La beauté"
+  ],
+  [
+   "Le christianisme",
+   "Le salut du péché ; la sainteté"
+  ],
+  [
+   "Le zoroastrisme",
+   "La morale"
+  ],
+  [
+   "L’hindouisme",
+   "La métaphysique"
+  ],
+  [
+   "Le confucianisme",
+   "L’éthique"
+  ],
+  [
+   "La religion de Jésus",
+   "L’amour et le service"
+  ]
+ ],
+ "5.b30.p": "Jésus a réuni toutes ces approches autour d’un centre plus élevé : l’amour. Et l’amour englobe à la fois la vérité, la beauté et la bonté.",
+ "5.b31.t": [
+  [
+   "Tradition",
+   "Mot de passe principal"
+  ],
+  [
+   "La religion grecque",
+   "Connais-toi toi-même"
+  ],
+  [
+   "La religion hébraïque",
+   "Connaissez votre Dieu"
+  ],
+  [
+   "Le christianisme",
+   "La connaissance du Seigneur Jésus-Christ"
+  ],
+  [
+   "L’évangile de Jésus",
+   "Connaissez Dieu et connaissez-vous vous-même comme fils de Dieu"
+  ]
+ ],
+ "5.b32.h": "5. La conscience de Dieu",
+ "5.b33.p": "Vivre moralement est important, mais la moralité à elle seule n’est pas toute la religion. L’expérience spirituelle, c’est lorsqu’une personne trouve réellement Dieu et s’efforce de lui ressembler.",
+ "5.b34.t": [
+  [
+   "Niveau",
+   "Ce dont il s’agit"
+  ],
+  [
+   "Le niveau matériel",
+   "La survie et la conservation de soi"
+  ],
+  [
+   "Le niveau social et émotionnel",
+   "L’amitié et la camaraderie"
+  ],
+  [
+   "Le niveau moral",
+   "Le bien et le mal, et le devoir"
+  ],
+  [
+   "Le niveau spirituel",
+   "La communion avec Dieu et l’adoration"
+  ]
+ ],
+ "5.b35.p": "Le savant peut essayer de comprendre Dieu comme la Cause Première, l’artiste comme la beauté suprême et le philosophe comme le principe unificateur de l’univers. Mais la personne de foi fait l’expérience de Dieu comme d’un Père aimant.",
+ "5.b36.t": [
+  [
+   "Domaine",
+   "Ce que donne l’expérience religieuse"
+  ],
+  [
+   "Intellectuel",
+   "Un sentiment d’unité dans la vie et la conscience"
+  ],
+  [
+   "Philosophique",
+   "L’assurance des valeurs et des idéaux moraux"
+  ],
+  [
+   "Spirituel",
+   "La satisfaction de la communion et de l’adoration avec Dieu"
+  ]
+ ],
+ "5.b37.t": [
+  [
+   "La conscience de Dieu",
+   "Signification"
+  ],
+  [
+   "Conscience du mental",
+   "La compréhension de l’idée de Dieu"
+  ],
+  [
+   "Conscience de l’âme",
+   "La réalisation de l’idéal de Dieu"
+  ],
+  [
+   "Conscience de l’esprit",
+   "La réalisation de la réalité spirituelle de Dieu"
+  ]
+ ],
+ "5.b38.p": "Connaitre Dieu, ce n’est pas simplement posséder beaucoup d’informations sur lui. C’est comprendre Dieu avec le mental, le désirer ardemment avec l’âme et en faire l’expérience dans l’esprit.",
+ "5.b39.h": "6. Le Dieu de la personnalité",
+ "5.b40.p": "Le Père Universel est le Dieu de toutes les personnalités. Toute personnalité vient de lui, et il est à la fois le dispensateur et le conservateur de toute personnalité.",
+ "5.b41.p": "La personnalité est l’un des grands mystères de l’univers. Le mental, l’esprit et l’énergie matérielle ne sont pas en eux-mêmes la personnalité. La personnalité est un don unique conféré directement par le Père Universel.",
+ "5.b42.p": "Chacun de nous a un moi matériel, et en lui habite l’Ajusteur de Pensée, fragment d’esprit de Dieu. Par l’association créative de ces deux-là, une âme immortelle peut grandir.",
+ "5.b43.p": "Dans le choix de vivre ou non éternellement, Dieu ne passe jamais outre à notre libre arbitre.",
+ "5.b45.h": "Conclusion",
+ "5.b46.t": [
+  [
+   "Dieu est notre Père Universel, et nous sommes tous ses enfants."
+  ],
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "1. Le chemin vers Dieu",
+   "Le chemin vers Dieu est ouvert à tous"
+  ],
+  [
+   "2. La présence de Dieu",
+   "Dieu est présent en nous par l’Ajusteur de Pensée"
+  ],
+  [
+   "3. La vraie adoration",
+   "Nous adorons parce que nous savons qui est Dieu"
+  ],
+  [
+   "4. Dieu dans la religion",
+   "La vraie religion est une expérience vivante d’amour et de service"
+  ],
+  [
+   "5. La conscience de Dieu",
+   "Dieu n’est pas seulement quelqu’un à comprendre, mais quelqu’un dont on fait l’expérience personnelle"
+  ],
+  [
+   "6. Le Dieu de la personnalité",
+   "Dieu est la source de toute personnalité, et il respecte notre libre arbitre"
+  ]
+ ],
+ "5.b47.h": "Points clés du fascicule 5",
+ "5.b48.p": "Dieu n’est pas un Absolu lointain. C’est un Père qui me connait personnellement.",
+ "5.b49.p": "Il a placé en moi son propre fragment d’esprit, l’Ajusteur de Pensée. Le voyage à la recherche de Dieu ne commence donc pas seulement à l’extérieur ; il commence au-dedans.",
+ "5.b50.p": "Le Père nous a donné son esprit → par notre libre arbitre, nous choisissons d’en suivre la conduite → l’âme grandit → nous connaissons Dieu de plus en plus profondément → et nous avançons enfin jusqu’au Père.",
+ "5.b51.box": "Telle est l’ascension éternelle que décrit « Relations de Dieu avec l’individu ».",
+ "6.title": "Le Fils Éternel",
+ "6.b0.ask": "« Pourquoi Dieu n’est-il pas seul ? »",
+ "6.b1.h": "Vue d’ensemble",
+ "6.b2.p": "Le Fils Éternel est l’un des sujets les plus difficiles du Livre d’Urantia. Pourtant, l’idée centrale du fascicule 6 est étonnamment simple.",
+ "6.b3.p": "Dieu n’est pas seul. Chaque fois que le Père s’exprime personnellement, cette expression passe toujours par le Fils Éternel.",
+ "6.b4.p": "Si le Père est la pensée contenue dans le mental, le Fils est cette pensée prononcée au-dehors comme le Verbe vivant. Ainsi, le Fils a toujours été, il est maintenant et il sera à jamais.",
+ "6.b5.p": "Le Fils n’a pas de commencement. Quand nous parlons d’une « première pensée », nous ne faisons qu’emprunter des mots, en tant que créatures du temps, pour essayer de saisir l’éternité.",
+ "6.b6.p": "Le plus important de tout : si le Père est amour, le Fils est miséricorde. Le Fils n’est pas quelqu’un qui nous protège du Père. Il est celui qui nous apporte l’amour du Père tel qu’il est.",
+ "6.b8.h": "Le fascicule",
+ "6.b9.h": "1. Identité du Fils Éternel",
+ "6.b10.p": "Le Fils Éternel est le Fils originel et unique engendré par Dieu. Il est Dieu le Fils, la Deuxième Personne de la Déité et le créateur associé de toutes choses.",
+ "6.b11.p": "De même que le Père est la Grande Source-Centre Première, de même le Fils Éternel est la Grande Source-Centre Deuxième. Le Fils est le centre spirituel et l’administrateur divin de l’univers des univers.",
+ "6.b12.p": "Le Père Universel ne crée jamais seul, sans le Fils. La création est toujours une œuvre commune.",
+ "6.b13.p": "Si l’auteur du Nouveau Testament avait parlé du Fils Éternel, il aurait dit la vérité en écrivant : « ⟦Q 6:1.3⟧Au commencement était le Verbe, et le Verbe était avec Dieu⟦/Q⟧. »",
+ "6.b14.t": [
+  [
+   "",
+   "Le Père Universel",
+   "Le Fils Éternel"
+  ],
+  [
+   "Source et centre",
+   "La Grande Source-Centre Première",
+   "La Grande Source-Centre Deuxième"
+  ],
+  [
+   "Absoluité",
+   "L’absolu de la volonté",
+   "L’absolu de la personnalité"
+  ],
+  [
+   "Ordre d’activité",
+   "D’abord créateur, ensuite contrôleur",
+   "D’abord cocréateur, ensuite administrateur spirituel"
+  ],
+  [
+   "Expression",
+   "La pensée initiatrice",
+   "Le verbe expressif"
+  ],
+  [
+   "Comment il voit les créatures",
+   "Les aime comme un père",
+   "Les voit comme un père et aussi comme un frère"
+  ]
+ ],
+ "6.b15.h": "2. Nature du Fils Éternel",
+ "6.b16.p": "Comme le Père, le Fils Éternel est immuable et infiniment digne de confiance.",
+ "6.b17.p": "Par nature, le Fils est entièrement semblable au Père spirituel. Ainsi, quand nous adorons le Père Universel, nous adorons en même temps Dieu le Fils et Dieu l’Esprit.",
+ "6.b18.p": "Pour nous, êtres d’humble origine, le Fils semble un peu plus facile à approcher que le Père. C’est pourquoi on a pu et on pourra toujours dire en vérité du Fils Éternel et de tous les Fils Créateurs : « ⟦Q 6:2.2|169:4.2⟧Celui qui a vu le Fils a vu le Père.⟦/Q⟧ »",
+ "6.b19.p": "Le Fils partage pleinement la droiture et la sainteté du Père et porte avec lui la responsabilité d’aider les créatures imparfaites à atteindre la perfection divine.",
+ "6.b20.p": "Dans l’amour de la vérité et la création de la beauté, le Père et le Fils sont égaux. Pourtant, le Fils semble se consacrer davantage à la réalisation de la beauté spirituelle.",
+ "6.b21.h": "3. Ministère de l’amour du Père",
+ "6.b22.p": "La phrase du fascicule 6 qui mérite le plus d’être prise à cœur est celle-ci : Dieu est amour, le Fils est miséricorde.",
+ "6.b23.p": "Le Fils ne peut pas aimer les créatures plus que le Père. Mais il peut leur témoigner de la miséricorde d’une manière supplémentaire. La miséricorde est l’amour appliqué — l’amour du Père en action dans la personne du Fils.",
+ "6.b24.p": "Nous ne devons donc jamais imaginer le Fils persuadant le Père d’être miséricordieux. Le Livre d’Urantia dit clairement que de tels concepts de Dieu sont grossiers et grotesques.",
+ "6.b25.p": "Tout le ministère miséricordieux des Fils de Dieu est une révélation directe du cœur même du Père, plein d’amour universel et de compassion infinie.",
+ "6.b26.t": [
+  [
+   "Malentendu courant",
+   "La vérité selon le fascicule 6"
+  ],
+  [
+   "Le Fils persuade le Père d’être miséricordieux",
+   "L’amour du Père est la source réelle et éternelle de la miséricorde du Fils"
+  ],
+  [
+   "Le Père est sévère et le Fils est bon",
+   "Dans la bonté divine, il n’y a pas de différence entre le Père et le Fils"
+  ],
+  [
+   "La miséricorde est autre chose que l’amour",
+   "La miséricorde est l’amour appliqué — l’amour mis en action"
+  ],
+  [
+   "L’amour du Fils est moindre que celui du Père",
+   "La différence n’est pas dans le contenu, mais dans la manière de l’exprimer — à côté de l’amour du Père, l’amour du Fils ressemble davantage à celui d’une mère"
+  ]
+ ],
+ "6.b27.h": "4. Attributs du Fils Éternel",
+ "6.b28.p": "Le pouvoir du Fils Éternel est absolu dans le domaine spirituel. Tout esprit pur, tout être et toute valeur spirituels réagissent au pouvoir d’attraction infini de ce Fils.",
+ "6.b29.p": "Mais le Fils n’est tout-puissant que dans le domaine spirituel. Dans la gestion de l’univers, il n’y a ni gaspillage ni répétition inutile de fonctions.",
+ "6.b30.p": "Il faut faire ici une distinction. L’Ajusteur de Pensée, fragment du Père, vit en nous ; mais l’esprit du Fils Éternel n’entre pas en nous. Il nous enveloppe plutôt.",
+ "6.b31.t": [
+  [
+   "Attribut",
+   "Ce que cela signifie"
+  ],
+  [
+   "La gravité d’esprit",
+   "Il contrôle parfaitement toute l’énergie d’esprit indifférenciée et toute la réalité spirituelle actualisée"
+  ],
+  [
+   "La toute-puissance",
+   "Il n’est tout-puissant que dans le domaine spirituel"
+  ],
+  [
+   "L’omniprésence",
+   "Il est présent partout en esprit ; plutôt que de nous habiter, il nous enveloppe"
+  ],
+  [
+   "L’omniscience",
+   "Il connait toutes choses, n’est jamais surpris par aucun évènement cosmique et voit la fin depuis le commencement"
+  ],
+  [
+   "La sagesse",
+   "En sagesse, il est pleinement l’égal du Père"
+  ],
+  [
+   "Le contact personnel",
+   "Il est bon et prévenant, patient et longanime envers les êtres ascendants des royaumes inférieurs"
+  ]
+ ],
+ "6.b32.p": "Plus le fragment du Père en nous accorde notre mental à une attitude divine, plus nous devenons sensibles à la gravité d’esprit du Fils. La poussée intérieure et l’attraction extérieure agissent ensemble.",
+ "6.b33.h": "5. Limitations du Fils Éternel",
+ "6.b34.p": "Chose surprenante, le fascicule 6 consacre un certain temps à ce que le Fils ne fait pas. Ces limites n’ôtent pourtant rien à ses attributs divins. Elles montrent plutôt combien l’univers est ordonné.",
+ "6.b35.t": [
+  [
+   "Ce qu’il ne fait pas",
+   "Ce que cela signifie"
+  ],
+  [
+   "Il n’agit pas personnellement dans le domaine matériel",
+   "Il n’y a aucune limite à son libre usage de l’omniscience, de l’omniprésence et de la toute-puissance spirituelles"
+  ],
+  [
+   "Il n’agit pas sur le niveau mental, sauf par l’intermédiaire de l’Acteur Conjoint",
+   "Il n’y a pas de répétition inutile de fonctions dans la gestion de l’univers"
+  ],
+  [
+   "Il ne confère pas la personnalité par lui-même",
+   "La personnalité est le don exclusif du Père Universel — le Fils est un cocréateur de la personnalité"
+  ],
+  [
+   "Il ne transmet pas une seconde fois le pouvoir créateur",
+   "Le pouvoir créateur n’est transmis que jusqu’à la première personnalisation directe, les Fils Créateurs"
+  ],
+  [
+   "Il ne fragmente pas sa nature",
+   "Une personnalité divine absolue ne peut être morcelée ni divisée"
+  ],
+  [
+   "Il ne prend pas directement part à l’octroi des Ajusteurs de Pensée",
+   "Il a pourtant approuvé le plan — « ⟦Q 6:5.7|10:3.1⟧Faisons l’homme à notre propre image⟦/Q⟧ » — et promis une coopération permanente"
+  ]
+ ],
+ "6.b36.p": "Ainsi, bien que le Fils n’entre pas en nous, le fragment d’esprit du Père et la présence en esprit du Fils travaillent perpétuellement comme un à notre progrès spirituel.",
+ "6.b37.h": "6. Le mental de l’esprit",
+ "6.b38.p": "Le Fils Éternel est esprit et possède un mental. Mais ce n’est pas un mental tel que nous le connaissons.",
+ "6.b39.p": "Nous ne reconnaissons le mental qu’au niveau matériel et personnel. Mais, lorsque le mental se rapporte aux niveaux spirituels d’existence, il faut le définir d’une tout autre manière.",
+ "6.b40.p": "Il y a ici un principe important : la Déité ne peut jamais être sans mental. La capacité de connaitre et d’être connu — la capacité de communiquer — appartient par nature à la Déité.",
+ "6.b41.t": [
+  [
+   "Sorte de mental",
+   "Description"
+  ],
+  [
+   "Le mental uni à la matière",
+   "Le niveau fini et matériel du mental que nous utilisons chaque jour"
+  ],
+  [
+   "Le mental servant d’intermédiaire entre l’esprit et la matière",
+   "Le mental qui agit là où les deux niveaux se rencontrent et se relient"
+  ],
+  [
+   "Le mental directement uni à l’esprit",
+   "Un mental purement spirituel, comme celui du Fils Éternel"
+  ],
+  [
+   "Le prémental",
+   "Le mental de l’Ajusteur de Pensée — hors des circuits de l’Acteur Conjoint, il connait pourtant et il pense"
+  ]
+ ],
+ "6.b42.p": "Le mental du Fils Éternel est semblable à celui du Père et diffère par nature de tout autre mental de l’univers. Une grande partie de ce mystère, nous ne la comprendrons qu’après avoir atteint des niveaux spirituels plus élevés.",
+ "6.b43.h": "7. Personnalité du Fils Éternel",
+ "6.b44.p": "Le Fils est la personnalité absolue. Par la technique de la trinitisation, le Père s’est libéré des entraves de la personnalité non qualifiée, et depuis lors il se donne sans fin à l’univers.",
+ "6.b45.p": "De même que la personnalité du Fils Originel est venue du Père, de même tous les êtres personnels reçoivent leur personnalité du Père Universel. La personnalité du Fils est l’archétype divin et éternel des dons de personnalité du Père.",
+ "6.b46.p": "Le Fils Éternel est un ministre de miséricorde, un esprit divin, un pouvoir spirituel et une personnalité réelle.",
+ "6.b47.p": "Pourtant, le langage humain ne peut rendre la beauté et la majesté de cette sublime personnalité. C’est seulement en atteignant le Paradis que nous comprendrons pourquoi elle ne pouvait pas être expliquée.",
+ "6.b48.h": "8. Réalisation du Fils Éternel",
+ "6.b49.p": "Par l’identité et la nature de sa personnalité, le Fils Éternel est le plein égal et le complément parfait du Père Universel.",
+ "6.b51.p": "Dans la gestion de l’univers, le Père et le Fils sont si étroitement unis que nous ne pouvons pas toujours distinguer leur œuvre. Quand cela arrive, il suffit de se rappeler : Dieu est la pensée initiatrice, et le Fils le verbe expressif.",
+ "6.b52.p": "Pour nous, êtres d’origine matérielle, la voie vers le Fils Éternel est également ouverte. Elle passe par les missions d’effusion des Fils du Paradis et le ministère aimant de l’Esprit Infini.",
+ "6.b53.p": "Pour l’instant, celui que nous comprenons le mieux est le Fils Créateur qui a vécu comme un homme parmi les hommes. Il compense notre incapacité actuelle à comprendre le Fils Éternel.",
+ "6.b55.h": "Conclusion",
+ "6.b57.t": [
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "1. Identité du Fils Éternel",
+   "Le Fils est la Source-Centre Deuxième, et le Père ne crée jamais seul"
+  ],
+  [
+   "2. Nature du Fils Éternel",
+   "Celui qui a vu le Fils a vu le Père ; le Fils est un peu plus facile à approcher"
+  ],
+  [
+   "3. Ministère de l’amour du Père",
+   "La miséricorde est l’amour du Père mis en action dans le Fils"
+  ],
+  [
+   "4. Attributs du Fils Éternel",
+   "Le fragment du Père habite en nous ; l’esprit du Fils nous enveloppe"
+  ],
+  [
+   "5. Limitations du Fils Éternel",
+   "Ce qu’il ne fait pas montre combien l’univers est ordonné"
+  ],
+  [
+   "6. Le mental de l’esprit",
+   "La Déité n’est jamais sans mental, et le mental spirituel diffère du nôtre"
+  ],
+  [
+   "7. Personnalité du Fils Éternel",
+   "Le Fils est la personnalité absolue, l’archétype éternel de tout don de personnalité"
+  ],
+  [
+   "8. Réalisation du Fils Éternel",
+   "De même que Dieu est le Père Universel, le Fils est la Mère Universelle"
+  ]
+ ],
+ "6.b58.h": "Points clés du fascicule 6",
+ "6.b59.p": "Le Fils Éternel n’est pas une idée théologique lointaine. Il est le cœur du Père prononcé au-dehors comme le Verbe, et quand ce Verbe nous atteint, son nom est miséricorde.",
+ "6.b60.p": "Le fragment du Père me conduit de l’intérieur, et l’esprit du Fils m’enveloppe et m’attire de l’extérieur. Je suis tenu à la fois au-dedans et au-dehors.",
+ "6.b61.p": "Le Père pense → le Fils parle → la miséricorde nous atteint → nous sommes attirés vers le haut → et nous nous tenons enfin en la présence du Fils.",
+ "6.b62.box": "Tel est l’univers d’amour et de miséricorde que décrit « Le Fils Éternel ».",
+ "7.title": "Position du Fils Éternel par rapport à l’univers",
+ "7.b0.ask": "« Comment ma prière parvient-elle à Dieu ? »",
+ "7.b1.h": "Vue d’ensemble",
+ "7.b2.p": "Si le fascicule 6 nous a dit qui est le Fils Éternel, le fascicule 7 nous dit comment le Fils se rapporte à l’univers.",
+ "7.b3.p": "Pourtant, ce fascicule touche de façon surprenante à notre vie quotidienne. Dans la section 3, il explique comment la prière que j’ai faite aujourd’hui est portée jusqu’à Dieu. Nulle part ailleurs dans le Livre d’Urantia le fonctionnement de la prière n’est décrit de façon aussi concrète.",
+ "7.b4.p": "Commençons par la vue d’ensemble. Le Fils Éternel est le soutien des réalités d’esprit. De même que l’Ile du Paradis retient toute la matière, le Fils retient tout l’esprit.",
+ "7.b5.p": "Une chose doit toutefois être claire. Le Fils n’est pas directement responsable de chaque acte de chaque personnalité spirituelle. Les personnalités ont le libre arbitre, et le monde de l’esprit ne représente donc pas toujours fidèlement le caractère du Fils. Mais rien ne peut ébranler l’emprise du Fils par la gravité d’esprit.",
+ "7.b7.h": "Le fascicule",
+ "7.b8.h": "1. Le circuit de gravité d’esprit",
+ "7.b9.p": "La pure gravité d’esprit de toute la création ramène directement à la personne de la Source-Centre Deuxième au Paradis. Le Fils tient littéralement dans sa main toutes les réalités d’esprit et toutes les valeurs spiritualisées.",
+ "7.b10.p": "Et cette gravité est d’une tout autre nature que la gravité matérielle. Connaitre la différence rend bien plus faciles à suivre les parties qui viennent ensuite sur la prière et l’ascension.",
+ "7.b11.t": [
+  [
+   "Ce qui l’affecte",
+   "Gravité matérielle",
+   "Gravité d’esprit"
+  ],
+  [
+   "Le temps",
+   "Sa transmission prend du temps",
+   "N’est jamais retardée par le temps"
+  ],
+  [
+   "La distance",
+   "Décroit selon le carré de la distance",
+   "N’est pas diminuée par la distance"
+  ],
+  [
+   "La masse",
+   "Est freinée par la masse de la création matérielle",
+   "N’est pas freinée par la masse"
+  ],
+  [
+   "Ce à quoi elle réagit",
+   "La quantité d’énergie organisée",
+   "La qualité de la nature d’esprit"
+  ]
+ ],
+ "7.b13.p": "Ce circuit n’agit pas seulement à travers l’univers entier ; il agit aussi entre les personnes. Il existe une attirance directe de nature d’esprit entre des personnes de mentalité spirituelle ayant les mêmes gouts et les mêmes aspirations. Le texte ajoute donc : « ⟦Q 7:1.6⟧L’expression esprits apparentés n’est pas entièrement une figure de rhétorique.⟦/Q⟧ »",
+ "7.b14.p": "Même le péché et la rébellion ne peuvent rompre ce circuit. La rébellion de Lucifer a apporté de nombreux changements à notre système et à Urantia, mais elle n’a nullement affecté la gravité d’esprit du Fils Éternel. Bien que notre planète ait été mise en quarantaine spirituelle, ce pouvoir d’attraction a continué sans changement.",
+ "7.b15.p": "La présence d’esprit du Fils n’est pourtant pas toujours prévisible. Il apparait parfois des réactions imprévisibles, et l’auteur suppose qu’elles sont l’activité coordonnée de l’Absolu de Déité.",
+ "7.b16.t": [
+  [
+   "Qui",
+   "Quel domaine"
+  ],
+  [
+   "Le Fils Éternel",
+   "Gouverne le domaine des valeurs d’esprit déjà actuelles"
+  ],
+  [
+   "L’Absolu de Déité",
+   "Semble imprégner le vaste domaine des valeurs d’esprit encore potentielles"
+  ]
+ ],
+ "7.b17.h": "2. L’administration du Fils Éternel",
+ "7.b18.p": "Le Fils n’est pas présent partout de la même manière. Plus on s’éloigne du Paradis, moins on trouve son activité personnelle ; il se manifeste plutôt d’autres manières.",
+ "7.b19.t": [
+  [
+   "Où",
+   "Comment il est présent"
+  ],
+  [
+   "Le Paradis",
+   "Sa présence et son activité personnelle sont profondes — absolues"
+  ],
+  [
+   "Havona",
+   "On le discerne dans l’harmonie exquise où le statut spirituel et les états d’énergie sont en équilibre parfait et éternel"
+  ],
+  [
+   "Les superunivers",
+   "Il n’est pas personnellement présent, seulement par une représentation superpersonnelle — les créatures ne peuvent pas le discerner directement"
+  ],
+  [
+   "Les univers locaux",
+   "Il est personnellement présent dans la personne des Fils du Paradis"
+  ]
+ ],
+ "7.b20.p": "Bien qu’on ne puisse pas le discerner directement dans les superunivers, il n’en est pas absent. L’impulsion spirituelle de son influence personnelle se fait sentir dans chaque phase de chaque activité.",
+ "7.b21.p": "Et dans l’univers local où nous vivons, sa présence prend un visage. Le Fils agit spirituellement et créativement dans la personne des Fils Créateurs coordonnés. Pour nous, ce visage est celui de Micaël.",
+ "7.b22.h": "3. Position du Fils Éternel par rapport aux individus",
+ "7.b23.p": "Cette section est le cœur du fascicule 7. Voyons d’abord comment, au cours de notre ascension, nous en venons à reconnaitre le Fils.",
+ "7.b24.t": [
+  [
+   "Où",
+   "Ce que nous reconnaissons"
+  ],
+  [
+   "L’univers local",
+   "Nous reconnaissons le Fils Créateur comme le représentant personnel du Fils Éternel"
+  ],
+  [
+   "Le superunivers",
+   "Nous prenons de plus en plus conscience de la présence sublime de l’esprit qui inspire, et nous recevons son ministère spirituellement vivifiant"
+  ],
+  [
+   "Havona",
+   "Nous prenons plus profondément conscience de l’étreinte spirituelle aimante et omniprésente du Fils Originel"
+  ]
+ ],
+ "7.b25.p": "Il faut garder une distinction bien claire. L’esprit du Fils Éternel n’habite pas notre mental ni notre âme. Mais sa bienveillante sollicitude est toujours proche, attentive à notre bien-être et à notre sécurité spirituelle.",
+ "7.b26.p": "Et voici que le secret de l’ascension est révélé. Le circuit de gravité d’esprit attire l’âme humaine vers le Paradis. Le mental commence comme un mécanisme matériel, mais il devient de moins en moins soumis à la gravité matérielle et de plus en plus sensible à l’attraction de la gravité d’esprit.",
+ "7.b27.p": "Venons-en à la prière. Le texte dit que le circuit de gravité d’esprit est le canal fondamental par lequel la vraie prière passe de la conscience humaine à la conscience de la Déité. Tout ce qui, dans une requête, a une réelle valeur spirituelle est saisi par ce circuit et transmis instantanément et simultanément à toutes les personnalités divines concernées.",
+ "7.b28.p": "Il en découle une affirmation remarquable. Que, dans la prière, nous pensions au Fils Créateur de notre univers local ou au Fils Éternel au centre de toutes choses ne fait aucune différence essentielle. Le circuit se charge de l’acheminement.",
+ "7.b29.t": [
+  [
+   "Quelle sorte de prière",
+   "Ce qui se passe"
+  ],
+  [
+   "Remplie d’une valeur spirituelle suprême",
+   "Dès qu’elle est exprimée, aucune puissance de l’univers ne peut empêcher qu’elle soit transmise instantanément à la personnalité d’esprit absolue"
+  ],
+  [
+   "Des requêtes purement égoïstes et matérielles",
+   "Elles ne peuvent être reçues dans le circuit d’esprit ; elles perdent leur vie et tombent mortes"
+  ],
+  [
+   "Des pétitions non dictées par l’esprit",
+   "Elles ne s’élèvent pas dans les circuits des valeurs spirituelles — elles sont comme « ⟦Q 7:3.6⟧des cuivres qui résonnent et des cymbales qui retentissent⟦/Q⟧ »"
+  ]
+ ],
+ "7.b30.p": "Le texte compare cela au système nerveux humain. Certaines sensations s’arrêtent à la moelle épinière, d’autres sont traitées par le cerveau inférieur, mais les messages les plus importants vont droit aux niveaux les plus élevés de la conscience. La technique du monde spirituel est bien plus parfaite encore.",
+ "7.b31.p": "Nous n’avons donc pas à nous inquiéter de savoir si nos prières parviennent à Dieu. Mais nous devons savoir ce qui rend une prière valable.",
+ "7.b33.h": "4. Les plans de perfection divine",
+ "7.b34.p": "Le Fils Éternel est le fidéicommissaire personnel et le divin gardien du plan du Père pour l’ascension des créatures. Après avoir proclamé le commandement « ⟦Q 7:4.7|1:0.3|1:0.6⟧Soyez parfaits comme moi-même je suis parfait⟦/Q⟧ », le Père en a confié l’exécution au Fils.",
+ "7.b35.p": "Cette immense entreprise comporte trois branches. Elles sont entrelacées, mais il vaut la peine de remarquer que chacune a commencé avec une Personne différente.",
+ "7.b36.t": [
+  [
+   "Le plan",
+   "Qui l’a proposé",
+   "Ce qu’il fait"
+  ],
+  [
+   "Le plan d’aboutissement progressif",
+   "Le Père Universel — pleinement accepté par le Fils",
+   "Des créatures mortelles faites à notre image, recevant des Ajusteurs de Pensée et dotées de personnalité"
+  ],
+  [
+   "Le plan d’effusion",
+   "Le Fils Éternel — une mission pour révéler le Père",
+   "Des Fils de Dieu sont effusés sur les créations évolutionnaires pour incarner et rendre réels l’amour du Père et la miséricorde du Fils"
+  ],
+  [
+   "Le plan du ministère de miséricorde",
+   "L’Esprit Infini — conçu et exécuté par lui seul",
+   "Le ministère essentiel qui rend les deux autres entreprises vraiment efficaces"
+  ]
+ ],
+ "7.b37.p": "Le plan d’effusion comporte une disposition d’urgence. Si le plan d’aboutissement est retardé par une rébellion, les mesures d’urgence du plan d’effusion entrent immédiatement en action. Les Fils du Paradis se tiennent prêts, et engagés, à descendre dans les royaumes mêmes de la rébellion et à y agir comme rétablisseurs.",
+ "7.b38.p": "Et le texte ajoute discrètement une ligne : « ⟦Q 7:4.5⟧C’est un tel service héroïque qu’un Fils Créateur coordonné a accompli sur Urantia⟦/Q⟧. » La planète où nous vivons était ce lieu.",
+ "7.b39.h": "5. L’esprit d’effusion",
+ "7.b40.p": "Il y a une chose que le Fils Éternel ne peut pas faire : se diviser en fragments, comme le fait le Père, et entrer en nous. Une nature purement personnelle ne peut pas être fragmentée.",
+ "7.b41.p": "Le Fils a donc pris un autre chemin. Ce contraste est le passage le plus beau du fascicule 7.",
+ "7.b42.t": [
+  [
+   "Qui",
+   "Comment il partage l’expérience de la créature"
+  ],
+  [
+   "Le Père Universel",
+   "Il est fragmenté sous forme d’Ajusteurs de Pensée prépersonnels et habite le mental humain"
+  ],
+  [
+   "Le Fils Éternel",
+   "Ne pouvant être fragmenté, il prend la nature de la créature par la technique de l’incarnation et devient lui-même la créature"
+  ]
+ ],
+ "7.b43.p": "Le texte appelle cette incarnation « ⟦Q 7:5.4|119:7.5⟧le secret de Sonarington⟦/Q⟧ » et dit qu’elle est la technique par laquelle le Fils échappe aux liens de l’absolutisme de la personnalité.",
+ "7.b44.p": "Nous pouvons donc dire ceci : ce que les Ajusteurs signifient pour le Père, l’expérience d’incarnation des Fils du Paradis le signifie pour le Fils Éternel. Et lorsque Micaël s’est incarné dans la nature humaine de Jésus de Nazareth, le Fils Éternel est vraiment venu vers l’homme mortel sur Urantia.",
+ "7.b45.p": "Il y a très, très longtemps, le Fils s’est effusé sur chacun des sept circuits de Havona. Même alors, il n’a pas fonctionné comme un ascendeur ni comme un natif de Havona ; il existait en tant que lui-même. Étant absolu, il ne pouvait suspendre sa conscience personnelle, et pendant tout ce temps sa demeure centrale au Paradis n’a rien perdu de sa lumière.",
+ "7.b46.p": "L’auteur prend ici honnêtement du recul. Il admet que nous ne savons pas ce que le Fils a gagné par ces effusions. Nous croyons seulement que, quoi qu’il ait gagné, il l’a conservé depuis lors.",
+ "7.b47.p": "Ce qui compte davantage pour nous vient ensuite. Chaque fois qu’un Fils de Dieu est effusé sur un monde, il devient vrai que, dans, par et au moyen de cette effusion, le Fils Éternel s’est effusé sur les créatures volitives de l’univers.",
+ "7.b49.h": "6. Les Fils Paradisiaques de Dieu",
+ "7.b50.p": "Le texte signale une grande source de confusion sur Urantia : le manque de connaissances sur les nombreux Fils de Dieu. Quand différents ordres sont tous regroupés sous le seul mot de Fils, l’Écriture devient obscure et la théologie s’embrouille.",
+ "7.b51.p": "La distinction la plus fondamentale est de savoir qui personnalise qui.",
+ "7.b52.t": [
+  [
+   "Ordre de Fils",
+   "Personnalisés par",
+   "Ce qu’ils font"
+  ],
+  [
+   "Les Fils Créateurs",
+   "Le Père et le Fils",
+   "Ils s’en vont dans les univers locaux et parachèvent l’organisation de l’évolution progressive"
+  ],
+  [
+   "Les Fils Magistraux",
+   "Le Fils et l’Esprit",
+   "Par l’incarnation en tant que créatures, ils méritent le droit de servir comme juges de la survie"
+  ],
+  [
+   "Les Fils Instructeurs de la Trinité",
+   "Le Père, le Fils et l’Esprit",
+   "Ils parcourent le grand univers comme instructeurs sublimes de toutes les personnalités, humaines et divines"
+  ]
+ ],
+ "7.b53.p": "La manière dont un Fils Créateur vient à l’existence est frappante. Chaque fois que le Père et le Fils conçoivent ensemble une pensée personnelle nouvelle, originale et absolue, cette pensée est aussitôt parfaitement personnalisée en un nouveau Fils Créateur.",
+ "7.b54.p": "Ces Fils ont pourtant eux aussi des limites. Ils ne peuvent administrer que ce qu’ils ont fait venir à l’existence, car l’administration absolue est inhérente à la priorité d’existence. Le texte le dit donc brièvement : le Père reste le premier dans l’univers.",
+ "7.b55.p": "Et parmi ces Fils existe un circuit de communication qui leur est propre, entièrement distinct du circuit de gravité d’esprit. Il est instantané ; parfois limité par l’espace, il est indépendant du temps.",
+ "7.b56.h": "7. La révélation suprême du Père",
+ "7.b57.p": "Le Fils Éternel est la révélation complète, exclusive et finale de l’esprit et de la personnalité du Père Universel. Toute connaissance du Père doit venir du Fils et de ses Fils.",
+ "7.b58.t": [
+  [
+   "En",
+   "Le Père et le Fils sont"
+  ],
+  [
+   "Personnalité divine",
+   "Coordonnés"
+  ],
+  [
+   "Nature spirituelle",
+   "Égaux"
+  ],
+  [
+   "Divinité",
+   "Identiques"
+  ]
+ ],
+ "7.b59.p": "Le Fils ne rend pas le Père meilleur. Le Père est déjà infiniment parfait. Son caractère est simplement amplifié pour que les créatures le voient, en étant dépouillé de ce qui est impersonnel et non spirituel.",
+ "7.b60.p": "Le chemin vers le Père devient ainsi clair. Le Père ne vient à nous en tant que personnalité que par les divins Fils du Fils Éternel, et nous atteignons le Père par cette même voie vivante. Cela reste vrai même si notre personnalité nous a été conférée directement par le Père.",
+ "7.b61.p": "Enfin, ce fascicule se termine sur une note très tendre. Le Fils, comme le Père, est une vraie personne, et pour ceux qui ont été humains, le Fils est plus facile à approcher que le Père. En traversant les circuits de Havona, nous devenons capables d’atteindre le Fils bien avant d’être prêts à reconnaitre le Père.",
+ "7.b62.p": "Quand le Fils Éternel semble lointain, voici donc ce que nous pouvons faire : méditer sur le ministère aimant de notre Fils Créateur, qui fut un jour un Fils de l’Homme. Plus nous contemplons ce visage, mieux nous comprenons le caractère du Fils Éternel de miséricorde.",
+ "7.b63.h": "Conclusion",
+ "7.b64.t": [
+  [
+   "Le Père vient à nous en tant que personne par le Fils, et c’est par cette voie vivante que nous allons au Père."
+  ],
+  [
+   "Section",
+   "Message clé"
+  ],
+  [
+   "1. Le circuit de gravité d’esprit",
+   "La gravité d’esprit n’est ni retardée par le temps ni diminuée par la distance, et même la rébellion ne peut la rompre"
+  ],
+  [
+   "2. L’administration du Fils Éternel",
+   "Plus on s’éloigne du Paradis, plus son activité personnelle diminue, et il se manifeste d’autres manières"
+  ],
+  [
+   "3. Position du Fils Éternel par rapport aux individus",
+   "Le circuit de gravité d’esprit transmet la vraie prière et attire l’âme vers le Paradis"
+  ],
+  [
+   "4. Les plans de perfection divine",
+   "Les plans d’aboutissement, d’effusion et de ministère de miséricorde s’entrelacent en une seule entreprise"
+  ],
+  [
+   "5. L’esprit d’effusion",
+   "Le Père nous habite sous forme de fragment ; le Fils devient créature par l’incarnation"
+  ],
+  [
+   "6. Les Fils Paradisiaques de Dieu",
+   "Distinguer les ordres de Fils dissipe la confusion — le Père reste le premier"
+  ],
+  [
+   "7. La révélation suprême du Père",
+   "Toute connaissance du Père vient du Fils et de ses Fils"
+  ]
+ ],
+ "7.b65.h": "Points clés du fascicule 7",
+ "7.b66.p": "En refermant le fascicule 7, il nous reste deux choses entre les mains : un circuit qui n’est jamais rompu, et un visage qui s’est approché.",
+ "7.b67.p": "Ce circuit n’est vaincu ni par le temps ni par la distance, il n’est pas coupé par la rébellion, et aucune puissance de l’univers ne peut arrêter une seule parole sincère que j’offre aujourd’hui. Et au bout de ce circuit, il n’y a pas une idée, mais une personne — quelqu’un qui est, pour nous qui avons été humains, d’autant plus facile à approcher.",
+ "7.b68.p": "Le Fils retient tout l’esprit → sa gravité porte ma prière → par l’incarnation, il est descendu à nos côtés → par son visage, nous voyons le Père → et par cette voie, nous allons au Père.",
+ "7.b69.box": "Telle est la voie vivante vers le Père que révèle le fascicule 7."
+}   

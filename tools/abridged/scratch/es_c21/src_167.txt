@@ -1,0 +1,92 @@
+## 167.title   HINT: La Visita a Filadelfia
+"The Visit to Philadelphia"
+## 167.b0.ask
+"“In the days in Perea when there were almost no miracles, why did Jesus, on hearing about Lazarus, wait two more days and then set out for dangerous Judea?”"
+## 167.b1.h
+"Overview"
+## 167.b2.p
+"In Paper 166 we followed the last visits of the Perean ministry. Paper 167 now takes up the days when Jesus went to Philadelphia with ten apostles. At least two of the apostles always stayed behind at the Pella camp to teach the crowds, so as a rule only ten were with him at this time. When he reached Philadelphia, more than six hundred followers were with him."
+## 167.b3.p
+"These were days almost without miracles. Except for the cleansing of the ten lepers, there had been none on the Perean mission, and the gospel was proclaimed with power, most of the time without the personal presence of Jesus or his apostles. Good news came of the kingdom’s progress at Philadelphia and the nearby villages, and also from Alexandria and Damascus."
+## 167.b4.p
+"Then, just at this time, word came from Bethany that Lazarus was very sick. Why did Jesus not hurry to him at once, but wait two more days and then, despite his apostles’ protests, head into dangerous Judea?"
+## 167.b6.h
+"The Paper"
+## 167.b7.h   HINT: 1. El Desayuno con los Fariseos
+"1. Breakfast with the Pharisees"
+## 167.b8.p
+"A wealthy Pharisee who had accepted Abner’s teachings invited Jesus to breakfast on the Sabbath, along with about forty leading men and a few lawyers, many of them from Jerusalem. A Pharisee of the Sanhedrin made straight for the seat of honor as was his habit, was moved four seats down, and was much offended. Only Jesus’ enemies noticed that he did not observe the ceremonial washing of hands."
+## 167.b9.p
+"Near the end of the meal a believer suffering from dropsy came in. He did not ask to be healed, but Jesus asked the company whether it was lawful to heal on the Sabbath, and then told the man to arise and go his way. Such works, he said, the Father does not to tempt people into the kingdom but to reveal himself to those already in it. Then he taught about places at the feast."
+## 167.b10.t
+[["The teaching", "What it means"], ["When you are invited", "Take not the chief seat but the lowest place"], ["What follows", "The host may say, “⟦Q 167:1.5⟧Come up higher,⟦/Q⟧” and you will have glory before the guests"], ["When you give a feast", "Do not invite only friends and rich neighbors who can repay you"], ["Whom to invite", "The poor, the maimed, and the blind, who cannot repay you"]]
+   INL 167:1.5 | Come up higher, | AUTO: 
+      V 167:1.5: Entonces fue Jesús a donde estaba sentado el enfermo y, tomándolo de la mano, dijo: «Levántate y vete por tu camino. No has pedido que te curara, pero yo conozco el deseo de tu corazón y la fe de tu alma». Antes de que el hombre hubiera salido de la sala, Jesús volvió a su asiento y, dirigiéndose a los comensales, dijo: «Mi Padre hace estas obras no para tentaros a que entréis al reino, sino para revelarse a los que ya están en el reino. Podéis percibir que corresponde al carácter del Padre hacer precisamente estas cosas, porque ¿cuál de entre vosotros, que posea un animal preferido y que éste caiga en el pozo el día sábado, no iría inmediatamente a rescatarlo?» Como nadie le contestó, y puesto que su anfitrión evidentemente aprobaba lo que estaba ocurriendo, Jesús se puso de pie y habló a todos los que estaban presentes: «Hermanos míos, cuando se os invita a un festín de boda, no os sentéis en el asiento principal en caso de que haya un hombre más merecedor que vosotros entre los invitados, y el anfitrión tenga que venir a vosotros y pediros que dejéis vuestro sitio a este otro huésped honrado. En este caso, tendréis que pasar la vergüenza de trasladaros a un sitio de menos honra en la mesa. Cuando se os invita a una fiesta, es demostración de sabiduría, al llegar a la mesa del festín, buscar el lugar más humilde y allí sentarse, para que, cuando el anfitrión contemple a sus huéspedes, pueda decirte: ‘Amigo mío, ¿por qué te sientas en el asiento del más humilde? Ven más arriba’; así aquél tendrá gloria en la presencia de los demás invitados. No os olvidéis: el que se exalta a sí mismo será humillado, mientras que el que verdaderamente se humilla será exaltado. Por lo tanto, cuando tengáis convidados a cenar, no invitéis siempre a vuestros amigos, vuestros hermanos, vuestros parientes o vuestros vecinos ricos para que ellos os devuelvan atenciones invitándoos a sus fiestas, y de este modo recibáis vosotros la recompensa. Cuando hagáis banquete, invitad de cuando en cuando a los pobres, los tullidos y los ciegos. De esta manera obtendréis bendiciones en el corazón, porque vosotros bien sabéis que el cojo y el ciego no os pueden recompensar por vuestro ministerio amante».
+## 167.b11.h   HINT: 2. La Parábola de la Gran Cena
+"2. Parable of the Great Supper"
+## 167.b12.p
+"To break the silence, a lawyer offered a common saying: “⟦Q 167:2.1⟧Blessed is he who shall eat bread in the kingdom of God.⟦/Q⟧” Jesus answered with the parable of the great supper. A ruler prepared a great feast and sent for his guests, but they all began to make excuses."
+   INL 167:2.1 | Blessed is he who shall eat bread in the kingdom of God. | AUTO: 
+      V 167:2.1: Cuando Jesús terminó de hablar en la mesa de desayuno del fariseo, uno de los abogados presentes, para interrumpir el silencio, dijo sin pensar: «Bienaventurado el que coma pan en el reino de Dios» —siendo ése un dicho común de aquellos días. Entonces Jesús dijo una parábola, que aun su cordial anfitrión se vio obligado a tomar en serio. Dijo:
+## 167.b13.t
+[["The invited guest", "His excuse"], ["The first", "He had just bought a farm and must go and see it"], ["The second", "He had bought five yoke of oxen and must go to receive them"], ["The third", "He had just married a wife and could not come"]]
+## 167.b14.p
+"The angry master had the poor and the outcast, the blind and the lame brought in from the streets and lanes, and when there was still room, he sent out into the roads and countryside until his house was filled. At least one of the sneering Pharisees understood the parable, for he was baptized that same day. The next day the apostles offered many interpretations, but Jesus refused to explain further. He said only, “⟦Q 167:2.4⟧Let every man find out the meaning for himself and in his own soul.⟦/Q⟧”"
+   INL 167:2.4 | Let every man find out the meaning for himself and in his own soul. | AUTO: 
+      V 167:2.4: Al día siguiente todos los apóstoles se ocuparon del ejercicio filosófico de interpretar el significado de esta parábola de la gran cena. Aunque Jesús escuchó con interés las diversas interpretaciones, se negó repetidamente a ofrecerles ayuda adicional para comprender la parábola. Tan sólo dijo: «Que cada uno halle el significado por sí mismo y en su propia alma».
+## 167.b15.h   HINT: 3. La Mujer de Debilidad de Espíritu
+"3. The Woman with the Spirit of Infirmity"
+## 167.b16.p
+"For the first time since the Sanhedrin had closed the synagogues to him, Jesus taught in a synagogue. After the service he went to an elderly woman, bent over and bound by the depressions of fear for more than eighteen years, and told her that if she would only believe, she could be wholly loosed from her spirit of infirmity. She believed and straightened up at once. Her affliction was wholly mental; her bowed-over form was the result of a depressed mind."
+## 167.b17.p
+"The ruler of the synagogue was indignant that he had healed on the Sabbath, but Jesus asked whether each of them did not loose his ox on the Sabbath to lead it to water; should not this daughter of Abraham be loosed from her bondage? The ruler was later deposed and a follower of Jesus put in his place. Jesus often freed such victims from their bondage of fear, but people thought all such afflictions were either physical disorders or possession by evil spirits."
+## 167.b18.t
+[["", "What it really was", "What people thought"], ["The woman’s affliction", "Mental suffering from fear and depression", "A physical disorder"], ["What Jesus did", "Freed her from her spirit of infirmity", "Miraculously healed her body"]]
+## 167.b19.h   HINT: 4. El Mensaje de Betania
+"4. The Message from Bethany"
+## 167.b20.p
+"Late on the night of February 26 a message came from Martha and Mary: “⟦Q 167:4.1⟧Lord, he whom you love is very sick.⟦/Q⟧” Jesus seemed for a moment to be in communication with something beyond himself, and then said that this sickness was not to the death, but might be used to glorify God. He loved this family with a fervent affection, but a plan had come to him to give the leaders at Jerusalem one more chance, and he asked the Father’s consent to show his power over life and death."
+   INL 167:4.1 | Lord, he whom you love is very sick. | AUTO: 
+      V 167:4.1: Muy tarde el domingo por la noche del 26 de febrero, un mensajero de Betania llegó a Filadelfia, trayendo un mensaje de Marta y María que decía: «Señor, aquél que amas está muy enfermo». El mensaje le llegó a Jesús al final de la conferencia de la tarde y en el momento en que estaba dándoles las buenas noches a los apóstoles. Al principio Jesús nada respondió. Entonces se produjo uno de aquellos extraños interludios, un período en el cual parecía estar en comunicación con algo que estaba fuera de él y por encima de él. Luego, levantando la vista, se dirigió al mensajero, al alcance del oído de los apóstoles, diciendo: «Esta enfermedad no es en realidad para muerte. No dudéis que será para glorificar a Dios y exaltar al Hijo».
+## 167.b21.t
+[["Jewish belief at the time", "What it held"], ["Burial", "Because of the warm climate, the dead were buried on the day they died"], ["The lingering soul", "The spirit might linger near the body for two or three days"], ["After the third day", "Decay was advanced, and no one ever returned from the tomb"]]
+## 167.b22.p
+"For this reason Jesus stayed two full days longer in Philadelphia. The apostles were united in begging him not to go into Judea, where the leaders sought his life. But he answered that there are twelve hours in the day in which work may safely be done, and that he would give the Jews one more chance to believe, even on their own terms. Then he told them plainly, “⟦Q 167:4.6⟧Lazarus is dead.⟦/Q⟧” It was Thomas who steadied the others: “⟦Q 167:4.7⟧Let us go also that we may die with him.⟦/Q⟧”"
+   INL 167:4.6 | Lazarus is dead. | AUTO: «Lázaro ha muerto.
+   INL 167:4.7 | Let us go also that we may die with him. | AUTO: 
+      V 167:4.7: Como no pudieron persuadirlo que no fuera a Judea, y como algunos de los apóstoles tenían miedo aun de acompañarle, Tomás se dirigió a sus hermanos, diciendo: «Ya le hemos manifestado al Maestro nuestros temores, pero él está decidido a ir a Betania. Estoy seguro que esto significa el fin; con toda seguridad le matarán, pero si es ésa la elección del Maestro, conduzcámonos como hombres de valor; vayamos también con él para que podamos morir con él». Así fue por siempre; en los asuntos que requerían coraje decidido y constante, Tomás siempre fue el principal sostén de los doce apóstoles.
+## 167.b23.h   HINT: 5. En el Camino a Betania
+"5. On the Way to Bethany"
+## 167.b24.p
+"On the road to Judea Jesus taught about the “⟦Q 167:5.1⟧Terms of Salvation⟦/Q⟧” and told the parable of the Pharisee and the publican. Salvation is a free gift to all who have the faith to receive sonship; there is nothing man can do to earn it. The Pharisee boasted of his righteousness, while the publican beat his breast and asked for mercy. It was the publican who went home with God’s approval."
+   INL 167:5.1 | Terms of Salvation | AUTO: 
+      V 167:5.1: Camino a Judea, Jesús iba seguido de un grupo de casi cincuenta amigos y enemigos. Durante el almuerzo del mediodía, el día miércoles, habló a sus apóstoles y a este grupo de seguidores sobre los «Términos de la salvación»; y al fin de esta lección relató la parábola del fariseo y el publicano (un recolector de impuestos). Dijo Jesús: «Veis pues que el Padre otorga salvación a los hijos de los hombres, y esta salvación es un don para todos los que tienen la fe necesaria para recibir la filiación en la familia divina. No hay nada que el hombre pueda hacer para merecer esta salvación. Las obras de mojigatería no compran el favor de Dios, las oraciones públicas no expían la falta de fe viviente en el corazón. Podréis engañar a los hombres con vuestro servicio exterior, pero Dios mira dentro de vuestra alma. Lo que yo os digo está bien ilustrado por dos hombres que fueron a orar al templo, el uno un fariseo, y el otro un publicano. El fariseo estuvo de pie y oró para sí mismo: ‘Dios, doy gracias porque no soy como los demás hombres, que son extorsionadores, ignorantes, injustos, adúlteros o aun como este publicano. Yo ayuno dos veces por semana; doy diezmos de todo lo que gano’. Pero el publicano, parado a la distancia, ni siquiera se atrevió a levantar los ojos al cielo, sino que golpeándose el pecho dijo, ‘Dios, ten compasión de este pecador’. Yo os digo que el publicano se fue a casa con la aprobación de Dios, más bien que el fariseo, pues el que se exalta a sí mismo será humillado, pero el que se humilla será exaltado».
+## 167.b25.t
+[["", "The Pharisee", "The publican"], ["The standard he used", "The lowest standard", "The highest ideal"], ["What devotion did for him", "Gave the assurance of false spiritual security", "Stirred his soul to repentance and confession"], ["What he sought", "Justice", "Mercy"]]
+## 167.b27.p
+"That night at Jericho the Pharisees tried to trap Jesus over divorce. He avoided the dispute, but he exalted marriage as the most ideal and highest of all human relationships, and bitterly denounced the lax practices that let a man put away his wife for trifling reasons, pointing out their injustice to women and children. He never sanctioned any divorce practice that gave man an advantage over woman. To the apostles he taught that marriage is honorable, and that parents raising children become copartners with the Makers of heaven and earth."
+## 167.b28.h   HINT: 6. La Bendición de los Niños
+"6. Blessing the Little Children"
+## 167.b29.p
+"The next morning scores of mothers brought their children to be blessed. When the apostles tried to send them away, Jesus indignantly reproved them: “⟦Q 167:6.1⟧Suffer little children to come to me; forbid them not, for of such is the kingdom of heaven.⟦/Q⟧” Then he laid his hands on all the children. Those children and their mothers little realized that they were playing with the Creator of a universe."
+   INL 167:6.1 | Suffer little children to come to me; forbid them not, for of such is the kingdom of heaven. | AUTO: «Dejad a los niños que vengan a mí; no lo impidáis, porque de ellos es el reino del cielo.
+## 167.b30.p
+"Jesus stressed the great value of beauty in leading children to worship. He himself preferred to commune with the Father among the trees and under the starry heavens. A child should first be introduced to worship in nature’s outdoors, and later in public houses of worship that are simple and beautiful."
+## 167.b32.h   HINT: 7. La Conversación Sobre los Ángeles
+"7. The Talk about Angels"
+## 167.b33.p
+"On the climb to Bethany, Nathaniel asked what they should teach about angels, since the high priest was a Sadducee and did not believe in them. Jesus answered that the angels are a separate order of created beings, entirely different from mortals, and that mortal man never becomes an angel."
+## 167.b34.t
+[["About the angels", "What Jesus taught"], ["Their origin", "A direct creation; they do not reproduce themselves"], ["Their tie to mankind", "Only a spiritual kinship"], ["Death", "They are immortal, unless they become involved in sin"], ["Their powers", "Neither all-wise nor all-powerful"], ["Their work", "They keep one part of creation informed about other parts"], ["What they are not", "Spies who report the thoughts of your heart to the Father"], ["After death", "Sure guides of the soul to the mansions on high"]]
+## 167.b35.p
+"The Father needs no spies, for his own spirit lives within us. Many angels are engaged in the work of saving men and rejoice when one soul forsakes sin and begins to seek God. The talk was cut short when Martha hurried out to meet the Master."
+## 167.b36.h
+"Conclusion"
+## 167.b37.p
+"Paper 167 follows days almost without miracles. Jesus teaches those who compete for seats of honor to take the lowest place, and through the parable of the great supper lets each person find in his own soul what it means to refuse an invitation. He frees a woman bent over by fear, and teaches that the prayer asking for mercy reaches God, not the prayer boasting of righteousness. He exalts marriage, honors women and children, and takes the little ones in his arms. And at the end of all this teaching, knowing his beloved friend has died, he waits two days and then sets out for dangerous Judea to give Jerusalem one more chance to believe."
+## 167.b38.t
+[["Section", "Key message"], ["1. Breakfast with the Pharisees", "He who humbles himself shall be exalted; invite those who cannot repay you"], ["2. Parable of the Great Supper", "The places refused by the invited are filled with the outcast"], ["3. The Woman with the Spirit of Infirmity", "Jesus freed people from the bondage of fear and depression"], ["4. The Message from Bethany", "Jesus waited two days to give Jerusalem one more chance to believe"], ["5. On the Way to Bethany", "Salvation is a gift no one can earn; those who seek mercy receive it"], ["6. Blessing the Little Children", "The kingdom belongs to the childlike, and beauty leads to worship"], ["7. The Talk about Angels", "Angels are a separate order of ministering spirits"]]
+## 167.b39.h
+"Key Points of Paper 167"
+## 167.b40.box
+"The feast of the kingdom is always open to those who humble themselves and ask for mercy."

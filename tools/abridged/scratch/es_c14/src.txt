@@ -1,0 +1,656 @@
+## 102.title [HINT: Los Cimientos de la Fe Religiosa]
+"The Foundations of Religious Faith"
+## 102.b0.ask
+"“When materialism speaks only of despair, on what ground can a believer say of God, ‘I know’?”"
+## 102.b1.h
+"Overview"
+## 102.b2.p
+"In Paper 101 we saw that religion is not proof but an assurance born of experience with the indwelling spirit. Paper 102 digs deeper into the foundations of that assurance. It begins by describing man as the unbelieving materialist sees him: an accident of evolution, whose hopes of survival are a figment of imagination, and whose noblest labors are doomed to vanish into the long night of eternal oblivion."
+## 102.b3.p
+"But this is not man’s end. Such a vision is only the cry of despair of a soul lost in spiritual darkness. All that darkness is dispelled forever by one brave stretch of faith on the part of the most humble and unlearned of God’s children. This saving faith is born when the moral consciousness realizes that human values can be translated from the material to the spiritual, from time to eternity."
+## 102.b4.p
+"What, then, does this faith rest on? And how can it hold an unshakable certainty in the face of science and philosophy?"
+## 102.b6.h
+"The Paper"
+## 102.b7.h [HINT: 1. La Seguridad de la Fe]
+"1. Assurances of Faith"
+## 102.b8.p
+"The work of the Thought Adjuster explains how man’s primitive sense of duty is changed into faith in the eternal realities of revelation. Whoever chooses to do the divine will shall know the way of truth. Honest doubts and sincere questions are not sin; they only mean delay on the journey. Childlike trust brings us into the kingdom, but progress depends on the robust faith of the full-grown person."
+## 102.b9.p
+"On Urantia, the revelation of truth has often been mixed with passing cosmologies. Teachings about the physical world change from year to year, but truth does not; eternal truth should not be slighted because it happens to appear alongside outdated ideas. God is so real that no material proof or miracle can testify to him. We know him because we trust him."
+## 102.b10.t
+[["", "Science", "Religion"], ["Its basis", "The observable facts of time", "The spirit program of eternity"], ["Source of certainty", "Entirely from the intellect", "From the foundations of the whole personality"], ["The more you know", "The less sure you can be", "The more certain you are"]]
+## 102.b11.h [HINT: 2. La Religión y la Realidad]
+"2. Religion and Reality"
+## 102.b12.p
+"Religion needs no definition; we all recognize its fruits. It belongs to the whole human race and is not a child of culture. Genuine religious assurance, though absolute in what it affirms, is so poised in its expression that it never gives an impression of self-assertion. Believers live as if immortality were already in their grasp, and they show a tranquillity that no law of physiology or sociology can explain."
+## 102.b13.p
+"Knowledge is an endless quest in which only the probability of approximation grows, but the spiritually illuminated soul knows, and knows now. There is no real religion apart from a highly active personality. The indolent try to escape into rigid doctrines and dogmas, and the timid into sentimental religion — but the mission of religion is to prepare us to face the changes of life bravely, even heroically."
+## 102.b15.p
+"Religion has sometimes acted unwisely, even with persecution. But always religion does something; it is dynamic."
+## 102.b16.h [HINT: 3. El Conocimiento, la Sabiduría y el Discernimiento]
+"3. Knowledge, Wisdom, and Insight"
+## 102.b17.p
+"Lack of education handicaps higher religious attainment by cutting religion off from contact with science and philosophy — yet overdeveloping the intellect can also be a hindrance. Religious experience is the consciousness of having found God, and the joy of that discovery overflows not in boasting but in loving service to one’s fellows. The paper sets science, religion, philosophy, and revelation side by side."
+## 102.b18.t
+[["", "Leads to", "What it does to people", "The brotherhood it creates"], ["Science (knowledge)", "Fact consciousness", "It sorts men", "Vainly strives for a brotherhood of culture"], ["Religion (experience)", "Value consciousness", "It loves men, even as yourself", "The brotherhood of the spirit"], ["Philosophy (wisdom)", "Co-ordinate consciousness", "It does justice to differing men", "The brotherhood of wisdom"], ["Revelation", "Consciousness of true reality", "It glorifies man as a partner with God", "The eternal brotherhood, the Paradise Corps of the Finality"]]
+## 102.b19.t
+[["", "How it sees God", "What satisfies it"], ["Science", "Deity as a fact", "First causes"], ["Philosophy", "The idea of an Absolute", "Unity"], ["Religion", "A loving spiritual personality", "Supreme personality"], ["Revelation", "The unity of all three — our Father", "These three are one, and all are good"]]
+## 102.b20.p
+"In evolution, religion leads man to create his concepts of God; revelation shows God evolving man himself. Evolution tends to make God manlike; revelation tends to make man Godlike."
+## 102.b21.h [HINT: 4. El Hecho de la Experiencia]
+"4. The Fact of Experience"
+## 102.b22.p
+"Because the Thought Adjuster is in our minds, knowing the mind of God is no more mysterious than knowing any other mind. The way we accept another person’s idea as our own is the same way we let the mind of Christ be in us. Very early, man becomes aware that he is not alone, and faith carries this natural experience into religion — recognizing God as the source of all other minds."
+## 102.b23.p
+"The amount of error in religious experience is directly proportional to the amount of materialism mixed into it. Modern religions have overemphasized prayer and neglected the more essential communion of worship. Worship deepens and broadens the reflective powers of the mind."
+## 102.b25.h [HINT: 5. La Supremacía del Potencial con Propósito]
+"5. The Supremacy of Purposive Potential"
+## 102.b26.p
+"The fact that something is believed does not prove that it exists. Yet the very progress of simple life toward personality shows that the potential of personality was there from the start. In the time universes, potential is always supreme over the actual. This supremacy appears when primitive fear is changed into reverence for God and into living faith."
+## 102.b27.t
+[["", "Morality", "Religion"], ["Relationship", "Duty", "Love"], ["Standing", "Servitude", "Sonship"], ["The God it reveals", "An almighty Controller to be served", "An all-loving Father to be worshiped and loved"]]
+## 102.b28.h [HINT: 6. La Certeza de la Fe Religiosa]
+"6. The Certainty of Religious Faith"
+## 102.b29.p
+"The progress of science destroys false gods. That may cloud our spiritual vision for a time, but in the end it clears away the superstition that hid the living God. To isolate part of life and call it religion distorts both life and religion; that is why the God of worship claims all allegiance or none. Love is the essence of religion and the wellspring of higher civilization."
+## 102.b30.t
+[["To", "God is"], ["Science", "A possibility"], ["Psychology", "A desirability"], ["Philosophy", "A probability"], ["Religion", "A certainty, an actuality of religious experience"]]
+## 102.b31.p
+"The God-knowing soul dares to say “I know,” and to the doubter it can reply, “⟦Q 102:6.5⟧How do you know that I do not know?⟦/Q⟧” Belief may give way before doubt, but faith always triumphs, and its evidence is the fruit of love that believers bear. Organic evolution is a fact, but only the activity of a purposive Creator makes sense of its steady ascent. Materialism cheapens human life; the gospel of Jesus exalts every mortal."
+## 102.b32.h [HINT: 7. La Certidumbre de lo Divino]
+"7. The Certitude of the Divine"
+## 102.b33.p
+"Sonship is the only experience that makes fatherhood certain. A changing universe is a dependent universe; God and the universe are not identical, but are cause and effect. Trying to invent a religion without God is like trying to gather fruit without trees. We cannot pray to a chemical formula or hold loving fellowship with a law, so the God of religious experience must be a personal God."
+## 102.b34.p
+"A person may deny God and still be morally good, but such an experience yields only social fruits, not spiritual ones. It takes no great intellect to pick flaws and raise objections, but it takes brilliance of mind to answer them. Faith certainty is the greatest technique for dealing with all such superficial contentions."
+## 102.b35.t
+[["Three marks of religion", "What they are"], ["Its intellectual earmark", "Certainty"], ["Its philosophical characteristic", "Consistency"], ["Its social fruits", "Love and service"]]
+## 102.b36.h [HINT: 8. Las Pruebas de la Religión]
+"8. The Evidences of Religion"
+## 102.b37.p
+"The highest evidence of religion is human experience itself: that man, naturally fearful and craving survival, is willing to entrust the deepest interests of his present and future to God. That is the one central truth of all religion. We should not judge religion by its civilization; we should judge a civilization by the purity and nobility of its religion. Ethics is the outward mirror of an otherwise unseen inner spiritual growth."
+## 102.b38.t
+[["", "Its place in religious development"], ["Personal religion", "Goes ahead of the evolution of human morals"], ["Institutional religion", "Lags behind the slowly changing mores"], ["The prophets", "Have usually led the people"], ["The theologians", "Have usually held them back"]]
+## 102.b39.p
+"Religion is never enhanced by an appeal to miracles; the quest for miracles is a return to the primitive religions of magic. The highest religion is a personal experience — the life of Jesus. In one short life in the flesh a man sought God and found him to the full, and in that same human experience God sought man and found him."
+## 102.b40.h
+"Conclusion"
+## 102.b41.p
+"Paper 102 begins with materialism’s picture of despair and moves to the declaration that one stretch of faith by the humblest child of God dispels that darkness. The certainty of science comes from the intellect, but the assurance of religion comes from the whole personality. To science God is a possibility, to philosophy a probability, but to religion an experienced certainty. That certainty comes not from miracles or arguments but from the experience of sonship, and it proves itself by the fruits of love and service. Its highest example is the life of Jesus, who found God fully in one short life, and who revealed the God who finds man."
+## 102.b42.t
+[["Section", "Key message"], ["1. Assurances of Faith", "Divine things must be loved in order to be known"], ["2. Religion and Reality", "True religion is alive — a dynamic experience that always acts"], ["3. Knowledge, Wisdom, and Insight", "Revelation tends to make man Godlike"], ["4. The Fact of Experience", "Prayer enriches life, and worship illuminates destiny"], ["5. The Supremacy of Purposive Potential", "Religion is to morality as love is to duty"], ["6. The Certainty of Religious Faith", "The probability of philosophy becomes certainty in faith"], ["7. The Certitude of the Divine", "Only sonship makes fatherhood certain"], ["8. The Evidences of Religion", "The experience of entrusting oneself fully to God is the evidence of religion"]]
+## 102.b43.h
+"Key Points of Paper 102"
+## 102.b44.box
+"The certainty of faith comes not from argument or miracle but from the experience of sonship with the Father, and it proves itself by the fruits of love and service."
+## 103.title [HINT: La Realidad de la Experiencia Religiosa]
+"The Reality of Religious Experience"
+## 103.b0.ask
+"“When people believe such different things, and theology can be wrong, how can religious experience still be true and valid?”"
+## 103.b1.h
+"Overview"
+## 103.b2.p
+"In Paper 102 we saw that the certainty of faith comes from the experience of sonship with the Father. Paper 103 now looks at how that experience begins within a person, and how it meets science and philosophy. Every truly religious reaction in man begins with the ministry of the adjutants of worship and wisdom, is enlarged by the Holy Spirit and the Spirit of Truth, and grows into ever higher insight through the Thought Adjuster. The Adjuster is the cosmic window through which a finite creature may faith-glimpse the Universal Father."
+## 103.b3.p
+"Man’s religious tendencies are innate and universal. Primitive religions arise through evolution, but periodic revelations of truth break into that slow progress. On Urantia today there are four kinds of religion: natural or evolutionary religion, supernatural or revelatory religion, a practical religion that mixes the two, and philosophic religions thought out by reason."
+## 103.b4.p
+"So amid hundreds of differing creeds, what is the unchanging reality of religious experience? And how does it hold its ground before reason and science?"
+## 103.b6.h
+"The Paper"
+## 103.b7.h [HINT: 1. La Filosofía de la Religión]
+"1. Philosophy of Religion"
+## 103.b8.p
+"The unity of religious experience comes from the fact that the same kind of God fragment dwells in each person. But every personality is unique, so no two people can interpret its leading in exactly the same way. People can experience spiritual unity, but never philosophic uniformity — which is why twentieth-century scholars produced more than five hundred definitions of religion. Knowing the varied experiences of others keeps our own religion from becoming self-centered."
+## 103.b9.p
+"Rationalism assumes that religion starts with a primitive belief and then moves on to the pursuit of values. In fact the pursuit of values comes first, and a system of interpretive beliefs follows. That is why people agree more easily on goals than on creeds, and why a person can change many beliefs and still keep his religious experience. The fact that religionists have believed many false things does not invalidate religion. The paper calls this value-recognition, which no word can fully capture, God-consciousness."
+## 103.b10.t
+[["Order", "What rationalism assumes", "What the paper explains"], ["First", "A primitive belief in something", "The pursuit of values"], ["Then", "The pursuit of values", "A system of interpretive beliefs (theology)"], ["The result", "If the beliefs are wrong, religion is invalid", "Religion persists even when beliefs change"]]
+## 103.b11.h [HINT: 2. La Religión y el Individuo]
+"2. Religion and the Individual"
+## 103.b12.p
+"Religion is real in experience before it appears in consciousness. Just as a child exists for about nine months before birth, a spiritual birth is gradual — yet sooner or later there is a “birth day.” Some spiritual births come with anguish and upheaval; others come as natural growth. But none happens without conscious effort and personal decision. Those raised to know they are children of a loving heavenly Father should not look down on those who reached that awareness only through crisis."
+## 103.b13.p
+"A child’s first moral promptings have to do not with guilt but with justice, fairness, and kindness — with helping others. The psychology of a child is naturally positive; many people are negative only because they were trained that way. The Thought Adjuster does not disregard the selfish motive, but gives a slight preference to the unselfish impulse. People tend to identify their selfish urges with themselves and their unselfish will with God outside them — and that judgment is right."
+## 103.b15.t
+[["Impulse", "What man identifies it with", "Its real source"], ["The urge to be self-serving", "Himself — the ego", "The self"], ["The will to be altruistic", "An influence outside himself — God", "The indwelling Thought Adjuster"]]
+## 103.b16.h [HINT: 3. La Religión y la Raza Humana]
+"3. Religion and the Human Race"
+## 103.b17.p
+"Belief in spirits, dreams, and superstitions played a part in early religion, but so did the solidarity of clan and tribe. Group life created exactly the situation in which the conflict between selfishness and unselfishness came to the surface. Even very primitive peoples distinguished self-interest from group-interest — an early distinction between the secular and the sacred. Yet the social group is not the source of religious experience. The true religious impulse comes from genuine spirit presences that activate the will to be unselfish."
+## 103.b18.p
+"Evolving religion eventually asks the individual to sacrifice for the group and to make others happier, and at last it grows into the service of God and of man. In the religion of every age, what matters most is not thinking about dogma but feeling about moral values and social meanings. Two forces, one human and one divine, kept religion alive through all the upheavals of the ages."
+## 103.b19.h [HINT: 4. La Comunión Espiritual]
+"4. Spiritual Communion"
+## 103.b20.p
+"What sets a religious gathering apart from a social one is its atmosphere of communion. Sharing a common meal was the earliest communion, and even the Lord’s Supper keeps this form. The atmosphere of communion brings a welcome truce in the conflict between the selfish ego and the unselfish spirit, and this is the prelude to true worship — the practice of the presence of God."
+## 103.b21.p
+"Our ideals tend to grow by geometric progression, while our ability to live up to them grows only by arithmetic progression. We cannot live up to our highest ideals, but we can be true to our purpose of finding God and becoming more like him. Jesus swept away all the ceremonies of sacrifice and atonement, and with them the basis of fictitious guilt and isolation, by declaring that man is a child of God."
+## 103.b22.t
+[["", "Primitive religion", "The teaching of Jesus"], ["When communion was broken", "Sacrifice was offered to make atonement", "All ceremonies of sacrifice and atonement are swept away"], ["Relation to God", "A deity to be appeased", "A child and a loving Father"], ["What God looks at", "Offerings and rituals", "The child’s motivation and intent, more than actual worthiness"]]
+## 103.b23.h [HINT: 5. El Origen de los Ideales]
+"5. The Origin of Ideals"
+## 103.b24.p
+"In the early mind, the sense of duty comes mainly from fear, but the ideal of altruism comes from the direct impulse of the indwelling spirit. The idea of who counts as a neighbor widened from those close at hand to the clan, the tribe, and the nation; Jesus widened it to all humanity, even to our enemies. Even those who practice this ideal least admit that it is right."
+## 103.b25.t
+[["Scope of the neighbor", "Who is included"], ["Primitive man", "Only those close to him who treat him neighborly"], ["As religious civilization advances", "The clan, the tribe, the nation"], ["Jesus", "The whole of humanity, even our enemies"]]
+## 103.b26.p
+"The self has rights as well as our neighbors; neither has an exclusive claim. Happiness comes when the desires of the self and the unselfish urge of the divine spirit are reconciled by the unified will of the personality. This conflict cannot be fully resolved in one short life, which is the paradox Jesus spoke of: whoever loses his life for the kingdom shall find it. Everything good we do in this life contributes directly to the next."
+## 103.b27.p
+"Man is neither a helpless slave of an all-powerful God nor a victim of mechanical fate; he is truly the architect of his own eternal destiny. Spiritual growth springs from within, not from pressure, and it is greatest when the pressures of home, church, and state are least. The security of a religious group depends on spiritual unity, not on theological uniformity."
+## 103.b28.h [HINT: 6. La Coordinación Filosófica]
+"6. Philosophic Co-ordination"
+## 103.b29.p
+"Theology is always the study of your own religion; the study of someone else’s religion is psychology. When man studies the universe from the outside, he produces the physical sciences; when he studies it from the inside, he produces theology and metaphysics. Philosophy is the effort to harmonize the two. Seen from within, everything looks spiritual; seen from without, everything looks mechanical."
+## 103.b30.p
+"Science and religion are hard to reconcile because we know nothing of the domain between matter and spirit — the morontia world. Mota, the technique of the morontia level, bridges that gap, but mortals cannot perceive it. Metaphysics has tried to fill the gap and has failed. Revelation is our only hope of bridging the morontia gulf."
+## 103.b31.t
+[["Level", "Its technique of understanding"], ["Science (matter)", "Reason"], ["Religion (spirit)", "Faith"], ["Morontia", "Mota — its substance knowledge-reason, its essence faith-insight"], ["For mortals, in place of mota", "Metaphysics has failed; revelation compensates"]]
+## 103.b32.t
+[["When philosophy leans toward", "It becomes"], ["The world of matter", "Rationalistic or naturalistic"], ["The spiritual level", "Idealistic or even mystical"], ["Metaphysics", "Skeptical and confused"]]
+## 103.b33.h [HINT: 7. La Ciencia y la Religión]
+"7. Science and Religion"
+## 103.b34.p
+"Science is sustained by reason, religion by faith. Faith is not based on reason, yet it is reasonable, and it can be surely elevated only by revelation and by experience with the Adjuster. As ascending man reaches inward toward God, he also reaches outward to understand the material cosmos; the progress of science does not end with life on earth."
+## 103.b35.p
+"Both science and religion start from assumptions accepted without proof; in the mortal state, nothing can be absolutely proved. What both need is more fearless self-criticism, for their teachers are often far too dogmatic. Science discovers the material world, religion evaluates it, and philosophy tries to interpret its meanings."
+## 103.b36.t
+[["", "Science", "Religion"], ["What sustains it", "Reason", "Faith"], ["Its starting assumptions", "The reality of matter, motion, and life", "The validity of mind, spirit, and the universe — the Supreme Being"], ["How it sees the universe", "From outside looking in — it appears material", "From inside looking out — it appears spiritual"], ["What it gives man", "Control of his physical environment", "The impulse of fraternity that lets people live together"]]
+## 103.b37.p
+"The presence of the Thought Adjuster is a real proof of spiritual reality, but it cannot be shown to the outside world — only to the one who experiences God’s indwelling."
+## 103.b38.h [HINT: 8. La Filosofía y la Religión]
+"8. Philosophy and Religion"
+## 103.b39.p
+"Science and philosophy may assume that God is probable, but only the religious experience of a spirit-led person can affirm his certainty. The experience of God may be wholly valid, while discourse about God, being intellectual, is varied and often mistaken. The paper gives an illustration: a man may love his wife deeply and yet fail a written examination on the psychology of married love. His imperfect understanding does not lessen the reality or sincerity of his love."
+## 103.b40.p
+"The certainty of the God-knowing believer should not be shaken by the uncertainty of the materialist; rather, the unbeliever’s doubt should be challenged by the believer’s certainty. The most useful philosophy avoids the extremes of materialism and pantheism and recognizes the reality of personality — permanence in the presence of change."
+## 103.b41.h [HINT: 9. La Esencia de la Religión]
+"9. The Essence of Religion"
+## 103.b42.p
+"Theology deals with the intellectual content of religion, metaphysics (revelation) with its philosophic side, and religious experience is its spiritual content. Despite the illusions of its intellectual content and the errors of its philosophic content, the spiritual experience of personal religion remains genuine and valid. No matter how mistaken a person’s theology, his religion may be wholly genuine."
+## 103.b44.p
+"Reason, wisdom, and faith are man’s highest attainments. Faith gladly carries reason along as far as reason can go, then goes on with wisdom to the limit of philosophy — and then dares to set out on the endless universe journey in the sole company of truth."
+## 103.b45.t
+[["Attainment", "The world it opens", "The assumption it rests on"], ["Reason (science)", "The world of facts and things", "That the universe can be comprehended — from the adjutant spirit"], ["Wisdom (philosophy)", "The world of truth and relationships", "That the material can be co-ordinated with the spiritual — from the spirit of wisdom"], ["Faith (religion)", "The world of divinity and spiritual experience", "That God can be known and attained — from the Thought Adjuster"]]
+## 103.b46.p
+"True religion is an experience of believing and knowing, not merely a satisfaction of feeling. Its convictions are unassailable, its courage indomitable, and its destinies eternal, ultimate, and universal."
+## 103.b47.h
+"Conclusion"
+## 103.b48.p
+"Paper 103 says that the reality of religious experience does not depend on whether a theology is right or wrong. Religion begins with the pursuit of values, and theology follows as an interpretation, so the experience itself can be true even when beliefs change and creeds divide by the hundreds. That experience begins the moment a child first chooses, against selfishness, to act for someone else — and the indwelling Adjuster is the source of that unselfish impulse. Jesus removed the rites of sacrifice and atonement and set the relation of God and man on the footing of father and child. Science and religion are two ways of looking at the universe, from outside and from inside, and since we cannot cross the morontia gap ourselves, revelation brings them together. Where reason and wisdom stop, faith goes on, with truth as its only companion."
+## 103.b49.t
+[["Section", "Key message"], ["1. Philosophy of Religion", "Religion begins with the pursuit of values; theology follows"], ["2. Religion and the Individual", "An unselfish choice made against selfishness is the first form of religious experience"], ["3. Religion and the Human Race", "Religion at last grows into the service of God and of man"], ["4. Spiritual Communion", "Jesus abolished the rites of atonement and established the relation of Father and child"], ["5. The Origin of Ideals", "Unselfish ideals come from the indwelling spirit and grow without pressure"], ["6. Philosophic Co-ordination", "Revelation is the only hope of bridging the morontia gulf"], ["7. Science and Religion", "Science sees the universe from outside, religion from inside"], ["8. Philosophy and Religion", "Talk about God may be mistaken, but the experience of God is valid"], ["9. The Essence of Religion", "Where reason and wisdom end, faith goes on in the company of truth"]]
+## 103.b50.h
+"Key Points of Paper 103"
+## 103.b51.box
+"Theology may be mistaken, but religious experience with the indwelling spirit is true; and where reason and wisdom stop, faith continues the eternal journey with truth."
+## 104.title [HINT: El Crecimiento del Concepto de la Trinidad]
+"Growth of the Trinity Concept"
+## 104.b0.ask
+"“How did the human habit of thinking in threes grow into an understanding of the Trinity of the one God, and of the seven triunities of infinity?”"
+## 104.b1.h
+"Overview"
+## 104.b2.p
+"In Paper 103 we looked at the reality of religious experience. Paper 104 now turns to one of the deepest frameworks in which humanity has thought about God: the concept of the Trinity, and how it has grown. The paper begins with a caution — the Trinity of revealed religion must not be confused with the triad beliefs of evolutionary religions."
+## 104.b3.p
+"Primitive people had simple reasons for liking the number three. The fingers have three joints; three legs are the fewest that can steady a stool; three support points can hold up a tent; and for a long time people could not count beyond three. So people tended to think in threes: yesterday, today, and tomorrow; father, mother, and child. The Persians, Hindus, Greeks, Egyptians, and many others had triad gods — but these were not true trinities."
+## 104.b4.p
+"What, then, is the true Trinity? And how did people come to see beyond setting three gods side by side — to the three persons of one God, and further still to the mystery of infinity functioning as one in seven Absolutes?"
+## 104.b6.h
+"The Paper"
+## 104.b7.h [HINT: 1. Los Conceptos Urantianos de la Trinidad]
+"1. Urantian Trinity Concepts"
+## 104.b8.p
+"The Paradise Trinity has been presented to this world three times: first by the staff of Prince Caligastia about half a million years ago, second by Adam and Eve, and third by Machiventa Melchizedek. Yet very few of Melchizedek’s disciples even remotely grasped the idea of the Paradise association of the Father, Son, and Spirit."
+## 104.b9.t
+[["Presentation", "By whom and how", "What became of it"], ["First", "The staff of Prince Caligastia, about 500,000 years ago", "Lost in the unsettled times after the planetary rebellion"], ["Second", "Adam and Eve, in the first and second gardens", "Carried on through the Sethites, notably in India as Agni, the three-headed fire god"], ["Third", "Machiventa Melchizedek, symbolized by three concentric circles", "Spread by the Salem missionaries through Eurasia and northern Africa"]]
+## 104.b10.p
+"This teaching took root in many religions, each in its own way. The ideas of the Hindus and Buddhists were real trinitarian postulates — a threefold manifestation of one God. The strongly monotheistic Hebrews and Moslems, on the other hand, found it hard to tell the worship of three gods apart from the worship of one God in three persons."
+## 104.b11.t
+[["Religion", "Its Trinity concept"], ["Hinduism", "Being, Intelligence, and Joy (later, Brahma, Siva, and Vishnu)"], ["Early Buddhism", "Teacher, Law, and Brotherhood"], ["Northern Buddhism", "Supreme Lord, Holy Spirit, and Incarnate Savior"], ["The Hebrews", "Zeal for Yahweh alone all but erased the Elohim doctrine"], ["Islam", "Failed to grasp the idea of the Trinity"], ["Christianity at Antioch", "God, his Word, and his Wisdom"], ["Christianity at the end of the first century", "The Universal Father, the Creator Son of Nebadon, and the Divine Minister of Salvington"]]
+## 104.b12.p
+"Jesus taught his apostles the truth about the Trinity, but they thought he was speaking figuratively. The Christian concept of the Trinity erred in fact, yet it was practically true in its spiritual relationships. The Michael Creators fully embody the divinity of the Eternal Son, but they are not the absolute personality."
+## 104.b13.h [HINT: 2. La Unidad de la Trinidad y la Pluralidad de la Deidad]
+"2. Trinity Unity and Deity Plurality"
+## 104.b14.p
+"Monotheism arose as a protest against the inconsistency of polytheism; trinitarianism arose from the experiential protest against a solitary God who has no relationships. Over time, philosophy tends to strip the personal qualities from a solitary God, reducing him to a pantheistic Absolute. Personality in Deity requires relation to other and equal personal Deity."
+## 104.b15.t
+[["Belief", "Where it came from"], ["Monotheism", "A philosophic protest against the inconsistency of polytheism"], ["Trinitarianism", "An experiential protest against a solitary God without relationships"]]
+## 104.b16.p
+"The Trinity is not a personality, yet it is a true and absolute reality — a Deity reality that emerges from the union of the three Paradise Deities, whose functions cannot be predicted simply by adding up the attributes of the three. That is why Jesus taught that justice is never a personal act but always a group function. The concept also helps us understand both the love of God that we grasp by faith and the fixed laws of the material universe."
+## 104.b18.h [HINT: 3. Las Trinidades y las Triunidades]
+"3. Trinities and Triunities"
+## 104.b19.p
+"Reason demands the unity of reality, but finite experience requires us to assume plural Absolutes and their co-ordination. These papers present total reality — infinity — as existing in seven Absolutes. The Father is related to the six co-ordinate Absolutes, and all seven together encompass the circle of infinity through the endless cycles of eternity."
+## 104.b20.t
+[["The seven Absolutes", "Kind"], ["1. The Universal Father", "Deity"], ["2. The Eternal Son", "Deity"], ["3. The Infinite Spirit", "Deity"], ["4. The Isle of Paradise", "Nondeity — the absolute pattern"], ["5. The Deity Absolute", "An Absolute of potentiality"], ["6. The Universal Absolute", "An Absolute of potentiality"], ["7. The Unqualified Absolute", "An Absolute of potentiality"]]
+## 104.b21.p
+"Here an important distinction appears. When the three Paradise persons join, as persons, for united function, they form the first triunity. But the Paradise Trinity is undivided and indivisible Deity itself. There are several existential triunities, but only one existential Trinity."
+## 104.b22.t
+[["", "Trinity", "Triunity"], ["Nature", "Indivisible Deity, an organic entity", "A functional association, not an entity"], ["Relation of members", "Corporative", "Partners"], ["Number", "Only one", "Several"], ["What they share", "Functions emerge that differ from the sum of the members’ attributes", "Functions emerge that differ from the sum of the members’ attributes"]]
+## 104.b23.p
+"This does not make the triunities any less real. In them total reality is put into function, and through them the Universal Father exercises immediate and personal control over the master functions of infinity."
+## 104.b24.h [HINT: 4. Las Siete Triunidades]
+"4. The Seven Triunities"
+## 104.b25.p
+"The Universal Father is the primal member of all seven triunities. He is the personal cause of the Absolutes; he is the absolute of Absolutes. Each triunity is formed by the Father together with two other Absolutes or associations."
+## 104.b26.t
+[["Triunity", "Members", "What it does"], ["1. Personal-purposive", "Father · Son · Infinite Spirit", "Love, mercy, and ministry; bestows personality, spirit, and mind"], ["2. Power-pattern", "Father-Son · Paradise Isle · Conjoint Actor", "The physical pattern of everything from the ultimaton to the superuniverses"], ["3. Spirit-evolutional", "Father · Son-Spirit · Deity Absolute", "The beginning and end of all spiritual manifestation"], ["4. Energy infinity", "Father-Spirit · Paradise Isle · Unqualified Absolute", "The beginning and end of all energy reality"], ["5. Reactive infinity", "Father · Universal Absolute · Unqualified Absolute", "Unlimited reactive capacity in the domains of nondeity reality"], ["6. Cosmic-associated Deity", "Father · Deity Absolute · Universal Absolute", "The immanence of Deity joined with the transcendence of Deity"], ["7. Infinite unity", "Father · Conjoint Actor · Universal Absolute", "The co-ordinate unification of actuals and potentials"]]
+## 104.b27.p
+"The first and second triunities form a pair. Love may characterize the divinity of the first, but pattern is the galactic manifestation of the second; the first concerns evolving personalities, the second evolving universes. So even when we meet the God who is love in religious experience, that insight must never eclipse our intelligent recognition that the universe is built on pattern."
+## 104.b28.t
+[["", "The first triunity", "The second triunity"], ["Its mark", "Love", "Pattern"], ["What it relates to", "Evolving personalities", "Evolving universes"], ["What it reveals", "The Eternal Son — the loving person", "The Paradise Isle — the power-pattern"]]
+## 104.b29.p
+"There are fifteen triune associations of the First Source and Center; eight of them concern realities beyond the level of supremacy and are not revealed. The triunities are the functional balance wheel of infinity: though infinity is divided into seven Absolutes, they let the Father experience functional unity. They cannot add to the Father’s infinity, but they disclose new depths, values, and meanings."
+## 104.b31.h [HINT: 5. Las Triodidades]
+"5. Triodities"
+## 104.b32.p
+"There are also triune relationships of which the Father is not a member. These are not true triunities; they are called associate triunities, co-ordinate triunities, or triodities, and they arise as a consequence of the triunities. The paper presents two of them."
+## 104.b33.t
+[["Triodity", "Members", "Character"], ["The Triodity of Actuality", "Eternal Son · Paradise Isle · Conjoint Actor", "Co-ordinates the sum total of actualized reality; unqualified in actuality"], ["The Triodity of Potentiality", "Deity Absolute · Universal Absolute · Unqualified Absolute", "Integrates all latent energy reality; infinite in potential"]]
+## 104.b34.p
+"While the triunities are mainly concerned with the functional unity of infinity, the triodities are directly involved in the appearance of the experiential Deities — Supreme, Ultimate, and Absolute. And to the creatures of time and space, the Supreme Being is a revelation of the unity of the I AM."
+## 104.b35.h
+"Conclusion"
+## 104.b36.p
+"Paper 104 shows how a simple feeling for the number three — learned from finger joints and stool legs — grew, through revelation, into an understanding of three persons in one God. Many peoples and religions grasped this truth in part, but the true Trinity is not a collection of three gods; it is one indivisible Deity. Beyond it, the Father, as a member of all seven triunities, holds together an infinity divided into seven Absolutes, and through the triodities he allows the experiential Deities to emerge. The loving Father and the pattern of the universe are, in the end, two faces of one reality — and in him all things hold together."
+## 104.b37.t
+[["Section", "Key message"], ["1. Urantian Trinity Concepts", "Three revelations took partial root in many religions"], ["2. Trinity Unity and Deity Plurality", "The Trinity is a supersummative reality beyond the sum of the three Deities"], ["3. Trinities and Triunities", "The Trinity is the one Deity; a triunity is a functional association"], ["4. The Seven Triunities", "The Father, as a member of every triunity, unifies infinity"], ["5. Triodities", "The triodities are directly involved in the emergence of the experiential Deities"]]
+## 104.b38.h
+"Key Points of Paper 104"
+## 104.b39.box
+"Though infinity is divided into seven Absolutes, all things hold together in the Father."
+## 105.title [HINT: La Deidad y la Realidad]
+"Deity and Reality"
+## 105.b0.ask
+"“How could our finite universe, and time itself, come forth from the I AM, who has neither beginning nor end?”"
+## 105.b1.h
+"Overview"
+## 105.b2.p
+"In Paper 104 we saw how the Father holds infinity together in unity through the Trinity and the seven triunities. Now Paper 105 goes one step further back. It takes up the eternity-mystery of the origin and destiny of all that is called real."
+## 105.b3.p
+"Even to high orders of universe intelligences, infinity is only partially comprehensible. The totality of reality is infinity, and no mind that is less than infinite can ever fully grasp it. So the author admits at the outset that these ideas must suffer profound distortion as they are brought down to the level of mortal understanding. As one way of approaching infinity, the paper invites us to picture an almost limitless ellipse, produced by one absolute cause, endlessly diversifying, and always seeking an infinite destiny."
+## 105.b4.p
+"Where, then, did all reality come from? And how could a finite world of beginnings and growth — and we ourselves — come forth from the Infinite One?"
+## 105.b6.h
+"The Paper"
+## 105.b7.h [HINT: 1. El Concepto Filosófico del YO SOY]
+"1. The Philosophic Concept of the I AM"
+## 105.b8.p
+"The philosophers of the universes attribute absolute primal causation in infinity to the Universal Father functioning as the I AM. This concept is so remote from human experience that it can easily lead to misunderstanding. Even so, it gives finite beings some basis for a partial grasp of absolute origins and infinite destinies. The I AM is neither deified nor undeified, neither personal nor impersonal. No qualification can be applied to the Infinite except to say that the I AM is."
+## 105.b9.p
+"Here the paper draws an important distinction. The Father we know is that phase of the Infinite which we perceive in our personalities as an actual experiential reality. The I AM, by contrast, is our hypothesis of all that we feel is unknowable. Even the master universe, which fills us with awe, may be no more than a partial revelation of the Infinite. Yet our concepts of infinity are growing, and they will keep growing throughout our endless careers in eternity."
+## 105.b10.t
+[["Concept", "Who he is to us"], ["The Universal Father", "God as we experience and worship him in our personalities"], ["The I AM", "A philosophic hypothesis of all that is unknowable"]]
+## 105.b11.h [HINT: 2. El YO SOY como Triuno y Séptuple]
+"2. The I AM as Triune and as Sevenfold"
+## 105.b12.p
+"All absolute reality — the three persons of Deity, the Isle of Paradise, and the three Absolutes — is from eternity and has no beginning. We speak of an order only because we must use the language of time to explain it to human beings. In this account the I AM is pictured first as solitary, then as triune, and at last as sevenfold, in seven phases."
+## 105.b13.t
+[["The seven phases", "The I AM’s relationship"], ["1. The Universal Father", "Father of the Eternal Son — God-as-love"], ["2. The Universal Controller", "Cause of eternal Paradise — God-as-pattern"], ["3. The Universal Creator", "One with the Eternal Son — the appearance of conjoint personality and of Havona"], ["4. The Infinite Upholder", "Self-associative — the Universal Absolute"], ["5. The Infinite Potential", "Self-qualified — the Deity Absolute"], ["6. The Infinite Capacity", "Static-reactive — the Unqualified Absolute"], ["7. The Universal One of Infinity", "I AM as I AM — the self-relationship of all things"]]
+## 105.b14.p
+"The first phase can be partly experienced on spiritual levels even by mortals who, while still in the flesh, worship the Father. Divine creativity is always marked by unity, because it is the outward reflection of the oneness of the Father-Son and of the Trinity. And within the seventh phase we all live and move and have our being, from the creatures of space to the citizens of Paradise."
+## 105.b15.h [HINT: 3. Los Siete Absolutos de la Infinidad]
+"3. The Seven Absolutes of Infinity"
+## 105.b16.p
+"The seven prime relationships within the I AM eternalize as the Seven Absolutes of Infinity. They are described one after another, but in fact all seven had no beginning; they are co-ordinately eternal. The seven Absolutes are the premise of reality."
+## 105.b17.t
+[["Absolute", "Essential character"], ["1. The First Source and Center", "The Universal Father — source of all actuals, Father of persons"], ["2. The Second Source and Center", "The Eternal Son — absolute personality, the way to the Father"], ["3. The Paradise Source and Center", "The Isle of Paradise — the absolute of patterns, the foundation of gravity control"], ["4. The Third Source and Center", "The Conjoint Actor — infinite integrator, source of mind"], ["5. The Deity Absolute", "The totality of all Deity potential, the destiny inceptor"], ["6. The Unqualified Absolute", "The totality of nondeified reality, boundless quiescence"], ["7. The Universal Absolute", "Unifier of the deified and the undeified"]]
+## 105.b18.p
+"Taken together, all seven Absolutes equal infinity, but the Universal Father himself actually is infinite. Paradise is not in space; rather, space exists relative to Paradise. The relationships of the Absolutes cannot always be described in the language of time without paradox. Still, it is both fact and truth that all reality rests on their eternal existence and their relationships."
+## 105.b19.h [HINT: 4. La Unidad, la Dualidad y la Triunidad]
+"4. Unity, Duality, and Triunity"
+## 105.b20.p
+"The self-revelation of the I AM moves from a static self, through self-segmentation and self-relationship, to relationships with the Absolutes that come from itself. It has sometimes been said that unity begets duality, that duality begets triunity, and that triunity is the eternal ancestor of all things."
+## 105.b21.t
+[["Primordial relationship", "What it is", "What it does"], ["1. Unity", "The threefold and sevenfold self-differentiation within the I AM", "Unqualified infinity as unity"], ["2. Duality", "Between the sevenfold I AM and the Seven Absolutes", "Eternalizes the foundations of reality"], ["3. Triunity", "The functional associations of the Seven Absolutes", "Realizes infinity as universal function"]]
+## 105.b22.p
+"What is pre-existential becomes existential in the seven Absolutes, and what is existential becomes functional in the triunities. In this way the universe stage is set: cosmic energy is diversified, Paradise spirit spreads outward, and mind and personality are bestowed."
+## 105.b23.h [HINT: 5. La Promulgación de la Realidad Finita]
+"5. Promulgation of Finite Reality"
+## 105.b24.p
+"Finite reality was brought into being by the volitional acts of Paradise Deity and the adjustments of the triunities. The possibility of the finite lies within the Infinite, but what made it actual was the free will of the Father. Only the infinity of the Father’s will could so qualify the absolute level as to create a finite."
+## 105.b25.p
+"This begins the growth cycle — a majestic downsweep from the heights of infinity to the finite, forever swinging inward again toward Paradise. With it begin universe history and time itself. The new finite reality exists in two original phases, and from the relationship between them a third type appears."
+## 105.b26.t
+[["Type", "Character", "Example"], ["Primary maximums", "The supremely perfect reality", "The Havona type of universe and creature"], ["Secondary maximums", "The supremely perfected reality", "The superuniverse type of creature and creation"], ["Tertiary maximums", "Neither perfect nor perfected, yet co-ordinate with both", "Things, meanings, and values arising from the relationship of the two"]]
+## 105.b27.p
+"The perfect and the perfected are equal in eternity, yet within time they look different. That which is growing must appear incomplete in time — but these differences, so important on this side of Paradise, do not exist in eternity."
+## 105.b28.h [HINT: 6. Las Repercusiones de la Realidad Finita]
+"6. Repercussions of Finite Reality"
+## 105.b29.p
+"The appearance of finite reality set off a number of repercussions. Among them, the creature repercussion yields this paper’s most practical insight. To attain perfection through evolution implies a starting point that is not yet perfect, and from this comes imperfection. This is the origin of potential evil. Misadaptation, disharmony, and conflict are all inherent in evolutionary growth."
+## 105.b30.t
+[["Repercussion", "What happened"], ["1. The deity response", "The appearance of three levels of experiential supremacy"], ["2. The universe response", "The activation of the architectural plans for the seven superuniverses"], ["3. The creature repercussion", "The appearance of Havona natives and evolutionary ascenders — and the origin of potential evil"], ["4. The divinity response", "The compensating presence of God the Sevenfold"]]
+## 105.b32.p
+"The time lag of evolution brings imperfection, but it is also our opportunity to take part in creation as partners with Deity. Even the material mind of a mortal becomes the partner of the divine Adjuster in the making of an immortal soul."
+## 105.b33.h [HINT: 7. La Eventuación de los Trascendentales]
+"7. Eventuation of Transcendentals"
+## 105.b34.p
+"Transcendentals are less than infinite and absolute, but more than finite and creatural. They appear as an integrating level that links the supervalues of the Absolutes with the maximum values of the finite. Havona is a good illustration. It is eternal, yet not without growth; it is neither absolute nor finite; and it acts as a buffer between Paradise and the finite creations. But Havona itself is not a transcendental — it is Havona."
+## 105.b35.t
+[["Level", "Associated Deity"], ["Finite", "The Supreme"], ["Transcendental", "The Ultimate — different not only in degree but also in quality"], ["Absolute", "The Absolutes"]]
+## 105.b36.t
+[["Realities of the transcendental level", "Examples"], ["Deity and concept", "The Deity presence of the Ultimate; the concept of the master universe"], ["Beings", "The Architects of the Master Universe; the two orders of Paradise force organizers"], ["Space and energy", "Certain modifications in space potency; space"], ["Spirit and mind", "Certain values of spirit; certain meanings of mind"], ["Qualities and powers", "Absonite qualities and realities; omnipotence, omniscience, and omnipresence"]]
+## 105.b37.p
+"All these realities are unified absolutely by the triunities, functionally by the Architects of the Master Universe, and relatively by the Seven Master Spirits. And the diversification of the First Source and Center may go on, age after age, onward and outward into the inconceivable reaches of absolute infinity."
+## 105.b38.h
+"Conclusion"
+## 105.b39.p
+"Paper 105 takes us as far as the human mind can reach. The I AM, who has no beginning, reveals himself in seven phases; those relationships are eternalized as the seven Absolutes; and through the triunities, the associations of the Absolutes, the universe stage is set. Because the Father’s free will chose to qualify the absolute, time and the finite world came to be. Imperfection and conflict come along that road of growth, yet it is precisely this time lag that lets us share in creation as partners with Deity. We will never fully fathom infinity, but the face the Infinite turns toward us is always the face of a loving Father."
+## 105.b40.t
+[["Section", "Key message"], ["1. The Philosophic Concept of the I AM", "Even the unknowable Infinite comes to us with the face of a Father"], ["2. The I AM as Triune and as Sevenfold", "The I AM reveals himself in a sevenfold self-relationship"], ["3. The Seven Absolutes of Infinity", "Seven Absolutes without beginning are the premise of all reality"], ["4. Unity, Duality, and Triunity", "Unity begets duality, and duality begets triunity"], ["5. Promulgation of Finite Reality", "The Father’s free will opened the way for time and the finite world"], ["6. Repercussions of Finite Reality", "The imperfection of growth becomes our chance to work with God"], ["7. Eventuation of Transcendentals", "Transcendentals are the integrating level between the finite and the absolute"]]
+## 105.b41.h
+"Key Points of Paper 105"
+## 105.b42.box
+"Because the Infinite limited himself, we finite beings exist — and the face of the Infinite is that of a loving Father."
+## 106.title [HINT: Los Niveles de la Realidad en el Universo]
+"Universe Levels of Reality"
+## 106.b0.ask
+"“Where do we, as incomplete finites, stand among the many levels of reality — and where does that endless ladder lead?”"
+## 106.b1.h
+"Overview"
+## 106.b2.p
+"In Paper 105 we saw how the seven Absolutes and the finite world came forth from the I AM. Paper 106 now looks in the opposite direction: how divided realities are gathered back into unity. For the ascending mortal needs to understand not only how Deity relates to reality, but also how he himself relates to the many levels of reality."
+## 106.b3.p
+"The paper groups reality into seven levels. We mortals of Urantia stand on the lowest of them, the level of incomplete finites. But the author first makes clear that these divisions are convenient compromise symbols, limited by mortal language, the mortal mind, the unfinished development of the superuniverses, and more — they are entirely relative. And reality keeps growing from one universe age to the next: repletion is continually being superimposed upon completion."
+## 106.b4.p
+"So where does this growth, which begins with incomplete beings like us, lead — through the Supreme and the Ultimate, and beyond? And what will we find at the end of the whole journey?"
+## 106.b6.h
+"The Paper"
+## 106.b7.h [HINT: 1. La Asociación Primaria de los Funcionales Finitos]
+"1. Primary Association of Finite Functionals"
+## 106.b8.t
+[["Level of reality", "What it means"], ["1. Incomplete finites", "The present status of ascending creatures — Urantia mortals"], ["2. Maximum finites", "Experiential creatures who have attained the destiny of the present age"], ["3. Transcendentals", "Implies a prefinite origin and a postfinite meaning"], ["4. Ultimates", "That which has master universe significance"], ["5. Coabsolutes", "Projection onto a field of creative expression beyond the master universe"], ["6. Absolutes", "The eternal presence of the seven existential Absolutes"], ["7. Infinity", "Reality before all beginnings and after all destinies"]]
+## 106.b9.p
+"The primary phase of finite reality appears at once as the perfect personalities and perfect creation of Havona. But the secondary phase, conditioned by time and matter, is integrated only through growth and attainment. Thanks to this time lag, the creature can enter into partnership with the Creator in his own evolution."
+## 106.b10.p
+"During these ages of growth, God the Sevenfold links the incomplete with the perfect. However far from Paradise a creature may take origin, God the Sevenfold is there, engaged in the loving and merciful ministry of truth, beauty, and goodness to that struggling soul. The Sevenfold is the source of the relative unity of functional reality in the present grand universe."
+## 106.b11.h [HINT: 2. La Integración Secundaria o Finita Suprema]
+"2. Secondary Supreme Finite Integration"
+## 106.b12.p
+"As God the Sevenfold co-ordinates finite evolution, so the Supreme Being eventually brings together destiny attainment. The Supreme is the deity culmination of grand universe evolution — the spirit nucleus that at last comes to dominate the physical evolution swirling around it. To understand the Supreme, we must tell three elements apart."
+## 106.b13.t
+[["Element of the Supreme", "Meaning"], ["Spirit person", "The spirit personality of God the Supreme in Havona"], ["Evolutionary power", "Experiential power earned and demonstrated in time and space"], ["Power-personality synthesis", "Evolutionary power unified with, and ruled by, spirit personality"]]
+## 106.b14.p
+"Because creatures, even mortals, take part personally in this great work, we gain the capacity to know the Supreme and to see ourselves as true children of this evolutionary Deity. Just as Michael shares the Father’s perfection, so we will one day share the evolutionary perfection of the Supreme. God the Supreme is experiential; therefore is he completely experiencible."
+## 106.b15.h [HINT: 3. La Asociación Terciaria Trascendental de la Realidad]
+"3. Transcendental Tertiary Reality Association"
+## 106.b16.p
+"The absonite architects draw up the plan; the Supreme Creators bring it into existence; and the Supreme Being will complete its fullness. When the present age ends and the Almighty Supreme appears, the first experiential Trinity, the Trinity Ultimate, will come into full function."
+## 106.b17.t
+[["Trinity", "Members", "Nature"], ["The Paradise Trinity", "Father, Son, and Spirit", "Existential, infinite"], ["The Trinity Ultimate", "The Supreme Creators, the Supreme Being, and the Architects of the Master Universe", "First experiential, subinfinite"], ["The Trinity Absolute", "God the Supreme, God the Ultimate, and the Consummator of Universe Destiny", "Second experiential, not easy to classify"]]
+## 106.b18.p
+"The Paradise Trinity is the association of absolute Deities alone, but the experiential Trinities include the contributions of creature personalities. The very presence of the Master Creator Sons among the Supreme Creators of the Trinity Ultimate shows that real creature experience is part of it. Groups can go beyond what individuals can do, and in the ages to come the Corps of the Finality will be promulgating the purposes of the Deities as directed by the Trinity Ultimate."
+## 106.b19.h [HINT: 4. La Integración Cuarta o Última]
+"4. Ultimate Quartan Integration"
+## 106.b20.p
+"The Trinity Ultimate co-ordinates the transcendental as transcendental, and in the eternal future it will further activate the presence of Ultimate Deity. God the Ultimate is the transcendental power-personalization that gives direction to the whole master universe, and the completed eventuation of the Ultimate means the completion of the master creation."
+## 106.b21.p
+"Just as the Supreme is now present in Havona spiritually and personally, so the Ultimate is present there too, but in an absonite and superpersonal sense. Transcendence of the finite can lead only to ultimate attainment. God the Ultimate rises above time and space, yet he is still subabsolute."
+## 106.b22.h [HINT: 5. La Asociación de la Quinta Fase o Coabsoluta]
+"5. Coabsolute or Fifth-Phase Association"
+## 106.b23.p
+"The actual emergence of the Supreme and the Ultimate lays the foundation for the second experiential Trinity, the Trinity Absolute. This Trinity has the theoretical capacity to activate the three Absolutes of potentiality, but it can be fully formed only after the whole master universe, out to the outermost space level, has completed its evolution."
+## 106.b24.p
+"A trinity is not itself a person, yet it does not deny personality. Its members, as individual persons, are not the trinity; only together are they trinity. That is why the association of the three Absolutes of potentiality is not a trinity: only the deified can become trinity."
+## 106.b26.h [HINT: 6. La Integración de la Sexta Fase o Absoluta]
+"6. Absolute or Sixth-Phase Integration"
+## 106.b27.p
+"The space-stage of the master universe seems adequate for the actualization of the Supreme Being, the function of the Trinity Ultimate, the eventuation of God the Ultimate, and even the inception of the Trinity Absolute. But the full function of the Trinity Absolute seems to point to something beyond the master universe. Out there, in a cosmos-infinite, the Trinity Absolute might reach the absolute actualization of all potentials."
+## 106.b28.p
+"The eternal action of the Trinity Absolute may bring the Absolutes of potentiality into experience, and may personalize the Deity Absolute, completing God the Absolute — the third and last of the experiential Deities."
+## 106.b29.t
+[["Experiential Deity", "Level"], ["God the Supreme", "Finite — the capstone of evolutionary-experiential reality"], ["God the Ultimate", "Transcendental — the apex of transcendental reality"], ["God the Absolute", "Absolute — the third and last of the experiential Deities"]]
+## 106.b30.h [HINT: 7. La Finalidad del Destino]
+"7. Finality of Destiny"
+## 106.b31.p
+"Quantitative infinity can never be completely realized. In the three potential Absolutes there will always remain possibilities that no amount of experiential development could ever exhaust. No being or universe will ever completely attain every aspect of its final destiny."
+## 106.b32.p
+"Yet this is no cause for discouragement. We really do attain the Deity levels of the Sevenfold, the Supreme, and the Ultimate, and the infinity of God should be our supreme assurance that endless possibilities of personality growth and Deity association lie before us. Even when the master universe is complete, we will look back on its whole history as only the beginning; it will be always young."
+## 106.b34.h [HINT: 8. La Trinidad de Trinidades]
+"8. The Trinity of Trinities"
+## 106.b35.p
+"The Trinity of Trinities is, in theory, the summation of the entirety of experiential infinity, in which the experiential infinite and the existential infinite become one in the I AM. The author presents it as three levels of increasing unification."
+## 106.b36.t
+[["Level", "What it contains"], ["The first level", "The Paradise, Ultimate, and Absolute Trinities"], ["The second level", "The Supreme, the Ultimate, and the Absolute — the union of the experiential Deities"], ["The third level", "The I AM, experienced as the Father-Infinite"]]
+## 106.b37.p
+"In this association the Father-Son partnership becomes Son-Spirit, then Spirit-Supreme, Supreme-Ultimate, Ultimate-Absolute, and at last Absolute and Father-Infinite — the completion of the cycle of reality. The union on the second level has already shown itself in our own age, in the deitization of Majeston. And as personal creatures looking at these far-off possibilities, we conclude that the final destiny of every personality is the final knowing of the Universal Father."
+## 106.b38.h [HINT: 9. La Unificación Existencial Infinita]
+"9. Existential Infinite Unification"
+## 106.b39.p
+"The experiential unification of reality lies far off in eternity, but its existential unification is already real in the Paradise Trinity. At this very moment, infinite reality is absolutely unified. Time, space, and experience are our greatest aids to understanding relative reality, yet also our most formidable obstacles to perceiving reality completely."
+## 106.b40.t
+[["Why we cannot see the finished unity", "What it means"], ["1. A limited viewpoint", "We cannot grasp unqualified eternity"], ["2. An imperfect status", "We are far from the absolute level"], ["3. Dependence on experience", "We are designed to evolve by the technique of experience"]]
+## 106.b41.p
+"No actual change takes place in the Infinite; every apparent development comes from our growing capacity to receive reality. All creature growth is proportional to Father identification, and living the will of God is the eternal passport to infinity. Such a life is predicated on truth, sensitive to beauty, and dominated by goodness; it is lit within by worship and poured out in loving service."
+## 106.b42.h
+"Conclusion"
+## 106.b43.p
+"Paper 106 lays out the ladder of reality that begins with incomplete finites like us and rises through the Supreme and the Ultimate to the absolute and infinite. God the Sevenfold helps us in our struggles now, the Supreme Being gathers up that growth, and the experiential Trinities achieve ever greater unity, one after another. We will never fully reach the top, but that is not a defeat — it is the promise of endless growth. Infinite reality is already one in the Paradise Trinity, and as we live the will of God and grow more like the Father, we draw nearer to that infinity step by step."
+## 106.b44.t
+[["Section", "Key message"], ["1. Primary Association of Finite Functionals", "In the time lag, God the Sevenfold links the incomplete with the perfect"], ["2. Secondary Supreme Finite Integration", "The Supreme Being unites evolutionary power with spirit personality"], ["3. Transcendental Tertiary Reality Association", "The experiential Trinities include creature experience"], ["4. Ultimate Quartan Integration", "God the Ultimate is the transcendental Deity who directs the master universe"], ["5. Coabsolute or Fifth-Phase Association", "Only the deified can become trinity"], ["6. Absolute or Sixth-Phase Integration", "God the Absolute is the last of the experiential Deities"], ["7. Finality of Destiny", "The infinity of God is our assurance of endless growth"], ["8. The Trinity of Trinities", "The final destiny of every personality is to know the Universal Father"], ["9. Existential Infinite Unification", "Living the will of God is the passport to infinity"]]
+## 106.b45.h
+"Key Points of Paper 106"
+## 106.b46.box
+"Infinite reality is already one, and as we live the will of God we keep growing toward the Father without end."
+## 107.title [HINT: El Origen y la Naturaleza de los Ajustadores del Pensamiento]
+"Origin and Nature of Thought Adjusters"
+## 107.b0.ask
+"“How can the Father who lives on Paradise be present at the same time in the very center of a mortal mind?”"
+## 107.b1.h
+"Overview"
+## 107.b2.p
+"In Paper 106 we saw the many levels of reality and the endless quest for God. Beginning with Paper 107, the book turns to our closest companion on that quest: the Thought Adjuster who lives within us. The Universal Father dwells on Paradise, yet he is also actually present in the minds of his countless children of time, for he indwells them as the Mystery Monitors."
+## 107.b3.p
+"The Adjusters are the actuality of the Father’s love incarnate in the souls of men; they are the true promise of our eternal career. Because God commanded us to be perfect, he came down as the Adjuster to be our partner in reaching that destiny. It is the Adjuster who stirs up in us the unquenchable longing to be like God and to reach Paradise — a compass that always points the soul toward God."
+## 107.b4.p
+"Where, then, does the Adjuster come from? What is its nature? And how can it love us and choose us when it is not a personality?"
+## 107.b6.h
+"The Paper"
+## 107.b7.h [HINT: 1. El Origen de los Ajustadores del Pensamiento]
+"1. Origin of Thought Adjusters"
+## 107.b8.t
+[["Stage of mortal life", "What the Monitor is called"], ["From the Adjuster’s arrival to about age twenty", "Thought Changer"], ["From about twenty to the age of discretion (about forty)", "Thought Adjuster"], ["From the age of discretion to deliverance from the flesh", "Thought Controller"]]
+## 107.b9.p
+"There are different opinions about how Adjusters are bestowed, but none about their origin. All agree that they come directly from the Universal Father. They are not created beings; they are fragmentized entities, the factual presence of the infinite God — undiluted and unmixed divinity. No one knows when they began their separate existence or how many there are; like God himself, they may even be existentially infinite."
+## 107.b11.p
+"How the Adjusters originate is one of the Father’s unrevealed functions; the other Absolutes seem to have no part in it. The Infinite Spirit also individuates portions of his spirit to fuse with certain surviving mortals, but the nature of the Eternal Son cannot be fragmented in this way. The Adjusters face a threefold destiny:"
+## 107.b12.t
+[["Destiny of the Adjuster", "What it means"], ["Fusion", "Attaining personality by fusing with a mortal ascender"], ["Personalization", "Attaining personality by the fiat of the Universal Father"], ["Liberation", "Release from the known assignments of Thought Adjusters"]]
+## 107.b13.h [HINT: 2. La Clasificación de los Ajustadores]
+"2. Classification of Adjusters"
+## 107.b14.p
+"Adjusters are individuated as virgin entities, and all are destined to be liberated, fused, or personalized. The author names seven orders, while admitting that he does not altogether understand these divisions. Adjusters can also be classified by universe assignment, by their success in indwelling a mortal, or even by the racial ancestry of the mortal who is a candidate for fusion."
+## 107.b15.t
+[["Order", "Description"], ["1. Virgin Adjusters", "Serving their first assignment in the mind of an evolutionary candidate"], ["2. Advanced Adjusters", "Have served one or more seasons on worlds of spirit fusion"], ["3. Supreme Adjusters", "Their partners declined survival, and they were assigned to other mortals; they have more experience"], ["4. Vanished Adjusters", "A fourth stage of service — what they do is not known for certain"], ["5. Liberated Adjusters", "Eternally liberated from the service of time"], ["6. Fused Adjusters", "Finaliters, made one with ascending mortals"], ["7. Personalized Adjusters", "Those who served with incarnated Paradise Sons, or achieved unusual distinction"]]
+## 107.b16.p
+"A supreme Adjuster is no more divine than a virgin one, but because it has more experience it can do things in the human mind that a less experienced Adjuster could not. A fused Adjuster keeps all of its divine nature while becoming indissolubly linked with the ascending career of a surviving mortal."
+## 107.b17.h [HINT: 3. El Hogar de los Ajustadores en Divinington]
+"3. The Divinington Home of Adjusters"
+## 107.b18.p
+"Everything to do with sending out, managing, and receiving back the Mystery Monitors is centered on Divinington, the Father’s secret sphere. As far as the author knows, none but Adjusters and other entities of the Father have been there. When Adjusters return to the Father they go back to Divinington, and there they probably make actual contact with the Father’s Paradise personality."
+## 107.b19.t
+[["The three injunctions to high spirit orders", "What they say"], ["1. Respect those above", "Show adequate respect for the experience and endowments of seniors and superiors"], ["2. Consider those below", "Be considerate of the limitations and inexperience of juniors and subordinates"], ["3. The prohibition", "Never attempt a landing on the shores of Divinington"]]
+## 107.b20.p
+"The author is very sure that he is forbidden to go to Divinington because there is nothing there essential to his own growth. The valor and wisdom of the Adjusters suggest that they have received an immense training on Divinington, and their schools are staffed by Personalized Adjusters. Personalized Adjusters are always known by name, not by number."
+## 107.b21.h [HINT: 4. La Naturaleza y la Presencia de los Ajustadores]
+"4. Nature and Presence of Adjusters"
+## 107.b22.p
+"Adjusters are not absolutes in the Deity sense, but they are probably true absolutes within the potential of their fragmented nature. They are limited in extent, but absolute in intensity of meaning and value; so they are called the qualified absolute fragments of the Father. No Adjuster has ever been disloyal to the Paradise Father."
+## 107.b23.p
+"Nonpersonalized Adjusters are visible only to Personalized Adjusters. Other beings detect their presence only through spiritual reactions or a spirit luminosity. In Nebadon this light is called the “pilot light”; on Uversa, the “⟦Q 107:4.5|11:0.2|35:4.5⟧light of life⟦/Q⟧”; and on Urantia it has been called the true light which lights every man who comes into the world. When the infinite God’s own fragment indwells and fuses with a finite mortal, no limit can ever be placed on the destiny of that partnership."
+## 107.b24.h [HINT: 5. Los Ajustadores Tienen Mente]
+"5. Adjuster Mindedness"
+## 107.b25.p
+"Because we tend to think of mind as a go-between for spirit and matter, it is hard for us to see that Adjusters have minds. They are fragments of God from an absolute level that comes before energy and spirit ever divided. Yet Adjusters can plan, work, and love, so they must have powers equal to mind — otherwise they could never be personalized."
+## 107.b26.p
+"The mindedness of the Adjuster is like that of the Universal Father and the Eternal Son. Even after the Adjuster has fused with our morontia soul, its mind continues apart from the creature’s mind until we reach spirit levels. On finaliter levels the experiential mind of the two seems to be “supremacized” and to enlarge the experience of the Supreme Being."
+## 107.b27.h [HINT: 6. Los Ajustadores como Espíritus Puros]
+"6. Adjusters as Pure Spirits"
+## 107.b28.p
+"The Adjuster is pure spirit, but spirit plus. All that can be said of the Adjusters for certain is that they are truly Godlike. They truly and divinely love us, and they long for our minds to attain divinity, so that their loneliness may end and they may be set free together with us."
+## 107.b30.p
+"Besides mindedness, the Adjuster also has factors of pure energy, for God is the source of both pure energy and pure spirit. Adjusters flash across the grand universe over the gravity circuits of Paradise, yet they are not subject to them; they are fragments of the ancestor of gravity, not the consequentials of gravity. From the moment of their bestowal until the natural death of their subjects, Adjusters have no rest."
+## 107.b31.h [HINT: 7. Los Ajustadores y la Personalidad]
+"7. Adjusters and Personality"
+## 107.b32.p
+"Adjusters are not personalities, but they are real entities — realities of the purest order known in the universe, the divine presence. How, then, can they choose mortal subjects and volunteer to indwell them? The author confesses that probably no being has ever found the exact answer. Adjusters volunteer to indwell us, lay plans for our eternal career, and adapt to circumstances — all signs of genuine will."
+## 107.b33.p
+"Why, then, do they submit to the mortal will? Because Adjuster will, though absolute in nature, is prepersonal in manifestation, and everywhere in the cosmos the prepersonal responds to the will of personality. The fitting word for an Adjuster is therefore prepersonal. Every created being would delight to host a Mystery Monitor, but only evolutionary will creatures of finaliter destiny receive this gift."
+## 107.b34.t
+[["", "The Adjuster’s will", "The human will"], ["Nature", "Absolute", "Finite"], ["Level of manifestation", "Prepersonal", "Functions on the personality level"], ["How they relate", "Respects and waits on human choice", "Holds the decision for eternal survival"]]
+## 107.b35.h
+"Conclusion"
+## 107.b36.p
+"Paper 107 shows how the Father on Paradise can at the same time be present in the very center of our minds. The Adjuster is not a created being but a fragment of God that comes directly from the Father. It comes from Divinington to dwell within us, and though it is not a personality, it loves us, plans for us, and respects our choices. The Adjuster is our eternity possibility, and we are its personality possibility. To be conscious of the Adjuster’s presence is to be conscious of God’s presence, and to follow its leading is to live the will of God."
+## 107.b37.t
+[["Section", "Key message"], ["1. Origin of Thought Adjusters", "The Adjuster is a fragment of God that comes directly from the Father"], ["2. Classification of Adjusters", "Adjusters fall into seven orders according to their experience"], ["3. The Divinington Home of Adjusters", "Divinington, the Adjusters’ home, is closed to all other beings"], ["4. Nature and Presence of Adjusters", "The Adjuster is a qualified absolute fragment of the Father"], ["5. Adjuster Mindedness", "The Adjuster can plan and love, so it has the powers of mind"], ["6. Adjusters as Pure Spirits", "The Adjuster is our eternity possibility; we are its personality possibility"], ["7. Adjusters and Personality", "The prepersonal Adjuster respects human choice"]]
+## 107.b38.h
+"Key Points of Paper 107"
+## 108.title [HINT: La Misión y el Ministerio de los Ajustadores del Pensamiento]
+"Mission and Ministry of Thought Adjusters"
+## 108.b0.ask
+"“When and how does the Adjuster come to us — and why, instead of making life easy, does it shape the soul for eternity?”"
+## 108.b1.h
+"Overview"
+## 108.b2.p
+"In Paper 107 we learned that the Thought Adjuster is a fragment of God that comes directly from the Father. Paper 108 now turns to what the Adjuster does for us — its mission and ministry. The Adjuster’s fundamental work is to represent, and indeed to be, the Universal Father to mortal creatures."
+## 108.b3.p
+"The infinite God is full and complete, yet he cannot know by experience what he has never personally experienced. So the spirit of the Father comes down from Paradise to share with finite mortals in every genuine experience of the ascending career. Only in this way does the existential God become, in truth and in fact, our experiential Father."
+## 108.b4.p
+"How, then, is an Adjuster chosen? When does it come to us? And what is it trying to accomplish in our minds?"
+## 108.b6.h
+"The Paper"
+## 108.b7.h [HINT: 1. La Selección y la Asignación]
+"1. Selection and Assignment"
+## 108.b8.p
+"The Adjusters sent out from Divinington are identical in divinity but differ in experience. Because the more experienced Adjuster is often found indwelling a higher type of mind, human inheritance must be one factor in assignment. All Adjusters seem to be volunteers, and before they volunteer they already have full data on the candidate — his hereditary background and a forecast of his intellectual and spiritual capacity."
+## 108.b9.t
+[["What the volunteering Adjuster looks for", "What it considers"], ["1. Intellectual capacity", "Is the mind normal? Can the individual develop into a genuine will creature?"], ["2. Spiritual perception", "The prospects of reverence, the growth of the religious nature, spiritual receptivity"], ["3. Combined powers", "How far the two may combine to build strength of character and the evolution of a soul"]]
+## 108.b10.p
+"When more than one Adjuster volunteers, the supervising personalized orders probably choose the one best suited, and the sex of the creature is no consideration. The assigned Adjuster then seems to be instructed in the Divinington schools on how best to approach that particular mind. The average transit time from Divinington to Urantia is 117 hours, 42 minutes, and 7 seconds — and almost all of it is taken up with registration on Uversa."
+## 108.b11.h [HINT: 2. Los Prerrequisitos para Que el Ajustador Resida en un Mortal]
+"2. Prerequisites of Adjuster Indwelling"
+## 108.b12.p
+"An Adjuster is not actually assigned until the child makes its first moral decision. That decision registers instantly and is relayed to Divinington, and on Urantia the Adjuster arrives, on average, just before the sixth birthday — in the present generation, on the 2,134th day of life. All seven adjutant mind-spirits must be functioning, so that the mind shows the worship outreach and the ability to choose between good and evil."
+## 108.b13.p
+"On worlds where the Spirit of Truth has been poured out, the Adjuster comes without fail the instant the seventh adjutant begins to function. That is why, ever since Pentecost, Adjusters have been bestowed on all normal minds of moral status on Urantia. Between the Adjuster and the human being there is no go-between: God and man are directly related. Before the Spirit of Truth came, Adjusters were observed to arrive on these occasions:"
+## 108.b14.t
+[["Occasions before the Spirit of Truth", "What happens"], ["1. Assignment of a personal guardian", "The Adjuster comes at once when a personal seraphic guardian is assigned"], ["2. Reaching the third circle", "The conquest of the third circle of intellectual and spiritual attainment"], ["3. A supreme decision", "A decision of unusual spiritual importance in a time of crisis"], ["4. The spirit of brotherhood", "When a mortal is devoted to unselfish service out of love for his fellows"], ["5. Intention to do God’s will", "The quiet decision to begin doing the will of the Father"], ["6. Influence of the Supreme Being", "Some cosmic reflex action beyond our understanding"]]
+## 108.b16.h [HINT: 3. La Organización y la Administración]
+"3. Organization and Administration"
+## 108.b17.p
+"Adjusters appear to be organized as an independent working unit, administered directly from Divinington, and they are the same type in all seven superuniverses. Outside Divinington, their complete records are kept only on the superuniverse headquarters, and mortals do not receive their real universe names until after Adjuster fusion. A world that has received a bestowal Son is given a Personalized Adjuster as planetary supervisor of Adjusters."
+## 108.b18.p
+"When Tabamantia, the supervisor of the life-experiment planets of Nebadon, inspected Urantia, he paid deep tribute to the chief of Adjusters. The Adjusters, he said, never falter in any crisis; no charge has ever been brought against one; and they have helped to adjust the mistakes and make up for the shortcomings of all who labor on this confused planet. The author’s own order, the Solitary Messengers, is one of the rare groups of personal beings able to sense the presence of prepersonal entities such as the Adjusters."
+## 108.b19.h [HINT: 4. La Relación con Otras Influencias Espirituales]
+"4. Relation to Other Spiritual Influences"
+## 108.b20.p
+"The Father has given the direct exercise of universe power to his Creator Sons, yet through the Adjusters he keeps the right to be present in the minds and souls of his creatures and to draw them all to himself. The Adjusters keep urging those they indwell toward divine ideals, and they also help establish the spiritual dominion of Michael."
+## 108.b21.p
+"The Adjusters seem to come and go independently of other spiritual presences, yet in fact they work in perfect co-ordination with the adjutant mind-spirits, the Holy Spirit, and the Spirit of Truth. Even on a planet isolated by rebellion, their ability to communicate is not affected, so they can provide a line of contact with a quarantined world."
+## 108.b22.t
+[["Spirit ministries in the human mind", "Relation to the Adjuster"], ["Adjutant mind-spirits", "Prepare the mind so the Adjuster can come"], ["Holy Spirit", "Works in co-ordination with the Adjuster"], ["Spirit of Truth", "Co-ordinates the spirit ministries and opens the way to the universal bestowal of Adjusters"], ["Personal seraphic guardian", "Has a definite but unknown close relation with the Adjuster’s ministry"]]
+## 108.b23.h [HINT: 5. La Misión de los Ajustadores]
+"5. The Adjuster’s Mission"
+## 108.b24.p
+"The Adjuster translates the messages of spiritual intelligences to the material mind and is indispensable to the Paradise ascent. Truths it cannot pass on to us now, it faithfully keeps for the next stage of existence. Angels and even high spirit beings may sometimes go astray, but Adjusters never falter and never lose anything committed to their care."
+## 108.b25.p
+"The Mystery Monitors are not thought helpers; they are thought adjusters. Their mission chiefly concerns the future life, not this one. They are not trying to make life easy; rather, they make it reasonably difficult so that decisions will be stimulated and multiplied — yet they bring a sublime peace of mind and tranquillity of spirit. So we should not look to the Adjuster for selfish comfort. Its business is to prepare our souls for the long ascending career."
+## 108.b26.t
+[["What the Adjuster does", "What it does not do"], ["Prepares the soul for the eternal adventure", "Make life easy"], ["Stimulates and multiplies decisions", "Free us from strenuous thinking"], ["Gives peace of mind and tranquillity of spirit", "Smooth our ruffled feelings or soothe injured pride"], ["Seeks to change fear into love and confidence", "Make that change for us mechanically"]]
+## 108.b27.p
+"Breaking free of fear is our part. When we make the decisions that deliver us from fear, we supply the fulcrum on which the Adjuster can set a spiritual lever to lift us up. A guardian angel is examined on the results of her ministry, but an Adjuster never is, for it works in the manner of Paradise perfection."
+## 108.b28.h [HINT: 6. Dios en el Hombre]
+"6. God in Man"
+## 108.b29.p
+"It is a marvel of divine condescension that the exalted Adjusters volunteer to live within mortals of animal origin. After a bestowal Son has come, the Adjusters truly become the “⟦Q 108:6.2|170:1.11|171:0.3⟧kingdom of heaven within you.⟦/Q⟧” The Adjuster dwells with us even in the midst of our unrighteousness, and it is tormented by sordid and selfish thoughts and by our foolish animal fears. The “⟦Q 108:6.3|3:4.7|74:7.20⟧image of God⟦/Q⟧” does not mean a physical likeness; it means the gift of the Father’s spirit presence in the Adjuster."
+## 108.b30.p
+"The Adjuster duplicates every mental creation with a spiritual counterpart, slowly and surely re-creating us spiritually. These are preserved in our immortal soul, our morontia self. As our human parents are the parents of our bodies, so the Adjuster is the divine parent of our higher, future self. When the clouds gather, our faith should accept the presence of the indwelling Adjuster and look beyond the mists of uncertainty to the clear shining of the sun of eternal righteousness."
+## 108.b32.h
+"Conclusion"
+## 108.b33.p
+"Paper 108 shows, step by step, how the Adjuster comes to us and what it does within us. Knowing us in advance, it volunteers to come, and at the moment of our first moral decision it takes up its place within us, with no go-between. With unfailing faithfulness it awakens our decisions rather than making life easy, and it carries our thoughts over into their spirit counterparts to shape an immortal soul. The decision to break free of fear is ours, but we have a perfect guide — and so the goal of perfection can surely be reached."
+## 108.b34.t
+[["Section", "Key message"], ["1. Selection and Assignment", "The Adjuster knows us in advance and volunteers to come"], ["2. Prerequisites of Adjuster Indwelling", "At the first moral decision, God and man meet directly"], ["3. Organization and Administration", "The Adjusters are faithful servants who never falter"], ["4. Relation to Other Spiritual Influences", "The Adjuster works in perfect co-ordination with the other spirit ministries"], ["5. The Adjuster’s Mission", "The Adjuster does not make life easy; it prepares the soul for eternity"], ["6. God in Man", "The Adjuster is the divine parent of our immortal soul"]]
+## 108.b35.h
+"Key Points of Paper 108"
+## 108.b36.box
+"The Adjuster within us is a perfect guide, and the eternal soul is built on our decisions to break free of fear."
+## 109.title [HINT: La Relación de los Ajustadores con las Criaturas del Universo]
+"Relation of Adjusters to Universe Creatures"
+## 109.b0.ask
+"“If even the Adjuster, a fragment of God, grows through experience together with us, what in that partnership remains forever?”"
+## 109.b1.h
+"Overview"
+## 109.b2.p
+"In Paper 108 we saw the Adjuster’s mission: to come within us and shape the soul for eternity. Paper 109 now looks at that relationship from the Adjuster’s side. Surprisingly, the Adjusters too are children of the universe career; while we grow, they gather experience and grow along with us."
+## 109.b3.p
+"As a child prepares for adult life through play, so the indwelling Adjuster plans and rehearses in our minds the activities of the morontia career. Human life is a period of practice that the Adjuster uses to prepare for the greater responsibilities and opportunities of a future life. What the Adjuster labors at within us has less to do with passing earthly affairs than with the realities of the universe career."
+## 109.b4.p
+"How, then, does the Adjuster grow? How do our moods and prejudices hold back its work? And even if we fail, what is never lost?"
+## 109.b6.h
+"The Paper"
+## 109.b7.h [HINT: 1. El Desarrollo de los Ajustadores]
+"1. Development of Adjusters"
+## 109.b8.p
+"Actual living experience has no cosmic substitute. The divine perfection of a newly formed Adjuster does not give it experienced skill in ministry. So the Adjusters too must gain experience and evolve from less experienced to more experienced groups. When a mortal subject fails to survive, the Adjuster returns to Divinington and receives an extended course of training built on that experience."
+## 109.b9.p
+"Whether or not their subjects survive, Adjusters gain skill and ability from every contact, and they are equal partners with the human mind in the evolution of the immortal soul. While we evolve inward and upward from man to God, the Adjusters evolve outward and downward from God to man."
+## 109.b10.t
+[["Direction of evolution", "Who"], ["From man to God — inward and upward", "The mortal"], ["From God to man — outward and downward", "The Adjuster"], ["The being born of their union", "The son of man and the son of God"]]
+## 109.b11.h [HINT: 2. Los Ajustadores Autoactuantes]
+"2. Self-Acting Adjusters"
+## 109.b12.p
+"Besides the classification by experience, there is a functional classification: the self-acting Adjusters. In matters not involving the human they indwell, these Adjusters show a marked degree of will, and they take part in many activities of the realm."
+## 109.b13.t
+[["How an Adjuster becomes self-acting", "What it means"], ["1. Accumulated experience", "Has gained experience on loan worlds, or with a subject who failed of survival"], ["2. Balance of spiritual power", "Indwells a human who has made the third circle and has a personal guardian"], ["3. Betrothal", "Its subject has made the supreme decision and is solemnly betrothed to the Adjuster"], ["4. Reserve corps of destiny", "Its subject has been mustered into a reserve corps of destiny"], ["5. Temporary detachment", "Has left the mind during sleep for some extrahuman service"], ["6. Service in crisis", "Has served in a human who was the material complement of a spirit personality"]]
+## 109.b14.p
+"The Adjuster is not a biological part of mortal life but a divine superimposition on it, so it can leave the body at will. Yet once it has begun its indwelling, it very rarely leaves, even for a short time. Adjusters who have completed their tasks and only wait for the dissolution of the body or the translation of the soul are called superacting Adjusters."
+## 109.b15.h [HINT: 3. La Relación de los Ajustadores con los Tipos Mortales]
+"3. Relation of Adjusters to Mortal Types"
+## 109.b16.p
+"The work of Adjusters varies with their assignments, yet on the whole it is remarkably uniform — more so than the duties of any order of celestial beings. Depending on the type of world, Adjusters indwell mortals in three different ways."
+## 109.b17.t
+[["Type of world", "The Adjuster’s indwelling", "Mortal survival"], ["Series one group", "Chiefly for the Adjuster’s own experiential training", "Many survive as Spirit-fused ascenders"], ["Series two group", "Loaned for one lifetime, giving greater help", "Eternal life through Spirit fusion"], ["Series three group (Urantia)", "A real betrothal, a life and death engagement", "Eternal fusion of man and Adjuster"]]
+## 109.b18.p
+"Among the early races of Urantia, people differed in their capacity to receive Adjusters; those on the borderline could be indwelt only on their own personal petition. And virgin Adjusters who indwelt beings with almost no chance of survival still gained valuable preliminary experience that fitted them for service on other worlds. Nothing of survival value is ever lost in all the wide universe."
+## 109.b19.h [HINT: 4. Los Ajustadores y la Personalidad Humana]
+"4. Adjusters and Human Personality"
+## 109.b20.p
+"Animals share feelings but do not pass on ideas and ideals to one another. The higher forms of intellectual exchange and spiritual communion between human beings are greatly helped by the indwelling Adjusters. The Adjuster is not a personality, but it comes from the source of personality, and so it enriches the quality of human personality. Many of the great intellectual and spiritual leaders of Urantia exerted their influence chiefly because of the experience of their indwelling Adjusters."
+## 109.b21.p
+"If the Adjusters were withdrawn, the world would slowly slip back into the practices of primitive times; the Adjusters are one of the real potentials of advancing civilization. The author has observed a marvelous Adjuster who had previously indwelt fifteen minds in Orvonton. What others lost by refusing to survive, this human being — and the whole world — now gains."
+## 109.b22.h [HINT: 5. Los Obstáculos Materiales Que Encuentran los Ajustadores al Residir Dentro de los Mortales]
+"5. Material Handicaps to Adjuster Indwelling"
+## 109.b23.p
+"When the mind flows freely in the channels of creative imagination, or during sleep, the Adjuster can redirect the flow of ideas to bring about deep spiritual changes. At times we may even become partly conscious of the divine voice that continually speaks within us. But unsteady and shifting mental attitudes, preconceived opinions, settled ideas, and long-standing prejudices greatly hold back the Adjuster’s work."
+## 109.b24.t
+[["What helps the Adjuster", "What hinders the Adjuster"], ["Creative imagination flowing in controlled channels", "Unsteady and rapidly shifting mental attitudes"], ["Recognizing each thought and experience for what it really is", "Preconceived opinions and settled ideas"], ["Spiritual allegiance to one master", "Long-standing prejudices"]]
+## 109.b25.p
+"The great problem of life is to adjust our inherited tendencies to the spiritual urges awakened by the Adjuster. In this present life we must become skilled in the art of human compromise while giving our spiritual allegiance to but one master. Yet in a normal mind no hereditary handicap ever prevents final spiritual achievement. Heredity can slow the pace, but it cannot stop the ascent from being completed."
+## 109.b27.h [HINT: 6. La Persistencia de los Valores Verdaderos]
+"6. The Persistence of True Values"
+## 109.b28.p
+"Adjusters never fail, and nothing worth surviving is ever lost. Even if a mortal rejects survival, the Adjuster carries the worth-while values of that life to another world and bestows them on another mind. An Adjuster personalized after repeated nonsurvival becomes a composite assembly of the survival traits of all its former hosts."
+## 109.b29.p
+"The activities of Adjusters in Nebadon are directed by the Personalized Adjuster of Michael — the very Monitor who guided him step by step when he lived as Joshua ben Joseph. This Adjuster had earlier served with Machiventa Melchizedek. It truly triumphed in Jesus’ human mind, which in every situation of life kept a consecrated dedication to the Father’s will: “⟦Q 109:6.5|111:5.6|136:4.4⟧Not my will, but yours, be done.⟦/Q⟧”"
+## 109.b31.h [HINT: 7. El Destino de los Ajustadores Personalizados]
+"7. Destiny of Personalized Adjusters"
+## 109.b32.p
+"As far as we know, a Father fragment of the Adjuster type attains personality only through service-ministry to a personal being. Personalized Adjusters live on Divinington, where they instruct their prepersonal associates. They combine Creator and creature experience, and they are the sovereign stabilizers and compensators of the universe of universes."
+## 109.b33.t
+[["Marks of a Personalized Adjuster", "What it means"], ["Omnipersonal", "Before personality, personality, and after personality"], ["Executives of the Master Architects", "Personal agents of the full ministry of the Universal Father"], ["Destiny", "The superpersonal ministry of the Ultimate and beyond"]]
+## 109.b34.p
+"Not long ago, when a Most High assumed an emergency regency of Urantia, three Personalized Adjusters appeared in his presence uncalled and of their own will, and they were among the most active of all the celestial beings then serving on Urantia. No one dares to predict what the future missions of these extraordinary human divinities may be."
+## 109.b35.h
+"Conclusion"
+## 109.b36.p
+"Paper 109 shows that our relationship with the Adjuster is not one-sided help. The Adjuster, a fragment of God, also grows through experience with us; while we climb upward, it comes downward, and at last the two become one. Our prejudices and fixed ideas can slow its work, and heredity can slow our pace, but neither can stop the ascent from being completed. And no true value gained along the way is ever lost. As Jesus again and again consecrated himself with “⟦Q 111:5.6|118:8.11|135:5.2⟧your will be done,⟦/Q⟧” so our own decisive consecration is the true passport to eternity."
+## 109.b37.t
+[["Section", "Key message"], ["1. Development of Adjusters", "The Adjuster grows with us through experience"], ["2. Self-Acting Adjusters", "Experienced Adjusters also take part in the affairs of the realm"], ["3. Relation of Adjusters to Mortal Types", "On Urantia, a life and death betrothal leads to eternal fusion"], ["4. Adjusters and Human Personality", "The Adjuster enriches human personality and civilization"], ["5. Material Handicaps to Adjuster Indwelling", "Prejudice slows it down, but heredity cannot stop the ascent"], ["6. The Persistence of True Values", "Nothing worth surviving is ever lost"], ["7. Destiny of Personalized Adjusters", "Personalized Adjusters serve the Father as omnipersonal beings"]]
+## 109.b38.h
+"Key Points of Paper 109"
+## 109.b39.box
+"True values are never lost, and decisive consecration to the Father’s will is our passport to eternity."
