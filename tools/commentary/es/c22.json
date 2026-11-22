@@ -582,7 +582,7 @@
   ]
  },
  "p162.s1.b3": "Quienes lo oían estaban divididos. Unos lo llamaban hombre bueno, profeta, el verdadero Mesías; otros lo denunciaban como un alborotador que extraviaba al pueblo. Sus enemigos temían denunciarlo abiertamente por la multitud creyente, y sus amigos temían reconocerlo abiertamente por los dirigentes. Sin embargo, incluso sus enemigos, que sabían que nunca había estudiado en las escuelas rabínicas, se maravillaban de su enseñanza.",
- "p162.s1.b4": "Su sola presencia en Jerusalén en la fiesta de los tabernáculos puso fin para siempre al rumor de que había huido a Fenicia por temor. El texto dice que esta enseñanza en el pórtico de Salomón y en los patios del templo fue, en efecto, el anuncio formal de la divinidad de Jesús al pueblo judío y al mundo. A medida que los apóstoles lo oían hablar cada día con mayor audacia, sus temores no hacían sino crecer.",
+ "p162.s1.b4": "Su sola presencia en Jerusalén en la fiesta de los tabernáculos puso fin para siempre al rumor de que había huido a Fenicia por temor. El texto dice que esta enseñanza en el logia de Salomón y en los patios del templo fue, en efecto, el anuncio formal de la divinidad de Jesús al pueblo judío y al mundo. A medida que los apóstoles lo oían hablar cada día con mayor audacia, sus temores no hacían sino crecer.",
  "p162.s2.h": "II. El Primer Discurso en el Templo — Eber vuelve con las manos vacías",
  "p162.s2.b0": "Cuando le preguntaron cómo podía enseñar con tanta elocuencia sin haber estudiado con los rabinos, Jesús respondió que su enseñanza no era suya, sino de Aquel que lo había enviado. Y situó la prueba de esa enseñanza no en el conocimiento, sino en la voluntad.",
  "p162.s2.b2": "Explicó que los dirigentes buscaban matarlo a causa de un evangelio que libera a las personas de la religión formal y ceremonial y de la pesada tradición, y les pidió que no juzgaran por las apariencias, sino por el verdadero espíritu de su enseñanza. Luego habló sin malicia a Eber, el oficial del sanedrín enviado a arrestarlo, invitándolo a no tener miedo de acercarse.",
@@ -648,7 +648,7 @@
  "p162.s5.b4": "En el gran día de la fiesta, justo después de que los sacerdotes derramaran el agua y el vino sobre el altar, Jesús proclamó en voz alta que quien tuviera sed acudiera a él y bebiera. No interrumpió la ceremonia; habló en el breve intervalo en que se terminaba el Hallel y se preparaban las ofrendas. Lo que prometió fue el Espíritu de la Verdad, que se derramaría sobre toda la carne una vez terminada su obra en la tierra.",
  "p162.s5.b6": "Jesús reconoció que sus padres habían hecho bien en simbolizar el derramamiento del espíritu, pero preguntó por qué querían regar su alma con las tradiciones de los hombres, vertidas de los cántaros rotos del servicio ceremonial. El sentido del discurso es honrar el símbolo, pero seguir adelante hasta la realidad que señala.",
  "p162.s6.h": "VII. El Discurso Sobre la Libertad Espiritual — Antes de que fuera Abraham",
- "p162.s6.b0": "La tarde del último día, Jesús dijo a los creyentes reunidos en el pórtico de Salomón que la verdad los haría libres. La libertad a la que se refería no era la liberación exterior del dominio de otro, sino la libertad del alma.",
+ "p162.s6.b0": "La tarde del último día, Jesús dijo a los creyentes reunidos en el logia de Salomón que la verdad los haría libres. La libertad a la que se refería no era la liberación exterior del dominio de otro, sino la libertad del alma.",
  "p162.s6.b2": {
   "head": [
    "Contraste",
@@ -912,5 +912,486 @@
    ]
   ]
  },
- "p163.s7.b2": "En el documento siguiente, el documento 164, «En la Fiesta de la Consagración del Templo», Jesús sube de nuevo a Jerusalén y afronta una tormenta de controversia después de curar a un hombre ciego de nacimiento."
+ "p163.s7.b2": "En el documento siguiente, el documento 164, «En la Fiesta de la Consagración del Templo», Jesús sube de nuevo a Jerusalén y afronta una tormenta de controversia después de curar a un hombre ciego de nacimiento.",
+ "p164.lead": "Una oportunidad más para que el sanedrín vea la luz: la historia del buen samaritano, la reunión en casa de Nicodemo y la curación del pordiosero ciego Josías y su valiente testimonio.",
+ "p164.foot": {
+  "text": "Narrado por el ser intermedio secundario previamente asignado al apóstol Andrés",
+  "ref": "121:0.1"
+ },
+ "p164.s0.h": "Introducción — Una oportunidad más",
+ "p164.s0.b0": "Mientras se establecía el campamento de Pella, Jesús subió en secreto a la fiesta de la consagración, llevando consigo solo a Natanael y a Tomás. Los dos apóstoles no se dieron cuenta de adónde iba hasta que cruzaron el Jordán, y emplearon todos los argumentos para disuadirlo, señalando la locura y el peligro de ponerse en manos del sanedrín. Su respuesta nunca cambió.",
+ "p164.s0.b2": "Si la visita a la fiesta de los tabernáculos había sido para los peregrinos de todo el imperio, esta visita tenía un solo propósito: dar al sanedrín y a los dirigentes judíos otra oportunidad de ver la luz. Aunque esperaba que la mayoría de ellos no aceptaría el evangelio, dio a cada uno una oportunidad más de elegir. Este documento muestra un amor que no cierra la puerta ni siquiera a quienes espera que la rechacen.",
+ "p164.s1.h": "I. La Historia del Buen Samaritano — ¿Quién resultó ser el prójimo?",
+ "p164.s1.b0": "Una noche, mientras se alojaban en Jericó, un abogado preguntó cómo heredar la vida eterna. Jesús le hizo enunciar a él mismo los dos mandamientos de amor de la ley, y respondió que si de verdad hacía estas cosas, alcanzaría la vida eterna. Entonces el abogado preguntó quién era su prójimo. Era una trampa destinada a sacarle a Jesús una afirmación contraria a la ley judía, que limitaba el prójimo al propio pueblo.",
+ "p164.s1.b1": "En vez de caer en la trampa, Jesús relató una historia que cualquier público de Jericó apreciaría plenamente. Un sacerdote y un levita pasaron de largo junto a un hombre al que unos bandidos habían dejado medio muerto, mientras que un samaritano vendó sus heridas, lo llevó a un mesón e incluso pagó por su cuidado.",
+ "p164.s1.b2": {
+  "head": [
+   "Quién pasó",
+   "Qué hizo",
+   "Significado en la historia"
+  ],
+  "rows": [
+   [
+    "El sacerdote",
+    "Vio su situación y pasó de largo por el otro lado del camino",
+    "Un cargo religioso no hace de nadie un prójimo"
+   ],
+   [
+    "El levita",
+    "Vio al hombre y pasó de largo por el otro lado",
+    "Conocer la ley no es lo mismo que la misericordia"
+   ],
+   [
+    "El samaritano",
+    "Movido a compasión, vendó sus heridas y lo cuidó en el mesón",
+    "El despreciado resultó ser el verdadero prójimo"
+   ]
+  ]
+ },
+ "p164.s1.b3": "El abogado, que no quería ni siquiera pronunciar la palabra «samaritano», respondió: «⟦Q 164:1.3⟧El que fue misericordioso para con él⟦/Q⟧». Así dio él mismo la respuesta que, dicha por Jesús, habría servido de fundamento para una acusación de herejía. El texto juzga la historia como una hermosa exhortación a los seguidores de Jesús y una reprensión asombrosa a los judíos por su actitud hacia los samaritanos.",
+ "p164.s1.b5": "Esta breve historia trasladó la definición de prójimo de los límites de la sangre y la religión al terreno de los hechos. El texto añade que desde entonces ha fomentado el amor fraternal entre todos los que han creído en el evangelio de Jesús. Mientras quien preguntaba sopesaba quién reunía las condiciones de prójimo, la historia pedía al oyente que llegara a serlo.",
+ "p164.s2.h": "II. En Jerusalén — La reunión en casa de Nicodemo",
+ "p164.s2.b0": "El acontecimiento principal de esta visita tuvo lugar el viernes por la noche en la casa de Nicodemo. Allí se reunieron unos veinticinco dirigentes judíos que creían en Jesús, catorce de ellos miembros actuales o recientes del sanedrín. Eber, Matadormo y José de Arimatea se contaban entre ellos.",
+ "p164.s2.b1": "Ante este público culto, Jesús desplegó, por primera vez desde sus enseñanzas en Alejandría y Roma, su amplia erudición y su comprensión de los asuntos humanos. Ellos propusieron maneras de ganarse al resto del sanedrín, pero Jesús solo escuchaba en silencio. A la sugerencia de que se presentaran juntos ante los setenta, respondió que eso solo atraería la ira sobre sus cabezas, y les dijo que cada uno obrara según lo guiara el espíritu.",
+ "p164.s2.b2": "Al terminar la reunión, todos los presentes percibieron algo misterioso en la personalidad del Maestro, quedaron cautivados por su trato bondadoso y llegaron a amarlo. Sin embargo, cuando Jesús se fue a pasar la noche al monte de los Olivos, aún no había decidido cómo llevar su obra una vez más a la atención del sanedrín. El camino se presentó a la mañana siguiente, cerca del templo, de forma inesperada.",
+ "p164.s3.h": "III. La Curación del Pordiosero Ciego — No a causa del pecado",
+ "p164.s3.b0": "La mañana del sábado, cerca del templo, Jesús vio a Josías, un pordiosero ciego de nacimiento, y en ese momento se le ocurrió la manera de llevar una vez más su misión ante los dirigentes. Natanael preguntó de quién era el pecado que había causado la ceguera de este hombre. En aquel tiempo circulaban muchas nociones que veían en un defecto de nacimiento el resultado del pecado.",
+ "p164.s3.b1": {
+  "head": [
+   "Creencia de la época",
+   "La explicación del texto"
+  ],
+  "rows": [
+   [
+    "El pecado del padre",
+    "Un niño podía nacer ciego como castigo por algún pecado particular de su padre"
+   ],
+   [
+    "El pecado antes de nacer",
+    "Un niño podía pecar él mismo antes de venir al mundo"
+   ],
+   [
+    "El pecado de la madre",
+    "Los defectos podían resultar del pecado o de los excesos de la madre mientras llevaba al niño"
+   ],
+   [
+    "La reencarnación",
+    "La teoría de que en esta vida se cosecha lo sembrado en una vida anterior"
+   ],
+   [
+    "Una práctica contradictoria",
+    "Aunque se pensaba que la ceguera era resultado del pecado, dar limosna a los ciegos se consideraba noble"
+   ]
+  ]
+ },
+ "p164.s3.b3": "Jesús dejó en claro que la ceguera se había producido por el curso natural de los acontecimientos. Advirtió repetidamente a sus apóstoles que buscaran las verdaderas causas de todos los fenómenos y evitaran la tendencia a atribuir causas espirituales a los sucesos físicos ordinarios. Esta negativa a marcar a una persona que sufre con el estigma del pecado es una corrección importante también para el lector de hoy.",
+ "p164.s3.b4": "Hizo barro con saliva, lo puso sobre los ojos de Josías y le dijo que se lavara en el estanque de Siloé. Josías no había pedido ser curado y su fe era débil, pero, como había oído la conversación y tomaba a este hombre por un gran maestro o profeta, hizo lo que se le dijo. El texto da tres razones para este uso de medios materiales.",
+ "p164.s3.b5": {
+  "head": [
+   "Razón",
+   "Explicación"
+  ],
+  "rows": [
+   [
+    "Primera",
+    "No era una respuesta a la fe individual, sino un acto que Jesús eligió por sí mismo, dispuesto de modo que el hombre recibiera un beneficio duradero"
+   ],
+   [
+    "Segunda",
+    "Alentar a un hombre que no había pedido nada y cuya fe era débil: la ceremonia bastaba justo para impulsarlo a actuar"
+   ],
+   [
+    "Tercera",
+    "Enseñar a sus seguidores a no despreciar ni descuidar los medios materiales en la curación de los enfermos, ni a considerar los milagros como el único método de curación"
+   ]
+  ]
+ },
+ "p164.s3.b7": "Como siempre había sido pordiosero, Josías volvió a su lugar habitual de pedir limosna una vez pasado el primer entusiasmo de su nueva vista. Cuando los vecinos se preguntaban en voz baja si de verdad era el pordiosero, él respondía que sí, pero que no sabía dónde estaba el hombre que lo había curado. Todavía no conocía el significado de mucho de lo que veía. Había recibido la gracia, pero aún no comprendía lo que significaba.",
+ "p164.s3.b9": "El propósito principal de este acto era un desafío abierto al sanedrín y a los dirigentes religiosos, una declaración pública de la ruptura con los fariseos. Por eso, por la tarde, Jesús envió a los dos apóstoles a Josías para suscitar deliberadamente una controversia, de manera que los fariseos no pudieran dejar de fijarse en el milagro.",
+ "p164.s4.h": "IV. Josías Ante el Sanedrín — Un testimonio que crece",
+ "p164.s4.b0": "El sanedrín convocó su consejo violando su propia norma de no reunirse en sábado. Jesús había esperado comparecer ante ellos por una curación en sábado para poner en evidencia precisamente este punto, pero tuvieron miedo de citarlo y llamaron solo a Josías. La reunión cayó pronto en la división. A la afirmación de que quien no guarda el sábado no puede venir de Dios, los miembros más jóvenes que creían en secreto respondieron con preguntas incisivas.",
+ "p164.s4.b1": "Sus padres, al ser citados, temieron la excomunión; admitieron solamente que su hijo había nacido ciego y dijeron al consejo que se lo preguntaran a él, ya que era mayor de edad. La excomunión significaba perder todo derecho en la sociedad judía, salvo el de comprar lo necesario para vivir. Llamado de nuevo, Josías no cedió a la presión para declarar pecador a Jesús.",
+ "p164.s4.b3": "Cuando se repitieron las mismas preguntas, Josías preguntó si ellos también querían hacerse sus discípulos y, por último, de pie sobre un taburete, gritó que si este hombre no viniera de Dios, no podría haber hecho esto. Los dirigentes lo expulsaron de la sinagoga. El texto dice que la mayor parte de su sabio y valiente testimonio fue creciendo en su mente mientras se desarrollaba el injusto juicio.",
+ "p164.s4.b4": {
+  "head": [
+   "Etapa",
+   "Lo que Josías dijo de Jesús"
+  ],
+  "rows": [
+   [
+    "Justo después de la curación",
+    "«Un hombre llamado Jesús» hizo arcilla y le mandó lavarse (164:3.10)"
+   ],
+   [
+    "Primer interrogatorio",
+    "«Creo que es un profeta» (164:4.4)"
+   ],
+   [
+    "Llamado de nuevo",
+    "«Una cosa sí sé»: se mantuvo firme en el hecho de que ahora veía (164:4.9)"
+   ],
+   [
+    "De pie sobre el taburete",
+    "Si este hombre no viniera de Dios, no podría hacer esto (164:4.11)"
+   ],
+   [
+    "Al encontrarse de nuevo con Jesús",
+    "«Señor, yo creo» (164:5.4)"
+   ]
+  ]
+ },
+ "p164.s5.h": "V. La Enseñanza en la Logia de Salomón — Mis ovejas oyen mi voz",
+ "p164.s5.b0": "Mientras se reunía el sanedrín, Jesús enseñó durante más de dos horas, muy cerca de allí, en la logia de Salomón, a una multitud en pleno invierno. Había esperado ser citado para poder proclamar la libertad y el gozo de la filiación divina, pero tuvieron miedo incluso de llamarlo como testigo. Cuando lo desafiaron a decir claramente si era el Mesías, respondió que las obras que hacía en nombre de su Padre daban testimonio de él.",
+ "p164.s5.b2": "Cuando dijo que él y el Padre eran uno, algunos corrieron a buscar piedras. Preguntó por cuál de sus buenas obras querían apedrearlo, y les dijo que si no podían creerle a él, por lo menos creyeran en las obras. Luego declaró que, así como el Padre moraba en él, así moraría él en todos los que creyeran el evangelio.",
+ "p164.s5.b4": "Solo cuando Jesús oyó que Josías había sido expulsado de la sinagoga fue a buscarlo y le preguntó si creía en el Hijo de Dios. Josías cayó de rodillas, confesó su fe y lo adoró, y se sintió muy alentado cuando se le dijo que fuera con ellos al campamento de Pella. Pasó el resto de su vida como predicador del evangelio del reino.",
+ "p164.s6.h": "Conclusión — Vivir este documento",
+ "p164.s6.b0": "En el documento 164 Jesús da a los dirigentes otra oportunidad aunque sabe que la rechazarán, y elige como instrumento a un hombre del lugar más bajo de la sociedad. Un abogado que intentaba estrechar el círculo de los prójimos terminó dando él mismo la respuesta más amplia, y un pordiosero ciego dijo la verdad ante el tribunal con más claridad que los eruditos. El documento muestra que la fe no llega completa desde el principio; crece a medida que es probada.",
+ "p164.s6.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la sustenta"
+  ],
+  "rows": [
+   [
+    "No preguntar «¿Quién es mi prójimo?», sino «¿De quién puedo hacerme prójimo?»",
+    "El buen samaritano (164:1.3)"
+   ],
+   [
+    "No marcar a una persona que sufre con el estigma del pecado",
+    "Ni este hombre pecó, ni sus padres (164:3.7)"
+   ],
+   [
+    "Buscar las verdaderas causas de los sucesos y no asignar precipitadamente causas espirituales",
+    "Buscar las verdaderas causas (164:3.6)"
+   ],
+   [
+    "No descuidar los medios materiales de curación",
+    "La tercera razón (164:3.15)"
+   ],
+   [
+    "Aun sin saberlo todo, dar testimonio honesto de lo único que se sabe",
+    "La respuesta de Josías (164:4.9)"
+   ],
+   [
+    "Buscar a los rechazados y ponerse de su lado",
+    "Jesús va a buscar a Josías (164:5.4)"
+   ]
+  ]
+ },
+ "p164.s6.b2": "En el documento siguiente, el documento 165, «Comienza la Misión de Perea», Jesús establece en Pella su centro de operaciones e inicia su última misión.",
+ "p165.lead": "Una última misión sin milagros: la enseñanza en el campamento de Pella, el sermón del buen pastor, la fe sin temor y las palabras sobre la riqueza y la vigilancia.",
+ "p165.foot": {
+  "text": "Narrado por el ser intermedio secundario previamente asignado al apóstol Andrés",
+  "ref": "121:0.1"
+ },
+ "p165.s0.h": "Introducción — El último ministerio del Maestro",
+ "p165.s0.b0": "El 3 de enero del año 30 d. de J.C., Abner, jefe de los setenta, dio a sus asociados las instrucciones finales antes de enviarlos a las ciudades y aldeas de Perea. Esta misión de Perea duró casi tres meses y fue el último ministerio del Maestro; cuando terminó, Jesús fue directamente a Jerusalén para pasar por sus experiencias finales en la carne. Los setenta trabajaron en treinta y cinco ciudades y pueblos y en unas cincuenta aldeas.",
+ "p165.s0.b1": "El texto precisa el carácter de este período. No hubo milagros, y la mayor parte del ministerio a los enfermos estuvo a cargo del cuerpo de mujeres, que ya contaba con sesenta y dos miembros. Perea, mitad gentil y mitad judía, era la región más bella de Palestina; fue trabajada más a fondo que ninguna otra, y los mejores grupos de sus ciudadanos aceptaron ampliamente las enseñanzas del Maestro.",
+ "p165.s0.b2": {
+  "head": [
+   "Rasgo de la misión de Perea",
+   "La explicación del texto"
+  ],
+  "rows": [
+   [
+    "Duración",
+    "Casi tres meses: el último ministerio del Maestro"
+   ],
+   [
+    "Trabajadores",
+    "Los setenta bajo la dirección de Abner, reforzados periódicamente por Jesús y los doce"
+   ],
+   [
+    "Ministerio a los enfermos",
+    "A cargo, en su mayor parte, de los sesenta y dos miembros del cuerpo de mujeres"
+   ],
+   [
+    "Carácter",
+    "Un período final en el que se desarrollaron los aspectos espirituales más elevados; no se realizaron milagros"
+   ],
+   [
+    "Bautismo",
+    "Administrado a todos los creyentes por instrucciones de Abner, no por mandato de Jesús"
+   ]
+  ]
+ },
+ "p165.s1.h": "I. En el Campamento de Pella — Elegir terminar en la cumbre",
+ "p165.s1.b0": "A mediados de enero se habían reunido en Pella más de mil doscientas personas. Jesús solía enseñar a la multitud a las nueve de la mañana, los apóstoles enseñaban por la tarde, y por la noche él celebraba sesiones de preguntas y respuestas con unos cincuenta discípulos avanzados. A mediados de marzo, su público de la mañana superaba las cuatro mil personas.",
+ "p165.s1.b1": "El texto dice que Jesús decidió poner fin a su obra en la tierra cuando el interés en su mensaje estaba en su cumbre, el punto más alto alcanzado en la segunda fase, no milagrosa, de su ministerio. Tres cuartas partes de la multitud eran buscadores de la verdad, pero entre ellos había mezclados fariseos y criticones. Una vez que Abner y los setenta partieron a su misión, no volvieron nunca más a Pella.",
+ "p165.s2.h": "II. El Sermón del Buen Pastor — A la vez puerta y pastor",
+ "p165.s2.b0": "Después de la fiesta de la consagración, más de trescientos fariseos y otras personas siguieron a Jesús de Jerusalén a Pella. Estando presentes amigos y enemigos, dijo que hablaría en parábolas y que cada uno tomara lo que hallara acogida en su propio corazón. Señaló que el pecado de los maestros que pretenden ver permanece sobre ellos.",
+ "p165.s2.b1": {
+  "head": [
+   "Figura de la parábola",
+   "Cómo actúa",
+   "Qué sucede después"
+  ],
+  "rows": [
+   [
+    "El pastor verdadero",
+    "Entra por la puerta; las ovejas conocen su voz",
+    "Las ovejas lo siguen"
+   ],
+   [
+    "El ladrón y salteador",
+    "Se mete en el redil por otro lado que no es la puerta",
+    "Solo busca robar, matar y destruir"
+   ],
+   [
+    "El asalariado",
+    "Huye cuando surge el peligro",
+    "Las ovejas se dispersan y son destruidas"
+   ],
+   [
+    "El falso pastor",
+    "Pretende ver, pero no puede alimentar a las ovejas",
+    "Las ovejas no conocen su voz"
+   ]
+  ]
+ },
+ "p165.s2.b2": "Jesús dijo que quien quiera ser ayudante del pastor debe conducir el rebaño a los pastos verdes y a las aguas calmas. Luego declaró que él era a la vez la puerta del redil y el pastor verdadero, que no huiría frente al peligro y que completaría el servicio de cumplir la voluntad de su Padre.",
+ "p165.s2.b4": "Añadió que tenía otras ovejas que no eran de este redil, y que estas palabras no se referían solo a este mundo. Todos llegarían a conocer la voz de un solo pastor y serían conducidos a una sola hermandad de los hijos de Dios. Dijo también que nadie podía quitarle la vida; él tenía el poder tanto de darla como de tomarla de nuevo.",
+ "p165.s2.b6": "Los fariseos lo declararon loco y salieron en la noche, pero algunos de los maestros de Jerusalén dijeron que hablaba como quien tiene autoridad. Al día siguiente, cerca de la mitad de aquellos maestros profesaron su creencia en Jesús.",
+ "p165.s3.h": "III. El Sermón del Sábado en Pella — Confianza y preparación espiritual",
+ "p165.s3.b0": "El 28 de enero, ante casi tres mil personas, Jesús predicó sobre «⟦Q 165:3.1⟧Confianza y preparación espiritual⟦/Q⟧». Les advirtió que se guardaran de la levadura de los fariseos, que es la hipocresía, nacida del prejuicio y alimentada por la tradición, aunque añadió que muchos de los fariseos eran de corazón honesto. Y les dijo que no temieran a los que solo pueden matar el cuerpo.",
+ "p165.s3.b2": "Ni un solo pajarillo existe sin el conocimiento del Padre, y para los guardianes seráficos hasta los cabellos de nuestra cabeza están numerados. Advirtió también que el rebelde deliberado que a sabiendas atribuye las obras de Dios a las fuerzas del mal difícilmente buscará el perdón. Y prometió que, cuando fueran llevados ante las altas autoridades, el espíritu que reside en ellos les enseñaría lo que debían decir.",
+ "p165.s3.b5": "Estas palabras muestran de manera concisa cómo encajan la invitación de Dios y la respuesta del hombre. El Padre jamás obliga a nadie a entrar en el reino. A quien se demora en el valle de la indecisión, lo único que le falta es su propio consentimiento.",
+ "p165.s3.b6": "Cuando terminó el sermón, muchos bajaron al Jordán para ser bautizados por los apóstoles. La enseñanza de dejar a un lado el temor condujo enseguida a la decisión. Mientras tanto, Jesús siguió enseñando y escuchando las preguntas de los que se quedaban.",
+ "p165.s4.h": "IV. La División de la Herencia — Rico para con Dios",
+ "p165.s4.b0": "Mientras los apóstoles bautizaban, un joven pidió a Jesús que hiciera que su hermano compartiera con él una herencia. Jesús preguntó quién lo había puesto de divisor entre ellos y luego dijo a todos que se guardaran de la codicia. No se inmiscuía ni siquiera en los asuntos temporales de sus propios apóstoles. Sin embargo, aprovechó la pregunta como ocasión para una enseñanza más profunda.",
+ "p165.s4.b2": "Contó la historia de un hombre rico que derribó sus graneros para construir otros más grandes, almacenó sus bienes y pensó en descansar. Esa misma noche unos bandidos lo mataron, saquearon y quemaron sus graneros, y sus herederos se pelearon por lo que quedaba. Había acumulado tesoros en la tierra, pero no era rico para con Dios.",
+ "p165.s4.b3": "Cuando le preguntaron si era pecado poseer riqueza honesta, Jesús respondió que la riqueza honorable no es pecado. Pero cuando la riqueza se convierte en un tesoro que absorbe los intereses y desvía el afecto de los asuntos espirituales, es pecado. Señaló la ciudad de tiendas de David Zebedeo, que se mantenía gracias a las contribuciones de personas generosas.",
+ "p165.s4.b5": {
+  "head": [
+   "Tres preguntas para quienes tienen riqueza",
+   "Sobre qué reflexionar"
+  ],
+  "rows": [
+   [
+    "1. ¿Cuánta riqueza has acumulado?",
+    "¿Se ha convertido el acumular en un fin en sí mismo?"
+   ],
+   [
+    "2. ¿Cómo obtuviste esta riqueza?",
+    "¿Se ganó de manera honesta y honorable?"
+   ],
+   [
+    "3. ¿Cómo usaste tu riqueza?",
+    "¿Se compartió con espíritu de administrador y no de avaricia?"
+   ]
+  ]
+ },
+ "p165.s4.b6": "Antes, al joven le había parecido que Jesús lo trataba con dureza, y mientras los demás presenciaban los bautismos volvió a verlo en privado. Jesús lo escuchó de nuevo y le dijo que el tribunal de la sinagoga administraría con justicia las leyes de la herencia. Su propia obra, dijo, era dar a conocer la herencia celestial, y exhortó al joven a no ceder a la codicia en un día en que podía comer el pan de la vida. Su pregunta de despedida fue breve y de mucho peso.",
+ "p165.s4.b8": "El texto deja claro que Jesús no enseñó ni toleró la imprevisión, la ociosidad, la indiferencia ante las necesidades de la propia familia ni la dependencia de las limosnas. Enseñó que las cosas materiales deben estar subordinadas al bienestar del alma y al progreso de la naturaleza espiritual. A uno que preguntó por el juicio de los ricos y de los pobres, le respondió que la vida que viven los hombres será el juez de todos.",
+ "p165.s5.h": "V–VI. Las Conversaciones con los Apóstoles Sobre la Riqueza; La Respuesta a la Pregunta de Pedro — El administrador vigilante",
+ "p165.s5.b0": "Esa noche, a petición de Andrés, Jesús habló a los apóstoles sobre el mismo tema, pero dijo que sus palabras para ellos debían ser distintas de las dirigidas a la multitud, puesto que ellos lo habían dejado todo para ser ordenados embajadores del reino. Señalando a los cuervos y a los lirios, les dijo que no se afanaran por lo que habrían de comer o vestir.",
+ "p165.s5.b1": {
+  "head": [
+   "Quiénes",
+   "Lo que dijo Jesús sobre su sustento"
+  ],
+  "rows": [
+   [
+    "Los apóstoles que dedicaron su vida al evangelio",
+    "Vivirán por el evangelio, y sus necesidades reales serán suministradas; no deben dudar"
+   ],
+   [
+    "Los discípulos creyentes",
+    "Se ganan su propio pan y contribuyen al mantenimiento de los que enseñan y curan"
+   ],
+   [
+    "La multitud en su conjunto",
+    "La riqueza honorable no es pecado, pero cuidad de que la riqueza no se convierta en vuestro amo"
+   ]
+  ]
+ },
+ "p165.s5.b3": "Mirando hacia las duras pruebas que se avecinaban, les dijo que prepararan su mente y mantuvieran encendidas sus lámparas, porque el Hijo del Hombre partiría en el momento en que menos lo pensaran y de la forma que menos sospecharan. Los doce permanecieron sentados en silencio durante varios minutos. Habían oído antes advertencias semejantes, pero nunca en circunstancias como estas.",
+ "p165.s5.b4": "Cuando Pedro preguntó si esta parábola era solo para los apóstoles, Jesús respondió que confiaría el bienestar de sus hijos al administrador fiel que hubiera resistido la prueba. En cambio, el siervo que piensa que su amo tarda en llegar y comienza a maltratar a sus compañeros será expulsado en deshonra.",
+ "p165.s5.b7": "Jesús dijo con franqueza que su misión no traería paz a los asuntos materiales de los hombres, al menos no por un tiempo. El evangelio causaría división incluso dentro de las familias. Sin embargo, cada creyente tendría una paz grande y duradera en su propio corazón, y aun así debían proclamar este evangelio a todo el mundo.",
+ "p165.s6.h": "Conclusión — Vivir este documento",
+ "p165.s6.b0": "El documento 165 abre el período en el que, desaparecidos los milagros, la enseñanza se hace más profunda. Como pastor, Jesús guarda a las ovejas, y enseña la confianza en lugar del temor, el tesoro celestial en lugar de las posesiones y la vigilancia en lugar de la complacencia. Al final, estas enseñanzas se reducen a una sola pregunta: ¿qué es lo que gobierna mi vida?",
+ "p165.s6.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la sustenta"
+  ],
+  "rows": [
+   [
+    "Confiar al cuidado del Padre los pequeños temores de cada día",
+    "Los pajarillos y los cabellos de vuestra cabeza (165:3.4)"
+   ],
+   [
+    "Responder a la invitación del Padre con mi propio consentimiento",
+    "Lo segundo no puedo hacerlo sin vuestro consentimiento (165:3.8)"
+   ],
+   [
+    "No medir la vida por la abundancia de los bienes",
+    "La vida no consiste en los bienes (165:4.1)"
+   ],
+   [
+    "Examinar con tres preguntas cómo gano y uso la riqueza",
+    "Las tres preguntas sobre la riqueza (165:4.11)"
+   ],
+   [
+    "Buscar primero las cosas celestiales",
+    "La sombra sigue a la sustancia (165:5.3)"
+   ],
+   [
+    "Vivir como administrador responsable de lo que he recibido",
+    "Mucho se ha dado, mucho se esperará (165:6.3)"
+   ]
+  ]
+ },
+ "p165.s6.b2": "En el documento siguiente, el documento 166, «La Última Visita al Norte de Perea», Jesús visita las ciudades del norte donde trabajan los setenta.",
+ "p166.lead": "Un evangelio que se difunde sin milagros: la mesa de los fariseos en Ragaba, el leproso samaritano que regresó, una nueva lectura de la puerta angosta, los accidentes y la providencia, y Abner en Filadelfia.",
+ "p166.foot": {
+  "text": "Narrado por el ser intermedio secundario previamente asignado al apóstol Andrés",
+  "ref": "121:0.1"
+ },
+ "p166.s0.h": "Introducción — Un evangelio que refleja sus enseñanzas más que su personalidad",
+ "p166.s0.b0": "Del 11 al 20 de febrero, Jesús y los doce recorrieron las ciudades y aldeas del norte de Perea donde trabajaban los asociados de Abner y el cuerpo de mujeres. Encontraron que los mensajeros tenían éxito, y Jesús llamó repetidamente la atención de los apóstoles sobre el hecho de que el evangelio del reino podía difundirse sin milagros ni portentos.",
+ "p166.s0.b1": "El texto dice que esta misión de tres meses tuvo éxito con poca ayuda de los doce, y que desde ese momento en adelante el evangelio reflejó sus enseñanzas más que su personalidad. Pero sus seguidores no mantuvieron por mucho tiempo esta orientación. Después de su muerte y resurrección construyeron la iglesia primitiva en torno a conceptos milagrosos y a recuerdos glorificados de su personalidad.",
+ "p166.s1.h": "I. Los Fariseos en Ragaba — Lo de afuera y lo de adentro del vaso",
+ "p166.s1.b0": "El sábado 18 de febrero, Natanael, un rico fariseo de Ragaba, invitó a Jesús como huésped de honor a un desayuno junto con unos veinte fariseos que venían siguiendo la gira. Jesús se sentó enseguida sin lavarse las manos en la vasija. Solo se las lavaba por higiene, y le desagradaban mucho los actos puramente ceremoniales. El anfitrión se horrorizó, y los que estaban al otro lado de la mesa hicieron muecas de desprecio.",
+ "p166.s1.b1": "Jesús observó que lo habían invitado para exhibir su devoción ceremonial a su propia rectitud, y luego reprendió una religión cuyo exterior y cuyo interior no coincidían. Reconoció primero que muchos fariseos eran sus amigos e incluso sus discípulos, pero dejó claro que Dios no mira la piedad exterior, sino los motivos íntimos del alma.",
+ "p166.s1.b3": "Cuando un abogado se quejó de que estas palabras reprochaban también a su clase, Jesús reprendió a los abogados que ponen cargas pesadas sobre la gente sin levantar un dedo y que quitan la llave del conocimiento. No obstante, dijo que las puertas del reino del cielo están abiertas a todos los que tienen fe y que no se cerrarán por el prejuicio y la arrogancia de los falsos instructores. Salió de la casa sin comer.",
+ "p166.s1.b5": {
+  "head": [
+   "Lo que los fariseos guardaban especialmente",
+   "La respuesta de Jesús en esta ocasión"
+  ],
+  "rows": [
+   [
+    "1. El pago estricto del diezmo",
+    "Puso al descubierto su pobreza espiritual: la justicia, la misericordia y la verdad importan más que los deberes menores"
+   ],
+   [
+    "2. La observancia escrupulosa de las leyes de purificación",
+    "Puso al descubierto su pobreza espiritual: lavar lo de afuera mientras se descuida lo de adentro"
+   ],
+   [
+    "3. Evitar el trato con quienes no eran fariseos",
+    "Este reproche lo dejó para otra comida"
+   ]
+  ]
+ },
+ "p166.s1.b6": "Algunos de los fariseos que lo oyeron creyeron y entraron en el reino, pero fueron más los que endurecieron su decisión de sorprenderlo en palabras que pudieran usar contra él. Las mismas palabras fueron una puerta para unos y una piedra de tropiezo para otros.",
+ "p166.s2.h": "II. Los Diez Leprosos — La gratitud de un extranjero",
+ "p166.s2.b0": "Cerca de Amatus, Jesús se encontró con diez leprosos. Nueve eran judíos y uno samaritano; su sufrimiento común los había llevado más allá del prejuicio religioso. Jesús estaba precisamente explicando por qué los gentiles y los judíos menos ortodoxos de Perea estaban más dispuestos a creer en el evangelio, pero los apóstoles todavía se resistían a sentir benevolencia hacia los samaritanos.",
+ "p166.s2.b1": "Simón el Zelote sugirió que pasaran de largo, puesto que entre ellos había un samaritano. Jesús respondió que el samaritano tal vez resultara más agradecido que los judíos, y preguntó si debían sentarse a juzgar a sus semejantes. Luego dijo a los diez que fueran a mostrarse a los sacerdotes, y por el camino todos quedaron sanos.",
+ "p166.s2.b4": "Cuando el samaritano se marchaba, todos los apóstoles miraron a Jesús, menos Simón el Zelote, que bajó la cabeza. Nadie habló, y Jesús no dijo nada; no era necesario. El texto añade que solo cuatro de los diez tenían realmente lepra, que los otros seis padecían una enfermedad de la piel, y que el samaritano era un verdadero leproso.",
+ "p166.s2.b5": "Jesús explicó el suceso como la diferencia entre los hijos de la casa y el extranjero. Los hijos dan por sentadas sus bendiciones y descuidan dar las gracias, mientras que el extranjero, lleno de asombro ante el don, no puede menos que estar agradecido. La idea de que la gratitud se embota cuanto más tiempo se recibe la gracia habla con especial agudeza a quienes viven en medio de largos hábitos de fe.",
+ "p166.s3.h": "III. El Sermón en Gérasa — La puerta angosta es lo suficientemente ancha para todos",
+ "p166.s3.b0": "Cuando le preguntaron si serían pocos o muchos los que se salvarían, Jesús repasó primero las ideas entonces corrientes: la enseñanza de que solo los hijos de Abraham serían salvados, la noción de que, así como pocos de los que salieron de Egipto llegaron a la tierra prometida, solo unos pocos entrarían en el reino, y el proverbio de la puerta angosta y el camino ancho. Admitió que el proverbio contenía verdad, pero le dio una interpretación nueva.",
+ "p166.s3.b2": "El peligro no está en el tamaño de la puerta, sino en la demora. Para quienes persiguen los placeres de la inmadurez y el egoísmo, se niegan a entrar en la experiencia espiritual y luego golpean más tarde para ser contados entre los grandes cuando la gloria se revela, la puerta está cerrada. Pero todo el que busque sinceramente hallará con seguridad la salvación eterna, y vendrán gentes de todas las direcciones a tomar posesión del reino por la fe viviente.",
+ "p166.s3.b3": {
+  "head": [
+   "La idea antigua",
+   "La nueva interpretación de Jesús"
+  ],
+  "rows": [
+   [
+    "Solo los hijos de Abraham serán salvados",
+    "Vendrán del norte y del sur, del este y del oeste"
+   ],
+   [
+    "La puerta es angosta, de modo que pocos pasan",
+    "Es lo suficientemente ancha para todos los que buscan sinceramente entrar"
+   ],
+   [
+    "El número de los salvados está fijado",
+    "Depende de cuántos acepten la invitación"
+   ],
+   [
+    "La asociación exterior basta para ser admitido",
+    "Haber «comido y bebido contigo» no basta; hay que dedicarse a la voluntad del Padre"
+   ]
+  ]
+ },
+ "p166.s3.b5": "El narrador califica esta interpretación del viejo proverbio sobre el camino recto y angosto de verdaderamente nueva y extraña. Los apóstoles iban comprendiendo lentamente el significado de la declaración inicial de que es preciso nacer de nuevo, pero todavía no entendían plenamente la enseñanza de que hay que emplear la fuerza espiritual para vencer los obstáculos del mundo. La puerta está abierta, pero atravesarla requiere voluntad y decisión espiritual.",
+ "p166.s4.h": "IV. La Enseñanza Sobre los Accidentes — La salud no es la sonrisa del cielo",
+ "p166.s4.b0": "Durante la comida del mediodía, camino a Filadelfia, Tomás preguntó si los seres espirituales intervienen en los acontecimientos extraños del mundo material, y si los ángeles pueden prevenir los accidentes. Jesús le preguntó si no había observado que él se había negado constantemente a emplear las fuerzas del cielo para su sustento personal. Luego declaró que es una superstición considerar la prosperidad como signo de aprobación divina y la adversidad como signo del desagrado de Dios.",
+ "p166.s4.b1": "Señaló a los galileos muertos por Pilato y a los dieciocho que murieron al caer la torre de Siloé. No eran más pecadores que los demás; fueron víctimas inocentes de los accidentes del tiempo. Luego dividió los acontecimientos de la vida en tres tipos.",
+ "p166.s4.b2": {
+  "head": [
+   "Tipo de acontecimiento",
+   "La explicación del texto"
+  ],
+  "rows": [
+   [
+    "1. Los sucesos ordinarios",
+    "Forman parte de vivir en la tierra con los semejantes"
+   ],
+   [
+    "2. Los accidentes de la naturaleza y las desgracias humanas",
+    "No están dispuestos de antemano ni son producidos por las fuerzas espirituales"
+   ],
+   [
+    "3. Los resultados del esfuerzo que sigue la ley natural",
+    "Si se cumplen las leyes de la fecundidad, se recoge una cosecha: la parábola de la higuera"
+   ]
+  ]
+ },
+ "p166.s4.b4": "Para ilustrar el tercer tipo, Jesús contó la parábola de la higuera. Un árbol que no había dado fruto durante tres temporadas estaba a punto de ser cortado, pero el jardinero pidió un año más para cavar a su alrededor y abonarlo. Cuando cumplieron con las leyes de la fecundidad, el árbol dio una cosecha abundante. El resultado no vino de un milagro, sino de un trabajo que respetaba la ley.",
+ "p166.s4.b5": "El Padre otorga las cosas materiales sin discriminación, pero los dones espirituales solo están limitados por la capacidad de quien los recibe: por la fe y por la disposición a acatar la voluntad del Padre. Los apóstoles no comprendieron plenamente esta enseñanza. El texto observa que una hora de enseñanza no puede cambiar del todo las creencias de una vida entera, y por eso Jesús repitió estas cosas muchas veces.",
+ "p166.s4.b7": "Esta enseñanza da un doble consuelo a los que sufren. Los libera de la culpa de pensar que la desgracia es un castigo de Dios, y devuelve su valor al esfuerzo fiel que respeta la ley natural. El cuidado de Dios se manifiesta menos en prevenir accidentes que en otorgar dones espirituales al alma humana.",
+ "p166.s5.h": "V. La Congregación en Filadelfia — La fidelidad solitaria de Abner",
+ "p166.s5.b0": "De todas las ciudades de Perea, Filadelfia fue la que vio entrar en el reino al mayor número de personas. Su sinagoga no había estado nunca bajo la supervisión del sanedrín y por eso nunca se cerró, y Abner enseñaba allí tres veces al día. Esta sinagoga se convirtió más tarde en una iglesia, centro de las misiones hacia el oriente, y durante siglos siguió siendo un centro del conocimiento cristiano.",
+ "p166.s5.b1": "Después de la muerte de Jesús, la iglesia de Filadelfia entró en grave conflicto con la iglesia de Jerusalén, dirigida por Santiago. El texto explica que, a causa de esta discordia, los relatos evangélicos no conservan nada sobre Abner y su trabajo. Abner rompió con Pedro y Santiago por cuestiones de administración, y con Pablo por diferencias de filosofía y teología.",
+ "p166.s5.b2": {
+  "head": [
+   "Con quién rompió",
+   "Por qué"
+  ],
+  "rows": [
+   [
+    "Pedro y Santiago",
+    "Cuestiones de administración y de la jurisdicción de la iglesia de Jerusalén"
+   ],
+   [
+    "Pablo",
+    "Diferencias de filosofía y teología: rechazó los intentos de rehacer las enseñanzas de Jesús"
+   ],
+   [
+    "Lo que, no obstante, apoyó",
+    "La misión de Pablo entre los gentiles; se puso del lado de Pablo en su disputa con la iglesia de Jerusalén"
+   ]
+  ]
+ },
+ "p166.s5.b3": "Vivió una vida de aislamiento, y sin embargo, durante sus últimos años y por cierto tiempo después, los creyentes de Filadelfia se atuvieron más estrictamente que cualquier otro grupo sobre la tierra a la religión de Jesús tal como él la vivió y la enseñó. Abner siguió siendo un creyente fiel y un instructor del evangelio del reino hasta que murió en el año 74 d. de J.C., a los ochenta y nueve años de edad.",
+ "p166.s6.h": "Conclusión — Vivir este documento",
+ "p166.s6.b0": "Lo que recorre el documento 166 es la distinción entre la apariencia y la realidad. Lavarse las manos no es pureza del alma, la ascendencia no da derecho a la salvación, la prosperidad no es la aprobación de Dios, y la enfermedad no es el ceño de Dios. Jesús fue quitando estas ilusiones una por una y condujo a la gente a las realidades de la fe, la gratitud y la dedicación a la voluntad del Padre.",
+ "p166.s6.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la sustenta"
+  ],
+  "rows": [
+   [
+    "Examinar los motivos íntimos antes que la piedad exterior",
+    "Lo de afuera y lo de adentro del vaso (166:1.4)"
+   ],
+   [
+    "Dar gracias por la gracia en lugar de darla por sentada",
+    "El samaritano que regresó (166:2.8)"
+   ],
+   [
+    "Detenerse antes de juzgar a las personas con prejuicio",
+    "La pregunta hecha a Simón el Zelote (166:2.3)"
+   ],
+   [
+    "No posponer la entrada en el reino",
+    "El peligro de la demora (166:3.4)"
+   ],
+   [
+    "No interpretar la desgracia como un castigo de Dios",
+    "Los dieciocho de la torre de Siloé (166:4.4)"
+   ],
+   [
+    "Cultivar con fidelidad, respetando la ley natural",
+    "La parábola de la higuera (166:4.9)"
+   ]
+  ]
+ },
+ "p166.s6.b2": "En el documento siguiente, el documento 167, «La Visita a Filadelfia», Jesús permanece en Filadelfia, donde Abner ha estado enseñando."
 }

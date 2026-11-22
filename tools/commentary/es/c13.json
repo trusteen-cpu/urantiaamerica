@@ -699,7 +699,7 @@
  "p093.s4.h": "V–VI. La Selección de Abraham; El Pacto de Melquisedek con Abraham — De la conquista a un reino espiritual",
  "p093.s4.b1": "Salem fue elegida por dos razones. Palestina era entonces el centro del comercio, los viajes y la civilización del mundo, y por eso era muy adecuada para la posterior aparición de Micael; y allí se podía establecer contacto con los hijos de Taré, caracterizados por la inteligencia, la iniciativa y la sinceridad. La familia de Taré se había convertido a medias en Ur gracias a la predicación de Ovid, y Abraham llegó a Salem con su sobrino Lot.",
  "p093.s4.b2": "Abraham, sin embargo, tenía ambiciones de rey. Confederó siete tribus, derrotó a los reyezuelos que habían saqueado los bienes de Lot y entregó a Salem la décima parte del botín. Melquisedek, que no era militarista, aceptó una política defensiva, pero no quiso aprobar la conquista.",
- "p093.s4.b3": "Cuando Abraham acudió a él, preocupado por no tener un hijo que lo sucediera, Melquisedek lo persuadió de abandonar la conquista material por el concepto espiritual del reino de los cielos. Luego, pidiéndole que contara las estrellas, hizo con él un pacto formal.",
+ "p093.s4.b3": "Cuando Abraham acudió a él, preocupado por no tener un hijo que lo sucediera, Melquisedek lo persuadió de abandonar la conquista material por el concepto espiritual del reino del cielo. Luego, pidiéndole que contara las estrellas, hizo con él un pacto formal.",
  "p093.s4.b5": "Cuando nació Isaac, Abraham hizo poner el pacto por escrito y cambió su nombre de Abram a Abraham. Tras la reconciliación volvió a asumir el liderazgo civil y militar de Salem y mejoró mucho su escuela y su obra misionera. El texto lo retrata como un hombre de negocios astuto y eficiente, no excesivamente piadoso, pero profundamente sincero, y que creía de verdad en Melquisedek.",
  "p093.s5.h": "VII. Los Misioneros Melquisedek — Un evangelio sumergido",
  "p093.s5.b0": "Los misioneros de Salem fueron a Egipto, Mesopotamia y Asia Menor, y desde el lago de Van hasta Europa, las Islas Británicas, Islandia, China y Japón. El texto honra sus vidas como un capítulo heroico de los anales de la raza humana. Sin embargo, fuera de Palestina la idea de un solo Dios nunca obtuvo la lealtad continuada de una tribu o raza entera, y el evangelio quedó absorbido en cultos más antiguos, como los de la Gran Madre y el Sol.",
@@ -1118,5 +1118,352 @@
    ]
   ]
  },
- "p095.s8.b2": "El documento siguiente, el documento 96, «Yahvé — El Dios de los Hebreos», describe cómo evolucionó el concepto de Dios en el pueblo hebreo, en el que confluyeron todas estas corrientes."
+ "p095.s8.b2": "El documento siguiente, el documento 96, «Yahvé — El Dios de los Hebreos», describe cómo evolucionó el concepto de Dios en el pueblo hebreo, en el que confluyeron todas estas corrientes.",
+ "p096.lead": "Del dios tribal del volcán Horeb al Padre Creador amante: el concepto hebreo de Dios, que creció conservando el mismo nombre, y el liderazgo de Moisés.",
+ "p096.foot": {
+  "text": "Presentado por un Melquisedek de Nebadon",
+  "ref": "96:7.9"
+ },
+ "p096.s0.h": "Introducción — Inclusión, subordinación, exclusión",
+ "p096.s0.b0": "El documento 96 describe cómo creció el concepto de Dios en el pueblo hebreo, en el que confluyeron las muchas corrientes del Levante. El autor expone primero, en tres etapas, el camino general por el que el hombre concibe la Deidad. No solo los hebreos, sino también los hindúes y los mesopotamios siguieron un camino semejante, y las ideas monoteístas maduraron en todo el mundo no mucho después de la aparición de Melquisedek en Salem.",
+ "p096.s0.b1": {
+  "head": [
+   "Etapa",
+   "Evolución del concepto de Deidad"
+  ],
+  "rows": [
+   [
+    "1. Inclusión",
+    "Se acepta a todos los dioses"
+   ],
+   [
+    "2. Subordinación",
+    "Los dioses extraños quedan sometidos a la deidad tribal"
+   ],
+   [
+    "3. Exclusión",
+    "Se excluye a todos excepto el Dios único de valor final y supremo"
+   ],
+   [
+    "El concepto de Melquisedek",
+    "A diferencia de esta filosofía evolucionaria, se basa exclusivamente en el poder creador"
+   ]
+  ]
+ },
+ "p096.s0.b2": "La religión de Salem sobrevivió como tradición entre los ceneos y otras tribus cananeas, y cuando los hebreos la adoptaron, se enriqueció con la moral egipcia, la teología babilónica y las ideas iranias del bien y del mal. Esto tenía un propósito claro: Micael difícilmente podía venir a Urantia hasta que existiera un pueblo creyente en el Padre Universal entre el cual pudiera aparecer.",
+ "p096.s1.h": "I. Los Conceptos de la Deidad Entre los Semitas — Muchos nombres, una sola corriente",
+ "p096.s1.b0": "Los primeros semitas creían que todo estaba habitado por un espíritu, y la enseñanza de Melquisedek nunca destruyó del todo esta creencia. El progreso de los hebreos desde el politeísmo, a través del henoteísmo, hasta el monoteísmo no fue ininterrumpido; sufrió muchos retrocesos. Para evitar confusiones, el autor define primero los diversos títulos de la Deidad.",
+ "p096.s1.b1": {
+  "head": [
+   "Título",
+   "Significado"
+  ],
+  "rows": [
+   [
+    "1. Yahvé",
+    "Dios de la naturaleza de las tribus del sur de Palestina, asociado con el Monte Horeb, el volcán del Sinaí"
+   ],
+   [
+    "2. El Elyón",
+    "El Dios de Melquisedek: el Dios Altísimo del cielo"
+   ],
+   [
+    "3. El Shaddai",
+    "Un compuesto de Amenemope, Ikhnaton y Melquisedek: el Dios de la Providencia"
+   ],
+   [
+    "4. El",
+    "Una Deidad compuesta con la que los creyentes intentaron adorar todas las ideas evolutivas de la divinidad"
+   ],
+   [
+    "5. Elohim",
+    "El Dios tres en uno, Eloah en singular; parte de la teología hebrea solo después de Babilonia"
+   ],
+   [
+    "6. Nombres varios",
+    "El Señor, el Todopoderoso, el Altísimo, Adonai, el Señor de las Huestes, el Padre en el Cielo y otros"
+   ]
+  ]
+ },
+ "p096.s1.b2": "Hasta alrededor del 2000 a. de J. C., el Monte Sinaí fue un volcán activo de manera intermitente, y su fuego, su humo y sus truenos hacían que los beduinos temieran grandemente a Yahvé. Durante mucho tiempo los hebreos creyeron que existían otros dioses, pero los consideraban subordinados a Yahvé. Sin embargo, este concepto pasó por un desarrollo notable.",
+ "p096.s1.b4": "Así como el concepto de Buda condujo al fin al Absoluto Universal, el concepto de Yahvé condujo finalmente a la idea del Padre Universal. Llama la atención que, aunque los judíos cambiaron su visión desde el dios tribal del Monte Horeb hasta el Padre Creador amante y misericordioso, nunca cambiaron su nombre; siguieron llamándolo Yahvé. El pasaje muestra que la comprensión puede seguir creciendo bajo un mismo nombre.",
+ "p096.s2.h": "II. Los Pueblos Semitas — La formación de los clanes de Israel",
+ "p096.s2.b0": "Racialmente, los semitas se contaban entre los pueblos más mezclados, pues llevaban factores hereditarios de casi todas las nueve razas del mundo. Los semitas árabes se abrieron camino peleando una y otra vez hacia las tierras del norte y una y otra vez fueron rechazados; durante una grave carestía entraron en Egipto como trabajadores contratados, para acabar sufriendo la amarga experiencia de la esclavitud.",
+ "p096.s2.b1": "El texto deja claro que Abraham no fue el padre racial de todos los hebreos. Sus descendientes salidos de Egipto formaron el núcleo, pero la mayoría de quienes se unieron a los clanes de Israel nunca había estado en Egipto; eran nómadas como ellos que eligieron seguir a Moisés. Durante el cautiverio, el pacto de Melquisedek quedó en gran parte olvidado, y la religión de la gente común era el antiguo ritual yahveíta de magia y sacrificio.",
+ "p096.s3.h": "III. El Incomparable Moisés — Organizador de un pueblo desamparado",
+ "p096.s3.b0": "La madre de Moisés era de la familia real de Egipto, y su padre era un oficial de enlace semita entre el gobierno y los cautivos beduinos. Su ascendencia era tan mezclada que no se le puede clasificar en ninguna raza, y precisamente esa versatilidad y adaptabilidad le permitieron dirigir a una horda diversa. Eligió abandonar la cultura del reino del Nilo y unir su suerte a la del pueblo de su padre.",
+ "p096.s3.b2": "Moisés buscó primero la libertad por la vía diplomática. Concertó con el rey un pacto para una salida pacífica, pero cuando el rey lo repudió, Moisés no se desalentó; esperó su momento. Cuando el ejército egipcio estaba ocupado en resistir a la vez los ataques libios y griegos, sacó a su pueblo en una huida nocturna cuidadosamente planeada. La paciencia para esperar el momento oportuno después de un revés fue una faceta de su liderazgo.",
+ "p096.s4.h": "IV. La Proclamación de Yahvé — Un concepto nuevo en un nombre antiguo",
+ "p096.s4.b0": "Moisés había oído de sus padres las enseñanzas de Melquisedek, fue educado en la creencia en El Shaddai y, por medio de su suegro ceneo, llegó a creer en El Elyón. Con todo ello formó un concepto ampliado de la Deidad, y, juzgando que los esclavos jamás captarían la idea de El Elyón, decidió sabiamente proclamarlo como un concepto ampliado de su antiguo dios tribal, Yahvé.",
+ "p096.s4.b1": "Esto dejó a Moisés siempre en una situación incómoda, pues trataba de presentar una idea nueva y más elevada bajo un nombre antiguo, simbolizado desde hacía mucho tiempo por el becerro de oro. Durante la larga estadía ante el Sinaí se dieron los diez mandamientos y se perfeccionó el ceremonial de adoración, y la violenta erupción del Horeb en la tercera semana grabó en el pueblo la imagen de un Dios que era un fuego devorador.",
+ "p096.s4.b3": "Con Moisés, Yahvé, el dios tribal de la naturaleza, se convirtió en el Señor Dios de Israel, y más tarde, a través del cautiverio babilónico, el concepto quedó libre para asumir el papel monoteísta del Dios de todas las naciones. El autor encuentra el rasgo más singular de la historia religiosa hebrea en esta evolución continua desde el primitivo dios del Monte Horeb hasta el Padre Creador amante y misericordioso que proclamaron los Isaías.",
+ "p096.s5.h": "V. Las Enseñanzas de Moisés — Una visión elevada y el nivel del pueblo",
+ "p096.s5.b1": "Los hebreos no tenían lengua escrita en el tiempo del éxodo, de modo que el registro de los hechos de Moisés se sacó de tradiciones que existían más de mil años después de su muerte. Gran parte de su avance sobre las religiones vecinas se debió a las tradiciones ceneas del tiempo de Melquisedek. Moisés y su suegro Jetro reunieron esos residuos, los unieron al saber egipcio y organizaron el sistema ceremonial hebreo de adoración.",
+ "p096.s5.b2": {
+  "head": [
+   "La visión propia de Moisés",
+   "La enseñanza adaptada al pueblo"
+  ],
+  "rows": [
+   [
+    "A los líderes: «El Señor vuestro Dios es un Dios; no hay otro fuera de él»",
+    "A la multitud: «¿Quién es como vuestro Dios entre todos los dioses?»"
+   ],
+   [
+    "Un Dios de verdad y de justicia",
+    "Un Dios antropomorfo de ira y de cólera"
+   ],
+   [
+    "El Dios de los espíritus de toda carne",
+    "El Dios celoso de un pueblo elegido"
+   ],
+   [
+    "Un Dios de amor que cumple sus pactos",
+    "Un Dios de la Providencia que hace prosperar a los obedientes"
+   ],
+   [
+    "Un Dios que habló sin que se viera figura alguna",
+    "La prohibición de las imágenes: una victoria parcial sobre los fetiches y los ídolos"
+   ]
+  ]
+ },
+ "p096.s5.b3": "El autor dice que era verdaderamente lastimoso ver a esta gran mente tratando de adaptar su concepto sublime de El Elyón a la comprensión de los ignorantes. Moisés temía proclamar la misericordia de Yahvé y prefirió atemorizar a su pueblo con el temor de la justicia de Dios. Como resultado, cuando él faltó, las tribus recayeron rápidamente en la adoración del becerro de oro. Aun así, había fundido a miles de errantes en una nación capaz de sostenerse por sí misma y los entregó a Josué.",
+ "p096.s6.h": "VI. El Concepto de Dios Después de la Muerte de Moisés — Una oportunidad casi perdida",
+ "p096.s6.b0": "Después de la muerte de Moisés, su concepto elevado se deterioró rápidamente. Los líderes mantuvieron la tradición, pero el pueblo volvió a deslizarse hacia las viejas ideas del desierto, y el retroceso continuó bajo los Jueces. El paso de pastores nómadas a agricultores establecidos exigía un cambio en su concepto de Dios, y en esa transición los hebreos estuvieron cerca de perder por completo el monoteísmo.",
+ "p096.s6.b1": "No se trataba solo de la pérdida de un pueblo. Casi perdieron la oportunidad de ser el eslabón vital que preservaría la enseñanza de Melquisedek hasta la encarnación de un Hijo de otorgamiento. Josué predicó un evangelio severo para contener la marea, y aun en esta edad oscura surgieron maestros solitarios que proclamaron de nuevo el concepto mosaico de Dios.",
+ "p096.s7.h": "VII. Los Salmos y el libro de Job — Una luz conservada en Ur",
+ "p096.s7.b0": "Una vez establecidos en Palestina, los hebreos se contaminaron con las prácticas menos avanzadas de los cananeos, y su idea de Dios cayó muy por debajo de los conceptos que mantenían los grupos salemitas sobrevivientes en Egipto y Mesopotamia. Esos conceptos más elevados están registrados en algunos de los salmos y en el libro de Job.",
+ "p096.s7.b1": {
+  "head": [
+   "Escrito",
+   "Autores y carácter"
+  ],
+  "rows": [
+   [
+    "Los salmos",
+    "Una veintena o más de autores, desde Amenemope hasta Isaías: todas las fases del concepto de Dios, desde la deidad tribal hasta el Padre misericordioso"
+   ],
+   [
+    "El libro de Job",
+    "Más de una veintena de maestros mesopotamios a lo largo de casi trescientos años: la idea de un Dios real conservada cerca de Ur en los días oscuros"
+   ]
+  ]
+ },
+ "p096.s7.b3": "En Palestina se captaron a menudo la sabiduría y la omnipresencia de Dios, pero rara vez su amor y su misericordia. Solo en Ur se alzó una voz —Eliú, profeta de Ur y sacerdote de los creyentes salemitas— para proclamar a un Dios benigno con el que se arrepiente, la salvación por la fe. Desde Melquisedek no se había oído en el Levante un mensaje tan alentador.",
+ "p096.s7.b5": "Así, los remanentes de los misioneros de Salem en Mesopotamia mantuvieron encendida la luz de la verdad mientras los hebreos estaban desorganizados, hasta que surgió la larga línea de los maestros de Israel, que edificaron concepto sobre concepto hasta alcanzar el ideal del Padre Universal y Creador de todos.",
+ "p096.s8.h": "Conclusión — Vivir este documento",
+ "p096.s8.b0": "El documento 96 muestra que el concepto de Dios no se completó de una sola vez, sino que creció poco a poco mediante la experiencia de un pueblo y el trabajo de sus líderes. Moisés tenía una visión elevada, pero tuvo que encontrarse con el pueblo en su propio nivel, y dejó tras de sí tanto el costo como el valor de ese compromiso. El mensaje central del documento es que, aun bajo el mismo nombre, nuestra comprensión de Dios puede crecer del temor al amor.",
+ "p096.s8.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la sustenta"
+  ],
+  "rows": [
+   [
+    "Buscar un significado más profundo en las palabras conocidas de la fe",
+    "Los judíos ampliaron el concepto de Yahvé sin cambiar el nombre"
+   ],
+   [
+    "Esperar y prepararse ante los reveses",
+    "Cuando se rompió el tratado, Moisés no se desalentó"
+   ],
+   [
+    "Enseñar teniendo en cuenta la comprensión de los demás, sin perder la verdad",
+    "Moisés llevó el concepto de El Elyón bajo el nombre de Yahvé"
+   ],
+   [
+    "Proclamar a un Dios de misericordia antes que de temor",
+    "Como Moisés temía proclamar la misericordia, el pueblo volvió pronto a los dioses antiguos"
+   ],
+   [
+    "Ser de los pocos que conservan la luz en los tiempos oscuros",
+    "Los creyentes salemitas de Ur preservaron la luz durante la edad oscura de Israel"
+   ]
+  ]
+ },
+ "p096.s8.b2": "El documento siguiente, el documento 97, «Evolución del Concepto de Dios Entre los Hebreos», continúa el relato y muestra cómo los profetas, desde Samuel hasta los Isaías, elevaron este concepto de Yahvé al del Padre Creador del universo.",
+ "p097.lead": "De una deidad tribal al Padre amante de toda la humanidad: cómo los profetas hebreos, desde Samuel hasta el segundo Isaías, ampliaron el concepto de Dios, y cómo los sacerdotes reescribieron el registro.",
+ "p097.foot": {
+  "text": "Presentado por un Melquisedek de Nebadon",
+  "ref": "97:10.9"
+ },
+ "p097.s0.h": "Introducción — Un Dios menos humano, pero no abstracto",
+ "p097.s0.b0": "El documento 97 sigue el concepto de Yahvé después de Moisés, tema del documento anterior, a medida que creció en manos de los profetas hebreos. Su autor, un Melquisedek de Nebadon, reconoce a los dirigentes espirituales de los hebreos algo que nadie había conseguido antes que ellos. Despojaron a su concepto de Dios de su forma humana sin convertirlo en una abstracción que solo los filósofos pudieran comprender.",
+ "p097.s0.b2": "El hilo que recorre todo el documento es el concepto de la **personalidad de Dios**. Enseñado con claridad en Salem en los días de Melquisedek, se había vuelto vago y nebuloso en el tiempo de la huida de Egipto. Desde Moisés hasta Malaquías creció luego casi sin interrupción, hasta que por fin fue realzado y glorificado en la enseñanza de Jesús sobre el Padre que está en los cielos.",
+ "p097.s1.h": "I. Samuel — El Primero de los Profetas Hebreos — El Dios invariable",
+ "p097.s1.b0": "La presión de los pueblos circundantes llevó a las tribus hebreas a unirse bajo un gobierno centralizado, y esto dio su campo de trabajo a Samuel, que procedía de una larga línea de maestros de Salem. Era un hombre de acción más que de predicación, lo bastante rudo como para derribar una veintena de sitios de Baal en un solo día. Su éxito fue solo parcial: recuperó para el concepto más elevado de Yahvé únicamente a la mitad más inteligente de los hebreos.",
+ "p097.s1.b1": "La gran contribución de Samuel estuvo en otra parte. La gente de su tiempo imaginaba a Yahvé como un Dios caprichoso, de antojos celosos, que lamentaba constantemente lo que había hecho. Samuel declaró, en cambio, que Yahvé era invariable, la fuente de toda verdad, estabilidad y constancia. Proclamó también que el Señor levanta del polvo al pobre, palabra que escandalizó a quienes medían el favor divino por la prosperidad material y dio nueva esperanza a miles de pobres desesperados.",
+ "p097.s1.b3": "Sus límites también fueron reales. Samuel no progresó mucho más allá del concepto de un dios tribal, y su idea de la misericordia se extendía al principio solo a quienes eran ellos mismos misericordiosos. Sus sucesores no pudieron mantener su ritmo, y la clave de la era fue el **poder divino**, predicado en apoyo del rey en el trono hebreo.",
+ "p097.s2.h": "II–III. Elías y Eliseo; Yahvé y Baal — Una lucha por la tierra",
+ "p097.s2.b0": "Después de que la nación se dividiera en dos reinos, Elías restauró en el reino del norte un concepto de Dios comparable al de los días de Samuel, y Eliseo, con la ayuda del poco conocido Micaías, mantuvo viva esa luz. El autor resume el período, sin embargo, no como un tiempo de progreso en el concepto de la Deidad, sino de recuperación, en el que se volvió a ganar el terreno perdido.",
+ "p097.s2.b1": "Resulta especialmente llamativa la lectura que hace el documento de la larga contienda entre Yahvé y Baal. Al principio, explica, no fue tanto una diferencia de creencia religiosa como un choque socioeconómico por la propiedad de la tierra.",
+ "p097.s2.b2": {
+  "head": [
+   "",
+   "Los yahveítas",
+   "Los baalitas"
+  ],
+  "rows": [
+   [
+    "El pueblo",
+    "Tribus sureñas o errantes de Arabia",
+    "Los cananeos norteños y más establecidos"
+   ],
+   [
+    "Visión de la tierra",
+    "Un don de la deidad al clan; no se podía vender ni hipotecar",
+    "Se compraba, vendía e hipotecaba libremente"
+   ],
+   [
+    "Su dios",
+    "El único Yahvé, dueño de la tierra",
+    "Baal, que significa «propietario»; dios de la lluvia y de la fertilidad del suelo"
+   ],
+   [
+    "Modo de vida",
+    "Gente del campo, el clan",
+    "Las ciudades, terratenientes aristócratas que poseían casas, tierras y esclavos"
+   ]
+  ]
+ },
+ "p097.s2.b3": "Cuando Acab hizo asesinar a los Nabot para apoderarse de sus tierras, Elías convirtió las antiguas costumbres sobre la tierra en una cuestión moral. Desde entonces el asunto de la tierra pasó a ser un asunto religioso, Yahvé contra Baal, y el profeta que comenzó como reformador agrario terminó exaltando la Deidad.",
+ "p097.s3.h": "IV. Amós y Oseás — El Dios de la justicia, el Dios del amor",
+ "p097.s3.b0": "Amós no fue un simple restaurador; fue un descubridor de nuevos conceptos de la Deidad. Proclamó que Yahvé no toleraría el crimen y el pecado en su propio pueblo más que en cualquier otro, y así, por primera vez desde Melquisedek, denunció la doble norma de la justicia y la moralidad nacionales. Esto golpeaba directamente la idea del «pueblo elegido» entendida como privilegio. Advirtió que el ritual no debe ocupar el lugar de la rectitud, y por su valor fue apedreado hasta la muerte.",
+ "p097.s3.b1": "Oseas siguió al Dios de justicia de Amós y revivió el concepto mosaico de un Dios de amor. Predicó el perdón mediante el arrepentimiento, no por el sacrificio, y su mensaje fue siempre de esperanza. El autor contrasta a los dos: Amós despertó la conciencia nacional a la justicia, mientras que Oseas hizo sonar las primeras notas de la compasión divina que Isaías cantaría más tarde.",
+ "p097.s4.h": "V–VI. El Primer Isaías; Jeremiás el Intrépido — Más allá del ritual, más allá de la nación",
+ "p097.s4.b0": "El primer Isaías predicó la naturaleza eterna de Dios, su sabiduría infinita y su fiabilidad invariable, y llevó la promesa de que los pecados como la grana quedarían blancos como la nieve. Miqueas y Abdías, que lo siguieron, atacaron sin temor el sistema de sacrificios dominado por los sacerdotes. El mensaje de Miqueas se lee todavía hoy como un breve resumen de lo que trata la religión.",
+ "p097.s4.b2": "Jeremías dio el paso siguiente en la internacionalización de Yahvé. Declaró que Yahvé no estaba del lado de los hebreos en sus guerras, sino que era Dios de toda la tierra y de todas las naciones. Por aconsejar la rendición durante el sitio de Jerusalén fue arrojado a un foso cenagoso; sin embargo, por medio de él el concepto de Yahvé ascendió a un nivel de dignidad planetaria y aun cósmica.",
+ "p097.s5.h": "VII. El Segundo Isaías — El concepto de Dios más elevado antes de Jesús",
+ "p097.s5.b0": "En el cautiverio babilónico los sacerdotes rehicieron la historia nacional para restaurar la nación y glorificar sus tradiciones. El documento añade con justicia que no pretendían escribir por inspiración ni hacían profesión de escribir un libro sagrado; preparaban un libro de texto para fortalecer el valor de sus compañeros de cautiverio. En este escenario apareció un joven profeta, el segundo Isaías, cuyos escritos se conservan en los capítulos del cuarenta al cincuenta y cinco del libro de Isaías.",
+ "p097.s5.b1": "El autor juzga que ningún maestro, desde Maquiventa hasta el tiempo de Jesús, alcanzó un concepto de Dios tan elevado como el del segundo Isaías. Proclamó al Creador del universo como el Padre afectuoso de toda la humanidad, y con ello eclipsó de hecho al Yahvé nacionalista.",
+ "p097.s5.b2": "Su Dios no era una deidad pequeña ni hecha por el hombre. Los caminos y los pensamientos de Dios son más altos que los nuestros como los cielos son más altos que la tierra; sin embargo, este mismo Dios llama a cada persona por su nombre y tiene a sus hijos esculpidos en la palma de sus manos. Predicando junto al río en Babilonia a oyentes de muchas naciones, el segundo Isaías se esforzó por corregir las ideas racialmente egoístas sobre la misión del Mesías, aunque el nacionalismo de los sacerdotes le impidió lograrlo plenamente.",
+ "p097.s5.b5": {
+  "head": [
+   "Profeta",
+   "Lo que añadió al concepto de Dios"
+  ],
+  "rows": [
+   [
+    "Samuel",
+    "Un Creador invariable, fiel a su pacto"
+   ],
+   [
+    "Elías y Eliseo",
+    "La recuperación del monoteísmo frente a Baal"
+   ],
+   [
+    "Amós",
+    "Una justicia que somete incluso al pueblo elegido a la misma norma"
+   ],
+   [
+    "Oseas",
+    "El perdón mediante el arrepentimiento, no por el sacrificio; la benevolencia amorosa"
+   ],
+   [
+    "El primer Isaías y Miqueas",
+    "La naturaleza eterna y la fiabilidad de Dios; la justicia y la misericordia por encima del ritual"
+   ],
+   [
+    "Jeremías",
+    "El Dios de todas las naciones, la cresta de la internacionalización"
+   ],
+   [
+    "El segundo Isaías",
+    "El Creador del universo y Padre amante de toda la humanidad"
+   ]
+  ]
+ },
+ "p097.s6.h": "VIII–IX. La Historia Sagrada y la Profana; La Historia Hebrea — Un registro reescrito",
+ "p097.s6.b0": "El autor señala que la costumbre de tratar el registro de un pueblo como historia sagrada y el del resto del mundo como historia profana ha causado mucha confusión. Según el documento, los sacerdotes del exilio en Babilonia, después de preparar su nuevo registro, destruyeron los relatos existentes de los hechos de los reyes. Quinientos años de dominio extranjero, y las promesas contradictorias de liberación ofrecidas por los profetas, sumieron luego al judío sincero en una profunda perplejidad.",
+ "p097.s6.b1": "En la raíz había una visión demasiado simplificada de la Providencia: la rectitud es recompensada y el pecado es castigado. El documento lee el drama de Job como una protesta contra esta filosofía y el pesimismo de Eclesiastés como una reacción de sabiduría mundana ante ella. La decepción nacida de esperanzas frustradas una y otra vez dejó finalmente a los dirigentes incapaces de reconocer a Aquel que vino como el Hijo del Hombre.",
+ "p097.s6.b3": "La sección nueve relee a esta luz los puntos principales de la historia hebrea, y a continuación se enumeran algunos de sus ejemplos. La conclusión del autor es que esta historia no es una crónica de milagros, sino historia profana corriente. Eso no empequeñece la contribución espiritual del pueblo: el judaísmo fue el suelo del que creció el cristianismo.",
+ "p097.s6.b4": {
+  "head": [
+   "Asunto",
+   "El registro posterior",
+   "El relato del documento"
+  ],
+  "rows": [
+   [
+    "Las tribus",
+    "Doce tribus de Israel",
+    "Solo tres o cuatro tribus se establecieron en Palestina, uniéndose a los cananeos"
+   ],
+   [
+    "El ejército de Saúl",
+    "330.000 hombres, con la participación de «Judá»",
+    "Un ejército de poco más de tres mil"
+   ],
+   [
+    "Saúl hecho rey",
+    "Ungido por Samuel por dirección divina",
+    "Elegido por todo el ejército; no participaron sacerdotes ni profetas"
+   ],
+   [
+    "El reinado de David",
+    "Ungido solemnemente por Samuel",
+    "Hecho rey por su propio ejército de seguidores"
+   ],
+   [
+    "Baal-perazim",
+    "—",
+    "Una huella que muestra que el ochenta por ciento de los soldados de David eran baalitas"
+   ]
+  ]
+ },
+ "p097.s6.b5": "El cautiverio empujó al remanente, por la conmoción, al monoteísmo. En Babilonia los judíos llegaron a la conclusión de que debían convertir a los gentiles, y de ahí surgió un nuevo concepto de destino: que habían de ser los servidores elegidos de Yahvé. También la doctrina de la inmortalidad tomó forma allí, y la religión empezó a configurarse como un sistema de pensamiento cada vez más separado de la política y de la economía.",
+ "p097.s7.h": "X. La Religión Hebrea — Lo que la mantuvo viva",
+ "p097.s7.b0": "Sus dirigentes enseñaron que ser elegidos no significaba un monopolio del favor divino, sino el servicio especial de llevar la verdad del Dios único a todas las naciones. Sin embargo, después del regreso del exilio el pueblo eligió las reglas y los rituales del sacerdocio y rechazó el magnífico concepto del segundo Isaías. Aun así, una línea ininterrumpida de maestros fieles pasó la antorcha monoteísta desde Moisés hasta Juan Bautista.",
+ "p097.s7.b1": {
+  "head": [
+   "Por qué persistió la religión hebrea",
+   "Sus límites"
+  ],
+  "rows": [
+   [
+    "Conservó los valores más elevados de sus seguidores, sus valores morales",
+    "No supo fomentar el progreso ni el descubrimiento filosófico creador"
+   ],
+   [
+    "Su concepto de Dios era claro, vívido, personal y moral",
+    "Era deficiente en filosofía y casi vacía de cualidades estéticas"
+   ],
+   [
+    "Mantuvo sus instituciones y sus observancias de grupo",
+    "Contribuyó poco a la comprensión intelectual y espiritual de la naturaleza divina"
+   ]
+  ]
+ },
+ "p097.s7.b2": "La observación sobre las instituciones merece hoy una reflexión especial. A la religión le resulta difícil sobrevivir como práctica privada de individuos aislados. En vez de derribar todo el ritual al ver los males de la religión institucionalizada, es mejor reformarlo, y en esto el autor considera a Ezequiel más sabio que sus contemporáneos.",
+ "p097.s8.h": "Conclusión — Vivir este documento",
+ "p097.s8.b0": "El documento 97 llama al cambio desde la idea bárbara del espíritu celoso del volcán Sinaí hasta el concepto del Padre amante y misericordioso de toda la humanidad la mayor hazaña en la evolución de la religión que jamás se haya logrado en Urantia. No llegó por una sola revelación, sino por generaciones de maestros que dieron cada uno un paso más. Puesto que la comprensión que cada persona tiene de Dios crece de manera muy parecida, este documento es a la vez la historia de un pueblo y un mapa de nuestro propio crecimiento.",
+ "p097.s8.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la sustenta"
+  ],
+  "rows": [
+   [
+    "Confiar en la fidelidad de Dios cuando cambian las circunstancias",
+    "Samuel: el Dios invariable"
+   ],
+   [
+    "Aplicarse a uno mismo la norma que se aplica a los demás",
+    "Amós: la denuncia de la doble norma"
+   ],
+   [
+    "Poner la justicia, la misericordia y la humildad por delante del ritual",
+    "Miqueas: lo que el Señor espera"
+   ],
+   [
+    "Pensar en Dios como Padre de todas las personas, no solo del propio bando",
+    "Jeremías y el segundo Isaías: el Dios de todas las naciones"
+   ],
+   [
+    "Cuando la propia comunidad se equivoca, reformarla en vez de derribarla",
+    "Ezequiel: la reforma del ritual"
+   ]
+  ]
+ },
+ "p097.s8.b2": "El documento siguiente, el documento 98, «Las Enseñanzas de Melquisedek en el Occidente», sigue las mismas enseñanzas de Salem en su camino a través de Grecia, Roma y los cultos de misterio de Occidente."
 }

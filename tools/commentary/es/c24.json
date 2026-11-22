@@ -599,12 +599,12 @@
  "p178.s0.b0": "Jesús pensaba pasar este jueves como su último día libre en la tierra como Hijo divino encarnado en la carne. Después del desayuno condujo a los apóstoles y a unos pocos discípulos leales a un sitio retirado, más alto que el campamento, y les enseñó muchas verdades nuevas. Esta conversación de la mañana fue su discurso de despedida a todo el grupo del campamento, tanto judíos como gentiles.",
  "p178.s0.b1": "Solo faltaba Judas. Algunos de los apóstoles supusieron que el Maestro lo había enviado a la ciudad a hacer un encargo, probablemente a preparar la Pascua. No volvió hasta media tarde. El documento se divide en tres partes: por la mañana, el discurso sobre la ciudadanía; por la tarde, la preparación de la cena y la callada actividad de David Zebedeo; y al caer la tarde, las últimas palabras en el camino de bajada a la ciudad.",
  "p178.s1.h": "I. La Disertación Sobre la Filiación y la Ciudadanía (1) — Vivir en dos reinos a la vez",
- "p178.s1.b0": "Durante casi dos horas Jesús conversó con unos cincuenta de sus seguidores de confianza y respondió a una veintena de preguntas sobre la relación entre el reino de los cielos y los reinos de este mundo. El narrador resume el discurso en lenguaje moderno. Su núcleo es este: los reinos de este mundo son materiales y pueden necesitar la fuerza física, pero el reino de los cielos es una hermandad espiritual de hijos nacidos del espíritu y solo puede promulgarse por el poder del espíritu.",
+ "p178.s1.b0": "Durante casi dos horas Jesús conversó con unos cincuenta de sus seguidores de confianza y respondió a una veintena de preguntas sobre la relación entre el reino del cielo y los reinos de este mundo. El narrador resume el discurso en lenguaje moderno. Su núcleo es este: los reinos de este mundo son materiales y pueden necesitar la fuerza física, pero el reino del cielo es una hermandad espiritual de hijos nacidos del espíritu y solo puede promulgarse por el poder del espíritu.",
  "p178.s1.b1": {
   "head": [
    "Aspecto",
    "Reinos de este mundo",
-   "Reino de los cielos"
+   "Reino del cielo"
   ],
   "rows": [
    [
@@ -812,7 +812,7 @@
   ]
  },
  "p179.s3.b3": "En silencio Jesús dio la vuelta a la mesa y lavó los pies de los doce, sin pasar por alto ni siquiera a Judas. Luego volvió a su lugar y les preguntó: si el Maestro os ha lavado los pies, ¿por qué vosotros no queríais lavaros los pies unos a otros? ¿Por qué, preguntó, eran tan lentos en aprender que el secreto de la grandeza en el reino espiritual no se parece a los métodos del poder en el mundo material?",
- "p179.s3.b7": "El Maestro dijo que no podía haber sitio de preferencia en su mesa, porque amaba a cada uno de ellos como a los demás. El lugar más cercano a él, según los hombres consideran tales honores, nada significaba en cuanto a su estado en el reino de los cielos. Esta enseñanza sigue interpelando hoy a toda comunidad. Lo que muestra el nivel espiritual de una comunidad no es quién se sienta adelante, sino quién toma primero la palangana.",
+ "p179.s3.b7": "El Maestro dijo que no podía haber sitio de preferencia en su mesa, porque amaba a cada uno de ellos como a los demás. El lugar más cercano a él, según los hombres consideran tales honores, nada significaba en cuanto a su estado en el reino del cielo. Esta enseñanza sigue interpelando hoy a toda comunidad. Lo que muestra el nivel espiritual de una comunidad no es quién se sienta adelante, sino quién toma primero la palangana.",
  "p179.s4.h": "IV. Las Últimas Palabras al Traidor — El pan mojado",
  "p179.s4.b0": "Cuando la cena volvió a ser alegre, Jesús explicó que, conociendo el complot contra él, había elegido comer esta cena un día antes en este aposento secreto. Dijo que era necesario que él fuera al Padre, pero que no hacía falta que uno de ellos lo traicionara. Desconcertados, todos preguntaron: «⟦Q 179:4.2⟧¿Soy yo?⟦/Q⟧».",
  "p179.s4.b2": "Juan se inclinó hacia el Maestro y le preguntó quién era, y Pedro, desde el otro lado de la mesa, instaba a Juan a averiguarlo. Jesús ya había dicho claramente que era aquel a quien diera el pan mojado, pero ellos no lo captaron. Solo Judas estaba dolorosamente consciente del significado, y temía que sus hermanos ya lo conocieran como el traidor. Las mismas palabras pasaron de largo junto a los que amaban al Maestro y traspasaron al que ocultaba su corazón.",
@@ -882,3 +882,317 @@
   ]
  },
  "p179.s6.b2": "En el documento siguiente, el documento 180, «El Discurso de Despedida», Jesús deja a los once un nuevo mandamiento y la promesa del Espíritu de la Verdad.",
+ "p180.lead": "La última enseñanza en el aposento superior: el nuevo mandamiento, la vid y las ramas, la enemistad del mundo, el ayudante prometido, el Espíritu de la Verdad y por qué su partida era para bien de ellos.",
+ "p180.foot": {
+  "text": "Narrado por el ser intermedio secundario previamente asignado al apóstol Andrés",
+  "ref": "121:0.1"
+ },
+ "p180.s0.h": "Introducción — Por qué les pidió que volvieran a sentarse",
+ "p180.s0.b0": "Cuando la cena terminó con el canto del salmo, los apóstoles pensaron que volverían directamente al campamento. Pero Jesús les pidió que volvieran a sentarse. Les recordó que, cuando en otro tiempo los envió sin bolsa ni alforja, nada les había faltado; ahora, en tiempos difíciles en que ya no podían depender de la buena voluntad de las multitudes, debían proveer para su propio sustento.",
+ "p180.s0.b1": "Luego dijo que había llegado la hora de que el Hijo del Hombre fuera glorificado. Pronto lo buscarían y no lo encontrarían, pero cuando hubieran terminado su obra en la tierra, irían a él. Este documento presenta en seis secciones el discurso de despedida que comenzó de este modo. Su contenido es lo que el que partía quería dejar, primero y más profundamente, a los que se quedaban.",
+ "p180.s0.b2": {
+  "head": [
+   "Sección",
+   "Tema",
+   "Enseñanza central"
+  ],
+  "rows": [
+   [
+    "1",
+    "El nuevo mandamiento",
+    "Amaos los unos a los otros así como yo os he amado"
+   ],
+   [
+    "2",
+    "La vid y las ramas",
+    "Permaneced en mí y dad el fruto del servicio amante"
+   ],
+   [
+    "3",
+    "La enemistad del mundo",
+    "No os desaniméis cuando el mundo os odie; yo soy el camino, la verdad y la vida"
+   ],
+   [
+    "4",
+    "El ayudante prometido",
+    "Os enviaré el Espíritu de la Verdad para que viva en vosotros"
+   ],
+   [
+    "5",
+    "El Espíritu de la Verdad",
+    "La verdad viva y la interpretación espiritual de la regla de oro"
+   ],
+   [
+    "6",
+    "La necesidad de partir",
+    "Os conviene que yo me vaya"
+   ]
+  ]
+ },
+ "p180.s1.h": "I. El Nuevo Mandamiento — Más allá de amar al prójimo",
+ "p180.s1.b0": "Jesús dio entonces el nuevo mandamiento que había anticipado en la parábola del lavado de los pies. Los apóstoles conocían bien el mandamiento de amar al prójimo como a sí mismos. Pero el Maestro no estaba plenamente satisfecho con eso. Cambió la medida del amor de «a ti mismo» a «⟦Q 180:1.1⟧así como yo os he amado⟦/Q⟧».",
+ "p180.s1.b2": "Jesús dijo que este mandamiento no era una carga nueva, sino una nueva alegría. Nadie tiene mayor amor que el que da su vida por sus amigos, y los apóstoles ya no eran siervos, sino amigos. El narrador añade un comentario importante: lo que Jesús demanda es lealtad, no sacrificio, y el servicio de un amigo para un amigo nunca puede llamarse sacrificio.",
+ "p180.s1.b3": {
+  "head": [
+   "La mentalidad del siervo",
+   "La mentalidad del amigo"
+  ],
+  "rows": [
+   [
+    "La conciencia del sacrificio, que revela la ausencia de un afecto sincero",
+    "La lealtad, que hace del servicio amante una felicidad suprema"
+   ],
+   [
+    "Atada a la idea del deber",
+    "El impulso de la amistad trasciende todas las convicciones del deber"
+   ],
+   [
+    "El servicio sentido como una carga",
+    "El estímulo poderoso de servir como amigo y para un amigo"
+   ]
+  ]
+ },
+ "p180.s1.b5": "El Maestro había enseñado a los apóstoles que eran hijos de Dios, luego los llamó hermanos y ahora, antes de irse, los llamaba amigos. Este cambio de nombres traza la profundización de una relación. También el lector de hoy puede descubrir que, cuando la fe se ve no como una lista de deberes, sino como una amistad, el mismo servicio pasa de ser una carga a ser una alegría.",
+ "p180.s2.h": "II. La Vid y las Ramas — El verdadero sentido de la oración",
+ "p180.s2.b0": "Jesús se comparó con la vid verdadera, al Padre con el viñador y a los apóstoles con las ramas. Así como una rama separada de la vid se seca, ellos no podrían dar los frutos del servicio amante si no permanecían en él. La vid se poda solo para aumentar su fecundidad. Los apóstoles recordaron el gran emblema de la uva y de la vid a la entrada del templo de Herodes y la antigua enseñanza de que el Mesías sería «⟦Q 180:2.3⟧un brote de la vid⟦/Q⟧» de los antepasados de David.",
+ "p180.s2.b2": "El narrador señala que la mala interpretación de lo que se dijo aquí sobre la oración causó más tarde gran congoja. Los creyentes llegaron a considerar la oración en nombre de Jesús como una especie de magia suprema para obtener todo lo que pidieran, y durante siglos almas honestas han destruido su fe al tropezar con este obstáculo. La oración no es un proceso para conseguir lo que uno quiere, sino un programa para aceptar el camino de Dios. Cuando la propia voluntad está verdaderamente alineada con la suya, se puede pedir cualquier cosa concebida por esa unión de voluntades.",
+ "p180.s2.b4": "Esta parábola corrige nuestras expectativas sobre la oración. Aun cuando una rama viva pide una comodidad egoísta, la respuesta divina es dar cada vez más frutos del espíritu. También la mano disciplinadora del Padre actúa con amor en vista del fruto, y un viñador sabio corta solo las ramas muertas. Cuando la respuesta a una oración no toma la forma que deseábamos, el lector puede considerar que quizá sea una respuesta orientada a dar más fruto.",
+ "p180.s3.h": "III. La Enemistad del Mundo — El camino, la verdad y la vida",
+ "p180.s3.b0": "Jesús les dijo que no se desanimaran si el mundo los odiaba; primero lo había odiado a él. Estaban en el mundo, pero su vida no debía ser mundana; habían sido escogidos del mundo para representar ante ese mismo mundo el espíritu de otro mundo. Los que habían conocido la luz y la habían rechazado no tenían excusa, porque la luz que salva si se acepta solo puede condenar si se rechaza a sabiendas.",
+ "p180.s3.b1": "Sin embargo, prometió no dejarlos solos. En el universo del Padre hay muchos sitios de estadía, y él iría delante de ellos y enviaría a buscarlos. Cuando Tomás dijo que no conocían el camino, Jesús respondió que él era el camino; cuando Felipe pidió que les mostrara al Padre, Jesús respondió que el que lo había visto a él había visto al Padre.",
+ "p180.s3.b3": {
+  "head": [
+   "Apóstol",
+   "Pregunta",
+   "Respuesta de Jesús"
+  ],
+  "rows": [
+   [
+    "Tomás",
+    "No sabemos adónde vas, así que no conocemos el camino",
+    "Yo soy el camino, la verdad y la vida; si me conocéis, conocéis el camino al Padre"
+   ],
+   [
+    "Felipe",
+    "Muéstranos al Padre",
+    "El que me ha visto ha visto al Padre; creed por la vida misma que he vivido"
+   ],
+   [
+    "Judas Alfeo",
+    "¿Cómo te conoceremos cuando solo te manifiestes por el espíritu?",
+    "Enviaré mi espíritu, igual a mí salvo por este cuerpo material"
+   ]
+  ]
+ },
+ "p180.s4.h": "IV. El Ayudante Prometido — Irse para estar más cerca",
+ "p180.s4.b0": "Jesús prometió que, después de ir al Padre y recibir la soberanía final de su dominio, derramaría el Espíritu de la Verdad sobre toda la carne. Ahora solo podía estar con ellos en persona, en un solo lugar; entonces estaría con todos los que desearan su presencia, dondequiera que estuvieran, y con cada uno de ellos al mismo tiempo. Por eso dijo que era mejor que él se fuera.",
+ "p180.s4.b2": "En este nuevo día, los apóstoles serían habitados por el Hijo además de por el Padre. El Espíritu de la Verdad los guiaría y consolaría y les traería a la memoria todo lo que el Maestro les había enseñado. Cuando Judas Alfeo, que rara vez preguntaba algo, se atrevió a hacer una pregunta, Jesús sonrió y respondió que este espíritu viviría en el corazón de cada uno y así uniría a todos los hijos de la luz. Judas no comprendió del todo, pero captó la promesa del nuevo maestro.",
+ "p180.s5.h": "V. El Espíritu de la Verdad — La verdad viva y la regla de oro",
+ "p180.s5.b0": "En esta sección el narrador explica la naturaleza del Espíritu de la Verdad. No es la letra ni la ley de la verdad, sino la convicción de la verdad, la conciencia y la certeza de los verdaderos significados en los niveles espirituales reales. La verdad puede conocerse y vivirse, pero no puede aprisionarse en fórmulas ni credos. Cuando los seres humanos intentan formular la verdad divina, esta muere rápidamente.",
+ "p180.s5.b2": {
+  "head": [
+   "Nivel",
+   "Cómo lo define el texto"
+  ],
+  "rows": [
+   [
+    "Inteligencia",
+    "Surge de una existencia material iluminada por la presencia de la mente cósmica"
+   ],
+   [
+    "Sabiduría",
+    "La conciencia del conocimiento elevada a nuevos niveles de significado y activada por el ayudante de la sabiduría"
+   ],
+   [
+    "Verdad",
+    "Un valor de realidad espiritual que solo experimentan los seres dotados de espíritu"
+   ]
+  ]
+ },
+ "p180.s5.b3": "El texto toma como ejemplo la regla de oro. Leída literalmente, podría llevar a alguien a razonar que, puesto que quiere que los demás le digan todo lo que piensan, él debe decirles todo lo que piensa, conducta que podría acarrear un sinfín de pesares. La gente entiende la regla de oro de diversas maneras: como una afirmación intelectual, una gratificación emocional, una vara de medir social o un mandato moral. Pero para el creyente del reino se convierte en un llamado a relacionarse con los demás de modo que reciban el más alto bien posible de ese contacto.",
+ "p180.s5.b4": "El amor funciona del mismo modo. El texto dice que el amor altruista debe someterse a una readaptación constante y viva de las relaciones bajo la guía del Espíritu de la Verdad. Nuestro concepto del más alto bien de la persona amada cambia y se amplía sin cesar, y el amor debe tener en cuenta tanto el medio ambiente del mal presente como la meta eterna del destino divino. El amor no ha de seguir un molde fijado de una vez para siempre; a medida que la otra persona crece, también debe crecer la forma de nuestro amor.",
+ "p180.s5.b5": "El mismo principio se aplica a la enseñanza de la no resistencia al mal. Es un pronunciamiento espiritual que combina la no resistencia de toda reacción egoísta ante el universo con la búsqueda activa de los verdaderos valores del espíritu. Ni la regla de oro ni la no resistencia pueden entenderse correctamente como dogma o precepto; solo pueden comprenderse viviéndolas en la interpretación viva del Espíritu de la Verdad.",
+ "p180.s6.h": "VI. La Necesidad de Partir — Una pena convertida en regocijo",
+ "p180.s6.b0": "Jesús advirtió que llegaría la hora en que quienes los mataran creerían estar prestando un servicio a Dios. Se lo decía de antemano para que, llegado el momento, se fortalecieran sabiendo que él lo había sabido todo y que su espíritu estaba con ellos. Sorprendido de que ninguno le preguntara por qué se iba, les dijo claramente, como un amigo a otro, que su partida era para bien de ellos.",
+ "p180.s6.b2": "Jesús dijo que el Espíritu de la Verdad no hablaría por sí mismo, sino que declararía lo que el Padre había revelado al Hijo. Este espíritu procede del Hijo, revela la verdad del Hijo y glorifica al Hijo como el Hijo glorificó al Padre. Al residir en el creyente, el espíritu ilumina la diferencia entre el pecado y la rectitud y le permite juzgar sabiamente en su propio corazón. El centro de esta promesa es que crece un discernimiento interior en lugar de reglas externas.",
+ "p180.s6.b3": "Explicó el sentido de la separación con la figura de una mujer en trance de dar a luz. Su angustia se olvida en el regocijo del nacimiento del niño. Los apóstoles se afligirían al principio, pero cuando lo vieran de nuevo, su pena se convertiría en un regocijo que nadie podría quitarles. Les había hablado en parábolas porque eran niños en el espíritu; cuando se perfeccionaran en el crecimiento espiritual, verían al Padre mismo. Sin embargo, los once todavía no lograban desprenderse de su idea de un reino material que se establecería en la tierra.",
+ "p180.s7.h": "Conclusión — Vivir este documento",
+ "p180.s7.b0": "El documento 180 muestra cuáles deberían ser las últimas palabras de alguien que parte. Jesús no dejó reglas, sino una medida del amor; no prometió una institución, sino el Espíritu vivo de la Verdad. No negó la pena de la separación, pero mostró que era el comienzo de una compañía más profunda. Este documento traslada la fe del deber a la amistad, y de la forma a la experiencia viva.",
+ "p180.s7.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la sustenta"
+  ],
+  "rows": [
+   [
+    "Amar no según la propia medida, sino como ama el Maestro",
+    "Así como yo os he amado (180:1.1)"
+   ],
+   [
+    "Servir por amistad más que por sacrificio",
+    "Lealtad, no sacrificio (180:1.6)"
+   ],
+   [
+    "Hacer de la oración un tiempo para buscar su voluntad, no la propia",
+    "Un programa para aceptar el camino de Dios (180:2.4)"
+   ],
+   [
+    "Vivir la verdad en lugar de encerrarla en fórmulas",
+    "La verdad estática es verdad muerta (180:5.2)"
+   ],
+   [
+    "Aplicar la regla de oro según el más alto bien del otro",
+    "El más alto bien posible (180:5.7)"
+   ],
+   [
+    "Ver la separación y la pérdida como los dolores de un nuevo comienzo",
+    "La pena convertida en regocijo (180:6.7)"
+   ]
+  ]
+ },
+ "p180.s7.b2": "En el documento siguiente, el documento 181, «Las Advertencias y Admoniciones Finales», Jesús dirige una palabra personal de despedida a cada uno de los once apóstoles.",
+ "p181.lead": "La última hora en el aposento superior: la promesa de una paz que el mundo no puede dar, y una palabra de despedida para cada uno de los once mientras el Maestro daba la vuelta a la mesa.",
+ "p181.foot": {
+  "text": "Narrado por el ser intermedio secundario previamente asignado al apóstol Andrés",
+  "ref": "121:0.1"
+ },
+ "p181.s0.h": "Introducción — Oír una promesa como uno quiere",
+ "p181.s0.b0": "Después del discurso de despedida, Jesús conversó de manera informal con los apóstoles. Por fin comenzó a vislumbrarse en estos galileos que su Maestro realmente iba a dejarlos. Su esperanza se aferró a la promesa de que estaría con ellos de nuevo dentro de poco, pero olvidaron fácilmente que también ese retorno sería solo por poco tiempo.",
+ "p181.s0.b1": "El texto señala la razón con precisión. Muchos entendieron que el Maestro iba al Padre para una breve visita y que pronto volvería a establecer el reino, porque esa lectura encajaba tanto con las creencias de toda su vida como con sus ardientes esperanzas. Esta observación —que la gente encuentra con facilidad una interpretación que justifica sus propios anhelos— sirve de espejo al lector para todo el documento.",
+ "p181.s1.h": "I. Las Últimas Palabras de Consuelo — Una paz que el mundo no puede dar",
+ "p181.s1.b0": "Jesús dijo que, mientras estuviera en la carne, solo podía ser un individuo, pero que, una vez liberado de la naturaleza mortal, podría volver como espíritu residente en cada creyente. Así, el Hijo del Hombre llegaría a ser una encarnación espiritual en el alma de todos los verdaderos creyentes. Los guiaría no solo a lo largo de esta vida, sino a través de las muchas moradas del cielo de los cielos.",
+ "p181.s1.b2": "Les dijo que, para seguirlo, no debían imitar la vida natural que él había tenido que vivir en la carne, sino vivir de acuerdo con el espíritu de sus enseñanzas y el ideal de su vida: hacer la voluntad del Padre. La distinción importa. Ser discípulo no significa copiar el oficio, la vestimenta o la manera de vivir de Jesús, sino heredar la devoción a la voluntad del Padre que él tenía.",
+ "p181.s1.b4": "Dijo que, cuando la persecución los dispersara y se sintieran solos en el mundo, él sabría de su soledad, así como ellos sabrían de la suya cuando se dispersaran y dejaran al Hijo del Hombre en las manos de sus enemigos. Sin embargo, él nunca estaba solo; el Padre estaba siempre con él. Estar solo y, sin embargo, no estar solo es la forma real de la paz que él deja. Para quienes reciben el Espíritu de la Verdad, se convierte en un pozo de agua viva que brota para vida eterna.",
+ "p181.s1.b6": "El narrador explica esta paz contrastándola con dos clases de consuelo mundano. Todo lo que pueden esperar los materialistas incrédulos es el estoicismo, que se resuelve a soportar lo peor, o el optimismo, que anhela una paz que en verdad nunca llega. Ambos tienen alguna utilidad en la vida terrenal, pero ninguno tiene nada que ver con la paz que da Jesús.",
+ "p181.s1.b7": {
+  "head": [
+   "Clase de paz",
+   "Su fundamento",
+   "Su límite o carácter"
+  ],
+  "rows": [
+   [
+    "Estoicismo",
+    "La resolución firme de enfrentarse a lo inevitable",
+    "Puede volverse insensible y endurecido"
+   ],
+   [
+    "Optimismo",
+    "La esperanza que siempre mana del pecho humano",
+    "Anhela en vano una paz que en verdad nunca llega"
+   ],
+   [
+    "La paz de Jesús",
+    "Una fe absoluta en los sabios y compasivos cuidados del Padre",
+    "El consuelo de saber que se está cumpliendo la voluntad del Padre, aun en medio de las dificultades"
+   ]
+  ]
+ },
+ "p181.s1.b8": "Jesús estaba completamente dedicado a su misión, pero no era un estoico sin sentimientos; siempre buscaba el lado alegre de la vida, pero no era un optimista ciego. Sabía todo lo que le iba a ocurrir, y no temía. Su paz es la certeza de un hijo que cree plenamente que su carrera en el tiempo y en la eternidad está segura bajo el cuidado de un Padre espíritu omnisapiente, omniamante y omnipoderoso. Sobrepasa el entendimiento de la mente mortal, pero el corazón creyente puede disfrutarla plenamente.",
+ "p181.s2.h": "II. Las Admoniciones Personales de Despedida (1) — Juan, Simón el Zelote y Mateo",
+ "p181.s2.b0": "Después de terminar sus admoniciones al grupo, Jesús dio la vuelta a la mesa y habló a cada uno por turno, y cada hombre se ponía de pie cuando el Maestro se dirigía a él. La escena muestra que el Maestro conocía y amaba a los once no solo como grupo, sino como individuos, cada uno con un temperamento, una debilidad y una misión diferentes.",
+ "p181.s2.b1": "A Juan, el más joven, le confió el cuidado de su familia terrenal, porque muy probablemente Juan sobreviviría a los demás. Al «hijo del trueno» que en otro tiempo quiso hacer bajar fuego sobre los incrédulos, le dijo que debía llegar a ser el apóstol del nuevo mandamiento. Cuando Juan preguntó cómo podía aprender a amar más a sus hermanos, Jesús le respondió que lo aprendería cuando primero amara más a su Padre en el cielo y se interesara verdaderamente por el bienestar de ellos.",
+ "p181.s2.b3": "Jesús se detuvo un momento, con el semblante triste, junto al asiento vacío de Judas, pero nadie, salvo quizás Andrés, adivinó su significado. A Simón el Zelote, el patriota ardiente, le dijo que no dudaba de su lealtad, pero que Simón seguía empeñado en hacer venir el reino según su propio gusto. Nadie quedaría más desalentado después de la partida del Maestro. Sin embargo, siempre sería su apóstol, y se le prometió que el Maestro estaría con él durante toda su temporada de desaliento.",
+ "p181.s2.b5": "A Mateo, el antiguo publicano, Jesús le dijo que conocía sus inquietudes y sus esfuerzos por mantener provista la tesorería, que sus hermanos desconocían. Los apóstoles pronto serían dispersados e irían solos hasta los confines de la tierra, y Andrés ya no los dirigiría. La misión de Mateo era mostrar al mundo lo que el Padre podía hacer por un odiado recaudador de impuestos, y dedicar su vida a mostrar que Dios no hace acepción de personas.",
+ "p181.s3.h": "II. Las Admoniciones Personales de Despedida (2) — Los otros ocho",
+ "p181.s3.b0": "A Santiago le dijo que la verdadera sabiduría abarca tanto la discreción como el valor, y la sagacidad junto con la combatividad. Llegarían momentos supremos en que sus discípulos tendrían que dar la vida, pero en circunstancias ordinarias sería mucho mejor aplacar la ira de los incrédulos y vivir largo tiempo para ganar almas. A Andrés lo elogió por su liderazgo imparcial y lo liberó de la responsabilidad de director administrativo. Sin embargo, seguía en pie su responsabilidad moral de mantener unidos a sus hermanos con mano amante en el tiempo difícil que se avecinaba.",
+ "p181.s3.b2": "El último encargo a Andrés pone de relieve el valor de un lugar que no se ve. Si sus hermanos lo deseaban, debía promover la paz y la armonía entre los grupos de creyentes y mostrar un amor imparcial a los griegos de Occidente y a Abner en Oriente. Aunque las grandes obras que ven los hombres tal vez no le tocaran a él, debía contentarse con ser el maestro y consejero de quienes las hicieran. Estas palabras consuelan a todos los que sirven detrás del escenario.",
+ "p181.s3.b3": {
+  "head": [
+   "Apóstol",
+   "Lo que señaló el Maestro",
+   "Misión de toda la vida"
+  ],
+  "rows": [
+   [
+    "Juan",
+    "Ha cambiado mucho desde que era un hijo del trueno, pero debe cambiar más",
+    "Apóstol del nuevo mandamiento; cuidar de la familia del Maestro"
+   ],
+   [
+    "Simón el Zelote",
+    "Sincero y honesto, pero se niega a enfrentar la verdad",
+    "Mostrar cómo pueden cumplirse juntos el deber temporal y el servicio espiritual"
+   ],
+   [
+    "Mateo",
+    "Labores no vistas en favor de la tesorería",
+    "Mostrar que Dios no hace acepción de personas"
+   ],
+   [
+    "Santiago",
+    "Temperamento combativo",
+    "Unir el valor con la discreción y vivir largo tiempo para dar fruto"
+   ],
+   [
+    "Andrés",
+    "Imparcial, pero a veces dubitativo y tímido",
+    "Maestro y consejero de quienes hacen grandes obras; mantener unidos a los hermanos"
+   ],
+   [
+    "Los gemelos Alfeo",
+    "Trabajaron en paz con su propia parentela",
+    "La elevación de la tarea diaria y común"
+   ],
+   [
+    "Felipe",
+    "Siempre pedía que se le mostraran las cosas",
+    "Llevar a la gente a buscar a Dios con el ojo de la fe espiritual"
+   ],
+   [
+    "Natanael",
+    "Sinceridad constante, pero franqueza brusca",
+    "Unir la sinceridad con la discreción y trabajar con sus hermanos"
+   ],
+   [
+    "Tomás",
+    "A menudo le faltó fe, pero nunca valor",
+    "Mostrar cómo la verdad viva triunfa sobre la duda intelectual"
+   ],
+   [
+    "Pedro",
+    "El hablar sin pensar y la autoconfianza presuntuosa",
+    "Poner un centinela a su lengua y fortalecer a sus hermanos"
+   ]
+  ]
+ },
+ "p181.s3.b4": "A los gemelos Alfeo, Jesús les dijo que no se desanimaran cuando no hubiera multitudes de que ocuparse. Mostrarían con qué alegría y valor una persona llamada por un tiempo al servicio especial de Dios puede volver a las labores de otros días. En el centro de este encargo está la comprensión de que, para quien conoce a Dios, no existe el trabajo común ni la tarea secular.",
+ "p181.s3.b6": "A Felipe le leyó primero en voz alta la última pregunta de su corazón: ¿qué haría él si el Maestro se iba? El mundo, dijo Jesús, está lleno de personas que miran la vida como Felipe la miraba, de modo que él tenía una gran misión. A Natanael le dijo que la expresión aun de un pensamiento bueno debe ajustarse al estado del oyente. Cuando Natanael confesó que no podía comprender el significado pleno de la enseñanza, Jesús le respondió que ahora debía aprender del maestro de todos los maestros: la experiencia real.",
+ "p181.s3.b9": "A Tomás le dijo que sus dudas habían desconcertado a sus hermanos, pero nunca habían inquietado al Maestro. Por último, le dijo a Pedro que le preocupaba que no hubiera aprendido a pensar antes de hablar. Cuando Pedro declaró que, aunque todos los demás tropezaran, él moriría por el Maestro, Jesús predijo que antes de que cantara el gallo esa noche Pedro lo negaría tres o cuatro veces. Lo que no había logrado aprender en la asociación pacífica, lo aprendería a través de muchas dificultades y muchas penas.",
+ "p181.s3.b10": "Jesús dijo a todos los apóstoles que no se consternaran por no poder captar el significado pleno del evangelio, porque eran mortales finitos y lo que él les había enseñado era infinito y eterno. Prometió de nuevo que, cuando resucitara, permanecería con ellos por un tiempo, y les dijo que los amaba con el amor con que el Padre lo amaba a él. Luego cantaron un himno y partieron hacia el campamento del Monte de los Olivos.",
+ "p181.s4.h": "Conclusión — Vivir este documento",
+ "p181.s4.b0": "El documento 181 registra cómo el Maestro que partía dejó la paz a todo el grupo y una palabra destinada solo a cada uno. No encubrió sus debilidades, sino que las nombró con honestidad, dejando en claro a la vez que esas debilidades no disminuían en lo más mínimo su afecto. Al leer por turno las once admoniciones, el lector se encuentra de pie en el lugar del apóstol más cercano a su propio temperamento, escuchando la palabra destinada a él.",
+ "p181.s4.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la sustenta"
+  ],
+  "rows": [
+   [
+    "Seguir la voluntad del Padre, no la manera exterior de vivir de Jesús",
+    "No imitar su vida natural en la carne (181:1.3)"
+   ],
+   [
+    "Encontrar la paz en la confianza en el Padre, no en el estoicismo ni en el optimismo",
+    "La paz de Jesús (181:1.10)"
+   ],
+   [
+    "Para amar más a los hermanos, amar primero más a Dios",
+    "La respuesta a Juan (181:2.5)"
+   ],
+   [
+    "Tratar el trabajo ordinario como un servicio a Dios",
+    "Toda labor terrenal se vuelve servicio (181:2.19)"
+   ],
+   [
+    "Añadir discreción a la franqueza",
+    "La sinceridad unida con la discreción (181:2.21)"
+   ],
+   [
+    "Formar el hábito de pensar antes de hablar",
+    "Poner un centinela a la lengua (181:2.27)"
+   ]
+  ]
+ },
+ "p181.s4.b2": "En el documento siguiente, el documento 182, «En Getsemaní», Jesús ofrece su última oración y, solo en su angustia, se entrega a la voluntad del Padre."
+}

@@ -5,25 +5,19 @@
 # core: 36.021 'Absolute Triunity'(본문은 Trinity Absolute) — es c04 는 triunidad absoluta 로 둠, 같은 판단 대상
 # commentary p022.s4.b2: 해설 원문 'one and a quarter million' High Son Assistants, 책 22:10.7 은 1/4 백만 — 저자 확인 필요(es 는 해설대로)
 # commentary p046.s4.b8: 해설 'Galantia 결정 지름 50마일', 책 46:5.25 는 100마일 — 저자 확인(모든 언어)
-# 2026-11-22 두 번째 사용 한도: 아래 에이전트가 돌던 중 (SendMessage 로 이어 가기, 각 chunk --chunk 검사로 완료 여부 먼저 확인)
-commentary es c10 a9b5bece548af06d0
-commentary es c13 a3b8ec6c752ed3d51
-commentary es c19 abd1d6dcadfe32a64
-commentary es c20 a2ec12120e38459a0
-commentary es c21 a76c55539b334cae2
-commentary es c22 a178e090c81236147
-commentary es c23 aeaf74263d1c02c13
-commentary es c24 ac2515e1e3fc6304a
-commentary es c25 a7a3825c677b8f608
-commentary es c26 aea409d39c8c618b4
-commentary fr c01 a68d575dfc1e4f1ed
-commentary fr c02 adc52a4ab9599554a
-commentary fr c03 a89fae4d115e73bb2
-commentary fr c04 a90af663daad7c814
-commentary fr c05 a62dfead37abd2b41
-commentary fr c06 a4e5dd1b574ff19ba
-commentary fr c07 a404122fe136734cd
-commentary fr c08 ac362ab286c08b60a
-commentary fr c09 a487229c51ed9ff8e
-commentary fr c10 afed2da6c91acd6ba
-# 완료(es commentary): c01-c09 c11 c12 c14-c18. es/fr titles 57·59-61 구분자 수정 — 배포된 es/fr 메뉴 재빌드 필요
+# es/fr titles 57·59-61 구분자 수정 — 배포된 es/fr 메뉴 재빌드 필요
+# commentary p072.s6.b3: 해설 'other continents, eleven in all' — 책 72:12.1 은 행성 전체 11개 대륙으로 읽힘, 저자 확인
+# commentary p188.s4.b0: 해설 'ransom to Satan' — 책 188:4.3 은 사탄을 이름하지 않음(apostate rulers and fallen princes), 저자 확인
+# commentary p143 (s0.b0, s0.b1, s3.b1, s6.b3): 해설이 책 143편을 조금 뭉뚱그림(설교 장소·'gentiles alone'·사도별 상태 표·흩어진 주체) — 사소, 저자 판단
+# commentary p167.s1.b0: 해설 'a former member of the Sanhedrin' — 책 167:1.2 는 현직(a member); p167.s4.b2 'three days' — 책 167:4.3 은 'two or three days'. 저자 확인
+# es 152편 제목 'Condujerona la' → 'Condujeron a la' 고침(data 4곳) — es 본문·메뉴 재빌드 때 반영
+# commentary p006.s1.b3: 인라인 인용 출처 6:1.5 → 6:1.6 이 맞음(원문 단계, 모든 언어)
+# commentary p020.s0.b0: 인라인 'Sons of God' 출처 20:0.2 → 20:0.1 이 맞음(원문 단계)
+# commentary p036.s2.b3: 해설 'laboratories of the second world' — 책 36:2.15 는 2번 세계의 둘째 위성, 저자 확인
+# commentary p011.s3.b1: 해설 'divided into seven sectors'·'ascending creatures' — 책 11:3.3 은 'in part subdivided'·'natives of the seven superuniverses'; p011.s0.b1 'no records or traditions about the origin of the Isle' 출처 불명(13:0.2 근처). 저자 확인
+# commentary p195.s6.b5: 해설 'a thousand-year coma' — 책 195:10.18 은 'more than a thousand years'; p057.s2.b2 표: 876,926 태양계 수를 750억 년 줄에 둠(책 57:4.3 은 3차 순환 전체, 500억 년 전 완료). 저자 확인
+# commentary p028.s3.b0: 해설 'tens of thousands of light-years' — 책 28:4.1 은 'a thousand or a hundred thousand'. 저자 확인
+# commentary p067.s5.b0: 해설 'Amadonites were the group of 144 loyal Andonites' — 책 67:6.3 은 그 144명의 후손. 저자 확인
+# commentary p051.s3.b3/s8.b1: 해설이 51:3.5 의 '동산의 음성'을 Solonia 로 이름함(51편에는 이름 없음) — 사소
+# fr 판은 공식 프랑스어 번역대로 미터법 수치 사용(영문 해설의 마일·피트와 다름) — 의도된 차이
+# 2026-11-22 저녁: es commentary 배포 완료. 실행 중 = fr c13 c16-c26, pt c01-c08. 완료 fr c01-c12 c14 c15

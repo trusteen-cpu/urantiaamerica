@@ -647,7 +647,7 @@
   ]
  },
  "p186.s1.b5": "En esta escena el narrador pone al descubierto la naturaleza del pecado. El atractivo y la ebriedad de las malas acciones se desvanecen, y el malhechor queda a solas ante el veredicto de su propia alma. Lo que parecía una aventura mientras se cometía entrega ahora su cosecha de hechos desnudos.",
- "p186.s1.b7": "Es un registro doloroso: un hombre que había sido embajador del reino de los cielos terminó su vida abandonado y solo. Se lee menos como una condena de una persona que como una advertencia sobre adónde pueden llevar a un ser humano el cálculo egocéntrico y el resentimiento alimentado.",
+ "p186.s1.b7": "Es un registro doloroso: un hombre que había sido embajador del reino del cielo terminó su vida abandonado y solo. Se lee menos como una condena de una persona que como una advertencia sobre adónde pueden llevar a un ser humano el cálculo egocéntrico y el resentimiento alimentado.",
  "p186.s2.h": "II. La Actitud del Maestro — Cuándo hablar y cuándo callar",
  "p186.s2.b0": "Cuando lo arrestaron, Jesús sabía que su obra en la tierra en la carne había terminado, y se interesó poco por los detalles de sus juicios. Sin embargo, no guardó silencio sin excepción. Siempre respondía a las preguntas sobre la naturaleza y la divinidad de su misión, fuera quien fuera el que las hiciera, y hablaba cuando pensaba que una persona sincera podría aprender algo más de la verdad.",
  "p186.s2.b1": {
@@ -914,5 +914,152 @@
    ]
   ]
  },
- "p187.s7.b2": "El documento siguiente, el documento 188, «El Período en la Tumba», trata del entierro de Jesús, las horas en la tumba y el significado de la cruz."
+ "p187.s7.b2": "El documento siguiente, el documento 188, «El Período en la Tumba», trata del entierro de Jesús, las horas en la tumba y el significado de la cruz.",
+ "p188.lead": "Treinta y seis horas en la tumba de José y el verdadero significado de la muerte en la cruz: no un rescate ni una expiación, sino la cumbre del amor del Padre.",
+ "p188.foot": {
+  "text": "Narrado por el ser intermedio secundario previamente asignado al apóstol Andrés",
+  "ref": "121:0.1"
+ },
+ "p188.s0.h": "Introducción — Un capítulo poco conocido",
+ "p188.s0.b0": "El día y medio durante el cual el cuerpo de Jesús yació en la tumba de José es un capítulo de la vida terrenal de Micael casi desconocido. El narrador dice desde el principio que se pueden registrar la sepultura y la resurrección, pero que no es posible contar con certeza lo que realmente ocurrió durante las aproximadamente treinta y seis horas que van desde las tres de la tarde del viernes hasta las tres de la mañana del domingo. Esta honestidad, la de decir con llaneza lo que no se sabe, marca el tono de todo el documento.",
+ "p188.s0.b1": "Las autoridades tenían la intención, como se acostumbraba, de arrojar el cuerpo de Jesús a las fosas abiertas de Gehena. Pero José de Arimatea y Nicodemo fueron ante Pilato y pidieron permiso para dar al cuerpo una sepultura adecuada. José había llevado una gran suma de dinero para pagar ese privilegio, pero Pilato no quiso aceptar nada y firmó la orden en seguida.",
+ "p188.s1.h": "I. El Entierro de Jesús — El valor de dos ex miembros del sanedrín",
+ "p188.s1.b0": "En el Gólgota, unos representantes del sanedrín estaban de pie cerca para asegurarse de que el cuerpo fuera llevado a las fosas de los criminales. Cuando José presentó la orden, levantaron un tumulto e intentaron apoderarse del cuerpo por la fuerza. El centurión hizo que cuatro soldados protegieran el cuerpo con las espadas desenvainadas hasta que se restauró el orden; luego leyó en voz alta el permiso de Pilato y entregó el cuerpo a José.",
+ "p188.s1.b2": "Una persona crucificada no podía ser enterrada en un cementerio judío, de modo que los dos hombres decidieron depositar a Jesús en el nuevo sepulcro de la familia de José, labrado en roca sólida. José creía sinceramente en la resurrección, mientras que Nicodemo tenía dudas. Pero estos dos ex miembros del sanedrín, que habían mantenido su fe más o menos oculta, se convirtieron de aquí en adelante en los discípulos más francos de Jerusalén.",
+ "p188.s1.b3": {
+  "head": [
+   "Etapa del entierro",
+   "Lo que se hizo"
+  ],
+  "rows": [
+   [
+    "Partida, a eso de las cuatro y media",
+    "El cuerpo, envuelto en lino, fue llevado por José, Nicodemo, Juan y el centurión romano"
+   ],
+   [
+    "Preparación",
+    "Se envolvió el cuerpo con vendajes empapados en una solución de mirra y aloe, y se ató un paño alrededor de la cara"
+   ],
+   [
+    "Depósito",
+    "Envuelto en un sudario de lino, el cuerpo fue colocado con reverencia en un anaquel de la tumba"
+   ],
+   [
+    "Cierre",
+    "Los soldados hicieron rodar la piedra que cerraba la entrada"
+   ],
+   [
+    "La resolución de las mujeres",
+    "Como pensaban que el cuerpo no había sido preparado en forma adecuada, se propusieron regresar con especias el domingo por la mañana"
+   ]
+  ]
+ },
+ "p188.s1.b4": "Los hombres se apresuraron a marcharse porque se acercaba el sábado, pero María Magdalena, María la mujer de Clopas, Marta (hermana de la madre de Jesús) y Rebeca de Séforis permanecieron cerca de la tumba hasta que oscureció. El texto añade que, aparte de David Zebedeo y José, casi ninguno de los discípulos creía realmente que Jesús resucitaría el tercer día.",
+ "p188.s2.h": "II. La Vigilancia de la Tumba — El bando que recordó la promesa",
+ "p188.s2.b0": "Sus seguidores habían olvidado la promesa del tercer día, pero sus enemigos no. Reunidos en la casa de Caifás alrededor de la medianoche del viernes, los líderes temían que los discípulos robaran el cuerpo y proclamaran una resurrección. A la mañana siguiente un comité fue ante Pilato para pedir una guardia.",
+ "p188.s2.b1": "Pilato les dio diez soldados, y ellos añadieron diez guardianes del templo, de modo que veinte hombres vigilaban la tumba. Se hizo rodar otra piedra ante la tumba, y sobre ella se colocó el sello de Pilato. Hay aquí una ironía: la misma minuciosidad de su esfuerzo por frustrar la promesa haría que los acontecimientos que siguieron quedaran atestiguados con mayor claridad todavía.",
+ "p188.s3.h": "III. Durante el Sábado — Treinta y seis horas en la tumba",
+ "p188.s3.b0": "Durante todo el sábado los discípulos y los apóstoles permanecieron ocultos, mientras casi un millón y medio de peregrinos presentes en Jerusalén hablaban de la crucifixión. Estos peregrinos pronto llevarían la noticia de la resurrección a sus lugares de origen. El sábado por la noche, Juan Marcos reunió discretamente a los once apóstoles en el aposento superior de la última cena.",
+ "p188.s3.b1": "Entretanto, los creyentes dispersos pasaron el sábado donde se encontraban. María regresó con Ruth y Judá junto a la familia en Betania; David, en la casa de Nicodemo, se preparó para reunir a sus mensajeros el domingo por la mañana; las mujeres de Galilea se quedaron en la casa de José y prepararon especias. Aun en medio de su dolor, cada uno siguió haciendo en silencio lo que podía.",
+ "p188.s3.b2": "El narrador trata con gran cuidado el estado de Jesús en la tumba. Jesús dijo: «⟦Q 188:3.4⟧Padre, en tus manos encomiendo mi espíritu⟦/Q⟧»; sin embargo, como su Ajustador del Pensamiento había sido personalizado mucho tiempo antes, el narrador admite que no comprende plenamente lo que significaban esas palabras. Solo puede sugerir que lo que Jesús confió al Padre fue una realidad espiritual análoga al alma de los mortales de fe creciente.",
+ "p188.s3.b4": {
+  "head": [
+   "El relato prudente de los narradores",
+   "Lo que dicen"
+  ],
+  "rows": [
+   [
+    "La conciencia de Creador",
+    "La conciencia de Creador de Micael debe haber estado libre y activa, separada de su mente mortal"
+   ],
+   [
+    "El ex Ajustador",
+    "Presente en la tierra durante este tiempo, al mando personal de las huestes celestiales reunidas"
+   ],
+   [
+    "La identidad espiritual adquirida",
+    "Confiada a la custodia del Padre; se cree que volvió para formar parte de la personalidad resucitada"
+   ],
+   [
+    "La conciencia humana",
+    "Dormida; la resurrección siguió al sueño de la muerte como si fuera un mismo instante"
+   ]
+  ]
+ },
+ "p188.s3.b5": "También consta que durante este tiempo el concilio supremo de Salvington se reunió en Urantia y que hubo mensajes entre Micael y Emanuel. En el primer mundo de estancia se erigió el «Monumento conmemorativo de Micael». El narrador dice que todo esto sugiere que no toda la personalidad de Jesús estaba dormida, pero admite que interpretarlo está más allá de su capacidad.",
+ "p188.s4.h": "IV. El Significado de la Muerte en la Cruz — Ni expiación ni rescate",
+ "p188.s4.b0": "Esta sección es el corazón del documento. El texto afirma con claridad que Jesús no murió para expiar la culpa racial de la humanidad, ni para apaciguar a un Dios airado, ni para pagar a Satanás un rescate por el hombre. Al mismo tiempo advierte que, al evitar este error, no debemos perder de vista el verdadero significado de la muerte en la cruz.",
+ "p188.s4.b2": "El texto dice que antes de la venida de Jesús tal vez se podía estar justificado en creer en un Dios tan severo, pero ya no desde que él vivió y murió entre nosotros. A medida que crece la revelación, también debe crecer nuestra comprensión de Dios. Su explicación de la naturaleza del pecado, en particular, alivia el vago sentimiento de culpa que tantas personas llevan consigo.",
+ "p188.s4.b4": {
+  "head": [
+   "Idea que el texto rechaza",
+   "Verdad que el texto expone"
+  ],
+  "rows": [
+   [
+    "Expiación de la culpa racial de la humanidad",
+    "El pecado no se hereda; es la rebeldía consciente y deliberada de un individuo (188:4.5)"
+   ],
+   [
+    "Apaciguar la ira de un Dios ofendido",
+    "Dios es un Padre verdadero y amante (188:4.8)"
+   ],
+   [
+    "Un rescate pagado a gobernantes apóstatas",
+    "Los mortales nunca fueron propiedad de los embusteros (188:4.3)"
+   ],
+   [
+    "El inocente puesto en lugar del culpable",
+    "Ni siquiera un monarca rígido quedaría satisfecho con un recurso tan infantil (188:4.11)"
+   ],
+   [
+    "Un deseo egoísta de salvación personal",
+    "Un impulso altruista a amar y servir al prójimo (188:4.9)"
+   ]
+  ]
+ },
+ "p188.s4.b5": "¿Qué es, entonces, Jesús? El texto dice que, aunque quizá no sea adecuado llamarlo uno que se sacrifica o un rescatador, es totalmente correcto llamarlo salvador. Vivió y murió no solo para este mundo, sino para todo un universo, y dejó aclarada para siempre la sobrevivencia de la personalidad después de la muerte.",
+ "p188.s4.b7": "La salvación no es una transacción filosófica, sino una realidad. Descansa sobre dos realidades, la paternidad de Dios y la hermandad del hombre, que pueden ser captadas por la fe e incorporadas a la experiencia personal de cada uno. Al verdadero creyente le preocupa menos el castigo futuro que la separación presente de Dios.",
+ "p188.s5.h": "V. Las Lecciones de la Cruz — El signo del amor que vence al odio",
+ "p188.s5.b0": "La cruz muestra la devoción suprema del verdadero pastor, incluso por los miembros de su rebaño que no la merecen. Coloca para siempre la relación entre Dios y el hombre sobre una base de familia: Dios es el Padre, y el hombre es su hijo.",
+ "p188.s5.b2": "El texto dice que el perdón del amor trasciende el perdón de la misericordia. La misericordia pone a un lado la culpa, pero el amor destruye el pecado y toda la debilidad que de él resulta. El perdón de Jesús no es una condonación que reste importancia al mal; es la salvación de la condenación, que enmienda la falta.",
+ "p188.s5.b3": "El sufrimiento de Jesús no se limitó a la cruz. Durante más de veinticinco años había llevado la cruz de una existencia mortal real e intensa. Su oración, «⟦Q 188:5.6⟧Padre, perdónalos,⟦/Q⟧» convirtió la cruz en símbolo eterno del triunfo del amor sobre el odio y de la verdad sobre el mal. Esa devoción de amor pasó a sus discípulos: el primer maestro que dio su vida por el evangelio oró, mientras lo apedreaban, para que ese pecado no se cargara a la cuenta de ellos.",
+ "p188.s5.b5": "Se dice que nadie tiene mayor amor que el de dar la vida por sus amigos, pero el amor de Jesús alcanzó incluso a sus enemigos. El significado de la cruz, por tanto, no está en lo que el Padre exigió, sino en lo que el Hijo dio voluntariamente.",
+ "p188.s5.b7": "El texto nos insta a no mirar la cruz con los ojos del hombre primitivo, suponiendo un Dios que impone la ley de manera implacable. Es, más bien, la cumbre del despliegue del amor divino del Padre. También ofrece el consuelo de que nadie debe temer jamás que el Creador no conozca nuestro sufrimiento.",
+ "p188.s5.b9": "El narrador resume una vez más: la muerte en la cruz no tuvo por objeto reconciliar al hombre con Dios. Tuvo por objeto estimular al hombre a la comprensión del amor eterno del Padre y de la misericordia sin fin del Hijo, y difundir estas verdades a todo un universo. El relato de que criaturas de incontables mundos, a punto de abandonar la lucha de la fe, miraron a Jesús en la cruz y se levantaron de nuevo muestra que este amor sigue siendo un poder que levanta al cansado.",
+ "p188.s6.h": "Conclusión — Vivir este documento",
+ "p188.s6.b0": "Junto con la fidelidad silenciosa al pie de la tumba, el documento 188 nos pide que cambiemos nuestra manera de ver la cruz. No es una ofrenda para apaciguar a un Dios airado; es el signo de una persona buena que se entrega a los malvados y los salva por el amor. Contemplarla despierta en nosotros el deseo de ir y hacer lo mismo.",
+ "p188.s6.b1": {
+  "head": [
+   "Práctica",
+   "El pasaje que la sustenta"
+  ],
+  "rows": [
+   [
+    "Tener la honestidad de decir lo que no se sabe",
+    "No sabemos en verdad (188:3.4)"
+   ],
+   [
+    "Reemplazar al Dios del temor por el Padre amante",
+    "Las ideas del rescate y de la expiación son incompatibles con el concepto de Dios que enseñó Jesús (188:4.8)"
+   ],
+   [
+    "Preocuparse más por servir a los demás que por la propia salvación",
+    "El impulso altruista (188:4.9)"
+   ],
+   [
+    "No condonar el mal, sino enmendarlo con amor",
+    "La salvación enmienda las faltas (188:5.2)"
+   ],
+   [
+    "Dejar a un lado las pequeñas quejas",
+    "No volver a quejarse de las pequeñas dificultades (188:5.10)"
+   ],
+   [
+    "Recordar que no estamos solos en el sufrimiento",
+    "El Creador conoce nuestras aflicciones (188:5.12)"
+   ]
+  ]
+ },
+ "p188.s6.b2": "El documento siguiente, el documento 189, «La Resurrección», relata lo que sucedió en la tumba antes del amanecer del domingo y el descubrimiento de la tumba vacía por las mujeres."
 }
