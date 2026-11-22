@@ -4,3 +4,26 @@
 # jesus: 연대기 끝 문장 출처 표기(ui.c_quote_by) 확인 필요 — 원문 그대로 인용 아님
 # core: 36.021 'Absolute Triunity'(본문은 Trinity Absolute) — es c04 는 triunidad absoluta 로 둠, 같은 판단 대상
 # commentary p022.s4.b2: 해설 원문 'one and a quarter million' High Son Assistants, 책 22:10.7 은 1/4 백만 — 저자 확인 필요(es 는 해설대로)
+# commentary p046.s4.b8: 해설 'Galantia 결정 지름 50마일', 책 46:5.25 는 100마일 — 저자 확인(모든 언어)
+# 2026-11-22 두 번째 사용 한도: 아래 에이전트가 돌던 중 (SendMessage 로 이어 가기, 각 chunk --chunk 검사로 완료 여부 먼저 확인)
+commentary es c10 a9b5bece548af06d0
+commentary es c13 a3b8ec6c752ed3d51
+commentary es c19 abd1d6dcadfe32a64
+commentary es c20 a2ec12120e38459a0
+commentary es c21 a76c55539b334cae2
+commentary es c22 a178e090c81236147
+commentary es c23 aeaf74263d1c02c13
+commentary es c24 ac2515e1e3fc6304a
+commentary es c25 a7a3825c677b8f608
+commentary es c26 aea409d39c8c618b4
+commentary fr c01 a68d575dfc1e4f1ed
+commentary fr c02 adc52a4ab9599554a
+commentary fr c03 a89fae4d115e73bb2
+commentary fr c04 a90af663daad7c814
+commentary fr c05 a62dfead37abd2b41
+commentary fr c06 a4e5dd1b574ff19ba
+commentary fr c07 a404122fe136734cd
+commentary fr c08 ac362ab286c08b60a
+commentary fr c09 a487229c51ed9ff8e
+commentary fr c10 afed2da6c91acd6ba
+# 완료(es commentary): c01-c09 c11 c12 c14-c18. es/fr titles 57·59-61 구분자 수정 — 배포된 es/fr 메뉴 재빌드 필요

@@ -1,0 +1,1400 @@
+{
+ "p060.lead": "El súbito surgimiento de los reptiles, el reinado y la caída de los dinosaurios, la llegada de las flores y de las aves, y el nacimiento de las montañas: la historia de cien millones de años del Mesozoico.",
+ "p060.foot": {
+  "text": "Presentado por un Portador de Vida de Nebadon asignado a Satania y que trabaja actualmente en Urantia",
+  "ref": "60:4.7"
+ },
+ "p060.s0.h": "Introducción — El fin de la era de la vida solo marina",
+ "p060.s0.b0": "Tras la era de la vida marina, el documento 60 presenta la era primitiva de la vida terrestre, los cien millones de años que los geólogos llaman Mesozoico. La elevación de las tierras, el enfriamiento de la corteza y de los océanos, la reducción de los mares y un gran aumento de tierra en las latitudes septentrionales actuaron juntos para cambiar el clima en todas las regiones alejadas del ecuador. Así terminó la edad en que la vida existía únicamente en el mar.",
+ "p060.s0.b2": "El punto de partida fue escaso. Muy pocos tipos habían sobrevivido a la tribulación biológica del final de la era anterior; las ranas subsistieron en número muy reducido, y aun las plantas portadoras de esporas estaban casi extintas. A partir de ese comienzo tan pobre, el documento sigue en tres períodos cómo los dinosaurios invadieron la tierra y luego desaparecieron, y cómo surgieron las flores y las aves.",
+ "p060.s0.b3": {
+  "head": [
+   "Período",
+   "Duración",
+   "Rasgos"
+  ],
+  "rows": [
+   [
+    "Triásico — la edad primitiva de los reptiles",
+    "25 millones de años a partir de hace 150 millones de años",
+    "Aparición súbita de los reptiles, fracaso de los primeros mamíferos, amonites"
+   ],
+   [
+    "Jurásico — la edad posterior de los reptiles",
+    "Casi 25 millones de años a partir de hace 120 millones de años",
+    "Evolución y ocaso de los dinosaurios, serpientes de mar y pterosaurios"
+   ],
+   [
+    "Cretácico — la edad de las plantas floríferas y de las aves",
+    "Los 50 millones de años siguientes",
+    "Angiospermas, aves verdaderas, fin de la deriva continental y formación de las montañas"
+   ]
+  ]
+ },
+ "p060.s1.h": "I. La Edad Primitiva de los Reptiles — Los reptiles aparecen de repente",
+ "p060.s1.b0": "Las capas de yeso y los estratos rojos de los depósitos de este período muestran que el clima de América y de Europa era árido. Los fósiles escasean, pero quedan muchas huellas de reptiles terrestres en la arenisca, y la vida de los animales terrestres continuó sin interrupción solo en ciertas partes de África. Las Palisades del río Hudson, la caliza dolomítica de los Alpes meridionales y el mármol de Carrara son huellas de esta época.",
+ "p060.s1.b1": "Cuando comenzó la era, hace 150 millones de años, las partes oriental y central de Norteamérica, la mayor parte de Europa y toda Asia se hallaban muy por encima del agua. Norteamérica quedó geográficamente aislada por primera vez, aunque pronto reapareció el puente terrestre del Estrecho de Bering, que la unió de nuevo con Asia. Se formaron grandes depresiones, como la falla del este de Connecticut, que más tarde se llenaron con depósitos de la erosión, y los bosques petrificados de muchas regiones pertenecen a esta época. A la vida no le fue bien, pero le fue mejor que en el duro final de la era anterior.",
+ "p060.s1.b2": "Luego, hace 140 millones de años, con solo el indicio de dos antepasados prerreptiles que se habían desarrollado en África, los reptiles aparecieron súbitamente en forma plenamente desarrollada. Pronto dieron origen a los cocodrilos, a los reptiles escamosos, a las serpientes de mar y a los reptiles voladores, y los dinosaurios se convirtieron en los monarcas de la edad. Los primeros dinosaurios eran pequeños y carnívoros, y caminaban como los canguros sobre sus patas traseras.",
+ "p060.s1.b4": "Varios millones de años después aparecieron los primeros mamíferos, pero no eran placentarios y fracasaron pronto; ninguno sobrevivió. El autor lo registra con sencillez como un experimento que no tuvo éxito. En los mares florecieron multitudes de hermosos amonites, y solo en la costa de California se desarrollaron más de mil especies de ellos.",
+ "p060.s2.h": "II. El Fin de la Edad de los Reptiles — El callejón sin salida del puro tamaño",
+ "p060.s2.b0": "El gran acontecimiento del Jurásico, que comenzó hace 120 millones de años, fue la evolución y el ocaso de los dinosaurios. Los hubo de todos los tamaños, desde especies de poco más de medio metro de largo hasta enormes herbívoros de casi veintitrés metros. Pero cuanto más crecían, menos activos y fuertes se volvían; necesitaban cantidades enormes de alimento, y la tierra llegó a estar tan atestada de ellos que al final murieron de hambre.",
+ "p060.s2.b2": "El Jurásico fue también una edad de agua dulce, con muchos lagos interiores, como lo muestran los ricos fósiles de agua dulce de los lechos de Morrison en Colorado, Montana y Wyoming. La invasión del mar fue mayor en Europa, donde se depositó la bella piedra litográfica de Alemania meridional. El regreso de los mares mejoró el clima: los corales se extendieron a las aguas europeas, los amonites dominaron la vida invertebrada de los océanos, y aparecieron un tipo de pez semejante al esturión y los crustáceos modernos.",
+ "p060.s2.b4": "Esta sección muestra también que la evolución no siempre avanza. Dos especies de dinosaurios, desplazadas de la tierra, se fueron al agua y se convirtieron en serpientes de mar; otros dos tipos fueron empujados al aire y se convirtieron en pterosaurios. Ninguna de las dos líneas perduró, pues su cerebro era demasiado pequeño para su cuerpo.",
+ "p060.s2.b5": {
+  "head": [
+   "Rama",
+   "Descripción",
+   "Resultado"
+  ],
+  "rows": [
+   [
+    "Serpientes de mar (ictiosauros)",
+    "A veces de quince metros de largo, con un cerebro de menos de cincuenta gramos",
+    "Un paso atrás en la evolución; se volvieron lerdas y perecieron"
+   ],
+   [
+    "Cocodriloideos marinos",
+    "Una reversión del reptil terrestre, pero ponían sus huevos en tierra",
+    "A diferencia de las serpientes de mar, conservaron su vínculo con la tierra"
+   ],
+   [
+    "Pterosaurios",
+    "Evolucionaron de los dinosaurios saltadores, con alas como de murciélago de seis a ocho metros de envergadura",
+    "Una ascendencia de aves que no sobrevivió"
+   ],
+   [
+    "Tortugas",
+    "Aparecieron primero en Norteamérica, llegadas de Asia por el puente terrestre boreal",
+    "Se multiplicaron durante este período"
+   ]
+  ]
+ },
+ "p060.s2.b7": "Hace cien millones de años la edad de los reptiles se acercaba a su fin. En este punto el autor declara que la dirección de la evolución está cambiando. Esta breve frase es la clave de todo el documento 60.",
+ "p060.s3.h": "III. La Etapa Cretácea — El Período de las Plantas Floríferas — La Edad de las Aves",
+ "p060.s3.b0": "El Cretácico toma su nombre de los foraminíferos formadores de greda que dominaban los mares. En este período los continentes a la deriva se encontraron con el profundo fondo del Pacífico, y comenzó a elevarse la gran cordillera de norte a sur que va de Alaska al Cabo de Hornos, lo cual abrió la etapa moderna de formación de montañas en la historia geológica. Cuando la deriva hacia el oeste se detuvo hace 80 millones de años, su impulso arrugó el litoral del Pacífico y produjo el levantamiento que circunda el Pacífico, de más de cuarenta mil kilómetros de largo: la mayor deformación de la superficie desde que apareció la vida.",
+ "p060.s3.b1": "Los estratos de este período dejaron también otros dones. A lo largo de la costa atlántica se depositaron capas de arcilla pura, que hoy se usan para fabricar loza de barro, junto con greda, marga de arenisca verde, lignito y depósitos que contienen petróleo. Las capas porosas impregnadas de greda absorben el agua en sus afloramientos y la llevan hacia abajo, abasteciendo de agua a muchas de las regiones áridas de hoy. Cuando se cerró el Estrecho de Bering hace 85 millones de años, la vida marina de las aguas del Atlántico y del Golfo y la del Pacífico se volvieron uniformes.",
+ "p060.s3.b2": "La deriva continental terminó hace 75 millones de años. Las cordilleras de la costa del Pacífico, de Alaska al Cabo de Hornos, estaban completas, aunque todavía con pocos picos. El empuje contrario de la deriva detenida siguió elevando las planicies del oeste de Norteamérica, y cuando la región de las Montañas Rocosas alcanzó su máxima elevación hace 70 millones de años, en la Columbia Británica las rocas cámbricas fueron impulsadas veinticuatro kilómetros por encima de las capas cretáceas. Los lugares donde estratos más antiguos descansan sobre otros más recientes exigen cuidado al leer la historia de la tierra.",
+ "p060.s3.b3": "Hace noventa millones de años aparecieron súbitamente las angiospermas, junto con las higueras, las magnolias y los tulipaneros, y pronto invadieron los continentes. Muchos de los árboles actuales —hayas, robles, arces y otros— aparecieron por primera vez, y abundaron las frutas, las hierbas y los cereales. El autor compara la importancia de estas plantas portadoras de semillas con la aparición del hombre.",
+ "p060.s3.b5": "Dos intentos de producir criaturas voladoras habían fracasado. Las preaves zancudas y nadadoras y los dinosaurios voladores se extinguieron, pues tenían muy poco cerebro para el tamaño de su cuerpo. Luego, hace 55 millones de años, apareció súbitamente una pequeña ave verdadera parecida a la paloma, que surgió directamente del grupo de los reptiles. Fue la antepasada de toda la fauna avícola.",
+ "p060.s3.b6": "El clima seguía siendo cálido y uniforme; incluso las regiones árticas gozaban de un tiempo como el que tienen hoy el centro y el sur de Norteamérica. Hace sesenta millones de años los dinosaurios seguían siendo los monarcas de la tierra, pero ahora tomaban la delantera los tipos carnívoros más pequeños y ágiles, y con la aparición de las hierbas se multiplicaron rápidamente nuevos dinosaurios herbívoros con dos cuernos y una capa en los hombros. Aparecieron también tortugas terrestres de seis metros de ancho, el cocodrilo moderno y las verdaderas serpientes.",
+ "p060.s3.b7": {
+  "head": [
+   "Criatura voladora",
+   "Origen",
+   "Resultado"
+  ],
+  "rows": [
+   [
+    "Primera — los pterosaurios",
+    "Dinosaurios saltadores de hueso hueco",
+    "No lograron evolucionar en líneas que sobrevivieran y se extinguieron"
+   ],
+   [
+    "Segunda — las preaves y los dinosaurios voladores",
+    "Criaturas zancudas y nadadoras",
+    "De corta existencia; perecieron por falta de sustancia cerebral"
+   ],
+   [
+    "Tercera — las aves verdaderas",
+    "Surgieron directamente del grupo de los reptiles",
+    "Antepasadas de toda la fauna avícola"
+   ]
+  ]
+ },
+ "p060.s4.h": "IV. El Fin del Período de la Greda — Nacen las montañas y se prepara la etapa siguiente",
+ "p060.s4.b0": "El final del Cretácico puso fin a las grandes invasiones marinas de los continentes. Norteamérica había sufrido exactamente veinticuatro grandes inundaciones, con la tierra y el mar alternándose en el predominio en ciclos de millones de años. Estos movimientos rítmicos de la corteza continuarán, pero con frecuencia y extensión cada vez menores.",
+ "p060.s4.b1": "El factor principal que determina dónde se forma una cordillera no es la presión continental, sino la existencia previa de una tierra baja o una depresión rellena de depósitos más livianos. Cuando la corteza se somete a presión, estas zonas más livianas son las primeras en arrugarse y elevarse. Las Montañas Rocosas de hoy no son la elevación original; aquella tierra fue nivelada por la erosión y luego elevada de nuevo, y Pikes Peak y Longs Peak abarcan dos o más generaciones de vidas de montañas.",
+ "p060.s4.b2": {
+  "head": [
+   "Edad de las montañas",
+   "Dónde"
+  ],
+  "rows": [
+   [
+    "Las más antiguas",
+    "Los sistemas más antiguos de este a oeste de Asia, Groenlandia y Europa septentrional"
+   ],
+   [
+    "Las de edad mediana",
+    "El grupo que circunda el Pacífico y el segundo sistema europeo de este a oeste, nacidos más o menos en la misma época, de casi dieciséis mil kilómetros de largo, desde Europa hasta las Antillas"
+   ],
+   [
+    "Las más jóvenes",
+    "El sistema de las Montañas Rocosas"
+   ]
+  ]
+ },
+ "p060.s4.b3": "Al final de este período los amonites disminuyeron rápidamente, y los bosques de helechos dieron paso a los pinos y otros árboles modernos, entre ellos las gigantescas secuoyas. Todavía no había mamíferos placentarios, pero el escenario estaba plenamente preparado para que aparecieran los antepasados de los futuros mamíferos.",
+ "p060.s5.h": "Conclusión — Vivir este documento",
+ "p060.s5.b0": "La lección central del documento 60 es que la inteligencia importa más que el tamaño. Los dinosaurios, que gobernaban cuerpos de cuarenta toneladas con cerebros de menos de medio kilo, prosperaron hasta cubrir la tierra, pero desaparecieron porque les faltaba la inteligencia para hacer frente a su situación. Desde entonces, la evolución sigue el crecimiento del cerebro y no el del volumen. El documento tampoco oculta los experimentos fallidos —los primeros mamíferos y dos intentos de criaturas voladoras— y muestra que después de ellos vinieron las aves verdaderas y las plantas floríferas.",
+ "p060.s5.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la respalda"
+  ],
+  "rows": [
+   [
+    "Cultivar la capacidad de afrontar las situaciones con sabiduría en vez de buscar más y más grande",
+    "Los dinosaurios murieron de hambre porque les faltaba la inteligencia para sobrellevar la situación"
+   ],
+   [
+    "Advertir cuándo retirarse al camino más fácil puede ser un paso atrás",
+    "Las serpientes de mar que abandonaron la tierra representan un paso atrás en la evolución"
+   ],
+   [
+    "Tratar los intentos fallidos como preparación para un éxito posterior",
+    "Tras dos fracasos de criaturas voladoras, aparecieron las aves verdaderas"
+   ],
+   [
+    "Hacer del crecimiento de la mente y del entendimiento la dirección de la propia vida",
+    "La evolución seguirá el crecimiento del cerebro, no el volumen físico"
+   ]
+  ]
+ },
+ "p060.s5.b2": "El documento 61 pasa a la era de los mamíferos que se desarrolla sobre este escenario. Desde la aparición de los mamíferos placentarios hasta la edad glacial y la llegada del hombre, seguimos hacia dónde conduce finalmente una evolución guiada por el crecimiento del cerebro.",
+ "p061.lead": "Desde los primeros mamíferos placentarios, pasando por la edad de los elefantes y los caballos y seis invasiones de hielo, hasta los primeros seres humanos: el registro de cincuenta millones de años del Cenozoico.",
+ "p061.foot": {
+  "text": "Auspiciado por un Portador de Vida residente",
+  "ref": "61:7.20"
+ },
+ "p061.s0.h": "Introducción — Del paraíso de los animales a la cuna del hombre",
+ "p061.s0.b0": "El documento 61 es el último de los que relatan la historia geológica de Urantia. La era de los mamíferos va desde el origen de los mamíferos placentarios hasta el final de la edad glacial, un lapso de poco menos de cincuenta millones de años. Su paisaje era de colinas onduladas, amplios valles, ríos anchos y grandes bosques, y los árboles estaban llenos de aves.",
+ "p061.s0.b2": "Los depósitos de los cinco períodos de estos cincuenta millones de años guardan el registro fósil de una dinastía de mamíferos tras otra, hasta llegar a la aparición misma del hombre. Así, este documento es a la vez una historia de los animales y el relato de cómo se preparó el escenario para los seres humanos.",
+ "p061.s0.b3": {
+  "head": [
+   "Período",
+   "Nombre de los geólogos",
+   "Acontecimiento central"
+  ],
+  "rows": [
+   [
+    "La nueva etapa terrestre continental",
+    "Eoceno",
+    "Aparición súbita de los mamíferos placentarios"
+   ],
+   [
+    "La etapa reciente de las inundaciones",
+    "Oligoceno (diez millones de años)",
+    "Los mamíferos placentarios dominan el mundo; aparecen los tipos modernos"
+   ],
+   [
+    "La etapa de las montañas modernas",
+    "Mioceno",
+    "La edad del elefante y del caballo"
+   ],
+   [
+    "La etapa reciente de la elevación continental",
+    "Plioceno (casi diez millones de años)",
+    "La última gran emigración de los mamíferos"
+   ],
+   [
+    "La edad glacial",
+    "Pleistoceno (más de dos millones de años)",
+    "Seis invasiones de hielo y el nacimiento del hombre primitivo"
+   ]
+  ]
+ },
+ "p061.s1.h": "I. La Edad de los Mamíferos Primitivos — Aparecen los mamíferos placentarios",
+ "p061.s1.b0": "Hace cincuenta millones de años los mamíferos placentarios aparecieron súbitamente en Norteamérica. Antes habían existido mamíferos no placentarios, pero este tipo nuevo surgió directamente de un antepasado reptil cuyos descendientes habían persistido a través de la decadencia de los dinosaurios. El autor lo llama la evolución más importante hasta ese momento.",
+ "p061.s1.b2": "En estos mamíferos primitivos comenzaron a manifestarse los instintos básicos de los mamíferos. El documento enumera cinco razones por las que los mamíferos tienen una inmensa ventaja de supervivencia sobre todos los demás animales. La segunda —que alimentan, adiestran y protegen a sus crías con afecto— muestra que el amor y el cuidado son en sí mismos una fuerza para la supervivencia.",
+ "p061.s1.b3": {
+  "head": [
+   "Ventaja de supervivencia de los mamíferos",
+   "Qué significa"
+  ],
+  "rows": [
+   [
+    "1. Nacimiento",
+    "Dan a luz crías relativamente maduras y bien desarrolladas"
+   ],
+   [
+    "2. Crianza",
+    "Alimentan, amamantan y protegen a sus crías con afecto"
+   ],
+   [
+    "3. Cerebro",
+    "Emplean una capacidad cerebral superior para perpetuarse"
+   ],
+   [
+    "4. Agilidad",
+    "Usan una mayor agilidad para escapar de sus enemigos"
+   ],
+   [
+    "5. Inteligencia",
+    "Aplican una inteligencia superior al ajuste y la adaptación al medio"
+   ]
+  ]
+ },
+ "p061.s1.b4": "Hace 45 millones de años vivían en los bosques pequeños caballos, rinocerontes veloces, tapires, puercos primitivos, ardillas, lémures, zarigüeyas y animales parecidos a los monos. Había también una gran ave parecida al avestruz, de tres metros de altura, antepasada de las posteriores aves de pasaje, sumamente inteligentes, que en otro tiempo transportaron seres humanos por el aire. Los mamíferos de esta época estaban todos cubiertos de pelo y tenían cerebros grandes para su tamaño, pero aún no existía ninguna forma moderna.",
+ "p061.s1.b5": "Más adelante en esta época la mayor parte de Europa quedó sumergida, y las tierras altas de los Alpes y los Pirineos sobresalían como islas. La caliza foraminífera depositada entonces en las aguas europeas se encuentra hoy a 4.800 metros de altura en el Himalaya y a 6.000 metros en el Tíbet. Norteamérica estaba unida por tierra a todos los continentes salvo Australia, y el mundo fue invadido por los mamíferos primitivos.",
+ "p061.s2.h": "II. La Edad de los Mamíferos Avanzados — El cerebro reemplaza a la coraza",
+ "p061.s2.b0": "Hace treinta y cinco millones de años comienza el dominio de los mamíferos placentarios sobre el mundo. De antepasados carnívoros se ramificaron pronto familias herbívoras y luego omnívoras, y las angiospermas eran su principal alimento. Antes de que terminara el período se habían extinguido más de cien especies de mamíferos primitivos, y aun los grandes mamíferos de cerebro pequeño perecieron pronto.",
+ "p061.s2.b2": "En este período aparecieron los antepasados de los perros, los gatos, los mapaches y las comadrejas, junto con roedores como los castores, las ardillas y los conejos. A partir de hace 30 millones de años evolucionaron los animales de pezuña que pastaban en las llanuras, a diferencia de los mamíferos anteriores de las colinas. Los camellos y las llamas se originaron en Norteamérica y más tarde emigraron, los camellos a Europa y las llamas a Sudamérica. Y en el oeste de Norteamérica aparecieron por primera vez los primeros antepasados de los antiguos lémures, estableciendo la línea de la que más tarde surgirían los verdaderos lémures.",
+ "p061.s2.b3": "Mientras tanto, así como las serpientes terrestres de una edad anterior se habían ido al mar, toda una tribu de mamíferos placentarios abandonó la tierra por los océanos y dio origen a las ballenas, los delfines, las focas y los leones marinos. Al final del Oligoceno, que duró diez millones de años, la vida en la tierra se parecía mucho a la de hoy.",
+ "p061.s3.h": "III. La Edad del Elefante y del Caballo — Un cerebro a la altura del cuerpo",
+ "p061.s3.b0": "Hace veinte millones de años fue en verdad la edad de oro de los mamíferos. Se elevó el puente terrestre del Estrecho de Bering, los mastodontes y muchos miembros de la familia felina pasaron de Asia a Norteamérica, y aparecieron los primeros ciervos. Por una vez el mundo estuvo dominado por un animal enorme con un cerebro lo bastante grande para su cuerpo: el elefante.",
+ "p061.s3.b2": "El autor traza una interesante comparación entre el elefante y el caballo. Muestra que la inteligencia no depende solo del tamaño del cerebro, sino también de la capacidad de dominar las propias emociones.",
+ "p061.s3.b3": {
+  "head": [
+   "Animal",
+   "Fortaleza",
+   "Debilidad"
+  ],
+  "rows": [
+   [
+    "Elefante",
+    "Un cuerpo grande con un cerebro grande; dominio emocional",
+    "Muy perjudicado por su tamaño y su falta de agilidad"
+   ],
+   [
+    "Caballo",
+    "Un cerebro que sigue en calidad animal al del elefante",
+    "Nunca se sobrepuso del todo a la propensión profundamente arraigada de huir ante lo que le asusta"
+   ]
+  ]
+ },
+ "p061.s3.b4": "Esta sección contiene una rara palabra dirigida directamente al lector. A medida que Urantia entra en la llamada «edad sin caballos», se nos pide hacer una pausa y considerar lo que este animal significó para nuestros antepasados. Los hombres usaron los caballos primero como alimento, luego para viajar y más tarde en la agricultura y en la guerra, y el caballo desempeñó un papel importante en el desarrollo de la civilización.",
+ "p061.s3.b6": "Durante este período evolucionaron en Asia central los verdaderos tipos primitivos del mono y del gorila. Pero el autor afirma con claridad que ninguna de estas especies pertenece a la línea que más tarde llegaría a ser la de los antepasados de la raza humana.",
+ "p061.s4.h": "IV. La Última Gran Emigración de los Mamíferos — Los hemisferios se separan",
+ "p061.s4.b0": "La elevación preglacial de las tierras levantó cordilleras y cambió el curso de los ríos, y el Shasta, el Hood y el Rainier comenzaron su carrera como montañas. Durante un breve tiempo todas las tierras del mundo, salvo Australia, volvieron a estar unidas, y tuvo lugar la última gran migración de animales por todo el mundo. Los perezosos, los armadillos y los osos entraron en Norteamérica, mientras que los camellos norteamericanos se fueron a China.",
+ "p061.s4.b1": "Hace 5 millones de años el caballo había evolucionado hasta su forma actual y se había extendido desde Norteamérica a todo el mundo; sin embargo, se extinguió en su continente de origen mucho antes de que llegara el hombre rojo. Al enfriarse el clima, los puentes terrestres septentrionales se hundieron y se cortó el enlace entre África y Sudamérica. Desde entonces los hemisferios oriental y occidental desarrollaron cada uno su propia vida. Cuando terminó este período, el antepasado del hombre aún no había aparecido.",
+ "p061.s5.h": "V. La Edad Glacial Primitiva — Cómo la nieve se convirtió en hielo",
+ "p061.s5.b0": "La edad glacial no fue causada solo por el frío. El nordeste de Norteamérica y el norte de Europa se elevaron mucho, las corrientes oceánicas y los vientos estacionales cambiaron, y el aire saturado dejó caer nieve casi constante sobre las tierras altas del norte. La nieve se acumuló hasta una profundidad de 6.000 metros y se transformó en hielo macizo pero ambulante. La mitad del hielo glacial estaba en Norteamérica, un cuarto en Eurasia y el resto, principalmente, en la Antártida.",
+ "p061.s5.b1": "Las regiones septentrionales sufrieron seis invasiones de hielo distintas, cada una con decenas de avances y retrocesos. Hace dos millones de años el primer glaciar empezó a desplazarse hacia el sur, y tardó casi un millón de años en avanzar y retirarse. Sin embargo, lejos del hielo la vida cambió poco, y entre las invasiones el clima era casi tan benigno como hoy, quizá un poco más cálido.",
+ "p061.s6.h": "VI. El Hombre Primitivo Durante la Edad Glacial — Nacido en un medio difícil",
+ "p061.s6.b0": "El gran acontecimiento del período glacial fue la evolución del hombre primitivo. En una tierra situada un poco al oeste de la India, hoy sumergida, aparecieron súbitamente los mamíferos protohumanos entre la cría de los emigrantes asiáticos descendientes de los antiguos tipos norteamericanos de lémures. Siguieron tres grandes mutaciones.",
+ "p061.s6.b1": {
+  "head": [
+   "Etapa",
+   "Aparición",
+   "Rasgos"
+  ],
+  "rows": [
+   [
+    "Mamíferos protohumanos",
+    "Al oeste de la India, entre los descendientes de emigrantes del tipo de los lémures",
+    "Caminaban más que nada sobre sus patas traseras; cerebros grandes para su tamaño"
+   ],
+   [
+    "Mamíferos intermedios",
+    "En la septuagésima generación de los mamíferos protohumanos",
+    "Casi el doble de tamaño y de altura que sus antepasados, con cerebros proporcionalmente mayores"
+   ],
+   [
+    "Primates",
+    "Cuando los mamíferos intermedios apenas se habían establecido",
+    "La tercera mutación vital"
+   ],
+   [
+    "Los dos primeros seres humanos",
+    "Hace un millón de años, por mutación dentro de los primates en progreso",
+    "Los verdaderos antepasados de la humanidad"
+   ]
+  ]
+ },
+ "p061.s6.b2": "Al mismo tiempo, un desarrollo retrógrado dentro del linaje de los mamíferos intermedios dio origen a la descendencia símica. Desde aquel día la rama humana siguió avanzando, mientras que las tribus símicas se estancaron o retrocedieron. Hace un millón de años Urantia quedó registrada como mundo habitado.",
+ "p061.s6.b5": "Los primeros seres humanos nacieron más o menos cuando el tercer glaciar comenzaba a avanzar. Los esquimales, únicos supervivientes de estos aborígenes, todavía prefieren los gélidos climas septentrionales. El hombre no llegó al hemisferio occidental hasta cerca del final de la edad glacial, pero durante las épocas interglaciales pasó hacia el oeste por las márgenes del Mediterráneo y pronto se extendió por Europa.",
+ "p061.s7.h": "VII. La Continuación de la Edad Glacial — Paisajes tallados por el hielo e hitos de la humanidad",
+ "p061.s7.b0": "Ninguna otra actividad terrestre deja marcas tan características como el hielo. Las marmitas, los lagos, las piedras desplazadas, los drumlins y las morrenas son obra de los glaciares. Al retirarse, el sexto glaciar produjo los Grandes Lagos de Norteamérica, y hace treinta y siete mil años que comenzaron a desaguar por la actual ruta del Niágara.",
+ "p061.s7.b1": "Entretejidos en esta crónica del hielo están los acontecimientos decisivos de la historia humana. El tiempo geológico y la historia espiritual se colocan lado a lado en una sola línea del tiempo.",
+ "p061.s7.b2": {
+  "head": [
+   "Cuándo",
+   "Glaciar",
+   "Acontecimiento de la historia humana"
+  ],
+  "rows": [
+   [
+    "Hace 1.000.000 de años",
+    "Hacia el comienzo del tercer avance glacial",
+    "Nacen los dos primeros seres humanos; Urantia queda registrada como mundo habitado"
+   ],
+   [
+    "Hace 500.000 años",
+    "El quinto avance",
+    "Las seis razas de color aparecen en una sola generación; llega el Príncipe Planetario"
+   ],
+   [
+    "Hace 200.000 años",
+    "El avance del último glaciar",
+    "La rebelión de Lucifer"
+   ],
+   [
+    "Hace 35.000 años",
+    "Fin de la gran edad glacial, salvo en las regiones polares",
+    "Llegada de un Hijo y una Hija Materiales; comienzo de la dispensación adánica"
+   ]
+  ]
+ },
+ "p061.s7.b3": "El sexto glaciar, que comenzó hace 250.000 años, fue la mayor invasión de todas, con tres capas de hielo que se fundieron en una. El riguroso período glacial aniquiló muchas especies y alteró radicalmente otras. Las plantas y los animales árticos que huyeron montaña arriba para escapar del hielo quedaron varados allí cuando este se retiró, y todavía se encuentran en lo alto de los Alpes y de los Apalaches. Se nos dice que, mientras las regiones polares sigan cubiertas de hielo, difícilmente es posible otra edad glacial.",
+ "p061.s8.h": "Conclusión — Vivir este documento",
+ "p061.s8.b0": "La crónica planetaria que comenzó en el documento 57 llega en este documento al nacimiento del hombre. A lo largo de cincuenta millones de años el cerebro y la agilidad reemplazaron a la coraza y al tamaño, y los animales que cuidaban de sus crías con afecto heredaron el mundo. Y los primeros seres humanos no nacieron en un paraíso cómodo, sino en un medio difícil y estimulante, con los glaciares en avance. Que la dificultad pueda ser una condición del crecimiento es el consuelo perdurable que este documento nos ofrece.",
+ "p061.s8.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la respalda"
+  ],
+  "rows": [
+   [
+    "Cultivar la sabiduría y la flexibilidad en lugar de la fuerza y el tamaño",
+    "El cerebro y la agilidad reemplazaron a la coraza y al tamaño"
+   ],
+   [
+    "Cuidar de la familia y del prójimo con afecto",
+    "Los mamíferos obtuvieron su ventaja de supervivencia amamantando y protegiendo a sus crías"
+   ],
+   [
+    "Cuando llegue el miedo, dominar las emociones en vez de huir",
+    "El caballo nunca se sobrepuso del todo a la propensión a huir ante lo que le asusta"
+   ],
+   [
+    "Aceptar un medio difícil como estímulo para crecer",
+    "Nuestros primeros antepasados nacieron y se criaron en un medio estimulante y difícil"
+   ],
+   [
+    "Agradecer lo que nos ha ayudado a lo largo del camino",
+    "Conviene hacer una pausa y reflexionar sobre lo que el caballo significó para nuestros antepasados"
+   ]
+  ]
+ },
+ "p061.s8.b2": "El documento 62 relata en detalle la historia que aquí solo se toca: los mamíferos protohumanos, los mamíferos intermedios, los primates y los dos primeros seres humanos. Si lo leemos con la línea del tiempo de la edad glacial de este documento a mano, veremos con claridad dónde se sitúa el nacimiento de la humanidad en la historia del planeta.",
+ "p062.lead": "De los pequeños mamíferos del tipo de los lémures a Andón y Fonta: la historia de cómo, tras tres saltos repentinos, nació una mente dotada de voluntad.",
+ "p062.foot": {
+  "text": "Patrocinado por un Portador de Vida de Nebadon residente en Urantia",
+  "ref": "62:7.8"
+ },
+ "p062.s0.h": "Introducción — ¿De dónde vino el hombre?",
+ "p062.s0.b0": "En el documento 62 un Portador de Vida residente en Urantia presenta, uno tras otro, a los antepasados animales inmediatos del género humano. Hace alrededor de un millón de años, tres mutaciones sucesivas y repentinas de una raza primitiva de mamíferos placentarios del tipo de los lémures produjeron a los seres humanos. El documento sigue estas tres etapas bajo los nombres de mamíferos protohumanos, mamíferos intermedios y primates.",
+ "p062.s0.b1": "El documento expone también la línea de descendencia. Los factores dominantes procedieron del grupo de vida occidental, o anteriormente americano, reforzado por aportaciones de la implantación central de vida que había evolucionado en África; el grupo de vida oriental contribuyó poco o nada a la producción real de la especie humana. El documento es una crónica biológica, pero es también el registro del momento en que la mente y la voluntad despertaron por primera vez.",
+ "p062.s1.h": "I. Los Primeros Tipos de Lémures — Una larga migración hacia una península resguardada",
+ "p062.s1.b0": "Los primeros lémures de la ascendencia humana no estaban directamente emparentados con los gibones y los monos que vivían entonces en Eurasia y en el norte de África. Tampoco descendían del lémur moderno; el antepasado que ambos compartían se extinguió hace mucho. Hace varios millones de años los lémures norteamericanos cruzaron hacia el oeste el puente terrestre de Bering y avanzaron lentamente hacia el sudoeste a lo largo de la costa asiática.",
+ "p062.s1.b1": "Llegaron por fin a una región salubre al oeste de la India, entre el Mediterráneo, entonces expandido, y las montañas en elevación de la península de la India. Más tarde la costa se hundió, y esta península mesopotámica o persa quedó aislada, accesible solo desde el norte, y esa ruta quedaba a menudo cortada por los glaciares. En este rincón resguardado se separaron dos grandes grupos: las tribus símicas de los tiempos modernos y la especie humana.",
+ "p062.s2.h": "II. Los Mamíferos Protohumanos — Los comienzos del miedo y del espíritu tribal",
+ "p062.s2.b0": "Hace poco más de un millón de años aparecieron súbitamente los mamíferos protohumanos mesopotámicos. Eran pequeños y activos carnívoros de casi un metro de altura, capaces de mantenerse erguidos con facilidad, y tenían un pulgar oponible primitivo. Para su tamaño tenían el cerebro más grande de todos los animales que habían existido hasta entonces, y mostraban curiosidad, júbilo ante el éxito, ternura en la familia y un sentimiento de humillación que rayaba en la vergüenza.",
+ "p062.s2.b1": "Alcanzaban su pleno desarrollo a los tres o cuatro años de edad y tenían una duración potencial de vida de unos veinte años. Eran conmovedoramente fieles a sus parejas y luchaban con fiereza para defender a los suyos. Aun en una vida tan breve, ya se estaba trazando el esbozo de las emociones y los instintos que más tarde caracterizarían al hombre.",
+ "p062.s2.b2": "Como eran pequeños y muy conscientes de los peligros del bosque, estas criaturas desarrollaron un miedo extraordinario, que las llevó a tomar precauciones sabias, como construir refugios en lo alto de los árboles. Aquí el Portador de Vida señala una de las raíces del temperamento humano.",
+ "p062.s2.b4": "Eran muy gregarios y, sin embargo, propensos a la lucha, y mediante la supervivencia selectiva, a medida que los grupos superiores guerreaban contra sus vecinos inferiores, la especie mejoró constantemente. Exactamente setenta generaciones después de su origen a partir del antepasado lémur más elevado, aparecieron súbitamente los antepasados de la etapa siguiente.",
+ "p062.s3.h": "III. Los Mamíferos Intermedios — Donde se separaron los caminos del hombre y del mono",
+ "p062.s3.b0": "En el hogar de una pareja superior de mamíferos protohumanos, en lo alto de un árbol, nacieron unos gemelos. Este hermano y esta hermana llegaron a medir poco más de un metro veinte, caminaban erguidos y tenían pulgares casi perfectamente oponibles. Desde temprano fueron reconocidos como jefes de la tribu, e instituyeron una forma primitiva de organización social y una tosca división del trabajo. Sus veintiún hijos formaron el núcleo de los mamíferos intermedios.",
+ "p062.s3.b1": "Los mamíferos intermedios podían mostrar repugnancia, escondían alimento para usarlo después y tenían un instinto acaparador para coleccionar piedras. Fueron los primeros mamíferos que se procuraron seguridad tanto en refugios en lo alto de los árboles como bajo tierra. Pero a medida que aumentó su número, la competencia por el alimento y las parejas provocó luchas intestinas que casi destruyeron la especie, hasta que solo quedó un grupo de menos de cien.",
+ "p062.s3.b3": "El peligro más cercano fue un rayo. Cayó sobre el árbol donde dormían los futuros padres de los gemelos primates y mató a tres de sus siete hijos. La pareja superviviente condujo al grupo más progresista a unos tres kilómetros de distancia, y allí nacieron los primeros gemelos primates. Al mismo tiempo, una pareja inferior de la tribu tuvo también gemelos, y estos fueron los fundadores de las tribus símicas modernas.",
+ "p062.s3.b4": {
+  "head": [
+   "Aspecto",
+   "Los gemelos superiores",
+   "Los gemelos inferiores"
+  ],
+  "rows": [
+   [
+    "Padres",
+    "Los verdaderos jefes del grupo más progresista de mamíferos intermedios",
+    "Una pareja inferior tanto mental como físicamente"
+   ],
+   [
+    "Disposición",
+    "Una especie nueva que abrió el siguiente paso vital de la evolución prehumana",
+    "Indiferentes a la conquista, ocupados solo del sustento, sin querer comer carne ni cazar"
+   ],
+   [
+    "Desplazamiento",
+    "Dejaron su tribu hacia los catorce años y se fueron al oeste",
+    "Buscaron las regiones meridionales más cálidas, ricas en frutas tropicales"
+   ],
+   [
+    "Descendientes",
+    "La línea ascendente que pasa por los primates hasta el hombre",
+    "Monos, babuinos, chimpancés y gorilas"
+   ]
+  ]
+ },
+ "p062.s3.b5": "Así, el documento traza una línea clara al describir la relación entre el hombre y los monos. Procedieron de la misma tribu y especie, pero no de los mismos padres; están vinculados únicamente por su origen común en los mamíferos intermedios.",
+ "p062.s3.b7": "En esta sección se superponen el azar y la elección. La pareja inferior sobrevivió solo porque estuvo escondida más de dos semanas en un depósito subterráneo de alimentos durante la última batalla feroz de la tribu, mientras que la pareja superior nació en un hogar nuevo porque sus padres, jefes del grupo, tomaron la decisión de trasladarse. Aun dentro de una misma tribu, lo que se eligió marcó una gran diferencia en el destino de los descendientes.",
+ "p062.s4.h": "IV–V. Los Primates; Los Primeros Seres Humanos — Gemelos nacidos hace 993.419 años",
+ "p062.s4.b0": "Los gemelos primates se mantuvieron erguidos desde el principio, llegaron a medir más de un metro cincuenta y se comunicaban entre sí por señas y sonidos, aunque nunca lograron que su pueblo entendiera estos símbolos. Los primates tenían manos y pies plenamente humanos, pero no tenían mentes que pudieran llamarse verdaderamente humanas. Tras casi novecientas generaciones, unos veintiún mil años desde el origen de los mamíferos protohumanos, los primates dieron a luz a los dos primeros seres humanos verdaderos.",
+ "p062.s4.b2": {
+  "head": [
+   "Etapa",
+   "Altura",
+   "Madurez",
+   "Duración potencial de la vida",
+   "Rasgos nuevos"
+  ],
+  "rows": [
+   [
+    "Mamíferos protohumanos",
+    "Casi un metro",
+    "Tres o cuatro años",
+    "Unos veinte años",
+    "El cerebro más grande para su tamaño; miedo; espíritu tribal"
+   ],
+   [
+    "Mamíferos intermedios",
+    "Poco más de un metro veinte",
+    "—",
+    "Unos veinticinco años",
+    "Andar erguido; repugnancia; instinto acaparador; construcción"
+   ],
+   [
+    "Primates",
+    "Más de un metro cincuenta",
+    "Unos diez años",
+    "Unos cuarenta años",
+    "Mano y pie de tipo humano; comunicación por señas y sonidos"
+   ],
+   [
+    "Los primeros seres humanos",
+    "—",
+    "Doce años",
+    "Unos setenta y cinco años",
+    "Pulgar plenamente humano; sentimientos de adoración"
+   ]
+  ]
+ },
+ "p062.s4.b4": "El avance más notable de estos gemelos fue la aparición de los sentimientos de adoración: el asombro, la reverencia, la humildad e incluso una forma primitiva de gratitud. También aparecieron en forma rudimentaria sentimientos superiores como la compasión y la vergüenza, el amor y los celos. A los diez años habían elaborado un lenguaje de casi cincuenta ideas, y hacia los nueve bajaron por el río y celebraron una conferencia trascendental, en la que convinieron en vivir el uno con el otro y el uno para el otro.",
+ "p062.s4.b5": "Las inteligencias celestiales observaron esta decisión con intenso interés, pero no controlaron la mente de los gemelos. Los Portadores de Vida guiaron su entorno solo dentro de los límites permisibles; el viaje hacia el norte fue elección inteligente de los propios gemelos. Poco antes de su partida, su madre dio la vida para salvarlos de un ataque de los gibones, y su padre, que se quedó atrás, se marchó afligido y murió.",
+ "p062.s5.h": "VI. La Evolución de la Mente Humana — Los siete espíritus ayudantes de la mente",
+ "p062.s5.b0": "Los Portadores de Vida siguieron el desarrollo mental de los gemelos observando el funcionamiento de los siete espíritus ayudantes de la mente. Estos ministros de la mente habían ido ampliando su contacto a medida que crecía la capacidad cerebral de los animales en evolución. La sección muestra cómo el ministerio de la mente se fue abriendo paso a paso junto con la evolución biológica.",
+ "p062.s5.b1": {
+  "head": [
+   "Ayudante",
+   "Cuándo y cómo funcionó por primera vez"
+  ],
+  "rows": [
+   [
+    "Espíritu de intuición",
+    "Comportamiento instintivo y reflejo de la vida animal primordial"
+   ],
+   [
+    "Espíritu de la comprensión",
+    "Asociación espontánea de ideas en los tipos superiores"
+   ],
+   [
+    "Espíritu de la valentía",
+    "Una forma simple de autoconciencia de protección"
+   ],
+   [
+    "Espíritu del conocimiento",
+    "Se manifestó en creciente medida después de la aparición de los mamíferos"
+   ],
+   [
+    "Espíritu del consejo",
+    "Desarrollo del instinto gregario y del desarrollo social primitivo en los mamíferos superiores"
+   ],
+   [
+    "Espíritu de adoración",
+    "Cuando los gemelos tenían unos diez años, primero en contacto con la mente de la gemela"
+   ],
+   [
+    "Espíritu de la sabiduría",
+    "Alrededor de un año después, cuando el pensamiento meditativo y la decisión basada en un propósito los llevaron a viajar al norte"
+   ]
+  ]
+ },
+ "p062.s5.b2": "Desde los mamíferos protohumanos hasta los primates solo se intensificó la actividad de los cinco primeros ayudantes; los dos superiores nunca habían funcionado todavía. Solo cuando empezaron a obrar tanto el espíritu de adoración como el de la sabiduría se reconoció que aquellos dos seres tenían mentes humanas. El núcleo de esta sección es que la marca de la humanidad no está en las herramientas ni en el físico, sino en la adoración y la sabiduría.",
+ "p062.s6.h": "VII. El Reconocimiento como un Mundo Habitado — El circuito que abrió una primera decisión",
+ "p062.s6.b0": "Al mediodía del día siguiente a la huida de los gemelos se produjo el ensayo inicial de las señales del circuito universal, y al tercer día llegó el arcángel de Nebadon del establecimiento inicial de circuitos planetarios. Por el circuito planetario de la mente recién establecido llegó el primer mensaje de Salvington. Calificaba la determinación de los gemelos como la primera decisión del tipo humano de mente y decía que esta decisión había establecido automáticamente el circuito de comunicación.",
+ "p062.s6.b2": {
+  "head": [
+   "Enviado desde",
+   "Contenido del mensaje"
+  ],
+  "rows": [
+   [
+    "Salvington (el jefe del cuerpo de arcángeles)",
+    "Anunció la aparición de la mente de dignidad volitiva y transmitió un gran gusto"
+   ],
+   [
+    "Edentia (los Altísimos)",
+    "Instrucciones de no interferir con el modelo de vida establecido ni intervenir en el progreso humano"
+   ],
+   [
+    "Jerusem (Lucifer, entonces soberano del sistema)",
+    "Aceptación oficial del trabajo de los Portadores de Vida y permiso para volver a Jerusem"
+   ]
+  ]
+ },
+ "p062.s6.b3": "El Portador de Vida deja claro que no debemos pensar que los Portadores de Vida interfieren de modo arbitrario y mecánico en el despliegue natural de la evolución planetaria. Lo que hasta entonces se les había permitido era una supervisión especial pero enteramente natural —manipular el entorno y proteger el plasma vital—, y esta tenía que terminar en cuanto aparecieran seres dotados de voluntad. Cuando las criaturas pueden elegir, la manera de cuidarlas debe cambiar.",
+ "p062.s6.b4": "Así terminó formalmente la larga supervisión de los Portadores de Vida. Como Urantia era un mundo de modificación de vida, se permitió que se quedaran dos Portadores de Vida veteranos y doce asistentes, y el autor de este documento fue uno de ellos. Urantia fue reconocida formalmente como planeta de habitación humana 993.408 años antes del año 1934 d. de J.C.",
+ "p062.s7.h": "Conclusión — Vivir este documento",
+ "p062.s7.b0": "El documento 62 sigue una larga cadena evolutiva, pero al final de ella se encuentra una decisión. La elección de dos jóvenes gemelos de vivir el uno para el otro y de partir en busca de un camino mejor abrió los circuitos del universo. Nuestra tendencia al miedo la heredamos de antepasados lejanos, pero la adoración, la sabiduría y la decisión con propósito nos pertenecen desde el día en que llegamos a ser humanos.",
+ "p062.s7.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la respalda"
+  ],
+  "rows": [
+   [
+    "Cuando surja el miedo, reconocer sus raíces y no dejar que nos gobierne",
+    "Las tendencias al miedo del género humano datan de los días de los mamíferos protohumanos"
+   ],
+   [
+    "Cultivar deliberadamente el asombro y la gratitud",
+    "La aparición de los sentimientos de adoración fue el avance más notable de los primeros humanos"
+   ],
+   [
+    "Reflexionar a fondo sobre los asuntos importantes y luego decidir por uno mismo",
+    "El espíritu de la sabiduría funcionó por primera vez con el pensamiento meditativo y la decisión basada en un propósito"
+   ],
+   [
+    "Recordar el valor del sacrificio por aquellos a quienes amamos",
+    "El sacrificio de la madre primate no fue en balde"
+   ]
+  ]
+ },
+ "p062.s7.b2": "El documento 63 continúa con estos gemelos —Andón y Fonta—, sus nombres y su vida, y la primera familia humana que fundaron.",
+ "p063.lead": "Sonta-an y Sonta-en, que encendieron el fuego por primera vez; sus descendientes andonitas; y Onagar, el primer maestro de la verdad: la vida y la supervivencia eterna de la primera familia humana.",
+ "p063.foot": {
+  "text": "Presentado por un Portador de Vida residente en Urantia",
+  "ref": "63:7.5"
+ },
+ "p063.s0.h": "Introducción — Los nombres dados a los padres de la humanidad",
+ "p063.s0.b0": "El documento 62 relató cómo nacieron los primeros gemelos humanos y partieron hacia el norte; el documento 63 cuenta su vida y la primera familia humana que fundaron. Urantia se registró como mundo habitado cuando los gemelos tenían once años, antes de que tuvieran su primer hijo. En esa ocasión, el mensaje del arcángel de Salvington dio nombre a los padres de la nueva raza.",
+ "p063.s0.b2": "Curiosamente, ellos dos nunca conocieron estos nombres hasta que se fusionaron con sus Ajustadores del Pensamiento. En la tierra se llamaban el uno al otro con nombres que ellos mismos habían elegido, y esos nombres expresaban su estimación mutua y su profundo afecto.",
+ "p063.s0.b3": {
+  "head": [
+   "Nombre",
+   "Dado por",
+   "Significado"
+  ],
+  "rows": [
+   [
+    "Andón",
+    "El nombre nebadónico",
+    "La primera criatura a semejanza del Padre en exhibir el ansia humana por la perfección"
+   ],
+   [
+    "Fonta",
+    "El nombre nebadónico",
+    "La primera criatura a semejanza del Hijo en exhibir el ansia humana por la perfección"
+   ],
+   [
+    "Sonta-an",
+    "Elegido por ellos mismos",
+    "Amado por la madre"
+   ],
+   [
+    "Sonta-en",
+    "Elegido por ellos mismos",
+    "Amado por el padre"
+   ]
+  ]
+ },
+ "p063.s1.h": "I–II. Andón y Fonta; La Huida de los Gemelos — Los primeros en encender el fuego",
+ "p063.s1.b0": "En muchos aspectos, Andón y Fonta fueron la pareja de seres humanos más notable que jamás haya vivido en la tierra. Eran superiores a muchos de sus descendientes inmediatos y radicalmente distintos de todos sus antepasados. Cuando todavía vivía con sus padres, Andón ató un pedernal afilado al extremo de un garrote con tendones de animales, y en por lo menos una docena de ocasiones esta arma les salvó la vida a él y a su hermana. Su vaga sensación de ser algo más que simples animales provenía de que poseían personalidad, y se intensificó con la presencia de los Ajustadores del Pensamiento residentes.",
+ "p063.s1.b1": "La decisión de partir no fue fácil. Temían disgustar a su padre y a su familia, y sabían que los miembros de su tribu, ya celosos, podrían matarlos. Pero una noche, después de que una violenta tormenta los despertara, abrazados con temor y ternura, se decidieron por fin a marcharse.",
+ "p063.s1.b2": {
+  "head": [
+   "Paso",
+   "Lo que ocurrió en el viaje"
+  ],
+  "rows": [
+   [
+    "Preparación",
+    "Un refugio secreto en lo alto de un árbol, preparado a medio día de camino hacia el norte"
+   ],
+   [
+    "Partida",
+    "Aunque temían mucho el suelo de noche, salieron al anochecer para evitar ser perseguidos y llegaron al refugio pasada la medianoche"
+   ],
+   [
+    "Descubrimiento",
+    "Mientras daban forma a piedras en un yacimiento de pedernal vieron chispas y concibieron la idea de hacer fuego"
+   ],
+   [
+    "Intentos",
+    "Cuando las noches de otoño se volvieron frías, dos meses de esfuerzos fallidos por encender fuego con chispas de pedernal"
+   ],
+   [
+    "Solución",
+    "Fonta trajo un nido de pájaro abandonado y seco, y por fin el fuego prendió"
+   ]
+  ]
+ },
+ "p063.s1.b3": "El descubrimiento del fuego fue fruto de la colaboración: la idea fue de Andón, pero fue Fonta quien descubrió el secreto. Sus antepasados primates habían mantenido vivos a menudo fuegos encendidos por el rayo, pero nunca antes una criatura de la tierra había poseído un medio de encender fuego a voluntad.",
+ "p063.s1.b5": "Toda la noche permanecieron sentados contemplando el fuego, comprendiendo vagamente que este descubrimiento les permitiría desafiar el clima y ser así para siempre independientes de sus parientes animales del sur. Un solo descubrimiento había cambiado todo el marco de su vida.",
+ "p063.s2.h": "III. La Familia de Andón — El instinto de cuidar y el espíritu del clan",
+ "p063.s2.b0": "Casi dos años después de su huida nació su primer hijo, Sontad. Fue la primera criatura de Urantia que fue envuelta en cubiertas protectoras al nacer, y desde entonces apareció el instinto de cuidar a los infantes, cada vez más endebles. El Portador de Vida ve en ello una señal de que se estaba desarrollando la mente de orden intelectual.",
+ "p063.s2.b2": "Andón y Fonta tuvieron diecinueve hijos y vivieron para ver a casi cincuenta nietos y seis bisnietos. La familia vivía en refugios rocosos, algunos unidos por pasillos excavados en la blanda piedra caliza, y con un marcado espíritu de clan cazaban juntos y permanecían cerca del hogar. Se nos dice que este sentido de parentesco íntimo procedía del ministerio intensificado de los espíritus ayudantes. Los dos murieron juntos a los cuarenta y dos años, aplastados por una roca que cayó durante un terremoto.",
+ "p063.s2.b3": "Aunque tenía el pie gravemente herido, Sontad asumió de inmediato la dirección del clan e hizo rodar piedras para sepultar a los muertos. Sin embargo, el documento advierte que no se debe interpretar demasiado este entierro: sus ideas sobre la supervivencia después de la muerte eran vagas y procedían en gran parte de su vida onírica. La familia se mantuvo unida hasta la vigésima generación, cuando la competencia por el alimento y los roces sociales empezaron a dispersarla.",
+ "p063.s3.h": "IV. Los Clanes Andónicos — Presagios de nobleza y semillas de división",
+ "p063.s3.b0": "Al describir al hombre primitivo, esta sección muestra a la vez lo que ya estaba presente y lo que todavía faltaba. Los hombres luchaban heroicamente por sus compañeras y sus hijos, y las mujeres se dedicaban a sus pequeños, pero su lealtad no iba más allá del clan inmediato. Había también un conmovedor afecto por los compañeros y una idea real, aunque tosca, de la amistad.",
+ "p063.s3.b1": {
+  "head": [
+   "Ya presente",
+   "Ausente o todavía débil"
+  ],
+  "rows": [
+   [
+    "Fuerte tendencia a la imitación; una nueva división del trabajo del clan",
+    "Solo un leve instinto de juego; casi ningún sentido del humor"
+   ],
+   [
+    "Lealtad a la familia; disposición a morir por sus hijos",
+    "La idea de hacer el mundo mejor para sus nietos"
+   ],
+   [
+    "Todas las emociones esenciales para el nacimiento de la religión",
+    "El altruismo"
+   ],
+   [
+    "Amistad verdadera; valor para rescatar a un compañero herido",
+    "La risa vigorosa: el humor fue un legado de la raza posterior de Adán"
+   ]
+  ]
+ },
+ "p063.s3.b2": "Estos primeros seres humanos eran menos sensibles al dolor y a las situaciones desagradables que muchos mortales posteriores, y el parto no era doloroso para Fonta y sus descendientes inmediatos. El clan mantuvo una línea ininterrumpida de jefatura a través de los descendientes de Sontad hasta la vigésima séptima generación; cuando no apareció ningún heredero varón, dos rivales comenzaron a luchar por la supremacía. Ya desde tan temprano, un vacío de jefatura se convirtió en una puerta a la división.",
+ "p063.s3.b3": "El documento describe su aspecto con sencillez. Los andonitas tenían ojos negros y una tez morena, algo entre amarilla y roja, y la melanina fue el pigmento original de la piel andónica. Fueron las primeras criaturas que usaron pieles de animales para protegerse del frío. Añadían palabras nuevas casi a diario y construyeron un lenguaje bien desarrollado, que siguió siendo la lengua de Urantia hasta que aparecieron las razas de color.",
+ "p063.s3.b4": "Pero a medida que crecía su número, la caza y la venganza llegaron a ocupar su mente, y las guerras entre clanes destruyeron para siempre algunos de los linajes más capaces. Los Portadores de Vida, que conocen esta tendencia, disponen la separación final de los seres humanos en evolución en varias razas distintas.",
+ "p063.s4.h": "V. La Dispersión de los Andonitas — Hacia el norte y hacia el oeste",
+ "p063.s4.b0": "Las primeras razas de Andón no se adentraron en Asia ni en África; siguiendo la configuración del terreno, fueron hacia el norte hasta que el tercer glaciar las detuvo. Antes de que la capa de hielo llegara a Francia y a las Islas Británicas, se habían extendido hacia el oeste por Europa y habían fundado más de mil asentamientos a lo largo de los grandes ríos que desembocaban en el entonces cálido Mar del Norte. Por eso se encuentran tantos vestigios suyos a lo largo del Somme, un río cuyo curso no cambiaron los glaciares.",
+ "p063.s4.b1": "Vivían bajo acantilados salientes a lo largo de los ríos y en grutas de las laderas donde podían disfrutar de su fuego, y construían chozas de piedra en forma de cúpula, cuya entrada cerraban de noche haciendo rodar una piedra colocada dentro con ese fin. Así como Andón había inventado el hacha de piedra, sus descendientes descubrieron la lanza de palo y el arpón, y viajaban lejos en busca de pedernal.",
+ "p063.s4.b3": "La sección termina con un contraste sobrio. En muchos sentidos las tribus de Andón mostraron una inteligencia que sus descendientes retrógrados no volvieron a alcanzar en medio millón de años; esos descendientes tuvieron que redescubrir una y otra vez cómo encender el fuego. El pasaje muestra en silencio que lo que una generación gana no lo hereda automáticamente la siguiente.",
+ "p063.s5.h": "VI. Onagar — El Primer Maestro de la Verdad",
+ "p063.s5.b0": "A medida que la dispersión se extendía, el estado cultural y espiritual de los clanes empeoró durante casi diez mil años. Entonces Onagar asumió el mando, sembró la paz entre las tribus y por primera vez las guió a todas en la adoración de «⟦Q 63:6.1⟧El que da aliento a los hombres y los animales⟦/Q⟧». Hasta entonces la religión primitiva había ido a la deriva entre el miedo y el hambre.",
+ "p063.s5.b1": {
+  "head": [
+   "Objeto de reverencia",
+   "Lo que describe el texto"
+  ],
+  "rows": [
+   [
+    "El fuego",
+    "Andón casi adoró el fuego por el consuelo que le daba"
+   ],
+   [
+    "El sol",
+    "Considerado una fuente mayor de calor y de luz, pero sentido como demasiado lejano para adorarlo"
+   ],
+   [
+    "Los elementos",
+    "Temor al trueno, el relámpago, la lluvia, la nieve, el granizo y el hielo"
+   ],
+   [
+    "Los animales",
+    "Los grandes animales que servían de alimento simbolizaban el poder creativo; sus imágenes se pintaban en las paredes de las cuevas y se tallaban en ornamentos"
+   ],
+   [
+    "El sacrificio",
+    "Las ceremonias en torno al cuerpo de un animal venerado se convirtieron en los ritos de sacrificio posteriores"
+   ],
+   [
+    "La Deidad única",
+    "Onagar enseñó el «Aliento de la Vida» y el «Gran Más Allá»"
+   ]
+  ]
+ },
+ "p063.s5.b2": "La explicación del origen del sacrificio merece especial atención. Los andonitas se abstenían de comer la carne del animal que su tribu veneraba, y para impresionar a los jóvenes celebraban una ceremonia en torno a su cuerpo. Este rito primitivo se convirtió en los sacrificios más elaborados de tiempos posteriores, y el texto dice que Moisés continuó esta idea en el rito hebreo y que Pablo la conservó en principio en la doctrina de la expiación.",
+ "p063.s5.b4": "Cuán central era el alimento en su vida se ve en la oración que enseñó Onagar. El sustento de cada día, la liberación de los enemigos del hielo y del bosque y la esperanza de la vida del más allá se encierran en una sola oración breve.",
+ "p063.s5.b6": "Onagar tenía su sede en Obán, cerca del actual Mar Caspio, y enviaba maestros a los asentamientos lejanos. Estos emisarios fueron los primeros misioneros del mundo, y también los primeros en usar regularmente el fuego para preparar los alimentos. Nacido hace 983.323 años, vivió hasta los sesenta y nueve y estableció un gobierno tribal cuyo igual no se alcanzó en muchos milenios. Fue en sus días cuando los Ajustadores del Pensamiento y los serafines guardianes llegaron a Urantia en gran número.",
+ "p063.s6.h": "VII. La Supervivencia de Andón y Fonta — Servicio en los mundos de estancia",
+ "p063.s6.b0": "Los dos fundadores de la raza humana fueron reconocidos en la adjudicación que acompañó la llegada del Príncipe Planetario, y pasaron por los mundos de estancia hasta la ciudadanía en Jerusem. Se afligieron por la traición de Caligastia y por el fracaso adánico, pero se alegraron sobremanera al saber que Micael había elegido su mundo para su autootorgamiento final. En Jerusem, Andón y Fonta, Sontad y varios de sus hijos se fusionaron con sus Ajustadores del Pensamiento, aunque la mayoría de sus descendientes inmediatos alcanzaron la fusión con el Espíritu.",
+ "p063.s6.b1": "Después, los dos regresaron al primer mundo de estancia para servir con quienes dan la bienvenida a los peregrinos del tiempo procedentes de Urantia, y han sido asignados a este servicio por tiempo indefinido. Pidieron enviar saludos a Urantia junto con estas revelaciones, pero la petición fue sabiamente denegada. Que los primeros padres de la humanidad sigan recibiendo a los mortales recién llegados es la nota cálida con que termina el documento.",
+ "p063.s7.h": "Conclusión — Vivir este documento",
+ "p063.s7.b0": "El documento 63 muestra que la humanidad comenzó como una familia muy pequeña. Hubo una decisión de partir juntos a pesar del miedo, un fuego conseguido tras repetidos fracasos, un hijo que dirigió su clan con el cuerpo herido y un maestro que volvió a enseñar al Dios único en una época de decadencia. Todavía no conocían la risa ni el altruismo; sin embargo, en ellos ya se presagiaban los rasgos más nobles de la humanidad.",
+ "p063.s7.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la respalda"
+  ],
+  "rows": [
+   [
+    "Ante fracasos repetidos, buscar juntos un camino hacia adelante",
+    "Tras dos meses de fracasos, la idea de Fonta hizo que el fuego prendiera"
+   ],
+   [
+    "Llamar a los allegados con nombres que expresen respeto",
+    "Sonta-an y Sonta-en eran nombres de estimación y afecto mutuos"
+   ],
+   [
+    "Cultivar un corazón que vaya más allá de la familia, hasta la generación siguiente",
+    "El hombre primitivo no podía concebir hacer el mundo mejor para sus nietos"
+   ],
+   [
+    "Presentar a Dios en oración las necesidades de cada día",
+    "La oración de Onagar pedía el sustento diario, la liberación y la vida del más allá"
+   ]
+  ]
+ },
+ "p063.s7.b2": "El documento 64 continúa la historia después de los andonitas —a través de los pueblos de Foxhall, las tribus de Badonán y las razas neandertales— hasta la aparición de las seis razas de color en la familia sangik y su dispersión.",
+ "p064.lead": "De los aborígenes andónicos, pasando por las razas neandertales, hasta las seis razas de color de la familia sangik: la aparición y la dispersión de las razas durante medio millón de años de la edad glacial.",
+ "p064.foot": {
+  "text": "Presentado por un Portador de Vida residente en Urantia",
+  "ref": "64:7.21"
+ },
+ "p064.s0.h": "Introducción — La segunda mitad de un millón de años de historia humana",
+ "p064.s0.b0": "El documento 64 cuenta la historia de las razas evolutivas de Urantia desde los días de Andón y Fonta, pasando por los tiempos del Príncipe Planetario, hasta el final de la edad glacial. Su autor es de nuevo un Portador de Vida residente en Urantia. Divide en dos mitades la historia de casi un millón de años de la humanidad: la primera corresponde aproximadamente a los días anteriores al Príncipe Planetario, y la segunda comienza con su llegada y la aparición de las seis razas de color.",
+ "p064.s0.b1": "El documento trata de las razas, pero desde el punto de vista de un Portador de Vida: su propósito es registrar cómo ascendieron y decayeron la evolución biológica y el progreso cultural y espiritual. El texto consigna tanto las fortalezas como las limitaciones de cada raza, y afirma con claridad que todas las razas tienen la misma importancia ante los poderes celestiales. Este comentario sigue lo que dice el texto, con serenidad y dentro de esos límites.",
+ "p064.s1.h": "I. Los Aborígenes Andónicos — Entre montañas, agua y hielo",
+ "p064.s1.b0": "El hombre primitivo estaba cercado por todos lados. Al este se alzaba la alta meseta del Tíbet; al sur y al oeste se extendía el Mediterráneo, entonces expandido hasta el Océano Índico; y al norte avanzaba el hielo. Aun así, los grupos más inteligentes nunca retrocedieron hacia sus primos del sur que vivían en los árboles. El texto sugiere que muchos de los primeros sentimientos religiosos del hombre surgieron de esta sensación de impotencia geográfica.",
+ "p064.s1.b2": "Los andonitas evitaban los bosques, y el frío y el hambre de los espacios abiertos estimularon la acción, la invención y el ingenio. Hace 950.000 años se habían extendido hacia el oeste hasta Francia e Inglaterra, y hacia el este hasta Java y Tasmania. Pero a medida que los grupos orientales se mezclaban con linajes atrasados, cada vez menos asentamientos mantenían la adoración de El que da aliento, y esta civilización incipiente se vio amenazada de extinción.",
+ "p064.s2.h": "II–III. Los Pueblos de Foxhall; Las Tribus de Badonán — Dos brasas en una época de decadencia",
+ "p064.s2.b0": "Hace 900.000 años las artes de Andón y Fonta y la cultura de Onagar estaban desapareciendo; la cultura, la religión y aun el trabajo del pedernal habían llegado a su punto más bajo. Grupos mezclados llegaron a Europa, y tras ellos las tribus conocidas como la raza de Heidelberg se extendieron por el continente. Sin embargo, a lo largo de esta prolongada decadencia, dos grupos situados en los extremos occidental y oriental mantuvieron vivas las tradiciones de Andón.",
+ "p064.s2.b1": {
+  "head": [
+   "Aspecto",
+   "Los pueblos de Foxhall",
+   "Las tribus de Badonán"
+  ],
+  "rows": [
+   [
+    "Ubicación",
+    "Inglaterra (entonces unida a Francia por tierra)",
+    "Las estribaciones de las tierras altas del noroeste de la India"
+   ],
+   [
+    "Lo que conservaron",
+    "La destreza en el trabajo del pedernal, la cultura andónica y prácticas religiosas primitivas",
+    "Parte de las tradiciones de Andón; nunca practicaron el sacrificio humano"
+   ],
+   [
+    "Temor",
+    "—",
+    "Habiendo visto hundirse la península mesopotámica, temían mucho al agua y eligieron las tierras altas"
+   ],
+   [
+    "Descendientes",
+    "Tras mezclarse con otros linajes, se trasladaron al oeste; los esquimales de hoy",
+    "Tras una guerra contra grupos inferiores, sus descendientes mezclados llegaron a ser la raza neandertal"
+   ]
+  ]
+ },
+ "p064.s2.b3": "El texto añade que en las colinas Siwalik, al este de los pueblos de Badonán, se encuentran fósiles más cercanos a los tipos de transición entre el hombre y los grupos prehumanos que en ningún otro lugar de la tierra. Hace unos 850.000 años las tribus de Badonán emprendieron una guerra de exterminio contra sus vecinos animalescos, y los descendientes mezclados que resultaron aparecieron en escena como un pueblo aparentemente nuevo.",
+ "p064.s3.h": "IV. Las Razas Neandertales — Medio millón de años desplazándose con los glaciares",
+ "p064.s3.b0": "Los neandertales eran excelentes guerreros y cazadores. Se extendieron desde el noroeste de la India hasta Francia, China y el norte de África, y dominaron el mundo durante casi medio millón de años. El reno les proporcionaba alimento, vestido y herramientas, y su trabajo del pedernal mejoró hasta casi alcanzar el nivel de los días de Andón. Esta sección es también un registro de hombres y animales que se desplazaban hacia el norte y hacia el sur a medida que los glaciares avanzaban y retrocedían.",
+ "p064.s3.b1": {
+  "head": [
+   "Cuándo",
+   "Clima y vida"
+  ],
+  "rows": [
+   [
+    "Hace 800.000 años",
+    "Ciervos, elefantes e hipopótamos recorren Europa; el cazador más exitoso tiene la primera elección de esposa"
+   ],
+   [
+    "Hace 750.000 años",
+    "Avanza la cuarta capa de hielo; los hombres pescan con lanza a través de agujeros en el hielo"
+   ],
+   [
+    "Hace 700.000 años",
+    "Retrocede el cuarto glaciar; el hombre primitivo vuelve a prosperar en Europa y en Asia occidental"
+   ],
+   [
+    "Hace 650.000 años",
+    "Un período interglacial benigno; los Alpes casi sin hielo ni nieve"
+   ],
+   [
+    "Hace 600.000 años",
+    "Tras su retroceso más lejano, el hielo vuelve hacia el sur; comienza la quinta glaciación"
+   ],
+   [
+    "Hace 550.000 años",
+    "El glaciar en avance empuja de nuevo hacia el sur a hombres y animales"
+   ]
+  ]
+ },
+ "p064.s3.b2": "Sin embargo, hubo muy poco progreso. Durante casi un cuarto de millón de años estos pueblos vivieron de la caza y de la lucha, y el texto llega a decir que el intento de producir un nuevo tipo de vida inteligente parecía a punto de fracasar. En estas edades de tinieblas espirituales los neandertales no tuvieron más religión que la superstición, y les causaban un miedo mortal las brumas, las nieblas y la oscuridad. Una religión del miedo procuró aplacar las fuerzas invisibles y terminó conduciendo al sacrificio humano.",
+ "p064.s4.h": "V. El Origen de las Razas de Color — Los diecinueve hijos de la familia sangik",
+ "p064.s4.b0": "Hace quinientos mil años las tribus de Badonán cayeron en una guerra que duró más de cien años, y solo quedaron unas cien familias; pero estos supervivientes eran los más inteligentes de todos los descendientes de Andón y Fonta que vivían entonces. Luego, una pareja de la parte nordeste de las tierras altas comenzó de repente a tener hijos excepcionalmente inteligentes. Era la familia sangik.",
+ "p064.s4.b2": "Los diecinueve hijos sangik mostraban una tendencia singular: su piel adquiría distintos colores al exponerse a la luz del sol. Estos colores se acentuaban a medida que maduraban, y su descendencia tendía al color de piel del progenitor sangik.",
+ "p064.s4.b3": {
+  "head": [
+   "Color de la piel",
+   "Rojo",
+   "Anaranjado",
+   "Amarillo",
+   "Verde",
+   "Azul",
+   "Índigo"
+  ],
+  "rows": [
+   [
+    "Número de hijos",
+    "5",
+    "2",
+    "4",
+    "2",
+    "4",
+    "2"
+   ]
+  ]
+ },
+ "p064.s4.b4": "El texto subraya lo insólito de este hecho. En un planeta evolutivo medio el hombre rojo aparece primero y recorre el mundo durante edades antes de que surjan una a una las demás razas; en Urantia las seis razas nacieron a la vez en una sola familia. También la evolución de los andonitas, una raza de criaturas volitivas, antes que las razas de color fue algo sin precedentes en Satania.",
+ "p064.s5.h": "VI. Las Seis Razas Sangik de Urantia — Cada una con sus dones y sus maestros",
+ "p064.s5.b0": "Al presentar una por una las seis razas, el Portador de Vida cuida de nombrar, junto con los rasgos distintivos de cada raza, al gran jefe que la despertó. En medio de repetidas decadencias y renacimientos, cada raza tuvo un maestro que la condujo a la adoración del Dios verdadero; este es el hilo oculto que recorre la sección.",
+ "p064.s5.b1": {
+  "head": [
+   "Raza",
+   "Rasgos que señala el texto",
+   "Jefe del renacimiento",
+   "Curso posterior"
+  ],
+  "rows": [
+   [
+    "Roja",
+    "La primera en desarrollar la civilización tribal y el gobierno; monógama; el arco y la flecha",
+    "Onamonalonton — la adoración del «Gran Espíritu»",
+    "Emigró a Norteamérica hace unos 85.000 años"
+   ],
+   [
+    "Anaranjada",
+    "Un impulso de construir cualquier cosa y todo; aprendió en las escuelas del Príncipe Planetario",
+    "Porshunta",
+    "Exterminada por la raza verde en África; desaparecida hace unos 100.000 años"
+   ],
+   [
+    "Amarilla",
+    "La primera en asentarse en una vida hogareña agrícola; organización social y cooperación",
+    "Singlangtón — la adoración de la «Verdad Única»",
+    "Sobrevive en mayor número en el centro y el este de Asia"
+   ],
+   [
+    "Verde",
+    "Debilitada por la dispersión; una cepa de gigantes",
+    "Fantad",
+    "Dividida en tres grupos, absorbida o amalgamada"
+   ],
+   [
+    "Azul",
+    "Inventó la lanza; los rudimentos de muchas artes modernas; la capacidad cerebral del hombre rojo con el sentimiento del amarillo",
+    "Orlandof — la adoración del «Jefe Supremo»",
+    "Se estableció en Europa; la base de los llamados pueblos blancos"
+   ],
+   [
+    "Índigo",
+    "La última en salir de las tierras altas",
+    "Orvonón — el «Dios de los Dioses»",
+    "Se estableció en África"
+   ]
+  ]
+ },
+ "p064.s5.b2": "Aunque el texto registra a la raza índiga como la menos progresista, añade de inmediato que el grado de progreso no tiene nada que ver con la importancia espiritual. Ir adelante o atrás en la cultura es cuestión de tiempo y de circunstancias, no de valor ante los ojos del cielo.",
+ "p064.s5.b4": "Fueron edades de intensa lucha entre las razas, aunque cerca de la sede central del Príncipe Planetario los grupos más iluminados vivían juntos en relativa armonía. El texto dice que, además de los grandes maestros aquí nombrados, surgieron muchos maestros menores en distintas regiones, y que juntos ayudaron a impedir el desplome total de la civilización durante las prolongadas edades oscuras entre la rebelión de Caligastia y la llegada de Adán. La parte de quienes enseñaron sin fama no fue en absoluto pequeña.",
+ "p064.s5.b5": "¿Por qué, entonces, hacer evolucionar varias razas? El Portador de Vida expone cinco razones dignas de atención, aunque los mortales tal vez no las aprecien plenamente.",
+ "p064.s5.b6": {
+  "head": [
+   "N.º",
+   "Razones para hacer evolucionar varias razas"
+  ],
+  "rows": [
+   [
+    "1",
+    "La variedad es indispensable para el amplio funcionamiento de la selección natural"
+   ],
+   [
+    "2",
+    "Pueden obtenerse razas más fuertes y mejores mediante el cruce de pueblos diversos con factores hereditarios superiores (aunque tales experimentos, en las condiciones actuales, serían desastrosos)"
+   ],
+   [
+    "3",
+    "La diversificación de las razas estimula sanamente la competencia"
+   ],
+   [
+    "4",
+    "Las diferencias de condición son esenciales para el desarrollo de la tolerancia y el altruismo humanos"
+   ],
+   [
+    "5",
+    "La homogeneidad de la raza humana no es deseable hasta que se alcancen niveles espirituales relativamente elevados"
+   ]
+  ]
+ },
+ "p064.s6.h": "VII. La Dispersión de las Razas de Color — El poblamiento de los continentes",
+ "p064.s6.b0": "Mientras el quinto glaciar se extendía ampliamente, los pueblos sangik vivieron juntos en torno a las estribaciones durante casi cien mil años, aunque pronto se manifestó una antipatía natural entre las distintas razas. Cuando el hielo retrocedió, el hombre rojo se dirigió al nordeste, seguido de cerca por el hombre amarillo, y el hombre azul se trasladó hacia el noroeste, a Europa. Las razas anaranjada, verde e índiga entraron en África una tras otra por un puente terrestre recién elevado.",
+ "p064.s6.b1": "En Europa el hombre azul se encontró con los neandertales, descendientes de su antepasado común Andón, y se mezcló con ellos. La raza roja salió de Asia en once tribus de poco más de siete mil personas, y los pequeños grupos mezclados que las acompañaban fueron hacia el sur y fundaron las civilizaciones de México, Centroamérica y Sudamérica. El texto añade que todo esfuerzo por rastrear la ascendencia sangik de los pueblos modernos debe tener en cuenta la mezcla posterior de sangre adánica.",
+ "p064.s6.b2": {
+  "head": [
+   "Región",
+   "Pueblos establecidos allí al concluir las migraciones sangik"
+  ],
+  "rows": [
+   [
+    "Norteamérica",
+    "El hombre rojo"
+   ],
+   [
+    "Asia oriental",
+    "El hombre amarillo"
+   ],
+   [
+    "Europa",
+    "El hombre azul"
+   ],
+   [
+    "África",
+    "La raza índiga"
+   ],
+   [
+    "India",
+    "Una mezcla de las razas sangik secundarias"
+   ],
+   [
+    "Islas frente a la costa asiática",
+    "El hombre moreno, mezcla del rojo y el amarillo"
+   ],
+   [
+    "El extremo norte de Europa, Islandia, Groenlandia, el nordeste de Norteamérica",
+    "Los andonitas más puros"
+   ]
+  ]
+ },
+ "p064.s6.b3": "Las tribus occidentales de Andón, empujadas por los glaciares hasta la misma orilla del mar, construyeron embarcaciones y se hicieron a la mar cuando llegó el último glaciar. Fueron los primeros aventureros marinos; la mayoría pereció en alta mar, pero algunos llegaron a Islandia y Groenlandia, y sus descendientes esquimales pasaron más tarde a Norteamérica. El Portador de Vida lamenta que tantas de las cualidades vigorosas de estos primeros antepasados se hayan perdido en las razas posteriores.",
+ "p064.s7.h": "Conclusión — Vivir este documento",
+ "p064.s7.b0": "El documento 64 es un registro en el que el progreso y la regresión se alternan sin cesar. Los linajes superiores se pierden en la guerra, la cultura se hunde hasta su punto más bajo y luego vuelve a elevarse gracias a un solo maestro. A lo largo de todo ello el Portador de Vida subraya dos cosas: que la tendencia a luchar entre sí destruyó razas y civilizaciones desde dentro, y que ninguna raza está por debajo de otra ante el cielo.",
+ "p064.s7.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la respalda"
+  ],
+  "rows": [
+   [
+    "Convertir una situación de encierro en ocasión de invención y crecimiento",
+    "El frío y el hambre de los espacios abiertos estimularon la acción y la invención"
+   ],
+   [
+    "No tomar a la ligera las disputas dentro de una comunidad",
+    "Varias razas prácticamente se destruyeron a sí mismas por luchas internas antes de que sus enemigos acabaran con ellas"
+   ],
+   [
+    "Recibir las diferencias como una ocasión de aprender tolerancia y altruismo",
+    "Las diferencias de condición son esenciales para desarrollar la tolerancia y el altruismo"
+   ],
+   [
+    "Mantener la adoración orientada hacia el Dios verdadero, no hacia el miedo",
+    "La religión del miedo condujo al sacrificio humano; los maestros renovaron la adoración del Dios verdadero"
+   ]
+  ]
+ },
+ "p064.s7.b2": "El documento 65 repasa toda la evolución desde el punto de vista de los Portadores de Vida, y explica sus funciones, lo singular del experimento de vida de Urantia, el ministerio de los espíritus ayudantes de la mente y la evolución en el tiempo y el espacio.",
+ "p065.lead": "La evolución nunca es un accidente: la historia interna del experimento de vida de Urantia, guiado conjuntamente por los Portadores de Vida, los controladores físicos y los espíritus ayudantes de la mente.",
+ "p065.foot": {
+  "text": "Patrocinado por un Portador de Vida de Nebadon residente en Urantia",
+  "ref": "65:8.7"
+ },
+ "p065.s0.h": "Introducción — Ver la evolución desde arriba",
+ "p065.s0.b0": "Los documentos 58 a 64 relataron, en orden cronológico, cómo apareció y se desarrolló la vida en nuestro mundo. El documento 65 vuelve a mirar la misma historia, esta vez desde el lugar de quienes la supervisaron. El autor es un Portador de Vida residente en Urantia. Explica que la vida material básica es obra de una creatividad de tres componentes: la formulación de los Controladores Físicos Decanos, el ministerio de implantación de vida de los Siete Espíritus Rectores y la ministración activa de los Portadores de Vida.",
+ "p065.s0.b1": {
+  "head": [
+   "Nivel",
+   "Qué es",
+   "Quién es responsable"
+  ],
+  "rows": [
+   [
+    "1",
+    "El dominio de la energía física: produce la capacidad para la mente",
+    "Los controladores físicos (respuestas mecánicas, no educables)"
+   ],
+   [
+    "2",
+    "El ministerio mental de los espíritus ayudantes: incide en la capacidad espiritual",
+    "Los espíritus ayudantes de la mente (respuestas adaptativas que aprenden de la experiencia)"
+   ],
+   [
+    "3",
+    "La dotación espiritual de la mente mortal",
+    "Culmina en el otorgamiento del Ajustador del Pensamiento"
+   ]
+  ]
+ },
+ "p065.s0.b2": "Los Portadores de Vida ejercen un control discrecional considerable sobre el medio ambiente hasta la aparición de la voluntad humana: la capacidad de conocer a Dios y el poder de elegir adorarle. Como la labor integrada de estos tres agentes condiciona el curso de la evolución orgánica, la apertura del documento termina con una conclusión clara.",
+ "p065.s1.h": "I. Las Funciones de los Portadores de Vida — Tres fases del ser",
+ "p065.s1.b0": "Los Portadores de Vida poseen potenciales de metamorfosis de la personalidad que pocas órdenes de criaturas tienen. Normalmente trabajan como Hijos de la fase intermedia, que es el estado de su origen, pero en ese estado no pueden funcionar en los dominios electroquímicos donde las energías y las partículas materiales se convierten en unidades vivientes. Por eso, según lo requiera su tarea, comisiones de otros seres cambian su fase de existencia.",
+ "p065.s1.b1": {
+  "head": [
+   "Fase del ser",
+   "Cuándo",
+   "Qué pueden hacer"
+  ],
+  "rows": [
+   [
+    "El nivel físico de la electroquímica",
+    "Para la implantación de la vida; transmutados por la comisión de los arcángeles",
+    "Organizar y crear nuevos modelos de materia viviente"
+   ],
+   [
+    "La fase intermedia usual de existencia cuasimorontial",
+    "Restituida de inmediato cuando la vida llega a existir",
+    "Ya no pueden crear, pero pueden manipular las unidades vivientes y guiar los organismos en evolución"
+   ],
+   [
+    "El nivel semiespiritual avanzado",
+    "Cuando hacen votos de renunciación y permanecen tras la aparición del libre albedrío; transmutados por una comisión presidida por el jefe de las Estrellas Vespertinas",
+    "Servir como asesores de quienes fomentan a las criaturas volitivas recién evolucionadas"
+   ]
+  ]
+ },
+ "p065.s1.b2": "El propio autor trabaja en Urantia en esta tercera fase desde los tiempos de Andón y Fonta. Los Portadores de Vida esperan una posible cuarta etapa, enteramente espiritual, cuando el universo se establezca en luz y vida, pero él admite con franqueza que nunca se les ha revelado la técnica para alcanzarla. Es llamativo oír que incluso seres tan elevados se enfrentan a un futuro que todavía no comprenden.",
+ "p065.s2.h": "II. El Panorama de la Evolución — De las algas al hombre",
+ "p065.s2.b0": "La historia del ascenso del hombre desde las algas hasta el señorío de la creación terrestre es un romance de lucha biológica y de supervivencia de la mente. Nuestros antepasados primordiales fueron literalmente el limo y el cieno del fondo del océano en las bahías y lagunas cálidas a lo largo de las orillas de los antiguos mares interiores. Esta sección vuelve a recorrer ese largo camino señalando solo sus eslabones clave.",
+ "p065.s2.b1": {
+  "head": [
+   "Eslabón",
+   "Lo que dice el texto"
+  ],
+  "rows": [
+   [
+    "Vida fronteriza semejante a la esponja",
+    "Verdaderos organismos fronterizos, ni vegetales ni animales, por los que la planta pasó al animal"
+   ],
+   [
+    "Las bacterias y la ameba",
+    "Supervivencias de los primeros pasos que luego no siguieron desarrollándose"
+   ],
+   [
+    "Los peces",
+    "Los primeros animales con columna vertebral, de los que procedieron la rana y la salamandra"
+   ],
+   [
+    "La rana",
+    "Inició las diferenciaciones que culminaron en el hombre; la única especie antepasada de las primeras razas protohumanas que vive todavía"
+   ],
+   [
+    "Del reptil al ave",
+    "Probablemente el mayor salto individual de toda la evolución prehumana"
+   ],
+   [
+    "Los mamíferos placentarios",
+    "Surgieron súbitamente de un pequeño y ágil dinosaurio reptil de hábitos carnívoros"
+   ],
+   [
+    "El hombre",
+    "Evolucionó de las cepas de vida occidental y central, pero en las regiones del centro al cercano oriente"
+   ]
+  ]
+ },
+ "p065.s2.b2": "El grupo de vida oriental sufrió pérdidas repetidas e irreparables de sus tipos superiores de plasma germinal y perdió así su potencial humano; con el consentimiento de sus superiores, los Portadores de Vida manipularon entonces el medio ambiente para circunscribir esas cepas. En apariencia fue algo accidental, pero en realidad tuvo un propósito completo. La aparición del hombre durante la edad glacial también fue planeada.",
+ "p065.s3.h": "III. El Fomento de la Evolución — Cuidar sin interferir",
+ "p065.s3.b0": "Los Portadores de Vida pueden usar todos los recursos naturales y cualquier circunstancia fortuita, pero no se les permite intervenir mecánicamente en la evolución ni manipularla de forma arbitraria. Esto pone bajo una nueva luz la dramática historia de la rana del documento 62. Si aquella rana hubiera perecido, la evolución de la humanidad no habría terminado. Los Portadores de Vida estaban fomentando al mismo tiempo no menos de otras mil cepas, y aquella rana era su tercera selección.",
+ "p065.s3.b1": "Aun si Andón y Fonta se hubieran perdido antes de tener hijos, la evolución humana solo se habría retrasado, no impedido; después, no menos de siete mil cepas favorables habrían podido desarrollarse todavía hasta un tipo humano. Pero los potenciales humanos de la vida animal están ahora agotados, y la humanidad ha de resolver sus problemas de desarrollo con la descendencia con la que ya cuenta.",
+ "p065.s3.b3": "Así como los Portadores de Vida fomentaron y conservaron las cepas de vida antes de que apareciera la voluntad humana, así ahora el hombre debe hacerlo por sí mismo. El autor añade que algún día sus lectores podrán ser destinados a un cuerpo de Portadores de Vida y tendrán todas las oportunidades de ofrecer ideas mejores. «¡Sed pacientes!», dice.",
+ "p065.s4.h": "IV. La Aventura Urantiana — El sexagésimo experimento de vida",
+ "p065.s4.b0": "Urantia fue designada como mundo de experimentación de vida, escenario del sexagésimo intento de mejorar la adaptación en Satania de los modelos de vida de Nebadon. Aquí se elaboraron no menos de veintiocho características de modificación de la vida. Sin embargo, «experimento» no significa probar cosas al azar. La evolución de la vida es una técnica progresiva y cambiante, pero nunca se deja al azar.",
+ "p065.s4.b2": "Como prueba, el autor señala la curación de las heridas. Una célula lesionada elabora ciertas sustancias químicas que estimulan a las células normales vecinas; estas secretan sustancias que ayudan a la curación y se multiplican para reemplazar a las células destruidas. Esta fórmula se eligió entre más de cien mil fases y características de reacciones químicas posibles, y se hicieron más de medio millón de experimentos antes de adoptarla.",
+ "p065.s4.b3": {
+  "head": [
+   "En un mundo evolutivo ordinario",
+   "En Urantia"
+  ],
+  "rows": [
+   [
+    "La voluntad aparece solo después de que las razas de color han existido largo tiempo, por lo general primero en el hombre rojo",
+    "El único planeta de Satania donde la voluntad humana apareció en una raza anterior a las de color, los andonitas"
+   ],
+   [
+    "Las razas de color surgen de mutaciones independientes, una a la vez, a lo largo de largos períodos",
+    "Las seis razas sangik surgieron a la vez de una sola familia"
+   ],
+   [
+    "El Príncipe Planetario llega hacia el tiempo en que se desarrolla la voluntad",
+    "El príncipe llegó casi quinientos mil años después; entretanto, doce Melquisedek supervisaron el planeta"
+   ]
+  ]
+ },
+ "p065.s4.b4": "El autor prevé que, cuando los científicos de Urantia sepan más sobre estas sustancias químicas curativas, tratarán las lesiones con mayor eficacia y, de forma indirecta, aprenderán más sobre el control de ciertas enfermedades graves. Más tarde, los Portadores de Vida perfeccionaron la técnica en otro mundo de Satania, logrando un mayor alivio del dolor y un mejor control de la proliferación de las células circundantes.",
+ "p065.s4.b5": "Esta labor de modificación dejó tras de sí muchas formas de vida de transición aparentemente inútiles e innumerables subproductos extraños. El autor dice que comprende muy bien lo desconcertantes que deben parecer desde el limitado punto de vista humano.",
+ "p065.s5.h": "V. Las Vicisitudes de la Evolución de la Vida — Decepción y confianza",
+ "p065.s5.b0": "Los Portadores de Vida tienen sus pesares. La traición de Caligastia y el incumplimiento adánico obstaculizaron sus esfuerzos por modificar la vida inteligente. Su mayor decepción fue la reversión de cierta vida vegetal primitiva a bacterias parasitarias, lo que causó muchas enfermedades penosas en los mamíferos superiores y en el hombre. Habían esperado que la mezcla del plasma vital adánico hiciera a la raza mezclada prácticamente inmune, pero también esa esperanza se frustró.",
+ "p065.s5.b2": "Así pues, la actitud adecuada, tanto para los Portadores de Vida como para los mortales, es la espera paciente y la cooperación sincera. Hay compensaciones por la tribulación, como el autootorgamiento de Micael, y los supervisores celestiales expresan una confianza completa en el triunfo evolutivo final de la raza humana. Esta negativa a retirar la confianza cuando los planes se tuercen se aplica igualmente a una vida individual.",
+ "p065.s6.h": "VI. Las Técnicas Evolucionarias de la Vida — Un anhelo innato de perfección",
+ "p065.s6.b0": "El secreto de la vida no puede atraparse mediante el análisis. El químico puede explicar la química del protoplasma muerto, pero como tiene que matar el protoplasma para analizarlo, nunca puede captar la organización y el funcionamiento del protoplasma vivo. Sin embargo, todo ser vivo lleva consigo, junto con su poder de adaptación, un ansia insaciable de una perfección cada vez mayor.",
+ "p065.s6.b2": {
+  "head": [
+   "Técnica de la evolución",
+   "Ejemplo en el texto"
+  ],
+  "rows": [
+   [
+    "Los pasos clave de la evolución vegetal",
+    "Primero la capacidad de hacer clorofila, luego el avance de la espora a la semilla"
+   ],
+   [
+    "Adaptación de la función",
+    "El hierro de los glóbulos rojos transporta oxígeno y a la vez elimina el bióxido de carbono (la jibia usa cobre, la ascidia vanadio)"
+   ],
+   [
+    "Adaptación aún en curso",
+    "Los dientes pasaron de treinta y seis a treinta y dos, y el hombre tiende ahora hacia veintiocho"
+   ],
+   [
+    "Ajuste químico",
+    "Más de 15.000.000 de reacciones químicas posibles entre las hormonas de una docena de glándulas sin conducto"
+   ]
+  ]
+ },
+ "p065.s6.b3": "Sin embargo, la física y la química por sí solas no pueden explicar la evolución humana. Las leyes de la física no responden al adiestramiento, y las reacciones químicas no se modifican con la educación, pero la mente aprende de la experiencia. La capacidad de aprender, la memoria y la respuesta diferencial al medio ambiente son la dotación de la mente.",
+ "p065.s7.h": "VII. Los Niveles Evolucionarios de la Mente — El ministerio de los espíritus ayudantes",
+ "p065.s7.b0": "Los siete espíritus ayudantes se parecen más a circuitos que a entidades. No intervienen en las respuestas puramente mecánicas; comienzan a funcionar en el momento en que aparece la capacidad de aprender de la experiencia. En Urantia, un mundo de experimentación de vida, estuvieron relativamente aislados y, con una sola excepción, tuvieron aquí más dificultad para ponerse en contacto con las mentes en evolución que en ningún otro lugar de Nebadon. Por eso aparecieron tantos fenómenos fronterizos, mezclas confusas de respuestas mecánicas y educables.",
+ "p065.s7.b1": "En el nivel del espíritu de adoración, lo superior desciende para coordinarse con lo inferior, y un ministerio espiritual adicional acompaña la labor del espíritu de la sabiduría. Todos estos cambios son graduales y recíprocos, nunca bruscos. El autor nos insta a mantener siempre diferenciados tres dominios.",
+ "p065.s7.b2": {
+  "head": [
+   "Dominio",
+   "A cargo de quién",
+   "Gravedad"
+  ],
+  "rows": [
+   [
+    "Respuesta física (electroquímica)",
+    "Los centros de poder y los controladores físicos",
+    "Gravedad física"
+   ],
+   [
+    "Respuesta mental",
+    "Los siete espíritus ayudantes de la mente",
+    "Gravedad mental"
+   ],
+   [
+    "Actividad espiritual",
+    "El ministerio espiritual",
+    "Gravedad espiritual"
+   ]
+  ]
+ },
+ "p065.s8.h": "VIII. La Evolución en el Tiempo y en el Espacio — Una elección que la demora no puede vencer",
+ "p065.s8.b0": "¿Por qué tarda tanto la evolución? El autor responde que la vida no puede desplegarse más deprisa de lo que permiten los cambios físicos del planeta. Si las condiciones lo permitieran, toda la evolución de la vida podría completarse en mucho menos de un millón de años, pero los Portadores de Vida no tienen control sobre la evolución geológica. A las criaturas de vida breve la evolución les parece interminable, pero en el Paraíso, donde el tiempo no existe, todo ello está presente.",
+ "p065.s8.b1": "Así como la evolución de la mente espera las condiciones físicas, el progreso espiritual se retrasa por un crecimiento mental limitado. Sin embargo, la evolución del alma no depende de la educación ni de la cultura. Lo que necesita es la elección de la supervivencia por parte de la mente y su decisión de hacer la voluntad del Padre que está en los cielos.",
+ "p065.s9.h": "Conclusión — Vivir este documento",
+ "p065.s9.b0": "El documento 65 presenta la evolución como una obra de cooperación con propósito. La materia está vinculada a la mente y la mente al espíritu, y las demoras y los reveses del camino no son fracasos, sino la manera en que las cosas funcionan en el tiempo y el espacio. Y ahora que los Portadores de Vida se han retirado, el destino evolutivo de la humanidad ha pasado en gran medida a nuestras propias manos.",
+ "p065.s9.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la respalda"
+  ],
+  "rows": [
+   [
+    "Confiar en el propósito mayor aun cuando las cosas parezcan ir mal",
+    "La evolución siempre entraña un propósito y nunca es fortuita"
+   ],
+   [
+    "Cuidar de uno mismo y criar con sabiduría a la generación siguiente",
+    "El destino evolutivo del hombre está en sus propias manos"
+   ],
+   [
+    "No dejar nunca de aprender",
+    "La supervivencia tal vez no dependa del conocimiento, pero la progresión sí"
+   ],
+   [
+    "Mantener la propia decisión cuando el crecimiento espiritual parezca lento",
+    "Ningún obstáculo puede vencer la elección hecha con toda la voluntad del alma"
+   ]
+  ]
+ },
+ "p065.s9.b2": "El documento 66 se ocupa de Caligastia, el Príncipe Planetario que llegó casi quinientos mil años después de Andón y Fonta, así como de su séquito, la vida en Dalamatia y las calamidades de Caligastia.",
+ "p066.lead": "Dalamatia, fundada en Mesopotamia hace medio millón de años: el primer centro mundial de la cultura, dirigido durante trescientos mil años por Caligastia y los cien, y las semillas de su tragedia.",
+ "p066.foot": {
+  "text": "Presentado por un Melquisedek de Nebadon",
+  "ref": "66:8.8"
+ },
+ "p066.s0.h": "Introducción — Un Príncipe Planetario que llegó tarde",
+ "p066.s0.b0": "El documento 66 lo presenta un Melquisedek de Nebadon, y con él la historia de Urantia entra en una época en que la administración celestial se encuentra directamente con la sociedad humana. En un mundo medio, la llegada del Príncipe Planetario, un Hijo Lanonandek, es señal de que la voluntad —la capacidad de elegir el camino de la supervivencia eterna— se ha desarrollado en la mente del hombre primitivo. En Urantia, sin embargo, el Príncipe llegó casi medio millón de años después de la aparición de la voluntad humana.",
+ "p066.s0.b1": "Caligastia llegó hace unos quinientos mil años, en la época en que aparecieron las seis razas sangik. Casi quinientos millones de seres humanos primitivos estaban dispersos por Europa, Asia y África, y la sede central del Príncipe se estableció en Mesopotamia, cerca del centro de la población mundial. El documento describe en detalle la labor realizada en esa sede, mientras traza en silencio la debilidad de una sola personalidad que lo derrumbó todo.",
+ "p066.s1.h": "I. El Príncipe Caligastia — Un historial brillante y un orgullo oculto",
+ "p066.s1.b0": "Caligastia era un Hijo Lanonandek, el número 9.344 de la orden secundaria, con experiencia en la administración del universo local. Lucifer lo ascendió a su séquito personal, y desempeñó satisfactoriamente cinco misiones sucesivas de honor y confianza. Solicitó muy temprano un nombramiento como Príncipe Planetario, pero su petición no logró una y otra vez la anuencia de los Padres de la Constelación antes de que finalmente se le asignara a Urantia.",
+ "p066.s1.b1": "El autor estaba presente en Jerusem cuando Caligastia partió. Recuerda que ningún príncipe de los planetas se había embarcado jamás con una experiencia preparatoria más rica ni con mejores perspectivas. Deja solo un indicio: cierta inquietud característica y una tendencia a discrepar del orden establecido en asuntos menores.",
+ "p066.s2.h": "II. El Séquito del Príncipe — Los cien de Caligastia",
+ "p066.s2.b0": "El Príncipe no vino solo. Al frente de su séquito estaba su asociado y asistente Daligastia, y con ellos vinieron muchos ángeles cooperadores y otros seres celestiales. Desde nuestro punto de vista, el grupo más interesante era el de los miembros corpóreos, los cien de Caligastia. Fueron elegidos entre más de 785.000 ciudadanos ascendentes de Jerusem que se ofrecieron para la aventura de Urantia, y cada uno provenía de un planeta diferente.",
+ "p066.s2.b1": "Sus cuerpos se prepararon de un modo especial. Los Portadores de Vida eligieron a cincuenta varones y cincuenta mujeres de las mejores cepas supervivientes del linaje de Andón y Fonta, y una comisión de Avalón extrajo una porción de su plasma vital y la transfirió a los cuerpos materiales construidos para el séquito. Toda la repersonalización duró exactamente diez días. El texto añade que estos acontecimientos dieron origen a numerosas leyendas, que más tarde se confundieron con las tradiciones de Adán y Eva.",
+ "p066.s3.h": "III. Dalamatia — La Ciudad del Príncipe",
+ "p066.s3.b0": "La sede central estaba en la región del Golfo Pérsico de aquellos días, en la zona que más tarde se conocería como Mesopotamia. La única gran tarea de aquella época era transformar al hombre de cazador en pastor y, más tarde, en agricultor pacífico y hogareño. La ciudad se llamó Dalamatia en honor a Daligastia; era sencilla pero bella, y estaba cercada por una muralla de doce metros de alto.",
+ "p066.s3.b1": "La ciudad estaba trazada en diez subdivisiones, cada una con la sede de uno de los consejos en su centro, y en el centro de todo se alzaba el templo del Padre invisible. Los edificios eran en su mayoría de ladrillo, y las viviendas y aldeas de los pueblos circundantes mejoraron mucho siguiendo este ejemplo. El séquito reunía continuamente a los individuos superiores de las tribus cercanas, los adiestraba y los enviaba de regreso como maestros y jefes de sus propios pueblos.",
+ "p066.s4.h": "IV. Los Primeros Días de los Cien — Seres triples y los seres intermedios primarios",
+ "p066.s4.b0": "La llegada del séquito causó una profunda impresión, y gran parte de la mitología posterior surgió de leyendas tergiversadas de aquellos días. El obstáculo grave era la tendencia de los mortales a considerarlos dioses. Sin embargo, los cien no recurrieron a métodos sobrenaturales ni a manipulaciones sobrehumanas. Aun así, eran seres extraordinarios en tres aspectos.",
+ "p066.s4.b1": {
+  "head": [
+   "Aspecto",
+   "Qué significaba"
+  ],
+  "rows": [
+   [
+    "Corpóreos y relativamente humanos",
+    "Sus cuerpos llevaban plasma vital andónico; seguían a la raza andónica en el color de la piel y en el lenguaje, y quedaban del todo satisfechos con un régimen sin carne"
+   ],
+   [
+    "Materiales pero sobrehumanos",
+    "Como ciudadanos ascendentes de Jerusem tenían almas desarrolladas a través de los mundos de estancia; aún no fusionados con sus Ajustadores, fueron separados de ellos para la misión"
+   ],
+   [
+    "Personalmente inmortales",
+    "Los complementos antidotales de las corrientes vitales del sistema, del fruto del árbol de la vida, les permitían seguir viviendo por tiempo indefinido"
+   ]
+  ]
+ },
+ "p066.s4.b2": "En el año treinta y tres de su estadía en Dalamatia, los números dos y siete del grupo danita descubrieron por azar un fenómeno que acompañaba la unión de su yo morontial. El resultado fue la primera de las criaturas intermedias primarias, y todo el séquito, siguiendo el mismo método, dio existencia al cuerpo original de 50.000 seres intermedios primarios. Invisibles para los seres humanos, estas criaturas fueron durante edades la totalidad del mundo espiritual para los mortales primitivos.",
+ "p066.s4.b3": "El complemento de los circuitos del sistema se introdujo también en los cien andonitas que habían dado su plasma germinal, de modo que vivieron con el séquito siglo tras siglo y permanecieron en la sede central como asistentes personales. El árbol de la vida crecía en el patio central del templo del Padre invisible.",
+ "p066.s5.h": "V. La Organización de los Cien — Diez consejos",
+ "p066.s5.b0": "Los cien se organizaron en diez consejos autónomos de diez miembros cada uno, y cuando dos o más se reunían, presidía Daligastia. Una mirada a la labor de cada consejo muestra de un vistazo de qué están hechos los cimientos de la civilización.",
+ "p066.s5.b1": {
+  "head": [
+   "",
+   "Consejo",
+   "Jefe",
+   "Logros principales"
+  ],
+  "rows": [
+   [
+    "1",
+    "Alimentación y bienestar material",
+    "Ang",
+    "Pozos y riego, curtido de pieles, conservación de alimentos mediante la cocción, el secado y el ahumado"
+   ],
+   [
+    "2",
+    "Domesticación y utilización de los animales",
+    "Bon",
+    "Cría de ganado, mantequilla y queso, la rueda, palomas mensajeras"
+   ],
+   [
+    "3",
+    "Dominio de los animales de rapiña",
+    "Dan",
+    "Murallas en las ciudades y mejores viviendas, trampas"
+   ],
+   [
+    "4",
+    "Difusión y conservación del conocimiento",
+    "Fad",
+    "Un alfabeto de veinticinco caracteres; «la casa de Fad», con más de dos millones de constancias"
+   ],
+   [
+    "5",
+    "Industria y comercio",
+    "Nod",
+    "Manufactura primitiva, el comercio de la sal, el primer crédito comercial"
+   ],
+   [
+    "6",
+    "Colegio de la religión revelada",
+    "Hap",
+    "Sustituir el temor de las criaturas por el temor del Creador; «la oración del Padre»"
+   ],
+   [
+    "7",
+    "Guardianes de la salud y la vida",
+    "Lut",
+    "Sanidad, cocción para evitar enfermedades, el baño, el valor de la luz solar"
+   ],
+   [
+    "8",
+    "Artes y ciencias",
+    "Mek",
+    "Rudimentos de física y química, alfarería, artes decorativas"
+   ],
+   [
+    "9",
+    "Relaciones tribales avanzadas",
+    "Tut",
+    "Noviazgo y matrimonio deliberados, regulación y humanización de la guerra, mejor gobierno tribal"
+   ],
+   [
+    "10",
+    "Tribunal supremo de coordinación tribal y cooperación racial",
+    "Van",
+    "Tribunal de apelaciones de las otras nueve comisiones"
+   ]
+  ]
+ },
+ "p066.s5.b3": "El grupo de Hap se atuvo al principio de que la revelación no debe complicar la evolución, pero cedió al deseo de los habitantes de la ciudad de tener una forma de adoración y les dio siete cánticos y «⟦Q 66:5.14⟧la oración del Padre⟦/Q⟧». La oración pide ser redimidos del temor, la verdad en nuestros labios, el respeto por lo que pertenece a nuestro prójimo y el deseo de hacer la voluntad del Padre en este mundo tal como otros la hacen en los mundos más lejanos.",
+ "p066.s5.b5": "Lamentablemente, el alfabeto y muchos otros logros se perdieron en la confusión de la rebelión, y gran parte no se volvió a descubrir hasta el siglo veinte. La deserción de Caligastia destruyó también la esperanza de una lengua universal durante incontables edades.",
+ "p066.s6.h": "VI. El Reinado del Príncipe — Evolución, no revolución",
+ "p066.s6.b0": "Cuando llegaron los cien, el mundo entero estaba atrapado en el estancamiento de unas costumbres atadas a la tradición. La tradición da estabilidad y cooperación, pero sofoca la iniciativa y esclaviza las facultades creativas. Los cien proclamaron un nuevo evangelio de la iniciativa individual, pero no intentaron transformar de repente a las razas primitivas. Aunque conocían las artes y la cultura de Jerusem, no se limitaron a trasplantarlas.",
+ "p066.s6.b1": {
+  "head": [
+   "Principio de los maestros de Dalamatia",
+   "Tal como lo explica el texto"
+  ],
+  "rows": [
+   [
+    "Formar jefes nativos",
+    "Atraer a los mejores intelectos de las tribus circundantes y enviarlos de vuelta a su pueblo como emisarios"
+   ],
+   [
+    "No ir nunca sin ser invitados",
+    "Ningún emisario extranjero sin la petición de un pueblo; quienes trabajaban para una tribu eran siempre nativos de ella"
+   ],
+   [
+    "No imponer nunca las costumbres",
+    "Elevar y hacer avanzar con paciencia las costumbres probadas por el tiempo de cada raza"
+   ],
+   [
+    "Añadir la selección social",
+    "Agregar la selección social consciente a la selección natural, acelerando la evolución normal"
+   ]
+  ]
+ },
+ "p066.s6.b3": "El texto advierte que el exceso de enseñanza y de iluminación produce confusión y consternación y puede robar a las personas el poco progreso que han ganado a lo largo de largas edades. Cuando ayudamos a otros, el ritmo y el respeto importan tanto como las buenas intenciones.",
+ "p066.s7.h": "VII. La Vida en Dalamatia — El hogar, la escuela y el Camino del Padre",
+ "p066.s7.b0": "La ciudad era hermosa pero modesta, y la tierra dentro de sus murallas podía proporcionar pastos y huertos para unas veinte mil personas. En esta sede central no se emplearon métodos que no pertenecieran naturalmente a Urantia. El séquito no tenía hijos propios, pero sus cincuenta hogares modelo albergaban a no menos de quinientos niños adoptados, que después de las escuelas del Príncipe eran enviados como emisarios a las tribus de sus propias razas.",
+ "p066.s7.b1": "El orden de una vida familiar estable data también de esta época. El hogar nunca tuvo éxito como unidad social hasta que la gente aprendió a amar y a planificar para sus nietos y los hijos de sus nietos. La escuela que patrocinó Fad era una escuela industrial en la que los alumnos aprendían en la práctica, y valoraba tanto el adiestramiento individual como la socialización en grupos.",
+ "p066.s7.b3": {
+  "head": [
+   "",
+   "El Camino del Padre: los siete mandamientos que dio Hap"
+  ],
+  "rows": [
+   [
+    "1",
+    "No temas ni sirvas a otro Dios que no sea el Padre de todo."
+   ],
+   [
+    "2",
+    "No desobedezcas al Hijo del Padre, el gobernante mundial, ni faltes al respeto de sus asociados sobrehumanos."
+   ],
+   [
+    "3",
+    "No mientas cuando comparezcas ante los jueces del pueblo."
+   ],
+   [
+    "4",
+    "No mates a hombres, mujeres o niños."
+   ],
+   [
+    "5",
+    "No robes los bienes ni el ganado de tu prójimo."
+   ],
+   [
+    "6",
+    "No toques a la esposa de tu amigo."
+   ],
+   [
+    "7",
+    "No faltes al respeto a tus padres ni a los ancianos de la tribu."
+   ]
+  ]
+ },
+ "p066.s7.b4": "Este fue el código de Dalamatia durante casi trescientos mil años, y la gente traía a la mente un mandamiento cada día de la semana, usándolo como saludo y como acción de gracias a la hora de las comidas. La propia semana de siete días la introdujeron los maestros de Dalamatia como la cuarta parte del mes lunar de veintiocho días. El texto afirma también con claridad que la labranza de la tierra no es un castigo por el pecado.",
+ "p066.s8.h": "VIII. Las Calamidades de Caligastia — Un orgullo que terminó en traición",
+ "p066.s8.b0": "Al repasar la larga carrera de Caligastia, el autor encuentra un solo rasgo sobresaliente: era sobremanera individualista y resentía levemente toda forma de supervisión. Sin embargo, cada vez que se le sometía a prueba demostraba su lealtad, de modo que antes de su traición no se le encontró ninguna falta real. Tanto a Lucifer como a Caligastia se les instruyó con paciencia y se les advirtió con amor sobre sus tendencias críticas y su orgullo, pero ellos interpretaron esta ayuda como crítica infundada e intromisión en su libertad.",
+ "p066.s8.b2": "Durante casi trescientos mil años después de la llegada del Príncipe, la civilización planetaria progresó de manera bastante normal, pero con la rebelión de Lucifer Caligastia entró en la oscuridad. Se le privó de su autoridad soberana, su poder fue muy coartado por la encarnación de Maquiventa Melquisedek, y en los días de Micael fue finalmente despojado de toda autoridad. Ahora espera la adjudicación final de los Ancianos de los Días.",
+ "p066.s8.b3": "Lo que el documento subraya al final es la dignidad del libre albedrío humano. La enseñanza de que un diablo personal puede dominar la mente humana normal contra su propia elección es, dice el texto, del todo ficticia. Hasta el Ajustador residente se niega a obligar a un solo pensamiento o a una sola acción contra la voluntad del propio hombre.",
+ "p066.s9.h": "Conclusión — Vivir este documento",
+ "p066.s9.b0": "El documento 66 muestra cuán concretos son los cimientos de la civilización: pozos y almacenamiento de alimentos, animales domésticos y la rueda, letras y escuelas, higiene y ley, y hogares donde los abuelos aman a sus nietos. Muestra también que todo esto puede deshacerse por el orgullo oculto de un solo dirigente. Sin embargo, nada puede reemplazar ni arrebatar las decisiones morales que los seres humanos toman por sí mismos.",
+ "p066.s9.b1": {
+  "head": [
+   "Práctica",
+   "La enseñanza que la respalda"
+  ],
+  "rows": [
+   [
+    "Recibir el consejo y la corrección como amor, no como ataque",
+    "Caligastia interpretó las advertencias amorosas como crítica infundada"
+   ],
+   [
+    "Al ayudar a otros, no imponer; caminar con ellos desde donde están",
+    "Los cien elevaron con paciencia las costumbres de cada raza"
+   ],
+   [
+    "Planificar pensando en las generaciones siguientes, no solo en los hijos",
+    "El hombre civilizado ama también a sus nietos"
+   ],
+   [
+    "Considerar el trabajo honrado como una bendición",
+    "La labranza de la tierra no es una maldición, sino la bendición más alta"
+   ],
+   [
+    "En la tentación, recordar que la elección es nuestra",
+    "El libre albedrío del hombre es supremo en los asuntos morales"
+   ]
+  ]
+ },
+ "p066.s9.b2": "El documento 67 relata cómo estalló realmente en Urantia la rebelión de Lucifer aquí anunciada: la rebelión planetaria y sus consecuencias."
+}

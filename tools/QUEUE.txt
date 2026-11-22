@@ -1,15 +1,3 @@
-commentary es c25
-commentary es c26
-commentary fr c01
-commentary fr c02
-commentary fr c03
-commentary fr c04
-commentary fr c05
-commentary fr c06
-commentary fr c07
-commentary fr c08
-commentary fr c09
-commentary fr c10
 commentary fr c11
 commentary fr c12
 commentary fr c13
