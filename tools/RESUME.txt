@@ -2,3 +2,4 @@
 # youth pt 최종 빌드 전: 'race commissioners' 통일 (c04 comissários raciais / c11 comissários das raças)
 # core: 11.023 원문 'triunity of actuality' 는 책의 triodity — 편집 판단 필요(es c01 은 triunidad 로 둠)
 # jesus: 연대기 끝 문장 출처 표기(ui.c_quote_by) 확인 필요 — 원문 그대로 인용 아님
+# core: 36.021 'Absolute Triunity'(본문은 Trinity Absolute) — es c04 는 triunidad absoluta 로 둠, 같은 판단 대상

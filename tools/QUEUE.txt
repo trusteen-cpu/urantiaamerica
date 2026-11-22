@@ -1,9 +1,3 @@
-commentary es c07
-commentary es c08
-commentary es c09
-commentary es c10
-commentary es c11
-commentary es c12
 commentary es c13
 commentary es c14
 commentary es c15
