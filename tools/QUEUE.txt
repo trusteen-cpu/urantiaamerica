@@ -1,13 +1,3 @@
-commentary es c13
-commentary es c14
-commentary es c15
-commentary es c16
-commentary es c17
-commentary es c18
-commentary es c19
-commentary es c20
-commentary es c21
-commentary es c22
 commentary es c23
 commentary es c24
 commentary es c25
