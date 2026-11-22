@@ -1,8 +1,3 @@
-commentary pt c09
-commentary pt c10
-commentary pt c11
-commentary pt c12
-commentary pt c13
 commentary pt c14
 commentary pt c15
 commentary pt c16
