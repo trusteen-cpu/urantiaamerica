@@ -145,3 +145,12 @@ No Korean anywhere; no English left except names and English in parentheses.
     python build_easy_am.py es --draft    # preview in _draft_es/ with English for missing units (automatic quotations already official)
     powershell -ExecutionPolicy Bypass -File to_pdf_am.ps1 -Lang es [-Draft]   # optional, needs Microsoft Word: docx → pdf
     python build_easy_am.py es            # again after the PDFs, so the reader shows the PDF button (papers without a PDF show only Word)
+
+## Decisions (coordinator, 2026-11-24)
+- Measurements: when the official translation of the cited/near verse gives metric figures, use the official figures (km, metres, °C, kg); otherwise convert sensibly to metric. Do not keep miles/feet.
+- Large numbers: English "billion" = es "mil millones", "trillion" = es "billón" (as the official text).
+- A verbatim book sentence without a ⟦Q⟧ marker: write the official sentence as plain text (no marker) and list its key in your report.
+- Era abbreviations: es "a. de J.C." / "d. de J.C." (as the official text), never "a. C." / "d. C.".
+- Era abbreviations: fr "av. J.-C." / "apr. J.-C."; pt "a.C." / "d.C." (as the official texts).
+- Metric and number decisions above apply to fr and pt too (fr 1 000 / 1 000 milliards; pt 1.000 / bilhão, trilhão as the official text).
+- pt prose: run `python ..\pt_old_spelling.py pt/cNN.json` before finishing (official pre-2009 spelling).
