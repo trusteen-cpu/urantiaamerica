@@ -27,7 +27,7 @@
 # 공식 pt 90:2.9 는 일식을 1808 로 오기(영문·해설은 1806) — pt 해설은 1806 유지
 # pt 빌드 전: 구역 제목 오기 확인(99:6 Institutional, 59:3 BraRAquiópodes, 59:6 Attribulação, 61:1 MamíferosS) — data/pt_titles.json 과 work/papers_pt 가 어긋나는지, 해설 머리글(p099.s6.h 등) 고치기
 # commentary p128.s7.b4: 'two years before James's marriage' 가계 맡김 — 책 128:5.7/128:7.11 과 표현 다름; p123.s1.b2 'the family' 가 외삼촌 농장에 — 책 123:1.7 은 마리아와 두 아들. 사소, 저자 판단
-# 2026-11-24 저녁: 사용자 지시로 일시 중단 — "시작 신호 줄 때까지 America 작업 다시 시작하지 말 것".
+# 2026-11-24 밤: 사용자가 재개 지시("그만하라고 할 때까지 계속, 한도 풀리면 자동 재개") — 세션 cron 매시 17분 자동 재개.
 # 배포 완료: commentary es·fr. commentary pt 완료 c01-c15 c17, 도중 c16 c18-c26. easy es 도중 c01-c11 (c12~ 는 QUEUE.txt).
 # 재개 방법: 각 chunk `--chunk` 검사로 상태 확인 → 미완 chunk 에 새 에이전트(기존 파일 이어 쓰기) → QUEUE.txt 순서대로.
 # pt commentary 다 차면: 홑별표 제거 → build_commentary_am.py pt → add_menu.py commentary → 배포·커밋.

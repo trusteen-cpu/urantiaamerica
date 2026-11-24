@@ -1383,5 +1383,206 @@
    ]
   ]
  },
- "p120.s5.b2": "No documento seguinte, o documento 121, “A Época da Auto-Outorga de Michael”, um intermediário outrora destinado ao apóstolo André retrata o pano de fundo político, social e religioso do mundo do primeiro século, que se tornou o cenário desta auto-outorga."
+ "p120.s5.b2": "No documento seguinte, o documento 121, “A Época da Auto-Outorga de Michael”, um intermediário outrora destinado ao apóstolo André retrata o pano de fundo político, social e religioso do mundo do primeiro século, que se tornou o cenário desta auto-outorga.",
+ "p121.lead": "Estradas romanas, a língua grega, sinagogas judaicas: o mundo político, social, filosófico e religioso em que Michael nasceu, e como vieram a ser escritos os Evangelhos.",
+ "p121.foot": {
+  "text": "Narrado pelo intermediário outrora destinado ao apóstolo André",
+  "ref": "121:0.1"
+ },
+ "p121.s0.h": "Introdução — A história de Jesus, contada pelo intermediário de André",
+ "p121.s0.b0": "Com o documento 121 começa de fato a narrativa da vida de Jesus. O narrador é uma criatura intermediária secundária outrora ligada ao apóstolo André, que trabalha sob a supervisão de uma comissão de doze membros da Irmandade Unida dos Intermediários de Urântia. Ele está autorizado a registrar a vida de Jesus tal como foi observada pela sua ordem e tal como foi parcialmente posta por escrito pelo próprio André.",
+ "p121.s0.b2": "Esta breve abertura mostra que o conselho dado por Emanuel no documento anterior — não deixar atrás de si escritos nem imagens — foi de fato respeitado. Os outros apóstolos tiveram uma atitude semelhante, e por isso a redação dos Evangelhos atrasou-se bastante. Antes que comece a história de Jesus, o documento primeiro desenrola o mapa do mundo em que ele nasceu.",
+ "p121.s1.h": "I. O Ocidente, no Primeiro Século depois de Cristo — A época mais favorável",
+ "p121.s1.b1": "Na época do seu nascimento, Urântia vivia um renascimento do pensamento espiritual e da vivência religiosa sem igual em toda a sua história pós-adâmica. O narrador diz que o mundo apresentava então a condição mais favorável para a auto-outorga de um Filho Criador que jamais existira antes ou que existiu desde então. A civilização ocidental estava unificada sob três grandes influências, e um homem, Paulo, ilustra bem toda essa combinação: um hebreu entre os hebreus que proclamou o evangelho de um Messias judeu na língua grega, sendo ele próprio um cidadão romano.",
+ "p121.s1.b2": {
+  "head": [
+   "Influência",
+   "O que forneceu"
+  ],
+  "rows": [
+   [
+    "Roma",
+    "Sistemas políticos e sociais, boas estradas, um império unificado, mares livres de piratas"
+   ],
+   [
+    "Grécia",
+    "A língua e a cultura — e, em certa medida, a filosofia"
+   ],
+   [
+    "Os judeus",
+    "Ensinamentos religiosos e morais de veloz expansão, com mais de duzentas comunidades de sinagoga por todo o império"
+   ]
+  ]
+ },
+ "p121.s1.b3": "Contudo, sob a paz interna e a prosperidade aparente, a maioria dos habitantes do império vivia na miséria e na pobreza. Uma pequena classe alta era rica, e uma classe média feliz e próspera apenas começava a surgir. Essas eram as condições reais do povo que o evangelho iria procurar.",
+ "p121.s2.h": "II. O Povo Judeu — Encruzilhada de três continentes",
+ "p121.s2.b0": "A Palestina era a encruzilhada de três continentes. As viagens, o comércio e os exércitos dos impérios, da Babilônia até Roma, varreram sucessivamente esta terra, e as rotas das caravanas vindas do Oriente passavam por ela rumo aos portos do Mediterrâneo oriental.",
+ "p121.s2.b2": "Sob a suserania romana, os judeus ainda desfrutavam de um autogoverno considerável e, relembrando a libertação conquistada por Judas Macabeus, ansiavam por um libertador ainda maior, o Messias. Tomavam a boa sorte de manterem a sua independência entre potências mais fortes como prova de que eram o “povo escolhido”. Esse sentimento de superioridade racial tornava o domínio romano ainda mais difícil de suportar, e eles se recusaram a aprender que a sua missão no mundo era espiritual, não política.",
+ "p121.s2.b3": "Herodes, o idumeu, construiu templos para deuses estranhos, mas construiu também o porto de Cesaréia, que ajudou a fazer da Palestina a encruzilhada do mundo civilizado. O seu filho Antipas reconstruiu muitas cidades da Galiléia, entre elas o centro comercial de Séforis. Quando Jesus nasceu, a Galiléia era mais gentia do que judaica e não gozava do pleno favor dos líderes religiosos de Jerusalém.",
+ "p121.s3.h": "III. Entre os Gentios — Uma sociedade de cinco substratos",
+ "p121.s3.b0": "A sociedade mediterrânea do primeiro século compunha-se de cinco substratos bem definidos. Metade da população do estado romano era de escravos, e a igreja cristã inicial compunha-se em grande parte das classes mais baixas e desses escravos.",
+ "p121.s3.b1": {
+  "head": [
+   "Substrato",
+   "Descrição"
+  ],
+  "rows": [
+   [
+    "1. A aristocracia",
+    "Os grupos governantes privilegiados, com dinheiro e poder oficial"
+   ],
+   [
+    "2. Os grupos de negócios",
+    "Príncipes mercadores, banqueiros e mercadores internacionais"
+   ],
+   [
+    "3. A pequena classe média",
+    "Pouco numerosa mas influente, a coluna dorsal moral da igreja inicial; muitos fariseus pertenciam a ela"
+   ],
+   [
+    "4. O proletariado livre",
+    "Orgulhoso de ser livre, mas competindo com o trabalho escravo e tido em pouca conta"
+   ],
+   [
+    "5. Os escravos",
+    "Metade da população; os mais capazes podiam conquistar a liberdade e subir a posições mais altas"
+   ]
+  ]
+ },
+ "p121.s3.b2": "É interessante notar que o povo, em geral, estava contente com a sua posição social e não considerava injustas as distinções de classe. O narrador afirma claramente que o cristianismo não foi um movimento para corrigir a sorte econômica das classes oprimidas. O evangelho voltava-se primeiro para a pessoa interior, não para a estrutura da sociedade.",
+ "p121.s4.h": "IV. A Filosofia dos Gentios — Um caminho para o forte e o sábio",
+ "p121.s4.b0": "Moralmente, os gentios estavam um pouco atrás dos judeus, mas nos corações dos gentios mais nobres havia um solo abundante de bondade natural e de afeição humana no qual a semente do evangelho podia germinar. O mundo gentio de então estava dominado por quatro filosofias, todas derivadas mais ou menos do platonismo.",
+ "p121.s4.b1": {
+  "head": [
+   "Escola",
+   "Ensinamento",
+   "Limites e contribuições"
+  ],
+  "rows": [
+   [
+    "Epicuriana",
+    "A busca da felicidade; os homens podem melhorar o seu status terrestre",
+    "Combateu o fatalismo e as superstições ignorantes"
+   ],
+   [
+    "Estóica",
+    "Um Destino-Razão controlador domina a natureza; a virtude é a sua própria recompensa",
+    "Elevou-se a uma moralidade sublime, mas permaneceu uma filosofia e nunca se tornou uma religião"
+   ],
+   [
+    "Cínica",
+    "Simplicidade, virtude e enfrentar a morte sem medo — remanescentes dos ensinamentos de Maquiventa Melquisedeque",
+    "Pregada nos campos e nos mercados, preparou a gente comum para os missionários posteriores"
+   ],
+   [
+    "Cética",
+    "O conhecimento é falacioso; a certeza é impossível",
+    "Puramente negativa, nunca se difundiu amplamente"
+   ]
+  ]
+ },
+ "p121.s4.b3": "Os estóicos procuraram sintonizar as suas mentes com a harmonia da mente Universal, mas nunca se viram como os filhos de um Pai amoroso. Aqui está a diferença entre filosofia e religião. Princípios elevados podem disciplinar uma pessoa, mas não podem abrir um relacionamento com o Pai.",
+ "p121.s5.h": "V. As Religiões dos Gentios — Os cultos de mistério e além",
+ "p121.s5.b0": "Nas idades anteriores, a religião fora principalmente um assunto da tribo ou da nação e pouco satisfazia as aspirações pessoais da pessoa comum. Nos dias de Jesus, o Ocidente tinha cultos pagãos, o culto ao imperador, a astrologia e as religiões de mistério que afluíam do Levante. Os mistérios não eram nacionais e eram fraternais, com elaboradas cerimônias de iniciação, e prometiam a libertação do mal e a sobrevivência após a morte; rapidamente conquistaram as classes mais baixas.",
+ "p121.s5.b1": "O narrador interpreta a popularidade dos mistérios como uma fome real de religião pessoal. Eles não puderam satisfazer essa aspiração, mas prepararam o caminho para Jesus, que verdadeiramente trouxe o pão da vida. Paulo adaptou em certa medida os ensinamentos de Jesus para alcançar mais pessoas, mas mesmo essa concessão era superior ao melhor dos mistérios.",
+ "p121.s5.b3": {
+  "head": [
+   "Comparação",
+   "As religiões de mistério",
+   "O cristianismo como Paulo o pregava"
+  ],
+  "rows": [
+   [
+    "Tipo de salvação",
+    "Ritos mágicos e encantamentos cerimoniais",
+    "Redenção moral, salvação ética, uma vida nova e um ideal novo"
+   ],
+   [
+    "Problema enfrentado",
+    "A salvação da tristeza e da morte",
+    "A libertação do pecado e um caráter reto com qualidades de sobrevivência"
+   ],
+   [
+    "Fundamento",
+    "Mitos",
+    "O fato histórico da auto-outorga de Michael, um Filho de Deus, à humanidade"
+   ]
+  ]
+ },
+ "p121.s5.b4": "No mundo gentio, além disso, a moralidade não estava necessariamente ligada à religião. A religião judaica, os ensinamentos de Jesus e o cristianismo de Paulo foram as primeiras religiões européias a pôr uma mão na moral e a outra na ética, exigindo que os crentes cuidassem de ambas.",
+ "p121.s6.h": "VI. A Religião dos Hebreus — O judaísmo helenizado e Filo",
+ "p121.s6.b0": "Ao final do primeiro século antes de Cristo, o pensamento religioso de Jerusalém havia sido fortemente moldado pela cultura e pela filosofia gregas. Três línguas eram usadas na Palestina: o aramaico entre o povo comum, o hebreu entre os sacerdotes e os rabinos, e o grego entre os educados. A tradução grega das escrituras dos hebreus marcou a renascença do judaísmo, e mais tarde tornou-se a influência decisiva que levou o cristianismo de Paulo na direção do Ocidente em vez do Oriente.",
+ "p121.s6.b1": "Filo de Alexandria harmonizou a filosofia grega e a teologia hebraica num sistema bastante coerente. O narrador conta-o entre os sete educadores humanos que se destacaram, com Setard, Moisés, Zoroastro, Lao-tsé, Buda e Paulo. Paulo eliminou sabiamente muitas das inconsistências de Filo, mas na doutrina da expiação deixou de se manter à altura dele: Filo ensinava a libertação da doutrina de que o perdão só se obtém pelo derramamento de sangue. O texto acrescenta que a teoria de Paulo sobre o pecado original e a culpa hereditária era parcialmente de origem mitraica.",
+ "p121.s7.h": "VII. Judeus e Gentios — As cadeias da tradição",
+ "p121.s7.b0": "Os judeus haviam construído um muro rígido de separação entre eles próprios e o mundo gentio, e entregavam-se a uma hipocrisia baseada na letra da lei e no orgulho da descendência. O Messias que esperavam era um libertador que surgiria da sua própria história nacional. Com tal visão, era muito difícil receber o ensinamento de Jesus sobre a irmandade espiritual dos homens.",
+ "p121.s7.b2": "Jeremias, Ezequiel e o salmista haviam falado de uma lei escrita no coração e de um espírito novo interior, mas uma religião presa na inércia tradicionalista não podia seguir esse caminho. Assim, o movimento da evolução religiosa deslocou-se para o Ocidente, para os povos europeus, e o cristianismo de Paulo veio a combinar a filosofia dos gregos, a lei dos romanos, a moralidade dos hebreus e até as doutrinas de redenção dos cultos de mistério.",
+ "p121.s8.h": "VIII. Os Registros Escritos Anteriores — Os quatro Evangelhos e os esclarecimentos do narrador",
+ "p121.s8.b0": "O narrador explica que, valendo-se do registro perdido de André e da ajuda de muitos seres celestes, procurou também fazer uso dos quatro Evangelhos. Descreve então, um por um, como cada Evangelho veio a ser escrito.",
+ "p121.s8.b1": {
+  "head": [
+   "Evangelho",
+   "Autor real",
+   "Quando e onde",
+   "Caráter"
+  ],
+  "rows": [
+   [
+    "Marcos",
+    "João Marcos — na realidade, o evangelho segundo Simão Pedro",
+    "Concluído lá pelo final do ano 68 d.C., para a igreja de Roma",
+    "O primeiro e o mais breve; apresenta o Mestre como um homem entre os homens"
+   ],
+   [
+    "Mateus",
+    "Isador, um discípulo de Mateus",
+    "Ano 71 d.C., em Pela",
+    "Escrito para os cristãos judeus; enfatiza o cumprimento das profecias"
+   ],
+   [
+    "Lucas",
+    "Lucas, o médico — de algum modo, o evangelho segundo Paulo",
+    "Ano 82 d.C., em Acáia",
+    "Apresenta o Mestre como “o amigo de publicanos e pecadores”"
+   ],
+   [
+    "João",
+    "Natam, companheiro de João, encorajado por João",
+    "Iniciado no ano 101 d.C.",
+    "Grande parte do trabalho na Judéia e em Jerusalém; dirigido aos leitores do Ocidente"
+   ]
+  ]
+ },
+ "p121.s8.b2": "Cada um desses escritores apresentou um retrato honesto de Jesus tal como o viu, lembrou ou aprendeu dele, colorido pela teologia de Paulo. O narrador não esconde a imperfeição deles, mas reconhece o seu poder.",
+ "p121.s8.b4": "Os esclarecimentos no final do documento mostram como ler toda a Parte IV. O narrador usou primeiro as fontes humanas sempre que possível; só quando elas falharam recorreu às memórias dos intermediários, e só quando estas falharam recorreu às fontes supraplanetárias. Os seus memorandos reúnem o pensamento de mais de dois mil seres humanos, porque ele crê que os conceitos nascidos nas mentes humanas serão mais aceitáveis para as outras mentes humanas.",
+ "p121.s9.h": "Conclusão — Viver este documento",
+ "p121.s9.b0": "O documento 121 não coloca a vida de Jesus num vácuo. Ele veio a um mundo preparado com estradas, uma língua comum e sinagogas — um mundo cuja filosofia era elevada mas não podia acolher o fraco, e cujas religiões eram muitas mas não podiam saciar a fome do indivíduo. A essa geração ele deu o seu evangelho de religião pessoal: a filiação a Deus.",
+ "p121.s9.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento por trás dela"
+  ],
+  "rows": [
+   [
+    "Ver as condições do próprio tempo como canais pelos quais o evangelho pode fluir",
+    "Jesus não veio numa idade de decadência espiritual"
+   ],
+   [
+    "Olhar além dos princípios elevados para um relacionamento com o Pai",
+    "Os estóicos não conseguiram conhecer Deus"
+   ],
+   [
+    "Viver uma fé que acolhe o pobre e o fraco",
+    "Não uma filosofia apenas para o forte e o sábio"
+   ],
+   [
+    "Honrar a tradição sem se prender às suas cadeias",
+    "Uma escravidão ao ritualismo mais real do que o domínio romano"
+   ],
+   [
+    "Ler o retrato verdadeiro mesmo em registros imperfeitos",
+    "Evangelhos imperfeitos que mudaram o curso da história"
+   ]
+  ]
+ },
+ "p121.s9.b2": "A partir do documento 122, “O Nascimento e a Infância de Jesus”, o narrador conta a história de uma criança nascida no meio deste mesmo mundo."
 }
