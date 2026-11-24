@@ -39,3 +39,5 @@
 # 공식 pt 오기: 175:3.1 'do ano 30 a.C.'(영문 A.D. 30) — 우리 글은 d.C.
 # 공식 pt 오기: 193:1.1 'cerca de vinte e cinco crentes samaritanos'(영문 seventy-five) — easy pt 는 영문 책대로 75
 # 공식 es 오기(인용이라 그대로 둠): 180:6.1 'los seres des su propia casa', 181:1.5 'otorgo lo todo'
+# jesus pt 최종 빌드 전: 'Alfeu' → 공식 'Alfeus' 로 통일(공식 35회). TRANSLATE.md 표 고칠 것
+# 공식 pt 오역: 134:7.5 Beeroth/Lebonah→'Beirute, Líbano', 134:2.1 Parthia→'Pérsia' — jesus pt 지도 글은 실제 지명(Beerote, Lebona, Pártia)으로 고침
