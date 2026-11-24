@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="es"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Los discursos de Jesús</title>
+<meta name="description" content="Discursos de Jesús de la Parte IV de El libro de Urantia, cada uno de al menos tres líneas, con títulos y referencias de párrafo.">
+<link rel="stylesheet" href="../common.css?v=da60bb9b">
+<style>
+.dc{background:var(--card);border:1px solid var(--line);border-radius:12px;margin:0 0 10px;overflow:hidden}
+.dc>summary{list-style:none;cursor:pointer;padding:13px 16px;display:flex;gap:10px;align-items:baseline}
+.dc>summary::-webkit-details-marker{display:none}
+.dc>summary::before{content:"▸";color:var(--gold);font-size:13px;flex:0 0 auto;transition:transform .15s}
+.dc[open]>summary::before{transform:rotate(90deg)}
+.dc>summary:hover{background:var(--soft)}
+.dc .tt{font-weight:700;font-size:16px;line-height:1.5;flex:1}
+.dc .rf{font-size:12px;color:var(--dim);white-space:nowrap;font-variant-numeric:tabular-nums}
+.dc .sc{display:block;font-size:12px;color:var(--dim);font-weight:400;margin-top:2px}
+.dc .in{padding:4px 18px 16px 38px;border-top:1px solid var(--line)}
+.dc .bar{display:flex;gap:6px;flex-wrap:wrap;margin:12px 0 6px}
+.v{display:flex;gap:10px;margin:10px 0;align-items:flex-start}
+.v a.no{flex:0 0 auto;font-size:11.5px;color:var(--navy);background:var(--soft);border-radius:6px;padding:2px 6px;margin-top:5px;text-decoration:none;font-variant-numeric:tabular-nums;font-weight:700}
+html[data-dark="1"] .v a.no{color:var(--gold)}
+.v .t{flex:1;font-size:var(--fs);line-height:1.8;font-family:Georgia,"Times New Roman",serif}
+mark{background:#ffe58a;color:inherit;border-radius:3px}
+html[data-dark="1"] mark{background:#6b5a14}
+@media(max-width:600px){.dc .in{padding:4px 14px 14px 16px}.dc>summary{padding:12px 12px}.dc .rf{display:none}}
+</style>
+<script src="../common.js?v=da60bb9b"></script>
+</head><body>
+<header>
+ <a class="btn g" href="/es/jesus/" target="_top" title="Inicio de Estudio sobre Jesús">🏠 Inicio</a>
+ <button class="btn" id="burger">☰ Índice</button>
+ <h1>Los discursos de Jesús</h1><span class="by">El libro de Urantia, Parte IV · Documentos 120–196</span>
+ <span class="sp"></span>
+ <button class="btn" id="stopb" style="display:none">■ Detener</button>
+ <select id="voice" title="Voz"></select>
+ <button class="btn" id="spd" title="Velocidad de lectura">1.0×</button>
+ <button class="btn" id="fs" title="Tamaño del texto">A</button>
+ <button class="btn" id="dark" title="Claro / oscuro">◐</button>
+</header>
+<main>
+ <aside id="side"><input id="q" placeholder="Buscar en títulos y texto (p. ej., perdonar, oración)"><div id="toc"></div></aside>
+ <section id="body"><div class="wrap" id="wrap"><p class="empty">Cargando…</p></div></section>
+</main>
+<div class="warn" id="warn"></div>
+<script src="data.js?v=da60bb9b"></script>
+<script>
+var D = window.DISCOURSES || [], PAPERS = [], BY = {};
+D.forEach(function (d) { if (!BY[d.pno]) { BY[d.pno] = []; PAPERS.push({ no: d.pno, title: d.paper }) } BY[d.pno].push(d) });
+function ptitle(p) { return p.title }
+var Q = '', QL = '';
+function has(s) { return String(s || '').toLowerCase().indexOf(QL) >= 0 }
+function hit(d) {
+  if (!Q) return true;
+  if (has(d.title) || has(d.sec)) return true;
+  for (var i = 0; i < d.verses.length; i++) if (has(d.verses[i][1])) return true;
+  return false;
+}
+function hl(t) {
+  var s = esc(t); if (!Q) return s;
+  var k = esc(Q).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return s.replace(new RegExp('(' + k + ')', 'gi'), '<mark>$1</mark>');
+}
+function render() {
+  var h = '<div class="lead"><h2>' + 'Los discursos de Jesús' + '</h2><p>' + 'De la Parte IV de El libro de Urantia (Documentos 120–196) se han reunido <b>{n} discursos</b> en los que Jesús habla extensamente (tres líneas o más), y se les ha dado un título. Haga clic en un título para abrir el pasaje; el número de la izquierda es la referencia del párrafo (haga clic en él para abrir ese párrafo en el texto completo).'.replace('{n}', D.length) + '</p>'
+    + '<div class="tools"><button id="openall">Desplegar todo</button><button id="closeall">Plegar todo</button></div></div>';
+  var shown = 0, toc = '';
+  PAPERS.forEach(function (p) {
+    var list = BY[p.no].filter(hit); if (!list.length) return;
+    shown += list.length;
+    toc += '<div class="c" data-p="' + p.no + '"><b>' + p.no + '</b><span>' + esc(ptitle(p)) + '</span><span class="n">' + list.length + '</span></div>';
+    h += '<h3 class="ph" id="p' + p.no + '">' + 'Documento {n}'.replace('{n}', p.no) + ' · ' + esc(ptitle(p)) + ' <small>' + (list.length === 1 ? '{n} discurso' : '{n} discursos').replace('{n}', list.length) + '</small></h3>';
+    list.forEach(function (d) {
+      h += '<details class="dc" id="d-' + d.id + '"' + (Q ? ' open' : '') + '><summary><span class="tt">' + hl(d.title)
+        + '<span class="sc">' + esc(d.sec || '') + '</span></span><span class="rf">' + esc(d.ref) + '</span></summary><div class="in">'
+        + '<div class="bar"><button class="chip" data-say="' + d.id + '">🔊 Escuchar</button><button class="chip" data-link="' + d.id + '">🔗 Copiar enlace</button></div>';
+      d.verses.forEach(function (v) {
+        h += '<div class="v"><a class="no" href="/es/book/#' + v[0] + '" target="_blank" rel="noopener" title="Abrir en el texto completo">' + v[0] + '</a><div class="t">' + hl(v[1]) + '</div></div>';
+      });
+      h += '</div></details>';
+    });
+  });
+  if (!shown) h += '<p class="empty">' + 'No se encontraron discursos.' + '</p>';
+  h += '<div class="foot">' + 'Fuente: selección hecha a partir de un extracto de las palabras de Jesús en la Parte IV de El libro de Urantia, ordenado por referencia de párrafo; solo se incluyen los discursos de tres líneas o más. El extracto se hizo a partir de las comillas y del contexto, por lo que puede incluir palabras de las personas con quienes Jesús hablaba, u omitir algunos de sus dichos. Las palabras de El libro de Urantia se reproducen de la traducción oficial al español (Urantia Foundation). Haga clic en una referencia de párrafo para leerlo en su contexto.' + '</div>';
+  $('#wrap').innerHTML = h;
+  $('#toc').innerHTML = toc || '<div class="empty" style="font-size:12.5px">No se encontró nada.</div>';
+}
+render();
+var qt;
+$('#q').oninput = function () { var v = this.value.trim(); clearTimeout(qt); qt = setTimeout(function () { Q = v; QL = v.toLowerCase(); TTS.stop(); render() }, 250) };
+$('#toc').addEventListener('click', function (e) {
+  var c = e.target.closest('.c[data-p]'); if (!c) return;
+  $$('.c.on').forEach(function (x) { x.classList.remove('on') }); c.classList.add('on');
+  var t = document.getElementById('p' + c.dataset.p); if (t) t.scrollIntoView({ block: 'start' });
+  closeSide();
+});
+function find(id) { for (var i = 0; i < D.length; i++) if (D[i].id === id) return D[i] }
+$('#wrap').addEventListener('click', function (e) {
+  var b = e.target.closest('[data-say]');
+  if (b) {
+    var d = find(b.dataset.say), box = document.getElementById('d-' + d.id);
+    var items = [{ t: d.title, el: box.querySelector('summary') }];
+    $$('.v', box).forEach(function (el, i) { items.push({ t: d.verses[i][1], el: el }) });
+    $('#stopb').style.display = '';
+    TTS.play(items, null, function () { $('#stopb').style.display = 'none' });
+    return;
+  }
+  var l = e.target.closest('[data-link]');
+  if (l) {
+    var u = location.href.split('#')[0] + '#d-' + l.dataset.link;
+    if (navigator.clipboard) navigator.clipboard.writeText(u).then(function () { flash('Enlace copiado') }, function () { prompt('Enlace', u) }); else prompt('Enlace', u);
+    return;
+  }
+  if (e.target.id === 'openall') $$('.dc').forEach(function (x) { x.open = true });
+  if (e.target.id === 'closeall') $$('.dc').forEach(function (x) { x.open = false });
+});
+$('#stopb').onclick = function () { TTS.stop() };
+function openHash() {
+  var m = /^#d-([\d-]+)$/.exec(location.hash); if (!m) return;
+  var el = document.getElementById('d-' + m[1]); if (el) { el.open = true; setTimeout(function () { el.scrollIntoView({ block: 'start' }) }, 50) }
+}
+addEventListener('hashchange', openHash); openHash();
+</script>
+</body></html>

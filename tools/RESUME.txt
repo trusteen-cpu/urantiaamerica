@@ -38,3 +38,4 @@
 # easy 154:56: 해설 'the wife of Jude' — 책 154:5.1 은 유다의 처제(sister-in-law). pt 는 책대로, es/fr 는 확인 필요. 저자 확인
 # 공식 pt 오기: 175:3.1 'do ano 30 a.C.'(영문 A.D. 30) — 우리 글은 d.C.
 # 공식 pt 오기: 193:1.1 'cerca de vinte e cinco crentes samaritanos'(영문 seventy-five) — easy pt 는 영문 책대로 75
+# 공식 es 오기(인용이라 그대로 둠): 180:6.1 'los seres des su propia casa', 181:1.5 'otorgo lo todo'
