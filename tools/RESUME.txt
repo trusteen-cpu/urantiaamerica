@@ -31,3 +31,5 @@
 # 배포 완료: commentary es·fr. commentary pt 완료 c01-c15 c17, 도중 c16 c18-c26. easy es 도중 c01-c11 (c12~ 는 QUEUE.txt).
 # 재개 방법: 각 chunk `--chunk` 검사로 상태 확인 → 미완 chunk 에 새 에이전트(기존 파일 이어 쓰기) → QUEUE.txt 순서대로.
 # pt commentary 다 차면: 홑별표 제거 → build_commentary_am.py pt → add_menu.py commentary → 배포·커밋.
+# easy 053:86: 해설 원문 'Material Sons 681,227' — 책 53:7.8 은 681,217. fr 은 책대로 681 217, es·pt 도 책 숫자 쓸 것. 저자 확인
+# easy auto_fr 잘못된 자동 인용(135:11.2, 137:1.6, 137:8.2, 140:9.2) — fr c17 에서 손으로 자름. prep.py 자동 자르기 점검 필요
