@@ -49,3 +49,4 @@
 # books es: 최종 빌드 전 부사 'solo'→'sólo' 통일 확인
 # es 공식은 'Jacobo Alfeo'(쌍둥이). jesus·easy·commentary es 에 'Santiago Alfeo' 남은 곳 고칠 것
 # apostles 08 b054: 영문 소설은 '예수가 제자들에게 말함', 책 150:9.4 는 제자들이 말함 — 저자 확인
+- [author check] apostles ch.20 b052: book puts Andrew at Nicodemus's house; 183:4.3 lists Andrew among those hidden in Jerusalem.

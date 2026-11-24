@@ -56,7 +56,7 @@ iframe { flex:1; width:100%; border:0; background:#fff; }
     <a href="/fr/jesus/acts/" data-id="acts"><span class="n">4</span><span>Les actes de Jésus dans le Livre d’Urantia</span></a>
     <a href="/fr/jesus/teachings/" data-id="teachings"><span class="n">5</span><span>Les enseignements de Jésus</span></a>
     <a href="/fr/jesus-book/" data-id="life"><span class="n">6</span><span>La vie et les enseignements de Jésus</span></a>
-    <a href="https://fareast.urantiareaders.com/en/apostles-book/" data-id="apostles"><span class="n">7</span><span>Les douze apôtres de Jésus (en anglais)</span></a>
+    <a href="/fr/apostles-book/" data-id="apostles"><span class="n">7</span><span>Les douze apôtres de Jésus</span></a>
   </nav>
 </aside>
 <main>
@@ -64,7 +64,7 @@ iframe { flex:1; width:100%; border:0; background:#fff; }
   <iframe id="view" title="Étude sur Jésus"></iframe>
 </main>
 <script>
-var ITEMS = [{"id": "discourses", "name": "Les discours de Jésus", "url": "/fr/jesus/discourses/"}, {"id": "chronology", "name": "Chronologie de Jésus (par année)", "url": "/fr/jesus/chronology/"}, {"id": "ages", "name": "Chronologie de Jésus (par âge)", "url": "/fr/jesus/ages/"}, {"id": "acts", "name": "Les actes de Jésus dans le Livre d’Urantia", "url": "/fr/jesus/acts/"}, {"id": "teachings", "name": "Les enseignements de Jésus", "url": "/fr/jesus/teachings/"}, {"id": "life", "name": "La vie et les enseignements de Jésus", "url": "/fr/jesus-book/"}, {"id": "apostles", "name": "Les douze apôtres de Jésus (en anglais)", "url": "https://fareast.urantiareaders.com/en/apostles-book/"}];
+var ITEMS = [{"id": "discourses", "name": "Les discours de Jésus", "url": "/fr/jesus/discourses/"}, {"id": "chronology", "name": "Chronologie de Jésus (par année)", "url": "/fr/jesus/chronology/"}, {"id": "ages", "name": "Chronologie de Jésus (par âge)", "url": "/fr/jesus/ages/"}, {"id": "acts", "name": "Les actes de Jésus dans le Livre d’Urantia", "url": "/fr/jesus/acts/"}, {"id": "teachings", "name": "Les enseignements de Jésus", "url": "/fr/jesus/teachings/"}, {"id": "life", "name": "La vie et les enseignements de Jésus", "url": "/fr/jesus-book/"}, {"id": "apostles", "name": "Les douze apôtres de Jésus", "url": "/fr/apostles-book/"}];
 var side = document.getElementById("side"), btn = document.getElementById("menuBtn");
 function show(id, push) {
   var it = ITEMS.filter(function (x) { return x.id === id; })[0] || ITEMS[0];
