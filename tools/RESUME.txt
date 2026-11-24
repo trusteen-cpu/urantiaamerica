@@ -41,3 +41,11 @@
 # 공식 es 오기(인용이라 그대로 둠): 180:6.1 'los seres des su propia casa', 181:1.5 'otorgo lo todo'
 # jesus pt 최종 빌드 전: 'Alfeu' → 공식 'Alfeus' 로 통일(공식 35회). TRANSLATE.md 표 고칠 것
 # 공식 pt 오역: 134:7.5 Beeroth/Lebonah→'Beirute, Líbano', 134:2.1 Parthia→'Pérsia' — jesus pt 지도 글은 실제 지명(Beerote, Lebona, Pártia)으로 고침
+# 2026-11-25 추가 요청(사용자): (1) es/fr/pt 홈 2번 대조본 메뉴 제거 — 완료·배포 (4) 제목 옆 언어 표시 — 완료·배포
+# (2) 지도 이미지 다국어화: 유란시아 작업\maps_am (에이전트가 도구 제작 중) → maps·jesus acts 이미지 교체
+# (3) 예수의 삶과 가르침·열두 사도 es/fr/pt 번역: tools/books (에이전트가 도구 제작 중) → QUEUE.txt 에 books 항목 추가 예정
+# 자동 재개 cron 매시 33분(세션 한정)
+# books es: 'Isabel' 이 남았으면 공식 'Elizabeth' 로 (pt 는 Isabel 맞음). 최종 빌드 전 grep
+# books es: 최종 빌드 전 부사 'solo'→'sólo' 통일 확인
+# es 공식은 'Jacobo Alfeo'(쌍둥이). jesus·easy·commentary es 에 'Santiago Alfeo' 남은 곳 고칠 것
+# apostles 08 b054: 영문 소설은 '예수가 제자들에게 말함', 책 150:9.4 는 제자들이 말함 — 저자 확인

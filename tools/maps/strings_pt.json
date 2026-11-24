@@ -12,7 +12,7 @@
   "map": "Mapa",
   "sketch": "esboço de localização",
   "note": "Os nomes de lugares, as datas e os percursos foram tirados do texto de O Livro de Urântia, com a sua própria grafia. Os percursos não descritos no texto aparecem pontilhados, e áreas pequenas, como o interior de Jerusalém, são mostradas como esboços de localização. A localização das cidades é aproximada; o relevo de base vem de Natural Earth (litorais e lagos modernos, domínio público).",
-  "note_labels": "Os nomes escritos nos mapas estão em inglês, com a grafia do texto inglês de O Livro de Urântia."
+  "note_labels": "Os nomes escritos nos mapas estão em português, com a grafia dos nomes da tradução portuguesa de O Livro de Urântia."
  },
  "maps": [
   [

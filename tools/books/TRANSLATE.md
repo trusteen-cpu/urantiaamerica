@@ -139,3 +139,5 @@ Each book page has the site home button (`/home-button.js`, → /<l>/) and a "�
 `--out <dir>` writes a test build to `<dir>/<l>/<book>/` and `<dir>/books-img/` instead of `site/`.
 
 - es spelling decision (coordinator): write "sólo" (adverb) with the accent as the official text does; "solo" only as adjective.
+
+- apostles es names (from c01–c03, follow them): Andrés, Simón Pedro, Santiago y Juan Zebedeo, Felipe, Natanael, Mateo Leví, Tomás Dídimo, Jacobo y Judas Alfeo (gemelos), Simón el Zelote, Judas Iscariote; Judá/José (hermanos de Jesús), Salomé, Esdras, Noemí, Queriot; "Libertador", "el Maestro", "astillero"; Sources heading "Fuentes de este capítulo"; ch.4 title «El día de la ordenación»; parts: Primera parte: El llamamiento · Segunda parte: Primavera galilea · Tercera parte: Tierras extranjeras y el monte · Cuarta parte: Hacia Jerusalén · Quinta parte: Resurrección y Pentecostés.

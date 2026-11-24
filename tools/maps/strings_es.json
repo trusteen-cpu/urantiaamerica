@@ -12,7 +12,7 @@
   "map": "Mapa",
   "sketch": "croquis de ubicación",
   "note": "Los nombres de lugares, las fechas y las rutas se tomaron del texto de El libro de Urantia, con su propia ortografía. Las rutas que el texto no describe aparecen punteadas, y las zonas pequeñas, como el interior de Jerusalén, se muestran como croquis de ubicación. La ubicación de las poblaciones es aproximada; el relieve de base procede de Natural Earth (costas y lagos actuales, de dominio público).",
-  "note_labels": "Los rótulos de los mapas están en inglés, con la ortografía del texto inglés de El libro de Urantia (The Urantia Book)."
+  "note_labels": "Los rótulos de los mapas están en español, con la ortografía de los nombres de la traducción española de El libro de Urantia."
  },
  "maps": [
   [

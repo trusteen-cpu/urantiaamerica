@@ -17,6 +17,7 @@ ROOT = os.path.normpath(os.path.join(H, "..", ".."))
 FE = r"E:\OneDrive\내 문서\유란시아\urantiafareast 홈페이지"
 FEJ = os.path.join(FE, "tools", "jesus")
 ENJ = os.path.join(FE, "site", "en", "jesus")
+AM_MAPS = r"E:\OneDrive\유란시아 작업\maps_am"
 args = sys.argv[1:]
 DRAFT = "--draft" in args
 CHUNK = args[args.index("--chunk") + 1] if "--chunk" in args else None
@@ -208,8 +209,12 @@ def build(l, BOOK, TIT, T):
     hub_src = open(os.path.join(FEJ, "build_hub.py"), encoding="utf-8").read()
     ns = {"__file__": os.path.join(FEJ, "build_hub.py")}; exec(hub_src.split("def build(lang):")[0], ns)
     items = [dict(id=i, name=UI("item_" + i), url=f"/{l}/jesus/{i}/") for i in ("discourses", "chronology", "ages", "acts", "teachings")]
-    items += [dict(id="life", name=UI("item_life"), url=FAREAST_EN + "jesus-book/"),
-              dict(id="apostles", name=UI("item_apostles"), url=FAREAST_EN + "apostles-book/")]
+    for iid, folder in (("life", "jesus-book"), ("apostles", "apostles-book")):
+        # translated book built by tools/books/build_books_am.py → local link, name without "(in English)"; else the Far East English book
+        if not DRAFT and os.path.exists(os.path.join(ROOT, "site", l, folder, "index.html")):
+            items.append(dict(id=iid, name=re.sub(r"\s*\([^)]*\)\s*$", "", UI("item_" + iid)), url=f"/{l}/{folder}/"))
+        else:
+            items.append(dict(id=iid, name=UI("item_" + iid), url=FAREAST_EN + folder + "/"))
     links = "\n".join(f'    <a href="{x["url"]}" data-id="{x["id"]}"><span class="n">{n}</span><span>{esc(x["name"])}</span></a>'
                       for n, x in enumerate(items, 1))
     hub = ns["TPL"].format(lang=l, title=esc(UI("hub_title")), sub="Urantia America", home="", homeUrl=f"/{l}/",
@@ -369,8 +374,14 @@ def build_acts(l, out, V, AU, ptitle, stitle, reader):
         if t == none: return f'<span class="none">{esc(none)}</span>'
         return "; ".join(f'<span class="nw">{esc(x)}</span>' for x in t.split("; "))
     dims = {}
+    # map panels with es/fr/pt labels (python "E:\OneDrive\유란시아 작업\maps_am\render.py" <l> -> maps_am\book_<l>\mNN.webp);
+    # the English panels of the Far East site only when the localized set is incomplete
+    imgdir = os.path.join(AM_MAPS, f"book_{l}")
+    if not all(os.path.exists(os.path.join(imgdir, f"m{n:02d}.webp")) for n in range(1, 39)):
+        print(f"   WARNING [{l}] localized Acts map images missing in {imgdir} -> English images used")
+        imgdir = os.path.join(ENJ, "acts", "img")
     for n in range(1, 39):
-        f = os.path.join(ENJ, "acts", "img", f"m{n:02d}.webp")
+        f = os.path.join(imgdir, f"m{n:02d}.webp")
         shutil.copy(f, os.path.join(d, "img")); dims[n] = Image.open(f).size
     MI = {n: its for n, its in A["maps"]}
     mtitle = lambda n: V(f"acts.map{n}.head")

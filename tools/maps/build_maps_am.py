@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 # Maps of Jesus' life (38 maps) -> site/<l>/maps/  (es / fr / pt)
 #   Port of Far East tools/zh/maps/build_maps_zh.py. The page template is the Far East English page
-#   site/en/maps/index.html (read only); the map images are the English images (their labels stay English).
+#   site/en/maps/index.html (read only). Map images: the localized images (labels in es/fr/pt) made by
+#   python "E:\OneDrive\유란시아 작업\maps_am\render.py" <l>  ->  maps_am\out_<l>\mNN.webp  when all 38 exist,
+#   otherwise the English images (a warning is printed; note_labels then no longer matches).
 #   Strings to translate: strings_<l>.json  {"ui": {...}, "maps": [[title, date], ... 38]}  (see TRANSLATE.md)
 #   Paper references ("Papers 122–123") are made by this builder: es/pt Documento(s), fr Fascicule(s).
 #   python build_maps_am.py es [fr pt]      check; build site/<l>/maps/ (+ img/ copied) only when everything is translated
@@ -13,6 +15,7 @@ H = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(H, "..", ".."))
 FE = r"E:\OneDrive\내 문서\유란시아\urantiafareast 홈페이지"
 EN = os.path.join(FE, "site", "en", "maps")
+AM = r"E:\OneDrive\유란시아 작업\maps_am"
 args = sys.argv[1:]
 DRAFT = "--draft" in args
 LANGS = [a for a in args if a in ("es", "fr", "pt")] or ["es", "fr", "pt"]
@@ -116,9 +119,10 @@ def build(l, D, out):
          f"document.title = '{js(ui['map'])} ' + x[0] + '{colon}' + x[1] + ' · {js(ui['site_title'])}';"),
         ("var x = L[i], t = ('map' + x[0]", f"var x = L[i], t = ('{js(ui['map'].lower())}' + x[0]"),
     ]
-    if DRAFT:  # draft preview links the English images instead of copying 38 files
+    src_img = img_dir(l)
+    if DRAFT:  # draft preview links the images instead of copying 38 files
         from urllib.parse import quote
-        R.append(("return 'img/m'", "return 'file:///" + quote(EN.replace("\\", "/"), safe=":/") + "/img/m'"))
+        R.append(("return 'img/m'", "return 'file:///" + quote(src_img.replace("\\", "/"), safe=":/") + "/m'"))
     t = TPL
     for a, b in R:
         if a not in t: raise SystemExit("English template changed, not found: " + a[:60])
@@ -130,7 +134,16 @@ def build(l, D, out):
     if not DRAFT:
         img = os.path.join(out, "img"); os.makedirs(img, exist_ok=True)
         for x in EN_L:
-            f = f"m{x[0]:02d}.webp"; shutil.copy2(os.path.join(EN, "img", f), os.path.join(img, f))
+            f = f"m{x[0]:02d}.webp"; shutil.copy2(os.path.join(src_img, f), os.path.join(img, f))
+        print(f"   images from {src_img}")
+
+
+def img_dir(l):
+    """maps_am/out_<l> when all 38 localized images exist, else the English images"""
+    d = os.path.join(AM, f"out_{l}")
+    if all(os.path.exists(os.path.join(d, f"m{x[0]:02d}.webp")) for x in EN_L): return d
+    print(f"   WARNING [{l}] localized map images missing in {d} -> English images used (note_labels no longer matches)")
+    return os.path.join(EN, "img")
 
 
 if "--init" in args: init(); sys.exit()
