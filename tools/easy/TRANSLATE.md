@@ -105,7 +105,7 @@ Every passage that quotes the book is wrapped in a marker in `src/`, for example
 | Thought Adjuster | Ajustador del Pensamiento | Ajusteur de Pensée | Ajustador do Pensamento |
 | Supreme Being | Ser Supremo | Être Suprême | Ser Supremo |
 | Deity / divinity | Deidad / divinidad | Déité / divinité | Deidade / divindade |
-| Paradise / Havona / Orvonton | Paraíso / Havona / Orvonton | Paradis / Havona / Orvonton | Paraíso / Havona / Orvonton |
+| Paradise / Havona / Orvonton | Paraíso / Havona / Orvonton | Paradis / Havona / Orvonton | Paraíso / Havona / Orvônton |
 | Nebadon / Urantia | Nebadon / Urantia | Nébadon / Urantia | Nébadon / Urântia |
 | Creator Son / Michael | Hijo Creador / Micael | Fils Créateur / Micaël | Filho Criador / Michael |
 | morontia | morontial | morontiel(le) | moroncial |

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>O Livro de Urântia — Edição comentada de leitura fácil</title>
+<style>
+:root{--navy:#17365D;--gold:#B7791F;--ink:#20242e;--dim:#6b6f7d;--line:#e2ddd0;--cream:#faf8f3;--paper:#fffdf8;--side:300px}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{font-family:"Segoe UI",system-ui,sans-serif;background:var(--cream);color:var(--ink)}
+#top{position:fixed;top:0;left:0;right:0;height:50px;z-index:20;display:flex;align-items:center;gap:10px;padding:0 14px;
+     background:linear-gradient(160deg,#0d1730,#17365D 60%,#2b4a78);color:#f4f1e8}
+#top b{font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}#top small{color:#c9d3e8;font-size:12px;white-space:nowrap}
+#menuBtn{display:none;border:1px solid rgba(255,255,255,.35);background:none;color:#fff;border-radius:6px;padding:4px 10px;font:inherit;font-size:13px;cursor:pointer}
+#side{position:fixed;top:50px;bottom:0;left:0;width:var(--side);background:var(--paper);border-right:1px solid var(--line);display:flex;flex-direction:column;z-index:15}
+#side .q{padding:10px;border-bottom:1px solid var(--line)}
+#side input{width:100%;border:1px solid var(--line);border-radius:8px;padding:7px 10px;font:inherit;font-size:13px;background:#fff}
+#nav{overflow-y:auto;flex:1;padding:4px 0 30px}
+#nav .pt{font-size:11.5px;font-weight:700;color:var(--gold);padding:12px 14px 4px;letter-spacing:.02em}
+#nav a.p{display:flex;gap:7px;padding:5px 14px;color:var(--ink);text-decoration:none;font-size:13.5px;line-height:1.35;border-left:3px solid transparent}
+#nav a.p span{color:var(--dim);min-width:1.9em;text-align:right;flex:none}
+#nav a.p:hover{background:#f3efe4}
+#nav a.p.on{background:#ece6d6;border-left-color:var(--gold);font-weight:700}
+#nav .secs{padding:2px 0 6px}
+#nav .secs a{display:block;padding:3px 14px 3px 48px;font-size:12.5px;color:#4b5160;text-decoration:none;line-height:1.35}
+#nav .secs a:hover{color:var(--navy);text-decoration:underline}
+#main{margin-left:var(--side);padding:70px 28px 60px}
+#doc{max-width:820px;margin:0 auto;background:#fff;border:1px solid var(--line);border-radius:10px;padding:26px 34px 30px;
+     font-family:Georgia,"Times New Roman",serif;font-size:16px;line-height:1.75}
+.dl{max-width:820px;margin:0 auto 8px;text-align:right;font-size:12.5px;color:var(--dim)}
+.dl a{color:var(--dim);border:1px solid var(--line);border-radius:6px;padding:2px 9px;text-decoration:none;margin-left:4px;background:var(--paper)}
+.dl a:hover{color:var(--navy);border-color:var(--gold)}
+#doc h1{text-align:center;font-size:28px;line-height:1.3;margin:4px 0 16px}
+#doc h2.part{font-size:23px;margin:30px 0 8px}
+#doc h3{font-size:19px;margin:24px 0 6px;scroll-margin-top:66px}
+#doc p{margin:6px 0 10px;text-align:justify;hyphens:auto;overflow-wrap:break-word}
+#doc .box{border:1px solid;border-radius:4px;padding:10px 18px;margin:16px 0;font-size:17.5px;line-height:1.6}
+#doc .box p{margin:4px 0;text-align:center}
+#doc .tw{overflow-x:auto;margin:12px 0 18px}
+#doc table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.5}
+#doc th,#doc td{border:1px solid;padding:6px 10px;vertical-align:top;text-align:left}
+#doc th p{text-align:center}#doc td p{text-align:left}#doc td p,#doc th p{margin:0}
+#doc a.ref{color:inherit;text-decoration:none;border-bottom:1px dotted #b8a77a}
+#doc a.ref:hover{color:var(--gold)}
+.pn{max-width:820px;margin:16px auto 0;display:flex;justify-content:space-between;gap:10px}
+.pn a{border:1px solid var(--line);background:var(--paper);border-radius:8px;padding:8px 14px;color:var(--navy);text-decoration:none;font-size:14px;max-width:48%}
+.pn a:hover{border-color:var(--gold)}
+@media(max-width:860px){
+  #menuBtn{display:inline-block}#top small{display:none}
+  #side{transform:translateX(-102%);transition:transform .2s;width:min(86vw,340px);box-shadow:4px 0 18px rgba(0,0,0,.18)}
+  body.menu #side{transform:none}
+  #main{margin-left:0;padding:62px 10px 40px}
+  #doc{padding:18px 16px 22px;font-size:15.5px}#doc h1{font-size:23px}#doc .box{font-size:16px;padding:8px 12px}
+}
+@media print{#top,#side,.dl,.pn{display:none}#main{margin:0;padding:0}#doc{border:none}}
+</style>
+<script src="/home-button.js" defer></script>
+</head>
+<body>
+<div id="top"><button id="menuBtn">☰ Documentos</button><b>Edição comentada de leitura fácil</b><small>O Livro de Urântia</small></div>
+<aside id="side"><div class="q"><input id="q" type="search" placeholder="Buscar um documento (título ou número)" autocomplete="off"></div><nav id="nav"></nav></aside>
+<main id="main"><div class="dl" id="dl"></div><article id="doc">Carregando…</article><div class="pn" id="pn"></div></main>
+<script>
+var FILES = "files/", PARTS = ["Introdução", "Parte I · O universo central e os superuniversos", "Parte II · O universo local", "Parte III · A história de Urântia", "Parte IV · A vida e os ensinamentos de Jesus"], SHORT = new RegExp("^Documento (\\d+):\\s*"), T = {"prev": "◀ Anterior", "next": "Próximo ▶", "pdf": "PDF", "word": "Word", "loading": "Carregando…", "title": "Edição comentada de leitura fácil", "dl": "Baixar"};
+var TOC = [], CUR = -1;
+function partOf(n){ return n===0?0 : n<=31?1 : n<=56?2 : n<=119?3 : 4; }
+function shortTitle(n){ var t = TOC[n][0].replace(SHORT, ''); return n === 0 ? t : t; }
+function esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+function buildNav(){
+  var h = '', last = -1;
+  TOC.forEach(function(t, n){
+    if (!t) return;
+    var p = partOf(n); if (p !== last) { h += '<div class="pt">' + PARTS[p] + '</div>'; last = p; }
+    h += '<a class="p" href="#' + n + '" data-n="' + n + '"><span>' + (n ? n : '·') + '</span>' + esc(shortTitle(n)) + '</a><div class="secs" data-s="' + n + '" hidden></div>';
+  });
+  document.getElementById('nav').innerHTML = h;
+}
+function open(n, sec){
+  if (!TOC[n]) n = 0;
+  var nav = document.getElementById('nav');
+  if (n !== CUR) {
+    CUR = n;
+    nav.querySelectorAll('a.p.on').forEach(function(a){ a.classList.remove('on'); });
+    nav.querySelectorAll('.secs').forEach(function(d){ d.hidden = true; });
+    var a = nav.querySelector('a.p[data-n="' + n + '"]'); a.classList.add('on');
+    var s = nav.querySelector('.secs[data-s="' + n + '"]');
+    s.innerHTML = TOC[n][1].map(function(x){ return '<a href="#' + n + '-' + x[0] + '">' + esc(x[1]) + '</a>'; }).join(''); s.hidden = false;
+    if (!document.getElementById('q').value) a.scrollIntoView({block: 'nearest'});
+    var f = FILES + encodeURIComponent(TOC[n][2]);
+    document.getElementById('dl').innerHTML = T.dl + ' ' + (TOC[n][3] ? '<a href="' + f + '.pdf" target="_blank" rel="noopener">' + T.pdf + '</a>' : '') + '<a href="' + f + '.docx">' + T.word + '</a>';
+    var pn = '', pv = n - 1, nx = n + 1;
+    if (TOC[pv]) pn += '<a href="#' + pv + '">' + T.prev + '</a>'; else pn += '<span></span>';
+    if (TOC[nx]) pn += '<a href="#' + nx + '">' + T.next + '</a>';
+    document.getElementById('pn').innerHTML = pn;
+    document.getElementById('doc').innerHTML = T.loading;
+    fetch('c/' + ('00' + n).slice(-3) + '.html').then(function(r){ return r.text(); }).then(function(h){
+      if (CUR !== n) return;
+      document.getElementById('doc').innerHTML = h; document.title = TOC[n][0] + ' — ' + T.title;
+      jump(sec);
+    });
+    try { localStorage.setItem('easy-last-' + document.documentElement.lang, n); } catch(e) {}
+  } else jump(sec);
+  document.body.classList.remove('menu');
+}
+function jump(sec){ var el = sec && document.getElementById(sec); if (el) el.scrollIntoView(); else window.scrollTo(0, 0); }
+function route(){
+  var m = /^#(\d+)(?:-(h\d+))?$/.exec(location.hash), n;
+  if (m) n = +m[1]; else { try { n = +localStorage.getItem('easy-last-' + document.documentElement.lang) || 0; } catch(e) { n = 0; } }
+  open(n, m && m[2]);
+}
+document.getElementById('q').addEventListener('input', function(){
+  var v = this.value.trim().toLowerCase();
+  document.querySelectorAll('#nav a.p').forEach(function(a){
+    var n = a.dataset.n, hit = !v || a.textContent.toLowerCase().indexOf(v) >= 0 || n === v;
+    a.style.display = hit ? '' : 'none';
+    var s = a.nextElementSibling; if (s) s.style.display = (hit || !v) ? '' : 'none';
+  });
+  document.querySelectorAll('#nav .pt').forEach(function(p){ p.style.display = v ? 'none' : ''; });
+});
+document.getElementById('menuBtn').onclick = function(){ document.body.classList.toggle('menu'); };
+document.getElementById('main').addEventListener('click', function(){ document.body.classList.remove('menu'); });
+window.addEventListener('hashchange', route);
+fetch('c/toc.json').then(function(r){ return r.json(); }).then(function(t){ TOC = t; buildNav(); route(); });
+</script>
+</body>
+</html>
