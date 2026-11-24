@@ -163,4 +163,4 @@ footer { text-align: center; color: var(--muted); font-size: 13px; padding: 0 16
   .hero { padding-top: 104px; }
   .langbar { top: 40px; right: 50%; transform: translateX(50%); }
   #langbar { align-items: center; }
-}
+}.hero .tl-langs{font-size:.62em;opacity:.85;font-weight:400;letter-spacing:0;white-space:nowrap}

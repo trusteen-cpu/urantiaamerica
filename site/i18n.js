@@ -10,7 +10,7 @@ window.SITE = {
   ],
 
   ui: {
-    en: { brand: "Urantia Book Study Resources", tagline: "Urantia America",
+    en: { brand: "Urantia Book Study Resources", tagline: "Urantia America", taglineLangs: "(English, Spanish, French, Portuguese)",
           menu: "Menu", soon: "Coming soon", soonTitle: "This page is being prepared",
           soonBody: "The content will be added here soon. Thank you for your patience.",
           back: "Back to the menu", langLabel: "Language",
@@ -19,7 +19,7 @@ window.SITE = {
           install: "📲 Save to desktop", installed: "Already saved on this device.",
           iosHelp: "In Safari, tap the Share button (□↑) at the bottom, then choose “Add to Home Screen”.",
           otherHelp: "Open the browser menu (⋮ or …) and choose “Install app”, “Add to Home screen”, or “Create shortcut”." },
-    es: { brand: "Recursos de Estudio de El libro de Urantia", tagline: "Urantia America",
+    es: { brand: "Recursos de Estudio de El libro de Urantia", tagline: "Urantia America", taglineLangs: "(inglés, español, francés, portugués)",
           menu: "Menú", soon: "Próximamente", soonTitle: "Esta página está en preparación",
           soonBody: "Pronto añadiremos el contenido. Gracias por su paciencia.",
           back: "Volver al menú", langLabel: "Idioma",
@@ -28,7 +28,7 @@ window.SITE = {
           install: "📲 Guardar en el escritorio", installed: "Ya está guardado en este dispositivo.",
           iosHelp: "En Safari, toque el botón Compartir (□↑) abajo y elija «Añadir a pantalla de inicio».",
           otherHelp: "Abra el menú del navegador (⋮ o …) y elija «Instalar aplicación», «Añadir a pantalla de inicio» o «Crear acceso directo»." },
-    fr: { brand: "Ressources d’étude du Livre d’Urantia", tagline: "Urantia America",
+    fr: { brand: "Ressources d’étude du Livre d’Urantia", tagline: "Urantia America", taglineLangs: "(anglais, espagnol, français, portugais)",
           menu: "Menu", soon: "Bientôt", soonTitle: "Cette page est en préparation",
           soonBody: "Le contenu sera bientôt ajouté. Merci de votre patience.",
           back: "Retour au menu", langLabel: "Langue",
@@ -37,7 +37,7 @@ window.SITE = {
           install: "📲 Enregistrer sur le bureau", installed: "Déjà enregistré sur cet appareil.",
           iosHelp: "Dans Safari, touchez le bouton Partager (□↑) en bas, puis « Sur l’écran d’accueil ».",
           otherHelp: "Ouvrez le menu du navigateur (⋮ ou …) et choisissez « Installer l’application », « Ajouter à l’écran d’accueil » ou « Créer un raccourci »." },
-    pt: { brand: "Recursos de Estudo de O Livro de Urântia", tagline: "Urantia America",
+    pt: { brand: "Recursos de Estudo de O Livro de Urântia", tagline: "Urantia America", taglineLangs: "(inglês, espanhol, francês, português)",
           menu: "Menu", soon: "Em breve", soonTitle: "Esta página está em preparação",
           soonBody: "O conteúdo será adicionado em breve. Obrigado pela paciência.",
           back: "Voltar ao menu", langLabel: "Idioma",
@@ -50,7 +50,6 @@ window.SITE = {
 
   menu: [
     { id: "text",       en: "The Urantia Book — Full Text",              es: "El libro de Urantia — Texto completo",            fr: "Le Livre d’Urantia — Texte intégral",             pt: "O Livro de Urântia — Texto integral" },
-    { id: "bilingual",  en: "",                                           es: "Español / English — Texto paralelo",             fr: "Français / English — Texte parallèle",            pt: "Português / English — Texto paralelo", only: ["es", "fr", "pt"] },
     { id: "core",       en: "The Urantia Book Core — Digital Reader",    es: "Lo esencial de El libro de Urantia — Lector digital", fr: "L’essentiel du Livre d’Urantia — Liseuse numérique", pt: "O essencial de O Livro de Urântia — Leitor digital" },
     { id: "intro",      en: "Introduction to The Urantia Book",          es: "Introducción a El libro de Urantia",             fr: "Introduction au Livre d’Urantia",                 pt: "Introdução a O Livro de Urântia" },
     { id: "easy",       en: "Easy-Reading Commentary Edition",           es: "Edición comentada de lectura fácil",              fr: "Édition commentée facile à lire",                 pt: "Edição comentada de leitura fácil" },

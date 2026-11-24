@@ -7,7 +7,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 HERE = os.path.dirname(os.path.abspath(__file__))
 SITE = os.path.normpath(os.path.join(HERE, "..", "site"))
 BASE = "https://america.urantiareaders.com"
-VER = "20261120a"
+VER = "20261125a"
 LOCALE = {"en": "en_US", "es": "es_ES", "fr": "fr_FR", "pt": "pt_BR"}
 DESC = {
     "en": "Study resources for The Urantia Book in one place: the full text, paper-by-paper commentary, topical studies, glossary, maps, chronology, and questions and answers.",
@@ -52,7 +52,7 @@ def page(lang):
     s = sub(s, '<meta charset="utf-8">\n', '<meta charset="utf-8">\n<base href="/">\n')
     s = re.sub(r"<title>.*?</title>\n", lambda m: f"<title>{html.escape(title)}</title>\n" + head_meta(lang, title, f"{BASE}/{lang}/"), s, count=1)
     s = re.sub(r'<h1 id="brand">.*?</h1>', lambda m: f'<h1 id="brand">{html.escape(ui["brand"])}</h1>', s, count=1)
-    s = sub(s, '<p id="tagline"></p>', f'<p id="tagline">{html.escape(ui["tagline"])}</p>')
+    s = sub(s, '<p id="tagline"></p>', f'<p id="tagline">{html.escape(ui["tagline"])}' + (f' <small class="tl-langs">{html.escape(ui["taglineLangs"])}</small>' if ui.get("taglineLangs") else '') + '</p>')
     s = sub(s, '<h2 id="menuTitle">Menu</h2>', f'<h2 id="menuTitle">{html.escape(ui["menu"])}</h2>')
     items = []
     for i, m in enumerate(m for m in S["menu"] if lang in m.get("only", [lang])):
