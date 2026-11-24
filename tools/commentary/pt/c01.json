@@ -1,0 +1,1441 @@
+{
+ "ui.label_foreword": "Introdução",
+ "ui.label_paper": "Documento {n}",
+ "ui.label_short_foreword": "Intr.",
+ "ui.page_title": "{label}: {title} — Comentário",
+ "ui.page_og_title": "O Livro de Urântia, {label}: {title} — Comentário",
+ "ui.badge_paper": "O Livro de Urântia · {label}",
+ "ui.contents": "Sumário",
+ "ui.all_papers": "📚 Todos os documentos",
+ "ui.prev": "◀ Anterior",
+ "ui.index": "Índice",
+ "ui.next": "Próximo ▶",
+ "ui.print": "🖨 Imprimir · PDF",
+ "ui.source": "Fonte",
+ "ui.foot": "As citações são reproduzidas palavra por palavra da tradução oficial em português de O Livro de Urântia, publicada pela Urantia Foundation; clique em uma referência para abrir esse parágrafo em uma nova aba.",
+ "ui.index_title": "Comentário documento por documento — O Livro de Urântia",
+ "ui.index_og_title": "O Livro de Urântia — Comentário documento por documento",
+ "ui.index_og_desc": "Um comentário de estudo sobre a Introdução e os 196 documentos, com tabelas e citações do texto",
+ "ui.index_badge": "O Livro de Urântia",
+ "ui.index_h1": "Comentário documento por documento",
+ "ui.index_sub": "A Introdução e os 196 documentos, explicados com tabelas e citações do texto ({ready}/197)",
+ "ui.home": "⌂ Início",
+ "ui.coming_soon": "em breve",
+ "ui.part0": "Introdução",
+ "ui.part1": "Parte I. O Universo Central e os Superuniversos",
+ "ui.part2": "Parte II. O Universo Local",
+ "ui.part3": "Parte III. A História de Urântia",
+ "ui.part4": "Parte IV. A Vida e os Ensinamentos de Jesus",
+ "p000.lead": "Deidade, Deus, realidade, personalidade e as Trindades: uma leitura das doze seções da Introdução por meio de tabelas e do próprio texto.",
+ "p000.foot": {
+  "text": "Ditado por um Conselheiro Divino de Orvônton, Dirigente do Corpo das Personalidades deste Superuniverso, designado para retratar, em Urântia, a verdade sobre as Deidades do Paraíso e o universo dos universos",
+  "ref": "0:12.14"
+ },
+ "p000.s0.h": "Introdução — Por que existe uma Introdução?",
+ "p000.s0.b0": "A Introdução é a primeira coisa que se encontra ao abrir O Livro de Urântia. No entanto, ela não começa com uma história. Começa como um guia de termos, no qual um Conselheiro Divino de Orvônton define de antemão as palavras que serão usadas mais adiante. A razão é dita com clareza no primeiro parágrafo: nas mentes humanas existe grande confusão a respeito do significado de palavras como Deus, divindade e deidade, e uma incerteza ainda maior sobre as relações entre as personalidades divinas designadas por esses nomes.",
+ "p000.s0.b2": "Os reveladores sabiam bem como é estreita a linguagem humana. Por isso declaram que usarão, sempre que possível, palavras já existentes na língua inglesa e que só introduzirão termos novos quando não se encontrar nenhuma palavra adequada. A Introdução parece difícil, em parte, porque trata das realidades mais elevadas do universo, mas também porque estabelece de uma só vez a estrutura conceitual de todos os 196 documentos que se seguem. Ela é, portanto, menos um texto para ler uma vez e dar por terminado do que um mapa ao qual se volta sempre que surge um conceito desconhecido.",
+ "p000.s0.b4": "A Introdução também começa dizendo onde estamos no universo. Urântia é um planeta do universo local de Nébadon; Nébadon pertence a Orvônton, um dos sete superuniversos; os sete superuniversos giram em torno do universo central de Havona; e no coração deste encontra-se o Paraíso. Ter em mente esse endereço torna muito mais claro tudo o que vem depois.",
+ "p000.s0.b5": {
+  "head": [
+   "Unidade",
+   "Descrição"
+  ],
+  "rows": [
+   [
+    "Urântia",
+    "O planeta em que vivemos — um dos muitos planetas habitados de Nébadon"
+   ],
+   [
+    "Nébadon",
+    "O universo local governado por Michael, um Filho Criador"
+   ],
+   [
+    "Orvônton",
+    "O sétimo superuniverso, que inclui Nébadon; a sua capital é Uversa"
+   ],
+   [
+    "Grande universo",
+    "O universo central de Havona e os sete superuniversos — a criação organizada e habitada até o presente"
+   ],
+   [
+    "Universo-mestre",
+    "O grande universo junto com os universos do espaço exterior, ainda em mobilização"
+   ],
+   [
+    "Paraíso",
+    "O centro de todas as coisas, a morada do Deus eterno"
+   ]
+  ]
+ },
+ "p000.s1.h": "I. Deidade e Divindade — Distinguir as palavras que falam de Deus",
+ "p000.s1.b0": "A primeira distinção que a Introdução traça é entre Deidade e divindade. A Deidade é personalizável como Deus, mas existe também de modos pré-pessoais e suprapessoais que o homem não pode compreender totalmente. A qualidade que caracteriza a Deidade é a unidade, e as criaturas compreendem melhor essa qualidade unificadora como divindade.",
+ "p000.s1.b1": "A Deidade funciona em sete níveis. Os três primeiros são a Deidade tal como já existe na eternidade; os níveis seguintes são a Deidade tal como se revela no tempo e no espaço, por meio da criação e da evolução.",
+ "p000.s1.b2": {
+  "head": [
+   "Nível",
+   "Significado"
+  ],
+  "rows": [
+   [
+    "1. Estático",
+    "A Deidade contida em si própria e existente em si"
+   ],
+   [
+    "2. Potencial",
+    "A Deidade volitiva em si própria e com propósito em si"
+   ],
+   [
+    "3. Associativo",
+    "A Deidade personalizada em si própria e divinamente fraternal"
+   ],
+   [
+    "4. Criativo",
+    "A Deidade distributiva de si própria e divinamente revelada"
+   ],
+   [
+    "5. Evolucionário",
+    "A Deidade expansiva por si própria e identificada com a criatura"
+   ],
+   [
+    "6. Supremo",
+    "A Deidade que experiencia a si própria e que é unificadora de criatura e Criador"
+   ],
+   [
+    "7. Último",
+    "A Deidade que se projeta a si própria e que transcende o tempo e o espaço"
+   ]
+  ]
+ },
+ "p000.s1.b3": "A divindade aparece de três maneiras, conforme o modo como a experimentamos. Essa distinção tríplice retorna repetidas vezes, sempre que o livro fala de verdade, beleza e bondade.",
+ "p000.s1.b5": {
+  "head": [
+   "Ponto de vista",
+   "Como a divindade aparece"
+  ],
+  "rows": [
+   [
+    "Compreensão da criatura",
+    "Verdade · beleza · bondade"
+   ],
+   [
+    "Relação pessoal",
+    "Amor · misericórdia · ministração"
+   ],
+   [
+    "Níveis impessoais",
+    "Justiça · poder · soberania"
+   ]
+  ]
+ },
+ "p000.s2.h": "II. Deus — Sete significados",
+ "p000.s2.b0": "A Introdução distingue rigorosamente Deidade de Deus. A Deidade pode ser pessoal ou não, mas Deus sempre denota personalidade. Assim, sempre que encontramos a palavra “Deus” em O Livro de Urântia, devemos perguntar a que personalidade ela se refere. A Introdução expõe sete usos.",
+ "p000.s2.b2": {
+  "head": [
+   "Nome",
+   "Papel",
+   "Natureza"
+  ],
+  "rows": [
+   [
+    "Deus, o Pai",
+    "Criador, Controlador e Sustentador (o Pai Universal)",
+    "Existencial"
+   ],
+   [
+    "Deus, o Filho",
+    "Criador Coordenado, Controlador do Espírito e Administrador Espiritual (o Filho Eterno)",
+    "Existencial"
+   ],
+   [
+    "Deus, o Espírito",
+    "Agente Conjunto, Integrador Universal e Outorgador da Mente (o Espírito Infinito)",
+    "Existencial"
+   ],
+   [
+    "Deus, o Supremo",
+    "O Deus do tempo e do espaço, em factualização e em evolução",
+    "Experiencial"
+   ],
+   [
+    "Deus, o Sétuplo",
+    "A personalidade da Deidade que funciona de modo factual em todos os lugares, no tempo e no espaço",
+    "Associativa"
+   ],
+   [
+    "Deus, o Último",
+    "O Deus em processamento corrente, do supratempo e do espaço transcendido",
+    "Experiencial"
+   ],
+   [
+    "Deus, o Absoluto",
+    "O Deus que se experiencializa, dos valores suprapessoais transcendidos e dos significados da divindade",
+    "Experiencial"
+   ]
+  ]
+ },
+ "p000.s2.b3": "O Pai Universal também se relaciona conosco em três níveis. No nível pré-pessoal, ele funciona por meio de fragmentos do Pai, como os Ajustadores do Pensamento; no nível pessoal, na experiência dos seres criados; no nível suprapessoal, na existência dos seres absonitos. Que o Ajustador residente em nossa mente seja o Pai na primeira dessas maneiras é o ponto de partida da religião pessoal.",
+ "p000.s3.h": "III. A Primeira Fonte e Centro — Sete Absolutos coordenados",
+ "p000.s3.b0": "O ponto de partida de toda a realidade é a Primeira Fonte e Centro, o Pai Universal. A Introdução explica que a realidade infinita e total existe em sete fases, como sete Absolutos coordenados.",
+ "p000.s3.b2": {
+  "head": [
+   "Absoluto",
+   "Descrição breve"
+  ],
+  "rows": [
+   [
+    "1. A Primeira Fonte e Centro",
+    "O Pai Universal — fonte da personalidade"
+   ],
+   [
+    "2. A Segunda Fonte e Centro",
+    "O Filho Eterno — fonte do espírito"
+   ],
+   [
+    "3. A Terceira Fonte e Centro",
+    "O Espírito Infinito — fonte da mente"
+   ],
+   [
+    "4. A Ilha do Paraíso",
+    "Fonte do universo material; o modelo não pessoal"
+   ],
+   [
+    "5. O Absoluto da Deidade",
+    "Potencial deificado — o ativador onipotente"
+   ],
+   [
+    "6. O Absoluto Universal",
+    "O unificador que coordena a tensão entre os dois"
+   ],
+   [
+    "7. O Absoluto Inqualificável",
+    "Potencial não-deificado — o mecanizador dos universos"
+   ]
+  ]
+ },
+ "p000.s3.b3": "A Introdução conta como esses sete se “diferenciaram”, como se fosse uma história no tempo. É claro que na eternidade não há antes nem depois; a seqüência é dada para que as mentes finitas possam apreendê-la. Por meio do seu livre-arbítrio, o EU SOU alcançou a liberação da infinitude inqualificável, produzindo a primeira tensão-divindade, que o Absoluto Universal resolve. À medida que o Filho se diferenciou do Pai e o Paraíso apareceu, surgiram também o Espírito Infinito e o universo central de Havona.",
+ "p000.s3.b4": "O ponto essencial a lembrar aqui é que tudo provém da vontade do Pai. O universo não começou como uma máquina do acaso ou da necessidade, mas da livre escolha de uma pessoa que ama.",
+ "p000.s4.h": "IV. Realidade do Universo — Como a realidade se divide",
+ "p000.s4.b0": "A realidade origina-se na volição infinita do Pai Universal e aparece em três fases fundamentais.",
+ "p000.s4.b1": {
+  "head": [
+   "Fase",
+   "Alcance"
+  ],
+  "rows": [
+   [
+    "Realidade não-deificada",
+    "Dos domínios de energia do não pessoal até a presença do Absoluto Inqualificável"
+   ],
+   [
+    "Realidade deificada",
+    "Da personalidade finita mais baixa até a mais elevada e infinita, chegando à presença do Absoluto da Deidade"
+   ],
+   [
+    "Realidade inter-relacionada",
+    "O vasto domínio entre as duas — abrangido no Absoluto Universal"
+   ]
+  ]
+ },
+ "p000.s4.b2": "Do ponto de vista do tempo e do espaço, a realidade divide-se ainda em factual e potencial, absoluta e subabsoluta, e assim por diante. O exemplo da Introdução é marcante: o Filho Eterno é uma realidade espiritual absoluta, ao passo que o homem mortal é, em grande parte, uma potencialidade espiritual não realizada. A nossa vida é o processo de transformar esse potencial em realidade factual.",
+ "p000.s4.b3": "Nesta seção o Paraíso é muitas vezes mal compreendido. O Paraíso é a fonte do universo material e o centro da gravidade, mas não é um criador nem é uma pessoa.",
+ "p000.s5.h": "V. Realidades da Personalidade — De que é feito um ser humano",
+ "p000.s5.b0": "A seção da Introdução que toca mais diretamente a nossa vida é a quinta, sobre a personalidade. A personalidade é um nível de realidade deificada e nunca surge por si mesma. É dádiva do Pai.",
+ "p000.s5.b2": "Em seguida, a Introdução dispõe a experiência humana em Urântia em cinco níveis. Não é exagero dizer que esta tabela condensa a visão do homem presente em todo o livro.",
+ "p000.s5.b3": {
+  "head": [
+   "Nível",
+   "O que é",
+   "Destino"
+  ],
+  "rows": [
+   [
+    "Corpo",
+    "O organismo material ou físico; um mecanismo eletroquímico vivo",
+    "Termina com a morte"
+   ],
+   [
+    "Mente",
+    "O mecanismo de pensar, perceber e sentir; cresce para o alto por meio da adoração e da sabedoria",
+    "Torna-se a mãe da alma"
+   ],
+   [
+    "Espírito",
+    "O Ajustador do Pensamento residente; um espírito imortal e pré-pessoal",
+    "Destinado a fusionar-se com a personalidade"
+   ],
+   [
+    "Alma",
+    "Uma realidade moroncial adquirida pela experiência; o espírito é o seu pai e a mente, a sua mãe",
+    "Sobrevive à morte"
+   ],
+   [
+    "Personalidade",
+    "A única realidade invariável em meio a uma experiência constantemente mutável",
+    "Sobrevive junto com a alma"
+   ]
+  ]
+ },
+ "p000.s5.b4": "O modo como a alma vem a existir é especialmente belo. Quando uma pessoa escolhe fazer a vontade do Pai dos céus, nasce uma nova realidade entre o espírito residente e a mente material.",
+ "p000.s5.b6": "Aqui aparece um termo novo: morôncia. Morôncia designa o vasto nível que se interpõe entre o material e o espiritual, e a Introdução compara-o a um tecido cujos elos são espirituais e cuja trama é física. A nossa alma é justamente uma realidade moroncial desse tipo, e a vida nos mundos das mansões, depois da morte, é vida moroncial.",
+ "p000.s6.h": "VI. Energia e Modelo Original — Quatro circuitos",
+ "p000.s6.b0": "A sexta seção ordena os quatro poderes de atração que movem o universo. Que uma coisa seja pessoal, espírito, mente ou matéria depende do circuito ao qual ela responde.",
+ "p000.s6.b1": {
+  "head": [
+   "Circuito ao qual responde",
+   "Fonte",
+   "Como a chamamos"
+  ],
+  "rows": [
+   [
+    "O circuito da personalidade",
+    "O Pai Universal",
+    "Pessoal"
+   ],
+   [
+    "O circuito espiritual",
+    "O Filho Eterno",
+    "Espírito"
+   ],
+   [
+    "O circuito da mente",
+    "O Agente Conjunto (o Espírito Infinito)",
+    "Mente"
+   ],
+   [
+    "O circuito da gravidade material",
+    "O Paraíso inferior",
+    "Matéria · matéria-energia"
+   ]
+  ]
+ },
+ "p000.s6.b2": "A Introdução também adverte de antemão que palavras como energia, força e poder são usadas de modo diferente das suas definições correntes; a pobreza da linguagem obriga uma mesma palavra a carregar vários significados. Declara depois que o modelo original pode configurar a energia, mas não a controla, e que a gravidade é o único controle da matéria-energia.",
+ "p000.s7.h": "VII. O Ser Supremo — O Deus em evolução",
+ "p000.s7.b0": "A sétima seção apresenta um dos ensinamentos mais característicos de O Livro de Urântia. A Deidade é de dois tipos: a Deidade existencial, que existe eternamente, como o Pai, o Filho e o Espírito; e a Deidade experiencial, que está sendo factualizada à medida que o universo cresce, como Deus, o Supremo, Deus, o Último, e Deus, o Absoluto.",
+ "p000.s7.b1": {
+  "head": [
+   "Deidade existencial (eterna)",
+   "Deidade experiencial (em factualização)"
+  ],
+  "rows": [
+   [
+    "Deus, o Pai",
+    "Deus, o Supremo"
+   ],
+   [
+    "Deus, o Filho",
+    "Deus, o Último"
+   ],
+   [
+    "Deus, o Espírito",
+    "Deus, o Absoluto"
+   ]
+  ]
+ },
+ "p000.s7.b3": "O Ser Supremo não é um criador direto, mas um coordenador sintético de todas as atividades entre Criador e criatura, e, quando estiver finalmente factualizado, constituirá a fusão eterna do finito e do infinito. Esse ensinamento significa muito para nós. As escolhas que fazemos e a experiência que reunimos no tempo não se perdem; contribuem de fato para a factualização do Deus em evolução.",
+ "p000.s8.h": "VIII. Deus, o Sétuplo — Sete maneiras pelas quais ele se aproxima de nós",
+ "p000.s8.b0": "Uma criatura finita não pode aproximar-se diretamente do Pai infinito. Por isso o Pai estabeleceu uma forma sétupla de aproximação da Deidade.",
+ "p000.s8.b2": {
+  "head": [
+   "Ordem",
+   "Personalidade da Deidade",
+   "Relação conosco"
+  ],
+  "rows": [
+   [
+    "1",
+    "Os Filhos Criadores do Paraíso",
+    "Pai do universo local — para nós, Michael (Jesus)"
+   ],
+   [
+    "2",
+    "Os Anciães dos Dias",
+    "Governantes do superuniverso"
+   ],
+   [
+    "3",
+    "Os Sete Espíritos Mestres",
+    "Representantes do Espírito Infinito que velam pelos superuniversos"
+   ],
+   [
+    "4",
+    "O Ser Supremo",
+    "O Deus em evolução do tempo e do espaço"
+   ],
+   [
+    "5",
+    "Deus, o Espírito",
+    "O Espírito Infinito"
+   ],
+   [
+    "6",
+    "Deus, o Filho",
+    "O Filho Eterno"
+   ],
+   [
+    "7",
+    "Deus, o Pai",
+    "A meta final da ascensão"
+   ]
+  ]
+ },
+ "p000.s8.b3": "A ascensão começa com o reconhecimento da divindade do Filho Criador, passa pelos Anciães dos Dias e por um Espírito Mestre, e chega por fim ao Pai no Paraíso. Em outras palavras, para uma pessoa de Urântia, o primeiro passo da jornada em direção a Deus é conhecer o Pai por meio de Jesus.",
+ "p000.s9.h": "IX–X. Deus, o Último; Deus, o Absoluto",
+ "p000.s9.b0": "Assim como o Ser Supremo evolui no grande universo, Deus, o Último, emerge nos domínios que transcendem o tempo e o espaço. A Introdução contrasta os dois de modo conciso.",
+ "p000.s9.b2": "Deus, o Absoluto, encontra-se ainda mais além. Ele se realizará por meio da unificação da Trindade Absoluta e é a meta de todos os seres superabsonitos. Os reveladores abstêm-se deliberadamente de falar desse âmbito, admitindo com franqueza que a sua realidade ultrapassa os nossos conceitos. Essa honestidade é uma atitude que percorre toda a Introdução.",
+ "p000.s10.h": "XI. Os Três Absolutos",
+ "p000.s10.b0": "Quando o Pai, ao criar Havona, diferenciou a sua presença dos potenciais de infinitude, o potencial infinito não desvelado permaneceu no Absoluto Inqualificável e foi envolvido pelo Absoluto da Deidade, e esses dois ficaram unidos no Absoluto Universal.",
+ "p000.s10.b1": {
+  "head": [
+   "Absoluto",
+   "Caráter",
+   "Uma maneira figurada de entendê-lo"
+  ],
+  "rows": [
+   [
+    "O Absoluto da Deidade",
+    "Potencial deificado",
+    "O ativador onipotente"
+   ],
+   [
+    "O Absoluto Inqualificável",
+    "Potencial não pessoal e não-deificado",
+    "O mecanizador dos universos"
+   ],
+   [
+    "O Absoluto Universal",
+    "Unifica e coordena os dois",
+    "O equilibrador que equaliza as tensões"
+   ]
+  ]
+ },
+ "p000.s10.b2": "Por que o Absoluto Universal é importante? Porque a nossa própria capacidade, como seres finitos, de existir em um cosmo infinito depende dele.",
+ "p000.s10.b4": "E a Introdução conclui que esses três são, afinal, um só Absoluto. Nos níveis subinfinitos eles parecem funcionalmente distintos, mas na infinitude são um.",
+ "p000.s11.h": "XII. As Trindades",
+ "p000.s11.b0": "A última seção trata das Trindades. A eterna Trindade do Paraíso é existencial e foi inevitável. As duas Trindades pós-Havona, ao contrário, são experienciais e ainda estão em processo de factualização.",
+ "p000.s11.b1": {
+  "head": [
+   "Trindade",
+   "Membros",
+   "Natureza"
+  ],
+  "rows": [
+   [
+    "A Trindade do Paraíso",
+    "O Pai Universal · o Filho Eterno · o Espírito Infinito",
+    "Existencial · infinita"
+   ],
+   [
+    "A Trindade Última",
+    "O Ser Supremo · as Personalidades Criadoras Supremas · os Arquitetos do Universo-Mestre",
+    "Experiencial · atualmente em evolução"
+   ],
+   [
+    "A Trindade Absoluta",
+    "Deus, o Supremo · Deus, o Último · o Consumador do Destino do Universo",
+    "Experiencial · em processo de factualização"
+   ]
+  ]
+ },
+ "p000.s11.b3": "Os filósofos dos universos postulam uma “⟦Q 0:12.9⟧Trindade das Trindades⟦/Q⟧” que abrange tudo isso, mas confessam que não são capazes sequer de visualizar a sua personalização.",
+ "p000.s12.h": "Considerações — Como a revelação foi escrita",
+ "p000.s12.b0": "O final da Introdução explica com franqueza como a revelação foi escrita. Sempre que possível, os reveladores deram preferência aos conceitos mais elevados que os seres humanos já haviam expressado, e só recorreram a uma expressão nova quando aqueles eram inadequados. Selecionaram, como base dos documentos, mais de mil conceitos humanos provenientes de mortais conhecedores de Deus.",
+ "p000.s12.b1": "Por fim, explicam por que a verdade pode ser transmitida, por mais inadequada que seja a linguagem.",
+ "p000.s12.b3": "Esta frase é a chave para ler toda a Introdução. Os seus termos são difíceis, mas não somos deixados sozinhos para entendê-los. O Ajustador dentro de nós e o Espírito da Verdade transformam conceitos desconhecidos em verdade viva. Portanto, não há por que desanimar se não compreendemos toda a Introdução. É um texto que se torna um pouco mais claro cada vez que voltamos a ele, à medida que avançamos na leitura do livro.",
+ "p000.s13.h": "Conclusão — Como ler a Introdução",
+ "p000.s13.b0": {
+  "head": [
+   "Sugestão",
+   "Explicação"
+  ],
+  "rows": [
+   [
+    "Percorra-a rapidamente na primeira vez",
+    "Não tente dominar todos os termos de uma só vez; apenas apreenda a estrutura geral (I–XII)"
+   ],
+   [
+    "Use-a como um dicionário",
+    "Quando surgir um termo desconhecido nos documentos, volte à Introdução para verificá-lo"
+   ],
+   [
+    "Mantenha separados o existencial e o experiencial",
+    "A distinção entre o que existe eternamente e o que está sendo factualizado esclarece muitas frases"
+   ],
+   [
+    "Lembre-se dos cinco níveis",
+    "A distinção entre corpo, mente, espírito, alma e personalidade é o fundamento da religião pessoal"
+   ],
+   [
+    "Leia-a de novo",
+    "Depois da Parte I, e outra vez depois do livro inteiro, ela parecerá completamente diferente"
+   ]
+  ]
+ },
+ "p001.lead": "O Deus de toda a criação, e uma pessoa que podemos conhecer e amar: o documento em que O Livro de Urântia apresenta pela primeira vez o Pai Universal.",
+ "p001.foot": {
+  "text": "Apresentado por um Conselheiro Divino de Uversa",
+  "ref": "1:7.9"
+ },
+ "p001.s0.h": "Introdução — Por que começar pelo Pai?",
+ "p001.s0.b0": "Se a Introdução traça um mapa de termos, o documento 1 apresenta Aquele que está no centro desse mapa. Antes de descrever a estrutura do universo ou as ordens de seres celestes, O Livro de Urântia fala do **Pai Universal**, porque todas as coisas e todos os seres provêm dele e a jornada de toda criatura ascendente conduz de volta a ele. O documento pede que pensemos em Deus primeiro como um criador, depois como um controlador e, por fim, como um sustentador infinito.",
+ "p001.s0.b2": "O Deus que este documento retrata não é um princípio distante. As miríades de sistemas planetários foram feitas para ser habitadas por criaturas capazes de conhecer a Deus, receber a sua afeição e amá-lo em retribuição, e as criaturas de vontade, de universo em universo, já embarcaram na longa jornada para alcançar o Pai. Assim, a abertura do documento 1 converte-se logo em um chamado dirigido a nós: sede perfeitos, assim como o Pai dos céus é perfeito.",
+ "p001.s0.b4": "A perfeição de que se fala aqui não é a perfeição no sentido infinito. Os mortais, partindo de onde estão e avançando à sua própria maneira, podem ainda assim alcançar a meta divina que Deus estabeleceu para eles. Essa perfeição é menos um estado sem falhas do que uma direção — a direção de um crescimento sem fim.",
+ "p001.s1.h": "I. O Nome do Pai — O que importa mais do que um nome",
+ "p001.s1.b0": "Deus é chamado por muitos nomes nos universos: a Primeira Fonte, o Centro Universal, o Pai dos Pais, o Pai do Paraíso e outros. Contudo, o documento faz uma afirmação notável: Deus nunca se revelou pelo nome, apenas pela natureza. Ele se dá a conhecer não por um título, mas por aquilo que é.",
+ "p001.s1.b1": {
+  "head": [
+   "Onde",
+   "O nome usado"
+  ],
+  "rows": [
+   [
+    "Com mais freqüência, nos universos",
+    "Primeira Fonte · Centro Universal"
+   ],
+   [
+    "Na sede da nossa constelação",
+    "Pai Universal"
+   ],
+   [
+    "Nos planetas do nosso sistema local",
+    "Pai dos Pais · Pai do Paraíso · Pai de Havona · Pai Espírito"
+   ],
+   [
+    "Entre os crentes dos mundos de auto-outorga",
+    "“Nosso Pai”"
+   ],
+   [
+    "Em Urântia",
+    "Deus"
+   ]
+  ]
+ },
+ "p001.s1.b2": "O que, então, importa de fato? A resposta do documento é simples. Qualquer que seja o nome que usemos, o importante é conhecê-lo e aspirar a ser como ele.",
+ "p001.s1.b4": "Deus tampouco impõe a ninguém uma adoração formal ou um serviço escravizador. Cada pessoa deve, em seu próprio coração, reconhecê-lo, amá-lo e adorá-lo voluntariamente. É por isso que o documento chama **a dedicação afetuosa da vontade humana a fazer a vontade do Pai** de a dádiva mais bem escolhida que o homem pode oferecer a Deus. De tudo o que temos, a única coisa que Deus ainda não possui é a nossa livre escolha.",
+ "p001.s2.h": "II. A Realidade de Deus — Como o conhecemos?",
+ "p001.s2.b0": "Deus é a realidade primordial no mundo do espírito, a fonte da verdade nas esferas da mente, e abriga com a sua sombra todas as partes dos reinos materiais. O documento declara com firmeza que Deus não se assemelha ao homem nem à máquina. Ele é espírito universal, verdade eterna, realidade infinita e personalidade de pai.",
+ "p001.s2.b1": "Como sabemos, então, que Deus existe? Nunca pela experiência científica nem pela dedução lógica. Deus só pode ser compreendido no âmbito da experiência humana. O documento diz que a presença do Ajustador do Pensamento que reside em nós se faz conhecer por três tipos de experiência.",
+ "p001.s2.b2": {
+  "head": [
+   "Experiência",
+   "O que é"
+  ],
+  "rows": [
+   [
+    "A consciência de Deus",
+    "A capacidade intelectual para conhecer a Deus"
+   ],
+   [
+    "A busca de Deus",
+    "O impulso espiritual de encontrar Deus"
+   ],
+   [
+    "A vontade do Pai",
+    "O anseio da personalidade de ser como Deus — o desejo, de todo o coração, de fazer a sua vontade"
+   ]
+  ]
+ },
+ "p001.s2.b4": "A prova mais segura que um crente pode oferecer aos outros não é, portanto, um argumento, mas uma vida. A pessoa que conhece a Deus traz na própria experiência a única prova positiva do Deus vivo que um ser humano pode oferecer a outro.",
+ "p001.s3.h": "III. Deus é um Espírito Universal",
+ "p001.s3.b0": "“⟦Q 1:3.1⟧Deus é espírito⟦/Q⟧”. Esta confissão clássica está no centro da terceira seção. Ser criado “⟦Q 1:3.1⟧à sua imagem⟦/Q⟧” não significa que Deus tenha um corpo como o nosso; significa que residem em nós Monitores Misteriosos enviados da sua presença. O espírito é invisível aos olhos humanos, mas é inteiramente real.",
+ "p001.s3.b1": "A seção também explica, de modo breve, como funciona a sobrevivência. Uma mente vinculada apenas à matéria não pode sobreviver à morte. Mas, quando uma mente consciente de Deus se deixa cada vez mais ensinar e guiar pelo espírito, o seu potencial espiritual transforma-se na realidade moroncial da alma imortal. Uma mente que permanece presa à matéria até o fim, ao contrário, chega por fim à extinção da personalidade.",
+ "p001.s3.b2": "Esta passagem tem um significado muito prático para a vida de fé. A sobrevivência não depende de quanto sabemos nem da fidelidade com que cumprimos os ritos religiosos. Depende de a mente aceitar a condução do espírito nas pequenas escolhas que fazemos a cada dia. O Livro de Urântia trata, portanto, a sobrevivência não como uma questão de um futuro distante, mas como algo ligado às decisões de hoje. Cada vez que escolhemos a honestidade, escolhemos a bondade, escolhemos a confiança em vez do medo, a alma dentro de nós cresce um pouco mais.",
+ "p001.s3.b3": {
+  "head": [
+   "Para onde a mente se volta",
+   "O resultado"
+  ],
+  "rows": [
+   [
+    "Aceita o ensinamento e a condução do espírito",
+    "A alma moroncial cresce e sobrevive à morte"
+   ],
+   [
+    "Permanece subserviente à matéria",
+    "Torna-se cada vez mais material e termina na extinção da personalidade"
+   ]
+  ]
+ },
+ "p001.s3.b4": "No final da seção, o Conselheiro Divino acrescenta o seu próprio testemunho. Como alguém que procede do Eterno e que retornou repetidas vezes à presença do Pai Universal, ele afirma que duas grandes declarações são verdadeiras.",
+ "p001.s4.h": "IV. O Mistério de Deus — Deus dentro de nós",
+ "p001.s4.b0": "Porque a perfeição de Deus é infinita, ele permanece para sempre um mistério. Contudo, o maior mistério que o documento menciona não são as estrelas nem a vastidão do universo. É o fato de a divindade residir nas mentes dos mortais.",
+ "p001.s4.b2": "O fragmento de Deus dentro de nós ainda não é nosso por direito de posse, mas está destinado a tornar-se um conosco, se sobrevivermos. Quando a nossa carreira na Terra estiver concluída, o pó retorna à terra de onde veio, e o espírito retorna a Deus, que o outorgou.",
+ "p001.s4.b3": "Deus, além disso, não tem preferência por pessoas. A presença divina de que qualquer criatura desfruta não é limitada por algum favoritismo da parte de Deus, mas apenas pela capacidade dessa criatura de receber e discernir as realidades espirituais. Se queremos encontrar mais de Deus, não é Deus quem deve mudar; somos nós que devemos ampliar a nossa capacidade de recebê-lo.",
+ "p001.s5.h": "V–VI. A Personalidade do Pai Universal; A Personalidade no Universo",
+ "p001.s5.b0": "Não devemos permitir que a infinitude de Deus obscureça a sua personalidade. O documento diz que o Pai Universal é o auge da personalidade divina, a origem e o destino da personalidade em toda a criação. Deus é tanto infinito quanto pessoal; ele é uma personalidade infinita.",
+ "p001.s5.b2": "Esse Deus pessoal participa da nossa vida no nível mais profundo. O seu espírito é uma parte real de nós, de modo que, quando nos afligimos, ele se aflige, e, quando triunfamos, ele triunfa em nós e conosco. Deus não é um observador indiferente; é um Pai que compartilha aquilo por que passamos.",
+ "p001.s5.b3": "A sexta seção mostra como as pessoas compreendem Deus de maneiras diferentes. O mesmo Deus aparece como uma causa, uma idéia ou uma pessoa viva, conforme o lugar de onde se olha.",
+ "p001.s5.b4": {
+  "head": [
+   "Para",
+   "Deus é"
+  ],
+  "rows": [
+   [
+    "A ciência",
+    "Uma causa · uma força primordial"
+   ],
+   [
+    "A filosofia",
+    "Uma idéia · uma hipótese de unidade"
+   ],
+   [
+    "A religião",
+    "Uma pessoa · o Pai celeste, cheio de amor · uma experiência espiritual viva"
+   ]
+  ]
+ },
+ "p001.s5.b5": "A seção também nos diz quem mostrou com mais clareza a personalidade de Deus. Jesus de Nazaré atingiu a realização plena do potencial da personalidade espiritual na experiência humana, e a sua vida de fazer a vontade do Pai tornou-se, para o homem, a revelação mais real e ideal da personalidade de Deus. Se queremos saber como Deus é, podemos olhar para a vida de Jesus.",
+ "p001.s6.h": "VII. O Valor Espiritual do Conceito de Personalidade",
+ "p001.s6.b0": "A última seção explica por que a idéia de um Deus pessoal importa tanto. O conceito de um Deus pessoal torna possível a amizade, favorece a adoração inteligente e promove uma confiança revigorante. As coisas não pessoais podem interagir, mas não podem ter amizade.",
+ "p001.s6.b1": "Por essa razão, o documento corrige uma imagem familiar do misticismo. Não nos tornamos um com Deus do modo como uma gota de água se perde no oceano. Unimo-nos a ele pela comunhão pessoal e pela conformidade, de todo o coração, à sua vontade, adquirindo gradualmente cada vez mais da natureza divina.",
+ "p001.s6.b2": {
+  "head": [
+   "Valor",
+   "A sua relação com a personalidade"
+  ],
+  "rows": [
+   [
+    "Verdade",
+    "Poderia ser mantida à parte da personalidade"
+   ],
+   [
+    "Beleza",
+    "Pode existir sem a personalidade"
+   ],
+   [
+    "Bondade",
+    "Só é compreensível em relação à personalidade"
+   ]
+  ]
+ },
+ "p001.s7.h": "Conclusão — Viver este documento",
+ "p001.s7.b0": "O documento 1 é menos um conjunto de informações sobre Deus do que um convite a um relacionamento com ele. A sua mensagem pode ser reunida em três pontos. Deus é uma pessoa a quem podemos conhecer e amar. Ele já vive dentro de nós como espírito. E a única dádiva verdadeira que podemos oferecer-lhe é a nossa livre escolha de fazer a sua vontade.",
+ "p001.s7.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Faça uma pausa uma vez por dia e tome consciência do Pai que está dentro de você",
+    "O corpo mortal é um templo de Deus"
+   ],
+   [
+    "Diante de uma decisão, pergunte: “Qual é a vontade do Pai?”",
+    "A dedicação da nossa vontade é a dádiva mais bem escolhida"
+   ],
+   [
+    "Trate cada pessoa que encontrar como filha do mesmo Pai",
+    "Deus não tem preferência por pessoas"
+   ],
+   [
+    "Conheça a Deus pelo espelho da vida de Jesus",
+    "Jesus é a revelação mais real da personalidade de Deus"
+   ]
+  ]
+ },
+ "p001.s7.b2": "Depois do documento 1, os documentos seguintes desdobram, um após outro, a natureza de Deus (documento 2), os seus atributos (documento 3) e a sua relação com o universo e com o indivíduo (documentos 4 e 5). Se os lermos tendo em mente a imagem deste primeiro documento — um Pai que pode ser conhecido e amado —, perceberemos que mesmo os conceitos mais difíceis que vêm adiante apontam todos para essa única Pessoa.",
+ "p002.lead": "O documento que retrata como é o Deus infinito e perfeito na sua justiça e misericórdia, no seu amor e bondade, e na sua verdade e beleza.",
+ "p002.foot": {
+  "text": "Apresentado por um Conselheiro Divino, atuando com a autoridade dos Anciães dos Dias em Uversa",
+  "ref": "2:7.13"
+ },
+ "p002.s0.h": "Introdução — Onde vemos a natureza de Deus?",
+ "p002.s0.b0": "Se o documento 1 apresentou Deus como um Pai que pode ser conhecido, o documento 2 examina a **natureza** desse Pai — o caráter que ele possui. Trata, sucessivamente, da sua infinitude, da sua perfeição, da sua justiça, da sua misericórdia, do seu amor, da sua bondade e da sua verdade e beleza. Logo de início, o autor deixa claro que a melhor janela para a natureza divina não é uma definição abstrata, mas a vida de Jesus de Nazaré.",
+ "p002.s0.b1": "Ao mesmo tempo, o autor admite com franqueza os limites da tarefa. A mente mortal tem capacidade limitada, e a linguagem humana é pobre nas ilustrações necessárias para retratar os valores divinos. A tentativa, porém, não é fútil, porque a mente mortal é residida pelo Ajustador e permeada pelo Espírito da Verdade. Compreender a Deus torna-se possível, afinal, quando o Deus que está dentro de nós ajuda.",
+ "p002.s0.b2": {
+  "head": [
+   "Seção",
+   "Aspecto da natureza de Deus",
+   "O essencial em uma linha"
+  ],
+  "rows": [
+   [
+    "1",
+    "Infinitude",
+    "Está além de toda medida, e no entanto atenua a si próprio para chegar perto"
+   ],
+   [
+    "2",
+    "Perfeição eterna",
+    "O seu propósito nunca muda, e ele compartilha da nossa imperfeição"
+   ],
+   [
+    "3",
+    "Justiça e retidão",
+    "Colhemos o que semeamos, mas a justiça é sempre temperada pela misericórdia"
+   ],
+   [
+    "4",
+    "Misericórdia divina",
+    "A misericórdia é a justiça temperada pela sabedoria"
+   ],
+   [
+    "5",
+    "Amor",
+    "Deus é amor — o Ajustador é a prova"
+   ],
+   [
+    "6",
+    "Bondade",
+    "Deus ama como um pai"
+   ],
+   [
+    "7",
+    "Verdade e beleza",
+    "Verdade, beleza e bondade unificam-se no amor"
+   ]
+  ]
+ },
+ "p002.s1.h": "I. A Infinitude de Deus — Aquele que não se pode medir chega perto",
+ "p002.s1.b0": "A primeira seção reúne as confissões das escrituras antigas para mostrar a infinitude de Deus. Deus é plenamente consciente da sua infinitude e perfeição; não é um acidente cósmico nem um experimentador do universo. Os Soberanos do Universo podem empreender aventuras e os Pais da Constelação podem fazer experimentos, mas o Pai vê o fim a partir do princípio. Para ele não há passado nem futuro; todo tempo é presente.",
+ "p002.s1.b2": "Contudo, essa mesma infinitude o isola da comunicação pessoal direta com as criaturas finitas. Por isso o Pai, com amor, condescende e atenua a sua infinitude, a fim de abrir um caminho para chegar perto dos seus filhos. O documento menciona três desses caminhos.",
+ "p002.s1.b3": {
+  "head": [
+   "O modo como ele se aproxima",
+   "Como funciona"
+  ],
+  "rows": [
+   [
+    "Os Filhos de Deus do Paraíso",
+    "Participam da carne e do sangue das raças planetárias e tornam-se um conosco — como na auto-outorga de Michael"
+   ],
+   [
+    "As personalidades do Espírito Infinito",
+    "As hostes seráficas e outras inteligências celestes ministram aos seres materiais"
+   ],
+   [
+    "Os Ajustadores do Pensamento",
+    "Os Monitores Misteriosos impessoais vêm residir nas mentes dos mortais"
+   ]
+  ]
+ },
+ "p002.s1.b4": "O final da seção mostra que a infinitude não é um conceito que nos afasta. O homem não pode abarcar a infinitude, mas o Pai infinito compreende plenamente e abraça com amor toda a finitude dos seus filhos. É por isso que as palavras “⟦Q 2:1.11⟧Nele vivemos e movemos-nos e temos o nosso ser⟦/Q⟧” são verdade literal. O Ajustador dentro de nós é, ele mesmo, um fragmento dessa infinitude.",
+ "p002.s2.h": "II. A Perfeição Eterna do Pai — Um propósito que nunca muda",
+ "p002.s2.b0": "Os planos e os propósitos de Deus são como ele próprio: eternos, perfeitos e para sempre imutáveis. Ele não se arrepende dos propósitos sábios que estabeleceu no princípio. Quando as atitudes das suas criaturas mudam, as reações dele podem parecer mudar também — mas apenas na superfície. Sob cada manifestação exterior corre o mesmo propósito invariável.",
+ "p002.s2.b1": "O que merece atenção especial nesta seção é o caráter dessa perfeição. A perfeição de Deus não é uma retidão presumida, mas a **perfeição inerente à bondade** da sua natureza. E Aquele que é perfeito não guarda isso para si. Todo o esquema da vida nos mundos do espaço está centrado em elevar as criaturas de vontade até compartilharem da perfeição do Pai.",
+ "p002.s2.b3": "É notável que o Deus perfeito, que não pode conhecer pessoalmente a imperfeição como experiência sua, compartilhe, ainda assim, da consciência de toda a imperfeição experimentada pelas criaturas em luta dos universos evolucionários. A nossa imaturidade e os nossos erros não estão longe de Deus; o Pai participa realmente deles. Isso é um consolo nos dias em que falhamos: não estamos sozinhos.",
+ "p002.s3.h": "III. A Justiça e a Retidão — Colhemos o que semeamos",
+ "p002.s3.b0": "Deus é reto e, portanto, é justo. A sua justiça não se deixa influenciar pelos atos das suas criaturas; não faz favorecimento de pessoas nem aceita dádivas. Por isso, diz o documento, é fútil fazer apelos pueris a Deus na esperança de escapar das justas conseqüências das suas leis naturais e dos seus mandados espirituais.",
+ "p002.s3.b2": "O mesmo parágrafo restabelece logo o equilíbrio. Mesmo na colheita do que foi plantado pelo erro, a justiça divina é sempre temperada pela misericórdia. O resultado final do pecado pleno e deliberado é o aniquilamento, mas isso é menos uma pena imposta por Deus do que o desfecho de uma criatura que se torna inteiramente irreal por meio da adoção da iniqüidade. E mesmo esse fim é retardado até que a ordem estabelecida pela justiça tenha sido inteiramente cumprida.",
+ "p002.s3.b3": {
+  "head": [
+   "Etapa",
+   "O que acontece"
+  ],
+  "rows": [
+   [
+    "Quando",
+    "No juízo dispensacional ou epocal do reino — em Urântia, ao fim de uma dispensação planetária"
+   ],
+   [
+    "Julgamento",
+    "Ação coordenada de todos os tribunais, desde o conselho planetário, passando pelas cortes do Filho Criador, até os tribunais dos Anciães dos Dias"
+   ],
+   [
+    "Mandado",
+    "O mandado de dissolução tem origem nas cortes mais altas do superuniverso, depois de confirmada a sentença"
+   ],
+   [
+    "Execução",
+    "É feita diretamente pelos juízes que residem na sede do superuniverso"
+   ],
+   [
+    "Resultado",
+    "Não há ressurreição — a personalidade cessa, e a sua experiência é absorvida no Ser Supremo"
+   ]
+  ]
+ },
+ "p002.s3.b4": "Sob esta seção há um princípio simples. O mal não diluído e o pecado deliberado são inerentemente suicidas; o que é irreal sobrevive por algum tempo apenas graças à tolerância da misericórdia. Nos universos locais, os Filhos Criadores devotam-se à reabilitação dos rebeldes, e o decreto de dissolução só é executado quando todos esses esforços, repletos de amor, são finalmente e para sempre rejeitados.",
+ "p002.s4.h": "IV. A Misericórdia Divina — A justiça temperada pela sabedoria",
+ "p002.s4.b0": "A quarta seção define a misericórdia não como o oposto da justiça, mas como uma forma dela. Deus conhece perfeitamente as fraquezas naturais e as limitações ambientais das suas criaturas, e a sabedoria que nasce desse conhecimento tempera a sua justiça. Isso é a misericórdia.",
+ "p002.s4.b2": "A misericórdia de Deus tampouco é algo que alguém precise arrancar dele com súplicas. A necessidade da criatura basta, por si só, para assegurar o fluxo total da misericórdia do Pai. Porque Deus sabe tudo sobre os seus filhos, perdoar é fácil para ele. O documento acrescenta que o mesmo princípio vale entre as pessoas.",
+ "p002.s4.b4": {
+  "head": [
+   "",
+   "Justiça",
+   "Misericórdia"
+  ],
+  "rows": [
+   [
+    "Raiz",
+    "A retidão de Deus",
+    "O fruto natural da bondade e do amor"
+   ],
+   [
+    "Modo de agir",
+    "Segue as justas conseqüências da lei",
+    "Adapta a justiça às situações do finito em evolução"
+   ],
+   [
+    "Relação",
+    "Temperada pela misericórdia",
+    "Não é uma contravenção da justiça, mas a sua interpretação compreensiva"
+   ]
+  ]
+ },
+ "p002.s4.b5": "Deus nunca fica dividido entre a justiça e a misericórdia, porque a sabedoria infinita escolhe a conduta que satisfaz, perfeita, simultânea e igualmente, as exigências de todos os seus atributos. Diferentemente de nós, que vivemos puxados de um lado para o outro, Deus não conhece conflito de atitudes. Juntas, a justiça eterna e a misericórdia divina constituem aquilo que, na experiência humana, se chamaria **eqüidade**.",
+ "p002.s5.h": "V. O Amor de Deus — O Ajustador como prova",
+ "p002.s5.b0": "“⟦Q 2:5.1⟧Deus é amor⟦/Q⟧”. A sua única atitude pessoal para com os assuntos do universo é, portanto, sempre uma reação de afeto divino. O documento diz claramente que é errado pensar que Deus seja persuadido a amar os seus filhos pelos sacrifícios dos seus Filhos ou pela intercessão de outros. O próprio Pai nos ama, e é em resposta a essa afeição que ele envia os Ajustadores.",
+ "p002.s5.b1": "O autor diz que a suprema razão para amar a Deus é o Ajustador que aguarda pacientemente dentro de nós. Embora não possamos encontrar Deus procurando-o, se nos submetermos ao guiamento do espírito residente, seremos guiados passo a passo e vida por vida, até estarmos por fim na presença do Pai. A distância no espaço e o abismo de diferenças espirituais são grandes, mas Deus já lançou uma ponte sobre esse abismo, à sua maneira.",
+ "p002.s5.b3": "A confissão do próprio autor é marcante. Ele diz que amaria a Deus da mesma forma, ainda que ele não fosse tão grande e poderoso, contanto que fosse bom e misericordioso. Amamos o Pai mais pela sua natureza do que pelos seus atributos assombrosos. No entanto, o amor de Deus não é cego. É uma afeição paterna inteligente e que sabe prever, que atua em unidade com a sabedoria divina.",
+ "p002.s5.b4": "O documento também resume onde o amor de Deus se mostra. A sua maior **manifestação** aos mortais é a dádiva dos Ajustadores do Pensamento; a sua maior **revelação** é a vida de auto-outorga de Michael, que viveu na Terra a vida espiritual ideal. E é o Ajustador residente quem individualiza esse amor para cada alma humana.",
+ "p002.s6.h": "VI. A Bondade de Deus — Ele ama como um pai",
+ "p002.s6.b0": "A beleza pode ser vista no universo físico e a verdade, discernida no mundo intelectual, mas a bondade de Deus só é encontrada na experiência religiosa pessoal. O Deus da filosofia pode ser grande e absoluto, mas o Deus da religião tem de ser bom. O homem poderia temer um Deus grande, mas só confia em um Deus bom e só a ele ama.",
+ "p002.s6.b1": {
+  "head": [
+   "Conceito de Deus",
+   "Os seus frutos e os seus limites"
+  ],
+  "rows": [
+   [
+    "Rei e juiz",
+    "Favoreceu um padrão elevado de moralidade e um povo respeitador das leis, mas deixou o indivíduo na insegurança"
+   ],
+   [
+    "Pai para Israel (os profetas hebreus mais recentes)",
+    "Um Pai que abraça a nação inteira"
+   ],
+   [
+    "Pai de cada ser humano (Jesus)",
+    "A moralidade íntima e familiar entre pai e filho — todo o conceito mortal de Deus iluminado"
+   ]
+  ]
+ },
+ "p002.s6.b3": "Desse ponto de vista, o documento critica a doutrina da expiação. Supor que a retidão de Deus não possa conciliar-se com o seu amor é fazer dele uma personalidade dividida, uma da justiça e outra da misericórdia. Mas o Pai não precisa de mediador para perdoar; Deus, enquanto pai, transcende Deus, enquanto juiz. Deus nunca é irado, vingativo ou enraivecido.",
+ "p002.s6.b4": "Também o dito “⟦Q 2:6.8⟧Deus ama o pecador e odeia o pecado⟦/Q⟧” ganha aqui maior precisão. As pessoas só podem amar e odiar outras pessoas, e o pecado não é uma pessoa. Assim, o amor de Deus salva o pecador, e a lei de Deus destrói o pecado. A bondade de Deus é a tendência universal para amar, manifestar misericórdia, demonstrar paciência e ministrar o perdão.",
+ "p002.s7.h": "VII. A Verdade e a Beleza Divinas — A unidade de três valores",
+ "p002.s7.b0": "A última seção começa ensinando humildade. Todo conhecimento finito é relativo; mesmo a informação de fontes elevadas é precisa apenas em relação ao local e verdadeira para a pessoa. O erro mais grave do filósofo é a “⟦Q 2:7.5⟧falácia da abstração⟦/Q⟧” — tomar um aspecto da realidade e proclamá-lo como a verdade inteira. A verdade é bela porque é tanto completa quanto simétrica.",
+ "p002.s7.b1": "A seção diz que todas as coisas no universo se movem em direção à unificação. O universo físico faz-se coerente na Ilha do Paraíso, o universo intelectual no Agente Conjunto e o universo espiritual na personalidade do Filho Eterno. O mortal isolado, do tempo e do espaço, faz-se coerente em Deus, o Pai, por meio do Ajustador do Pensamento residente. O Ajustador dentro de nós é um fragmento de Deus que busca para sempre a unificação divina.",
+ "p002.s7.b2": "A seção também aponta o que sai errado quando a religião enfatiza a bondade isoladamente. A religião hebraica não associou a bondade de Deus às verdades da ciência e à beleza da arte, e a moralidade isolada da religião moderna não consegue manter a lealdade de muitos. O remédio é uma nova filosofia de vida que dê igual consideração à verdade, à beleza e à bondade.",
+ "p002.s7.b3": {
+  "head": [
+   "Valor",
+   "A sua qualidade",
+   "Como aparece"
+  ],
+  "rows": [
+   [
+    "Verdade",
+    "Coerente",
+    "Toda a verdade — material, filosófica ou espiritual — é tanto bela quanto boa"
+   ],
+   [
+    "Beleza",
+    "Atraente",
+    "Toda a beleza real — a arte material ou a simetria espiritual — é tanto verdadeira quanto boa"
+   ],
+   [
+    "Bondade",
+    "Estabilizadora",
+    "Toda a bondade genuína — a moralidade pessoal, a eqüidade social ou o ministério divino — é verdadeira e bela"
+   ]
+  ]
+ },
+ "p002.s8.h": "Conclusão — Viver este documento",
+ "p002.s8.b0": "O Deus do documento 2 é infinito e, no entanto, chega perto; é perfeito e, no entanto, compartilha da nossa imperfeição; é reto e, no entanto, misericordioso. O que une todas essas qualidades é o amor, e esse amor nos foi dado concretamente no Ajustador e na vida de Jesus. O documento mostra que conhecer a natureza de Deus está estreitamente ligado a mudar as nossas próprias atitudes.",
+ "p002.s8.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Quando for difícil perdoar alguém, procure compreender essa pessoa mais profundamente",
+    "Quanto melhor compreendemos, mais fácil é perdoar"
+   ],
+   [
+    "Em um dia de fracasso, lembre-se de que Deus compartilha dessa experiência",
+    "O Pai participa da experiência da imperfeição"
+   ],
+   [
+    "Em vez de tentar escapar das conseqüências, cuide de semear bem",
+    "Do que semeardes, daquilo também colhereis"
+   ],
+   [
+    "Aproxime-se de Deus como de um Pai, não como de um juiz temível",
+    "Deus ama como um pai"
+   ],
+   [
+    "Busque juntas a verdade, a beleza e a bondade",
+    "A sua integração é saúde, sanidade e felicidade"
+   ]
+  ]
+ },
+ "p002.s8.b2": "O documento 3 passa aos atributos de Deus — a sua onipresença, onipotência, onisciência e outros. Se o lermos lembrando o “Pai que é amor” encontrado no documento 2, descobriremos que mesmo esses vastos atributos são outras faces do seu amor pelos seus filhos.",
+ "p003.lead": "Deus está presente em todos os lugares, é todo-poderoso e tudo conhece: o documento que mostra como esses atributos tocam a nossa vida de todos os dias.",
+ "p003.foot": {
+  "text": "Sendo o Conselheiro Divino designado para a apresentação da revelação do Pai Universal",
+  "ref": "3:6.9"
+ },
+ "p003.s0.h": "Introdução — Os atributos convergem na paternidade",
+ "p003.s0.b0": "Se o documento 2 retratou o caráter de Deus, o documento 3 trata dos seus **atributos**: a sua onipresença, o seu poder infinito, o seu conhecimento universal, a sua ilimitabilidade, o seu governo supremo e a sua primazia. Desde o início, o documento observa que o Pai infinito é invisível e que aqueles que compensam essa invisibilidade são os Filhos Criadores. Eles são a expressão pessoal de Deus para os filhos do tempo e do espaço.",
+ "p003.s0.b1": "O autor é cuidadoso ao hierarquizar os atributos. Ainda assim, se um deles tivesse de ser posto em primeiro lugar, seria a faculdade de criar. E essa faculdade criadora atinge o seu ponto mais alto na verdade de que Deus é um Pai. Todos os vastos atributos de que este documento trata apontam para esse único fato da paternidade.",
+ "p003.s1.h": "I. A Onipresença de Deus — O amigo dentro do nosso próprio coração",
+ "p003.s1.b0": "Só Deus pode estar em inúmeros lugares ao mesmo tempo. Ele está presente em todas as partes e em todos os corações da sua criação, e é literalmente verdadeiro que Deus é tudo e está em tudo. Mas o documento acrescenta de imediato que, embora o cosmo revele Deus, não pode conter a totalidade da sua infinitude. O Deus vivo é incomensuravelmente maior do que a soma total da criação.",
+ "p003.s1.b2": "A passagem mais calorosa desta seção é a sua confissão de que Deus vive na criatura. Um parágrafo que reúne os ditos de sábios antigos retrata Deus não como alguém distante, mas como parte de nós.",
+ "p003.s1.b4": "Essa presença não fica alheia às nossas más ações. O Ajustador do Pensamento tem de passar pelas conseqüências do pensamento mau junto com a mente em que reside. Assim, quando agimos mal, estamos, na prática, atormentando a dádiva de Deus que está dentro de nós.",
+ "p003.s1.b5": {
+  "head": [
+   "Âmbito da presença",
+   "Como Deus está presente"
+  ],
+  "rows": [
+   [
+    "O universo físico",
+    "Potencialmente, nos circuitos de gravidade da Ilha do Paraíso — o fundamento primordial da coesão da criação material"
+   ],
+   [
+    "A mente",
+    "Potencialmente, nos circuitos da mente do Agente Conjunto e nas tensões do Absoluto Universal"
+   ],
+   [
+    "O espírito",
+    "Coordenado à presença espiritual do Filho Eterno e ao potencial do Absoluto da Deidade"
+   ],
+   [
+    "O circuito da personalidade e os Ajustadores",
+    "Deus atua de modo único, direto e exclusivo"
+   ]
+  ]
+ },
+ "p003.s1.b6": "Esta seção também explica por que a presença de Deus é sentida de modo diferente de uma pessoa para outra. Que um Ajustador resida ou não em uma mente determina o fato da presença de Deus, mas a sua **presença efetiva** depende de quanto essa mente coopera com o Ajustador. O Pai não se retira por ter sido insultado; são os seus filhos que, pelas próprias escolhas, determinam até onde chega a influência dele em seus corações.",
+ "p003.s2.h": "II. O Poder Infinito de Deus — Um poder que não é cego",
+ "p003.s2.b0": "Todos os universos sabem que o Senhor Deus onipotente reina. Deus é a causa primeira de todos os fenômenos físicos; encarado como um fenômeno não-espiritual, Deus é energia. Ele ordenou os circuitos de toda a energia e decretou a hora e o modo em que a energia-matéria se manifesta, e tudo isso é mantido sob o controle gravitacional centrado no Paraíso inferior.",
+ "p003.s2.b1": "Contudo, o peso desta seção está menos na grandeza do poder de Deus do que no seu caráter. O Pai não é uma força transitória nem uma energia que flutua. Quando surgem emergências na experiência humana, ele já as previu todas. Quando as leis naturais parecem ser suspensas ou corrigidas às pressas, isso só parece assim porque a nossa visão é muito estreita.",
+ "p003.s2.b3": "Pela mesma razão, muitos dos atos de Deus nos parecem arbitrários ou até cruéis. As suas ações consideram o melhor bem não apenas de uma pessoa ou de um planeta, mas de todos os envolvidos. Como somos parte da família de Deus, devemos às vezes compartilhar da disciplina da família. E muitas coisas acontecem nos mundos evolucionários que não são obra pessoal do Pai. Este é um ensinamento importante: não devemos atribuir de imediato o sofrimento à vontade de Deus.",
+ "p003.s2.b4": {
+  "head": [
+   "O que limita o poder de Deus",
+   "De que maneira"
+  ],
+  "rows": [
+   [
+    "A natureza de Deus",
+    "O seu amor infinito, e a verdade, a beleza e a bondade"
+   ],
+   [
+    "A vontade de Deus",
+    "A sua ministração de misericórdia e a sua relação paterna com as personalidades do universo"
+   ],
+   [
+    "A lei de Deus",
+    "A retidão e a justiça da eterna Trindade do Paraíso"
+   ]
+  ]
+ },
+ "p003.s3.h": "III. O Conhecimento Universal de Deus — Até um único pardal",
+ "p003.s3.b0": "Deus conhece todas as coisas. O Pai Universal é a única personalidade, em todo o universo, que de fato sabe o número de estrelas e planetas do espaço. Citando Jesus, o documento diz que nem um só pardal cai ao chão sem o conhecimento do Pai, e que até os cabelos da nossa cabeça estão contados. O conhecimento de Deus é suplementado indiretamente por meio dos Filhos divinos e diretamente por meio dos Ajustadores residentes.",
+ "p003.s3.b2": "Se Deus conhece tudo de antemão, o que acontece com a nossa liberdade? O documento não decide se Deus escolhe prever os eventos do pecado. Diz apenas que, mesmo que o faça, tal conhecimento prévio não revoga em nada a liberdade dos seus filhos. A onipotência, além disso, não é o poder de fazer o que não é divino, e a onisciência não é saber aquilo que é incognoscível.",
+ "p003.s4.h": "IV. Ilimitabilidade de Deus — Doa-se, e nunca diminui",
+ "p003.s4.b0": "O Pai doou-se sem reservas aos seus Filhos, às suas criações e às incontáveis criaturas delas, e no entanto nada perdeu do que possui. Por mais universos novos que venham a existir, o poder de controle do Paraíso continua à altura; por mais livremente que a mente seja distribuída a incontáveis seres, a fonte da sabedoria divina não se empobrece. Tampouco há limite ao número de Ajustadores que ele pode enviar.",
+ "p003.s4.b1": "O homem finito não pode abarcar com o pensamento a infinitude de Deus. Mas aqui o documento oferece uma reviravolta notável: esse mesmo ser humano finito pode de fato experimentar o impacto pleno e não amortecido do amor do Pai infinito. A quantidade dessa experiência, porém, é limitada pela nossa capacidade de receptividade espiritual — a nossa capacidade de amar o Pai em retribuição.",
+ "p003.s5.h": "V. A Lei Suprema do Pai — Por que a incerteza é necessária",
+ "p003.s5.b0": "Nas criações além de Havona, o Pai não exerce o seu poder diretamente; governa por intermédio dos seus Filhos e das personalidades subordinadas a eles. Só atua de modo independente quando uma personalidade delegada falha na confiança nela depositada. Nos corações dos homens, o Pai nem sempre pode ter caminho aberto, mas na conduta e no destino de um planeta o plano divino prevalece.",
+ "p003.s5.b1": "O cerne desta seção é a explicação de que as incertezas da vida não contradizem a soberania de Deus. O autor faz nove perguntas. Cada virtude que desejamos só pode crescer em um ambiente em que o seu oposto seja possível.",
+ "p003.s5.b2": {
+  "head": [
+   "A virtude desejada",
+   "O ambiente de que ela precisa para crescer"
+  ],
+  "rows": [
+   [
+    "Coragem",
+    "O enfrentamento das dificuldades e a reação às decepções"
+   ],
+   [
+    "Altruísmo",
+    "O deparar-se com situações de desigualdade social"
+   ],
+   [
+    "Esperança",
+    "Inseguranças constantes e incertezas renovadas"
+   ],
+   [
+    "Fé",
+    "Uma mente que sempre sabe menos do que pode crer"
+   ],
+   [
+    "Amor à verdade",
+    "Um mundo no qual o erro esteja presente e a falsidade seja sempre possível"
+   ],
+   [
+    "Idealismo",
+    "Um ambiente de relativa bondade e beleza"
+   ],
+   [
+    "Lealdade",
+    "As possibilidades de traição e deserção"
+   ],
+   [
+    "Desapego",
+    "O incessante clamor do ego, que exige reconhecimento e honras"
+   ],
+   [
+    "Prazer",
+    "Um mundo no qual a dor e o sofrimento sejam possibilidades sempre presentes"
+   ]
+  ]
+ },
+ "p003.s5.b3": "A inteligência livre não pode ser uniformemente sábia desde o início. Por isso o homem em evolução tem de poder errar, se houver de ser livre. Contudo, a possibilidade do juízo errôneo não é, em si mesma, pecado; só se transforma em pecado quando a vontade humana adota conscientemente um juízo deliberadamente imoral.",
+ "p003.s5.b5": "Comparando os seres perfeitos de Havona com os mortais, o autor mostra o valor único da nossa situação. As criaturas de Havona são o que são em virtude do fato de existirem, mas tudo de divino que os mortais ganham é uma conquista da experiência.",
+ "p003.s5.b7": {
+  "head": [
+   "Virtude",
+   "Seres de Havona",
+   "Mortais"
+  ],
+  "rows": [
+   [
+    "Coragem",
+    "Naturalmente valentes",
+    "A coragem conquistada ao superar as dificuldades"
+   ],
+   [
+    "Esperança",
+    "Têm a expectativa de um futuro agradável",
+    "A esperança mantida com confiança em meio a um mundo incerto"
+   ],
+   [
+    "Fé",
+    "Fé na estabilidade do universo",
+    "A fé salvadora que eleva o homem do status animal até os portais do Paraíso"
+   ],
+   [
+    "Idealismo",
+    "Nascem assim",
+    "O êxtase de tornar-se idealista por escolha"
+   ],
+   [
+    "Desapego",
+    "Desapegados por natureza",
+    "Uma experiência alcançada pela conquista de um ego beligerante"
+   ]
+  ]
+ },
+ "p003.s6.h": "VI. A Primazia do Pai — Uma pessoa, não uma máquina",
+ "p003.s6.b0": "O Pai delega autoridade, mas reserva a si todas as decisões finais. O universo não é inevitável nem acidental; é uma obra de criação e, portanto, está totalmente sujeito à vontade do Criador. E essa vontade é verdade divina e amor vivo. O documento argumenta que as causas do universo não podem ser inferiores aos efeitos do universo, e que o homem, como ser moral, não pode ser explicado a menos que se reconheça a realidade do Pai Universal.",
+ "p003.s6.b2": "As observações sobre o filósofo mecanicista são incisivas. Ele rejeita uma vontade soberana, e no entanto foi essa mesma vontade que fez as leis que ele reverencia tão profundamente. Humanizar demais a Deus é um erro grosseiro, mas mecanizá-lo completamente é ainda mais insensato.",
+ "p003.s6.b3": "Perguntado se o Pai sofre, o autor responde honestamente que não sabe. Os Filhos Criadores certamente podem sofrer, e ele pensa que também o Pai experimenta uma compreensão paterna e compassiva. Deus é poder, modelo e princípio, mas é mais: é pessoal, e mostra aos seus filhos um amor de Pai.",
+ "p003.s6.b4": {
+  "head": [
+   "Deidade",
+   "O que faz pela humanidade"
+  ],
+  "rows": [
+   [
+    "Deus, o Pai",
+    "Ama os homens"
+   ],
+   [
+    "Deus, o Filho",
+    "Serve aos homens"
+   ],
+   [
+    "Deus, o Espírito",
+    "Inspira os filhos do universo na aventura sempre ascendente de encontrar o Pai"
+   ]
+  ]
+ },
+ "p003.s7.h": "Conclusão — Viver este documento",
+ "p003.s7.b0": "Os atributos do documento 3 soam distantes e abstratos, mas convergem para um único fato: Aquele que está presente em todos os lugares, que conhece todas as coisas e que detém todo o poder é o nosso Pai, e vive dentro de nós. O documento também nos exorta a não ler as incertezas e as dores da vida como ausência de Deus, mas como o solo em que as virtudes crescem.",
+ "p003.s7.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Antes de procurar Deus longe, olhe primeiro para dentro",
+    "O amigo já vive em nosso próprio coração"
+   ],
+   [
+    "Aumente a sua cooperação com o Ajustador para aprofundar a presença de Deus",
+    "A presença efetiva dele depende da cooperação da mente"
+   ],
+   [
+    "Não culpe Deus de imediato pelas dificuldades",
+    "Acontecem muitas coisas que não são obra pessoal do Pai"
+   ],
+   [
+    "Trate as situações incertas como oportunidades de fazer crescer a coragem e a fé",
+    "As virtudes crescem onde os seus opostos são possíveis"
+   ],
+   [
+    "Venha ao Pai com confiança em vez de preocupação",
+    "Ele sabe do que precisamos antes de pedirmos"
+   ]
+  ]
+ },
+ "p003.s7.b2": "O documento 4 passa à relação de Deus com o universo — como ele lida com o universo e os mal-entendidos que as pessoas têm tido a seu respeito. Se nos lembrarmos dos atributos do documento 3 como atributos de um Pai, a discussão do próximo documento parecerá muito mais próxima de nós.",
+ "p004.lead": "A providência e a natureza, o caráter imutável de Deus e as idéias equivocadas sobre Deus que a humanidade manteve por tanto tempo: o documento que as corrige.",
+ "p004.foot": {
+  "text": "Apresentado por um Conselheiro Divino de Uversa",
+  "ref": "4:5.8"
+ },
+ "p004.s0.h": "Introdução — O universo tem um propósito",
+ "p004.s0.b0": "O documento 4 trata da relação que Deus mantém com o universo. O seu ponto de partida é que o universo não é uma máquina que segue rodando sem propósito. Deus criou os universos pela sua própria vontade, livre e soberana, de acordo com um propósito eterno e onisciente, e está cumprindo esse propósito ao longo de todo o tempo. O autor acrescenta com humildade que é duvidoso que alguém, além das Deidades do Paraíso e dos seus colaboradores mais elevados, saiba realmente muito sobre esse propósito eterno.",
+ "p004.s0.b1": "O universo perfeito de Havona existe, antes de tudo, para o prazer e a satisfação dos Criadores, servindo também de modelo original para todos os outros universos e de aprendizado final para os peregrinos a caminho do Paraíso. O plano de ascensão que aperfeiçoa os mortais evolucionários é uma das principais preocupações dos superuniversos, mas de modo algum é a única ocupação das hostes celestes. Esta passagem convida-nos, discretamente, a abandonar a idéia de que somos o centro do universo.",
+ "p004.s0.b2": {
+  "head": [
+   "Propósitos de Havona",
+   "Quais são"
+  ],
+  "rows": [
+   [
+    "Propósito primário",
+    "O prazer e a satisfação dos Criadores perfeitos e infinitos"
+   ],
+   [
+    "Criação-modelo",
+    "O modelo original para todos os outros universos"
+   ],
+   [
+    "Aprendizado final",
+    "Um lugar de preparo para os peregrinos do tempo, no seu caminho para o Paraíso"
+   ]
+  ]
+ },
+ "p004.s1.h": "I. A Atitude do Pai para com o Universo — O que é a providência",
+ "p004.s1.b0": "A primeira seção corrige os mal-entendidos sobre a providência. A providência é real, mas não é o ministério material, pueril e arbitrário que muitos imaginaram. Consiste nas atividades entrelaçadas dos seres celestes e dos espíritos divinos que, de acordo com a lei cósmica, trabalham pela honra de Deus e pelo avanço espiritual dos seus filhos. E a providência e o progresso evolucionário não estão em conflito.",
+ "p004.s1.b2": "Deus não é alguém que criou e depois se retirou. Se o Pai deixasse de ser o sustentador da criação, ocorreria imediatamente um colapso universal. O universo está sendo constantemente renovado, e o Pai distribui incessantemente a energia, a luz e a vida. Mesmo em meio à aparente instabilidade, há uma ordem e uma segurança subjacentes.",
+ "p004.s1.b4": "Nesta seção, o Conselheiro Divino confessa que nem mesmo ele compreende tudo. Ele conhece bem as forças, as mentes e os espíritos dos universos, e no entanto fica constantemente perplexo diante da atuação dos três Absolutos da potencialidade. Explica a assombrosa coordenação de eventos aparentemente desconexos como a presença viva do Ser Supremo e a função providencial do Agente Conjunto. Muito do que chamamos “acidente” é, em uma visão mais ampla, parte do drama que o Infinito vai desdobrando.",
+ "p004.s2.h": "II. Deus e a Natureza — A natureza não é Deus",
+ "p004.s2.b0": "A natureza é, em um sentido limitado, a vestimenta física de Deus. Deus atua de acordo com uma lei imutável em todo o universo-mestre, mas modifica os padrões da sua ação para ajustá-los aos planos evolucionários de cada universo local e de cada planeta. No nosso mundo, além disso, a operação dessas leis foi ainda afetada pelos erros e pelas insurreições de seres pertencentes ao nosso sistema de Satânia.",
+ "p004.s2.b1": {
+  "head": [
+   "Fator que molda a natureza",
+   "O que é"
+  ],
+  "rows": [
+   [
+    "O primeiro fator",
+    "A imutabilidade, a perfeição e a retidão da Deidade do Paraíso"
+   ],
+   [
+    "O segundo fator",
+    "Os planos experimentais, os tropeços nas execuções, os erros de insurreições, a incompletude no desenvolvimento e a imperfeição de sabedoria das criaturas de fora do Paraíso"
+   ],
+   [
+    "O resultado",
+    "Uma natureza estável no fundo, mas de humor mutável e diferente de um universo local para outro"
+   ]
+  ]
+ },
+ "p004.s2.b2": "Por isso o documento diz que a natureza nunca pode ser um retrato fiel de Deus. Ela mistura o perfeito e o parcial, e a sua face ficou com cicatrizes por causa da rebelião e da conduta errônea de miríades de criaturas. Adorar a natureza porque Deus, em algum sentido limitado, a penetra é uma farsa.",
+ "p004.s2.b4": "Contudo, os defeitos da natureza não implicam defeitos em Deus. O documento compara as imperfeições da natureza às interrupções momentâneas na projeção de um filme sempre em movimento, que é a infinitude. São essas mesmas interrupções que permitem à mente finita captar uma visão fugaz da realidade divina. Deus só parece defeituoso quando olhamos a natureza com olhos naturais, sem a ajuda da revelação. Este é um ponto de vista que vale a pena conservar quando o desastre e o sofrimento nos tentam a duvidar da bondade de Deus.",
+ "p004.s3.h": "III. O Caráter Imutável de Deus — Nem ciumento nem irado",
+ "p004.s3.b0": "Por um tempo grande demais o homem pensou em Deus como um ser semelhante a si próprio. Deus não tem ciúme de ninguém. O espetáculo do homem prostrado diante das suas paixões mais baixas e dos seus ídolos leva Deus a tomar-se de zelo **pelo** homem, mas nunca de ciúme **do** homem. Deus tampouco é capaz de ira e de raiva no sentido humano; tais sentimentos são totalmente alheios à natureza perfeita do Pai.",
+ "p004.s3.b1": "Como uma das principais razões da nossa dificuldade em compreender Deus, o documento aponta a rebelião de Lúcifer e a traição de Caligástia. Em mundos não segregados pelo pecado, as raças evolucionárias formam idéias muito melhores sobre o Pai. A nossa imagem distorcida de Deus está ligada à história particular do nosso planeta.",
+ "p004.s3.b2": {
+  "head": [
+   "",
+   "A sabedoria humana",
+   "A sabedoria de Deus"
+  ],
+  "rows": [
+   [
+    "A sua fonte",
+    "Vem das provações e dos erros da experiência",
+    "Consiste na perfeição do discernimento universal infinito"
+   ],
+   [
+    "Arrependimento",
+    "Comete erros e arrepende-se deles",
+    "Não se arrepende de nada que haja feito"
+   ],
+   [
+    "Pesar",
+    "Aflige-se com os próprios erros",
+    "Fica pesaroso, como Pai, quando os seus filhos falham em atingir os níveis que poderiam alcançar"
+   ]
+  ]
+ },
+ "p004.s3.b4": "O final da seção oferece uma pista de por que existe o mal relativo. A bondade infinita do Pai está além da compreensão das mentes finitas, de modo que a bondade relativa só pode ser exibida em contraste com o mal comparativo. Aqui o documento tem o cuidado de acrescentar que isso não é o pecado. E, porque o caráter de Deus é infinitamente supra-humano, ele deve ser personalizado, como o é nos Filhos divinos, antes que possamos captá-lo pela fé.",
+ "p004.s4.h": "IV. Como Compreender Deus — Imutável, mas não imóvel",
+ "p004.s4.b0": "Posto que Deus existe por si próprio, ele é absolutamente independente e imutável. Mas essa imutabilidade não significa imobilidade. Deus pode passar da simplicidade à complexidade, da infinitude à finitude, do divino ao humano, modificando as manifestações da sua absolutez. Isso é possível porque Deus é vontade.",
+ "p004.s4.b2": "A personalidade e a bondade, Deus as compartilha com outros seres, mas a infinitude da vontade é apenas dele. Contudo, a totalidade da sua natureza absoluta está sujeita à relação do Criador com a sua família de criaturas. A justiça trinitária pode ser precisa, mas, na sua relação familiar com as criaturas do tempo, Deus é regido pelo sentimento divino. É por isso que o autor diz que, de todos os títulos possíveis, foi instruído a retratar Deus como o **Pai Universal**.",
+ "p004.s4.b3": {
+  "head": [
+   "Ponto de vista",
+   "Deus é"
+  ],
+  "rows": [
+   [
+    "A ciência",
+    "A Primeira Causa"
+   ],
+   [
+    "A religião",
+    "O Pai universal pleno de amor"
+   ],
+   [
+    "A filosofia",
+    "O único Ser que existe por si próprio, sem depender de nenhum outro"
+   ],
+   [
+    "A revelação",
+    "Mostra que essa Primeira Causa é o Deus da religião, cheio de misericórdia e bondade e comprometido com a sobrevivência eterna dos seus filhos"
+   ]
+  ]
+ },
+ "p004.s4.b4": "O documento diz que o livre-arbítrio de Deus não é regido pelo poder nem guiado apenas pelo intelecto. A personalidade divina consiste no espírito e manifesta-se aos universos como amor. A natureza terna de Deus encontra a sua maior satisfação em amar e ser amado. Também o que adoramos não é o conceito abstrato do Infinito, mas a idéia-experiência de Deus — a nossa capacidade de captar a personalidade e a divindade do nosso mais elevado conceito de Deidade.",
+ "p004.s4.b6": "Esta seção resume com beleza a vitória da fé. Diante do espetáculo pavoroso das limitações humanas, a fé declara: ainda que eu não possa fazer isso, vive em mim uma parte do Pai que pode e que irá fazê-lo. Essa é a fé que conquista o mundo.",
+ "p004.s5.h": "V. Idéias Errôneas sobre Deus — Nenhum Deus precisa ser apaziguado",
+ "p004.s5.b0": "A última seção começa pelos limites da tradição religiosa. A tradição é o registro, imperfeitamente preservado, das experiências de pessoas conhecedoras de Deus das eras passadas, e foi invariavelmente alterada porque o homem primitivo era um criador de mitos. Especialmente confuso tem sido o fato de os livros sagrados não distinguirem entre diferentes seres divinos, reunindo-os todos sob o único nome “Deus”.",
+ "p004.s5.b1": {
+  "head": [
+   "Tipo de confusão",
+   "O que foi misturado"
+  ],
+  "rows": [
+   [
+    "Entre as pessoas da Trindade",
+    "Não se distinguiram claramente as personalidades da Trindade do Paraíso entre si"
+   ],
+   [
+    "Entre o Paraíso e o universo local",
+    "Não se distinguiu a Deidade do Paraíso dos criadores e administradores do universo local"
+   ],
+   [
+    "Entre governantes e pais",
+    "Príncipes Planetários, Soberanos dos Sistemas, Pais da Constelação, Filhos Criadores, Governantes dos Superuniversos, o Ser Supremo e o Pai Universal, todos incluídos sob um mesmo nome"
+   ],
+   [
+    "Mensagens de personalidades subordinadas",
+    "Mensagens dos Portadores da Vida e de várias ordens de anjos registradas como provenientes do próprio Deus"
+   ]
+  ]
+ },
+ "p004.s5.b2": "Os deuses que se desencadeiam na tormenta, que sacodem a Terra na sua cólera e que julgam os homens com a penúria e as enchentes são os deuses da religião primitiva, não os Deuses que governam os universos. O mesmo vale para a idéia de apaziguar um Deus irado por meio de sacrifícios, de penitências e do derramamento de sangue. O documento declara que é uma afronta a Deus ensinar que se deve derramar sangue inocente para ganhar o seu favor. Reconhece, porém, com justiça, que Moisés trouxe um claro avanço ao proibir os sacrifícios humanos e substituí-los pelo sacrifício de animais.",
+ "p004.s5.b4": "No mesmo sentido, o documento explica de novo a auto-outorga de Michael. A outorga não foi necessária para ganhar os favores de Deus; foi inerente à situação de fechamento de uma era planetária e foi o ato pessoal final de um Filho Criador na conquista da soberania experiencial do seu universo. O ensinamento de que a misericórdia do Pai ficou retida até que ele visse o sangue derramado na cruz é uma grosseira distorção do caráter de Deus.",
+ "p004.s6.h": "Conclusão — Viver este documento",
+ "p004.s6.b0": "O documento 4 ajuda-nos a pôr em ordem a imagem de Deus que trazemos na mente. Deus não abandonou o universo, mas o sustenta agora mesmo; não é idêntico à natureza; não é ciumento nem irado; e não é uma deidade a ser apaziguada com sangue. Ele é vontade e, acima de tudo, é Pai. A tarefa que este documento nos deixa é depor as idéias de Deus nascidas do medo e acolher o Pai que Jesus revelou.",
+ "p004.s6.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Abandone o hábito de ler os desastres como ira de Deus",
+    "Os deuses que sacodem a Terra na sua cólera pertencem à religião primitiva"
+   ],
+   [
+    "Desfrute da beleza da natureza, mas dê a sua adoração a Deus",
+    "A natureza não é objeto de adoração"
+   ],
+   [
+    "Diante dos seus limites, diga: “O Pai em mim pode fazê-lo”",
+    "A fé que conquista o mundo"
+   ],
+   [
+    "Deixe espaço para uma coordenação maior mesmo nos “acidentes”",
+    "A providência é o âmbito do Ser Supremo e do Agente Conjunto"
+   ],
+   [
+    "Em vez de se esforçar para ganhar o favor de Deus, responda ao amor que já foi dado",
+    "A misericórdia do Pai não se compra com sangue"
+   ]
+  ]
+ },
+ "p004.s6.b2": "O documento 5 leva essa linha de pensamento adiante, até a relação de Deus com o indivíduo. Como o Pai que sustenta o universo se aproxima de cada um de nós, e como nós, por nossa vez, chegamos a ele, é o assunto do próximo documento.",
+ "p005.lead": "Como nos aproximamos do Pai infinito? O último documento da série sobre o Pai trata do Ajustador residente, da verdadeira adoração, da religião e da consciência de Deus, e da dádiva da personalidade.",
+ "p005.foot": {
+  "text": "O quinto e último documento de uma série que apresenta a descrição do Pai Universal, feita por um Conselheiro Divino de Uversa",
+  "ref": "5:6.14"
+ },
+ "p005.s0.h": "Introdução — Até onde é preciso ir para encontrar Deus?",
+ "p005.s0.b0": "A história do Pai Universal, iniciada no documento 1, chega ao indivíduo no documento 5. Como pode um Deus tão grande ter comunhão com uma única pessoa? A primeira resposta do documento é simples. Um fragmento real do Deus vivo, o Ajustador do Pensamento, reside em cada mortal de mente normal e moralmente consciente. A nossa segurança de comunhão divina deve apoiar-se nesse fato.",
+ "p005.s0.b2": "Deus também reservou a si próprio a prerrogativa de outorgar a personalidade e de manter um contato direto e paterno com todos os seres pessoais por meio do circuito da personalidade. O Ajustador e o circuito da personalidade — esses dois canais são os fios que percorrem todo o documento.",
+ "p005.s1.h": "I. O Caminho até Deus — O caminho está aberto",
+ "p005.s1.b0": "A criatura finita não pode aproximar-se diretamente do Pai, não porque o Pai seja distante, mas por causa da nossa própria finitude. Se fôssemos transportados ao Paraíso neste exato momento, nem sequer saberíamos que estávamos na presença do Pai. O homem tem de ser espiritualmente transformado muitas vezes. Contudo, independentemente desse longo caminho, podemos comungar agora mesmo com o espírito do Pai que está dentro de nós.",
+ "p005.s1.b1": "Esta seção ressalta a igualdade de oportunidade espiritual. As pessoas diferem muito em capacidade intelectual e em ambiente social, mas as possibilidades de progresso espiritual são iguais para todos. Todos desfrutam da mesma presença divina, têm o mesmo privilégio de comungar com esse espírito e podem igualmente escolher aceitar a sua condução.",
+ "p005.s1.b3": "O que, então, nos oculta Deus? O Pai não se oculta espiritualmente, mas muitas criaturas esconderam a si próprias nas brumas das suas próprias decisões obstinadas. Enquanto conservar o poder de escolha, uma pessoa pode acercar-se de Deus e também pode afastar-se repetidamente. O destino final só fica selado quando se perde para sempre o desejo de escolher a vontade do Pai — ou quando a fusão com o Ajustador proclama uma escolha irrevogável.",
+ "p005.s1.b4": {
+  "head": [
+   "A encruzilhada",
+   "Como se determina"
+  ],
+  "rows": [
+   [
+    "Destino ainda aberto",
+    "Enquanto se conserva o poder de escolha — pode-se acercar-se de Deus ou abandonar a vontade divina"
+   ],
+   [
+    "O coração fechado para sempre",
+    "Quando se perde, final e definitivamente, o desejo de conhecer o Pai e de ser como ele"
+   ],
+   [
+    "Destino assegurado",
+    "Quando a fusão com o Ajustador proclama a escolha final de viver a vontade do Pai"
+   ]
+  ]
+ },
+ "p005.s2.h": "II. A Presença de Deus — Conhecida pelos seus frutos",
+ "p005.s2.b0": "A presença de Deus aparece de modo diferente em âmbitos diferentes. A sua presença física é a realidade do universo material; a presença da sua mente depende da profundidade da experiência intelectual; a sua presença espiritual é diferenciada, determinada pela receptividade espiritual e pelo grau em que a vontade se consagra a fazer a vontade divina. E essa presença é encontrada mais plenamente não na natureza, mas no nosso esforço de comunhão com o Ajustador residente.",
+ "p005.s2.b2": "Muitos crentes ficam inquietos por não sentirem claramente a presença do Ajustador. O documento diz que isso de nenhum modo invalida a experiência. É extremamente difícil para a mente material ter uma consciência marcante das realidades divinas, e uma nova consciência vai surgindo à medida que a alma cresce. A prova da nossa relação com o Ajustador não é uma sensação, mas os **frutos do espírito** produzidos em nossa vida.",
+ "p005.s3.h": "III. A Verdadeira Adoração — A adoração que nada pede",
+ "p005.s3.b0": "No sentido mais elevado, adoramos o Pai Universal e apenas ele. Podemos adorar o Pai tal como se manifesta nos seus Filhos Criadores, mas, no fim, é o Pai quem é adorado. Esta seção traça uma distinção clara entre adoração e prece: a adoração existe por si mesma, ao passo que a prece contém um elemento de interesse próprio ou da criatura.",
+ "p005.s3.b2": "No momento em que o interesse próprio se introduz, a adoração converte-se em prece. Contudo, o documento acrescenta que, na vida religiosa prática, não há razão para que a prece não seja dirigida ao Pai como parte da verdadeira adoração. Em seguida, ordena qual Deidade está envolvida nas diferentes partes da nossa vida.",
+ "p005.s3.b3": {
+  "head": [
+   "O que fazemos",
+   "A Deidade e o âmbito envolvidos"
+  ],
+  "rows": [
+   [
+    "Adoração",
+    "O Pai Universal — levada a ele pelo circuito da personalidade"
+   ],
+   [
+    "Prece e comunhão",
+    "O Filho — o âmbito do Filho Eterno e do Filho Criador"
+   ],
+   [
+    "Os afazeres práticos do cotidiano",
+    "O Espírito Infinito — em cooperação com personalidades espirituais da Terceira Fonte e Centro"
+   ]
+  ]
+ },
+ "p005.s3.b4": "A adoração é a mobilização de todos os poderes da personalidade humana sob o domínio da alma e a orientação do Ajustador. A mente consente na adoração, a alma a anseia e a inicia, e o Ajustador a conduz em nome da mente e da alma. A adoração torna-se, assim, uma experiência que se realiza em vários níveis ao mesmo tempo.",
+ "p005.s3.b6": {
+  "head": [
+   "Nível em que a adoração se realiza",
+   "Consciência"
+  ],
+  "rows": [
+   [
+    "Intelectual",
+    "Consciência da mente"
+   ],
+   [
+    "Moroncial",
+    "Consciência da alma"
+   ],
+   [
+    "Espiritual",
+    "Consciência do espírito"
+   ],
+   [
+    "Pessoal",
+    "A unificação delas na personalidade"
+   ]
+  ]
+ },
+ "p005.s4.h": "IV. Deus na Religião — Muitos caminhos e o caminho de Jesus",
+ "p005.s4.b0": "As religiões evolucionárias impelem as pessoas para Deus pelo medo; as religiões de revelação atraem-nas para a busca de um Deus de amor, porque elas anseiam por ser como ele. A religião, porém, não é um sentimento passivo de dependência, mas uma experiência viva e dinâmica de alcançar a divindade, baseada no serviço à humanidade. A pessoa verdadeiramente religiosa não verga o universo para servir ao eu, mas dedica o eu ao serviço da família universal.",
+ "p005.s4.b1": {
+  "head": [
+   "Religião",
+   "A salvação que oferece e o seu foco"
+  ],
+  "rows": [
+   [
+    "Budismo",
+    "Salvação do sofrimento; uma paz infindável"
+   ],
+   [
+    "Judaísmo",
+    "Salvação das dificuldades; prosperidade baseada na retidão · lema “Conhece a teu Deus”"
+   ],
+   [
+    "Religião grega",
+    "Salvação da desarmonia e da fealdade pela realização da beleza · lema “Conhece-te a ti mesmo”"
+   ],
+   [
+    "Cristianismo",
+    "Salvação do pecado; santidade · “o conhecimento do Senhor Jesus Cristo”"
+   ],
+   [
+    "Maometismo",
+    "Libertação dos rigorosos padrões morais do judaísmo e do cristianismo"
+   ],
+   [
+    "A religião de Jesus",
+    "Salvação do eu · “conhecer a Deus e a si próprio, como um filho de Deus”"
+   ]
+  ]
+ },
+ "p005.s4.b2": "O documento não menospreza as várias religiões. A moral dos zoroastristas, a metafísica dos hindus e a ética dos confucionistas têm todas valor como aproximações válidas à religião de Jesus. Os hebreus baseavam a sua religião na bondade e os gregos, na beleza, mas Jesus revelou um Deus de amor, e o amor abrange a verdade, a beleza e a bondade.",
+ "p005.s4.b4": {
+  "head": [
+   "Conceito fundido na teologia cristã",
+   "Deus é"
+  ],
+  "rows": [
+   [
+    "O conceito hebreu",
+    "O reivindicador de valores morais, um Deus de retidão"
+   ],
+   [
+    "O conceito grego",
+    "O unificador, um Deus de sabedoria"
+   ],
+   [
+    "O conceito de Jesus",
+    "Um amigo vivo, um Pai amoroso, a divina presença"
+   ]
+  ]
+ },
+ "p005.s4.b5": "Como essas três correntes foram combinadas, a teologia cristã tem encontrado dificuldade em ter coerência. O documento exorta-nos a olhar positivamente a vida de Jesus — a pensar menos na sua falta de pecado do que na sua retidão e no seu serviço de amor. Jesus elevou o amor passivo do conceito hebreu à afeição ativa de um Deus que é o Pai de cada indivíduo, até mesmo dos que persistem no erro.",
+ "p005.s5.h": "V. A Consciência que se tem de Deus — Ninguém é excluído",
+ "p005.s5.b0": "A moralidade tem a sua origem na razão da autoconsciência, mas isso, por si só, não alcança o nível espiritual da experiência religiosa. A religião é um domínio independente, que não se fundamenta nos fatos da ciência nem nas obrigações da sociedade, e pode permear igualmente os níveis material, social, moral e espiritual. O mesmo Deus chega ao cientista como a Primeira Causa, ao artista como o ideal de beleza, ao filósofo como unidade universal e ao crente como o Pai amoroso.",
+ "p005.s5.b1": {
+  "head": [
+   "Nível da consciência de Deus",
+   "O que se realiza"
+  ],
+  "rows": [
+   [
+    "Consciência da mente",
+    "A compreensão da idéia de Deus"
+   ],
+   [
+    "Consciência da alma",
+    "A compreensão do ideal de Deus"
+   ],
+   [
+    "Consciência do espírito",
+    "A compreensão da realidade espiritual de Deus"
+   ]
+  ]
+ },
+ "p005.s5.b2": "Esta seção também trata com equilíbrio a relação entre a fé e o intelecto. A experiência da consciência de Deus permanece a mesma de geração em geração, mas as definições filosóficas e teológicas de Deus devem mudar a cada época que avança. A experiência religiosa deve estar disposta a submeter-se à crítica inteligente e a uma interpretação razoável; não deve procurar manter-se à parte do restante da experiência humana.",
+ "p005.s5.b3": "O maior consolo vem na passagem sobre as condições da sobrevivência. As limitações de intelecto, a falta de educação e de cultura ou um status social baixo não podem invalidar a presença do espírito divino em uma pessoa que crê. Assim como os pais não precisam de diploma para ter filhos, uma mente que discerne o certo do errado e é capaz de adorar a Deus, em união com um Ajustador, basta para iniciar o crescimento de uma alma imortal. O que resta é a escolha honesta de buscar a Deus e fazer a sua vontade.",
+ "p005.s6.h": "VI. O Deus da Personalidade — A dignidade do livre-arbítrio",
+ "p005.s6.b0": "O Pai Universal é o outorgador e o conservador de todas as personalidades e o destino de todos os que escolhem fazer a sua vontade. A personalidade é um dos mistérios não resolvidos dos universos. Nem a mente, nem o espírito, nem a energia, por si sós, fazem uma personalidade; a personalidade é uma qualidade outorgada exclusivamente pelo Pai. Tampouco é alcançada por graus: ou há personalidade ou não há personalidade.",
+ "p005.s6.b1": "Tendo dado a personalidade e provido o crescimento de uma alma imortal, o Pai permanece de lado. Criar ou não o eu sobrevivente e eterno cabe agora à escolha do próprio homem. Nenhum ser e nenhuma força, em todo o universo, pode interferir nessa escolha.",
+ "p005.s6.b3": "Assim como toda gravidade está ligada em circuito à Ilha do Paraíso, toda mente ao Agente Conjunto e todo espírito ao Filho Eterno, também toda personalidade está ligada em circuito à presença pessoal do Pai Universal. Esse circuito da personalidade transmite infalivelmente ao Pai a adoração de todas as personalidades. E o portal da eternidade só se abre em resposta à escolha feita em livre-arbítrio. Ao encerrar a série, o autor confessa que nada mais pode dizer de útil além disto: Deus é o nosso Pai, e nós somos os seus filhos.",
+ "p005.s7.h": "Conclusão — Viver este documento",
+ "p005.s7.b0": "O documento 5 é a conclusão da série sobre o Pai. O Pai infinito vive dentro de nós como o Ajustador, conhece-nos por meio do circuito da personalidade e respeita de modo absoluto a nossa livre escolha. O caminho está aberto, e o que precisamos para percorrê-lo não é instrução nem posição social, mas um desejo honesto de buscar a Deus e de tornar-nos como ele.",
+ "p005.s7.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Ao buscar Deus, olhe para dentro antes de olhar para o céu distante",
+    "O espírito do Pai vive dentro da sua própria mente"
+   ],
+   [
+    "Reserve um tempo para o agradecimento e a adoração que nada pedem",
+    "A verdadeira adoração não contém nenhum pedido para si"
+   ],
+   [
+    "Ponha a sua fé à prova pelos frutos da sua vida, e não pelas sensações",
+    "A comunhão com o Ajustador mostra-se nos frutos do espírito"
+   ],
+   [
+    "Respeite as outras religiões como outras aproximações à religião de Jesus",
+    "Todas as religiões têm valor como aproximações válidas"
+   ],
+   [
+    "Escolha hoje, de novo, fazer a vontade de Deus",
+    "O portal da eternidade só se abre à escolha do livre-arbítrio"
+   ]
+  ]
+ },
+ "p005.s7.b2": "Com o documento 6, O Livro de Urântia volta a sua atenção para o Filho Eterno, a Segunda Fonte e Centro. Se continuarmos a leitura lembrando o Pai que encontramos nestes cinco documentos, ficará mais claro que o Filho e o Espírito são, ambos, caminhos pelos quais o amor deste Pai é levado ao universo."
+}

@@ -20,5 +20,8 @@
 # commentary p067.s5.b0: 해설 'Amadonites were the group of 144 loyal Andonites' — 책 67:6.3 은 그 144명의 후손. 저자 확인
 # commentary p051.s3.b3/s8.b1: 해설이 51:3.5 의 '동산의 음성'을 Solonia 로 이름함(51편에는 이름 없음) — 사소
 # fr 판은 공식 프랑스어 번역대로 미터법 수치 사용(영문 해설의 마일·피트와 다름) — 의도된 차이
-# 2026-11-23: es commentary 배포 완료. 실행 중 = fr c20-c26, pt c01-c13 (이 세션 에이전트, 한도 뒤 SendMessage 로 이어 감). 완료 fr c01-c19
 # commentary p138.s9.b2: 다음 편 제목 'The Twelve Apostles' 를 138:9.1 인라인 인용으로 표시 — 원문에서 표지를 빼는 편이 맞음
+# commentary p146 (146:4.6): 해설·표가 Madon 도 '대체로 거부'로 묶음 — 책은 Chorazin 만 거부, Madon 은 조금 나았음. 저자 확인
+# commentary p191.s7.b3: 다음 편 제목 'Appearances in Galilee' 를 191:4.5 인라인 인용으로 표시 — 원문에서 표지를 빼는 편이 맞음; p190.s2.b0 'his eldest brother, James' — 야고보는 예수의 동생(190:2.2). 저자 확인
+# commentary p162 (lead, s1.b0): 해설 'My hour has (not yet) come' — 책 162:1.1 은 'The hour…'. 저자 확인
+# 2026-11-24: fr commentary 배포 완료. 실행 중 = pt c01-c13.
