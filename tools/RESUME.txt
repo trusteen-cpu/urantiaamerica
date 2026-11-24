@@ -24,4 +24,5 @@
 # commentary p146 (146:4.6): 해설·표가 Madon 도 '대체로 거부'로 묶음 — 책은 Chorazin 만 거부, Madon 은 조금 나았음. 저자 확인
 # commentary p191.s7.b3: 다음 편 제목 'Appearances in Galilee' 를 191:4.5 인라인 인용으로 표시 — 원문에서 표지를 빼는 편이 맞음; p190.s2.b0 'his eldest brother, James' — 야고보는 예수의 동생(190:2.2). 저자 확인
 # commentary p162 (lead, s1.b0): 해설 'My hour has (not yet) come' — 책 162:1.1 은 'The hour…'. 저자 확인
-# 2026-11-24: fr commentary 배포 완료. 실행 중 = pt c01-c13.
+# 2026-11-24: fr commentary 배포 완료. 실행 중 = pt c04 c06 c14-c26 (이 세션 에이전트). 완료 pt c01-c03 c05 c07-c13
+# commentary p090.s2.b3: 일식 연도 1806(해설) vs 공식 pt 1808 — 영문 90:2.9 와 대조 필요

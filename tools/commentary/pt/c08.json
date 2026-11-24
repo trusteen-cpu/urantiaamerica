@@ -213,7 +213,7 @@
  "p053.s2.b1": "O processo desenrolou-se por etapas. Primeiro o orgulho cresceu até que Lúcifer iludiu a si mesmo e se persuadiu de que a rebelião era para o bem do sistema. Quando os seus planos chegaram à desilusão, ele já havia ido longe demais para que o seu orgulho lhe permitisse parar, e em algum ponto o mal se tornou pecado deliberado e voluntário. Durante muito tempo foi-lhe oferecida a oportunidade de arrepender-se, mas ele rejeitou a misericórdia de Michael com um desprezo cada vez maior.",
  "p053.s2.b3": "Essa análise aplica-se igualmente bem à nossa própria vida interior. Os grandes erros raramente chegam de repente. Primeiro vem um período em que se professa lealdade por fora enquanto se alimentam, por dentro, a crítica e o descontentamento, e só depois de muitas oportunidades perdidas de voltar atrás é que uma escolha deliberada se endurece.",
  "p053.s3.h": "III. O Manifesto de Lúcifer — Três acusações",
- "p053.s3.b0": "A rebelião tomou forma, por fim, na Declaração de Liberdade de Lúcifer. A sua causa foi declarada sob três pontos principais, e cada um deles nega frontalmente uma verdade central ensinada nos documentos anteriores de *O Livro de Urântia*.",
+ "p053.s3.b0": "A rebelião tomou forma, por fim, na Declaração de Liberdade de Lúcifer. A sua causa foi declarada sob três pontos principais, e cada um deles nega frontalmente uma verdade central ensinada nos documentos anteriores de O Livro de Urântia.",
  "p053.s3.b1": {
   "head": [
    "Acusação",
@@ -813,7 +813,7 @@
   "ref": "57:8.27"
  },
  "p057.s0.h": "Introdução — Por que ler a árvore genealógica de um planeta?",
- "p057.s0.b0": "O documento 57 abre a Parte III de *O Livro de Urântia*, “A História de Urântia”. O seu autor é um Portador da Vida, membro do Corpo original de Urântia, que recorre aos arquivos de Jerusém para contar a história da origem do nosso planeta. A narrativa começa com o nascimento de uma nebulosa e termina com mares preparados para a implantação da vida.",
+ "p057.s0.b0": "O documento 57 abre a Parte III de O Livro de Urântia, “A História de Urântia”. O seu autor é um Portador da Vida, membro do Corpo original de Urântia, que recorre aos arquivos de Jerusém para contar a história da origem do nosso planeta. A narrativa começa com o nascimento de uma nebulosa e termina com mares preparados para a implantação da vida.",
  "p057.s0.b1": "O autor explica primeiro como tratará as datas. Os registros guardam os anos exatos, mas ele não os dá; usa, em vez disso, os números inteiros mais próximos e conta para trás a partir das primeiras décadas do século vinte da era cristã. Convém, portanto, ler as cifras deste documento não como um cronograma preciso, mas como marcos que assinalam um movimento imenso.",
  "p057.s0.b2": "Embora escrito na linguagem da astronomia e da geologia, o documento deixa uma impressão profundamente religiosa. O chão sob os nossos pés não é um pedaço de rocha perdido que por acaso rolou até o seu lugar. É uma esfera moldada, ao longo de centenas de bilhões de anos de preparação e supervisão, para ser um lar pronto a acolher a vida.",
  "p057.s1.h": "I. A Nebulosa de Andronover — O trabalho dos organizadores da força",
@@ -1115,5 +1115,171 @@
    ]
   ]
  },
- "p058.s8.b2": "O documento 59 acompanha a vida plantada nos mares ao longo de centenas de milhões de anos, era por era, enquanto ela floresce e por fim sobe à terra firme — a era da vida marinha. Tendo em mente as três áreas de implantação e os continentes à deriva deste documento, podemos imaginar essa longa crônica quase como um mapa."
+ "p058.s8.b2": "O documento 59 acompanha a vida plantada nos mares ao longo de centenas de milhões de anos, era por era, enquanto ela floresce e por fim sobe à terra firme — a era da vida marinha. Tendo em mente as três áreas de implantação e os continentes à deriva deste documento, podemos imaginar essa longa crônica quase como um mapa.",
+ "p059.lead": "Dos trilobitas aos peixes e às rãs, e daí à idade da atribulação biológica: os 250 milhões de anos em que o mar foi a mãe da vida do nosso mundo.",
+ "p059.foot": {
+  "text": "Apresentado por um Portador de Vida de Nébadon, um daqueles que pertenceram ao corpo originalmente designado para Urântia",
+  "ref": "59:6.13"
+ },
+ "p059.s0.h": "Introdução — Um quarto da história do planeta",
+ "p059.s0.b0": "O documento 59 é a crônica da era da vida marinha escrita por um Portador da Vida. O autor começa dividindo a história de Urântia, de cerca de um bilhão de anos, em cinco grandes eras, dando para cada uma o nome usado pelos geólogos. A era da vida marinha, tratada neste documento, é a terceira delas, e cobre cerca de um quarto da história do planeta.",
+ "p059.s0.b1": {
+  "head": [
+   "Era",
+   "Duração",
+   "Nome dado pelos geólogos"
+  ],
+  "rows": [
+   [
+    "1. A era da pré-vida",
+    "Os primeiros 450 milhões de anos",
+    "Arqueozóica"
+   ],
+   [
+    "2. A era da aurora da vida",
+    "Os 150 milhões de anos seguintes",
+    "Proterozóica"
+   ],
+   [
+    "3. A era da vida marinha",
+    "Os 250 milhões de anos seguintes",
+    "Paleozóica"
+   ],
+   [
+    "4. A era da vida terrestre primitiva",
+    "Os 100 milhões de anos seguintes",
+    "Mesozóica"
+   ],
+   [
+    "5. A era dos mamíferos",
+    "Os últimos 50 milhões de anos",
+    "Cenozóica"
+   ]
+  ]
+ },
+ "p059.s0.b2": "A era da vida marinha subdivide-se ainda em seis longos períodos, cada um caracterizado por desenvolvimentos bem definidos, tanto na geologia quanto na biologia. Quando a era começa, os fundos dos mares e as plataformas continentais já estão cobertos de vegetação abundante, e os animais simples espalharam-se ao longo das linhas costeiras até que os mares interiores fervilhassem de vida. O autor descreve esse momento como aquele em que estão para ser escritos os capítulos de abertura do grande “livro de pedra” do registro da vida.",
+ "p059.s0.b3": "A América do Norte serve de manual especialmente bom para essa crônica. O continente é maravilhosamente rico em depósitos fossilíferos de toda a era da vida marinha, e as suas camadas mais antigas estão claramente separadas do período anterior por extensos depósitos de erosão. É por isso que os nomes de lugares norte-americanos aparecem tantas vezes neste documento.",
+ "p059.s1.h": "I. A Vida Marinha Primitiva nos Mares Rasos — A Idade dos Trilobitas",
+ "p059.s1.b0": "Há 400 milhões de anos, a vida marinha, tanto vegetal quanto animal, estava bem distribuída por todo o mundo, e o clima tornou-se mais quente e mais uniforme. Pela primeira vez a vegetação arrastou-se para a terra. E então, sem gradação de ancestrais, surgiram os primeiros animais multicelulares: os trilobitas.",
+ "p059.s1.b2": "Os trilobitas eram maus nadadores; flutuavam preguiçosamente ou rastejavam ao longo do fundo do mar, encolhendo-se para se proteger quando atacados. Desenvolveram-se em quatro grupos — carnívoros, herbívoros, onívoros e “comedores de lodo” —, e a capacidade deste último grupo de subsistir, em boa parte, de matérias inorgânicas explica o seu grande aumento e a sua longa sobrevivência. Restam também vestígios das três implantações originais: os animais primitivos do hemisfério ocidental diferiam ligeiramente dos da Eurásia e da Australásia. Os geólogos chamam esse período de Cambriano.",
+ "p059.s1.b3": {
+  "head": [
+   "Depósito",
+   "Onde se formou"
+  ],
+  "rows": [
+   [
+    "Conglomerados",
+    "Perto das linhas de costa"
+   ],
+   [
+    "Arenitos",
+    "Águas rasas onde as ondas impediam o depósito de lodo"
+   ],
+   [
+    "Xistos",
+    "Águas mais profundas e mais tranqüilas"
+   ],
+   [
+    "Calcário",
+    "Águas profundas, incluindo depósitos de conchas de trilobitas"
+   ]
+  ]
+ },
+ "p059.s1.b4": "O clima do mundo, nesses tempos, era oceânico, não continental. Não havia grandes lençóis de gelo, e os mares quentes do sul estendiam-se para o norte até as regiões polares. A corrente do golfo corria pela parte central da América do Norte e desviava-se para leste, aquecendo as margens da Groenlândia e fazendo daquela terra, hoje coberta de gelo, um verdadeiro paraíso tropical. A passagem lembra-nos que não devemos julgar o passado pelo mapa de hoje.",
+ "p059.s2.h": "II. O Primeiro Estágio de Inundação Continental — A Idade dos Animais Invertebrados",
+ "p059.s2.b0": "A partir de 350 milhões de anos atrás, todos os continentes, exceto a Ásia central, foram inundados repetidas vezes. Essas elevações e afundamentos foram graduais e nada espetaculares, e o continente-mãe asiático seguiu um curso próprio, tornando-se, nas idades recentes, a mais estável de todas as massas de terra. A exceção quase única a esse tempo de quietude foi a grande erupção a leste do Kentucky, há cerca de 330 milhões de anos.",
+ "p059.s2.b1": "Essa foi a grande idade da evolução dos organismos animais individuais, em que todos os tipos de vida abaixo dos vertebrados aparecem nos fósseis. Floresceram os ancestrais dos corais, das medusas, dos cefalópodes e de muitas outras formas. Mas, afora alguns vermes que se enterravam no solo, ainda não havia animais terrestres, porque o ar continha dióxido de carbono em excesso. Os geólogos conhecem esse período como o Ordoviciano.",
+ "p059.s2.b3": "Os trilobitas ainda eram proeminentes, existindo em dezenas de milhares de modelos e servindo de predecessores dos crustáceos modernos; alguns tinham entre vinte e cinco e quatro mil olhos minúsculos. Mas, ao fim do período, dividiam os mares com outros invertebrados, e no início do período seguinte pereceram por completo. Mesmo uma forma de vida que domina uma idade não permanece para sempre.",
+ "p059.s3.h": "III. O Estágio da Segunda Grande Inundação — O Período dos Corais — A Idade dos Braquiópodes",
+ "p059.s3.b0": "Há trezentos milhões de anos, começou outra grande submersão. Os mares estavam repletos de animais de conchas calcárias, que formaram o primeiro vasto depósito de calcário, com cerca de trezentos metros de espessura em média. Os depósitos dessa idade contêm muito gás, petróleo, zinco, chumbo e sal em rocha; o gás e o petróleo derivaram das plantas e dos animais das terras submersas. A rocha sobre a qual caem hoje as cataratas do Niágara também data desse tempo.",
+ "p059.s3.b1": "Há 290 milhões de anos, o mar havia-se afastado consideravelmente, e começaram em todos os continentes os movimentos primitivos de formação de montanhas. As maiores dessas elevações foram os Himalaias, na Ásia, e as grandes Montanhas da Caledônia, que se estendiam da Irlanda, pela Escócia, até Spitzbergen. Seguiram-se violentas erupções na Europa, que deixaram camadas alternadas de lava e de rocha com oito mil metros de espessura na região das Ilhas Britânicas.",
+ "p059.s3.b2": "Os trilobitas declinaram rapidamente, e cefalópodes que cresciam até cinco metros de comprimento apareceram de súbito e tornaram-se os senhores dos mares. Ao fim da época, os mares estavam tão salgados que pouca vida sobreviveu. Depois, após os escorpiões aquáticos primitivos, surgiram subitamente os verdadeiros escorpiões — os primeiros a realmente respirar o ar. Esse período é o Siluriano.",
+ "p059.s4.h": "IV. O Estágio da Grande Emergência de Terras — A Idade dos Peixes",
+ "p059.s4.b0": "Durante longas idades o mar levara vantagem, mas agora chegava um tempo de vitória da terra. Há 270 milhões de anos, todos os continentes estavam acima da água, e a paisagem nua ia-se cobrindo de verde. A família dos fetos apareceu de súbito e espalhou-se por toda parte, e árvores sem folhas formaram florestas de trinta metros de altura.",
+ "p059.s4.b2": "O maior acontecimento da idade foi o surgimento súbito dos peixes. Os vertebrados apareceram há 250 milhões de anos, descendendo de artrópodes modificados. Alguns peixes com dentes alcançaram oito a dez metros de comprimento, e os tubarões de hoje são os seus sobreviventes. Esse período, chamado Devoniano, durou quase cinqüenta milhões de anos.",
+ "p059.s4.b4": "À medida que a terra se elevava, a América do Norte ficou ligada à Europa por pontes de terra que chegavam à Groenlândia, e a Groenlândia ainda guarda, sob o gelo, os restos dessas primeiras plantas terrestres. A atividade vulcânica na região de São Lourenço, há 230 milhões de anos, deixou o monte Royal, em Montreal, e o rio Susquehanna expõe mais de 4 000 metros de camadas dessa época.",
+ "p059.s5.h": "V. O Estágio da Movimentação da Crosta — O Período Carbonífero das Florestas de Fetos — A Idade das Rãs",
+ "p059.s5.b0": "O aparecimento dos peixes foi o ponto alto da evolução marinha; daqui em diante, a evolução da vida terrestre torna-se cada vez mais importante. Quando os mares estavam no seu auge, há cerca de 210 milhões de anos, surgiram subitamente os primeiros animais terrestres: anfíbios que respiravam o ar, desenvolvidos a partir de artrópodes cujas bexigas natatórias se haviam transformado em pulmões. Os caramujos, os escorpiões e as rãs arrastaram-se do mar para a terra, e os insetos logo se espalharam pelos continentes.",
+ "p059.s5.b3": "O carvão são os restos, preservados pela água e modificados pela pressão, da vegetação exuberante dos brejos e das margens dos pântanos. As raízes das árvores permanecem na argila sob as camadas de carvão tal como cresceram, o que prova que o carvão se formou exatamente onde é encontrado. Cada vez que a terra afundava e se elevava, depositava-se uma nova camada, de modo que o número de camadas de carvão registra o número desses movimentos.",
+ "p059.s5.b4": {
+  "head": [
+   "Região",
+   "Vezes que a terra afundou e se elevou, segundo as camadas de carvão"
+  ],
+  "rows": [
+   [
+    "Illinois",
+    "Dez"
+   ],
+   [
+    "Pensilvânia",
+    "Vinte"
+   ],
+   [
+    "Alabama",
+    "Trinta e cinco"
+   ],
+   [
+    "Canadá",
+    "Até setenta e cinco"
+   ]
+  ]
+ },
+ "p059.s5.b5": "O Carbonífero encerrou-se há 180 milhões de anos, quando a parte leste da América do Norte se elevou, marcando o começo das montanhas atuais, tanto na região apalachiana quanto no oeste. As terras em elevação começaram a substituir o suave clima marinho por um clima continental menos ameno e mais variável. As árvores carboníferas, portadoras de esporos, tinham em geral dois metros de diâmetro e trinta e cinco metros de altura, e os fetos modernos são relíquias dessa idade desaparecida.",
+ "p059.s6.h": "VI. O Estágio da Transição Climática — A Idade da Atribulação Biológica",
+ "p059.s6.b0": "O último período da era da vida marinha foi um tempo de grande empobrecimento da vida. A sua causa não foi o resfriamento da crosta nem a atividade vulcânica, mas uma combinação inusitada de influências corriqueiras: a diminuição dos mares e a elevação das terras. O suave clima oceânico desapareceu, um rude clima continental tomou o seu lugar, e surgiram dois fatores climáticos novos — a glaciação e a aridez.",
+ "p059.s6.b2": "Contudo, essa provação não foi um fim, mas uma seleção. As plantas de sementes apareceram pela primeira vez, proporcionando aos animais terrestres um suprimento melhor de alimento, e os insetos desenvolveram estágios de repouso para sobreviver ao inverno e à seca. As rãs resistiram nas poças que secavam e, na África, deram o primeiro passo para se tornarem répteis. Os animais marinhos abrigaram-se em três refúgios e, mais tarde, saíram deles como espécies novas, nascidas da adversidade, para repovoar os mares.",
+ "p059.s6.b3": {
+  "head": [
+   "A vida diante da adversidade",
+   "Como sobreviveu"
+  ],
+  "rows": [
+   [
+    "Plantas de sementes",
+    "Apareceram pela primeira vez e proporcionaram um suprimento melhor de alimento aos animais terrestres"
+   ],
+   [
+    "Insetos",
+    "Desenvolveram estágios de repouso para suspender a atividade durante o inverno e as secas"
+   ],
+   [
+    "Rãs",
+    "Sobreviveram porque podiam viver muito tempo nas poças que secavam; deram o primeiro passo rumo ao réptil"
+   ],
+   [
+    "Animais marinhos",
+    "Refugiaram-se temporariamente em três abrigos: o golfo do México, a baía do Ganges e a baía siciliana"
+   ]
+  ]
+ },
+ "p059.s6.b4": "O fim desse período Permiano é também o fim da era Paleozóica, uma era de duzentos e cinqüenta milhões de anos. O mar nutriu a vida durante as longas idades em que a terra não podia sustentá-la, e agora cede esse papel, enquanto o segundo estágio da evolução começa em terra.",
+ "p059.s7.h": "Conclusão — Viver este documento",
+ "p059.s7.b0": "O documento 59 conta como a vida subiu, degrau por degrau, através do que parece uma repetição tediosa de inundações e elevações. Novas ordens de vida apareceram subitamente, idade após idade, e no fim veio uma provação que reduziu mais de cem mil espécies a menos de quinhentas. Contudo, essa provação deixou as formas dotadas de valor de sobrevivência para serem os ancestrais da idade seguinte. A adversidade pode ser uma preparação, e não um fim; essa é a lição mais profunda que o documento deixa.",
+ "p059.s7.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Não considerar perdidos os tempos lentos e repetitivos",
+    "Os capítulos do livro de pedra foram depositados por elevações e afundamentos graduais e nada espetaculares"
+   ],
+   [
+    "Lembrar as fontes de que depende a própria vida",
+    "Quase todos os animais dependem, direta ou indiretamente, da vida vegetal"
+   ],
+   [
+    "Nos tempos difíceis, encontrar um refúgio e resistir",
+    "Os animais marinhos abrigaram-se em três refúgios e mais tarde repovoaram os mares"
+   ],
+   [
+    "Aceitar as provações como um tempo de seleção e de preparação",
+    "A atribulação biológica deixou apenas os que tinham valor de sobrevivência para serem ancestrais da idade seguinte"
+   ]
+  ]
+ },
+ "p059.s7.b2": "O documento 60 volta-se para a era da vida terrestre primitiva, em que a vida que deixara o mar floresceu em terra — a idade dos répteis e dos dinossauros. A nota, no final deste documento, de que uma rã na África deu o primeiro passo rumo ao réptil é o fio que conduz a essa história."
 }

@@ -381,7 +381,7 @@
  "p000.s8.b3": "A ascensão começa com o reconhecimento da divindade do Filho Criador, passa pelos Anciães dos Dias e por um Espírito Mestre, e chega por fim ao Pai no Paraíso. Em outras palavras, para uma pessoa de Urântia, o primeiro passo da jornada em direção a Deus é conhecer o Pai por meio de Jesus.",
  "p000.s9.h": "IX–X. Deus, o Último; Deus, o Absoluto",
  "p000.s9.b0": "Assim como o Ser Supremo evolui no grande universo, Deus, o Último, emerge nos domínios que transcendem o tempo e o espaço. A Introdução contrasta os dois de modo conciso.",
- "p000.s9.b2": "Deus, o Absoluto, encontra-se ainda mais além. Ele se realizará por meio da unificação da Trindade Absoluta e é a meta de todos os seres superabsonitos. Os reveladores abstêm-se deliberadamente de falar desse âmbito, admitindo com franqueza que a sua realidade ultrapassa os nossos conceitos. Essa honestidade é uma atitude que percorre toda a Introdução.",
+ "p000.s9.b2": "Deus, o Absoluto, encontra-se ainda mais além. Ele se realizará por meio da unificação da Trindade Absoluta e é a meta de todos os seres super-absonitos. Os reveladores abstêm-se deliberadamente de falar desse âmbito, admitindo com franqueza que a sua realidade ultrapassa os nossos conceitos. Essa honestidade é uma atitude que percorre toda a Introdução.",
  "p000.s10.h": "XI. Os Três Absolutos",
  "p000.s10.b0": "Quando o Pai, ao criar Havona, diferenciou a sua presença dos potenciais de infinitude, o potencial infinito não desvelado permaneceu no Absoluto Inqualificável e foi envolvido pelo Absoluto da Deidade, e esses dois ficaram unidos no Absoluto Universal.",
  "p000.s10.b1": {
@@ -1437,5 +1437,217 @@
    ]
   ]
  },
- "p005.s7.b2": "Com o documento 6, O Livro de Urântia volta a sua atenção para o Filho Eterno, a Segunda Fonte e Centro. Se continuarmos a leitura lembrando o Pai que encontramos nestes cinco documentos, ficará mais claro que o Filho e o Espírito são, ambos, caminhos pelos quais o amor deste Pai é levado ao universo."
+ "p005.s7.b2": "Com o documento 6, O Livro de Urântia volta a sua atenção para o Filho Eterno, a Segunda Fonte e Centro. Se continuarmos a leitura lembrando o Pai que encontramos nestes cinco documentos, ficará mais claro que o Filho e o Espírito são, ambos, caminhos pelos quais o amor deste Pai é levado ao universo.",
+ "p006.lead": "O documento que apresenta o Filho Eterno: a Palavra viva que expressa pessoalmente o Pai, e o ministrador da misericórdia a toda a criação.",
+ "p006.foot": {
+  "text": "Escrito por um Conselheiro Divino, designado para formular esta declaração que descreve o Filho Eterno do Paraíso",
+  "ref": "6:8.9"
+ },
+ "p006.s0.h": "Introdução — Falar da eternidade na linguagem do tempo",
+ "p006.s0.b0": "Depois de cinco documentos sobre o Pai, o documento 6 volta-se para a Segunda Pessoa da Deidade, o **Filho Eterno**. O Filho Eterno é a expressão perfeita e final da “primeira” idéia pessoal e absoluta do Pai. Por isso, sempre que o Pai se expressa pessoal e absolutamente, ele o faz por meio do Filho Eterno. O Filho é a Palavra viva e divina, que sempre foi e sempre será.",
+ "p006.s0.b1": "Desde o início, o autor aponta os limites da linguagem. Expressões como “primeiro pensamento” ou a de que o Filho tenha “⟦Q 6:0.4⟧surgido do Pai⟦/Q⟧” são concessões feitas a mentes presas ao tempo. No sentido seqüencial, o Pai nunca poderia ter tido um primeiro pensamento, e o Filho nunca teve um começo. O mistério de um Filho que é derivado do Pai e, ainda assim, igualmente eterno com ele é algo que nenhuma criatura do tempo pode compreender totalmente.",
+ "p006.s1.h": "I. A Identidade do Filho Eterno — A Segunda Fonte e Centro",
+ "p006.s1.b0": "O Filho Eterno é o Filho original e unigênito de Deus, Deus, o Filho, e o criador coligado de todas as coisas. Como o Pai é a Primeira Fonte e Centro, assim o Filho é a Segunda Fonte e Centro. O Pai nunca cria pessoalmente, a não ser em conjunção com o Filho. O documento diz que, se aquele que escreveu o Novo Testamento se tivesse referido ao Filho Eterno, teria dito a verdade ao escrever: “⟦Q 6:1.3⟧No princípio era o Verbo⟦/Q⟧”.",
+ "p006.s1.b1": {
+  "head": [
+   "",
+   "O Pai Universal",
+   "O Filho Eterno"
+  ],
+  "rows": [
+   [
+    "Fonte",
+    "Primeira Fonte e Centro",
+    "Segunda Fonte e Centro"
+   ],
+   [
+    "Ordem de função",
+    "Primeiro um criador, depois um controlador",
+    "Primeiro um co-criador, depois um administrador espiritual"
+   ],
+   [
+    "Como Absoluto",
+    "O Absoluto Volicional",
+    "O Absoluto da Personalidade"
+   ],
+   [
+    "Relação com o espírito",
+    "“Deus é espírito”",
+    "A revelação pessoal desse espírito"
+   ]
+  ]
+ },
+ "p006.s1.b2": {
+  "head": [
+   "Onde",
+   "Nome usado para o Filho Eterno"
+  ],
+  "rows": [
+   [
+    "O universo central",
+    "Fonte Coordenada · Co-Criador · Absoluto Associado"
+   ],
+   [
+    "Uversa (sede do superuniverso)",
+    "Centro Coordenado do Espírito · Administrador Espiritual Eterno"
+   ],
+   [
+    "Sálvington (sede do universo local)",
+    "Segunda Fonte Eterna e Centro"
+   ],
+   [
+    "Os Melquisedeques",
+    "Filho dos Filhos"
+   ]
+  ]
+ },
+ "p006.s1.b3": "Esta seção também aponta uma confusão peculiar a Urântia. No nosso mundo, o Filho Eterno tem sido confundido com o Filho Criador que aqui se auto-outorgou, Michael de Nébadon. Qualquer Filho do Paraíso pode ser adequadamente chamado de Filho de Deus, mas a designação “o ⟦Q 6:1.5⟧Filho Eterno⟦/Q⟧” é reservada ao Filho Original, que, com o Pai, criou o universo central.",
+ "p006.s2.h": "II. A Natureza do Filho Eterno — Aquele que vir o Filho terá visto o Pai",
+ "p006.s2.b0": "O Filho Eterno é tão imutável e infinitamente confiável quanto o Pai, e igualmente espiritual. Para nós, porém, ele pareceria mais pessoal, já que está um passo mais próximo em termos de acessibilidade. O Filho é Deus, o Pai, pessoalmente manifestado ao universo, e, quando adoramos o Pai, na verdade adoramos ao mesmo tempo Deus, o Filho, e Deus, o Espírito.",
+ "p006.s2.b2": "O Filho possui toda a retidão e a santidade do Pai, e compartilha com o Pai a responsabilidade de ajudar as criaturas imperfeitas a alcançar a perfeição. Quase não há diferença entre o Pai e o Filho. São iguais, exceto pelo fato de que o Filho parece devotar-se mais à realização da beleza espiritual; na bondade, não se pode discernir nenhuma diferença. Apenas o ponto de vista de cada um é ligeiramente diferente.",
+ "p006.s3.h": "III. O Ministério de Amor do Pai — Amor e misericórdia",
+ "p006.s3.b0": "O Filho compartilha a justiça e a retidão da Trindade, mas faz esses traços passarem a segundo plano pela infinita personalização do amor e da misericórdia do Pai. O Filho não pode amar mais do que o Pai. Contudo, pode mostrar misericórdia de um modo suplementar: sendo ao mesmo tempo um criador e o Filho do Pai, compartilha a experiência de filiação de todos os outros filhos do Pai.",
+ "p006.s3.b2": {
+  "head": [
+   "",
+   "O amor do Pai",
+   "A misericórdia do Filho"
+  ],
+  "rows": [
+   [
+    "Definição",
+    "O próprio amor",
+    "O amor aplicado — o amor do Pai em ação"
+   ],
+   [
+    "Ilustração (como o amor é compreendido em um planeta sexuado)",
+    "Mais comparável ao amor de um pai",
+    "Mais como a afeição de uma mãe"
+   ],
+   [
+    "Onde diferem",
+    "O conteúdo divino é o mesmo",
+    "Diferem na qualidade e na técnica de expressão"
+   ]
+  ]
+ },
+ "p006.s3.b3": "Esta seção corrige mais uma vez uma idéia equivocada contra a qual os documentos 2 e 4 já advertiam. Imaginar o Filho Eterno suplicando ao Pai que mostre misericórdia é um conceito tosco e grotesco de Deus. Todas as ministrações misericordiosas dos Filhos são uma revelação direta do coração do Pai, e o amor do Pai é a própria fonte da misericórdia do Filho.",
+ "p006.s4.h": "IV. Os Atributos do Filho Eterno — A atração do espírito",
+ "p006.s4.b0": "O Filho motiva o nível espiritual da realidade cósmica. Por meio do seu controle absoluto da gravidade do espírito, ele controla toda a realidade espiritual, e todo o espírito puro e todos os valores espirituais respondem ao seu poder de atração. Mas o Filho é onipotente apenas no reino do espírito, pois as Deidades não são dadas à duplicação inútil de ministérios ao universo.",
+ "p006.s4.b1": "O espírito do Filho está presente em todos os lugares e une espiritualmente toda a criação. Contudo, o espírito do Filho e o fragmento do Pai relacionam-se conosco de maneiras diferentes. Compreender essa diferença mostra como se dá o nosso crescimento espiritual.",
+ "p006.s4.b2": {
+  "head": [
+   "",
+   "O fragmento do Pai (o Ajustador)",
+   "O espírito do Filho"
+  ],
+  "rows": [
+   [
+    "Relação conosco",
+    "Reside dentro de nós",
+    "Está conosco e à nossa volta — mas não dentro de nós"
+   ],
+   [
+    "O que faz",
+    "Ajusta a mente para atitudes progressivamente mais divinas",
+    "Atrai a si os seres espirituais por meio do circuito de gravidade do espírito"
+   ],
+   [
+    "Como trabalham juntos",
+    "Quanto mais a mente é ajustada",
+    "Mais sensível ela se torna ao poder de atração espiritual do Filho"
+   ]
+  ]
+ },
+ "p006.s4.b3": "Também em sabedoria e conhecimento o Filho é inteiramente igual ao Pai. Nunca é surpreendido por nenhum evento e compreende o fim desde o princípio. E, no entanto, nos seus contatos com os seres ascendentes dos reinos mais baixos, é tão bondoso e pleno de consideração, tão paciente e longânime quanto os Filhos do Paraíso que se auto-outorgam nos mundos evolucionários. O poder infinito e a paciência terna vivem juntos em uma só personalidade.",
+ "p006.s5.h": "V. As Limitações do Filho Eterno — Pessoal, e nada mais que pessoal",
+ "p006.s5.b0": "Mesmo o Filho infinito tem limitações que ele próprio definiu. Elas não diminuem a sua onisciência, onipresença ou onipotência espirituais, mas mostram com clareza o papel que cada pessoa desempenha dentro da Trindade.",
+ "p006.s5.b1": {
+  "head": [
+   "Limitação",
+   "O que significa"
+  ],
+  "rows": [
+   [
+    "Os domínios físicos",
+    "Ele não funciona pessoalmente neles"
+   ],
+   [
+    "A ministração da mente",
+    "Ele não funciona nela, a não ser por meio do Agente Conjunto"
+   ],
+   [
+    "A outorga da personalidade",
+    "Ele é co-criador de personalidades, mas, sozinho, não outorga personalidade a nenhum ser"
+   ],
+   [
+    "As prerrogativas de criador",
+    "Ele as transmite apenas às suas primeiras personalizações diretas — os Filhos Criadores não podem passá-las adiante"
+   ],
+   [
+    "A fragmentação",
+    "Ele não pode fragmentar a si próprio; como espírito, banha toda a criação"
+   ]
+  ]
+ },
+ "p006.s5.b3": "Assim, o Filho não pode participar pessoalmente da outorga dos Ajustadores do Pensamento. Contudo, o documento registra uma bela cena. No eterno passado, quando o Pai, ao projetar a outorga dos Ajustadores, propôs: “⟦Q 6:5.7⟧Façamos o homem mortal à Nossa própria imagem⟦/Q⟧”, o Filho aprovou o plano e prometeu cooperação interminável. Assim, agora, o fragmento do Pai reside dentro de nós, a presença espiritual do Filho nos envolve, e os dois trabalham para sempre como um pelo nosso avanço espiritual.",
+ "p006.s6.h": "VI–VII. A Mente Espiritual; A Personalidade do Filho Eterno",
+ "p006.s6.b0": "O Filho Eterno é espírito e tem mente, mas não uma mente que a mente mortal possa entender. A mente diretamente aliada ao espírito não pode ser comparada com a mente aliada à matéria. O espírito é sempre consciente e dotado de mente, e a Deidade nunca é desprovida de mente. O documento diz que a mente do Pai e do Filho é talvez mais bem ilustrada pela pré-mente de um Ajustador do Pensamento: os Ajustadores conhecem e são conhecidos.",
+ "p006.s6.b1": "Muito do que diz respeito ao Filho está, por enquanto, além do nosso conhecimento. Só veremos claramente esses mistérios depois de completarmos a ascensão moroncial, alcançarmos o status de espírito e começarmos a ser dotados com a “⟦Q 6:6.4⟧mente do espírito⟦/Q⟧”. Não saber agora não é um fracasso; é uma etapa da jornada.",
+ "p006.s6.b2": "A sétima seção apresenta o Filho como **personalidade absoluta**. Pela técnica da trinitarização, o Pai escapou dos elos da personalidade inqualificável e, desde então, tem-se auto-outorgado em profusão infindável ao seu universo. A personalidade do Filho é o modelo da outorga de personalidade do Pai ao Agente Conjunto e a incontáveis criaturas. O Filho é a soma e a essência da Primeira Fonte e Centro, despojada de tudo o que é impessoal e não-espiritual.",
+ "p006.s7.h": "VIII. A Compreensão do Filho Eterno — Pensamento e palavra",
+ "p006.s7.b0": "Em identidade e natureza, o Filho é plenamente equivalente ao Pai, o seu complemento perfeito e a sua eterna contraparte. Aqui o documento usa uma expressão ousada: do mesmo modo que Deus é o Pai Universal, o Filho é a **Mãe Universal**, e todos nós, elevados ou inferiores, constituímos a sua família universal.",
+ "p006.s7.b1": "Para nós não é fácil distinguir as atuações do Pai e do Filho, nem a tentativa é sempre proveitosa. O documento oferece uma chave simples. E, em cada universo local, o Filho Criador representa ao mesmo tempo o Pai e o Filho.",
+ "p006.s7.b3": {
+  "head": [
+   "Etapa da ascensão",
+   "Compreensão do Filho Eterno"
+  ],
+  "rows": [
+   [
+    "A mente material e a moroncial",
+    "O conceito do Filho não pode resplandecer — a personalidade vívida do Filho Criador supre a lacuna"
+   ],
+   [
+    "Ao passar por Orvônton e Havona",
+    "As lembranças do Filho Criador vão-se afastando, enquanto o conceito do Filho Eterno se amplia continuamente"
+   ],
+   [
+    "Ao aproximar-se do Paraíso",
+    "A realidade e a proximidade do Filho crescem sem cessar"
+   ]
+  ]
+ },
+ "p006.s7.b4": "Apreendemos mais facilmente o Pai e o Espírito Infinito, porque o Pai outorgou a nossa personalidade e o Espírito Infinito é a fonte da nossa mente. Chegamos ao Filho por meio do serviço de auto-outorga dos Filhos do Paraíso e da ministração de amor do Espírito Infinito. Com a ajuda deles, o mortal consciente de Deus certamente alcançará o Paraíso e estará diante do Filho. O autor testemunha que ele próprio esteve nessa presença um número quase incontável de vezes, e que o Filho é verdadeiramente uma pessoa.",
+ "p006.s8.h": "Conclusão — Viver este documento",
+ "p006.s8.b0": "O documento 6 retrata o Filho Eterno como a Palavra que expressa o pensamento do Pai, a misericórdia que põe em ação o amor do Pai e o poder de atração que puxa todo espírito para ele. O Filho não reside dentro de nós, mas nos envolve e trabalha como um só com o Ajustador que está em nós, para conduzir-nos adiante. Por enquanto, o modo mais próximo de conhecermos o Filho é pela vida do Filho Criador que veio a este mundo — Jesus.",
+ "p006.s8.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Transforme o amor que recebeu em atos concretos de misericórdia",
+    "A misericórdia é o amor aplicado"
+   ],
+   [
+    "Conheça o Pai e o Filho juntos por meio da vida de Jesus",
+    "Aquele que vir o Filho terá visto o Pai"
+   ],
+   [
+    "Olhe os outros não de cima, mas como irmão ou irmã",
+    "O Filho vê as criaturas tanto como um pai quanto como um irmão"
+   ],
+   [
+    "Responda à atração do espírito afinando a sua mente com o divino",
+    "Uma mente ajustada torna-se mais sensível à gravidade espiritual do Filho"
+   ],
+   [
+    "Aceite os mistérios que ainda não consegue compreender como uma promessa da jornada",
+    "Eles se esclarecem à medida que recebemos a mente do espírito"
+   ]
+  ]
+ },
+ "p006.s8.b2": "Os documentos seguintes tratam da relação do Filho Eterno com o universo e, depois, do Espírito Infinito, a Terceira Fonte e Centro. Se continuarmos a leitura com a chave do pensamento do Pai e da palavra do Filho, as relações dentro da Trindade ficarão mais nítidas."
 }

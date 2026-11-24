@@ -73,7 +73,7 @@
    ]
   ]
  },
- "p037.s2.b5": "Nas missões planetárias, os Estrelas Vespertinas algumas vezes têm sido conhecidos como “⟦Q 37:2.3⟧o anjo do Senhor⟦/Q⟧”, e acompanham os Filhos Avonais de auto-outorga como co-comandantes desses empreendimentos. Nas missões dos Filhos Instrutores da Trindade que abrem uma idade pós-outorga, servem de ligação entre os mortais e o corpo invisível dos Filhos Instrutores. O sexto grupo de mundos de Sálvington e os seus quarenta e dois satélites estão sob a administração deles, com escolas conjuntas para as personalidades espirituais e para os mortais ascendentes.",
+ "p037.s2.b5": "Nas missões planetárias, os Estrelas Vespertinas algumas vezes têm sido conhecidos como “⟦Q 37:2.3⟧o anjo do Senhor⟦/Q⟧”, e acompanham os Filhos Avonais de auto-outorga como comandantes adjuntos desses empreendimentos. Nas missões dos Filhos Instrutores da Trindade que abrem uma idade pós-outorga, servem de ligação entre os mortais e o corpo invisível dos Filhos Instrutores. O sexto grupo de mundos de Sálvington e os seus quarenta e dois satélites estão sob a administração deles, com escolas conjuntas para as personalidades espirituais e para os mortais ascendentes.",
  "p037.s3.h": "III. Os Arcanjos — Servidores da sobrevivência e da ressurreição",
  "p037.s3.b0": "Os arcanjos são progênie do Filho Criador e do Espírito Materno, o tipo mais elevado de ser espiritual elevado produzido em grande número em um universo local; Nébadon tem quase oitocentos mil. Normalmente ficam fora da jurisdição de Gabriel e não tomam parte na administração de rotina, pois estão inteiramente dedicados à sobrevivência das criaturas e à carreira ascendente dos mortais.",
  "p037.s3.b1": "É notável que, em tempos recentes, **uma sede-central divisional dos arcanjos tenha sido mantida em Urântia**. Os visitantes estudantes vindos de fora de Nébadon surpreendem-se ao descobrir que as atividades dos arcanjos são dirigidas a partir deste mundo pequeno e aparentemente insignificante, e o seu interesse aumenta quando ficam sabendo da auto-outorga de Michael aqui. O autor vê nisso um sinal de que mais atividades ascendentes se concentrarão futuramente no mundo da auto-outorga.",
@@ -1079,3 +1079,689 @@
   ]
  },
  "p041.s8.b2": "O documento 42 leva adiante o relato físico deste documento, tratando da energia, da matéria e dos sistemas da mente. Se tivermos em mente os centros de potência e os sóis aqui descritos, será mais fácil acompanhar como a energia se organiza em matéria.",
+ "p042.lead": "Da energia que sai do Paraíso, passando pela força, pela matéria e pela mente, até o seu supercontrole pelo espírito: o documento que lê a estrutura do universo físico com os olhos da mente e do espírito.",
+ "p042.foot": {
+  "text": "Apresentado por um Mensageiro Poderoso a serviço em Nébadon, e a pedido de Gabriel",
+  "ref": "42:12.16"
+ },
+ "p042.s0.h": "Introdução — A energia, um monumento perpétuo",
+ "p042.s0.b0": "O documento 42 é o mais “físico” de O Livro de Urântia. Trata dos níveis da força e da energia, da classificação da matéria, dos fenômenos ondulatórios, dos ultímatons, elétrons e átomos, e até da coesão do núcleo atômico. Contudo, o ponto de partida do autor não é o laboratório, mas Deus. O universo é material no sentido de que a energia é a base de toda a existência, mas essa energia pura é controlada pelo Pai Universal.",
+ "p042.s0.b2": "A manipulação da energia segue a vontade pessoal do Pai, embora seja modificada pelos atos do Filho Eterno, do Agente Conjunto e de um vasto número de subordinados. Nada disso reduz a verdade de que toda a energia-força está sob o controle último de um Deus pessoal, residente no centro de todas as coisas. Essa frase é a chave de todo o documento: mesmo um mundo físico que parece impessoal está ligado a uma fonte pessoal.",
+ "p042.s1.h": "I. Energias e Forças do Paraíso — Uma corrente que retorna à sua fonte",
+ "p042.s1.b1": "A matéria e a energia são manifestações diversas da mesma realidade cósmica, e as linhas de gravidade de toda a matéria derivam do Paraíso. Por mais que a ciência avance, até mesmo a ponto de controlar as unidades elétricas da matéria, os cientistas permanecerão para sempre impotentes para criar um único átomo, para gerar um único raio de energia ou para acrescentar a vida à matéria. A criação da energia e a outorga da vida pertencem ao Pai Universal e às personalidades Criadoras a ele associadas.",
+ "p042.s1.b2": "A energia-força é imperecível; pode ser transformada sem fim, mas nunca extinta. Contudo, é eterna, não infinita, e tudo o que sai do Paraíso deve retornar a ele, ainda que idades e mais idades sejam necessárias para completar o circuito. O autor toma a ausência de qualquer evidência de esgotamento da energia como confirmação de um universo circular e ordenado.",
+ "p042.s2.h": "II. Sistemas Universais de Energia Não-Espiritual (Energias Físicas) — Da potência do espaço à monota",
+ "p042.s2.b0": "O autor começa por admitir os limites da linguagem. Neste documento, “energia” denota todas as fases dos fenômenos de movimento e de potencial, ao passo que “força” é usada para os estágios da energia na pré-gravidade e “poder”, ou “potência”, para os estágios na pós-gravidade. Sobre essa base, ele propõe uma classificação da energia física, para diminuir a confusão conceitual.",
+ "p042.s2.b1": {
+  "head": [
+   "Nível",
+   "Conteúdo",
+   "Nome em Uversa"
+  ],
+  "rows": [
+   [
+    "1. Potência de espaço",
+    "A presença, no espaço livre, do Absoluto Inqualificável — uma pré-realidade",
+    "ABSOLUTA"
+   ],
+   [
+    "2. Força primordial",
+    "Energia pura, a primeira mudança na potência do espaço pela presença dos organizadores da força",
+    "SEGREGATA"
+   ],
+   [
+    "3. Energias emergentes",
+    "Energia de potência (ainda não sensível à gravidade) e energia de gravidade (sensível à gravidade do Paraíso)",
+    "ULTIMATA"
+   ],
+   [
+    "4. Poder universal",
+    "Energia sob o controle da gravidade, manejada pelos diretores de potência — vinte e uma das trinta fases",
+    "GRAVITA"
+   ],
+   [
+    "5. Energia de Havona",
+    "O sistema de energia trina do Agente Conjunto",
+    "TRIATA"
+   ],
+   [
+    "6. Energia transcendental",
+    "Opera no nível superior do Paraíso e a partir dele, em relação com os povos absonitos",
+    "TRANOSTA"
+   ],
+   [
+    "7. Monota",
+    "A energia viva, não-espiritual, do Paraíso — o sistema de energia não-espiritual do Pai",
+    "Monota"
+   ]
+  ]
+ },
+ "p042.s2.b2": "O que se destaca é a humildade do autor. Ele está totalmente incerto quanto às causas iniciais da evolução da força, e duvida de que mesmo os diretores de potência compreendam plenamente a função dos organizadores da força. Confessa, também, que o espírito do Paraíso e a monota parecem indistinguíveis. A virtude desta seção é que a revelação não pretende explicar tudo; ela marca honestamente a fronteira do que pode ser conhecido.",
+ "p042.s3.h": "III. A Classificação da Matéria — Dez grandes divisões",
+ "p042.s3.b0": "A matéria é idêntica em todos os universos, com exceção do universo central. As suas propriedades dependem da velocidade de rotação dos membros que a compõem, do número e do tamanho deles, da sua distância do núcleo e de certas forças ainda não descobertas em Urântia. Nos sóis, planetas e corpos espaciais há dez grandes divisões da matéria.",
+ "p042.s3.b1": {
+  "head": [
+   "Divisão",
+   "Onde e em que estado"
+  ],
+  "rows": [
+   [
+    "1. Matéria ultimatômica",
+    "As unidades físicas primordiais que compõem os elétrons"
+   ],
+   [
+    "2. Matéria subeletrônica",
+    "O estágio explosivo e repelente dos supergases solares"
+   ],
+   [
+    "3. Matéria eletrônica",
+    "O estágio elétrico — elétrons, prótons e unidades afins"
+   ],
+   [
+    "4. Matéria subatômica",
+    "O interior dos sóis abrasantes"
+   ],
+   [
+    "5. Átomos fragmentados",
+    "Os sóis em resfriamento e todo o espaço"
+   ],
+   [
+    "6. Matéria ionizada",
+    "Átomos desprovidos dos seus elétrons externos"
+   ],
+   [
+    "7. Matéria atômica",
+    "As unidades da matéria molecular e visível"
+   ],
+   [
+    "8. Matéria molecular",
+    "A matéria relativamente estável de Urântia"
+   ],
+   [
+    "9. Matéria radioativa",
+    "A tendência desorganizadora dos elementos mais pesados"
+   ],
+   [
+    "10. Matéria em colapso",
+    "O interior de sóis frios ou mortos, com as revoluções muito desaceleradas"
+   ]
+  ]
+ },
+ "p042.s4.h": "IV–V. A Energia e as Transmutações da Matéria; Manifestações de Energia Ondulatória",
+ "p042.s4.b0": "A luz, o calor, a eletricidade, o magnetismo, a química, a energia e a matéria são uma só coisa em origem, natureza e destino. A mesma energia pode aparecer como luz em um universo, como calor em outro e, idades depois, como eletricidade ou matéria. Depois da gravidade, é a temperatura que governa essas mudanças: o calor desagrega os átomos, ao passo que o frio organiza os ultímatons em elétrons. E, como a energia só é absorvida ou liberada em quantidades exatas, chamadas quanta, a integridade da matéria é preservada.",
+ "p042.s4.b2": "Orvônton tem uma centena de oitavas de energia de ondas, das quais sessenta e quatro são reconhecidas em Urântia. O autor distribui-as em dez grupos, dos raios infra-ultimatômicos às ondas hertzianas; contudo, o olho humano responde a uma única oitava, a da luz comum do sol. O mundo que vemos é uma faixa muito estreita do mundo que existe, e esse fato ensina humildade.",
+ "p042.s4.b3": "O chamado éter é meramente um nome coletivo para atividades de força e de energia que ocorrem no espaço; ele não existe. Contudo, o espaço nunca é vazio. Mesmo o espaço mais próximo do vazio, em Nébadon, contém cerca de cem ultímatons em cada dezesseis centímetros cúbicos, e tampouco o espaço dentro de um átomo é vazio.",
+ "p042.s5.h": "VI–VIII. Ultímatons, Elétrons e Átomos — Um pequeno universo semelhante ao sistema solar",
+ "p042.s5.b0": "Um elétron típico compõe-se de exatamente cem ultímatons. Os ultímatons respondem apenas à gravidade circular do Paraíso; a gravidade linear torna-se plenamente operante com o aparecimento da organização atômica. A formação de toda a matéria segue o modelo do sistema solar, com os elétrons girando como planetas em torno do próton central. Os universos locais são de construção decimal, de modo que há exatamente cem materializações atômicas, e, sempre que cento e um elétrons foram introduzidos, o centro desagregou-se instantaneamente.",
+ "p042.s5.b1": {
+  "head": [
+   "Zona de elétrons",
+   "Características"
+  ],
+  "rows": [
+   [
+    "Os trinta mais internos",
+    "Têm individualidade, mas os seus sistemas de energia se intermesclam de elétron a elétron"
+   ],
+   [
+    "Os trinta seguintes",
+    "De individualidade mais pronunciada, com um controle mais completo dos seus próprios sistemas de energia"
+   ],
+   [
+    "Os terceiros trinta",
+    "Ainda mais individualizados, circulando em órbitas mais distintas"
+   ],
+   [
+    "Os dez últimos",
+    "Presentes apenas nos elementos mais pesados — a dignidade da independência, escapando facilmente do núcleo"
+   ]
+  ]
+ },
+ "p042.s5.b2": "Nem a força elétrica nem a gravitacional mantêm coeso o núcleo atômico. O mésotron, 180 vezes mais pesado do que o elétron, conserva o núcleo intacto fazendo a carga elétrica passar sem cessar, em um sentido e no outro, entre os prótons e os nêutrons. Mesmo assim, a força que liga próton a próton e nêutron a nêutron continua a ser uma energia ainda não descoberta. E, do vigésimo oitavo átomo em diante, cresce a imprevisibilidade da presença do Absoluto Inqualificável.",
+ "p042.s5.b4": "A estatística pode enunciar leis para grandes números de átomos ou de pessoas, mas nunca para um único átomo ou uma única pessoa. Essa percepção, a de que há lugar para a individualidade até nas profundezas do mundo físico, previne-nos contra reduzir as pessoas a números.",
+ "p042.s6.h": "IX. A Filosofia Natural — Vestígios do sete e do dez",
+ "p042.s6.b0": "A filosofia natural tende a dogmatizar tanto quanto a religião. O número dez, o sistema decimal, é inerente à energia e à matéria, mas o número sete é básico para o universo central e para o sistema espiritual. Quando os elementos são ordenados pelo peso atômico, as suas propriedades se repetem em grupos de sete, e o autor chama a isso uma marca de nascença que o mundo material carrega e que indica a sua longínqua origem espiritual.",
+ "p042.s6.b2": "A filosofia do universo não pode ser construída apenas sobre a observação. A natureza é ao mesmo tempo estável e biologicamente elástica somente por causa da sabedoria quase infinita dos Arquitetos Mestres. Tanto a ciência quanto a fé precisam da atitude de não concluir que algo está ausente simplesmente porque não pode ser visto.",
+ "p042.s7.h": "X–XI. Sistemas Não-Espirituais de Energias Universais (Sistemas de Mente Material); Os Mecanismos do Universo — A mente dentro da máquina",
+ "p042.s7.b0": "A parte final do documento passa da energia à mente. As energias não-espirituais são reassociadas, em vários níveis, nos sistemas vivos de mentes não Criadoras, e a matéria-energia é levada progressivamente ao supercontrole do espírito pelo esforço da mente viva e pessoal.",
+ "p042.s7.b1": {
+  "head": [
+   "Nível da mente",
+   "Conteúdo"
+  ],
+  "rows": [
+   [
+    "Mentes dos espíritos pré-ajudantes",
+    "Mente mecânica, não-experiencial — ministrada pelos Mestres Controladores Físicos"
+   ],
+   [
+    "Mentes dos espíritos ajudantes",
+    "Os sete espíritos ajudantes da mente do Espírito Materno do universo local — experienciados pelo intelecto animal, humano e das criaturas intermediárias"
+   ],
+   [
+    "Mentes moronciais em evolução",
+    "A consciência em expansão da carreira ascendente — respondem aos 570 níveis da vida moroncial"
+   ],
+   [
+    "A mente cósmica",
+    "A mente sétupla ministrada pelos Sete Espíritos Mestres — engloba todos os níveis da mente finita"
+   ]
+  ]
+ },
+ "p042.s7.b2": "O universo não é mecânico nem mágico; é uma criação da mente e um mecanismo de lei. Mas a mente que o governa é a mente do espírito, funcionando nos níveis criadores, de modo que os métodos científicos finitos dificilmente conseguem discernir sequer um vestígio dela. O princípio é que, quanto mais elevada a mente por trás de um fenômeno, mais difícil é para as mentes inferiores descobri-la.",
+ "p042.s7.b4": "A espiritualidade no tempo e no espaço é medida na proporção inversa da sensibilidade à gravidade linear. A mente material humana é sensível às interações da gravidade e só perde essa sensibilidade à proporção que se identifica com o espírito. O próprio fato de os mecanismos não serem fixos, mas evoluírem, aponta para a predominância de uma mente com propósito.",
+ "p042.s8.h": "XII. Modelo e Forma — O Predomínio da Mente: O espírito tem um corpo",
+ "p042.s8.b0": "A capacidade humana de projetar máquinas mostra a superioridade da mente criativa. A mente estende-se desde a criação de mecanismos materiais, passando pela descoberta de mistérios, pela formulação de sistemas mentais e pela conquista dos níveis de sabedoria e de espírito, até a realização dos destinos divinos — supremo, último e absoluto. A mente é também sempre criativa e produz um corpo adequado à identidade de cada criatura.",
+ "p042.s8.b1": "Também a maioria dos seres espirituais tem formas reais, e as formas moronciais diferem umas das outras tal como os corpos humanos. Há exceções, como os Ajustadores do Pensamento, que parecem não ter forma até se fusionarem com a alma. O momento mais notável da seção é uma inversão de perspectiva. Nós pensamos no corpo como tendo um espírito; o autor considera que é o espírito que tem um corpo.",
+ "p042.s9.h": "Conclusão — Viver este documento",
+ "p042.s9.b0": "O documento 42 desce dos ultímatons aos átomos e depois sobe de novo até a mente e o espírito. A energia vem do Paraíso e ao Paraíso retorna; a matéria é dominada pela mente, e a mente pelo supercontrole do espírito. Para os mortais, a esperança de sobrevivência está em uma mente que segue livremente o direcionamento do espírito. Estudar o mundo físico torna-se, assim, um modo de encontrar o nosso próprio lugar dentro dessa ordem.",
+ "p042.s9.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Ao olhar a natureza e a ciência, lembre-se da fonte pessoal que está por trás delas",
+    "Toda a energia-força está sob o controle último de um Deus pessoal"
+   ],
+   [
+    "Não classifique as pessoas por estatísticas ou tipos",
+    "Os átomos são semelhantes a pessoas quanto à previsibilidade"
+   ],
+   [
+    "Mantenha a mente aberta, sem negar o que ela não pode ver",
+    "A borboleta que se desenvolve a partir de uma lagarta"
+   ],
+   [
+    "Cuide do corpo sem tomá-lo pelo todo de si mesmo",
+    "O espírito é o arquiteto, a mente é o construtor, o corpo é a edificação"
+   ],
+   [
+    "Confie a cada dia os seus pensamentos e as suas escolhas à condução do espírito",
+    "Só a mente que se submete ao direcionamento do espírito pode almejar sobreviver"
+   ]
+  ]
+ },
+ "p042.s9.b2": "O documento 43 passa desse relato físico e cósmico para o cenário da administração do universo local e conduz o leitor às constelações e ao seu mundo-sede, Edêntia.",
+ "p043.lead": "Edêntia, sede-central da constelação de Norlatiadeque: centro da elaboração das leis, jardim de Deus e ponto médio do aperfeiçoamento moroncial, onde os mortais ascendentes aprendem a verdadeira socialização.",
+ "p043.foot": {
+  "text": "Promovido por Malavatia Melquisedeque",
+  "ref": "43:9.6"
+ },
+ "p043.s0.h": "Introdução — A constelação no nosso endereço",
+ "p043.s0.b0": "Em geral, Urântia é chamada “⟦Q 43:0.1⟧o 606 de Satânia, em Norlatiadeque de Nébadon⟦/Q⟧”: o seiscentésimo sexto mundo habitado do sistema de Satânia, dentro de Norlatiadeque, uma das cem constelações do universo local de Nébadon. O documento 43 apresenta o degrau intermediário desse endereço, a **constelação**. As constelações são as divisões primárias de um universo local, o elo que liga os sistemas locais à administração do universo em Sálvington.",
+ "p043.s0.b1": {
+  "head": [
+   "Divisão",
+   "Nome",
+   "Função"
+  ],
+  "rows": [
+   [
+    "Universo local",
+    "Nébadon — sede-central em Sálvington",
+    "Autoridade judicial suprema e coordenadora"
+   ],
+   [
+    "Constelação",
+    "Norlatiadeque — sede-central em Edêntia",
+    "Unidade legislativa, ou elaboradora de leis"
+   ],
+   [
+    "Sistema local",
+    "Satânia — sede-central em Jerusém",
+    "Unidade de execução, ou de imposição das leis"
+   ],
+   [
+    "Mundo habitado",
+    "Urântia (606 de Satânia)",
+    "Onde os mortais nascem"
+   ]
+  ]
+ },
+ "p043.s0.b2": "Edêntia é cerca de cem vezes maior do que Urântia. Setenta esferas maiores giram em torno dela, e dez satélites giram em torno de cada uma destas, perfazendo ao todo 771 esferas arquitetônicas. Como a constelação é o ponto médio do regime de aperfeiçoamento moroncial, a sua vida moroncial é ao mesmo tempo típica e ideal.",
+ "p043.s1.h": "I. As Sedes Centrais das Constelações — Um mundo sem tempestades nem inverno",
+ "p043.s1.b0": "Edêntia tem planaltos fascinantes, dezenas de milhares de lagos e incontáveis arroios que se intercomunicam, mas não tem cadeias de montanhas escarpadas nem grandes oceanos. A sua atmosfera é uma mistura de três gases — os dois elementos do ar de Urântia mais um gás moroncial — e, como não há tempestades nem estações, todos os ambientes externos podem ser embelezados. Perto do centro administrativo fica o mar de vidro, um cristal de cerca de cento e sessenta quilômetros de circunferência, que serve de campo de recepção.",
+ "p043.s1.b1": "Nos cumes da sétima cadeia de planaltos erguem-se as salas de ressurreição, onde acordam os mortais da ordem secundária modificada de ascensão. Os Melquisedeques mantêm uma escola de emergência, que estuda os problemas da rebelião de Satânia, e uma escola de auto-outorga, que trata dos problemas surgidos com a auto-outorga final de Michael. A escola de auto-outorga foi fundada há quase quarenta mil anos, imediatamente depois de Michael anunciar que Urântia havia sido escolhida como o mundo da sua auto-outorga.",
+ "p043.s2.h": "II. O Governo da Constelação — Uma unidade legislativa autônoma",
+ "p043.s2.b0": "Cada constelação é uma unidade autônoma, administrada de acordo com os seus próprios atos legislativos. Os problemas judiciais são primeiramente revistos por um conselho de doze Melquisedeques, que formulam veredictos provisórios e os encaminham à corte dos Altíssimos. A divisão mortal dessa corte consiste em sete juízes, todos eles mortais ascendentes.",
+ "p043.s2.b2": {
+  "head": [
+   "Corpo legislativo",
+   "Composição",
+   "Função"
+  ],
+  "rows": [
+   [
+    "Casa mais baixa, dos ascendentes",
+    "Mil representantes mortais (dez de cada sistema), presididos por um finalitor",
+    "Onde se origina o programa legislativo"
+   ],
+   [
+    "Câmara média",
+    "Cem serafins e outros filhos do Espírito Materno",
+    "Representa o ponto de vista das hostes angélicas"
+   ],
+   [
+    "Câmara dos pares (casa mais alta)",
+    "Dez Filhos divinos escolhidos pelos Altíssimos",
+    "Serviço de averiguação dos fatos e de economia de tempo para as duas divisões inferiores"
+   ],
+   [
+    "Conselho combinado dos legisladores",
+    "Três de cada ramo, presididos pelo Altíssimo júnior",
+    "Sanciona a forma final — os atos legislativos tornam-se lei"
+   ]
+  ]
+ },
+ "p043.s2.b3": "É notável que a elaboração das leis comece pela voz dos mortais. A experiência adquirida por aqueles que subiram desde os níveis mais baixos é honrada como matéria para as leis do universo. Em Edêntia, porém, a casa mais baixa, dos ascendentes, ainda não está totalmente preenchida.",
+ "p043.s3.h": "III. Os Altíssimos de Norlatiadeque — Governantes nos reinos dos homens",
+ "p043.s3.b0": "Os governantes da constelação são Filhos da ordem dos Vorondadeques, chamados **Altíssimos** porque incorporam a mais alta sabedoria administrativa e a lealdade mais inteligente. Nenhuma deslealdade de um Filho Vorondadeque jamais ocorreu em Nébadon. Gabriel designa pelo menos três para cada constelação, e um Pai da Constelação reina por dez mil anos-padrão, cerca de 50 000 anos de Urântia.",
+ "p043.s3.b1": "Os antigos registros de Urântia usaram muitas vezes o termo “Altíssimo”, mas confundiram a quem ele se referia. Deidades tribais foram misturadas a ele, e os hebreus fundiram os vários governantes celestes em uma Deidade composta. Mas Daniel, diz o autor, compreendeu plenamente essa questão.",
+ "p043.s3.b3": "Os Pais da Constelação ocupam-se pouco dos indivíduos, mas estão intimamente ligados à elaboração das leis que afetam as raças e as nações. Na época da secessão de Lúcifer, tomaram posse de certas fases da autoridade planetária nos mundos rebeldes e, durante a auto-outorga de Michael, supervisionaram diretamente todos os assuntos de Urântia ligados a ela. Por isso Urântia mantém uma relação singularmente estreita com os governantes da constelação.",
+ "p043.s4.h": "IV. O Monte da Assembléia — Os Fiéis dos Dias",
+ "p043.s4.b0": "O santíssimo monte da assembléia é a morada do Fiel dos Dias, o representante da Trindade do Paraíso. Ele permanece sempre à mão direita dos Pais da Constelação, mas nunca oferece conselho a menos que lhe seja solicitado. A sua residência é modesta em comparação com as casas dos Altíssimos, e ali os mortais ascendentes se reúnem para ouvir a história da longa jornada através de Havona até o Paraíso.",
+ "p043.s4.b1": "Lúcifer cobiçou esse monte. Propôs-se exaltar o seu trono acima dos Filhos de Deus e assentar-se no monte da assembléia, no norte. Mesmo depois da rebelião, os arqui-rebeldes continuaram a comparecer aos conselhos de Edêntia, até que Michael assumiu a soberania ilimitada; desde então, não lhes foi mais permitido sentar-se ali. Pouco antes da morte de Michael na carne, Satã procurou comparecer de novo e foi rejeitado por unanimidade.",
+ "p043.s4.b3": "Essa frase merece ser lida no plano de uma comunidade. O mal raramente entra à força; entra por onde foi deixada aberta uma porta de simpatia. Quando o sentimento de toda uma comunidade se mantém firme ao lado da verdade, a agitação em favor do mal não encontra onde se apoiar.",
+ "p043.s5.h": "V. Os Pais de Edêntia, Desde a Rebelião de Lúcifer",
+ "p043.s5.b0": "A rotação dos Altíssimos ficou suspensa na época da rebelião, e o governo atual foi ampliado para doze Filhos Vorondadeques. O atual Pai da Constelação tem o número 617 318 da série Vorondadeque de Nébadon. Cada mundo isolado tem um observador Vorondadeque, e um deles está estacionado em Urântia desde a traição de Caligástia; Maquiventa Melquisedeque prestou-lhe honra respeitosa.",
+ "p043.s5.b1": {
+  "head": [
+   "Cargo",
+   "Dever"
+  ],
+  "rows": [
+   [
+    "1–3. O Pai da Constelação, com os colaboradores sênior e júnior",
+    "O trio governante original"
+   ],
+   [
+    "4. O conselheiro Altíssimo",
+    "Representante pessoal de Michael como Filho Mestre"
+   ],
+   [
+    "5. O executivo Altíssimo",
+    "Representante de Gabriel, posto ali desde a rebelião"
+   ],
+   [
+    "6. O Altíssimo dirigente dos observadores planetários",
+    "Diretor dos observadores nos mundos isolados de Satânia"
+   ],
+   [
+    "7. O árbitro Altíssimo",
+    "Ajusta as dificuldades conseqüentes da rebelião"
+   ],
+   [
+    "8. O Altíssimo administrador emergencial",
+    "Adapta os atos legislativos emergenciais aos mundos isolados"
+   ],
+   [
+    "9. O mediador Altíssimo",
+    "Harmoniza os ajustes especiais da auto-outorga de Urântia com a administração de rotina"
+   ],
+   [
+    "10. O juiz-advogado Altíssimo",
+    "Dirige o tribunal de emergência para os problemas da rebelião"
+   ],
+   [
+    "11. O agente de ligação Altíssimo",
+    "Conselheiro especial junto ao Fiel dos Dias nas questões da rebelião"
+   ],
+   [
+    "12. O diretor Altíssimo",
+    "Presidente do conselho de emergência de Edêntia"
+   ]
+  ]
+ },
+ "p043.s5.b2": "Essa lista mostra o grande custo administrativo que uma única rebelião deixou atrás de si. Mostra também que o universo não abandona os mundos feridos, mas os cerca de cuidados especiais.",
+ "p043.s6.h": "VI–VII. Os Jardins de Deus; Os Univitátias",
+ "p043.s6.b0": "As capitais dos sistemas são adornadas com edificações materiais, e a sede-central do universo reflete a glória espiritual, mas as capitais das constelações são o ponto alto do embelezamento vivo. Cerca da metade de Edêntia é dedicada aos jardins dos Altíssimos, e é por isso que tais mundos são chamados de “⟦Q 43:6.1⟧os jardins de Deus⟦/Q⟧” e que os lugares belos dos mundos de Norlatiadeque são tão freqüentemente chamados de “⟦Q 43:6.2⟧o jardim do Éden⟦/Q⟧”. No santuário que fica no centro do jardim, os Altíssimos conduzem toda a Edêntia, a cada décimo dia, à contemplação adoradora de Deus, o Supremo.",
+ "p043.s6.b2": "A vida material divide-se ali em dez divisões: as três primeiras nós chamaríamos de vegetais e as três últimas de animais, mas as quatro do meio ultrapassam a nossa imaginação. Não há criaturas carnívoras, e os animais são gentis e inteligentes. Os artesãos celestes expressam os seus ideais não em tinta e mármore, mas em materiais vivos.",
+ "p043.s6.b5": "Os cidadãos permanentes da constelação, os **univitátias**, são filhos do Filho Criador e do Espírito Criativo. Vivem em um plano entre o material e o espiritual, e contudo não são criaturas moronciais. Espiritualmente são semelhantes, intelectualmente variam, e funcionam em setenta ordens de personalidade. Em habilidade artística e adaptabilidade social, quase nenhum ser fora de Havona se iguala a eles.",
+ "p043.s7.h": "VIII–IX. Os Mundos de Aperfeiçoamento de Edêntia; A Cidadania em Edêntia — A verdadeira socialização",
+ "p043.s7.b0": "O tempo passado nos setenta mundos de aperfeiçoamento é o período mais estável de toda a carreira ascendente. Passa-se por uma ressintonização a cada mudança para um novo mundo, mas conserva-se o mesmo corpo moroncial e nunca se perde a consciência. A tarefa desse período é a **ética grupal**: o segredo do relacionamento agradável e profícuo entre personalidades muito diferentes.",
+ "p043.s7.b1": {
+  "head": [
+   "Etapa da ascensão",
+   "O que se alcança"
+  ],
+  "rows": [
+   [
+    "Mundos das mansões",
+    "Unificação da personalidade mortal em evolução"
+   ],
+   [
+    "Jerusém, a capital do sistema",
+    "Cidadania — a boa vontade de submeter o ego às disciplinas das atividades em grupo"
+   ],
+   [
+    "Mundos de aperfeiçoamento da constelação",
+    "A socialização real da personalidade moroncial"
+   ],
+   [
+    "Esferas de Sálvington",
+    "De ser moroncial ao status de verdadeiro espírito"
+   ]
+  ]
+ },
+ "p043.s7.b2": {
+  "head": [
+   "Sete lições de socialização",
+   "Conteúdo"
+  ],
+  "rows": [
+   [
+    "1",
+    "Viver com felicidade e trabalhar eficazmente com dez companheiros moronciais diversos"
+   ],
+   [
+    "2",
+    "Cooperar sinceramente com dez univitátias, que são seres muito diferentes"
+   ],
+   [
+    "3",
+    "Ajustar-se simultaneamente aos dois grupos"
+   ],
+   [
+    "4",
+    "Alcançar a harmonia intelectual e o ajuste vocacional com os dois grupos de colaboradores"
+   ],
+   [
+    "5",
+    "Viver em contato íntimo com seres diferentes, com irritabilidade e ressentimento cada vez menores"
+   ],
+   [
+    "6",
+    "Ajustar essas técnicas à carreira do Paraíso e ampliar a visão do universo"
+   ],
+   [
+    "7",
+    "Coroar essa multissocialização com um discernimento espiritual engrandecido"
+   ]
+  ]
+ },
+ "p043.s7.b4": "Depois de se graduarem no septuagésimo mundo, os ascendentes tornam-se cidadãos de Edêntia. Nos mundos do sistema, eram mais materiais do que espirituais, e em Sálvington serão mais espirituais do que materiais; em Edêntia, estão a meio caminho entre o animal evolucionário e o espírito ascendente. Os Altíssimos ocupam-se menos do avanço individual do que do bem-estar dos grupos e das nações.",
+ "p043.s8.h": "Conclusão — Viver este documento",
+ "p043.s8.b0": "Embora o documento 43 descreva a estrutura administrativa do universo, no fim ele apresenta a constelação como o lugar onde aprendemos a viver juntos. A lei começa pelos representantes mortais; o mal perde o seu poder quando as portas da simpatia se fecham; e o crescimento se multiplica quando seres diferentes trabalham juntos. O atrito entre as pessoas, que encontramos em Urântia, pode ser visto como o primeiro exercício da socialização que será completada em Edêntia.",
+ "p043.s8.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Não evite as ocasiões de trabalhar em equipe com pessoas diferentes de você",
+    "Viver com felicidade e trabalhar com dez companheiros diversos"
+   ],
+   [
+    "Recuse-se a tomar parte em mexericos e agitações",
+    "Onde nenhuma porta está aberta ao mal, o pecado não tem oportunidade"
+   ],
+   [
+    "Crie pequenos hábitos que diminuam a irritação e o ressentimento",
+    "Socialização com irritabilidade e ressentimento cada vez menores"
+   ],
+   [
+    "Aprenda e sirva ao lado de bons companheiros",
+    "A associação chega perto de quadruplicar as possibilidades"
+   ],
+   [
+    "Cultive e desfrute a beleza viva",
+    "Os jardins de Deus — o embelezamento vivo"
+   ]
+  ]
+ },
+ "p043.s8.b2": "O documento 44 apresenta os artesãos celestes que trabalham com os ascendentes nos mundos da constelação, e desdobra com mais detalhes o mundo de beleza entrevisto neste documento.",
+ "p044.lead": "Os mundos moronciais e espirituais têm artes elevadas e culturas próprias: as sete divisões dos artesãos celestes e a promessa de que os anseios mortais não realizados serão satisfeitos.",
+ "p044.foot": {
+  "text": "Ditado por um Arcanjo de Nébadon",
+  "ref": "44:8.7"
+ },
+ "p044.s0.h": "Introdução — Existe arte no mundo do espírito?",
+ "p044.s0.b0": "O documento 44, ditado por um Arcanjo de Nébadon, trata dos **artesãos celestes**, os artistas e artesãos mestres dos reinos moronciais e dos reinos espirituais inferiores. Eles se encontram nos mundos-sede de todo o grande universo, mas o seu principal campo de atividade são as constelações, especialmente os setecentos e setenta mundos que circundam cada esfera sede-central.",
+ "p044.s0.b2": "Os artesãos celestes não são criados como tais. São um corpo que começou com sete mil instrutores de Havona, designados pelo Espírito Infinito em colaboração com os Sete Espíritos Mestres, aos quais se juntaram alunos voluntários vindos dos mortais ascendentes e de muitos grupos celestes. Qualquer personalidade moroncial ou espírito abaixo da categoria de filiação divina inerente pode ingressar, mas ninguém pode alistar-se por menos de um milênio.",
+ "p044.s0.b3": {
+  "head": [
+   "Sete divisões",
+   "Com que trabalham"
+  ],
+  "rows": [
+   [
+    "1. Músicos Celestes",
+    "A harmonia feita de som espiritual, luz, cor e pensamento"
+   ],
+   [
+    "2. Reprodutores Celestes",
+    "Reencenar o passado e a experiência, e projetá-los no futuro"
+   ],
+   [
+    "3. Construtores Divinos",
+    "Casas, oficinas, templos, escolas e salas de assembléia"
+   ],
+   [
+    "4. Registradores de Pensamentos",
+    "Preservar e difundir pensamentos e conceitos superiores"
+   ],
+   [
+    "5. Manipuladores da Energia",
+    "As energias físicas, mentais e espirituais, e o repouso"
+   ],
+   [
+    "6. Desenhistas e Ornamentadores",
+    "A beleza da cor, do som, da emoção, do aroma e do gosto"
+   ],
+   [
+    "7. Trabalhadores da Harmonia",
+    "Organizar forças especializadas que os mortais não percebem"
+   ]
+  ]
+ },
+ "p044.s1.h": "A questão da realidade — O que é real, e para quem?",
+ "p044.s1.b0": "Antes do tema principal, o Arcanjo estabelece uma premissa importante. As atividades dos mundos moronciais e espirituais são reais. Para os seres do espírito, na verdade, o mundo material é que é o mais irreal, uma mera sombra. Ele admite que não pode, apenas com a visão do espírito, perceber o próprio edifício em que esta narrativa está sendo traduzida e registrada; discerne-o por meio de uma contraparte espiritual apresentada por um transformador de energia.",
+ "p044.s1.b2": "Segue-se uma promessa calorosa. No caminho da ascensão, nunca perderemos o poder de reconhecer os nossos companheiros de etapas anteriores. Cada nova translação ou ressurreição acrescenta novos seres à nossa visão, sem nos privar em nada da capacidade de reconhecer os velhos amigos. Isso é possível porque os Ajustadores retêm duplicações da experiência de toda a nossa vida.",
+ "p044.s1.b4": "O Arcanjo é franco também quanto aos seus limites. Para transmitir o significado dessas atividades semi-espirituais, precisa deturpar constantemente o pensamento e distorcer a linguagem, e prossegue sabendo que não poderá ter grande êxito. Tudo o que espera é deixar bem marcado o fato de que essas coisas são reais. Por isso as listas deste documento devem ser lidas como um “paralelismo grosseiro”, mais do que como uma descrição precisa.",
+ "p044.s2.h": "I. Os Músicos Celestes — A harmonia é a linguagem de Havona",
+ "p044.s2.b0": "As melodias do espírito não são ondas sonoras materiais, mas pulsações do espírito recebidas pelos espíritos das personalidades celestes. Os músicos celestes produzem a harmonia manejando as sete forças do espírito relacionadas abaixo, e há mais de cem mil modos diferentes de manipulação do som, da cor e da energia.",
+ "p044.s2.b1": {
+  "head": [
+   "Forma",
+   "Conteúdo"
+  ],
+  "rows": [
+   [
+    "O som espiritual",
+    "As interrupções da corrente do espírito"
+   ],
+   [
+    "A luz espiritual",
+    "O controle e a intensificação da luz dos reinos moroncial e espiritual"
+   ],
+   [
+    "As imposições de energia",
+    "A melodia produzida pelo manejo das energias moroncial e espiritual"
+   ],
+   [
+    "As sinfonias de cor",
+    "A melodia das nuances das cores moronciais — uma das suas realizações mais elevadas"
+   ],
+   [
+    "A harmonia de espíritos interligados",
+    "O próprio arranjo e a associação dos seres tornam-se melodia"
+   ],
+   [
+    "A melodia do pensamento",
+    "O pensar espiritual aperfeiçoado faz irromper as melodias de Havona"
+   ],
+   [
+    "A música do espaço",
+    "Melodias de outras esferas captadas nos circuitos das teletransmissões"
+   ]
+  ]
+ },
+ "p044.s2.b2": "A apreciação musical em Urântia vem melhorando de modo constante há mais de trinta e cinco mil anos; contudo, a maioria das pessoas ainda reage em grande parte com os músculos e só ligeiramente com a mente e o espírito. O dom da harmonia de Adão e Eva ficou tão diluído que apenas uma vez em mil vidas há uma grande apreciação da harmonia. Mas o Arcanjo diz que não se deve desanimar: um músico de verdade poderia mudar o curso de toda uma nação, ou mesmo de todo o mundo civilizado.",
+ "p044.s2.b3": "Ele observa que o sincopado melodioso, que desperta o ritmo sem envolver os poderes mais elevados de apreciação da harmonia, atrai de modo mais geral os indivíduos imaturos ou espiritualmente indolentes. Mesmo a melhor música de Urântia é apenas um eco fugaz dos acordes celestes, e reduzi-los a notas é como tentar reproduzir uma grande orquestra com um único instrumento.",
+ "p044.s3.h": "II–III. Os Reprodutores Celestes; Os Construtores Divinos — As artes de recordar e de construir",
+ "p044.s3.b0": "O mundo espírito-moroncial tem mil e uma coisas dignas de ser reproduzidas que são desconhecidas em Urântia. Os reprodutores celestes preservam-nas e reencenam-nas em sete grupos. O Arcanjo fala de uma apresentação recente, em que mais de um milhão de atores produziu uma sucessão de mil cenas.",
+ "p044.s3.b1": {
+  "head": [
+   "Grupo de reprodutores",
+   "O que fazem"
+  ],
+  "rows": [
+   [
+    "Os cantores",
+    "Reiteram as harmonias do passado e interpretam as melodias do presente"
+   ],
+   [
+    "Os trabalhadores da cor",
+    "Preservam as cenas passageiras em luz e sombra"
+   ],
+   [
+    "Os cineastas da luz",
+    "Preservações semi-espirituais, das quais a cinematografia é uma ilustração grosseira"
+   ],
+   [
+    "Os encenadores históricos",
+    "Reproduzem com dramaticidade os eventos cruciais da história do universo"
+   ],
+   [
+    "Os artistas proféticos",
+    "Projetam no futuro os significados da história"
+   ],
+   [
+    "Os contadores da história da vida",
+    "Perpetuam o significado da experiência da vida como valores futuros"
+   ],
+   [
+    "Os intérpretes administrativos",
+    "Dramaturgos celestes da soberania, que retratam a filosofia governamental"
+   ]
+  ]
+ },
+ "p044.s3.b2": "Os construtores divinos constroem casas individuais, oficinas, edificações recreativas, templos de adoração, sedes educacionais, planos de coordenação moroncial e salas de assembléia públicas. Todo ser espiritual pode participar, em certa medida, do planejamento da sua própria morada, e os mundos de transição têm uma economia de ministração mútua e de divisão do trabalho. Os templos de adoração são as criações mais primorosas das esferas moronciais e espirituais.",
+ "p044.s4.h": "IV. Os Registradores de Pensamentos — Guardiães das preciosidades do pensamento",
+ "p044.s4.b0": "Os registradores de pensamentos preservam o pensamento superior dos reinos na língua de Uversa. Cada superuniverso e cada universo local tem a sua própria língua, e as ordens mais elevadas de Nébadon são bilíngües. Os registradores especializados podem registrar o equivalente a mais de meio milhão de símbolos de pensamento em um minuto; os símbolos de conceitos de Uversa são mais de um bilhão, embora o alfabeto básico tenha apenas setenta.",
+ "p044.s4.b1": "No universo central, o entendimento é tão completo que quase não há necessidade de língua; um encontro casual no Paraíso revela mais compreensão mútua do que uma língua mortal poderia comunicar em mil anos. Na língua de Nébadon, um discurso de meia hora poderia cobrir a matéria de toda uma vida humana, e o Arcanjo sugere que pensemos nos sonhos em que atravessamos anos de experiência em poucos segundos.",
+ "p044.s4.b3": {
+  "head": [
+   "Grupo de registradores",
+   "O que fazem"
+  ],
+  "rows": [
+   [
+    "Os preservadores do pensamento",
+    "Preservam o pensamento mais elevado dos reinos"
+   ],
+   [
+    "Os registradores de conceitos",
+    "Preservam as imagens dos conceitos, os modelos das idéias"
+   ],
+   [
+    "Os registradores ideográficos",
+    "Aprimoram mil vezes o trabalho dos registradores de conceitos"
+   ],
+   [
+    "Os promotores da oratória",
+    "Preservam o pensamento para a reprodução pela oratória"
+   ],
+   [
+    "Os diretores de teledifusão",
+    "Editam e traduzem as transmissões do Paraíso, dos superuniversos e dos universos locais"
+   ],
+   [
+    "Os registradores do ritmo",
+    "Algo como poetas, mas transcendendo-os quase infinitamente"
+   ],
+   [
+    "Os registradores da morôncia",
+    "Os “fotógrafos de grupo” dos mundos de transição"
+   ]
+  ]
+ },
+ "p044.s4.b4": "É significativo que o Arcanjo tenha visto os registros da ideação de algumas das grandes mentes deste planeta antes mesmo de vir para cá. Os pensamentos nobres das pessoas não desaparecem; são guardados como tesouros do universo. Aquilo que escolhemos pensar dura mais do que supomos.",
+ "p044.s5.h": "V–VII. Os Manipuladores da Energia; Os Desenhistas e Ornamentadores; Os Trabalhadores da Harmonia",
+ "p044.s5.b0": "Os manipuladores da energia lidam com a energia física, a mental e a espiritual. A energia espiritual atua de acordo com leis estabelecidas, exatamente como a energia física. Os manipuladores compostos unem as três energias e procuram descobrir a presença, no universo, de Deus, o Supremo. Urântia é servida por setenta conselheiros de transporte e doze peritos em comunicação. Os mestres do repouso ensinam que mesmo os seres espirituais devem entrar periodicamente no descanso divino para recuperar as suas energias.",
+ "p044.s5.b2": "Repouso não é ociosidade. Assim como os peregrinos que atravessaram os círculos de Havona entram no longo e revigorante repouso do Paraíso, o descanso é uma técnica necessária para repor a energia gasta e armazenar reservas de força espiritual para a etapa seguinte.",
+ "p044.s5.b3": "Os desenhistas e ornamentadores trabalham em mais de mil subdivisões: artesãos da cor, programadores do som, modeladores da emoção, artistas do aroma, embelezadores da presença, modeladores do gosto e sintetizadores moronciais. O trabalho dos trabalhadores da harmonia, diz o Arcanjo, não tem absolutamente nenhuma base de comparação. Contudo, o que não pode ser descrito ainda pode ser sugerido, e ele mostra o parentesco entre a verdade, a beleza e a bondade.",
+ "p044.s5.b5": {
+  "head": [
+   "Grupo",
+   "Relação"
+  ],
+  "rows": [
+   [
+    "Beleza · ritmo · harmonia",
+    "Intelectualmente associados e espiritualmente afins"
+   ],
+   [
+    "Verdade · fato · relação",
+    "Intelectualmente inseparáveis e associados aos conceitos da beleza"
+   ],
+   [
+    "Bondade · retidão · justiça",
+    "Filosoficamente inter-relacionadas e espiritualmente ligadas à verdade viva e à beleza divina"
+   ]
+  ]
+ },
+ "p044.s5.b6": "Seja na arte, na ciência ou na filosofia, a verdadeira alma da expressão permanece ausente, a menos que as realidades da verdade, os significados da beleza e os valores da bondade estejam unificados na vida de quem se expressa. Essas três qualidades estão perfeitamente unificadas em Deus, e todo homem ou anjo conhecedor de Deus possui o potencial de uma auto-expressão ilimitada, ao combiná-las na experiência.",
+ "p044.s6.h": "VIII. As Aspirações Mortais e as Realizações Moronciais",
+ "p044.s6.b0": "Os artesãos celestes às vezes descem das sedes-centrais do sistema para ajudar os mortais dotados, trabalhando junto com os serafins. O Arcanjo aponta três fontes da habilidade humana especial.",
+ "p044.s6.b1": {
+  "head": [
+   "Fonte da habilidade especial",
+   "Conteúdo"
+  ],
+  "rows": [
+   [
+    "A aptidão natural",
+    "Sempre a base — uma fundação ancestral para todo talento"
+   ],
+   [
+    "A condução do Ajustador",
+    "Acrescenta-se quando o Ajustador teve experiência real nesse domínio em outros mundos"
+   ],
+   [
+    "A ajuda dos artesãos do espírito",
+    "Quando tanto a mente quanto o Ajustador são hábeis, eles harmonizam e inspiram o talento"
+   ]
+  ]
+ },
+ "p044.s6.b3": "O documento termina com um profundo consolo. Não há castas entre os artesãos do espírito; por mais humilde que seja a sua origem, quem tiver habilidade receberá o devido reconhecimento. As limitações da hereditariedade e as privações do ambiente são compensadas na carreira moroncial. Se algo que você ansiou fazer na terra, e que as circunstâncias lhe negaram, ainda for o seu desejo depois de adquirir o verdadeiro discernimento da mota, você terá todas as oportunidades de realizá-lo.",
+ "p044.s6.b5": "Isso não significa que todos se tornem iguais. Trata-se de uma igualdade de satisfação; a individualidade da habilidade e da expressão não é apagada, e as ambições egoístas aprendem a socializar-se.",
+ "p044.s7.h": "Conclusão — Viver este documento",
+ "p044.s7.b0": "O documento 44 mostra que o caminho da ascensão não é uma disciplina árida, mas uma jornada de cultura, cheia de música e de cor, de histórias e de arquitetura, de recreação e de repouso. Diz-nos também que as raízes dessa beleza são uma só coisa com a verdade e a bondade, e que os sonhos não realizados não são jogados fora. A pequena arte e o pequeno cuidado que oferecemos agora tornam-se os primeiros estudos para essa cultura maior.",
+ "p044.s7.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a sustenta"
+  ],
+  "rows": [
+   [
+    "Ouça boa música com a mente e o espírito, não só com o corpo",
+    "A harmonia é a linguagem de Havona"
+   ],
+   [
+    "Registre e compartilhe pensamentos nobres",
+    "Os registradores de pensamentos entesouram as preciosidades do pensamento"
+   ],
+   [
+    "Em vez de se gabar do talento, lembre-se da herança e da ajuda que estão por trás dele",
+    "A habilidade especial nunca é um dom arbitrário"
+   ],
+   [
+    "Busque juntas a verdade, a beleza e a bondade no trabalho e na expressão",
+    "Sem unificação, a verdadeira alma da expressão permanece ausente"
+   ],
+   [
+    "Não desanime por causa dos sonhos não realizados",
+    "Não há privação que a carreira moroncial não vá compensar"
+   ],
+   [
+    "Trate o repouso como um tempo de receber energia espiritual",
+    "O descanso divino é uma técnica de absorção da energia do espírito"
+   ]
+  ]
+ },
+ "p044.s7.b2": "O documento 45 volta-se para o sistema local e apresenta Jerusém, a sede-central de Satânia, a sua administração e os mundos em que os mortais ascendentes aprendem pela primeira vez a cidadania do universo."
+}

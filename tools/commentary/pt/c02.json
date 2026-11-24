@@ -592,7 +592,7 @@
   "ref": "10:8.10"
  },
  "p010.s0.h": "Introdução — A única inevitabilidade no universo",
- "p010.s0.b0": "Tendo considerado sucessivamente o Filho e o Espírito do documento 6 ao documento 9, *O Livro de Urântia* trata agora da **Trindade do Paraíso**, que une os três. Escrito por um Censor Universal, o documento começa com a afirmação de que a Trindade liberta o Pai do absolutismo da personalidade. Por causa do Filho e do Espírito e dos filhos deles, o Pai fica liberado das limitações que, de outro modo, seriam inerentes à primazia, à perfeição, à imutabilidade e à infinitude.",
+ "p010.s0.b0": "Tendo considerado sucessivamente o Filho e o Espírito do documento 6 ao documento 9, O Livro de Urântia trata agora da **Trindade do Paraíso**, que une os três. Escrito por um Censor Universal, o documento começa com a afirmação de que a Trindade liberta o Pai do absolutismo da personalidade. Por causa do Filho e do Espírito e dos filhos deles, o Pai fica liberado das limitações que, de outro modo, seriam inerentes à primazia, à perfeição, à imutabilidade e à infinitude.",
  "p010.s0.b1": "A Trindade é a unidade da Deidade. Ela repousa eternamente sobre a unicidade divina de três pessoas originais, coordenadas e coexistentes: Deus, o Pai, Deus, o Filho, e Deus, o Espírito. Olhando para trás, para o passado sem fim, o autor confessa que só consegue descobrir uma inevitabilidade inescapável nos assuntos do universo, e essa é a Trindade.",
  "p010.s0.b3": "Dada a Trindade, os assuntos do universo podem ser conduzidos de muitas maneiras diferentes. Sem ela, porém, não há como conceber de que modo o Infinito poderia aparecer como três pessoas coordenadas sem perder a unidade absoluta da Deidade. A força do conceito da Trindade está em manter juntas a absolutez da unidade e a liberdade de três pessoas.",
  "p010.s1.h": "I. A Autodistribuição da Primeira Fonte e Centro",
@@ -1217,5 +1217,394 @@
    ]
   ]
  },
- "p012.s10.b2": "Os documentos 13 e 14 voltam-se para a parte mais interior deste mapa: as esferas sagradas do Paraíso e o perfeito universo central de Havona. Com os seis níveis deste documento em mente, é fácil acompanhar que parte do mapa cada um desses documentos ilumina."
+ "p012.s10.b2": "Os documentos 13 e 14 voltam-se para a parte mais interior deste mapa: as esferas sagradas do Paraíso e o perfeito universo central de Havona. Com os seis níveis deste documento em mente, é fácil acompanhar que parte do mapa cada um desses documentos ilumina.",
+ "p013.lead": "As vinte e uma esferas sagradas que giram mais perto do Paraíso: um olhar sobre os mundos do Pai, do Filho e do Espírito e sobre os segredos ali guardados.",
+ "p013.foot": {
+  "text": "Apresentado por um Perfeccionador de Sabedoria, com a missão de funcionar como tal, dada pelos Anciães dos Dias em Uversa",
+  "ref": "13:4.8"
+ },
+ "p013.s0.h": "Introdução — Três circuitos entre o Paraíso e Havona",
+ "p013.s0.b0": "Se o documento 12 retrata todo o universo-mestre como seis elipses concêntricas, o documento 13 nos leva de volta ao seu próprio centro. Entre a Ilha Central do Paraíso e o circuito mais interno de Havona encontram-se três circuitos menores, de sete esferas cada um. Como o Paraíso, eles são eternos, e não há registro nem tradição da sua origem.",
+ "p013.s0.b1": {
+  "head": [
+   "Circuito",
+   "Esferas",
+   "O que fazem"
+  ],
+  "rows": [
+   [
+    "O mais interno",
+    "As sete esferas secretas do Pai Universal",
+    "Refletem o brilho central das Deidades e o lançam sobre o Paraíso e Havona"
+   ],
+   [
+    "O intermediário",
+    "Os sete mundos luminosos do Filho Eterno",
+    "Origem das energias impessoais da luminosidade do espírito; emitem luz sem calor"
+   ],
+   [
+    "O mais externo",
+    "As sete esferas imensas do Espírito Infinito",
+    "Sedes executivas dos Sete Espíritos Mestres; enviam a iluminação espiritual aos superuniversos"
+   ]
+  ]
+ },
+ "p013.s0.b2": "O apresentador, um Perfeccionador de Sabedoria, deixa claros os seus limites desde o início. Milhares de atividades não reveladas acontecem nessas vinte e uma esferas, e este documento oferece apenas um vislumbre fugaz das atividades que dizem respeito à idade presente em um dos sete setores do grande universo. Assim, o documento nos conta muita coisa e, ao mesmo tempo, reconhece honestamente que há coisas que não pode contar.",
+ "p013.s1.h": "I-1. Os Sete Mundos Sagrados do Pai — Sete “seios”",
+ "p013.s1.b0": "O circuito do Pai contém os únicos segredos inerentes à personalidade no universo dos universos e é o único domínio proibido, concernente à personalidade, no universo central. Esses mundos são dirigidos pela ordem mais elevada dos Filhos Estacionários da Trindade, os **Segredos Trinitarizados da Supremacia**. Cada esfera tem uma presença única da Divindade, que só pode ser apreciada por aqueles que residem nessa esfera ou nela são admitidos.",
+ "p013.s1.b1": {
+  "head": [
+   "Mundo",
+   "Seio de quem",
+   "Lar de quem",
+   "O segredo que guarda"
+  ],
+  "rows": [
+   [
+    "1. Divínington",
+    "O Pai",
+    "Os Ajustadores do Pensamento e outros seres de origem direta no Pai",
+    "A outorga e a missão dos Ajustadores"
+   ],
+   [
+    "2. Sonárington",
+    "O Filho",
+    "Os Filhos do Filho Eterno e os seus Filhos coordenados",
+    "A encarnação dos Filhos divinos"
+   ],
+   [
+    "3. Espiritíngton",
+    "O Espírito",
+    "Os Sete Espíritos Mestres e os seres que representam exclusivamente o Espírito Infinito",
+    "A refletividade"
+   ],
+   [
+    "4. Vicegérington",
+    "O Pai e o Filho",
+    "Seres que têm origem no Pai e no Filho; seres glorificados de ancestralidade complexa",
+    "A trinitarização"
+   ],
+   [
+    "5. Solitarington",
+    "O Pai e o Espírito",
+    "Os Mensageiros Solitários, as ordens supra-angélicas, os Diretores de Potência do Universo",
+    "A relação do Espírito Infinito com certa progênie mais elevada"
+   ],
+   [
+    "6. Seráfington",
+    "O Filho e o Espírito",
+    "As hostes angélicas: supernafins, seconafins, serafins",
+    "Um mistério tríplice, que inclui o transporte seráfico"
+   ],
+   [
+    "7. Ascêndington",
+    "O Pai, o Filho e o Espírito",
+    "As criaturas ascendentes do espaço; os peregrinos de passagem por Havona",
+    "A evolução da alma na mente mortal"
+   ]
+  ]
+ },
+ "p013.s1.b2": "Divínington é o ponto de reunião dos Ajustadores do Pensamento no Paraíso. A natureza e a origem dos Ajustadores, e a técnica do seu contato com as humildes criaturas dos mundos evolucionários, são o segredo dessa esfera. O próprio apresentador nunca aterrissou em Divínington, e diz que as verdades que ali lhe são ocultadas, se reveladas, provavelmente só o confundiriam e dificultariam o seu trabalho.",
+ "p013.s1.b3": "O segredo de Sonárington é o mistério de um Filho de Deus nascer de mulher e tornar-se um Filho do Homem. O documento põe lado a lado os mistérios das três pessoas divinas.",
+ "p013.s1.b6": "Vicegérington guarda o segredo da trinitarização, que é o segredo da autoridade de representar a Trindade. Seráfington guarda o mistério do transporte seráfico, pelo qual os serafins envolvem personalidades não-materiais nas suas formas espirituais e as carregam em longas jornadas. É notável a razão que o apresentador dá para dizer pouco sobre os outros segredos de Seráfington: revelar os segredos de seres tão estreitamente aparentados conosco, que quase podemos compreendê-los, seria semelhante a uma traição de confiança.",
+ "p013.s1.b7": "Ao lermos sobre esses sete mundos, descobrimos quantos seres nada têm a ver com a ascensão mortal. Incontáveis ordens de personalidades espirituais que não nos foram reveladas chamam de lar Solitarington e Seráfington. O apresentador lembra-nos de que todas as divisões e níveis de atividade do universo estão tão plenamente providos de ministros espirituais quanto o domínio que ajuda os mortais a ascender. O universo não é um palco só para os humanos, e esse mesmo fato mostra a eqüidade e a generosidade da sua administração.",
+ "p013.s2.h": "I-2. Ascêndington — Onde se guarda o nosso próprio segredo",
+ "p013.s2.b0": "Dos sete mundos, o mais próximo dos mortais é Ascêndington. Ele é o “⟦Q 13:1.21⟧seio do Pai, do Filho e do Espírito⟦/Q⟧”, o lar verdadeiro, no Paraíso, das almas ascendentes do tempo e do espaço, até que alcancem o status de seres do Paraíso. Os mortais passarão ali a maior parte das suas “férias” de Havona, e ali o eu humano entrará em novas relações com o eu divino.",
+ "p013.s2.b1": "O segredo de Ascêndington é a nossa própria história: o mistério da construção gradual, na mente material e mortal, de uma contraparte espiritual e potencialmente imortal do caráter e da identidade. Numa palavra, a evolução da alma imortal.",
+ "p013.s2.b3": "Vem então uma reviravolta notável. Para o apresentador, um ser elevado de origem na Trindade, um sétimo de Ascêndington é proibido, porque esse setor diz respeito a um segredo que é da experiência e da posse exclusivas de seres do nosso tipo. O segredo acaba por ser-nos revelado, e contudo, mesmo então, nunca o revelamos a nenhuma outra ordem de seres. Que um humilde mortal venha a conhecer pela experiência aquilo que um Perfeccionador de Sabedoria não conhece mostra quão precioso é, em escala universal, o crescimento da alma pelo qual estamos passando agora.",
+ "p013.s3.h": "II. As Relações nos Mundos do Pai — Quem pode entrar onde",
+ "p013.s3.b0": "Esses mundos-lar são menos esferas de residência do que mundos de congregação e esferas de reunião, que servem como endereços cósmicos permanentes. Mesmo como finalitores que vivem no Paraíso e servem no espaço exterior, conservaremos Ascêndington como o nosso endereço domiciliar e a consideraremos, por toda a eternidade, como o lar das nossas memórias sentimentais. O apresentador infere que os filhos ascendentes dos futuros universos exteriores também verão Ascêndington como o seu lar.",
+ "p013.s3.b2": {
+  "head": [
+   "Etapa da ascensão",
+   "Onde os mortais podem entrar"
+  ],
+  "rows": [
+   [
+    "Ao chegar a Havona",
+    "Permissão para Ascêndington, onde são muito bem-vindos; nenhuma visita aos outros seis mundos sagrados"
+   ],
+   [
+    "Depois da admissão ao Corpo de Finalidade",
+    "Permissão para Sonárington, exceto o sétimo que guarda os segredos da encarnação"
+   ],
+   [
+    "Finalmente",
+    "Acesso pleno a Ascêndington; acesso relativo às outras esferas, exceto Divínington"
+   ],
+   [
+    "Por toda a eternidade",
+    "Nunca aterrissar em Divínington e, contudo, estar repetidas vezes à “mão direita do Pai”"
+   ]
+  ]
+ },
+ "p013.s3.b3": "O status nesses mundos adquire-se tanto pelo **serviço** quanto pela origem, e as sucessivas idades do universo podem redistribuir certos grupos de personalidades. O apresentador aconselha-nos também a não tentar resolver essas questões pelo raciocínio, pois, quanto mais soubéssemos, mais dificuldades encontraríamos, até que soubéssemos tudo.",
+ "p013.s3.b4": "Por que alguns segredos nunca se abrem? A resposta desta seção é o respeito. Quando o Criador compartilha com uma criatura um segredo experiencial pessoal, esse segredo é guardado em confiança eterna. Podemos tornar-nos perfeitos, e contudo não precisamos conhecer todos os segredos experienciais de todas as outras ordens de seres.",
+ "p013.s4.h": "III. Os Mundos Sagrados do Filho Eterno — Lares de luz sem personalidade",
+ "p013.s4.b0": "As sete esferas luminosas do Filho Eterno são os mundos das sete fases da existência no espírito puro e a fonte da luz tríplice do Paraíso e de Havona. Ali não está presente nenhuma personalidade; esses mundos estão repletos dos seres outros-que-não-pessoais do Filho Eterno. O apresentador compartilha a opinião dos filósofos do Paraíso de que essas entidades estão sendo reunidas para a ministração aos novos universos do espaço exterior, e de que cada ciclo do Paraíso, de cerca de dois bilhões de anos, vê a criação de mais delas.",
+ "p013.s4.b1": "O apresentador nunca visitou esses mundos e diz que, sendo uma pessoa, sem dúvida os acharia vazios e desertos, mesmo que lhe fosse permitido ir. Acrescenta uma observação que também nos é útil: as personalidades espirituais elevadas não se entregam à curiosidade sem propósito nem à aventura inútil, porque o trabalho significativo é sempre abundante.",
+ "p013.s5.h": "IV. Os Mundos do Espírito Infinito — Sedes executivas dos Espíritos Mestres",
+ "p013.s5.b0": "As sete esferas do circuito mais externo são os mundos executivos dos Sete Espíritos Mestres e, na realidade, as sedes, no Paraíso, dos sete superuniversos. Daqui os Espíritos Mestres equalizam e estabilizam os circuitos da mente cósmica do grande universo. Ao contrário dos mundos do Pai ou do Filho, esses planetas administrativos estão abertos a todos os que dispõem dos meios de trânsito. O apresentador confessa que, quando liberado das suas atribuições, vai a esses mundos atarefados para inspirar-se com aqueles que têm prazer em fazer o seu trabalho.",
+ "p013.s5.b2": "O cerne desta seção explica por que a presença de Deus é experimentada de modo diferente em lugares diferentes. As reações físicas são sempre uniformes e automáticas, mas a presença espiritual experiencial varia conforme a receptividade da criatura.",
+ "p013.s5.b3": {
+  "head": [
+   "Aspecto",
+   "Presença física",
+   "Presença espiritual experiencial"
+  ],
+  "rows": [
+   [
+    "Caráter",
+    "Uniforme, invariável, instantânea e automática",
+    "Varia conforme o reconhecimento e a recepção da criatura"
+   ],
+   [
+    "Efeito da atitude da criatura",
+    "Nenhum",
+    "Diretamente influenciada pela lealdade e devoção do indivíduo, do planeta, do sistema ou do universo"
+   ],
+   [
+    "Causa da diferença",
+    "—",
+    "Não o capricho, mas algo inerente ao dom do livre-arbítrio"
+   ]
+  ]
+ },
+ "p013.s5.b5": "As Deidades outorgam mais da sua presença em resposta ao desejo sincero e retiram-se quando as criaturas decidem em sentido contrário. A afirmação de que o espírito da divindade se torna humildemente obediente às nossas escolhas é um convite: quando Deus parecer distante, procure a causa não do lado de Deus, mas no vaso do seu próprio coração.",
+ "p013.s6.h": "Conclusão — Viver este documento",
+ "p013.s6.b0": "O documento 13 é um documento sobre segredos. Contudo, esses segredos não se destinam a afastar-nos; eles honram a experiência única de cada ordem de seres. Assim como o mistério dos Ajustadores, o mistério da encarnação e o mistério da refletividade pertencem às Deidades, o mistério da evolução da alma foi confiado a nós, mortais. E o quanto da presença de Deus experimentamos depende das nossas próprias escolhas.",
+ "p013.s6.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento por trás dela"
+  ],
+  "rows": [
+   [
+    "Valorize o pequeno crescimento de hoje como parte de um mistério universal",
+    "O segredo de Ascêndington: a evolução da alma na mente mortal"
+   ],
+   [
+    "Abandone a impaciência de saber tudo",
+    "Os segredos experienciais são guardados em confiança eterna"
+   ],
+   [
+    "Guarde até o fim as confidências que os outros compartilham com você",
+    "Revelar os segredos de seres próximos é uma traição de confiança"
+   ],
+   [
+    "Dedique o seu tempo ao trabalho com propósito, e não à curiosidade ociosa",
+    "A aventura com propósito é sempre abundante"
+   ],
+   [
+    "Quando Deus parecer distante, examine as suas próprias escolhas e anseios",
+    "O diferencial da presença espiritual está no seu coração e na sua vontade"
+   ]
+  ]
+ },
+ "p013.s6.b2": "O documento 14 apresenta o bilhão de mundos perfeitos que giram por fora dessas vinte e uma esferas: Havona, o universo central e divino. Lido com os olhos de um peregrino que um dia atravessará Havona tendo Ascêndington como lar, esse documento parecerá ainda mais próximo.",
+ "p014.lead": "Um bilhão de mundos perfeitos em torno do Paraíso: o documento que apresenta Havona, o modelo de toda a criação e o campo final de treinamento dos peregrinos ascendentes.",
+ "p014.foot": {
+  "text": "Apresentado por um Perfeccionador de Sabedoria, incumbido de funcionar como tal pelos Anciães dos Dias em Uversa",
+  "ref": "14:6.42"
+ },
+ "p014.s0.h": "Introdução — Um universo criado perfeito, não evoluído",
+ "p014.s0.b0": "O documento 14 trata de **Havona**, o universo central e divino no coração do universo dos universos. Havona é a família planetária central de um bilhão de esferas que rodeiam a Ilha do Paraíso, e todas as criações do tempo e do espaço giram em torno dela. O apresentador declara logo de início que a sua verdadeira magnitude está além do alcance da mente humana.",
+ "p014.s0.b2": "Esta única frase é a chave de todo o documento. O universo em que vivemos é um universo de experimento e aventura, ao passo que Havona é perfeita desde o princípio. Os Filhos Criadores esforçam-se por duplicar no tempo e reproduzir no espaço a perfeição desse universo-modelo. Conhecer Havona, portanto, é ver de antemão aquilo para onde o nosso próprio universo se encaminha.",
+ "p014.s1.h": "I. O Sistema Paraíso-Havona — Sete zonas de espaço e o dia de Deus",
+ "p014.s1.b0": "Da periferia do Paraíso até as fronteiras interiores dos superuniversos sucedem-se sete condições e movimentos de espaço. Zonas quietas alternam-se com cinturões em movimento, e dois cinturões de corpos escuros de gravidade giram em direções opostas para equilibrar a gravidade do universo central.",
+ "p014.s1.b1": {
+  "head": [
+   "Ordem",
+   "Condição e movimento de espaço"
+  ],
+  "rows": [
+   [
+    "1",
+    "As zonas quiescentes de espaço intermediário que tocam o Paraíso"
+   ],
+   [
+    "2",
+    "Os três circuitos do Paraíso e os sete de Havona, que se movem em sentido horário"
+   ],
+   [
+    "3",
+    "Uma zona semiquieta que separa Havona dos corpos escuros de gravidade"
+   ],
+   [
+    "4",
+    "O cinturão interno de corpos escuros de gravidade, em sentido anti-horário e de disposição tubular"
+   ],
+   [
+    "5",
+    "Uma zona espacial única entre os dois cinturões, com movimentos ondulatórios para cima e para baixo"
+   ],
+   [
+    "6",
+    "O cinturão externo de corpos escuros de gravidade, em sentido horário e disposto perpendicularmente"
+   ],
+   [
+    "7",
+    "Uma zona semiquieta que separa o cinturão externo dos circuitos mais interiores dos superuniversos"
+   ]
+  ]
+ },
+ "p014.s1.b2": "O bilhão de mundos de Havona está disposto em sete circuitos concêntricos: mais de trinta e cinco milhões no mais interno e mais de duzentos e quarenta e cinco milhões no mais externo. Cada circuito é permeado por um dos Sete Espíritos dos Circuitos, uma representação especializada do Espírito Infinito. Os corpos escuros de gravidade não refletem nem absorvem a luz, e escondem Havona da vista até mesmo dos universos habitados mais próximos.",
+ "p014.s1.b3": "A contagem do tempo também é interessante. No Paraíso o tempo não é contado, mas cada mundo de Havona tem a sua própria hora local, determinada pelo seu circuito. O tempo que o primeiro circuito de Havona requer para completar uma volta em torno do Paraíso é o dia-padrão do Paraíso-Havona, e essa é a medida-padrão do tempo para os sete superuniversos.",
+ "p014.s2.h": "II. A Constituição de Havona — Energia tríplice e um universo sem pecado",
+ "p014.s2.b0": "Os seres espirituais não residem no espaço nebuloso nem em mundos etéreos. Vivem em esferas materiais tão reais quanto os mundos dos mortais. A substância de Havona, porém, tem uma organização de energia radicalmente diferente daquela dos universos evolucionários.",
+ "p014.s2.b1": {
+  "head": [
+   "Aspecto",
+   "Havona (universo central)",
+   "Universos evolucionários (superuniversos e universos locais)"
+  ],
+  "rows": [
+   [
+    "Energia",
+    "Tríplice: uma criação da Trindade",
+    "Dupla: com fases negativa e positiva"
+   ],
+   [
+    "Criação",
+    "A Trindade do Paraíso",
+    "Um Filho Criador e um Espírito Criativo"
+   ],
+   [
+    "Material",
+    "Exatamente mil elementos químicos básicos e sete formas de energia",
+    "Organizações de matéria em evolução"
+   ],
+   [
+    "Sentidos dos nativos",
+    "Quarenta e nove formas especializadas de sensação",
+    "Os grosseiros órgãos sensoriais dos mortais"
+   ],
+   [
+    "Previsibilidade",
+    "Tudo o que é físico ou espiritual é perfeitamente previsível",
+    "Experimento, aventura e a possibilidade de desvio"
+   ]
+  ]
+ },
+ "p014.s2.b2": "É por isso que um mortal de Urântia transportado até Havona seria ali surdo e cego, totalmente carente de reações sensoriais, capaz de funcionar apenas como um ser autoconsciente limitado. Vemos aqui por que precisamos ser longamente transformados, passando pelos mundos das mansões e pelo superuniverso, antes de chegarmos a Havona.",
+ "p014.s2.b3": "O impulso para Deus é mais forte em Havona não porque a gravidade espiritual seja ali mais forte, mas porque os seres que a alcançaram estão mais plenamente espiritualizados e, por isso, são mais sensíveis à atração sempre presente do Filho. O mesmo poder de atração atua sobre nós agora.",
+ "p014.s3.h": "III. Os Mundos de Havona — Autogoverno perfeito, sem governo",
+ "p014.s3.b0": "Havona não tem governo. Não há tribunais nem assembléias legislativas, apenas direção administrativa. Os nativos são perfeitos por natureza, e as criaturas evolucionárias que vivem entre eles passaram há muito pelo escrutínio dos tribunais supremos dos superuniversos. Cada esfera é dirigida por um **Eterno dos Dias**, uma personalidade originária da Trindade que não é criador, mas um administrador e mestre perfeito.",
+ "p014.s3.b2": "Os peregrinos do tempo aterrissam nos mundos receptores do sétimo circuito, o exterior, e avançam para dentro, de planeta em planeta e de círculo em círculo. O fato de apenas cerca de um por cento da capacidade planetária ser agora utilizado para a ascensão mortal mostra que esse universo não é só para nós. Há ali rios e lagos reais, mas a sua beleza, segundo nos é dito, precisa ser vista para ser entendida.",
+ "p014.s4.h": "IV. As Criaturas do Universo Central — Vida sem decadência nem morte",
+ "p014.s4.b0": "A vida em Havona existe em sete formas básicas: material, moroncial, espiritual, absonita, última, co-absoluta e absoluta. A decadência e a morte não fazem parte do seu ciclo; mesmo as coisas vivas inferiores não se deterioram, mas mudam de forma. Os nativos de Havona são todos progênie da Trindade do Paraíso; não têm progenitores criaturas e não se reproduzem.",
+ "p014.s4.b1": "Os havonianos ajudam os ascendentes, mas vivem também uma vida própria, que tem significado em si mesma. O documento coloca-os lado a lado conosco.",
+ "p014.s4.b3": "Havona é também o lar de seres-modelo para todos os grupos de seres da criação. Todos os seres, em todos os universos, são moldados segundo as linhas de alguma ordem de criatura arquetípica que vive em um dos bilhão de mundos de Havona, e mesmo os mortais do tempo têm a sua meta e os seus ideais de existência como criaturas nos circuitos exteriores dela. Aquilo em que estamos nos tornando já existe ali.",
+ "p014.s4.b4": "Em cada mundo de Havona há também candidatos à meta, aqueles que chegaram fisicamente ao universo central, mas ainda não cresceram espiritualmente o bastante para solicitar residência no Paraíso. O Espírito Infinito ensina-os e treina-os por meio de uma hoste de personalidades de graça e glória. O fato de o aprendizado e a espera continuarem mesmo tão perto do destino lembra-nos de que o crescimento espiritual depende não de uma mudança de lugar, mas do amadurecimento interior.",
+ "p014.s5.h": "V. A Vida em Havona — Uma universidade de surpresas sem fim",
+ "p014.s5.b0": "Cada etapa da ascensão tem o seu caráter próprio. Em Urântia passamos por uma prova curta e intensa; nos mundos das mansões e no universo local, pelas fases moronciais; no superuniverso, pelos verdadeiros estágios do espírito; e nos sete circuitos de Havona, pela realização intelectual, espiritual e experiencial. As regras de Havona não são arbitrárias, e, quando chegarmos lá, teremos naturalmente prazer em fazer as coisas da maneira como devem ser feitas.",
+ "p014.s5.b1": {
+  "head": [
+   "Circuito de Havona",
+   "Condição para avançar"
+  ],
+  "rows": [
+   [
+    "Sétimo",
+    "Primeira chegada; recepção no mundo piloto"
+   ],
+   [
+    "Sexto",
+    "Adquirir a compreensão da identidade do Espírito Mestre do seu superuniverso"
+   ],
+   [
+    "Quinto",
+    "Alcançar a compreensão da Supremacia e preparar-se para a aventura da Deidade"
+   ],
+   [
+    "Quarto",
+    "Alcançar o Espírito Infinito"
+   ],
+   [
+    "Terceiro",
+    "Alcançar o Filho Eterno"
+   ],
+   [
+    "Segundo",
+    "Reconhecer o Pai Universal; familiarizar-se com as hostes do Paraíso"
+   ],
+   [
+    "Primeiro",
+    "Aceitação para o serviço no Paraíso → residência no Paraíso e Corpo de Finalidade"
+   ]
+  ]
+ },
+ "p014.s5.b2": "Essa disposição dos circuitos é também a origem do nome “⟦Q 14:5.4⟧círculos de progresso⟦/Q⟧” na mente humana. E não há dois iguais entre o bilhão de mundos, porque cada um foi desenvolvido e embelezado segundo os planos do seu Eterno dos Dias residente.",
+ "p014.s5.b4": "A passagem mais reconfortante desta seção interpreta a curiosidade humana. O amor pela aventura, a curiosidade e o pavor à monotonia não nos foram dados para nos incomodar durante a nossa curta permanência na Terra. Eles sugerem que a morte é apenas o começo de uma aventura sem fim, e são um dom divino que, embora muitas vezes restringido e frustrado agora, será plenamente satisfeito nas idades vindouras.",
+ "p014.s6.h": "VI. O Propósito do Universo Central — O que ele dá a sete ordens",
+ "p014.s6.b0": "A seção final expõe o que Havona dá a cada uma de sete ordens de inteligências do universo. Havona não é simplesmente um lugar belo; é um universo que responde às necessidades tanto das Deidades quanto das criaturas.",
+ "p014.s6.b1": {
+  "head": [
+   "A quem",
+   "O que Havona proporciona"
+  ],
+  "rows": [
+   [
+    "O Pai Universal",
+    "Suprema satisfação paterna: a adoração da criatura perfeita"
+   ],
+   [
+    "O Filho Eterno",
+    "Prova da co-participação na família divina; demonstração de que o Filho é o Verbo do Pai"
+   ],
+   [
+    "O Espírito Infinito",
+    "Um campo de ensaio para a ministração da misericórdia, um laboratório da mente e um retiro para o Ministro da Mente"
+   ],
+   [
+    "O Ser Supremo",
+    "Um modelo perfeito da natureza espiritual do Supremo e da sua unidade futura"
+   ],
+   [
+    "Os Filhos Criadores",
+    "Um campo educacional de treinamento para a criação de universos, e o modelo para os seus próprios universos"
+   ],
+   [
+    "As Filhas Ministradoras (Espíritos Maternos do Universo)",
+    "O aprendizado pré-pessoal e os modelos de mente para as suas criaturas"
+   ],
+   [
+    "Os mortais ascendentes",
+    "A meta do aprendizado pré-paradisíaco, o alcance do Supremo e o portal para Deus"
+   ]
+  ]
+ },
+ "p014.s6.b2": "A linha desta lista que mais se aproxima dos mortais diz respeito ao Pai. O Pai eterno vê Havona, com uma satisfação infindável, como a meta atraente para os candidatos do tempo à ascensão, os seus netos mortais do espaço que estão chegando ao seu lar. A nossa ascensão não é apenas a nossa própria esperança; é uma volta ao lar que o Pai aguarda.",
+ "p014.s6.b5": "Havona não é apenas o destino estabelecido dos mortais, mas também o ponto de partida da nova aventura dos finalitores, a de explorar a infinitude do Pai. O apresentador prevê que os potenciais de Havona são realmente ilimitados e que ela servirá para sempre como um universo de instrução experiencial para todos os tipos de seres criados, passados, presentes e futuros.",
+ "p014.s7.h": "Conclusão — Viver este documento",
+ "p014.s7.b0": "O documento 14 mostra-nos de antemão o destino da nossa jornada. Havona é um universo criado perfeito, e não evoluído, um lugar onde todos trilham com alegria o caminho certo, de modo que nenhum governo é necessário. E não é um paraíso estático, mas uma universidade de surpresas sem fim. A curiosidade e o anseio de crescer que há em nós agora são sementes dessa vida.",
+ "p014.s7.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento por trás dela"
+  ],
+  "rows": [
+   [
+    "Pratique fazer o que é certo porque é certo, não por causa das regras",
+    "Ter naturalmente prazer em fazer as coisas da maneira como devem ser feitas"
+   ],
+   [
+    "Cultive a curiosidade e o desejo de aprender em vez de reprimi-los",
+    "A curiosidade é parte do dom divino"
+   ],
+   [
+    "Quando a vida diária parecer monótona, examine a sua imaginação e a sua sintonia espiritual",
+    "A monotonia é indicativa de imaturidade da imaginação criadora"
+   ],
+   [
+    "Veja a morte não como um fim, mas como a porta para a próxima aventura",
+    "A morte é o começo de uma interminável carreira de aventuras"
+   ],
+   [
+    "Trate as pequenas provas de hoje como os primeiros passos rumo aos círculos de Havona",
+    "A prova curta e intensa em Urântia"
+   ]
+  ]
+ },
+ "p014.s7.b2": "O documento 15 sai de Havona para explicar a organização e a administração dos sete superuniversos, as criações do tempo às quais de fato pertencemos. Tendo visto primeiro o modelo perfeito, podemos compreender melhor por que os universos evolucionários, ainda inacabados, crescem em direção a ele."
 }
