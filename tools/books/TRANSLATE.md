@@ -145,3 +145,8 @@ Each book page has the site home button (`/home-button.js`, → /<l>/) and a "�
 - fr (coordinator 11-25): 1990 spelling as the official text: keep circumflex only in masc. singular "sûr"/"mûr"; plurals/feminines without it ("surs", "mures", "sure"). "cent-trentième" hyphenated.
 
 - es apostles (coordinator 11-25): "aposento superior" (official), not "aposento alto".
+
+- fr (coordinator 11-25): apostrophe is the typographic ’ (as all chunks so far). Year headings follow the English heading form.
+- fr (coordinator 11-25): Simon Zélotès (official), not Simon le Zélote.
+- fr (coordinator 11-25): Nathanael (no tréma) and Judas Iscariot (no final e), as the official text. apostles fr: Sources heading "Sources de ce chapitre"; closing line "Les paroles de Jésus sont racontées à nouveau, et non citées, en suivant le sens du texte."
+- fr (coordinator 11-25): women's corps = "corps évangélique féminin" (official 159:0.1).
