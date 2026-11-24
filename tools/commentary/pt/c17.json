@@ -165,5 +165,955 @@
    ]
   ]
  },
- "p122.s8.b2": "No documento 123, “A Primeira Infância de Jesus”, a família retorna de Alexandria e estabelece-se em Nazaré, e a história do menino em crescimento continua."
+ "p122.s8.b2": "No documento 123, “A Primeira Infância de Jesus”, a família retorna de Alexandria e estabelece-se em Nazaré, e a história do menino em crescimento continua.",
+ "p123.lead": "De Alexandria a Nazaré, da vinda do Ajustador à escola da sinagoga: oito anos em que um menino cheio de perguntas cresceu entre a sua família e os seus vizinhos.",
+ "p123.foot": {
+  "text": "Narrado pelo intermediário outrora destinado ao apóstolo André",
+  "ref": "121:0.1"
+ },
+ "p123.s0.h": "Introdução — De Alexandria a Nazaré",
+ "p123.s0.b0": "O documento 123 começa com o refúgio da família no Egito e acompanha Jesus até os oito anos de idade. Em Alexandria, José logo encontrou trabalho e foi promovido a capataz de um grande grupo de operários em um edifício público, o que lhe deu a idéia de tornar-se empreiteiro e construtor. Essa experiência mudaria mais tarde a vida da família de Nazaré.",
+ "p123.s0.b1": "A princípio Maria queria manter o menino sempre junto de si, mas José e os parentes convenceram-na de que isso o privaria da experiência útil de aprender a conviver com as crianças da sua idade. Maria compreendeu que um resguardo exagerado poderia torná-lo artificial e egocêntrico, e consentiu em deixar que a criança prometida crescesse como qualquer outra criança. Foi o momento em que o amor passou de reter o filho junto de si a deixá-lo crescer.",
+ "p123.s0.b3": "Os crentes de Alexandria instaram a família a ficar, insistindo em que o menino do destino exerceria ali uma influência mundial muito maior, e na despedida deram-lhe um exemplar completo das escrituras hebraicas em grego. Depois que voltaram a Belém, no ano 4 a.C., Maria ainda queria criá-lo na Cidade de Davi, mas José passou três semanas convencendo-a de que a Galiléia era melhor para a segurança e a educação do menino.",
+ "p123.s1.h": "I. De Volta a Nazaré — Uma promessa de silêncio cumprida",
+ "p123.s1.b0": "No quarto dia de viagem a família chegou a Nazaré e, pela primeira vez desde o nascimento de Jesus, Maria instalou-se para desfrutar a vida no seu próprio lar. Jesus tinha cerca de três anos e dois meses. No caminho, José e Maria haviam combinado não contar a ninguém na Galiléia que Jesus era um menino da promessa, e cumpriram fielmente essa promessa.",
+ "p123.s1.b1": "No seu quarto ano de vida, Jesus fez uma amizade para toda a vida com um menino vizinho chamado Jacó. José construiu uma pequena oficina perto da fonte da aldeia e do local de parada das caravanas, e Jesus cresceu ouvindo as conversas de viajantes vindos dos quatro cantos da Terra. A família cresceu da seguinte maneira.",
+ "p123.s1.b2": {
+  "head": [
+   "Quando",
+   "Acontecimento familiar"
+  ],
+  "rows": [
+   [
+    "2 de abril do ano 3 a.C.",
+    "Nasce Tiago, o segundo filho; Jesus fica horas observando o bebê"
+   ],
+   [
+    "Julho do ano 3 a.C.",
+    "Para escapar de uma epidemia, a família passa mais de dois meses na fazenda de um tio, perto de Sarid"
+   ],
+   [
+    "11 de julho do ano 2 a.C.",
+    "Nasce a sua irmã Míriam"
+   ],
+   [
+    "16 de março do ano 1 d.C.",
+    "Nasce José, o quarto filho"
+   ],
+   [
+    "14 de abril do ano 2 d.C.",
+    "Nasce Simão, o terceiro irmão"
+   ]
+  ]
+ },
+ "p123.s2.h": "II. O Quinto Ano (2 a.C.) — O Ajustador chega, e um menino cheio de perguntas",
+ "p123.s2.b0": "Em 11 de fevereiro do ano 2 a.C., quando Jesus chegou à idade da sua primeira decisão moral pessoal e sincera, um Ajustador do Pensamento veio residir nele. Esse Ajustador havia servido antes com Maquiventa Melquisedeque e tinha, por isso, experiência em ligação com uma encarnação. A partir desse dia terminou a supervisão direta dos Governantes Universais, e a guarda de Jesus ficou confiada ao Ajustador residente e aos serafins guardiães.",
+ "p123.s2.b1": "Contudo, Jesus, como milhões de outras crianças, não percebeu esse momento. O Ajustador veio a ele em silêncio, tal como vem a toda criança normal.",
+ "p123.s2.b3": "A parte mais valiosa da educação inicial de Jesus veio das respostas fiéis dos seus pais às suas perguntas. José e Maria nem sempre podiam respondê-las, mas nunca deixaram de ajudá-lo a alcançar por si mesmo uma solução satisfatória.",
+ "p123.s2.b5": "Os judeus da Galiléia tinham um programa sistemático para criar os seus filhos, que dividia a vida da criança em sete estágios. Em 21 de agosto do ano 2 a.C., segundo o costume, Maria entregou formalmente Jesus a José para a sua instrução posterior.",
+ "p123.s2.b6": {
+  "head": [
+   "Estágio",
+   "Período",
+   "Responsabilidade"
+  ],
+  "rows": [
+   [
+    "1",
+    "A criança recém-nascida, do primeiro ao oitavo dia",
+    "A mãe"
+   ],
+   [
+    "2",
+    "A criança de peito",
+    "A mãe"
+   ],
+   [
+    "3",
+    "A criança desmamada",
+    "A mãe"
+   ],
+   [
+    "4",
+    "A dependência da mãe, até o fim do quinto ano",
+    "A mãe"
+   ],
+   [
+    "5",
+    "O princípio da independência",
+    "No caso de um filho homem, o pai assume"
+   ],
+   [
+    "6",
+    "Os jovens e as jovens adolescentes",
+    "—"
+   ],
+   [
+    "7",
+    "Os jovens homens e as jovens mulheres",
+    "—"
+   ]
+  ]
+ },
+ "p123.s2.b7": "Mesmo depois disso, Maria ensinou-o a cuidar das videiras e das flores do jardim, e em caixas rasas de areia, no telhado, ele praticava a escrita do aramaico, do grego e, mais tarde, do hebraico. Se estivésseis lá, diz o narrador, teríeis visto apenas uma criança normal, sadia e extremamente curiosa.",
+ "p123.s3.h": "III. Os Acontecimentos do Sexto Ano (1 a.C.) — Uma primeira desilusão e as conversas com o Pai",
+ "p123.s3.b0": "José ensinou grego a Jesus usando as escrituras que haviam recebido no Egito. Era um dos dois únicos exemplares completos em grego em toda a Nazaré, de modo que uma corrente constante de buscadores da verdade vinha à casa. Antes de completar seis anos, Jesus perguntou ao pai a causa de um terremoto, e José respondeu honestamente que não sabia.",
+ "p123.s3.b2": "José evitou a resposta fácil de atribuir o terremoto a Deus. Jesus aceitou por muito tempo a doutrina dos espíritos bons e maus como explicação possível dos fenômenos mentais e espirituais, mas muito cedo duvidou de que influências invisíveis causassem os acontecimentos físicos da natureza. Um honesto “não sei” abriu o pensamento do menino na direção certa.",
+ "p123.s3.b3": "Depois de uma visita da família de João, Jesus passou a interessar-se vivamente pela história de Israel e pelas suas festas, e José explicou-lhe o significado de cada uma delas.",
+ "p123.s3.b4": {
+  "head": [
+   "Festa",
+   "O significado que José explicou"
+  ],
+  "rows": [
+   [
+    "A iluminação festiva",
+    "Oito dias no meio do inverno, acrescentando uma vela a cada noite, em memória da consagração do templo sob Judas Macabeu"
+   ],
+   [
+    "Purim",
+    "Princípio da primavera, a festa de Ester e da libertação de Israel por intermédio dela"
+   ],
+   [
+    "A Páscoa",
+    "Os adultos iam a Jerusalém; em casa, as crianças não comiam pão fermentado durante a semana"
+   ],
+   [
+    "As primeiras frutas",
+    "A entrada da colheita"
+   ],
+   [
+    "O ano novo, o dia das expiações",
+    "A mais solene de todas"
+   ],
+   [
+    "Tabernáculos",
+    "As férias anuais de todo o povo, que acampava em tendas frondosas com alegria e prazer"
+   ]
+  ]
+ },
+ "p123.s3.b5": "Nesse ano Jesus deixou os pais perplexos ao insistir em falar ao seu Pai celeste do mesmo modo que falava ao seu pai terreno. Essa conversa íntima, acrescentada depois das suas preces formais, prenuncia a relação com o Pai que ele um dia proclamaria.",
+ "p123.s3.b7": "José tornou-se construtor, e a renda da família mais do que triplicou; Jesus viajava com o pai às cidades vizinhas e acumulava diligentemente conhecimentos sobre o modo como as pessoas viviam. Maria era uma disciplinadora bastante rigorosa, mas José sentava-se e explicava as razões das regras da família e, quando Jesus compreendia, sempre cooperava de boa vontade.",
+ "p123.s4.h": "IV. O Sétimo Ano (1 d.C.) — Um acidente que não podia ser evitado",
+ "p123.s4.b0": "O sétimo ano foi cheio de acontecimentos. Em janeiro caiu em Nazaré uma das maiores nevadas em cem anos. As crianças judias daquela época brincavam sobretudo de imitar as coisas sérias que os mais velhos faziam, como casamentos e funerais, e Jesus brincava com blocos de madeira no canto da oficina de carpintaria. Custava-lhe ver o mal de certos jogos proibidos no sábado, mas ele nunca contrariou a vontade dos pais.",
+ "p123.s4.b1": "Maria usava o lucro da venda das pombas como um fundo especial de caridade, e Jesus o administrava depois de deduzir o dízimo e entregá-lo ao oficial da sinagoga. Essa pequena responsabilidade, confiada a um menino de sete anos, ensinou-lhe a generosidade com as próprias mãos.",
+ "p123.s4.b2": "Em julho do ano 1 d.C., durante uma tempestade de areia fora do comum, Jesus caiu ao descer a escada de pedra que vinha do telhado. Um intermediário primário e um secundário haviam sido designados para cuidar dele, mas o narrador deixa claro que o acidente não se deveu a negligência alguma dos intermediários nem do serafim guardião; simplesmente não poderia ter sido evitado. Depois disso, José construiu uma balaustrada em ambos os lados da escada.",
+ "p123.s4.b4": "De ordinário, apenas as criaturas intermediárias podem intervir nas condições materiais, e mesmo assim só em obediência a mandados específicos dos seus superiores. O fato de que nem mesmo um Filho de Deus esteve isento dos acidentes comuns impede-nos de ler os nossos próprios acidentes como castigo ou abandono. Assustada, Maria, de modo pouco sábio, manteve Jesus bem perto de si durante alguns meses.",
+ "p123.s5.h": "V. Os Dias de Escola em Nazaré — Três fios da educação",
+ "p123.s5.b0": "Em agosto do seu sétimo ano, Jesus entrou na escola da sinagoga; passou três anos na escola elementar e três na escola avançada, onde a lei era aprendida pela repetição em voz alta. Como texto de aniversário, escolheu palavras de Isaías.",
+ "p123.s5.b2": {
+  "head": [
+   "Onde",
+   "O que ele adquiriu"
+  ],
+  "rows": [
+   [
+    "A sua casa",
+    "A educação moral e a cultura espiritual"
+   ],
+   [
+    "O chazam (o professor da sinagoga)",
+    "A educação intelectual e teológica"
+   ],
+   [
+    "Os seus semelhantes: jovens e velhos, judeus e gentios",
+    "O aparato da mente e do coração para a luta com os difíceis problemas da vida: a sua real educação"
+   ]
+  ]
+ },
+ "p123.s5.b4": "Nazaré era uma parada de caravanas e um centro de interpretação liberal da lei. Jesus conversava livremente em grego com os viajantes das caravanas junto à fonte e, nas tardes de sábado, subia a colina com o pai para avistar o monte Carmelo, o monte Hermom, a Decápolis e o Mediterrâneo. Aprendeu a ordenhar a vaca, a fazer queijo e a tecer, e a sua imaginação cresceu ao lado da roda de Natam, o ceramista. O chazam chegou a admitir que temia ter aprendido mais com as perguntas penetrantes de Jesus do que fora capaz de lhe ensinar.",
+ "p123.s6.h": "VI. O Seu Oitavo Ano (2 d.C.) — Uma decisão tomada com o Pai",
+ "p123.s6.b0": "Jesus era aplicado o bastante para pertencer ao terço mais avançado da sua classe, o que lhe valia uma semana por mês na fazenda de um tio ou junto ao mar da Galiléia. Aprendeu novas técnicas de números com um professor de matemática de Damasco e, trocando laticínios por lições, tornou-se aos onze anos um harpista hábil. As suas perguntas sobre a estação seca e a estação das chuvas e sobre a diferença das temperaturas nunca cessavam.",
+ "p123.s6.b1": "Nahor, professor de uma academia dos rabinos em Jerusalém, veio e aconselhou que Jesus fosse educado em Jerusalém; Maria ficou meio persuadida, e José hesitou. A pedido de Nahor, a questão foi colocada diante de Jesus, então com oito anos, que durante dois dias consultou os pais e um vizinho, decidiu “⟦Q 123:6.9⟧conversar com o meu Pai que está no céu⟦/Q⟧” e respondeu então que deveria permanecer em casa.",
+ "p123.s6.b2": "José estava certo de que o seu filho seria um homem do destino, mas profundamente incerto sobre qual viria a ser esse destino e, quanto mais pensava nisso, mais duvidava da sabedoria de uma estada em Jerusalém. Com os pais divididos, o peso da decisão passou ao menino. Jesus não se sentia à altura dessa responsabilidade; ainda assim, sem pressa, escutou, perguntou e orou, e então decidiu, embora não estivesse perfeitamente seguro da resposta.",
+ "p123.s6.b4": "Todos ficaram maravilhados, e Nahor voltou para Jerusalém. Passaram-se muitos anos antes que a questão de sair de casa voltasse a ser levantada. O juízo de que aqueles que nos amam nos conhecem melhor do que os estranhos especialistas mostra uma profunda confiança no valor do lar.",
+ "p123.s7.h": "Conclusão — Viver este documento",
+ "p123.s7.b0": "O Jesus do documento 123 não é um menino que opera prodígios, mas um menino que pergunta, brinca, cai e aprende. O Ajustador veio em silêncio, os seus pais admitiram o que não sabiam e, entre a família, os vizinhos e os viajantes das caravanas, ele aprendeu a compreender e a amar as pessoas. A força deste documento está em mostrar que uma vida divina percorreu o caminho do crescimento comum.",
+ "p123.s7.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a fundamenta"
+  ],
+  "rows": [
+   [
+    "Deixar que as crianças cresçam entre as outras, em vez de superprotegê-las",
+    "Maria aceitou a persuasão de José"
+   ],
+   [
+    "Dizer honestamente quando não se sabe",
+    "“Meu filho, eu realmente não sei”"
+   ],
+   [
+    "Conversar com o Pai celeste intimamente, além da formalidade",
+    "Uma pequena conversa depois das preces que lhe foram ensinadas"
+   ],
+   [
+    "Não ler os acidentes como castigo",
+    "As personalidades celestes não interferem arbitrariamente nos acidentes materiais"
+   ],
+   [
+    "Fazer do convívio com as pessoas a escola mais profunda",
+    "A sua real educação veio de misturar-se aos seus semelhantes"
+   ]
+  ]
+ },
+ "p123.s7.b2": "O documento 124, “A Segunda Infância de Jesus”, acompanha o menino dos nove aos treze anos, à medida que ele lentamente toma consciência da sua missão.",
+ "p124.lead": "Um desenho proibido, os jogos de Sitópolis, um conflito entre dois comandos e “É chegada a hora”: um menino dos nove aos treze anos que desperta para quem ele é.",
+ "p124.foot": {
+  "text": "Narrado pelo intermediário outrora destinado ao apóstolo André",
+  "ref": "121:0.1"
+ },
+ "p124.s0.h": "Introdução — Por que Nazaré e não Alexandria",
+ "p124.s0.b0": "O documento 124 abrange a vida de Jesus do seu nono ano até a sua primeira Páscoa, aos treze anos. O narrador começa observando o que significou para ele crescer em Nazaré. Alexandria talvez lhe oferecesse uma escola melhor, mas Nazaré deu-lhe algo que Alexandria não podia dar.",
+ "p124.s0.b1": {
+  "head": [
+   "Aspecto",
+   "Se tivesse ficado em Alexandria",
+   "O que de fato ganhou em Nazaré"
+  ],
+  "rows": [
+   [
+    "Educação",
+    "Dirigida pelos judeus, ao longo de uma linha exclusivamente judaica",
+    "Um ambiente para trabalhar nos problemas da sua própria vida com um mínimo de orientação"
+   ],
+   [
+    "Contatos",
+    "—",
+    "Contato constante com homens e mulheres de todas as classes, vindos de todas as partes do mundo civilizado"
+   ],
+   [
+    "Resultado",
+    "—",
+    "Preparo para compreender os gentios, e uma idéia equilibrada das visões oriental (babilônica) e ocidental (helênica) da teologia hebraica"
+   ]
+  ]
+ },
+ "p124.s0.b2": "A percepção é a de que uma vida mais ampla, mais do que uma escola melhor, forma uma pessoa. A maior parte dos acontecimentos deste documento passa-se fora da escola: em casa, na estrada e na oficina das caravanas.",
+ "p124.s1.h": "I. O Nono Ano de Jesus (3 d.C.) — O desenho e a sua primeira bancada",
+ "p124.s1.b0": "Jesus gostava muito de desenhar paisagens e de modelar objetos em argila. No fim do inverno, ele contestou perante o chazam o ensinamento de que todas as imagens e figuras eram idólatras e, quando foi surpreendido fazendo a carvão um desenho do professor no chão da sala de aula, um comitê de anciães foi procurar José. Ressentido por culparem o seu pai, Jesus enfrentou destemidamente os seus acusadores, defendeu com coragem o seu ponto de vista e, com um autocontrole consumado, anunciou que acataria a decisão do pai.",
+ "p124.s1.b1": "José decidiu que devia prevalecer a interpretação rabínica do segundo mandamento, e Jesus nunca mais desenhou nem modelou a figura de coisa alguma enquanto viveu na casa do pai. Renunciar a um passatempo favorito, sem estar convencido de que havia feito algo errado, foi uma das grandes provações da sua jovem vida. Quando a convicção e a obediência colidiram, ele escolheu expor claramente o seu ponto de vista, respeitando o direito de decidir.",
+ "p124.s1.b2": "Depois que Marta nasceu, em setembro, José construiu um anexo à oficina, e pela primeira vez Jesus teve as suas próprias ferramentas e uma pequena bancada. O primeiro gelo que ele viu e o vapor a escapar das panelas ferventes levaram-no a pensar bastante sobre a constituição do mundo físico.",
+ "p124.s1.b4": "Em maio desse ano ele ajudou pela primeira vez na colheita dos cereais na fazenda do tio. Antes dos treze anos havia aprendido algo sobre quase todo tipo de trabalho feito nos arredores de Nazaré, exceto o trabalho com metais, e ia muitas vezes com o pai a Caná, a Naim e a Séforis, a capital da Galiléia. Veio a conhecer por dentro a vida dos trabalhadores.",
+ "p124.s1.b5": "Antes dos dez anos, ele se havia tornado o líder de sete meninos que formaram uma sociedade para promover as aquisições da maturidade. As suas viagens para longe de casa deram-lhe um entendimento mais generoso da sua própria família, e nessa época até os seus pais começavam a aprender com ele.",
+ "p124.s2.h": "II. O Décimo Ano (4 d.C.) — O menino que não queria lutar",
+ "p124.s2.b0": "No sábado, 5 de julho do ano 4 d.C., enquanto caminhava pelo campo com o pai, Jesus exprimiu pela primeira vez pensamentos que mostravam que ele estava tomando consciência da natureza incomum da sua missão. No dia seguinte teve uma conversa mais longa com a mãe. Ambos escutaram com atenção, mas não ofereceram nenhuma informação, e passaram-se quase dois anos antes que Jesus voltasse ao assunto.",
+ "p124.s2.b1": "Os seus companheiros de brincadeiras não viam nele nada de sobrenatural. Ele fazia mais perguntas do que os outros, mas na maioria das coisas era exatamente como eles. Num aspecto, porém, era diferente.",
+ "p124.s2.b3": "Ele não sofreu muito por causa dessa característica porque Jacó, um menino vizinho um ano mais velho, se fez por conta própria o defensor de Jesus. Jesus era justo e possuía uma simpatia rara e compreensiva, que beirava uma compaixão discreta, e assim se tornou o líder muito querido dos meninos da sua idade. Gostava de conversar sobre política e religião com as pessoas mais velhas e encaminhava até as brincadeiras para canais mais sérios.",
+ "p124.s2.b5": "Depois de observar a indústria da pesca no lago da Galiléia, quase decidiu tornar-se pescador; o ofício do pai atraiu-o mais tarde para a carpintaria; e por fim uma combinação de influências levou-o a escolher tornar-se um mestre religioso de uma nova ordem. A sua vocação não se definiu de uma só vez, mas foi-se estreitando por meio da experiência.",
+ "p124.s3.h": "III. O Décimo Primeiro Ano (5 d.C.) — Sitópolis e o fim da meninice",
+ "p124.s3.b0": "José e Maria foram muitas vezes tentados a mostrar favoritismo por Jesus ou a deixar transparecer que sabiam que ele era um menino da promessa, mas sabiamente se abstiveram; nas raras ocasiões em que demonstraram alguma preferência, o menino logo a recusou. Na oficina de suprimentos das caravanas ele reuniu um acervo espantoso de informações sobre os assuntos internacionais.",
+ "p124.s3.b1": "Em maio, numa viagem com o pai a Sitópolis, Jesus encantou-se com a ordem da cidade grega e entusiasmou-se com os jogos no anfiteatro. Naquela noite, quando sugeriu construir um anfiteatro em Nazaré, José, pela primeira e única vez, zangou-se com o filho e disse-lhe que nunca mais dissesse tal coisa.",
+ "p124.s3.b3": "Jesus cumpriu essa promessa enquanto o pai viveu. Contudo, não abandonou a idéia de uma recreação sadia e, mais tarde, tentou introduzi-la, até onde a prática judaica permitia, no programa dos seus doze apóstolos. A obediência não precisa significar o abandono de uma idéia; pode significar esperar pelo seu tempo.",
+ "p124.s3.b4": "Em 24 de junho nasceu Judá, o sétimo filho, e Maria ficou muito doente durante várias semanas. Pouco antes de fazer onze anos, Jesus assumiu as responsabilidades de primogênito um ou dois anos mais cedo. A partir do fim desse ano, entregou-se cada vez mais a uma meditação profunda sobre como cumprir ao mesmo tempo as suas obrigações para com a família e a sua missão para com o mundo.",
+ "p124.s4.h": "IV. O Décimo Segundo Ano (6 d.C.) — Uma natureza dual e dois grandes comandos",
+ "p124.s4.b0": "Jesus começou a trabalhar regularmente na oficina de carpintaria e teve permissão para administrar os seus próprios ganhos, e aprendeu a discrição de ocultar tudo o que pudesse fazê-lo parecer diferente dos outros. Nesse ano passou por muitos períodos de incerteza, se não de verdadeira dúvida, quanto à natureza da sua missão. Era difícil reconhecer uma dupla origem dentro de uma única personalidade.",
+ "p124.s4.b2": "Os seus pais percebiam cada vez mais que algo supra-humano residia no filho, mas nunca souberam que ele era o criador do universo local. Jesus inclinava-se cada vez mais para a visão espiritual do pai, e Maria ficou magoada ao sentir que a sua orientação era posta de lado. Essa brecha no entendimento alargou-se com os anos.",
+ "p124.s4.b4": "A partir dessa época ele se tornou mais cheio de tato e de consideração para com os irmãos e as irmãs. Sempre se deu bem com Tiago, Míriam e Marta; as suas dificuldades em casa vinham sobretudo dos atritos com José e Judá, particularmente com Judá. Ele dava as aulas da escola doméstica aos irmãos e, como a sinagoga de Nazaré estava sob a influência de uma escola liberal de rabinos, pôde modificar formas religiosas como as preces da família.",
+ "p124.s4.b5": "Ele não compreendia inteiramente a proibição das imagens, mas, com o seu alto conceito de consistência lógica, fez notar que beijar o pergaminho do portal era, pela mesma lógica, idolatria, e José retirou o pergaminho. Acima de tudo, ele se via dividido entre dois grandes comandos.",
+ "p124.s4.b6": {
+  "head": [
+   "Os dois comandos",
+   "Enunciado",
+   "A harmonia que Jesus encontrou"
+  ],
+  "rows": [
+   [
+    "A lealdade à convicção",
+    "“Sê leal aos ditames das tuas convicções mais elevadas sobre a verdade e a retidão.”",
+    "Ele nunca se esquivou dos ajustes cotidianos necessários"
+   ],
+   [
+    "A honra aos pais",
+    "“Honrar o teu pai e a tua mãe, pois eles te deram a vida e te alimentaram desde então.”",
+    "Ele os fundiu em um conceito de solidariedade grupal baseado na lealdade, na eqüidade, na tolerância e no amor"
+   ]
+  ]
+ },
+ "p124.s5.h": "V. O Seu Décimo Terceiro Ano (7 d.C.) — Graduação e certeza",
+ "p124.s5.b0": "Em janeiro do ano 7 d.C. nasceu o seu irmãozinho Amós. Por volta do meio de fevereiro, Jesus teve a certeza humana de que estava destinado a cumprir na Terra uma missão para a iluminação do homem e para a revelação de Deus. Por fora ele era um jovem judeu dentro da média, mas planos de longo alcance formavam-se na sua mente.",
+ "p124.s5.b2": "Em 20 de março ele se graduou na escola da sinagoga e foi pronunciado um “⟦Q 124:5.4⟧filho do mandamento⟦/Q⟧”. Os anciães fizeram planos para enviá-lo às academias de Jerusalém, mas Jesus estava cada vez mais certo de que nunca iria. A morte próxima do pai e o sustento de uma família numerosa logo mudariam todos esses planos.",
+ "p124.s6.h": "VI. A Viagem a Jerusalém — “É chegada a hora”",
+ "p124.s6.b0": "Já graduado, Jesus partiu com os pais, em um grupo de cento e três pessoas, para assistir à sua primeira Páscoa. Evitaram Samaria descendo pelo vale do Jordão, e pelo caminho ele ouviu as velhas histórias de Israel.",
+ "p124.s6.b1": {
+  "head": [
+   "Dia",
+   "Lugares por onde passaram",
+   "O que lembrar"
+  ],
+  "rows": [
+   [
+    "Primeiro dia (4 de abril)",
+    "Shunem, Jezreel, o monte Gilboa",
+    "Sitópolis vista à distância; Maria nada sabia da controvérsia do ano anterior"
+   ],
+   [
+    "Segundo dia",
+    "O Jabok, a base do monte Sartaba",
+    "Recordações dos dias de Gideão; a fortaleza alexandrina de Herodes"
+   ],
+   [
+    "Terceiro dia",
+    "Aldeias construídas por Herodes, Jericó",
+    "Uma caminhada até as ruínas da antiga Jericó de Josué"
+   ],
+   [
+    "Quarto dia",
+    "O monte das Oliveiras, Betânia, Jerusalém",
+    "O começo de uma amizade de toda a vida com a família de Lázaro"
+   ]
+  ]
+ },
+ "p124.s6.b3": "Em Jerusalém a família hospedou-se na casa de um parente abastado de Maria. Em meio aos preparativos, José levou o filho para visitar a academia onde ele deveria continuar os estudos aos quinze anos, mas ficou perplexo com o pouco interesse que Jesus demonstrou por esses planos cuidadosos. O coração do menino já estava voltado para outro lugar.",
+ "p124.s6.b4": "Profundamente impressionado com os serviços do templo, ele fez menos perguntas do que em qualquer época desde os quatro anos, absorto nas suas próprias meditações. Perguntou, sim, por que tantos animais inocentes tinham de ser abatidos, e as respostas do pai não o satisfizeram. No dia anterior ao sábado da Páscoa, uma compaixão afetuosa pelas multidões espiritualmente cegas encheu o seu coração e, naquela noite, pela primeira vez, apareceu-lhe um mensageiro enviado por Emanuel.",
+ "p124.s6.b6": "Essa visita, que veio antes mesmo de os pesados encargos da família caírem sobre ele, anunciou que era chegada a hora de retomar as responsabilidades de um universo. Foi o primeiro ato de uma longa sucessão de acontecimentos que culminou na conclusão da auto-outorga. O narrador confessa que, mesmo para os intermediários, o mistério se tornou mais profundo com o passar do tempo.",
+ "p124.s7.h": "Conclusão — Viver este documento",
+ "p124.s7.b0": "O documento 124 mostra a autoconsciência divina emergindo lentamente dentro do crescimento comum de um menino. Ele renunciou ao desenho, pôs de lado o seu sonho de um anfiteatro e sofreu entre dois comandos, mas nunca fugiu do seu dever. Assim termina a carreira do menino de Nazaré, e assim começa a história de um jovem que se esforça por integrar o seu propósito de vida em expansão com as suas obrigações para com a família.",
+ "p124.s7.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a fundamenta"
+  ],
+  "rows": [
+   [
+    "Expor com coragem o próprio ponto de vista, mas respeitar uma decisão legítima",
+    "O incidente do desenho e a decisão do pai"
+   ],
+   [
+    "Pôr os relacionamentos e a paz à frente dos próprios direitos",
+    "A sua pouca disposição de lutar pelos seus direitos"
+   ],
+   [
+    "Obedecer, mas manter viva uma boa idéia até que chegue o seu tempo",
+    "A recreação no programa dos apóstolos"
+   ],
+   [
+    "Harmonizar a convicção e o dever familiar por meio de ajustes cotidianos",
+    "O conflito entre dois grandes comandos"
+   ],
+   [
+    "Deixar que a adoração desperte compaixão pela multidão",
+    "A sua compaixão afetuosa pelas multidões da Páscoa"
+   ]
+  ]
+ },
+ "p124.s7.b2": "O documento 125, “Jesus em Jerusalém”, conta o que aconteceu no templo naquela semana da Páscoa e fala dos três dias em que o menino ficou para trás, sem os pais.",
+ "p125.lead": "Uma primeira Páscoa, a beleza do templo e a sua fealdade espiritual, três dias de ensino por meio de perguntas e “Aguardarei a minha hora”: um menino de doze anos em Jerusalém.",
+ "p125.foot": {
+  "text": "Narrado pelo intermediário outrora destinado ao apóstolo André",
+  "ref": "121:0.1"
+ },
+ "p125.s0.h": "Introdução — Um primeiro gosto de liberdade e uma primeira desilusão",
+ "p125.s0.b0": "O narrador diz que nenhum incidente da carreira terrena de Jesus foi mais cativante nem mais humanamente emocionante do que esta primeira visita a Jerusalém. Os dias que se seguiram à Páscoa foram a primeira liberdade completa de responsabilidades que ele conheceu, e muitos anos se passariam antes que voltasse a desfrutar de tal liberdade. Ele praticamente se recusou a ir, a menos que a mãe também fosse, e assim esse grupo teve, em proporção aos homens, mais mulheres do que qualquer grupo da Páscoa que já houvesse saído de Nazaré.",
+ "p125.s0.b1": "Visto do monte das Oliveiras, o templo era tudo o que ele havia esperado, mas, assim que entrou pelas suas portas, a desilusão começou. O primeiro choque veio quando a mãe os deixou para ir à galeria das mulheres e não pôde assistir à sua consagração. Ele ficou profundamente indignado com essa discriminação injusta, mas, à parte alguns poucos comentários de protesto feitos ao pai, nada disse; pensou, porém, e pensou profundamente. Os rituais da consagração pareceram-lhe superficiais e rotineiros, e ele sentiu falta do calor pessoal da sinagoga de Nazaré.",
+ "p125.s0.b2": "Jesus jamais aceitaria explicações da adoração que envolvessem a ira de Deus ou a cólera do Todo-Poderoso. Quando o pai insistiu para que ele aceitasse as crenças ortodoxas, olhou dentro dos olhos do pai e raciocinou a partir do amor do seu pai terreno até o amor do Pai celeste.",
+ "p125.s0.b4": "José e Maria guardaram silêncio e nunca mais tentaram mudar a opinião dele sobre o amor de Deus. Nessa resposta curta, que parte do amor dos pais terrenos e sobe pelo raciocínio até o amor do Pai celeste, a sua compreensão de Deus já está clara.",
+ "p125.s1.h": "I. Jesus Visita o Templo — Beleza e fealdade espiritual",
+ "p125.s1.b0": "Por todos os pátios do templo, Jesus ficou chocado com um clima de irreverência impróprio da “⟦Q 125:1.1⟧casa do seu Pai⟦/Q⟧”. Na praça dos gentios, o alarido dos cambistas e dos vendedores deu-lhe o grande choque da sua jovem vida, e a visão das cortesãs circulando no recinto do templo ultrajou o seu senso de conveniência.",
+ "p125.s1.b2": {
+  "head": [
+   "Lugar",
+   "O que ele viu",
+   "A reação de Jesus"
+  ],
+  "rows": [
+   [
+    "Os recintos do templo",
+    "Vastas construções que comportavam mais de duzentos mil adoradores",
+    "Mais intrigado com o significado espiritual das cerimônias do que com as construções"
+   ],
+   [
+    "A praça dos gentios",
+    "Cambistas, vendedores de animais para o sacrifício, pragas e barulho",
+    "O grande choque da sua jovem vida"
+   ],
+   [
+    "Dentro do recinto do templo",
+    "Cortesãs pintadas",
+    "Expressou livremente ao pai a sua jovem indignação"
+   ],
+   [
+    "A praça dos sacerdotes",
+    "A calçada manchada de sangue, as mãos ensangüentadas dos sacerdotes, animais que morriam",
+    "Nauseado, implorou que o levassem dali"
+   ]
+  ]
+ },
+ "p125.s1.b3": "José, sabiamente, levou o filho para ver a “porta da beleza” e depois caminhou com Maria ao ar livre, falando sobre as festas. Mas Jesus já havia visto o suficiente para uma visita. O amor pela beleza e pelo símbolo e um olhar capaz de enxergar o vazio por trás da forma despertavam juntos em um só menino.",
+ "p125.s2.h": "II. Jesus e a Páscoa — O sonho de uma festa sem sangue",
+ "p125.s2.b0": "Jesus persuadiu os pais a celebrarem a Páscoa com a família de Simão, de Betânia. Sendo ele um novo filho da aliança, pediram-lhe que contasse a origem da Páscoa, e ele o fez muito bem, mas desconcertou os pais ao entremear impressões do que havia visto e ouvido recentemente.",
+ "p125.s2.b2": "Ele se tornou cada vez mais determinado a estabelecer, algum dia, uma Páscoa sem sangue. Naquela noite quase não dormiu, por causa de sonhos de matança, com o coração dilacerado pelas incoerências de todo o sistema cerimonial. Os seus pais também dormiram pouco, mas tiveram medo de conversar francamente com ele. O narrador acrescenta que Jesus teria conversado de bom grado se eles tivessem ousado encorajá-lo. Abrir a porta à conversa é muitas vezes tarefa do adulto.",
+ "p125.s2.b3": "A partir do dia seguinte, guiado por Lázaro, ele explorou Jerusalém e passou a maior parte do tempo nas conferências de ensino perto do templo. Na noite de quarta-feira, em Betânia, Lázaro, Marta e Maria ouviram-no falar de coisas temporais e eternas e, desde então, amaram-no como a um irmão. Ele conversou com mais de cento e cinqüenta meninos da sua idade, ficou sabendo como as pessoas viviam pelo mundo afora e começou a desejar percorrer ele próprio o mundo.",
+ "p125.s2.b4": "Durante toda a semana da Páscoa, como novo filho do mandamento, ele teve de sentar-se do lado de fora da grade que separava os cidadãos plenos, e por isso conteve as perguntas que se agitavam na sua mente até que a festa terminasse. Repetidas vezes os pais o encontraram sentado sozinho, com a cabeça entre as mãos, mas, sem saber quão perturbado estava o seu espírito, não sabiam o que fazer. Antes de partir, tomaram providências definitivas para que ele voltasse aos quinze anos para estudar em uma famosa academia rabínica, mas afligiram-se com a sua indiferença durante as visitas à escola.",
+ "p125.s3.h": "III–IV. A Partida de José e Maria; O Primeiro e o Segundo Dias no Templo",
+ "p125.s3.b0": "No primeiro dia da semana depois da festa, o grupo pôs-se a caminho, os homens em um grupo e as mulheres em outro. Jesus estava tão absorto em uma discussão sobre os anjos, no templo, que esqueceu a hora da partida. Maria supôs que ele estivesse com os homens e José pensou que estivesse com as mulheres, de modo que só deram pela sua ausência quando chegaram a Jericó.",
+ "p125.s3.b1": {
+  "head": [
+   "Dia",
+   "Jesus",
+   "José e Maria"
+  ],
+  "rows": [
+   [
+    "Primeiro dia",
+    "Escutou as discussões da tarde sem falar; foi a Betânia e meditou sozinho no jardim",
+    "Deram pela sua ausência em Jericó; uma noite sem sono, de leves censuras mútuas"
+   ],
+   [
+    "Segundo dia",
+    "Chorou pelo povo, do alto do monte das Oliveiras; participou das discussões e ousou fazer perguntas",
+    "Procuraram o dia todo, começando pela casa dos parentes, e não acharam vestígio dele"
+   ],
+   [
+    "Terceiro dia",
+    "Pressionou os professores com perguntas durante mais de quatro horas",
+    "Entraram várias vezes no templo, mas nunca olharam entre os grupos de discussão"
+   ],
+   [
+    "Quarto dia",
+    "Convidado pelo líder a sentar-se ao seu lado e a dar a sua opinião sobre a prece e a adoração",
+    "Reconheceram a voz do filho no templo"
+   ]
+  ]
+ },
+ "p125.s3.b2": "Com a partida das multidões, o templo tinha um clima mais tranqüilo e mais decoroso. No segundo dia Jesus ousou fazer perguntas, mas sempre de um modo condizente com a sua juventude. As suas perguntas incisivas por vezes embaraçavam os professores da lei, mas, como ele mostrava uma honestidade cândida e uma fome evidente de conhecimento, a maioria deles o tratou com toda a consideração.",
+ "p125.s3.b3": "Quando ele questionou a justiça de condenar à morte um gentio bêbado que havia entrado por engano nos recintos proibidos, um professor intolerante quis saber a sua idade, e os professores zombaram: “⟦Q 125:4.3⟧ele é de Nazaré⟦/Q⟧”. Mas o líder decidiu que o menino não devia ser inculpado e que podia continuar nas discussões. Naquela noite, mais uma vez, ele meditou e orou no jardim, em Betânia.",
+ "p125.s4.h": "V. O Terceiro Dia no Templo — Ensinar por meio de perguntas",
+ "p125.s4.b0": "No terceiro dia a notícia se havia espalhado e muitos espectadores se reuniram; Simão também desceu de Betânia. Antes que o dia terminasse, toda a atenção do principal grupo de discussão estava voltada para as suas perguntas. O texto registra cinco delas.",
+ "p125.s4.b1": {
+  "head": [
+   "Pergunta",
+   "A questão que está por trás"
+  ],
+  "rows": [
+   [
+    "1. O que realmente existe no santo dos santos, atrás do véu?",
+    "Símbolo e realidade no ritual"
+   ],
+   [
+    "2. Por que as mães em Israel deviam ser segregadas dos adoradores masculinos?",
+    "A discriminação na adoração"
+   ],
+   [
+    "3. Se Deus é um Pai que ama, por que toda essa matança de animais?",
+    "O sistema de sacrifícios e os ensinamentos de Moisés"
+   ],
+   [
+    "4. É coerente permitir as trocas e o comércio onde se adora o Pai?",
+    "A comercialização do templo"
+   ],
+   [
+    "5. O Messias será um príncipe temporal no trono de Davi, ou a luz da vida em um Reino espiritual?",
+    "O conceito do Messias"
+   ]
+  ]
+ },
+ "p125.s4.b3": "Em vez de refutar os mais velhos, ele desafiava o ensinamento deles e sugeria o seu próprio por meio das próprias perguntas. O seu modo combinava sagacidade e humor, o que o tornava querido até por aqueles que se ressentiam da sua juventude, e ele era sempre justo e cheio de consideração. Essa relutância em tirar vantagem injusta de um oponente caracterizou toda a sua ministração pública.",
+ "p125.s4.b5": "Naquela tarde, no monte das Oliveiras, ele não chorou; apenas inclinou a cabeça em devoção silenciosa. Noite adentro, no jardim, tentou elaborar um plano definido para libertar os seus compatriotas da servidão à tradição, mas nenhuma resposta veio.",
+ "p125.s5.h": "VI. O Quarto Dia no Templo — “Aguardarei a minha hora”",
+ "p125.s5.b0": "Estranhamente, Jesus parecia não se dar conta de quão preocupados os seus pais estariam. Na tarde do quarto dia, justamente quando o líder o havia feito sentar-se ao seu lado e lhe perguntava a sua opinião sobre a prece e a adoração, os pais o encontraram. Maria repreendeu-o diante de todos, e o narrador diz que isso pôs um fim inglório a uma das maiores oportunidades que ele jamais teria como instrutor da verdade.",
+ "p125.s5.b1": "Mais cedo, naquela manhã, os professores se haviam maravilhado com a sua familiaridade com as Escrituras, tanto em hebraico quanto em grego, embora se espantassem mais com a sua juventude do que com o seu conhecimento da verdade. Antes de julgarmos a cena, o narrador pede que nos lembremos de que Jesus já era então considerado um jovem adulto: um filho da lei e um cidadão consagrado de Israel.",
+ "p125.s5.b3": "Quando a multidão se retirou, ele primeiro aliviou o embaraço dos pais. A sua maturidade mostra-se em uma única frase, que não culpa ninguém.",
+ "p125.s5.b5": "No caminho de volta, no cume do monte das Oliveiras, ele lamentou que Jerusalém fosse escrava do jugo romano e das suas próprias tradições e exclamou que voltaria para purificar o templo. Uma vez em casa, assegurou aos pais a sua afeição e deixou implícito que nunca mais lhes causaria tal ansiedade.",
+ "p125.s5.b7": "Na viagem de três dias de volta a Nazaré, Jesus falou pouco, e os pais também. Eles não conseguiam compreender o seu primogênito, mas guardaram no coração as coisas que ele dizia.",
+ "p125.s5.b9": "Maria, porém, tomou a exclamação do monte das Oliveiras como uma profecia da missão do seu filho como libertador de Israel e, com a ajuda do irmão, começou a orientar os pensamentos dele para canais patrióticos e nacionalistas. A cena mostra como as mesmas palavras podem ser lidas de modos inteiramente diferentes, conforme as expectativas de quem as ouve.",
+ "p125.s6.h": "Conclusão — Viver este documento",
+ "p125.s6.b0": "O documento 125 mostra um menino que se mantém fiel a Deus como um Pai amoroso no próprio centro da religião institucional. Ele se indignou, mas nunca foi rude; fez perguntas, mas nunca procurou vencer; pressentiu a sua vocação, mas não abandonou a família. A conclusão do documento é que ele guardou tanto a vontade do seu Pai celeste quanto a obediência ao seu pai terreno, e esperou pela sua hora.",
+ "p125.s6.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a fundamenta"
+  ],
+  "rows": [
+   [
+    "Raciocinar a partir do amor que se conheceu até o amor de Deus",
+    "O Pai celeste não pode amar menos do que um pai terreno"
+   ],
+   [
+    "Perguntar pelo significado espiritual por trás das formas de adoração",
+    "A fealdade espiritual dos adoradores que não pensam"
+   ],
+   [
+    "Buscar juntos a verdade por meio de perguntas, em vez de vencer discussões",
+    "O ensinamento transmitido por meio de perguntas"
+   ],
+   [
+    "Quando for mal compreendido, aliviar a situação sem culpar ninguém",
+    "Ninguém fez nada senão aquilo que supunha ser o melhor"
+   ],
+   [
+    "Cumprir os deveres e esperar pelo próprio tempo, mesmo quando a vocação está clara",
+    "“Aguardarei a minha hora”"
+   ]
+  ]
+ },
+ "p125.s6.b2": "No documento 126, “Os Dois Anos Cruciais”, o menino volta a Nazaré, o seu pai José morre e Jesus torna-se o chefe da família.",
+ "p126.lead": "A morte súbita de José, um chefe de família de quatorze anos, o Pai-nosso e “o Filho do Homem”, um primeiro sermão na sinagoga: os dois anos de provação mais cruciais da vida de Jesus.",
+ "p126.foot": {
+  "text": "Narrado pelo intermediário outrora destinado ao apóstolo André",
+  "ref": "121:0.1"
+ },
+ "p126.s0.h": "Introdução — Os dois anos mais cruciais",
+ "p126.s0.b0": "O narrador chama o décimo quarto e o décimo quinto anos de os mais cruciais e de maior provação da vida terrena de Jesus. Ele se havia tornado autoconsciente da sua divindade e do seu destino, mas ainda não havia alcançado uma ampla comunicação com o seu Ajustador do Pensamento residente. Nenhum jovem que passasse pelas confusões da adolescência, diz o texto, jamais enfrentou um teste mais crucial.",
+ "p126.s0.b2": "Quando o filho voltou de Jerusalém, Maria esperava que ele agora fosse mais receptivo aos planos dela, mas logo ficou ainda mais completamente desiludida. O menino passava cada vez mais tempo com o pai, e os pais não conseguiam compreender como ele alternava entre os assuntos deste mundo e os assuntos do seu Pai.",
+ "p126.s0.b4": "Jesus respeitava os fariseus sinceros e os escribas honestos, mas desprezava os líderes religiosos hipócritas, e crescia o seu justo ressentimento contra os sacerdotes nomeados por razões políticas. Por vezes foi tentado a ver com bons olhos a possibilidade de tornar-se o Messias da expectativa judaica, mas nunca cedeu. Enquanto isso, a gente de Nazaré, ao saber dos seus feitos no templo, predizia que ele se tornaria um grande mestre.",
+ "p126.s1.h": "I. O Seu Décimo Quarto Ano (8 d.C.) — Um futuro que parecia brilhante",
+ "p126.s1.b0": "Aos quatorze anos, Jesus era um bom fabricante de cangas, hábil com a lona e o couro, e tornava-se rapidamente um carpinteiro e marceneiro competente. Subia muitas vezes à colina de Simeão, a noroeste de Nazaré, para orar e meditar, contemplando Meguido e Tanac, Dotan, Ebal e Gerizim, e relembrando a história do povo do seu pai. Ali ele se tornava gradativamente mais autoconsciente da natureza da sua auto-outorga.",
+ "p126.s1.b1": "José reservou a renda de uma propriedade para os estudos de Jesus em Jerusalém no ano seguinte. Contudo, os pais duvidavam com freqüência do destino do filho. As pessoas devotas daquele tempo acreditavam que os homens da promessa provavam a sua vocação por milagres e prodígios, mas nada de extraordinário nem de miraculoso jamais aconteceu a Jesus. Dezenas de vezes a mãe esperou, sem fôlego, apenas para ver as suas esperanças desfeitas.",
+ "p126.s1.b2": "Ainda assim, as finanças da família melhoraram, e Jesus retomou as suas lições de harpa. O narrador resume o ano desta maneira.",
+ "p126.s2.h": "II. A Morte de José — Chefe da família aos quatorze anos",
+ "p126.s2.b0": "Em 25 de setembro do ano 8 d.C. chegou a notícia de que José havia sido gravemente ferido pela queda de um mastro, enquanto trabalhava na residência do governador, em Séforis. Maria correu para lá com Tiago, mas José morreu antes que ela chegasse. A família nunca ouviu a sua despedida nem a sua última bênção.",
+ "p126.s2.b1": "Vindo justamente quando o futuro parecia mais brilhante, esse golpe demoliu todos os planos de estudo em Jerusalém. Um menino com pouco mais de quatorze anos tinha agora de carregar, junto com a missão do seu Pai celeste, o cuidado da mãe viúva, de sete irmãos e irmãs e de mais um que estava para nascer. O narrador considera essas responsabilidades pesadas, mas altamente educativas e disciplinadoras.",
+ "p126.s2.b3": "Jesus aceitou de bom grado essas responsabilidades e levou-as fielmente até o fim. Ironicamente, o problema de ir para a academia rabínica estava agora resolvido. Ele estava disposto a aprender com qualquer pessoa, mas nunca recebeu dos homens a sua autoridade para ensinar.",
+ "p126.s2.b5": "O narrador acrescenta que Jesus ainda nada sabia da visita de Gabriel à sua mãe antes do seu nascimento; só veio a sabê-lo por João, no dia do seu batismo. Ele ia encontrando o seu caminho pela própria experiência e reflexão, não por anúncios celestes. Naquele inverno os vizinhos apareciam à noite para ouvi-lo tocar harpa, contar histórias e ler as escrituras em grego. Um lar enlutado tornou-se um pequeno ponto de encontro da aldeia.",
+ "p126.s2.b6": "Com o passar dos anos, ele avaliava cada instituição da sociedade e cada uso religioso por um teste invariável. Dedicava cada vez mais o seu tempo e as suas energias a dois propósitos: cuidar da família e preparar-se para cumprir a vontade do seu Pai. José havia deixado uma soma em dinheiro, de modo que a princípio a casa funcionou sem sobressaltos, e Jesus revelou-se um administrador liberal, mas frugal, dos bens do pai.",
+ "p126.s2.b7": {
+  "head": [
+   "A pergunta de teste de Jesus",
+   "O que ela indaga"
+  ],
+  "rows": [
+   [
+    "O que faz pela alma humana?",
+    "O fruto de uma instituição ou prática"
+   ],
+   [
+    "Traz Deus ao homem?",
+    "Se é um canal de revelação"
+   ],
+   [
+    "Leva o homem a Deus?",
+    "Se abre o caminho da ascensão"
+   ]
+  ]
+ },
+ "p126.s3.h": "III. O Décimo Quinto Ano (9 d.C.) — O Pai-nosso e “o Filho do Homem”",
+ "p126.s3.b0": "Em abril do ano 9 d.C. nasceu Rute, a caçula da família, e durante quase vinte anos Jesus a amou e criou, a ela e às outras crianças, tão fielmente quanto qualquer pai. As economias estavam quase esgotadas, e eles tiveram de dispor de uma das casas que José possuía em sociedade com o seu vizinho Jacó.",
+ "p126.s3.b1": "Ele tentou levar os irmãos e as irmãs a orar espontaneamente, cada um com as suas próprias palavras, mas as crianças simplesmente tomavam como oração as frases sugestivas que ele lhes oferecia. Por fim, numa noite de outubro, junto à pequena lâmpada sobre a mesa baixa de pedra, ele escreveu a carvão, numa tábua de cedro, uma oração-modelo para a família. A oração mais tarde conhecida como “⟦Q 126:3.3⟧O Pai nosso⟦/Q⟧” foi formulada pela primeira vez dessa maneira, no altar familiar.",
+ "p126.s3.b2": "As suas responsabilidades familiares afastaram todo pensamento de começar imediatamente a cuidar dos assuntos do seu Pai. Ele raciocinou, com acerto, que o cuidado da família do seu pai terreno devia ser a sua primeira obrigação. Enquanto isso, ponderava profundamente sobre quem ele era e como devia ser chamado.",
+ "p126.s3.b3": {
+  "head": [
+   "Identidade considerada",
+   "A conclusão de Jesus"
+  ],
+  "rows": [
+   [
+    "O Messias que os judeus esperavam",
+    "Firmemente convencido de que não era esse Messias; não conduziria exércitos nem se assentaria no trono de Davi"
+   ],
+   [
+    "Um libertador ou educador moral apenas para os judeus",
+    "Não via assim a sua missão"
+   ],
+   [
+    "O Filho do Homem descrito por Daniel",
+    "Certo de que nunca apareceria como tal"
+   ],
+   [
+    "O “Filho do Homem” do Livro de Enoch",
+    "A história daquele que percorreu a glória com o Pai e desceu para proclamar a salvação era a mais próxima da verdade; ele o adotou como o seu título inaugural"
+   ]
+  ]
+ },
+ "p126.s3.b4": "Ele sabia que o Livro de Enoch não havia sido escrito pelo Enoch de outrora e que nele se misturava o misticismo oriental. Mesmo assim, reconheceu e abraçou a verdade que o livro continha. Olhou para a verdade do conteúdo, mais do que para a fonte.",
+ "p126.s3.b6": "A essa altura ele havia estabelecido muitas coisas sobre o seu trabalho futuro para o mundo, mas nada disse delas à mãe, que ainda sustentava que ele era o Messias judeu. A essência da missão que ele havia estabelecido era “⟦Q 126:3.10⟧cuidar dos assuntos do seu Pai⟦/Q⟧”: fazer toda a humanidade saber da natureza amorosa do seu Pai.",
+ "p126.s3.b7": "Seguiu-se, porém, uma grande confusão. A que se referiam as profecias messiânicas? Poderia a sua mãe, afinal, ter razão? Qual deveria ser a sua relação com a comunidade judaica, com Roma e com os gentios? Ele ponderava cada questão enquanto ganhava a vida na bancada de carpinteiro, para a mãe e oito irmãos e irmãs mais novos. Maria inquietava-se com as suas idéias estranhas, e ele aprendeu a não revelar todos os seus pensamentos. Exteriormente tornou-se comum, mas ansiava por um amigo a quem pudesse confiar-se.",
+ "p126.s4.h": "IV. O Primeiro Sermão na Sinagoga — As palavras escolhidas eram a mensagem",
+ "p126.s4.b0": "No primeiro sábado depois do seu décimo quinto aniversário, Jesus dirigiu pela primeira vez o serviço matinal da sinagoga de Nazaré. Em vez de comentar, leu uma seleção de escrituras, e a própria escolha tornou-se a sua mensagem: as palavras sobre ser ungido para trazer boas-novas aos meigos, o chamado a deixar de fazer o mal e aprender a fazer o bem, e a exortação a defender o órfão e pleitear pela viúva.",
+ "p126.s4.b2": "Essa passagem, que pede justiça, misericórdia e humildade em lugar de sacrifícios, corresponde à convicção do menino que havia ficado nauseado com a matança no templo. Por último, ele leu sobre o Criador que dá poder aos fracos e sobre a promessa “não temas”. A gente da cidade nunca o havia visto tão solene e com tanta autoridade. Naquela tarde ele subiu a colina com Tiago e, ao voltar, escreveu os dez mandamentos em grego em duas tábuas.",
+ "p126.s5.h": "V. A Luta Financeira — Um idealismo que não se quebrou",
+ "p126.s5.b0": "Aos poucos a família voltou a uma vida simples. O salário de um carpinteiro caiu, de modo que, trabalhando de manhã cedo até tarde, Jesus conseguia ganhar apenas cerca de vinte e cinco centavos por dia, e o coletor de impostos chegou a ameaçar tomar-lhe a harpa. O grande choque do seu décimo quinto ano veio quando Herodes decidiu que nada era devido a José na ocasião da sua morte.",
+ "p126.s5.b1": {
+  "head": [
+   "Dificuldade",
+   "A resposta de Jesus"
+  ],
+  "rows": [
+   [
+    "Economias esgotadas",
+    "Uma casa foi vendida; Maria passou o negócio dos pombos a Tiago; compraram mais vacas e venderam leite"
+   ],
+   [
+    "Pressão do coletor de impostos",
+    "Temendo que fosse confiscado, doou o seu exemplar das escrituras em grego à biblioteca da sinagoga, como a sua oferenda de maioridade"
+   ],
+   [
+    "A decisão injusta de Herodes",
+    "Desistiu do sonho de comprar uma pequena fazenda e nunca mais confiou em Herodes Antipas"
+   ],
+   [
+    "Perda do contato com os viajantes das caravanas",
+    "Enviava Tiago à parada de camelos para colher notícias do mundo"
+   ],
+   [
+    "O sonho da vida no campo",
+    "Arrendou um terreno ao norte da casa, onde as crianças cuidavam de hortas e criavam animais"
+   ]
+  ]
+ },
+ "p126.s5.b2": "Nesses anos ele chegou a compreender quase completamente como viviam as pessoas do seu tempo. Essa compreensão íntima da vida no lar, no campo e na oficina aparece claramente nos seus ensinamentos posteriores. O chazam de Nazaré continuava a crer que ele se tornaria um grande mestre, talvez o sucessor de Gamaliel.",
+ "p126.s5.b3": "Aparentemente, todos os planos para a sua carreira estavam frustrados. Mas ele não vacilou nem se desencorajou; dia após dia, cumpriu bem o dever do momento.",
+ "p126.s5.b5": "O narrador vê na dura experiência de sustentar a família uma proteção, que não deixava lugar para a meditação ociosa nem para o misticismo. Como idealista inteiramente prático, Jesus enfrentou a sua situação tal como a encontrou e fez tudo o que pôde para satisfazer, o mais plenamente possível, os anseios da sua família.",
+ "p126.s6.h": "Conclusão — Viver este documento",
+ "p126.s6.b0": "O documento 126 mostra uma vida real que começa no lugar onde os planos desmoronaram. Quando o décimo quinto ano terminou, o período de crescimento da mente e do corpo havia acabado, e começava a verdadeira carreira desse jovem. Ele atravessou esses anos com fidelidade em vez de milagres, com responsabilidade em vez de fuga e com o dever cotidiano em vez do desânimo.",
+ "p126.s6.b1": {
+  "head": [
+   "Prática",
+   "O ensinamento que a fundamenta"
+  ],
+  "rows": [
+   [
+    "Continuar amando e sendo amado mesmo quando não se é compreendido",
+    "Pais que não o compreendiam, mas que o amavam de verdade"
+   ],
+   [
+    "Aceitar de boa vontade uma responsabilidade que recai de repente sobre nós",
+    "Jesus tornou-se chefe da família aos quatorze anos"
+   ],
+   [
+    "Julgar as instituições e as práticas pelo que fazem pela alma",
+    "As três perguntas de teste"
+   ],
+   [
+    "Abraçar a verdade pelo seu conteúdo, não pela sua fonte",
+    "O “Filho do Homem” encontrado no Livro de Enoch"
+   ],
+   [
+    "Quando os planos falham, cumprir fielmente o dever de hoje",
+    "O consolo dos idealistas desapontados"
+   ]
+  ]
+ },
+ "p126.s6.b2": "O documento 127, “Os Anos da Adolescência”, acompanha Jesus dos dezesseis aos vinte anos, como o jovem chefe da sua família.",
+ "p127.lead": "Dos dezesseis aos vinte anos: cinco anos em que o jovem chefe de uma família pobre e numerosa passou pela tentação política e por uma declaração de amor e chegou à plena idade adulta.",
+ "p127.foot": {
+  "text": "Narrado pelo intermediário outrora destinado ao apóstolo André",
+  "ref": "121:0.1"
+ },
+ "p127.s0.h": "Introdução — A mais pesada das adolescências",
+ "p127.s0.b0": "O documento 127 abrange do décimo sexto ao vigésimo ano de Jesus. Poucos anos depois da morte do pai, todos os bens da família haviam desaparecido, e o filho mais velho tornou-se o chefe e o único sustento de uma família numerosa. Ao mesmo tempo, ele se tornava cada vez mais consciente da sua preexistência e do seu propósito: revelar o seu Pai do Paraíso aos filhos dos homens.",
+ "p127.s0.b2": "O narrador declara logo de início o significado desses anos. Tendo realmente vivido a adolescência em um mundo assediado pelo mal e transtornado pelo pecado, o Filho do Homem tornou-se o refúgio compreensivo dos adolescentes aflitos e perplexos de todos os mundos de Nébadon. Este documento é, pois, tanto a história dos anos de crescimento de uma grande vida quanto uma boa-nova para os jovens que hoje lutam: há Alguém que os conhece.",
+ "p127.s1.h": "I. O Décimo Sexto Ano (10 d.C.) — O pleno crescimento do corpo e da mente",
+ "p127.s1.b0": "Nesse ano Jesus alcançou o seu pleno crescimento físico e a plenitude da capacidade para o desenvolvimento intelectual. O texto descreve-o com cuidado, observando que, mesmo no mais comum dos contatos, parecia evidenciar-se uma natureza dupla, a humana e a divina.",
+ "p127.s1.b1": {
+  "head": [
+   "Aspecto",
+   "Jesus aos dezesseis anos"
+  ],
+  "rows": [
+   [
+    "Corpo",
+    "Saudável e bem proporcionado; um jovem viril e formoso"
+   ],
+   [
+    "Mente",
+    "Penetrante e analítica"
+   ],
+   [
+    "Disposição",
+    "Gentil e simpática"
+   ],
+   [
+    "Temperamento",
+    "Um tanto flutuante, mas ativo"
+   ],
+   [
+    "Impressão",
+    "Uma combinação do amigo compassivo e do mestre com autoridade"
+   ]
+  ]
+ },
+ "p127.s1.b2": "Contudo, a família o compreendia cada vez menos. Maria lhes havia dado a entender que ele estava destinado a ser o libertador do povo judeu, de modo que, quanto mais francamente Jesus negava tais idéias, mais confusos eles ficavam. Sabendo que a sua missão era tão incomum que ninguém na Terra poderia aconselhá-lo a respeito dela, ele falava disso cada vez menos.",
+ "p127.s1.b3": "Ainda assim, como a escola da sinagoga não recebia meninas, ele manteve uma escola em casa para que as suas irmãs pudessem aprender tal como os meninos. Passou o ano quase confinado à bancada de trabalho e, no entanto, foi um pai verdadeiro, embora jovem, para a família.",
+ "p127.s1.b4": "Maria sofria ao ver o filho labutando na bancada de carpinteiro em vez de estudar com os rabinos em Jerusalém. Mas, embora não pudesse compreendê-lo plenamente, ela o amava, e apreciava acima de tudo a boa vontade com que ele tomava sobre os ombros a responsabilidade do lar. O amor e a responsabilidade podem caminhar juntos mesmo onde falta a compreensão.",
+ "p127.s2.h": "II. O Décimo Sétimo Ano (11 d.C.) — O chamado dos zelotes e “o dinheiro não pode amar”",
+ "p127.s2.b0": "Em meio à agitação contra o pagamento de impostos a Roma, surgiu um partido nacionalista que logo seria chamado de zelote. Quando os seus organizadores vieram a Nazaré para ver Jesus, ele escutou com atenção e fez muitas perguntas, mas recusou-se a aderir. A mãe, o tio e até o irmão Tiago instaram com ele para que se alistasse, e Isaac, um rico prestamista, ofereceu-se para sustentar a sua família se ele liderasse os patriotas de Nazaré.",
+ "p127.s2.b1": "O narrador explica por que isso era tão delicado. As questões patrióticas enredadas com opressores estrangeiros que cobram impostos são sempre difíceis para os líderes espirituais, e aqui o eram duplamente, porque a própria religião judaica estava envolvida na agitação contra Roma. Simão, irmão de Maria, já havia aderido e mais tarde tornou-se oficial, e durante vários anos Jesus e o tio estiveram afastados um do outro.",
+ "p127.s2.b2": "Pela primeira vez Jesus teve de recorrer conscientemente à estratégia pública, porque não podia revelar que era mais do que um homem nem divulgar a sua missão futura. Com o conselho do seu antigo professor, o chazam, ele expôs a sua posição brava e diplomaticamente, sustentando que o seu primeiro dever era para com a família.",
+ "p127.s2.b4": "Um discurso de Tiago, que não estava no programa, desarmou a oposição restante, e a crise passou. Mas Nazaré permaneceu dividida a respeito do Filho do Homem, e essa foi uma das principais razões pelas quais ele mais tarde se mudou para Cafarnaum. Nesse mesmo ano Jesus fez um grande progresso em harmonizar as suas naturezas divina e humana, e conseguiu-o por força das suas próprias decisões, apenas com a ajuda do seu Monitor residente.",
+ "p127.s3.h": "III. O Décimo Oitavo Ano (12 d.C.) — A Páscoa com Tiago e a morte de Amós",
+ "p127.s3.b0": "Todos os bens da família, exceto a casa e o jardim, foram vendidos. Aliviada por algum tempo a pressão, Jesus levou Tiago à Páscoa. No cume do monte das Oliveiras, enquanto Tiago exprimia a sua admiração pelo templo, Jesus contemplou Jerusalém em silêncio, e nas discussões do templo não fez nenhuma pergunta. Ao irmão decepcionado ele apenas respondeu: “⟦Q 127:3.5⟧Minha hora ainda não chegou⟦/Q⟧”.",
+ "p127.s3.b1": "Em setembro Isabel e João vieram visitá-los. Depois de muitas conversas íntimas, os dois jovens combinaram não voltar a ver-se até que se encontrassem no serviço público, quando o Pai celeste os chamasse. Em dezembro o pequeno Amós morreu de uma febre alta, e as despesas de um funeral, somadas a tudo o mais, abalaram a família. Nessa dor Maria reconheceu por fim Jesus como o verdadeiro chefe da família, no sentido mais pleno.",
+ "p127.s3.b3": "O narrador diz que o seu otimismo sólido e prático era contagiante e ajudou a formar nas crianças um caráter forte e nobre, apesar da pobreza deprimente. Com o seu poder de concentrar-se em um problema e a sua paciência incansável, ele viveu como se estivesse “⟦Q 127:3.15⟧vendo Aquele que é Invisível⟦/Q⟧”. Essa cena mostra que a esperança não é algo que vem depois que as circunstâncias melhoram; é a força para suportá-las.",
+ "p127.s3.b4": "De volta a Nazaré, ele trabalhou na velha oficina de reparos que estava comprando de volta e alegrou-se muito por encontrar pessoas de todo o país. O texto diz que ele amava verdadeiramente as pessoas, a gente simples e comum. Na sinagoga, ele dispunha a ordem das leituras de modo que uma passagem iluminasse a outra e, sempre que o tempo permitia, levava os irmãos e as irmãs a passeios pela natureza nas tardes de sábado. Ao entrar para o clube de jovens do chazam, dedicado à discussão filosófica, recuperou um pouco do prestígio que havia perdido na controvérsia nacionalista.",
+ "p127.s4.h": "IV. O Décimo Nono Ano (13 d.C.) — A educação doméstica do irmão-pai",
+ "p127.s4.b0": "Nesse ano Jesus conquistou plenamente a aceitação da mãe para educar as crianças pelo estímulo positivo a fazer o bem, em lugar do velho método de proibir o mal. Em casa, e em toda a sua carreira pública, ele sempre exortava na forma “⟦Q 127:4.2⟧Tu devias fazer isso⟦/Q⟧”, e a hora da prece tornou-se a ocasião para discutir tudo o que dizia respeito ao bem-estar da família.",
+ "p127.s4.b2": {
+  "head": [
+   "Princípio",
+   "Na prática"
+  ],
+  "rows": [
+   [
+    "Exortação positiva",
+    "Ordens de fazer o bem em lugar de tabus"
+   ],
+   [
+    "Disciplina desde cedo",
+    "Começada tão cedo que pouca ou quase nenhuma punição se fazia necessária"
+   ],
+   [
+    "Decisões compartilhadas",
+    "As penalidades de Judá eram fixadas por unanimidade pelos irmãos mais velhos e consentidas pelo próprio Judá"
+   ],
+   [
+    "Eqüidade flexível",
+    "Metódica e sistemática, mas adaptada a cada criança"
+   ],
+   [
+    "Ensinamentos pessoais deixados à persuasão",
+    "Nenhuma punição por não praticar ensinamentos como a não-resistência"
+   ]
+  ]
+ },
+ "p127.s4.b3": "O texto esboça o caráter de cada uma das sete crianças, mostrando como cresceram de modo diferente sob o mesmo irmão-pai. Jesus nunca os disciplinou arbitrariamente, e as crianças, especialmente as meninas, confiavam-lhe os seus problemas como o fariam a um pai afetuoso.",
+ "p127.s4.b4": {
+  "head": [
+   "Irmão ou irmã",
+   "O caráter como o texto o retrata"
+  ],
+  "rows": [
+   [
+    "Tiago",
+    "Bem equilibrado e de temperamento estável, mas menos inclinado à espiritualidade do que Jesus"
+   ],
+   [
+    "José",
+    "Um trabalhador fiel e laborioso"
+   ],
+   [
+    "Simão",
+    "Um menino bem-intencionado, mas muito sonhador"
+   ],
+   [
+    "Judá",
+    "Um pavio de fogo, com os mais altos ideais, mas de temperamento pouco estável"
+   ],
+   [
+    "Míriam",
+    "Uma filha de cabeça sensata, com uma apreciação aguçada das coisas nobres e espirituais"
+   ],
+   [
+    "Marta",
+    "Lenta, mas muito confiável e eficiente"
+   ],
+   [
+    "Rute",
+    "O raio de sol da casa, muito sincera de coração"
+   ]
+  ]
+ },
+ "p127.s4.b5": "Jesus liberalizou gradualmente as práticas da família, como a observância do sábado, e Maria deu o seu assentimento de coração. Quando Judá começou a ir à escola, nesse ano, Jesus vendeu a sua harpa, o seu último prazer recreativo, para pagar as despesas, consolando-se com o pensamento de que ao menos a harpa estava agora a salvo de ser confiscada pelo coletor de impostos.",
+ "p127.s5.h": "V. Rebeca, a Filha de Ezdras — Uma declaração de amor recusada",
+ "p127.s5.b0": "Rebeca, a filha mais velha de Ezdras, um rico mercador de Nazaré, apaixonou-se por Jesus. Quando Maria e Míriam tentaram dissuadi-la, falando-lhe da sua crença de que ele era um filho do destino, a sua resolução só aumentou, e o pai a apoiou, oferecendo-se para compensar a família pela perda dos ganhos de Jesus.",
+ "p127.s5.b1": "Jesus respondeu que nenhuma soma de dinheiro poderia tomar o lugar da sua obrigação pessoal de criar a família do seu pai. Por meio disso ele enfrentou pela primeira vez a questão do casamento, com a qual todo ser humano comum deve confrontar-se. Agradeceu sinceramente a Rebeca pela sua admiração, mas explicou que não era livre para entrar em relacionamento algum além da simples consideração fraterna e da pura amizade.",
+ "p127.s5.b4": "Rebeca mudou-se para Séforis, mas esperou por ele a vida inteira, seguiu-o com devoção durante a sua carreira pública e esteve entre as mulheres junto à cruz. A recusa dele não pôs fim ao amor dela; transformou-o em uma devoção maior.",
+ "p127.s6.h": "VI. O Seu Vigésimo Ano (14 d.C.) — Uma Páscoa sem cordeiro, no limiar da idade adulta",
+ "p127.s6.b0": "Na Páscoa desse ano, em Betânia, Jesus celebrou a festa com Lázaro, Marta e Maria sem o cordeiro pascal. Ensinou que o Pai no céu não se interessava verdadeiramente por esses rituais sem sentido e serviu-lhes o pão sem levedo e o vinho como “⟦Q 127:6.7⟧o pão da vida⟦/Q⟧” e “⟦Q 127:6.7⟧a água da vida⟦/Q⟧”. Em casa, porém, continuou a celebrar a Páscoa com a família segundo a lei de Moisés.",
+ "p127.s6.b2": "Quando Maria lhe perguntou sobre o casamento, ele respondeu que todas essas coisas deviam aguardar a “minha hora”, e já havia estabelecido na sua mente que não se tornaria pai de filhos na carne. O documento enumera então, uma a uma, as coisas que o Jesus de vinte anos estava aprendendo.",
+ "p127.s6.b3": {
+  "head": [
+   "O que ele estava aprendendo",
+   "Significado"
+  ],
+  "rows": [
+   [
+    "Suportar a responsabilidade",
+    "Perseverar diante das decepções"
+   ],
+   [
+    "Eqüidade",
+    "Ser equânime e justo mesmo diante da injustiça"
+   ],
+   [
+    "Ajustar os ideais à realidade",
+    "Adequar os ideais espirituais às demandas práticas da vida terrena"
+   ],
+   [
+    "Metas próximas e distantes",
+    "Trabalhar pelas necessidades imediatas enquanto planeja uma meta mais elevada"
+   ],
+   [
+    "Usar o impulso espiritual",
+    "Fazer girar o mecanismo da realização material"
+   ],
+   [
+    "Uma dupla paternidade",
+    "Depender do Pai celeste enquanto guia a sua família terrena"
+   ]
+  ]
+ },
+ "p127.s6.b5": "Quando criança, ele acumulou conhecimentos; quando jovem, ordenou-os e correlacionou-os; e agora, como homem, começa a organizar essas posses mentais para o seu ensino e o seu serviço futuros. Cheio de compaixão pelas fragilidades da natureza humana, ele se prepara para a sua missão de revelar Deus aos homens e de conduzir os homens a Deus.",
+ "p127.s7.h": "Conclusão — Viver este documento",
+ "p127.s7.b0": "O Jesus do documento 127 não é um jovem que opera prodígios, mas um rapaz que cresce escolhendo, dia após dia, em meio à pobreza, à incompreensão e à tentação. Toda essa experiência humana tornou-se posse eterna do Soberano do Universo, e assim ele se tornou o nosso irmão compreensivo e amigo compassivo.",
+ "p127.s7.b1": {
+  "head": [
+   "Prática",
+   "A cena que a fundamenta"
+  ],
+  "rows": [
+   [
+    "Ser fiel primeiro aos deveres mais próximos",
+    "Ele recusou tanto os zelotes quanto a oferta de Rebeca"
+   ],
+   [
+    "Discernir o que o dinheiro não pode comprar",
+    "“O dinheiro não pode amar”"
+   ],
+   [
+    "Conduzir pelo estímulo, mais do que pela proibição",
+    "A ordem positiva de fazer o bem"
+   ],
+   [
+    "Manter um otimismo prático na tristeza",
+    "As suas palavras à mãe depois da morte de Amós"
+   ],
+   [
+    "Adequar os ideais às demandas da vida diária",
+    "Aprender a vida celeste enquanto vive a terrena"
+   ]
+  ]
+ },
+ "p127.s7.b2": "No documento 128, “O Início da Vida Adulta de Jesus”, ele continua a cuidar da família enquanto começa, como o Filho do Homem, a encontrar o mundo mais amplo.",
+ "p128.lead": "Dos vinte e um aos vinte e seis anos: o Filho do Homem entrega aos irmãos a chefia da família, recusa as honrarias de Damasco e de Alexandria e prepara-se para deixar o lar.",
+ "p128.foot": {
+  "text": "Narrado pelo intermediário outrora destinado ao apóstolo André",
+  "ref": "121:0.1"
+ },
+ "p128.s0.h": "Introdução — Um Criador que vive uma vida humana comum",
+ "p128.s0.b0": "O documento 128 abrange do vigésimo primeiro ao vigésimo sexto ano de Jesus. O narrador lembra-nos primeiro que ele veio ao mundo como as outras crianças, sem escolher os pais, e cresceu lutando com as vicissitudes do seu ambiente exatamente como os outros mortais. Expõe em seguida dois propósitos que devemos ter sempre em mente ao ler sobre esta auto-outorga.",
+ "p128.s0.b1": {
+  "head": [
+   "Propósito da auto-outorga de Michael",
+   "Significado"
+  ],
+  "rows": [
+   [
+    "1. A mestria por meio da experiência",
+    "Viver plenamente a vida de uma criatura humana na carne mortal, completando a sua soberania em Nébadon"
+   ],
+   [
+    "2. A revelação do Pai",
+    "Revelar o Pai Universal aos mortais do tempo e do espaço e conduzi-los a uma compreensão melhor dele"
+   ],
+   [
+    "Incidental",
+    "Benefícios para outras criaturas e vantagens para o universo"
+   ]
+  ]
+ },
+ "p128.s0.b2": "Esses dois propósitos são o fio que percorre todo o documento. Cada cena comum (cuidar da família, trabalhar, recusar ofertas, treinar os irmãos) era ao mesmo tempo experiência que conquistava a soberania e vida que revelava o Pai.",
+ "p128.s1.h": "I. O Vigésimo Primeiro Ano (15 d.C.) — Um verdadeiro homem entre os homens",
+ "p128.s1.b0": "Tendo chegado à idade adulta, Jesus começou a sério, plenamente consciente da sua natureza dual, a completar a experiência de viver a vida da forma mais baixa das suas criaturas inteligentes. Trabalhou, cansou-se, descansou e dormiu; teve fome e sede e experimentou toda a gama dos sentimentos humanos. Escolheu “⟦Q 128:1.2⟧o Filho do Homem⟦/Q⟧” como a sua primeira denominação porque sabia muito bem que era um homem mortal, nascido de uma mulher.",
+ "p128.s1.b2": "Quanto aos atributos da sua existência pré-humana, ele se esvaziou de si mesmo e, antes da sua obra pública, o seu conhecimento dos homens e dos acontecimentos era inteiramente autolimitado. Assim, como alguém que foi realmente testado e provado, ele é profusamente capaz de compreender os que estão confusos e aflitos e de ministrar a eles. Termos um soberano que conhece a nossa fraqueza é o primeiro consolo que este documento oferece aos seus leitores.",
+ "p128.s1.b4": "A sua natureza humana era evidente para ele, mas a auto-realização da sua natureza divina foi uma revelação evolucionária lenta e natural. Começou em Jerusalém, quando ele tinha quase treze anos, e completou-se no seu batismo no Jordão, e nada de sobrenatural aconteceu nesse intervalo. O narrador atesta que, à parte os seus serafins guardiães, ele não se valeu da orientação de personalidades celestes.",
+ "p128.s1.b5": "Isso não significa que ele não fosse divino. Depois que começou a sua carreira pública, não fez objeção quando foi chamado por muitos títulos grandiosos. Houve um único título que ele recusou.",
+ "p128.s1.b7": "Na Páscoa desse ano ele levou o irmão José a Jerusalém, porque nunca mostrou parcialidade na família. Quando José lhe fazia perguntas sobre a sua missão, pelo caminho, ele geralmente respondia apenas: “⟦Q 128:1.15⟧Minha hora ainda não chegou⟦/Q⟧”.",
+ "p128.s2.h": "II. O Vigésimo Segundo Ano (16 d.C.) — Tiago instalado como chefe suplente",
+ "p128.s2.b0": "À medida que os irmãos e as irmãs passavam, um a um, pelas provas da adolescência, Jesus enfrentava com eles os seus problemas. Uma reunião de família decidiu que nem todos os meninos deviam tornar-se carpinteiros, e Simão foi trabalhar com Jacó, o pedreiro. Quando o trabalho de carpintaria escasseou, Jesus foi para Séforis e passou seis meses aprendendo o ofício de ferreiro.",
+ "p128.s2.b1": "Antes de partir, fez uma reunião de família, instalou solenemente Tiago, então com pouco mais de dezoito anos, como chefe suplente da família, e exigiu de todos promessas de obediência a Tiago. Poderia ter voltado para casa a pé todas as noites, mas permaneceu afastado de propósito; o seu verdadeiro motivo era treinar Tiago e José para assumirem as responsabilidades da família.",
+ "p128.s2.b3": "Em Séforis ele trabalhou e viveu com gentios e estudou de perto a mente gentia. Mas os padrões morais da cidade eram muito inferiores aos de Nazaré, e ele não queria ser empregado em obras públicas sob Herodes Antipas, e por isso voltou para Nazaré. Mesmo então não retomou a direção da casa, deixando-a com Tiago.",
+ "p128.s3.h": "III. O Vigésimo Terceiro Ano (17 d.C.) — Uma viagem com Simão e um encontro com Estevão",
+ "p128.s3.b0": "Com quatro pessoas agora trabalhando, as finanças da família aliviaram-se um pouco, e Jesus levou Simão a Jerusalém pelo caminho da Decápolis, voltando pela estrada da costa. Essas três semanas foram a pausa mais longa na labuta diária que ele havia tido desde a morte do pai. Em Filadélfia encontraram um mercador de Damasco que possuía mais de quatro mil camelos, e esse encontro levou ao episódio que se segue.",
+ "p128.s3.b1": "Em Jerusalém, Jesus passou quatro horas com um jovem helenista chamado Estevão, conversando sobre o modo de vida e sobre o verdadeiro Deus e a sua adoração. Estevão nunca se esqueceu das suas palavras; anos mais tarde, a sua pregação ousada do evangelho levou-o a ser apedrejado até a morte. As emoções despertadas em Saulo de Tarso, que estava presente, acabaram por levá-lo a tornar-se Paulo.",
+ "p128.s3.b2": "Enquanto isso, Maria ficou contrariada ao saber que, em Jerusalém, Jesus havia passado o tempo conversando com estranhos, especialmente com os de países distantes. A família nunca pôde compreender o seu impulso de conhecer as pessoas e de saber o que pensavam, e Maria ia lentamente abandonando a idéia de que ele fosse um filho da promessa.",
+ "p128.s4.h": "IV. O Episódio de Damasco — Uma das maiores tentações",
+ "p128.s4.b0": "Jesus passou os quatro últimos meses do ano em Damasco, como hóspede do mercador. Este propôs fundar uma escola de filosofia religiosa que superasse Alexandria, pediu a Jesus que a dirigisse e trouxe doze mercadores e banqueiros para sustentá-la. O texto chama a isso uma das maiores tentações que Jesus enfrentou na sua carreira puramente humana.",
+ "p128.s4.b2": "Ele nunca contou à família sobre a oferta e voltou aos seus deveres diários em Nazaré como se nada tivesse acontecido. O narrador explica que ele mantinha deliberadamente separados os episódios da sua vida, para que as pessoas nunca os ligassem como feitos de um só indivíduo, pelas razões seguintes.",
+ "p128.s4.b3": {
+  "head": [
+   "A intenção de Jesus",
+   "O perigo que ele queria evitar"
+  ],
+  "rows": [
+   [
+    "Não edificar um currículo espetacular de realizações",
+    "Que as gerações seguintes venerassem o mestre em vez de obedecer à verdade"
+   ],
+   [
+    "Suprimir a tendência de exaltar o mestre",
+    "Que uma religião sobre ele viesse a competir com o evangelho do Reino"
+   ],
+   [
+    "Ser conhecido por títulos diferentes em épocas diferentes",
+    "Exercer uma influência indevida sobre a família e os vizinhos"
+   ],
+   [
+    "Esperar pela resposta do coração",
+    "Que as pessoas cressem nele sem a realidade espiritual revelada nos seus ensinamentos"
+   ]
+  ]
+ },
+ "p128.s4.b4": "Com o passar dos anos, tornou-se cada vez mais difícil reconhecer que esse homem era um Filho de Deus. Ele parecia apenas mais um homem entre os homens, e o Pai no céu havia ordenado que a auto-outorga se desenrolasse exatamente dessa maneira.",
+ "p128.s5.h": "V. O Vigésimo Quarto Ano (18 d.C.) — O convite de Alexandria",
+ "p128.s5.b0": "No seu primeiro ano de relativa liberdade das responsabilidades familiares, cinco judeus proeminentes de Alexandria encontraram-se com ele em Cesaréia e instaram-no a tornar-se instrutor religioso na cidade deles. Advertiram que qualquer levante na Palestina seria um suicídio nacional e que Jerusalém seria destruída. Jesus agradeceu-lhes, mas recusou, respondendo em essência: “⟦Q 128:5.4⟧A minha hora ainda não chegou⟦/Q⟧”; e recusou também a bolsa que lhe ofereceram.",
+ "p128.s5.b2": "Os seis meses que se seguiram foram os menos movimentados de toda a sua carreira. Ele comungou muito com o seu Pai no céu e fez um progresso enorme no domínio da sua mente humana. Em dezembro, Tiago pediu para casar-se com Esta, e Míriam com Jacó, o pedreiro; Jesus consentiu, com a condição de que cada um primeiro preparasse um sucessor.",
+ "p128.s6.h": "VI. O Vigésimo Quinto Ano (19 d.C.) — A prisão de Judá e o tio Joshua",
+ "p128.s6.b0": "Pagas todas as dívidas, Jesus levou Judá, o irmão mais novo, à sua primeira visita ao templo. Mas Judá explodiu de indignação contra um guarda romano que havia insultado uma jovem judia e foi preso, e Jesus ficou com ele na prisão durante dois dias. Diante do magistrado, defendeu o caso com discernimento e conseguiu a libertação do irmão. Nada disse à família, mas três semanas depois teve uma longa conversa com Judá.",
+ "p128.s6.b1": "Essa foi a última Páscoa a que Jesus assistiu com algum membro da sua família. Por essa época ele pôs areia, blocos e pedras ao lado da loja de reparos, e as crianças acorriam para lá e pediam ao “tio Joshua” que saísse e lhes contasse uma grande história. Os seus amigos mal podiam compreender como ele conseguia passar tão completamente das discussões profundas de política e filosofia para a brincadeira alegre das crianças pequenas.",
+ "p128.s6.b2": "O magistrado romano aconselhou-o a ficar de olho no rapaz, e de fato Judá causou problemas repetidas vezes com as suas explosões patrióticas impensadas. Contudo, Judá nunca esqueceu a paciência e a tolerância que o seu irmão-pai demonstrou durante toda aquela provação. O tempo que Jesus passou partilhando o seu confinamento durou mais na memória de Judá do que qualquer repreensão teria durado.",
+ "p128.s7.h": "VII. O Vigésimo Sexto Ano (20 d.C.) — A casa do seu pai entregue a Tiago",
+ "p128.s7.b0": "Nesse ano Jesus tornou-se profundamente consciente de que possuía um vasto poder potencial, mas estava plenamente convencido de que esse poder não devia ser utilizado até que a sua hora chegasse. A conclusão do seu pensamento exprimiu-se em uma prece no alto da colina.",
+ "p128.s7.b2": "A pedra de tropeço na família era Judá. Quando Tiago e José quiseram expulsá-lo, Jesus aconselhou a paciência e a persuasão pelo exemplo, e esse conselho evitou uma ruptura na família. Quando Judá fugiu de casa, Jesus confiou-o aos cuidados de um parente pescador, em Magdala, e a partir de então Judá trabalhou com bastante regularidade.",
+ "p128.s7.b4": {
+  "head": [
+   "Passo na entrega da chefia",
+   "Quando",
+   "O que aconteceu"
+  ],
+  "rows": [
+   [
+    "Chefe suplente",
+    "O vigésimo segundo ano",
+    "Tiago formalmente instalado e encarregado da responsabilidade financeira"
+   ],
+   [
+    "Os fundos da casa",
+    "Dois anos antes do casamento de Tiago",
+    "José encarregado dos fundos e da administração geral"
+   ],
+   [
+    "Chefe da família",
+    "Depois do duplo casamento, no vigésimo sexto ano",
+    "José formalmente feito chefe da família"
+   ],
+   [
+    "Transferência completa",
+    "No dia seguinte ao casamento",
+    "O título de posse da loja de reparos dado a Tiago, e um acordo secreto assinado"
+   ]
+  ]
+ },
+ "p128.s7.b5": "Em novembro, no dia seguinte ao duplo casamento, Jesus abdicou solenemente de ser o chefe da casa e estabeleceu Tiago como “⟦Q 128:7.13⟧chefe e protetor da casa do meu pai⟦/Q⟧”, prometendo ao mesmo tempo enviar alguma coisa todos os meses até que a sua hora chegasse. Desse modo ele se preparou para entrar na segunda fase da sua vida adulta, afastada do lar, antes de começar a sua obra pública.",
+ "p128.s8.h": "Conclusão — Viver este documento",
+ "p128.s8.b0": "O documento 128 é o registro de uma preparação para partir. Jesus não abandonou a família; treinou-a para passar lentamente da dependência à independência. Ao mesmo tempo, recusou uma a uma a honra, o dinheiro e o apoio institucional, resguardando a sua missão de tornar-se uma religião que exaltasse um homem.",
+ "p128.s8.b1": {
+  "head": [
+   "Prática",
+   "A cena que a fundamenta"
+  ],
+  "rows": [
+   [
+    "Não retomar uma responsabilidade que se entregou",
+    "Ele nunca retomou o controle das mãos de Tiago"
+   ],
+   [
+    "Pôr à prova até as boas ofertas diante da própria missão",
+    "Ele recusou a escola de Damasco e o convite de Alexandria"
+   ],
+   [
+    "Ajudar os outros a honrar a verdade, não a pessoa",
+    "Ele não edificou um currículo espetacular de realizações"
+   ],
+   [
+    "Conquistar com paciência e exemplo um familiar difícil",
+    "Ele não quis expulsar Judá"
+   ],
+   [
+    "Pôr a vontade do Pai à frente de qualquer poder",
+    "A prece no alto da colina"
+   ]
+  ]
+ },
+ "p128.s8.b2": "No documento 129, “A Vida Adulta de Jesus”, ele deixa Nazaré e entra em uma etapa de viver e misturar-se com as pessoas no mundo mais amplo."
 }

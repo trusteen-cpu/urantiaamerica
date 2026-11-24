@@ -24,5 +24,10 @@
 # commentary p146 (146:4.6): 해설·표가 Madon 도 '대체로 거부'로 묶음 — 책은 Chorazin 만 거부, Madon 은 조금 나았음. 저자 확인
 # commentary p191.s7.b3: 다음 편 제목 'Appearances in Galilee' 를 191:4.5 인라인 인용으로 표시 — 원문에서 표지를 빼는 편이 맞음; p190.s2.b0 'his eldest brother, James' — 야고보는 예수의 동생(190:2.2). 저자 확인
 # commentary p162 (lead, s1.b0): 해설 'My hour has (not yet) come' — 책 162:1.1 은 'The hour…'. 저자 확인
-# 2026-11-24: fr commentary 배포 완료. 실행 중 = pt c04 c06 c14-c26 (이 세션 에이전트). 완료 pt c01-c03 c05 c07-c13
-# commentary p090.s2.b3: 일식 연도 1806(해설) vs 공식 pt 1808 — 영문 90:2.9 와 대조 필요
+# 공식 pt 90:2.9 는 일식을 1808 로 오기(영문·해설은 1806) — pt 해설은 1806 유지
+# pt 빌드 전: 구역 제목 오기 확인(99:6 Institutional, 59:3 BraRAquiópodes, 59:6 Attribulação, 61:1 MamíferosS) — data/pt_titles.json 과 work/papers_pt 가 어긋나는지, 해설 머리글(p099.s6.h 등) 고치기
+# commentary p128.s7.b4: 'two years before James's marriage' 가계 맡김 — 책 128:5.7/128:7.11 과 표현 다름; p123.s1.b2 'the family' 가 외삼촌 농장에 — 책 123:1.7 은 마리아와 두 아들. 사소, 저자 판단
+# 2026-11-24 저녁: 사용자 지시로 일시 중단 — "시작 신호 줄 때까지 America 작업 다시 시작하지 말 것".
+# 배포 완료: commentary es·fr. commentary pt 완료 c01-c15 c17, 도중 c16 c18-c26. easy es 도중 c01-c11 (c12~ 는 QUEUE.txt).
+# 재개 방법: 각 chunk `--chunk` 검사로 상태 확인 → 미완 chunk 에 새 에이전트(기존 파일 이어 쓰기) → QUEUE.txt 순서대로.
+# pt commentary 다 차면: 홑별표 제거 → build_commentary_am.py pt → add_menu.py commentary → 배포·커밋.
