@@ -47,7 +47,20 @@
   "st_on": "Vous suivez le plan.",
   "day1": "{n} jour",
   "days": "{n} jours",
-  "today_graph": "aujourd’hui"
+  "today_graph": "aujourd’hui",
+  "paper": "Fascicule",
+  "hint": "Touchez le titre d’un fascicule ou d’une section (📖) pour ouvrir le texte, puis marquez-le comme lu sur place. Le bouton ▸ déplie la liste des sections.",
+  "close": "✕ Liste",
+  "mark": "Marquer comme lu",
+  "marked": "✓ Lu",
+  "readOn": "Lu le {d} · touchez encore pour annuler",
+  "unread": "Touchez ici quand vous avez fini cette section",
+  "allMark": "✓ Marquer tout le fascicule comme lu",
+  "prevP": "◀ Précédent",
+  "nextP": "Suivant ▶",
+  "loading": "Chargement du texte…",
+  "fail": "Impossible de charger le texte. Réessayez dans un instant.",
+  "unmarkQ": "Retirer cette marque ?"
  },
  "diary": {
   "title": "📔 Journal quotidien du Livre d’Urantia",

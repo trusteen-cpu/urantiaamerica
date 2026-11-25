@@ -16,6 +16,9 @@ H = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(H, "..", ".."))
 FE = r"E:\OneDrive\내 문서\유란시아\urantiafareast 홈페이지"
 SRC = os.path.join(FE, "site", "reading")
+# index.html: the Korean portal page, which has the text panel (click a paper/section title -> its text opens, mark it read there;
+#   portal commit 0f9de07). The Far East copy predates it. Body text = /<l>/bilingual/data/pNNN.js (official translation, v[2]).
+PORTAL = r"E:\OneDrive\문서\GitHub\urantia-portal\reading"
 args = sys.argv[1:]
 DRAFT = "--draft" in args
 LANGS = [a for a in args if a in ("es", "fr", "pt")] or ["es", "fr", "pt"]
@@ -42,6 +45,11 @@ IDX_EN = {
     "st_on": "You are on plan.",
     "day1": "{n} day", "days": "{n} days",
     "today_graph": "today",
+    "paper": "Paper",
+    "hint": "Tap a paper or section title (📖) to open the text, then mark it read right there. The ▸ button expands the section list.",
+    "close": "✕ List", "mark": "Mark as read", "marked": "✓ Read", "readOn": "Read on {d} · tap again to undo",
+    "unread": "Tap when you have finished this section", "allMark": "✓ Mark whole paper read", "prevP": "◀ Previous", "nextP": "Next ▶",
+    "loading": "Loading the text…", "fail": "Could not load the text. Please try again shortly.", "unmarkQ": "Remove this mark?",
 }
 DIA_EN = {
     "title": "📔 Daily Urantia Journal", "prev": "◀ Previous day", "next": "Next day ▶", "today": "Today",
@@ -49,8 +57,9 @@ DIA_EN = {
     "think": "✎ Today’s events and thoughts", "ph": "Write about what happened in your day", "saved": "Saved", "past": "Past entries",
     "hint": "Your journal is saved in this browser. It is included in the Export file of the One-Year Reading page.",
 }
-PH = {"st_ahead1": {"{d}"}, "st_ahead": {"{d}"}, "st_behind1": {"{d}", "{p}"}, "st_behind": {"{d}", "{p}"}, "day1": {"{n}"}, "days": {"{n}"}}
-EMOJI = {("index", "next"): "▶", ("index", "dbtn"): "📔", ("diary", "title"): "📔", ("diary", "prev"): "◀", ("diary", "next"): "▶",
+PH = {"st_ahead1": {"{d}"}, "st_ahead": {"{d}"}, "st_behind1": {"{d}", "{p}"}, "st_behind": {"{d}", "{p}"}, "day1": {"{n}"}, "days": {"{n}"}, "readOn": {"{d}"}}
+EMOJI = {("index", "next"): "▶", ("index", "hint"): "📖", ("index", "close"): "✕", ("index", "marked"): "✓",
+         ("index", "allMark"): "✓", ("index", "prevP"): "◀", ("index", "nextP"): "▶", ("index", "dbtn"): "📔", ("diary", "title"): "📔", ("diary", "prev"): "◀", ("diary", "next"): "▶",
          ("diary", "verse"): "✦", ("diary", "other"): "↻", ("diary", "think"): "✎"}
 
 
@@ -124,22 +133,23 @@ def data(l):
 
 def jsobj(l, X, sec):
     q = json.dumps
-    S = {k: v for k, v in X.items() if not k.startswith(("st_", "day"))}
+    S = {k: v for k, v in X.items() if not k.startswith(("st_", "day")) and k != "readOn"}
     body = ", ".join(f"{k}:{q(v, ensure_ascii=False)}" for k, v in S.items())
     if sec == "index":
         body += (f",\n  st:function(d,p){{ return d>0 ? (d===1?{q(X['st_ahead1'], ensure_ascii=False)}:{q(X['st_ahead'], ensure_ascii=False)}).replace('{{d}}',d)"
                  f" : d<0 ? (d===-1?{q(X['st_behind1'], ensure_ascii=False)}:{q(X['st_behind'], ensure_ascii=False)}).replace('{{d}}',-d).replace('{{p}}',p)"
                  f" : {q(X['st_on'], ensure_ascii=False)}; }},\n"
                  f"  days:function(n){{ return (n===1?{q(X['day1'], ensure_ascii=False)}:{q(X['days'], ensure_ascii=False)}).replace('{{n}}',n); }},"
-                 " secs:function(a,b){ return a+' / '+b; }")
+                 " secs:function(a,b){ return a+' / '+b; },\n"
+                 f"  readOn:function(d){{ return {q(X['readOn'], ensure_ascii=False)}.replace('{{d}}',d); }}")
     else:
         body += (",\n  dfmt:function(d){ var s = new Date(d+'T00:00').toLocaleDateString('" + LOCALE[l] +
                  "',{weekday:'long',year:'numeric',month:'long',day:'numeric'}); return s.charAt(0).toUpperCase()+s.slice(1); }")
     return "var T = {" + body + "};"
 
 
-def conv(l, name, pairs, T, out):
-    s = open(os.path.join(SRC, name), encoding="utf-8").read()
+def conv(l, name, pairs, T, out, src=SRC):
+    s = open(os.path.join(src, name), encoding="utf-8").read()
     for a, b in pairs:
         if a not in s: raise SystemExit(f"{name}: template changed, not found: {a[:60]}")
         s = s.replace(a, b)
@@ -169,7 +179,15 @@ def build(l, D, out):
         ("(LANG==='ko'?'편':'')", "''"),
         ("(LANG==='ko'?'월':'')", "''"),
         ("(LANG==='ko'?'오늘':'today')", json.dumps(I["today_graph"], ensure_ascii=False)),
-    ], jsobj(l, I, "index"), out)
+        ('<script src="/auth.js"></script>\n', ""),                        # the portal is members-only; this site is open
+        ("sc.src = '/bilingual/data/p'", f"sc.src = '/{l}/bilingual/data/p'"),
+        ("pairs.push([v[0], v[1]]);", "pairs.push([v[0], v[2]]);"),        # v = [cit, en, <l>]
+        ("(LANG === 'ko' ? n + '편 ' : T.paper + ' ' + n + ' · ')", "T.paper + ' ' + n + ' · '"),
+        ("(LANG === 'ko' ? '제' + n + '편 ' : T.paper + ' ' + n + ': ')", "T.paper + ' ' + n + ': '"),
+        ("(LANG === 'ko' ? '읽음 표시를 지울까요?' : 'remove this mark?')", "T.unmarkQ"),
+        ("if (LANG === 'en') { set('fsDown', 'A-'); set('fsUp', 'A+'); }", "set('fsDown', 'A-'); set('fsUp', 'A+');"),
+        ('title="A-">가-</button>', 'title="A-">A-</button>'), ('title="A+">가+</button>', 'title="A+">A+</button>'),
+    ], jsobj(l, I, "index"), out, PORTAL)
     conv(l, "diary.html", [
         (lang_line, f"var LANG = '{l}';"),
         ("<title>매일 유란시아 일기</title>", f"<title>{G['title'].replace('📔 ', '')}</title>"),

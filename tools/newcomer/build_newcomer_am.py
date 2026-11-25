@@ -17,6 +17,7 @@ ROOT = os.path.normpath(os.path.join(H, "..", ".."))
 FE = r"E:\OneDrive\내 문서\유란시아\urantiafareast 홈페이지"
 EN_BUILDER = os.path.join(FE, "tools", "build_newreader_en.py")
 EN_FIG = os.path.join(FE, "site", "en", "newcomer", "fig")
+AM_FIG = r"E:\OneDrive\유란시아 작업\newcomer_figs_am\out_{l}"   # translated figures (PNG, 300 dpi)
 sys.path.insert(0, H)
 import extract_src as X  # noqa: E402  (같은 폴더: 줄 분류·파일 목록·청크 정의)
 
@@ -263,14 +264,19 @@ def build(l, T):
     if (bad or enlink) and not DRAFT: raise SystemExit(f"CHECK FAILED: hangul {bad} / English links {enlink} in output")
     for f, p in pages:
         if DRAFT: p = p.replace("<body>\n", '<body>\n<div style="background:#c00;color:#fff;text-align:center;padding:4px;font:13px sans-serif">DRAFT — not for publication</div>\n', 1)
+        p = re.sub(r'src="fig/([\w-]+)\.webp"', r'src="fig/\1.webp?v=am2"', p)   # cache-bust: figures were English before 2026-11-25
         open(os.path.join(OUT, f), "w", encoding="utf-8").write(p)
-    # 그림: 영어판이 만든 webp 를 그대로 복사(그림 속 글자는 영어)
+    # Figures: drawn with <l> labels by 유란시아 작업\newcomer_figs_am (render.py <l>: the English figure scripts run unchanged
+    #   with a translation layer, strings\<l>.json) -> out_<l>\wNN-k.png; converted here exactly as the English builder does.
+    from PIL import Image
     miss, nfig = [], 0
     for p in sorted(set(E["FIGS"])):
-        fn = os.path.basename(p).replace(".png", ".webp"); s = os.path.join(EN_FIG, fn)
-        if os.path.exists(s): shutil.copy2(s, os.path.join(OUT, "fig", fn)); nfig += 1
-        else: miss.append(fn)
-    if miss: print("  WARN figures missing in the English edition:", miss)
+        fn = os.path.basename(p); s = os.path.join(AM_FIG.format(l=l), fn)
+        if not os.path.exists(s): miss.append(fn); continue
+        im = Image.open(s).convert("RGB")
+        if im.width > 1600: im = im.resize((1600, round(im.height * 1600 / im.width)), Image.LANCZOS)
+        im.save(os.path.join(OUT, "fig", fn.replace(".png", ".webp")), "WEBP", quality=85, method=6); nfig += 1
+    if miss: raise SystemExit(f"  figures missing in newcomer_figs_am/out_{l} (run render.py {l}): {miss}")
     nq = sum(1 for w in weeks for x in w["lines"] if x.startswith(">"))
     print(f"[{l}{' DRAFT' if DRAFT else ''}] pages: {len(pages)} (12 weeks + afterword + reading + words + index), figures: {nfig}, "
           f"block quotations in weeks: {nq}, Hangul: {bad or 'none'}, English links: {enlink or 'none'} → {OUT}")

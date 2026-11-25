@@ -47,7 +47,20 @@
   "st_on": "Va al día con el plan.",
   "day1": "{n} día",
   "days": "{n} días",
-  "today_graph": "hoy"
+  "today_graph": "hoy",
+  "paper": "Documento",
+  "hint": "Toque el título de un documento o de una sección (📖) para abrir el texto y márquelo como leído allí mismo. El botón ▸ despliega la lista de secciones.",
+  "close": "✕ Lista",
+  "mark": "Marcar como leído",
+  "marked": "✓ Leído",
+  "readOn": "Leído el {d} · toque de nuevo para deshacer",
+  "unread": "Toque aquí cuando haya terminado esta sección",
+  "allMark": "✓ Marcar todo el documento como leído",
+  "prevP": "◀ Anterior",
+  "nextP": "Siguiente ▶",
+  "loading": "Cargando el texto…",
+  "fail": "No se pudo cargar el texto. Vuelva a intentarlo en un momento.",
+  "unmarkQ": "¿Quitar esta marca?"
  },
  "diary": {
   "title": "📔 Diario de El libro de Urantia",

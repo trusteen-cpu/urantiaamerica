@@ -49,6 +49,38 @@ textarea{width:100%;min-height:76px;border:1px solid var(--line);border-radius:8
 .status{font-size:14.5px;margin-top:6px}
 .tools{display:flex;gap:8px;flex-wrap:wrap}
 @media(max-width:640px){.cards{grid-template-columns:repeat(2,1fr)}.ph .bar{width:50px}.ph .when{display:none}}
+
+.ph .tt,.sec .st{cursor:pointer}
+.ph .tt span,.sec .st span{border-bottom:1px dotted #9fb0c8}
+.ph .tt:hover span,.sec .st:hover span{color:var(--navy);border-bottom-color:var(--navy)}
+.ph .tt span::after,.sec .st span::after{content:"\00a0📖";font-size:.8em;opacity:.55}
+.ph .tog{flex:none;width:26px;height:26px;border:none;background:none;color:var(--dim);cursor:pointer;font-size:13px;transition:transform .15s}
+.paper.open .ph .tog{transform:rotate(90deg)}
+.hint{font-size:13px;color:var(--dim);margin:0 2px 8px}
+
+#rd{position:fixed;inset:0;z-index:50;display:none}
+#rd.on{display:block}
+#rd .shade{position:absolute;inset:0;background:rgba(13,23,48,.35)}
+#rd .pane{position:absolute;top:0;right:0;bottom:0;width:min(760px,62vw);background:#fffdf8;display:flex;flex-direction:column;box-shadow:-8px 0 28px rgba(0,0,0,.18)}
+#rd .rh{flex:none;display:flex;align-items:center;gap:8px;padding:10px 12px;padding-top:calc(env(safe-area-inset-top,0px) + 10px);background:var(--navy);color:#fff;padding-right:165px}
+#rd .rh b{flex:1;min-width:0;font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#rd .rh button{border:1px solid rgba(255,255,255,.45);background:transparent;color:#fff;border-radius:999px;padding:4px 10px;cursor:pointer;font-size:13.5px;flex:none}
+#rd .rb{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:18px 22px 40px;font-size:var(--fs,17px);line-height:1.85}
+#rd .rb h2{font-size:1.3em;color:var(--navy);margin:4px 0 4px;line-height:1.4}
+#rd .rb .ptop{color:var(--dim);font-size:13px;margin-bottom:6px}
+#rd .rs{scroll-margin-top:8px;margin-top:22px}
+#rd .rs h3{font-size:1.05em;color:var(--c,var(--navy));margin:0 0 8px;padding-top:12px;border-top:1px solid var(--line)}
+#rd .rs p{margin:0 0 .9em;text-align:justify}
+#rd .rs p sup{color:#a59a84;font-size:.62em;margin-right:4px;font-family:system-ui,sans-serif}
+#rd .mk{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:4px 0 6px;padding:10px 12px;background:#f3f1ea;border-radius:10px;font-size:14.5px;line-height:1.4}
+#rd .mk button{border:1px solid var(--navy);background:#fff;color:var(--navy);border-radius:999px;padding:7px 16px;cursor:pointer;font-weight:600;font-size:14.5px}
+#rd .mk.done{background:#e6f2ea}#rd .mk.done button{background:var(--ok);border-color:var(--ok);color:#fff}
+#rd .mk small{color:var(--dim)}
+#rd .rf{display:flex;gap:8px;flex-wrap:wrap;justify-content:space-between;margin-top:26px;padding-top:14px;border-top:2px solid var(--line)}
+#rd .rf .all{background:var(--navy);border-color:var(--navy);color:#fff}
+#rd .msg{color:var(--dim);padding:30px 0;text-align:center}
+@media(max-width:760px){#rd .pane{width:100%;box-shadow:none}#rd .rh{padding-right:160px}#rd .rh b{visibility:hidden}#rd .rb{padding:14px 16px 40px}#rd .rs p{text-align:left}}
+body.rd-open{overflow:hidden}
 </style>
 <script src="/home-button.js" defer></script>
 </head>
@@ -70,6 +102,7 @@ textarea{width:100%;min-height:76px;border:1px solid var(--line);border-radius:8
     </div>
   </div>
   <div class="parts" id="parts"></div>
+  <p class="hint" id="t_hint"></p>
   <div id="list"></div>
   <div class="box" style="margin-top:16px">
     <h3 id="t_graph" style="margin:0 0 8px;font-size:16px"></h3>
@@ -84,12 +117,18 @@ textarea{width:100%;min-height:76px;border:1px solid var(--line);border-radius:8
     <small id="t_store" style="color:var(--dim);flex-basis:100%"></small>
   </div>
 </div>
+<div id="rd" aria-hidden="true"><div class="shade"></div>
+  <div class="pane" role="dialog" aria-modal="true" aria-labelledby="rdTitle">
+    <div class="rh"><button id="rdClose"></button><b id="rdTitle"></b><button id="fsDown" title="A-">A-</button><button id="fsUp" title="A+">A+</button></div>
+    <div class="rb" id="rdBody"></div>
+  </div></div>
 <script>
 
 var LANG = 'es';
-var T = {title:"Lectura de El libro de Urantia en un año", sub:"Desde el Prólogo hasta el Documento 196, en orden — marque lo que ha leído y se registrará la fecha", start:"Fecha de inicio", goal:"Meta", g260:"1 año · 5 días por semana (260 días)", g365:"1 año · todos los días (365 días)", g182:"6 meses (182 días)", next:"Ir a la siguiente lectura ▶", c1:"Completado", c2:"Secciones leídas", c4:"Días restantes", ahead:"Adelantado al plan", behind:"Atrasado respecto al plan", onpace:"Al día con el plan", notyet:"Sin comenzar", fore:"Prólogo", parts:["Prólogo", "Parte I", "Parte II", "Parte III", "Parte IV"], intro:"Introducción", quotes:"Pasajes memorables", qph:"Escriba el pasaje", add:"Añadir", memo:"Notas", mph:"Escriba sus reflexiones sobre este documento", saved:"Guardado", dbtn:"📔 Diario de El libro de Urantia", graph:"Progreso", l1:"Mi progreso", l2:"Meta (plan)", export:"Exportar (guardar en un archivo)", import:"Importar", reset:"Borrar todo", store:"Su registro se guarda en este navegador, en este dispositivo. Expórtelo a un archivo de vez en cuando para trasladarlo o conservarlo a salvo.", resetQ:"¿Borrar todas las marcas, pasajes y notas? Esta acción no se puede deshacer.", editDate:"Fecha de lectura (p. ej., 2026-10-30). Déjela vacía para desmarcar.", today_graph:"hoy",
+var T = {title:"Lectura de El libro de Urantia en un año", sub:"Desde el Prólogo hasta el Documento 196, en orden — marque lo que ha leído y se registrará la fecha", start:"Fecha de inicio", goal:"Meta", g260:"1 año · 5 días por semana (260 días)", g365:"1 año · todos los días (365 días)", g182:"6 meses (182 días)", next:"Ir a la siguiente lectura ▶", c1:"Completado", c2:"Secciones leídas", c4:"Días restantes", ahead:"Adelantado al plan", behind:"Atrasado respecto al plan", onpace:"Al día con el plan", notyet:"Sin comenzar", fore:"Prólogo", parts:["Prólogo", "Parte I", "Parte II", "Parte III", "Parte IV"], intro:"Introducción", quotes:"Pasajes memorables", qph:"Escriba el pasaje", add:"Añadir", memo:"Notas", mph:"Escriba sus reflexiones sobre este documento", saved:"Guardado", dbtn:"📔 Diario de El libro de Urantia", graph:"Progreso", l1:"Mi progreso", l2:"Meta (plan)", export:"Exportar (guardar en un archivo)", import:"Importar", reset:"Borrar todo", store:"Su registro se guarda en este navegador, en este dispositivo. Expórtelo a un archivo de vez en cuando para trasladarlo o conservarlo a salvo.", resetQ:"¿Borrar todas las marcas, pasajes y notas? Esta acción no se puede deshacer.", editDate:"Fecha de lectura (p. ej., 2026-10-30). Déjela vacía para desmarcar.", today_graph:"hoy", paper:"Documento", hint:"Toque el título de un documento o de una sección (📖) para abrir el texto y márquelo como leído allí mismo. El botón ▸ despliega la lista de secciones.", close:"✕ Lista", mark:"Marcar como leído", marked:"✓ Leído", unread:"Toque aquí cuando haya terminado esta sección", allMark:"✓ Marcar todo el documento como leído", prevP:"◀ Anterior", nextP:"Siguiente ▶", loading:"Cargando el texto…", fail:"No se pudo cargar el texto. Vuelva a intentarlo en un momento.", unmarkQ:"¿Quitar esta marca?",
   st:function(d,p){ return d>0 ? (d===1?"Va {d} día adelantado respecto al plan.":"Va {d} días adelantado respecto al plan.").replace('{d}',d) : d<0 ? (d===-1?"Va {d} día atrasado. Si lee hoy hasta el {p}%, se pondrá al día.":"Va {d} días atrasado. Si lee hoy hasta el {p}%, se pondrá al día.").replace('{d}',-d).replace('{p}',p) : "Va al día con el plan."; },
-  days:function(n){ return (n===1?"{n} día":"{n} días").replace('{n}',n); }, secs:function(a,b){ return a+' / '+b; }};
+  days:function(n){ return (n===1?"{n} día":"{n} días").replace('{n}',n); }, secs:function(a,b){ return a+' / '+b; },
+  readOn:function(d){ return "Leído el {d} · toque de nuevo para deshacer".replace('{d}',d); }};
 document.documentElement.lang = LANG; document.title = T.title;
 var PART_OF = function(n){ return n===0?0 : n<=31?1 : n<=56?2 : n<=119?3 : 4; };
 var PART_COL = ['var(--p0)','var(--p1)','var(--p2)','var(--p3)','var(--p4)'];
@@ -121,8 +160,8 @@ function render(){
     var n = p[0], part = PART_OF(n), col = PART_COL[part];
     if (part !== lastPart) { html += '<div id="part' + part + '"></div>'; lastPart = part; }
     html += '<div class="paper" id="p' + n + '" style="--c:' + col + '"><div class="ph" data-n="' + n + '">' +
-      '<input type="checkbox" class="pchk" data-n="' + n + '"><span class="no">' + (n ? n + '' : '·') + '</span>' +
-      '<span class="tt">' + esc(n ? p[1] : T.fore) + '</span><span class="bar"><i></i></span><span class="cnt"></span><span class="when"></span></div>' +
+      '<button class="tog" aria-label="▸">▸</button><input type="checkbox" class="pchk" data-n="' + n + '"><span class="no">' + (n ? n + '' : '·') + '</span>' +
+      '<span class="tt" data-open="' + n + '"><span>' + esc(n ? p[1] : T.fore) + '</span></span><span class="bar"><i></i></span><span class="cnt"></span><span class="when"></span></div>' +
       '<div class="pb"></div></div>';
   });
   document.getElementById('list').innerHTML = html;
@@ -142,7 +181,7 @@ function fillBody(n){
   var rows = p[2].map(function(s){
     var k = n + ':' + s[0], d = S.done[k] || '';
     return '<div class="sec"><input type="checkbox" class="schk" data-k="' + k + '"' + (d ? ' checked' : '') + '>' +
-      '<span class="n">' + (s[0] ? n + ':' + s[0] : '') + '</span><span class="st">' + esc(s[1] || T.intro) + '</span>' +
+      '<span class="n">' + (s[0] ? n + ':' + s[0] : '') + '</span><span class="st" data-open="' + n + '" data-s="' + s[0] + '"><span>' + esc(s[1] || T.intro) + '</span></span>' +
       '<button class="d" data-k="' + k + '" title="' + esc(T.editDate) + '">' + fmt(d) + '</button></div>';
   }).join('');
   var opts = p[2].map(function(s){ return '<option value="' + n + ':' + s[0] + '">' + n + ':' + s[0] + '</option>'; }).join('');
@@ -208,7 +247,8 @@ function setDone(k, d){ if (d) S.done[k] = d; else delete S.done[k];
   save(); }
 
 document.getElementById('list').addEventListener('click', function(e){
-  var t = e.target;
+  var t = e.target, op = t.closest('[data-open]');
+  if (op) { openReader(+op.dataset.open, op.dataset.s === undefined ? null : +op.dataset.s); return; }
   if (t.classList.contains('pchk')) {
     var n = +t.dataset.n, all = t.checked, d = today();
     PLAN.byNo[n][2].forEach(function(s){ var k = n + ':' + s[0]; if (all) { if (!S.done[k]) setDone(k, d); } else setDone(k, ''); });
@@ -236,7 +276,7 @@ document.getElementById('goal').onchange = function(){ S.goal = this.value; save
 document.getElementById('nextBtn').onclick = function(){
   for (var i = 0; i < PLAN.length; i++) { var p = PLAN[i]; for (var j = 0; j < p[2].length; j++) if (!S.done[p[0] + ':' + p[2][j][0]]) {
     var el = document.getElementById('p' + p[0]); if (!el.classList.contains('open')) { el.classList.add('open'); fillBody(p[0]); }
-    el.scrollIntoView({behavior: 'smooth'}); return; } }
+    el.scrollIntoView({behavior: 'smooth'}); openReader(p[0], p[2][j][0]); return; } }
 };
 document.getElementById('exportBtn').onclick = function(){
   var a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([JSON.stringify(S, null, 1)], {type: 'application/json'}));
@@ -248,9 +288,72 @@ document.getElementById('importFile').onchange = function(){
 };
 document.getElementById('resetBtn').onclick = function(){ if (!confirm(T.resetQ)) return; S = {}; save(); load(); init2(); };
 
+
+var RD = {n: null, cache: {}, el: document.getElementById('rd'), body: document.getElementById('rdBody')};
+function loadPaper(n){
+  if (RD.cache[n]) return Promise.resolve(RD.cache[n]);
+  var group = function(pairs){ var g = {}; pairs.forEach(function(x){ var sn = +x[0].split(':')[1].split('.')[0]; (g[sn] = g[sn] || []).push(x); }); return g; };
+  if (LANG === 'ko') return fetch('/sermon/text/p' + n + '.json').then(function(r){ if (!r.ok) throw 0; return r.json(); })
+    .then(function(d){ return RD.cache[n] = group(Object.keys(d).map(function(k){ return [k, d[k]]; })); });
+  return new Promise(function(ok, no){
+    window.UB_P = function(pn, obj){ var pairs = []; obj.s.forEach(function(sec){ sec.v.forEach(function(v){ pairs.push([v[0], v[2]]); }); }); RD.cache[pn] = group(pairs); };
+    var sc = document.createElement('script'); sc.src = '/es/bilingual/data/p' + ('00' + n).slice(-3) + '.js';
+    sc.onload = function(){ sc.remove(); RD.cache[n] ? ok(RD.cache[n]) : no(); }; sc.onerror = function(){ sc.remove(); no(); };
+    document.head.appendChild(sc);
+  });
+}
+function markHtml(k){ var d = S.done[k];
+  return '<div class="mk' + (d ? ' done' : '') + '" data-mk="' + k + '"><button data-k="' + k + '">' + (d ? T.marked : T.mark) + '</button><small>' + (d ? T.readOn(d) : T.unread) + '</small></div>'; }
+function openReader(n, sec){
+  var p = PLAN.byNo[n]; if (!p) return;
+  RD.n = n; RD.el.style.setProperty('--c', PART_COL[PART_OF(n)]);
+  document.getElementById('rdTitle').textContent = n ? T.paper + ' ' + n + ' · ' + p[1] : T.fore;
+  RD.body.innerHTML = '<div class="msg">' + T.loading + '</div>';
+  if (!RD.el.classList.contains('on')) { RD.el.classList.add('on'); RD.el.setAttribute('aria-hidden', 'false'); document.body.classList.add('rd-open');
+    try { history.pushState({rd: 1}, ''); } catch(e) {} }
+  loadPaper(n).then(function(g){
+    if (RD.n !== n) return;
+    var h = '<div class="ptop">' + T.parts[PART_OF(n)] + '</div><h2>' + esc(n ? T.paper + ' ' + n + ': ' + p[1] : T.fore) + '</h2>';
+    p[2].forEach(function(s){
+      var paras = g[s[0]] || [];
+      h += '<section class="rs" id="rs' + s[0] + '"><h3>' + esc(s[1] || T.intro) + '</h3>' +
+        paras.map(function(x){ return '<p><sup>' + x[0] + '</sup>' + esc(x[1]) + '</p>'; }).join('') + markHtml(n + ':' + s[0]) + '</section>';
+    });
+    var i = PLAN.indexOf(p), pv = PLAN[i - 1], nx = PLAN[i + 1];
+    h += '<div class="rf">' + (pv ? '<button class="btn" data-go="' + pv[0] + '">' + T.prevP + '</button>' : '<span></span>') +
+      '<button class="btn all" data-all="' + n + '">' + T.allMark + '</button>' +
+      (nx ? '<button class="btn" data-go="' + nx[0] + '">' + T.nextP + '</button>' : '<span></span>') + '</div>';
+    RD.body.innerHTML = h;
+    var target = sec === null ? null : document.getElementById('rs' + sec);
+    if (target && sec !== p[2][0][0]) target.scrollIntoView(); else RD.body.scrollTop = 0;
+  }, function(){ if (RD.n === n) RD.body.innerHTML = '<div class="msg">' + T.fail + '</div>'; });
+}
+function hideReader(){ RD.el.classList.remove('on'); RD.el.setAttribute('aria-hidden', 'true'); document.body.classList.remove('rd-open'); RD.n = null; }
+function closeReader(){ if (history.state && history.state.rd) history.back(); else hideReader(); }
+window.addEventListener('popstate', function(){ if (RD.el.classList.contains('on')) hideReader(); });
+document.addEventListener('keydown', function(e){ if (e.key === 'Escape' && RD.el.classList.contains('on')) closeReader(); });
+document.getElementById('rdClose').onclick = closeReader;
+RD.el.querySelector('.shade').onclick = closeReader;
+RD.body.addEventListener('click', function(e){
+  var b = e.target.closest('button'); if (!b) return;
+  var n = RD.n;
+  if (b.dataset.k) { var k = b.dataset.k;
+    if (S.done[k] && !confirm(T.readOn(S.done[k]).split(' · ')[0] + ' — ' + T.unmarkQ)) return;
+    setDone(k, S.done[k] ? '' : today()); b.closest('.mk').outerHTML = markHtml(k); paintPaper(n); stats(); return; }
+  if (b.dataset.all !== undefined) { var d = today();
+    PLAN.byNo[n][2].forEach(function(s){ var k2 = n + ':' + s[0]; if (!S.done[k2]) setDone(k2, d); var m = RD.body.querySelector('[data-mk="' + k2 + '"]'); if (m) m.outerHTML = markHtml(k2); });
+    paintPaper(n); stats(); return; }
+  if (b.dataset.go !== undefined) openReader(+b.dataset.go, null);
+});
+var FS_KEY = 'ub-reading-fs';
+function setFs(v){ v = Math.max(14, Math.min(26, v)); RD.el.style.setProperty('--fs', v + 'px'); try { localStorage.setItem(FS_KEY, v); } catch(e) {} return v; }
+var FS = setFs(+(function(){ try { return localStorage.getItem(FS_KEY); } catch(e) { return 0; } })() || 17);
+document.getElementById('fsDown').onclick = function(){ FS = setFs(FS - 1); };
+document.getElementById('fsUp').onclick = function(){ FS = setFs(FS + 1); };
+
 function texts(){
   var set = function(id, v){ document.getElementById(id).textContent = v; };
-  set('t_title', T.title); set('t_sub', T.sub); set('t_start', T.start); set('t_goal', T.goal); set('nextBtn', T.next);
+  set('t_title', T.title); set('t_hint', T.hint); set('rdClose', T.close); set('fsDown', 'A-'); set('fsUp', 'A+'); set('t_sub', T.sub); set('t_start', T.start); set('t_goal', T.goal); set('nextBtn', T.next);
   set('t_c1', T.c1); set('t_c2', T.c2); set('t_c4', T.c4); set('t_graph', T.graph); set('t_l1', T.l1); set('t_l2', T.l2);
   set('exportBtn', T.export); set('t_import', T.import); set('resetBtn', T.reset); set('t_store', T.store);
   var o = document.getElementById('goal').options; o[0].text = T.g260; o[1].text = T.g365; o[2].text = T.g182;
