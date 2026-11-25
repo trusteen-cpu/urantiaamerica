@@ -64,3 +64,4 @@
 - [pt official text] 159:4.3 "visâo"; 160:3.1 "enchendo — se"; 157:4.5 "temporais — ,".
 - [pt official text] 193:1.1 "vinte e cinco" vs English seventy-five (book follows 75).
 - [pt official text] 186:0.1 "João, podes fazer mais por mim" (missing "não", meaning reversed).
+- [pt official text] 187:5.1 "três soldados romanos" — es/fr have thirteen; pt official error. Book uses "treze".
