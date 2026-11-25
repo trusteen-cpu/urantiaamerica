@@ -222,7 +222,11 @@ class Book:
         for f in ik["keys"]:
             if f in ("title", "sub", "kick", "one"): I[f] = V("intro." + f)
             elif f == ik.get("alt"): I[f] = V("intro.alt")
-            elif f in ("cover", "hero"): I[f] = img + ik["img"][1]
+            elif f in ("cover", "hero"):
+                # a cover in this language (make_cover_web.py) replaces the Korean one
+                nm = ik["img"][1]; ln = nm.replace(".jpg", f"_{l}.jpg")
+                has = os.path.exists(os.path.join(site, "books-img", self.folder, ln))
+                I[f] = img + (ln if f == "cover" and has else nm)
             elif f == "meta": I[f] = [V(f"intro.meta{i + 1}") for i in range(ik["meta"])]
             elif f == "about": I[f] = [V(f"intro.about{i + 1}") for i in range(ik["about"])]
             elif f == "lists": I[f] = [[V(f"intro.list{i + 1}.title"), [V(f"intro.list{i + 1}.{j + 1}") for j in range(n)]]
