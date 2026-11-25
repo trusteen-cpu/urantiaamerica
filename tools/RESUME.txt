@@ -50,3 +50,17 @@
 # es 공식은 'Jacobo Alfeo'(쌍둥이). jesus·easy·commentary es 에 'Santiago Alfeo' 남은 곳 고칠 것
 # apostles 08 b054: 영문 소설은 '예수가 제자들에게 말함', 책 150:9.4 는 제자들이 말함 — 저자 확인
 - [author check] apostles ch.20 b052: book puts Andrew at Nicodemus's house; 183:4.3 lists Andrew among those hidden in Jerusalem.
+- [author check] jesus book ch10.b020 cites 128:1.15 for "My hour has not yet come" in the Alexandria-delegation scene; that scene is 128:5.4.
+- [pt official text] 132:4.6 "Escolha" (→ Escolhe?), 130:6.3 "Fiques de pé" (→ Fica?), 132:5.18 stray period — kept verbatim in quotes.
+- [pt official text] 134:8.5 "mais de seis meses" vs English "more than five weeks"; 134:2.1 Pérsia vs Parthia; 120:3.9 capacitarte-á (hyphen).
+- [pt official text] 142:4.2 stray comma "homem,?"; 140:3.2 "encorajado-os" (→ encorajando-os); 135:7.2 person switch "vos batizo … batizá-los".
+- [pt official text] 152:4.2 "não tenha medo" (tu/você mix); 153:5.4 "Eu não os desertei" (→ vos).
+- [pt official text] 146:3.1 "o porque"; 147:1.3 "não nos de Israel"; 145:3.9 stray “.
+- [pt official text] 151:1.4 missing period before "Por isso"; 151:2.3 stray period "caídas. à beira"; 150:1.1 "nunca havia ocorreu".
+- [author check] jesus book ch30.b024 cites 150:1.3 for sermon title "The Sons and Daughters of God" (title is in 150:8.10).
+- [pt official text] 174:4.6 "chama a si próprio de Senhor" (English: calls him Lord).
+- [pt official text] 184:3.8 "repondes"; 182:2.5 "ao seu lado" (→ teu).
+- [pt official text] 178:3.2 "inicada".
+- [pt official text] 159:4.3 "visâo"; 160:3.1 "enchendo — se"; 157:4.5 "temporais — ,".
+- [pt official text] 193:1.1 "vinte e cinco" vs English seventy-five (book follows 75).
+- [pt official text] 186:0.1 "João, podes fazer mais por mim" (missing "não", meaning reversed).

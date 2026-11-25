@@ -55,7 +55,7 @@ iframe { flex:1; width:100%; border:0; background:#fff; }
     <a href="/pt/jesus/ages/" data-id="ages"><span class="n">3</span><span>Cronologia de Jesus (por idade)</span></a>
     <a href="/pt/jesus/acts/" data-id="acts"><span class="n">4</span><span>Os atos de Jesus em O Livro de Urântia</span></a>
     <a href="/pt/jesus/teachings/" data-id="teachings"><span class="n">5</span><span>Os ensinamentos de Jesus</span></a>
-    <a href="https://fareast.urantiareaders.com/en/jesus-book/" data-id="life"><span class="n">6</span><span>A vida e os ensinamentos de Jesus (em inglês)</span></a>
+    <a href="/pt/jesus-book/" data-id="life"><span class="n">6</span><span>A vida e os ensinamentos de Jesus</span></a>
     <a href="https://fareast.urantiareaders.com/en/apostles-book/" data-id="apostles"><span class="n">7</span><span>Os doze apóstolos de Jesus (em inglês)</span></a>
   </nav>
 </aside>
@@ -64,7 +64,7 @@ iframe { flex:1; width:100%; border:0; background:#fff; }
   <iframe id="view" title="Estudo sobre Jesus"></iframe>
 </main>
 <script>
-var ITEMS = [{"id": "discourses", "name": "Os discursos de Jesus", "url": "/pt/jesus/discourses/"}, {"id": "chronology", "name": "Cronologia de Jesus (por ano)", "url": "/pt/jesus/chronology/"}, {"id": "ages", "name": "Cronologia de Jesus (por idade)", "url": "/pt/jesus/ages/"}, {"id": "acts", "name": "Os atos de Jesus em O Livro de Urântia", "url": "/pt/jesus/acts/"}, {"id": "teachings", "name": "Os ensinamentos de Jesus", "url": "/pt/jesus/teachings/"}, {"id": "life", "name": "A vida e os ensinamentos de Jesus (em inglês)", "url": "https://fareast.urantiareaders.com/en/jesus-book/"}, {"id": "apostles", "name": "Os doze apóstolos de Jesus (em inglês)", "url": "https://fareast.urantiareaders.com/en/apostles-book/"}];
+var ITEMS = [{"id": "discourses", "name": "Os discursos de Jesus", "url": "/pt/jesus/discourses/"}, {"id": "chronology", "name": "Cronologia de Jesus (por ano)", "url": "/pt/jesus/chronology/"}, {"id": "ages", "name": "Cronologia de Jesus (por idade)", "url": "/pt/jesus/ages/"}, {"id": "acts", "name": "Os atos de Jesus em O Livro de Urântia", "url": "/pt/jesus/acts/"}, {"id": "teachings", "name": "Os ensinamentos de Jesus", "url": "/pt/jesus/teachings/"}, {"id": "life", "name": "A vida e os ensinamentos de Jesus", "url": "/pt/jesus-book/"}, {"id": "apostles", "name": "Os doze apóstolos de Jesus (em inglês)", "url": "https://fareast.urantiareaders.com/en/apostles-book/"}];
 var side = document.getElementById("side"), btn = document.getElementById("menuBtn");
 function show(id, push) {
   var it = ITEMS.filter(function (x) { return x.id === id; })[0] || ITEMS[0];
