@@ -5,7 +5,7 @@
 #   표시:      ⟦P k⟧ → tools/data/<l>.json[k] 통째로(빌더가 채움) ;  ⟦Q k⟧공식 번역 인용⟦/Q⟧ → amq.check 로 글자 그대로인지 검사
 #   화면:      극동판 영어 화면 site/en/qna/index.html (읽기만) 의 글자를 ui.* 로 바꾼다.
 #   검사(하나라도 걸리면 아무것도 쓰지 않음): 키·구조, 문단 수, 절 번호 참조, ⟦P⟧ 그대로, ⟦Q⟧ 순서·글자 그대로, 한글 없음,
-#        영어가 남은 듯한 글(영어 기능어 비율), 자리표시 {n} 등, 질문 수·순서 = 영어 120
+#        영어가 남은 듯한 글(영어 기능어 비율), 자리표시 {n} 등, 질문 수·순서 = 영어판과 같음
 #   python build_qna_am.py es [fr pt] [--chunk c03] [--report 100]
 import json, os, re, sys
 
@@ -113,7 +113,7 @@ def build(l):
         q = u["question"].strip()
         out.append({"id": x["id"], "number": x["number"], "title": UI["title_form"].replace("{n}", str(n)).replace("{question}", q),
                     "question": q, "answer": render(u["answer"]), "date": x["date"]})
-    assert len(out) == len(EN_DATA) == 120 and [d["number"] for d in out] == [d["number"] for d in EN_DATA]
+    assert len(out) == len(EN_DATA) == len([k for k in U if k.startswith("q")]) and [d["number"] for d in out] == [d["number"] for d in EN_DATA]
     for d, x in zip(out, EN_DATA):
         assert len(d["answer"].split("\n\n")) == len(x["answer"].split("\n\n")), d["number"]
 
